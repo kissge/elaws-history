@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="502M60000800079" AmendmentNum="令和二年国土交通省令第七十九号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="066" Year="28">
+  <LawNum>平成二十八年国土交通省令第六十六号</LawNum>
+  <LawBody>
+    <LawTitle>被災地域境界基本調査作業規程準則</LawTitle>
+    <EnactStatement>国土調査法（昭和二十六年法律第百八十号）第三条第二項の規定に基づき、被災地域境界基本調査作業規程準則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　計画</ChapterTitle>
+        <ArticleRange>（第九条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　被災地域境界基本測量</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <ArticleRange>（第十二条―第十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　被災地域境界基本三角測量</SectionTitle>
+          <ArticleRange>（第十七条―第二十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　被災地域境界基本細部点計算</SectionTitle>
+          <ArticleRange>（第二十二条―第二十四条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　被災地域境界基本調査図及び被災地域境界基本調査簿の作成</ChapterTitle>
+        <ArticleRange>（第二十七条―第二十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土調査法施行規則（平成二十二年国土交通省令第五十号）第一条第二号に規定する被災地域境界基本調査（以下「被災地域境界基本調査」という。）に関する作業規程の準則は、この省令の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">座標値</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">国土調査法施行令（昭和二十七年政令第五十九号。以下「令」という。）別表第一に掲げる平面直角座標系（以下「座標系」という。）による平面直角座標値をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">被災地域境界基本細部点</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">地盤の変動の状況を把握するために設置する基準点のうち、令別表第三に掲げる地籍基本細部点をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">被災地域境界基本細部点計算</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">被災地域境界基本細部点における地盤の変動の計算をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">被災地域境界基本三角点</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">被災地域境界基本細部点計算の基礎とするために設置する基準点のうち、令別表第三に掲げる地籍基本三角点をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">被災地域境界基本三角測量</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">被災地域境界基本三角点の測量をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（趣旨の普及）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">被災地域境界基本調査を行う者は、あらかじめ被災地域境界基本調査の意義及び作業の内容を一般に周知し、その実施について地域住民その他の者の協力を得るように努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（被災地域境界基本調査の作業）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">被災地域境界基本調査の作業は、次に掲げるとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本三角測量</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本細部点計算</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本調査図及び被災地域境界基本調査簿の作成</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption>（計量単位）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前条第一号に規定する測量及び同条第二号に規定する計算（以下「被災地域境界基本測量」という。）における計量単位は、計量法（平成四年法律第五十一号）第八条第一項に規定する法定計量単位（同法附則第三条及び第四条の規定により法定計量単位とみなされる計量単位を含む。）によるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（管理及び検査）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">被災地域境界基本調査を行う者又は被災地域境界基本調査の成果について認証を行う者は、被災地域境界基本調査が令別表第三に定める誤差の限度内の精度を保ち、かつ、被災地域境界基本調査に関する記録の記載又は表示に誤りがないように管理し、及び検査を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（記録等の保管）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">被災地域境界基本調査を行う者は、被災地域境界基本調査に関する資料及び測量記録その他の記録を保管しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（省令に定めのない方法）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">被災地域境界基本調査を行う者は、地盤の変動の状況等によりこの省令に定める方法によりがたい場合には、国土交通大臣の承認を受けて、この省令に定めのない方法により被災地域境界基本調査を実施することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　計画</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（作業計画）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">被災地域境界基本調査の作業計画は、被災地域境界基本測量並びに被災地域境界基本調査図及び被災地域境界基本調査簿の作成の各作業別に定めるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、各作業間の相互の関連及び進度を考慮して作成するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　被災地域境界基本測量</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（被災地域境界基本測量の方式）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本測量は、地上測量による数値法によって行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（測量の基礎とする点）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本測量は、基本三角点（測量法（昭和二十四年法律第百八十八号）第二章の規定による基本測量の成果である三角点及び電子基準点をいう。以下同じ。）若しくは基本水準点（同法第二章の規定による基本測量の成果である水準点をいう。）若しくは国土調査法（昭和二十六年法律第百八十号。以下「法」という。）第十九条第二項の規定により認証され、若しくは同条第五項の規定により指定された基準点又はこれらと同等以上の精度を有する基準点（以下「基準点等」という。）を基礎として行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（位置及び方向角の表示の方法）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本測量における地点の位置は、座標値及び測量法施行令（昭和二十四年政令第三百二十二号）第二条第二項に規定する日本水準原点を基準とする高さ（以下「標高」という。）で表示するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">方向角は、当該地点が属する座標系のＸ軸に平行な当該地点を通る軸の正の方向を基準とし、右回りに測定して表示するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（被災地域境界基本調査図の図郭）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本調査図の図郭は、地図上において座標系原点からＸ軸の方向に二十五センチメートル、Ｙ軸の方向に三十五センチメートルごとに区画して定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（作業の順序）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本測量は、次に掲げる作業の順序に従って行うものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">被災地域境界基本三角測量</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">被災地域境界基本細部点計算</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　被災地域境界基本三角測量</SectionTitle>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（被災地域境界基本三角測量の方法）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">被災地域境界基本三角測量は、多角測量法により行うものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地形の状況等によりやむを得ない場合には、直接水準測量法を併用することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（被災地域境界基本三角点の選定）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本三角点は、調査地域における地形、地物、見通し障害等の状況、基本三角点の配置、地盤の変動の状況等を考慮し、適正な密度をもって配置するように選定するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本三角点は、調査地域に設置されている基準点等の中から選定するものとし、選定に当たっては、基準点等の現況調査を行い、異常の有無を確認するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（多角路線の選定）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">被災地域境界基本三角測量における多角路線の選定に当たっては、基準点等（補助基準点を除く。以下この条において同じ。）又は被災地域境界基本三角点を結合する多角網を形成するように努めなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地形の状況等によりやむを得ない場合には、単路線を形成することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の多角路線は、なるべく短い経路を選定しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の多角路線の次数は、基準点等又は被災地域境界基本三角点を基礎として一次までとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption>（選点図及び平均図）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本三角点及び前条の多角路線の選定の結果は、被災地域境界基本測量選点図及び被災地域境界基本測量平均図に取りまとめるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（観測、測定及び計算）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本三角測量における観測及び測定は、地図及び簿冊に令で定める限度以上の誤差が生じないように行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本三角点の座標値及び標高は、前項の観測及び測定の結果に基づいて求めるものとし、その結果は、被災地域境界基本三角点網図及び被災地域境界基本三角点成果簿に取りまとめるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　被災地域境界基本細部点計算</SectionTitle>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（被災地域境界基本細部点計算の方法）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本細部点計算は、補間法により行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleCaption>（被災地域境界基本細部点の選定）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本細部点は、調査地域に平均的に配置し、その密度は、一平方キロメートルに九点以上を標準とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleCaption>（計算）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本細部点計算は、地図及び簿冊に令で定める限度以上の誤差が生じないように行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">被災地域境界基本細部点における地盤の変動は、被災地域境界基本三角測量又は被災地域境界基本三角測量と同等以上の精度を有する測量の結果に基づいて求めるものとし、その結果は、被災地域境界基本細部点成果簿に取りまとめるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　被災地域境界基本調査図及び被災地域境界基本調査簿の作成</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="27">
+          <ArticleCaption>（被災地域境界基本調査図原図及び被災地域境界基本調査簿案）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">被災地域境界基本測量を終了したときは、被災地域境界基本調査図原図及び被災地域境界基本調査簿案を作成するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の被災地域境界基本調査図原図は、被災地域境界基本三角点網図並びに被災地域境界基本三角点成果簿及び被災地域境界基本細部点成果簿に基づいて作成するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項の被災地域境界基本調査簿案は、被災地域境界基本三角点成果簿及び被災地域境界基本細部点成果簿に基づいて作成するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（被災地域境界基本調査図及び被災地域境界基本調査簿）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条において作成した被災地域境界基本調査図原図及び被災地域境界基本調査簿案について、法第十七条の規定による手続が終了したときは、それぞれを被災地域境界基本調査の成果としての被災地域境界基本調査図及び被災地域境界基本調査簿とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二九日国土交通省令第七九号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

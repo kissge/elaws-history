@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="501M60000010022" AmendmentNum="令和元年法務省令第二十二号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="28" Year="12">
+  <LawNum>平成十二年法務省令第二十八号</LawNum>
+  <LawBody>
+    <LawTitle>電気通信回線による登記情報の提供に関する法律施行規則</LawTitle>
+    <EnactStatement>電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号）第二条第一項、第四条第三項、第五条第二項、第八条及び第十四条の規定に基づき、電気通信回線による登記情報の提供に関する法律施行規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（提供する情報の範囲）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号。以下「法」という。）第二条第一項ただし書の法務省令で定めるものは、次の各号に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">不動産の登記簿に記録されている登記情報のうち、請求に係る情報量が一メガバイトを超えるもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">商業登記簿、法人（株式会社、合名会社、合資会社、合同会社及び外国会社を除く。以下この条において同じ。）の登記簿、投資事業有限責任組合契約登記簿、有限責任事業組合契約登記簿、限定責任信託登記簿又は動産譲渡登記事項概要ファイル若しくは債権譲渡登記事項概要ファイルに記録されている登記情報のうち、請求に係る情報量が三メガバイトを超えるもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">商業登記規則（昭和三十九年法務省令第二十三号）第四十四条第一項（他の省令において準用する場合を含む。）の規定により閉鎖された登記事項についての登記情報。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同規則第十一条第四項、第五十四条第二項、第五十五条第二項、第五十七条第二項、第八十条第二項、第八十一条第一項若しくは第五項、第九十六条第二項又は第百十七条第三項（これらの規定を同規則又は他の省令において準用する場合を含む。）の規定により閉鎖された登記記録に係るものを除く。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">地図、建物所在図、地図に準ずる図面及び不動産登記令（平成十六年政令第三百七十九号）第二十一条第一項に規定する図面が記録されたファイルに記録されている情報のうち、次に掲げるもの</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">請求に係る図面に関する事件の数が九十九を超えるもの</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">請求に係る一事件に関する図面について出力装置の映像面に表示すべき画面の数が五十を超えるもの</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">請求に係る情報量が三メガバイトを超えるもの</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">不動産登記規則（平成十七年法務省令第十八号）第十二条第一項（同条第四項において準用する場合を含む。）、第八十五条第二項又は第八十七条第一項の規定により閉鎖された図面についての情報</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">電気通信回線による登記情報の提供に関する法律施行令（平成十二年政令第百七十七号）第七号及び第八号に掲げる登記簿に記録されている登記情報のうち、日本産業規格Ｘ〇二一三（平成十六年二月二十日において経済産業大臣が公示した産業標準化法（昭和二十四年法律第百八十五号）第十四条の規定に基づく改正後のもの）に適合する登記記録に係るもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第二条第一項第二号の法務省令で定めるものは、次の各号に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">不動産についての登記簿の登記記録に記録されている事項の全部から次に掲げるもののいずれか又は全てを除いたものについての情報</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">共同担保目録の全部又は現在効力を有していないもの</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">信託目録の全部又は現在効力を有していないもの</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">不動産の所有権の登記名義人の氏名又は名称及び住所並びに当該登記名義人が二人以上であるときは当該登記名義人ごとの持分のみについての情報</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">商業登記簿、法人の登記簿、投資事業有限責任組合契約登記簿、有限責任事業組合契約登記簿又は限定責任信託登記簿の登記記録に係る情報量が三メガバイトを超える場合における当該登記記録中次に掲げる区に記録されている事項の全部についての情報</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">商号登記簿、未成年者登記簿、後見人登記簿又は支配人登記簿にあっては、商号区、未成年者区、後見人区又は支配人区</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">商業登記簿（イに掲げる登記簿を除く。）、法人の登記簿、投資事業有限責任組合契約登記簿、有限責任事業組合契約登記簿又は限定責任信託登記簿にあっては、商号区又は名称区及び会社状態区、法人状態区、組合状態区又は信託状態区並びに請求に係るその他の区</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（変更の届出）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定法人は、法第三条第三項の規定による届出をしようとするときは、次に掲げる事項を記載した届出書を法務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更後の名称又は主たる事務所の所在地</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更しようとする年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（手数料の納付方法）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四条第三項の手数料の納付は、納入の告知に従い、毎月二十五日までにその前々月分の手数料の合計額を日本銀行に納付する方法によってしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（業務規程）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五条第二項の法務省令で定める事項は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">登記情報提供業務の実施方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">登記情報提供業務に関する料金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前号の料金の支払方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">情報提供契約の約款</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">登記情報提供業務に関して得られた情報の目的外使用の禁止その他管理に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">登記情報の安全性の確保に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">その他登記情報提供業務に関し必要な事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定法人は、法第五条第一項前段の規定により業務規程の認可を受けようとするときは、その旨を記載した申請書に業務規程を添えて法務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定法人は、法第五条第一項後段の規定により業務規程の変更の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更しようとする事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更しようとする年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（事業計画等）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定法人は、法第六条第一項前段の規定により事業計画及び収支予算の認可を受けようとするときは、その旨を記載した申請書に事業計画書及び収支予算書を添えて法務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定法人は、法第六条第一項後段の規定により事業計画又は収支予算の変更の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更しようとする事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更しようとする年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">変更の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（業務の休廃止）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定法人は、法第七条の許可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">休止し、又は廃止しようとする登記情報提供業務の範囲</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">休止し、又は廃止しようとする年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">休止しようとする場合にあっては、その期間</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">休止又は廃止の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（情報提供契約の締結の拒絶）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八条第一項の法務省令で定める正当な理由は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">情報提供契約の申込者が、業務規程で定める料金の支払方法によって、当該料金を支払うことができないこと、又は当該料金を支払う資力を有することについて合理的な疑いが認められること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">情報提供契約の申込者が法第八条第二項又は次条に規定する正当な理由により情報提供契約を解除され、その解除の日から起算して一年を経過しない者であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">情報提供契約の申込者がその申込みに関し偽りその他不正の行為を行ったこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（情報提供契約の解除）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第八条第二項の法務省令で定める正当な理由は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">情報提供契約を締結した者の契約上の義務違反により契約関係を継続し難い重大な事由があると認められること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">情報提供契約を締結した者が継続して一年間法第四条第一項の委託をしないこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（役員の選任及び解任）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定法人は、法第十条第一項の認可を受けようとするときは、次に掲げる事項を記載した申請書を法務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">選任又は解任に係る役員の氏名及び略歴</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">選任又は解任の年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">選任又は解任の理由</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（身分を示す証明書）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十二条第二項の証明書は、別添様式によるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="415049" AmendLawNum="平成一五年五月三〇日法務省令第四九号" Id="043f8676-18f4-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成十五年六月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416040" AmendLawNum="平成一六年四月二八日法務省令第四〇号" Id="a6f5ce38-1918-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、中小企業等投資事業有限責任組合契約に関する法律の一部を改正する法律の施行の日（平成十六年四月三十日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="416089" AmendLawNum="平成一六年一二月一六日法務省令第八九号" Extract="true" Id="04be6626-18f4-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成十七年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417019" AmendLawNum="平成一七年二月二四日法務省令第一九号" Extract="true" Id="712febf4-1895-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、平成十七年三月七日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417081" AmendLawNum="平成一七年七月二九日法務省令第八一号" Extract="true" Id="a7817dd4-1918-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、有限責任事業組合契約に関する法律（平成十七年法律第四十号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="417099" AmendLawNum="平成一七年九月三〇日法務省令第九九号" Extract="true" Id="053e3950-18f4-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、債権譲渡の対抗要件に関する民法の特例等に関する法律の一部を改正する法律（次条第四項において「改正法」という。）の施行の日（平成十七年十月三日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="418015" AmendLawNum="平成一八年二月九日法務省令第一五号" Extract="true" Id="f18aa144-18eb-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、会社法の施行の日（以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="419014" AmendLawNum="平成一九年三月三〇日法務省令第一四号" Id="53dff746-198b-11e8-ab74-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成十九年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="419057" AmendLawNum="平成一九年九月二八日法務省令第五七号" Extract="true" Id="06116104-18f4-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、信託法の施行の日（平成十九年九月三十日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">不動産登記規則別記第四号様式において定める登記官の身分を証する書面の様式は、この省令の施行の日から起算して一年を経過する日までの間は、なお従前の様式によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定は、電気通信回線による登記情報の提供に関する法律施行規則において定める職員の身分を示す証明書の様式について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="421023" AmendLawNum="平成二一年四月二三日法務省令第二三号" Id="11f34d42-192c-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="424004" AmendLawNum="平成二四年二月六日法務省令第四号" Extract="true" Id="0fac0880-192c-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、平成二十四年二月二十日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawId="425003" AmendLawNum="平成二五年三月二一日法務省令第三号" Id="7ca6ac7a-18c7-11e8-a136-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第五条の規定は、平成二十五年三月二十五日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="427010" AmendLawNum="平成二七年三月二七日法務省令第一〇号" Extract="true" Id="1c241dc8-192c-11e8-a242-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">第一条の規定</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">平成二十七年三月三十日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="429026" AmendLawNum="平成二九年六月二三日法務省令第二六号" Id="b1e0ea4c-199c-11e8-a703-005056b30d52">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成二十九年七月三日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawId="501022" AmendLawNum="令和元年七月一日法務省令第二二号" Id="35dcea9a-9f06-11e9-be38-005056b30d52" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和元年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H12F03201000028_1907221607_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>
