@@ -11,8 +11,14 @@ mkdir -p "$GIT_ROOT" && cd $_
 mkdir -p "$ALL_XML_DIRECTORY_NAME" && cd $_
 unzip "$zip"
 
+# 加工 (1) サブディレクトリ化
+
 ls -d */ | while read -r dir; do
     prefix=${dir:0:3}
     mkdir -p "$prefix"
     mv "$dir" "$prefix"/
 done
+
+# 加工 (2) 文字コード変換
+
+nkf -w --overwrite all_law_list.csv
