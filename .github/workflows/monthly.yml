@@ -1,0 +1,30 @@
+on:
+  workflow_dispatch:
+  schedule:
+    # 3:25 UTC (12:25 JST) on 1st day of every month
+    - cron: '25 3 1 * *'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Info
+        id: get-info
+        run: |
+          set -Eeuo pipefail
+
+          # Get current date
+          echo ::set-output name=name::$(TZ=Asia/Tokyo date +%Y%m%d)
+
+          # Get latest tag (without fetch/clone, thus a bit hacky)
+          echo ::set-output name=tag_name::$(git ls-remote --tags --refs --sort='-version:refname' --exit-code \
+                                                           "${{ github.server_url }}/${{ github.repository }}" \
+                                                           '*T*.*' | \
+                                             sed -ne '1s@.*refs/tags/@@p')
+      - uses: softprops/action-gh-release@v1
+        with:
+          name: ${{ steps.get-info.outputs.name }}
+          tag_name: ${{ steps.get-info.outputs.tag_name }}
+
+permissions:
+  contents: write
