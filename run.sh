@@ -9,6 +9,7 @@ export GIT_ROOT="$WORKDIR"/git_root
 export ALL_XML_DIRECTORY_NAME=all_xml
 export NOW="$WORKDIR"/now
 export HEADERS="$WORKDIR"/headers
+export EH_VERSION=$(git describe)
 
 bash src/cleanup.sh
 bash src/get-files.sh
