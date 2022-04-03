@@ -15,6 +15,6 @@ GLOBIGNORE=".git:$ALL_XML_DIRECTORY_NAME"
 git restore --staged *
 git restore *
 git add .
-git commit -m "Archive: $message"
+git commit --allow-empty -m "Archive: $message"
 git tag -am "$message" "$now"
 git push --follow-tags
