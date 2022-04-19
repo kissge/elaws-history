@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000240001" AmendmentNum="令和元年財務省・農林水産省令第一号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="2" Year="15">
+<Law AmendmentId="501M60000240001" AmendmentNum="令和元年財務省・農林水産省令第一号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="2" Year="15" PromulgateMonth="05" PromulgateDay="27">
   <LawNum>平成十五年財務省・農林水産省令第二号</LawNum>
   <LawBody>
-    <LawTitle>国立研究開発法人農業・食品産業技術総合研究機構の業務運営に関する省令</LawTitle>
+    <LawTitle Kana="こくりつけんきゅうかいはつほうじんのうぎょうしょくひんさんぎょうぎじゅつそうごうけんきゅうきこうのぎょうむうんえいにかんするしょうれい" Abbrev="" AbbrevKana="">国立研究開発法人農業・食品産業技術総合研究機構の業務運営に関する省令</LawTitle>
     <EnactStatement>独立行政法人通則法（平成十一年法律第百三号）第二十八条第二項、第三十条第一項及び第二項第七号、第三十一条第一項、第三十二条第一項、第三十三条並びに第三十四条第一項の規定に基づき、並びに同法を実施するため、独立行政法人農業・生物系特定産業技術研究機構の業務運営に関する省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -146,7 +146,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1">研究機構に係る通則法第三十五条の六第三項の報告書には、当該報告書が次の表の上欄に掲げる報告書のいずれに該当するかに応じ、同表の下欄に掲げる事項を記載しなければならない。</Sentence>
-            <Sentence Num="2">その際、研究機構は、当該報告書が同条第一項の評価の根拠となる情報を提供するために作成されるものであることに留意しつつ、研究機構の事務及び事業の性質、内容等に応じて区分して同欄に掲げる事項を記載するものとする</Sentence>
+            <Sentence Num="2">その際、研究機構は、当該報告書が同条第一項の評価の根拠となる情報を提供するために作成されるものであることに留意しつつ、研究機構の事務及び事業の性質、内容等に応じて区分して同欄に掲げる事項を記載するものとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table WritingMode="vertical">
@@ -291,7 +291,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418002" AmendLawNum="平成一八年三月三一日財務省・農林水産省令第二号" Extract="false" Id="722544ca-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日財務省・農林水産省令第二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -314,7 +314,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="427002" AmendLawNum="平成二七年三月二七日財務省・農林水産省令第二号" Extract="false" Id="72552b36-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年三月二七日財務省・農林水産省令第二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -337,7 +337,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428001" AmendLawNum="平成二八年三月三〇日財務省・農林水産省令第一号" Extract="false" Id="7284caee-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二八年三月三〇日財務省・農林水産省令第一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -360,7 +360,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="429001" AmendLawNum="平成二九年七月二八日第一号" Id="4d6af131-2def-4d79-8970-4ab04c0b828c" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年七月二八日第一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -369,7 +369,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="431001" AmendLawNum="平成三一年一月一七日財務省・農林水産省令第一号" Extract="true" Id="8b7d37c2-1a25-11e9-b247-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三一年一月一七日財務省・農林水産省令第一号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -392,7 +392,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="431002" AmendLawNum="平成三一年三月二九日財務省・農林水産省令第二号" Id="a1829ff0-5781-11e9-8745-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成三一年三月二九日財務省・農林水産省令第二号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -427,7 +427,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501001" AmendLawNum="令和元年五月二七日財務省・農林水産省令第一号" Id="d9e4a334-805d-11e9-b41f-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年五月二七日財務省・農林水産省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

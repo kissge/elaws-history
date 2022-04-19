@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="25" Year="14">
+<Law AmendmentId="501M60000200041" AmendmentNum="令和元年農林水産省令第四十一号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="25" Year="14" PromulgateMonth="11" PromulgateDay="01">
   <LawNum>平成十四年農林水産省令第二十五号</LawNum>
   <LawBody>
-    <LawTitle>厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例一時金等に関する省令</LawTitle>
+    <LawTitle Kana="こうせいねんきんほけんせいどおよびのうりんぎょぎょうだんたいしょくいんきょうさいくみあいせいどのとうごうをはかるためののうりんぎょぎょうだんたいしょくいんきょうさいくみあいほうとうをはいしするとうのほうりつのせこうにともなうそんぞくくみあいがしきゅうするとくれいいちじきんとうにかんするしょうれい" Abbrev="" AbbrevKana="">厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例一時金等に関する省令</LawTitle>
     <EnactStatement>厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律（平成十三年法律第百一号）の施行に伴い、並びに同法及び厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する政令（平成十四年政令第四十五号）の規定に基づき、厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -15,7 +15,7 @@
         <ArticleRange>（第二条・第三条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="3">
-        <ChapterTitle>第三章　特例年金給付、特例一時金及び特例退職共済一時金等の支給</ChapterTitle>
+        <ChapterTitle>第三章　特例一時金の支給</ChapterTitle>
         <TOCSection Delete="false" Num="1">
           <SectionTitle>第一節　通則</SectionTitle>
           <ArticleRange>（第四条―第十一条）</ArticleRange>
@@ -42,7 +42,7 @@
         <ChapterTitle>第一章　定義</ChapterTitle>
         <Article Delete="false" Hide="false" Num="1">
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
@@ -73,10 +73,10 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">存続組合、特例年金給付、特例一時金又は特例業務負担金</Sentence>
+                  <Sentence WritingMode="vertical">存続組合、特例一時金又は特例業務負担金</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">それぞれ平成十三年統合法附則第二十五条第三項、第三十条第一項又は第五十七条第一項に規定する存続組合、特例年金給付、特例一時金又は特例業務負担金をいう。</Sentence>
+                  <Sentence WritingMode="vertical">それぞれ平成十三年統合法附則第二十五条第三項、第三十条第一項又は第五十七条第一項に規定する存続組合、特例一時金又は特例業務負担金をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -84,10 +84,10 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">特例退職共済年金、特例障害共済年金、特例遺族共済年金、特例退職年金、特例減額退職年金、特例通算退職年金、特例障害年金、特例遺族年金、特例通算遺族年金、特例老齢農林年金、特例障害農林年金又は特例遺族農林年金</Sentence>
+                  <Sentence WritingMode="vertical">特例退職共済年金、特例遺族共済年金、特例退職年金、特例減額退職年金、特例通算退職年金、特例遺族年金、特例通算遺族年金、特例老齢農林年金又は特例遺族農林年金</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">それぞれ厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律（平成三十年法律第三十一号。以下、「平成三十年法改正」という。）による改正前の平成十三年統合法（以下「平成三十年改正前平成十三年統合法」という。）附則第三十一条から第四十六条までにおいて規定する特例退職共済年金、特例障害共済年金、特例遺族共済年金、特例退職年金、特例減額退職年金、特例通算退職年金、特例障害年金、特例遺族年金、特例通算遺族年金、特例老齢農林年金、特例障害農林年金又は特例遺族農林年金をいう。</Sentence>
+                  <Sentence WritingMode="vertical">それぞれ厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律（平成三十年法律第三十一号。以下「平成三十年改正法」という。）による改正前の平成十三年統合法（以下「平成三十年改正前平成十三年統合法」という。）附則第三十一条から第四十六条までにおいて規定する特例退職共済年金、特例遺族共済年金、特例退職年金、特例減額退職年金、特例通算退職年金、特例遺族年金、特例通算遺族年金、特例老齢農林年金又は特例遺族農林年金をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -99,7 +99,7 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（旧農林漁業団体等に対する報告徴取等）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">存続組合は、平成十三年統合法の施行のために必要な範囲内において、旧農林漁業団体等（平成十三年統合法附則第五十七条第一項に規定する旧農林漁業団体等をいう。以下同じ。）に、特例一時金及び特例業務負担金に関する事項について、相当の期間内に、報告をさせ、又は文書を提示させることができる。</Sentence>
@@ -107,36 +107,37 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（旧農林漁業団体等の名称若しくは所在地の変更又は解散の届出）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence WritingMode="vertical">旧農林漁業団体等は、その名称若しくは所在地を変更し、又は解散したときは、十日以内に、その旨を存続組合に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="3">
-        <ChapterTitle>第三章　特例年金給付、特例一時金及び特例退職共済一時金等の支給</ChapterTitle>
+        <ChapterTitle>第三章　特例一時金の支給</ChapterTitle>
         <Section Delete="false" Hide="false" Num="1">
           <SectionTitle>第一節　通則</SectionTitle>
           <Article Delete="false" Hide="false" Num="4">
             <ArticleCaption>（特例一時金の請求に係る書類の送付）</ArticleCaption>
             <ArticleTitle>第四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">存続組合は、特例年金給付、特例一時金又は特例退職共済一時金等の決定の請求をすると見込まれる者（以下この条において「請求見込者」という。）について、地方公共団体情報システム機構（以下「機構」という。）から機構保存本人確認情報（住民基本台帳法（昭和四十二年法律第八十一号）第三十条の九に規定する機構保存本人確認情報をいう。以下同じ。）の提供を受け、当該請求見込者に対し特例年金給付、特例一時金又は特例退職共済一時金等の決定の請求に係る書類を送付することができる。</Sentence>
+                <Sentence WritingMode="vertical">存続組合は、特例一時金の決定の請求をすると見込まれる者（以下この条において「請求見込者」という。）について、地方公共団体情報システム機構（以下「機構」という。）から機構保存本人確認情報（住民基本台帳法（昭和四十二年法律第八十一号）第三十条の九に規定する機構保存本人確認情報をいう。以下同じ。）の提供を受け、当該請求見込者に対し特例一時金の決定の請求に係る書類を送付することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="5">
-            <ArticleCaption>（特例年金給付、特例一時金又は特例退職共済一時金等の請求手続）</ArticleCaption>
+            <ArticleCaption>（特例一時金の請求手続）</ArticleCaption>
             <ArticleTitle>第五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">特例一時金の決定の請求をしようとする者（平成十三年統合法附則第三十条第一項第二号に掲げる者に限る。）は、この省令に別段の定めのあるものを除き、次に掲げる事項を記載した請求書を存続組合に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">特例一時金の決定の請求をしようとする者（平成十三年統合法附則第三十条第一項第二号に掲げる者に限る。）は、次に掲げる事項を記載した請求書を存続組合に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -151,7 +152,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の請求書には、次に掲げる書類を添えなければならない。</Sentence>
@@ -165,13 +166,13 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">預金口座の口座番号についての当該払渡期間の証明書、預貯金通帳の写しその他の預貯金の口座の口座番号を明らかにすることができる書類</Sentence>
+                  <Sentence WritingMode="vertical">預貯金口座の口座番号についての当該払渡機関の証明書、預貯金通帳の写しその他の預貯金口座の口座番号を明らかにすることができる書類</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">請求者（平成三十年改正法の施行の日（以下「平成三十年改正法施行日」という。 ）の前日において旧農林共済組合員期間及び当該旧農林共済組合員期間に引き続く厚生年金保険の被保険者期間（次号において「継続厚生年金期間」という。 ）を合算した期間（以下「合算期間」という。 ）が二十年未満である次に掲げる者であって、平成十三年統合法の施行の日（以下「平成十三年統合法施行日」という。 ）から平成三十年改正法施行日の前日までの間において厚生年金保険の被保険者の資格を喪失していないもの（同日に旧農林漁業団体等を退職した者を除く。 ）に限る。 ）が、平成三十年改正法施行日において厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する省令の一部を改正する省令（令和元年農林水産省令第 号。 以下「改正省令」という。 ）による改正前の第四十六条第一項第二号の要件に該当するものとして厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令（平成三十一年政令第百四十六号）第一条の規定による改正前の厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する政令（以下「旧特例年金政令」という。 ）第五条第二項の規定により農林水産大臣の指定を受けた法人（以下この条において「指定法人」という。 ）に使用されている者であるときは、平成三十年改正法施行日において当該指定法人に使用されていることを証明する書類</Sentence>
+                  <Sentence WritingMode="vertical">請求者（平成三十年改正法の施行の日（以下「平成三十年改正法施行日」という。）の前日において旧農林共済組合員期間及び当該旧農林共済組合員期間に引き続く厚生年金保険の被保険者期間（次号において「継続厚生年金期間」という。）を合算した期間（以下「合算期間」という。）が二十年未満である次に掲げる者であって、平成十三年統合法の施行の日（以下「平成十三年統合法施行日」という。）から平成三十年改正法施行日の前日までの間において厚生年金保険の被保険者の資格を喪失していないもの（同日に旧農林漁業団体等を退職した者を除く。）に限る。）が、平成三十年改正法施行日において厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する省令の一部を改正する省令（令和元年農林水産省令第四十一号。以下「改正省令」という。）による改正前の第四十六条第一項第二号の要件に該当するものとして厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令（平成三十一年政令第百四十六号）第一条の規定による改正前の厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する政令（以下「旧特例年金政令」という。）第五条第二項の規定により農林水産大臣の指定を受けた法人（以下この条において「指定法人」という。）に使用されている者であるときは、平成三十年改正法施行日において当該指定法人に使用されていることを証明する書類</Sentence>
                 </ItemSentence>
                 <Subitem1 Delete="false" Hide="false" Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -197,19 +198,19 @@
           <Article Delete="false" Hide="false" Num="6">
             <ArticleCaption>（機構保存本人確認情報による確認）</ArticleCaption>
             <ArticleTitle>第六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">存続組合は、特例一時金の決定の請求をしようとする者について、機構から機構保存本人確認情報の提供を受け、これらの者の氏名、生年月日、住所その他必要な事項について確認を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">存続組合は、前項の規定により確認を行うものとされる事項について確認を行うことができなかった場合には、同項に掲げる者に対し、当該確認を行うものとされる事項について確認できる書類の提出を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">存続組合は、第一項の機構保存本人確認情報の提供を受けるため、存続組合が必要と認める場合には、同項に掲げる者に対し、住民基本台帳法第七条第八号の二に規定する個人番号（第八条第二項において「個人番号」という。）又は同法第七条第十三号に規定する住民票コード（第八条第二項において「住民票コード」という。）の報告を求めることができる。</Sentence>
@@ -217,16 +218,16 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="7">
-            <ArticleCaption>（特例年金給付、特例一時金又は特例退職共済一時金等の決定及び通知）</ArticleCaption>
+            <ArticleCaption>（特例一時金の決定及び通知）</ArticleCaption>
             <ArticleTitle>第七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">存続組合は、特例年金給付、特例一時金又は特例退職共済一時金等の請求書の提出があったときは、遅滞なく、これを審査し、決定し、その決定内容を請求者に通知しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">存続組合は、特例一時金の請求書の提出があったときは、遅滞なく、これを審査し、決定し、その決定内容を請求者に通知しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、請求に応ずることができないときは、その理由を付さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">存続組合は、平成十三年統合法附則第三十条第六項ただし書の規定により特例一時金の決定の請求を要しないこととされた者に係る特例一時金を決定したときは、その決定内容を当該者に通知しなければならない。</Sentence>
@@ -236,25 +237,25 @@
           <Article Delete="false" Hide="false" Num="8">
             <ArticleCaption>（存続組合による特例一時金受給権者の確認等）</ArticleCaption>
             <ArticleTitle>第八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">存続組合は、特例一時金を支給する月（以下この項において「支給月」という。）の前月において、機構から当該支給月に支給する特例一時金を受ける権利を有する者（以下「特例一時金受給権者」という。）に係る機構保存本人確認情報の提供を受け、必要な事項について確認を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">存続組合は、前項の機構保存本人確認情報の提供を受けるため、存続組合が必要と認める場合は、特例一時金受給権者に対し、当該特例一時金給付受給権者に係る個人番号又は住民票コードの報告を求めることができる。</Sentence>
+                <Sentence WritingMode="vertical">存続組合は、前項の機構保存本人確認情報の提供を受けるため、存続組合が必要と認める場合は、特例一時金受給権者に対し、当該特例一時金受給権者に係る個人番号又は住民票コードの報告を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">存続組合は、第一項の規定により必要な事項について確認を行った場合において、特例一時金受給権者の生存の事実が確認されなかったとき（次条第一項に規定する場合を除く。）には、当該特例年金給付受給権者に対し、当該特例一時金受給権者の生存の事実について確認できる書類の提出を求めることができる。</Sentence>
+                <Sentence WritingMode="vertical">存続組合は、第一項の規定により必要な事項について確認を行った場合において、特例一時金受給権者の生存の事実が確認されなかったとき（次条第一項に規定する場合を除く。）には、当該特例一時金受給権者に対し、当該特例一時金受給権者の生存の事実について確認できる書類の提出を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="4">
+            <Paragraph Hide="false" Num="4" OldStyle="false">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定により同項に規定する書類の提出を求められた特例一時金受給権者は、存続組合が定める日（以下「指定日」という。）までに、当該書類を存続組合に提出しなければならない。</Sentence>
@@ -264,10 +265,10 @@
           <Article Delete="false" Hide="false" Num="9">
             <ArticleCaption>（機構保存本人確認情報の提供を受けることができない特例一時金受給権者等に係る届出）</ArticleCaption>
             <ArticleTitle>第九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">存続組合は、機構から特例一時金受給権者に係る機構保存本人確認情報の提供を受けることができない場合又は存続組合が必要と認める場合には、当該特例一時金受給権者に対し、次の各号に掲げる事項を記載し、かつ、自ら署名した届書（自ら署名することが困難な特例一時金受給権者にあっては、当該特例一時金受給権者の代理人が署名した届書）を指定日までに提出することを求めることができる。</Sentence>
+                <Sentence WritingMode="vertical">存続組合は、機構から特例一時金受給権者に係る機構保存本人確認情報の提供を受けることができない場合又は存続組合が必要と認める場合には、当該特例一時金受給権者に対し、次に掲げる事項を記載し、かつ、自ら署名した届書（自ら署名することが困難な特例一時金受給権者にあっては、当該特例一時金受給権者の代理人が署名した届書）を指定日までに提出することを求めることができる。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -282,17 +283,17 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定により同項に規定する届書の提出を求められた特例一時金受給権者は、毎年、指定日までに、当該届書を存続組合に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">前項の規定により同項に規定する届書の提出を求められた特例一時金受給権者は、指定日までに、当該届書を存続組合に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="10">
-            <ArticleCaption>（特例年金給付受給権者の身上報告）</ArticleCaption>
+            <ArticleCaption>（平成三十年改正法施行日の前日において子が障害の状態にあった場合の届出）</ArticleCaption>
             <ArticleTitle>第十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特例一時金受給権者（平成三十年改正法施行日の前日において平成十三年統合法附則第十六条第一項の規定によりなおその効力を有するものとされた廃止前農林共済法（第三十条及び第三十一条を除き、以下単に「廃止前農林共済法」という。）第三十九条第二項に規定する障害等級の一級若しくは二級に該当する障害の状態にある子、昭和六十年国民年金等改正法第三条の規定による改正前の厚生年金保険法別表第一に定める一級若しくは二級の障害の状態にある子又は二十歳未満で厚生年金保険法第四十七条第二項に規定する障害等級の一級若しくは二級に該当する障害の状態にあり、かつ、婚姻していない子に限り、改正省令による改正前の第十条の二第五項又は第十条の三第二項の規定により改正省令による改正前の第十条の二第五項に規定する障害の状態に関する診断書を提出している子を除く。）は、指定日までに次に掲げる事項を記載した届書に指定日前三月以内に作成されたその障害の状態に関する医師又は歯科医師の診断書（その障害が結核性疾患によるものであるときは、障害の状態に関する医師の診断書及びレントゲンフィルム）を添え、これを存続組合に提出しなければならない。</Sentence>
@@ -300,7 +301,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">特例一時金受給権者の住所、氏名、性別、生年月日及び基礎年金番号</Sentence>
+                  <Sentence WritingMode="vertical">特例一時金受給権者の住所、氏名、生年月日及び基礎年金番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
@@ -320,13 +321,13 @@
           <Article Delete="false" Hide="false" Num="11">
             <ArticleCaption>（特例一時金の支払）</ArticleCaption>
             <ArticleTitle>第十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">存続組合は、平成三十年改正法施行日の前日において、改正省令による改正前の第四条第三項の規定により特例遺族共済年金、特例遺族年金又は特例通算遺族年金（以下この項において「特例遺族共済年金等」という。）を受けるべき同順位の遺族のうちの一人が当該特例遺族共済年金等の請求及び受領についての代表者と定められ、存続組合に同順位の遺族全員の同意書が提出されているときは、その代表者に他の同順位者の特例遺族共済年金等に係る特例一時金を支払うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">存続組合は、特例一時金受給権者が第八条第四項、第九条第二項及び前条の規定により提出すべき書類を提出しないときは、その提出があるまで、当該特例一時金受給権者に対して支給すべき特例一時金を支払わないことができる。</Sentence>
@@ -339,7 +340,7 @@
           <Article Delete="false" Hide="false" Num="12">
             <ArticleCaption>（特例一時金の額の算定方法）</ArticleCaption>
             <ArticleTitle>第十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">平成十三年統合法附則第三十条第二項第一号に規定する特例一時金の額の算定は、この節に別段の定めがある場合を除き、平成三十年改正法施行日の前日における特例年金給付の額又は当該特例年金給付の額の算定の基礎となった平均給与月額（平成三十年改正前平成十三年統合法附則第三十条第一項に規定する平均給与月額をいう。）、旧農林共済組合員期間その他の当該特例年金給付の額の算定に用いた事項を用いて行うものとする。</Sentence>
@@ -402,7 +403,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特例一時金の額の算定に用いる次の各号に掲げる率は、それぞれ当該各号に定める率とする。</Sentence>
@@ -476,9 +477,9 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="13">
-            <ArticleCaption>（特例退職共済年金の受給権者が厚生年金保険の被保険者となった場合の届出）</ArticleCaption>
+            <ArticleCaption>（予定生存率）</ArticleCaption>
             <ArticleTitle>第十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">平成十三年統合法附則第三十条第四項の農林水産省令で定める予定生存率は、平成三十年改正法施行日の前日の属する月（以下この条において「基準月」という。）の翌月以後の各月ごとに、特例一時金受給権者の性別並びに当該基準月の末日における当該特例一時金受給権者の年齢及び当該基準月の翌月以後の各月の末日における当該特例一時金受給権者の年齢に応じ、それぞれ第一号に掲げる数を第二号に掲げる数で除して得た率とする。</Sentence>
@@ -544,7 +545,7 @@
           <Article Delete="false" Hide="false" Num="14">
             <ArticleCaption>（複利現価法において用いる利率）</ArticleCaption>
             <ArticleTitle>第十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">平成十三年統合法附則第三十条第四項の農林水産省令で定める利率は、別表第六の左欄に掲げる年度ごとにそれぞれ同表の右欄に定める率とする。</Sentence>
@@ -554,7 +555,7 @@
           <Article Delete="false" Hide="false" Num="15">
             <ArticleCaption>（平成三十年改正法施行日の前日において合算期間が二十年未満である者に係る特例一時金の額の算定方法の特例）</ArticleCaption>
             <ArticleTitle>第十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">平成三十年改正法施行日の前日において合算期間が二十年未満である次に掲げる者であって、平成十三年統合法施行日から平成三十年改正法施行日の前日までの間において厚生年金保険の被保険者の資格を喪失していないもの（同日に旧農林漁業団体等を退職した者を除く。）に係る平成十三年統合法附則第三十条第二項の規定の適用については、その者は、合算期間が二十年以上である者とみなす。</Sentence>
@@ -576,7 +577,7 @@
           <Article Delete="false" Hide="false" Num="16">
             <ArticleCaption>（厚生年金保険の被保険者の資格を喪失していない特例一時金受給権者に係る特例一時金の額の算定方法の特例）</ArticleCaption>
             <ArticleTitle>第十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">特例一時金受給権者（特例退職共済年金、特例退職年金、特例減額退職年金、特例通算退職年金又は特例老齢農林年金に係る特例一時金を受ける権利を有するものに限る。）であって、平成三十年改正法施行日の前日において厚生年金保険の被保険者の資格を喪失していないものに係る平成十三年統合法附則第三十条第二項の規定の適用については、その者は、同日に当該資格を喪失したものとみなす。</Sentence>
@@ -587,9 +588,8 @@
         <Section Delete="false" Hide="false" Num="3">
           <SectionTitle>第三節　支払未済の特例一時金の請求手続</SectionTitle>
           <Article Delete="false" Hide="false" Num="17">
-            <ArticleCaption>（支払未済の特例年金給付の請求手続）</ArticleCaption>
             <ArticleTitle>第十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">平成十三年統合法附則第三十条第七項において準用する廃止前農林共済法第二十八条の規定による特例一時金の支給を受けようとする者は、次に掲げる事項を記載した請求書を存続組合に提出しなければならない。</Sentence>
@@ -615,11 +615,11 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">存続組合が指定する機関のうち支払未済の特例一時金の支払を受けることを希望する機関（次項第二号において「払渡期間」という。）の名称及び所在地並びに預貯金口座の口座番号</Sentence>
+                  <Sentence WritingMode="vertical">存続組合が指定する機関のうち支払未済の特例一時金の支払を受けることを希望する機関（次項第二号において「払渡機関」という。）の名称及び預貯金口座の口座番号</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の請求書には、次に掲げる書類を添えなければならない。</Sentence>
@@ -645,7 +645,7 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">死亡した特例一時金受給権者が支給を受けるべきであった当該特例一時金の請求について特例一時金の請求手続をしていなかったときは、当該特例年一時金の請求書に添付して提出すべき書類（前三号に掲げる書類に該当するものを除く。）</Sentence>
+                  <Sentence WritingMode="vertical">死亡した特例一時金受給権者が支給を受けるべきであった当該特例一時金の請求について特例一時金の請求手続をしていなかったときは、当該特例一時金の請求書に添付して提出すべき書類（前三号に掲げる書類に該当するものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -657,7 +657,7 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（農林水産大臣の指定を受ける法人の要件）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例一時金等に関する政令（平成十四年政令第四十五号。以下「特例一時金政令」という。）第六条第一項第二号の農林水産省令で定める要件は、当該法人が次の各号のいずれかに該当することとする。</Sentence>
@@ -693,7 +693,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合において、被承継農林漁業団体又は組織変更後農林漁業団体から権利義務を承継した旧農林共済法第一条第一項各号に掲げる法律又は法律の規定に基づき設立された法人は、被承継農林漁業団体又は組織変更後農林漁業団体とみなす。</Sentence>
@@ -703,13 +703,13 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（農林水産大臣の指定に係る手続）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特例一時金政令第六条第一項の農林水産大臣の指定は、存続組合が農林水産大臣に提供する被承継農林漁業団体又は組織変更後農林漁業団体（次項において「指定対象法人」という。）に係る組織変更その他の権利義務の承継についての情報に基づき行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">存続組合は、前項の規定による情報の提供をするため、必要と認める場合は、被承継農林漁業団体等に対し、登記事項証明書、定款その他の指定対象法人が前条第一項各号に掲げる要件に該当することを証明する書類を提出させることができる。</Sentence>
@@ -719,13 +719,13 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（特例業務負担金の納入の告知）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">存続組合は、旧農林漁業団体等が平成十三年統合法附則第五十七条第三項の規定により存続組合に納付すべき毎月の特例業務負担金について、翌月の十五日までに、当該旧農林漁業団体等に、別記様式第一号による納入告知書を送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">存続組合は、平成十三年統合法附則第五十七条第四項において準用する厚生年金保険法第八十五条の規定により納付期限前において特例業務負担金を徴収しようとするときは、当該旧農林漁業団体等に、当該特例業務負担金を納付すべき期限を指定して、前項の納入告知書を送付しなければならない。</Sentence>
@@ -735,7 +735,7 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（特例業務負担金の納付）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">旧農林漁業団体等は、平成十三年統合法附則第五十七条第三項の規定により特例業務負担金を納付するときは、存続組合が指定する金融機関に特例業務負担金を払い込むとともに、次に掲げる事項を記載した通知書を存続組合に提出しなければならない。</Sentence>
@@ -757,31 +757,31 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（特例業務負担金の前納）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">旧農林漁業団体等は、前二条の規定にかかわらず、存続組合の承諾を受けて、特例業務負担金の一部を前納することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による特例業務負担金の前納は、前納を行おうとする年（以下「前納年」という。）の四月分からその翌年の三月分までについて行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定により旧農林漁業団体が前納を行おうとする特例業務負担金（以下「前納負担金」という。）は、前納年の五月末日までに納付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前納負担金の額は、前納年の四月分の特例業務負担金の額に十二を乗じて得た額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前納負担金は、前納年の五月からその翌年の四月まで（以下「前納期間」という。）に納付すべきこととなる特例業務負担金に、到来する月の分から順次充当するものとする。</Sentence>
@@ -791,31 +791,31 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（前納負担金の納付方法）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第一項の規定による特例業務負担金の前納を行おうとする旧農林漁業団体等は、前納年の四月十日までに前納を希望する旨を記載した申込書を存続組合に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の申込みに対し存続組合が特例業務負担金の一部を前納することを承諾したときは、存続組合は、当該前納年の五月十五日までに、当該旧農林漁業団体等に、別記様式第一号による納入告知書を送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前納負担金の額が前納期間に納付すべき特例業務負担金の合計額に満たなくなった場合には、当該満たなくなった月以後の特例業務負担金については、第二十条及び第二十一条の規定による。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前納負担金の額が、前納期間に納付すべき特例業務負担金の合計額を超えるときは、その超える額を、前納年の翌年の五月以後に納付すべきこととなる特例業務負担金に、先に到来する月の分から順次充当し、又は還付する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条第一項の規定による特例業務負担金の前納を行った旧農林漁業団体等がその後第二十六条第一項の長期前納の申込みをしたときは、前納開始月（第二十五条第二項に規定する前納開始月をいう。）以後の月分に係る前納負担金を還付する。</Sentence>
@@ -826,7 +826,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（前納負担金の還付請求）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第四項及び第五項前段の規定により前納負担金の還付を請求しようとする者は、その旨を記載した請求書を存続組合に提出しなければならない。</Sentence>
@@ -836,31 +836,31 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（特例業務負担金の長期前納）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">旧農林漁業団体等は、存続組合の承諾を受けて、一年を超える期間の月分の特例業務負担金の一部を前納することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による特例業務負担金の前納（以下「長期前納」という。）は、一年を超える期間であって、長期前納を開始する年において旧農林漁業団体等の希望する月（以下「前納開始月」という。）から存続組合が定款で定める年の三月までの期間（以下「長期前納対象期間」という。）の分について行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">旧農林漁業団体等が長期前納を行おうとする特例業務負担金（以下「長期前納負担金」という。）は、前納開始月の末日までに納付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">長期前納負担金の額は、長期前納対象負担金額（前納開始月の三月前の月の月分の特例業務負担金の額を長期前納対象期間における各月の特例業務負担金の額とみなして、当該みなされた額に存続組合の定款で定める範囲内において旧農林漁業団体等が申し出た割合を乗じて得た額をいう。以下この条において同じ。）を、存続組合が定款で定めるところにより、存続組合の定める率による複利現価法によって長期前納期間（前納開始月の翌月から存続組合の定款で定める年の四月までをいう。以下同じ。）の各月ごとに割り引いた額（以下この条において「割引後の長期前納対象負担金額」という。）の合計額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">長期前納負担金は、長期前納期間に納付すべきこととなる各月の特例業務負担金に充当するものとする。</Sentence>
@@ -879,13 +879,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">長期前納対象負担金額及び割引後の長期前納対象負担金額を算定するに当たり、その額に一円に満たない端数を生じたときは、その端数は、切り捨てる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="7">
+          <Paragraph Hide="false" Num="7" OldStyle="false">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">旧農林漁業団体等は、長期前納対象期間に第二十二条第一項の規定による前納を行うことができない。</Sentence>
@@ -895,19 +895,19 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（長期前納負担金の納付方法）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">長期前納を行おうとする旧農林漁業団体等は、前納開始月の前月の十日までに長期前納を希望する旨を記載した申込書を存続組合に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の申込みに対し存続組合が長期前納を承諾したときは、存続組合は、前納開始月の十五日までに、当該旧農林漁業団体等に納入告知書を送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第五項の規定により各月の特例業務負担金に充当することとなる金額が、長期前納期間に納付すべき当該各月の特例業務負担金の額を超えるときは、その超える額を還付する。</Sentence>
@@ -917,7 +917,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（長期前納負担金の還付請求）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第三項の規定により長期前納負担金の還付を請求しようとする者は、その旨を記載した請求書を存続組合に提出しなければならない。</Sentence>
@@ -927,7 +927,7 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（審査会の委員に対する報酬の額）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">特例一時金政令第二条の規定によりなおその効力を有するものとされた厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う関係政令の整備等に関する政令（平成十四年政令第四十三号）第一条の規定による廃止前の農林漁業団体職員共済組合法施行令（昭和三十三年政令第二百二十八号）第十五条第一項の農林水産省令で定める金額は、会長及びその他の委員につき予算の範囲内で別に理事長が農林水産大臣の承認を受けて定める。</Sentence>
@@ -937,7 +937,7 @@
         <Article Delete="false" Hide="false" Num="29">
           <ArticleCaption>（審査会に関する書類の保存）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">審査会に関する書類は、永久保存とする。</Sentence>
@@ -947,7 +947,7 @@
         <Article Delete="false" Hide="false" Num="30">
           <ArticleCaption>（審査請求書の様式）</ArticleCaption>
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">平成十三年統合法附則第二十五条第一項の規定によりなおその効力を有するものとされた廃止前農林共済法第六十六条第一項の規定により審査請求を文書でする場合には、別記様式第二号による審査請求書を提出してするものとする。</Sentence>
@@ -957,7 +957,7 @@
         <Article Delete="false" Hide="false" Num="31">
           <ArticleCaption>（証票の様式）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">平成十三年統合法附則第二十五条第一項の規定によりなおその効力を有するものとされた廃止前農林共済法第七十四条第二項に規定する証票の様式は、別記様式第三号のとおりとする。</Sentence>
@@ -967,7 +967,7 @@
         <Article Delete="false" Hide="false" Num="32">
           <ArticleCaption>（農林水産大臣の承認）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">存続組合は、次に掲げる事項に関し規程（第一号に掲げる事項については、業務方法書）を定めようとするときは、農林水産大臣の承認を受けなければならない。</Sentence>
@@ -1000,7 +1000,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成十四年四月一日から施行する。</Sentence>
@@ -1011,7 +1011,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（農林漁業団体職員共済組合法施行規則等の廃止）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次に掲げる省令は、廃止する。</Sentence>
@@ -1045,7 +1045,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年三月七日農林水産省令第一八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
@@ -1054,7 +1054,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一八年五月一日農林水産省令第四七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1063,7 +1063,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一九年三月二三日農林水産省令第一一号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十九年四月一日から施行する。</Sentence>
@@ -1072,7 +1072,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二〇年五月一三日農林水産省令第三五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1081,7 +1081,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二〇年一一月二八日農林水産省令第七三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
@@ -1091,7 +1091,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二一年一二月一六日農林水産省令第六五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、日本年金機構法の施行の日（平成二十二年一月一日）から施行する。</Sentence>
@@ -1100,7 +1100,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二二年二月一八日農林水産省令第一二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十二年四月一日から施行する。</Sentence>
@@ -1109,14 +1109,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二六年三月三一日農林水産省令第二三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（平成二十七年度までの間に旧農林漁業団体等が行う長期前納に係る特例）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1126,7 +1126,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二七年九月三〇日農林水産省令第七四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）の施行の日（平成二十七年十月五日）から施行する。</Sentence>
@@ -1135,7 +1135,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二七年一二月二八日農林水産省令第八八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十八年一月一日から施行する。</Sentence>
@@ -1147,7 +1147,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、平成二十八年四月一日から施行する。</Sentence>
@@ -1157,7 +1157,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二八年三月二五日農林水産省令第一七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、地方自治法の一部を改正する法律の施行の日（平成二十八年四月一日）から施行する。</Sentence>
@@ -1166,7 +1166,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二九年七月三一日農林水産省令第四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十九年八月一日から施行する。</Sentence>
@@ -1175,14 +1175,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三一年四月一二日農林水産省令第三六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十一年八月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1195,7 +1195,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1205,13 +1205,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
@@ -1221,7 +1221,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年九月一八日農林水産省令第三〇号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1233,7 +1233,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律（以下「平成三十年改正法」という。）の施行の日（令和二年四月一日）から施行する。</Sentence>
@@ -1243,7 +1243,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（退職一時金等の返還に関する経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">特例一時金（平成三十年改正法による改正後の厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律（次条において「新法」という。）附則第三十条第一項に規定する特例一時金をいう。次条において同じ。）の決定の請求をしようとする者（同項第二号に掲げる者に限る。）が平成三十年改正法附則第四条第一項に規定する退職一時金等の支給を受けた者である場合におけるこの省令による改正後の厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例一時金等に関する省令第五条第一項の規定の適用については、同項中「事項」とあるのは、「事項及び退職一時金等（平成三十年改正法附則第四条第一項に規定する退職一時金等をいう。）の返還の方法」とする。</Sentence>
@@ -1253,7 +1253,7 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（特例一時金の支払に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">存続組合（新法附則第二十五条第三項に規定する存続組合をいう。以下同じ。）は、特例一時金を受ける権利を有する者が平成三十年改正法附則第三条第一項の規定によりなお従前の例によることとされた届出又は提出をしていないときは、その届出又は提出があるまで、当該者に対して支給すべき特例一時金を支払わないことができる。</Sentence>
@@ -1263,7 +1263,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（厚生年金保険被保険者に関する経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令（以下この条において「平成三十一年経過措置政令」という。）附則第三条第一項に規定する返還義務者であって、平成三十年改正法の施行の日（以下この条において「平成三十年改正法施行日」という。）の前日において厚生年金保険の被保険者の資格を喪失していないもの（次条において「厚生年金保険被保険者」という。）は、平成三十年改正法施行日以後速やかに、次に掲げる事項を記載した申出書を存続組合に提出しなければならない。</Sentence>
@@ -1285,7 +1285,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（届出に関する経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">厚生年金保険被保険者が死亡したときは、戸籍法（昭和二十二年法律第二百二十四号）の規定による死亡の届出義務者は、速やかに、次に掲げる事項を記載した届書に死亡を証する書面を添え、これを存続組合に提出しなければならない。</Sentence>
@@ -1313,7 +1313,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（改正法施行日以後返還義務者に関する経過措置）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">平成三十年改正法附則第四条第四項に規定する改正法施行日以後返還義務者は、同項の規定により申出をしようとするときは、申出人の住所、氏名、性別、生年月日及び基礎年金番号を記載した申出書を存続組合に提出しなければならない。</Sentence>
@@ -1651,10 +1651,10 @@
           </TableRow>
           <TableRow>
             <TableColumn Align="center" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="middle" colspan="2">
-              <Sentence WritingMode="vertical">男性</Sentence>
+              <Sentence WritingMode="vertical">男子</Sentence>
             </TableColumn>
             <TableColumn Align="center" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="middle" colspan="2">
-              <Sentence WritingMode="vertical">女性</Sentence>
+              <Sentence WritingMode="vertical">女子</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3053,7 +3053,7 @@
               <Sentence WritingMode="vertical">81歳</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">59859</Sentence>
+              <Sentence WritingMode="vertical">59589</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">3279</Sentence>

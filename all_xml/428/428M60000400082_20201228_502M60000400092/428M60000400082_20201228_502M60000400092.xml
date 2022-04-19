@@ -636,10 +636,33 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第四十八条第四項各号の経済産業省令で定める方法は、次の算式によるものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この式においてＧ、Ｖ及びＣは、それぞれ次の数値を表わすものとする。</Sentence>
-              <Sentence Num="3" WritingMode="vertical">Ｇ　液化ガスの質量（単位　キログラム）の数値Ｖ　容器の内容積（単位　リットル）の数値Ｃ　国際相互承認液化天然ガス自動車燃料装置用容器に充填する液化ガスにあっては、当該容器の常用の温度のうち最高のものにおける当該液化ガスの比重（単位　キログラム毎リットル）の数値に十分の九を乗じて得た数値の逆数</Sentence>
+              <Sentence>法第四十八条第四項各号の経済産業省令で定める方法は、次の算式によるものとする。</Sentence>
             </ParagraphSentence>
+            <List>
+             <ListSentence>
+              <Sentence>Ｇ＝Ｖ／Ｃ</Sentence>
+             </ListSentence>
+            </List>
+            <List>
+             <ListSentence>
+              <Sentence>この式においてＧ、Ｖ及びＣは、それぞれ次の数値を表わすものとする。</Sentence>
+             </ListSentence>
+            </List>
+            <List>
+             <ListSentence>
+              <Sentence>Ｇ　液化ガスの質量（単位　キログラム）の数値</Sentence>
+             </ListSentence>
+            </List>
+            <List>
+             <ListSentence>
+              <Sentence>Ｖ　容器の内容積（単位　リットル）の数値</Sentence>
+             </ListSentence>
+            </List>
+            <List>
+             <ListSentence>
+              <Sentence>Ｃ　国際相互承認液化天然ガス自動車燃料装置用容器に充填する液化ガスにあっては、当該容器の常用の温度のうち最高のものにおける当該液化ガスの比重（単位　キログラム毎リットル）の数値に十分の九を乗じて得た数値の逆数</Sentence>
+             </ListSentence>
+            </List>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="14">
@@ -1004,7 +1027,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）による大学若しくは高等専門学校若しくは従前の規定による大学若しくは専門学校において化学、物理学若しくは工学に関する課程を修めて卒業し、高圧ガスの充填の作業、容器若しくは附属品の製造の作業又は容器若しくは附属品の検査の実務に一年以上従事した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）による大学若しくは高等専門学校若しくは従前の規定による大学若しくは専門学校において化学、物理学若しくは工学に関する課程を修めて卒業し（当該課程を修めて同法による専門職大学の前期課程を修了した場合を含む。）、かつ、高圧ガスの充填の作業、容器若しくは附属品の製造の作業又は容器若しくは附属品の検査の実務に一年以上従事した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -1220,7 +1243,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">甲種機械責任者免状、乙種機械責任者免状若しくは甲種化学責任者免状の交付を受け、又は学校教育法による大学若しくは高等専門学校若しくは従前の規定による大学若しくは専門学校において理学若しくは工学に関する課程を修めて卒業し、かつ、容器又は附属品の検査に一年以上従事した経験を有すること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">甲種機械責任者免状、乙種機械責任者免状若しくは甲種化学責任者免状の交付を受け、又は学校教育法による大学若しくは高等専門学校若しくは従前の規定による大学若しくは専門学校において理学若しくは工学に関する課程を修めて卒業し（当該課程を修めて同法による専門職大学の前期課程を修了した場合を含む。）、かつ、容器又は附属品の検査に一年以上従事した経験を有すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
@@ -1771,6 +1794,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月一七日経済産業省令第四八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年一一月一四日経済産業省令第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>

@@ -104,22 +104,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="2">
-        <ArticleCaption>（様式に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
@@ -128,7 +112,7 @@
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <Sentence WritingMode="vertical">検体十・〇ミリリットルを量り、蒸留水を加えて百・〇ミリリットルとする。この液十・〇ミリリットルを量り、蒸留水二十ミリリットルを加え、ブロムチモールブルー溶液（産業標準化法（昭和二十四年法律第百八十五号）に基づく日本産業規格Ｋ八〇〇一の表JA・六に定める方法により調整したもの）二滴を指示薬として〇・一規定水酸化ナトリウム溶液で滴定する。このとき、滴定に要した〇・一規定水酸化ナトリウム溶液の消費量に〇・一規定水酸化ナトリウム溶液の規定度係数を乗じた数値（ミリリットル）を、〇・一規定水酸化ナトリウム溶液の消費量の数値（ミリリットル）とする。</Sentence>
+              <Sentence WritingMode="vertical">検体十・〇ミリリットルを量り、蒸留水を加えて百・〇ミリリットルとする。この液十・〇ミリリットルを量り、蒸留水二十ミリリットルを加え、ブロムチモールブルー溶液（産業標準化法（昭和二十四年法律第百八十五号）に基づく日本産業規格Ｋ八〇〇一の表ＪＡ・六に定める方法により調整したもの）二滴を指示薬として〇・一規定水酸化ナトリウム溶液で滴定する。このとき、滴定に要した〇・一規定水酸化ナトリウム溶液の消費量に〇・一規定水酸化ナトリウム溶液の規定度係数を乗じた数値（ミリリットル）を、〇・一規定水酸化ナトリウム溶液の消費量の数値（ミリリットル）とする。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -144,7 +128,7 @@
         <Subitem1 Delete="false" Hide="false" Num="1">
           <Subitem1Title/>
           <Subitem1Sentence>
-            <Sentence WritingMode="vertical">別図第一は、ガラス製の立方体（縦百センチメートル・横百センチメートル・高さ百センチメートル）の箱で天井中央部に試料つり下げ具Ａがある。一方の側面には、五個の穴があけてあり、ガラス管又はテフロン管で活せんＢに連結している。反対の側面には、三個の穴があけてあり、ガラス管又はテフロン管で活せんＣに連結している。活せんＣは、さらに、ガラス管又はテフロン管で容積六十～百ミリリツトルのガラス製の吸引管Ｄに連結している。</Sentence>
+            <Sentence WritingMode="vertical">別図第一は、ガラス製の立方体（縦百センチメートル・横百センチメートル・高さ百センチメートル）の箱で天井中央部に試料つり下げ具Ａがある。一方の側面には、五個の穴があけてあり、ガラス管又はテフロン管で活せんＢに連結している。反対の側面には、三個の穴があけてあり、ガラス管又はテフロン管で活せんＣに連結している。活せんＣは、さらに、ガラス管又はテフロン管で容積六十～百ミリリツトルのガラス製の吸収管Ｄに連結している。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Delete="false" Hide="false" Num="2">
@@ -246,7 +230,7 @@
         <Subitem1 Delete="false" Hide="false" Num="7">
           <Subitem1Title>（七）</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">水素 最も高い感度を得るように調節する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">水素　最も高い感度を得るように調節する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">（通例、毎分四十～五十ミリリツトルの一定量）</Sentence>
           </Subitem1Sentence>
         </Subitem1>
@@ -321,8 +305,7 @@
               <Sentence WritingMode="vertical">圧縮変形試験</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
-              <Sentence Num="1" WritingMode="vertical">水を満たし、摂氏二十プラス・マイナス二度に調節した恒温水<Ruby>槽<Rt>そう</Rt>
-</Ruby>に三十分間浸す。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">水を満たし、摂氏二十プラス・マイナス二度に調節した恒温水<Ruby>槽<Rt>そう</Rt></Ruby>に三十分間浸す。</Sentence>
               <Sentence Num="2" WritingMode="vertical">次に別図第二に示すように、直角に曲げた内径二ミリメートルのガラス管とゴムせんで連結した後、これを直径二十五ミリメートルのゴムせん上に載せ、二分後に水位Ｈ０（センチメートル）を読む。</Sentence>
               <Sentence Num="3" WritingMode="vertical">次に通常押圧する部位又は柔軟な部位を、直径十二・五ミリメートルの圧縮面で一重量キログラムの荷重を加えて静かに圧縮し、二分後に水位Ｈ（センチメートル）を読む。</Sentence>
               <Sentence Num="4" WritingMode="vertical">この場合において、台座のゴムせん及び圧縮面の中心は合致しなければならない。</Sentence>

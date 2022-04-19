@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="071" Year="27">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="071" Year="27" PromulgateMonth="08" PromulgateDay="25">
   <LawNum>昭和二十七年運輸省令第七十一号</LawNum>
   <LawBody>
-    <LawTitle>離島航路整備法施行規則</LawTitle>
+    <LawTitle Kana="りとうこうろせいびほうせこうきそく" Abbrev="" AbbrevKana="">離島航路整備法施行規則</LawTitle>
     <EnactStatement>離島航路整備法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -284,14 +284,8 @@
           <Sentence>航路補助規則（昭和二十五年運輸省令第二十号）は、廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="4">
-        <ParagraphNum>４</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>この省令施行前に航路補助規則第二条の規定により提出された昭和二十八年度の航路補助金交付申請書は、この省令の規定により提出されたものとみなす。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331047" AmendLawNum="昭和三一年八月三日運輸省令第四七号" Id="139d5700-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三一年八月三日運輸省令第四七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -300,7 +294,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341003" AmendLawNum="昭和四一年三月一六日運輸省令第三号" Id="13c5816c-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年三月一六日運輸省令第三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -308,14 +302,8 @@
           <Sentence>この省令は、昭和四十一年四月一日から施行し、昭和四十一年度分以後の航路補助金について適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphNum>２</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>この省令の施行前にした昭和四十一年度分の航路補助金の交付の申請に係る離島航路の航路整備計画書については、改正後の第一条の規定にかかわらず、昭和四十一年四月三十日までに当該航路の拠点を管轄する海運局長を経由して運輸大臣にこれを提出すればよい。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="345042" AmendLawNum="昭和四五年六月一日運輸省令第四二号" Id="13edbc7c-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四五年六月一日運輸省令第四二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -324,7 +312,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353027" AmendLawNum="昭和五三年五月二三日運輸省令第二七号" Id="1415eda0-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年五月二三日運輸省令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -345,7 +333,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356012" AmendLawNum="昭和五六年三月三〇日運輸省令第一二号" Extract="true" Id="168b3cbc-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年三月三〇日運輸省令第一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -358,7 +346,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="357004" AmendLawNum="昭和五七年三月二四日運輸省令第四号" Extract="true" Id="62b351ae-d3c1-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五七年三月二四日運輸省令第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -368,7 +356,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359018" AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true" Id="f77f7bdc-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -547,7 +535,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="360022" AmendLawNum="昭和六〇年六月一五日運輸省令第二二号" Extract="true" Id="16b626de-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年六月一五日運輸省令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -557,7 +545,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406014" AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true" Id="46598172-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -570,7 +558,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412030" AmendLawNum="平成一二年九月一日運輸省令第三〇号" Extract="true" Id="abab1f52-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年九月一日運輸省令第三〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -583,7 +571,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412039" AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true" Id="07452690-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -596,7 +584,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413037" AmendLawNum="平成一三年三月一五日国土交通省令第三七号" Id="4670b75c-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年三月一五日国土交通省令第三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -605,7 +593,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414079" AmendLawNum="平成一四年六月二八日国土交通省令第七九号" Id="ec431f88-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月二八日国土交通省令第七九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -628,7 +616,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418058" AmendLawNum="平成一八年四月二八日国土交通省令第五八号" Extract="true" Id="81a65e96-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二八日国土交通省令第五八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -652,7 +640,7 @@
       </Article>
     </SupplProvision>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式（第六条）</AppdxStyleTitle>
+      <AppdxStyleTitle>別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
           <Fig src="./pict/S27F03901000071-001.pdf"/>

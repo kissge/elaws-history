@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="081" Year="04">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="081" Year="04" PromulgateMonth="11" PromulgateDay="30">
   <LawNum>平成四年通商産業省令第八十一号</LawNum>
   <LawBody>
-    <LawTitle>計量法附則第三条の計量単位の記号等を定める規則</LawTitle>
+    <LawTitle Kana="けいりょうほうふそくだいさんじょうのけいりょうたんいのきごうとうをさだめるきそく" Abbrev="" AbbrevKana="">計量法附則第三条の計量単位の記号等を定める規則</LawTitle>
     <EnactStatement>計量法（平成四年法律第五十一号）附則第七条及び計量法附則第三条の計量単位等を定める政令（平成四年政令第三百五十八号）別表第二第七号の規定に基づき、計量法附則第三条の計量単位の記号等を定める規則を次のように制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -35,7 +35,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412229" AmendLawNum="平成一二年一〇月一三日通商産業省令第二二九号" Id="015e89c0-1912-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一〇月一三日通商産業省令第二二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -597,7 +597,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>カロリー毎秒毎メートル毎度</Sentence>
+              <Sentence>カロリー毎時毎メートル毎度</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>ｃａｌ／（ｈ・ｍ・℃）</Sentence>

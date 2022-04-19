@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="022" Year="29">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="022" Year="29" PromulgateMonth="04" PromulgateDay="30">
   <LawNum>昭和二十九年運輸省令第二十二号</LawNum>
   <LawBody>
-    <LawTitle>軌道運転規則</LawTitle>
+    <LawTitle Kana="きどううんてんきそく" Abbrev="" AbbrevKana="">軌道運転規則</LawTitle>
     <EnactStatement>軌道法（大正十年法律第七十六号）第十四条の規定に基き、軌道運転規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -1188,7 +1188,7 @@
             </Paragraph>
           </Article>
           <Article Num="55">
-            <ArticleCaption>（退行運転をする場合の運転速度）</ArticleCaption>
+            <ArticleCaption>（退行運転の場合の運転速度）</ArticleCaption>
             <ArticleTitle>第五十五条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
@@ -1871,7 +1871,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331019" AmendLawNum="昭和三一年四月二日運輸省令第一九号" Id="f9d9e600-18e3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三一年四月二日運輸省令第一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1880,7 +1880,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331043" AmendLawNum="昭和三一年七月二〇日運輸省令第四三号" Extract="true" Id="80f6f492-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三一年七月二〇日運輸省令第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1890,7 +1890,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339051" AmendLawNum="昭和三九年七月二一日運輸省令第五一号" Extract="true" Id="fa2b10ca-18e3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年七月二一日運輸省令第五一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1905,7 +1905,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="344030" AmendLawNum="昭和四四年五月一二日運輸省令第三〇号" Id="fa53bc14-18e3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四四年五月一二日運輸省令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1915,7 +1915,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="345079" AmendLawNum="昭和四五年九月一〇日運輸省令第七九号" Extract="true" Id="c9812e68-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四五年九月一〇日運輸省令第七九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1924,17 +1924,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="346002" AmendLawNum="昭和四六年一月一一日運輸省令第二号" Extract="true" Id="62a94664-d3c1-11e9-a719-005056b30d52">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphCaption>（施行期日）</ParagraphCaption>
-        <ParagraphNum>１</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>この省令は、公布の日から施行する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-    </SupplProvision>
-    <SupplProvision AmendLawId="354016" AmendLawNum="昭和五四年四月二八日運輸省令第一六号" Extract="true" Id="166e1448-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四六年一月一一日運輸省令第二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1944,7 +1934,17 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="357004" AmendLawNum="昭和五七年三月二四日運輸省令第四号" Extract="true" Id="62b351ae-d3c1-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年四月二八日運輸省令第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五七年三月二四日運輸省令第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1967,7 +1967,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359018" AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true" Id="f77f7bdc-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2146,7 +2146,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="362029" AmendLawNum="昭和六二年三月二七日運輸省令第二九号" Extract="true" Id="a883692e-188a-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年三月二七日運輸省令第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2159,7 +2159,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="405008" AmendLawNum="平成五年三月三〇日運輸省令第八号" Extract="true" Id="4655e940-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年三月三〇日運輸省令第八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2172,7 +2172,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406014" AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true" Id="46598172-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2185,7 +2185,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412039" AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true" Id="07452690-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2198,7 +2198,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414019" AmendLawNum="平成一四年三月八日国土交通省令第一九号" Id="8593239a-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年三月八日国土交通省令第一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -2207,7 +2207,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416096" AmendLawNum="平成一六年一二月二日国土交通省令第九六号" Extract="true" Id="a3c9684e-1893-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月二日国土交通省令第九六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2220,7 +2220,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418013" AmendLawNum="平成一八年三月二四日国土交通省令第一三号" Extract="true" Id="467b87b8-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月二四日国土交通省令第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2233,7 +2233,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418078" AmendLawNum="平成一八年七月一四日国土交通省令第七八号" Extract="true" Id="467e0d76-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年七月一四日国土交通省令第七八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2246,7 +2246,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="421012" AmendLawNum="平成二一年三月二六日国土交通省令第一二号" Id="fc8c09d2-18e3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月二六日国土交通省令第一二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2263,7 +2263,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426096" AmendLawNum="平成二六年一二月二六日国土交通省令第九六号" Id="4e429100-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年一二月二六日国土交通省令第九六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

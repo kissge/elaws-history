@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Rule" Num="004" Year="60">
+<Law AmendmentId="502M60400000013" AmendmentNum="令和二年国家公安委員会規則第十三号" Era="Showa" Lang="ja" LawType="Rule" Num="004" Year="60" PromulgateMonth="12" PromulgateDay="28">
   <LawNum>昭和六十年国家公安委員会規則第四号</LawNum>
   <LawBody>
-    <LawTitle>遊技機の認定及び型式の検定等に関する規則</LawTitle>
+    <LawTitle Kana="ゆうぎきのにんていおよびかたしきのけんていとうにかんするきそく" Abbrev="遊技機規則" AbbrevKana="ゆ">遊技機の認定及び型式の検定等に関する規則</LawTitle>
     <EnactStatement>風俗営業等の規制及び業務の適正化等に関する法律（昭和二十三年法律第百二十二号）第二十条第二項、第三項、第五項及び第十一項の規定に基づき、遊技機の認定及び型式の検定等に関する規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -36,20 +36,20 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（認定申請の手続）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">風俗営業等の規制及び業務の適正化等に関する法律（以下「法」という。）第二十条第二項の認定（第三項第二号ロ（３）を除き、以下「認定」という。）を受けようとする者は、別記様式第一号の認定申請書（以下「認定申請書」という。）を営業所の所在地を管轄する都道府県公安委員会（以下「公安委員会」という。）に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定により認定申請書を提出する場合においては、営業所の所在地の所轄警察署長を経由して、正副二通の認定申請書を提出しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、一の公安委員会に対して同時に二以上の営業所に設置される遊技機について認定申請書を提出するときは、それらの営業所のうちいずれか一の営業所の所在地の所轄警察署長を経由して提出すれば足りる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">認定申請書には、次に掲げる書類を添付しなければならない。</Sentence>
@@ -127,7 +127,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遊技機の点検及び取扱いを適正に行うことができる者に関する要件は、次のとおりとする。</Sentence>
@@ -217,7 +217,7 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第三項第三号イの諸元表は、ぱちんこ遊技機にあつては別記様式第二号により、回胴式遊技機にあつては別記様式第三号により、アレンジボール遊技機にあつては別記様式第四号により、じやん球遊技機にあつては別記様式第五号により作成するものとし、その他の遊技機にあつてはこれらの様式の記載事項に準ずる事項を記載することにより作成するものとする。</Sentence>
@@ -227,7 +227,7 @@
         <Article Delete="false" Hide="false" Num="1_2">
           <ArticleCaption>（認定申請に係る補正の要求）</ArticleCaption>
           <ArticleTitle>第一条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、認定申請書又は認定申請書に添付しなければならない書類に軽微な不備（誤記又は記載漏れであつて、認定申請書を提出した者（以下「認定申請者」という。）が記載しようとした事項が容易に推測される程度のものをいう。）がある場合には、書面により、認定申請者に対し相当の期間を定めてその補正を求めることができる。</Sentence>
@@ -237,19 +237,19 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（認定に関する試験等）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、認定に関し必要があると認めるときは、認定申請書に係る遊技機（第十三条に規定する遊技機試験を受けた遊技機を除く。）につき、当該遊技機が風俗営業等の規制及び業務の適正化等に関する法律施行規則（昭和六十年国家公安委員会規則第一号）第八条に規定する基準（以下「遊技機の基準」という。）に該当しているか否か（第六条各号に掲げる遊技機の種類に該当する遊技機にあつては、その遊技機の種類に応じ、それぞれ同条各号に掲げる表に定める技術上の規格に適合しているか否か。次項及び第十四条第二項において同じ。）について別表第一に定める方法による試験（第六条各号に掲げる遊技機の種類に該当する遊技機以外の遊技機にあつては、同表に定める方法に準ずる方法による試験。第十四条第二項において同じ。）を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、第十三条に規定する遊技機試験を受けた遊技機に係る認定に関し、第一条第三項第一号に掲げる書類のみによつては当該遊技機が遊技機の基準に該当しているか否かについて判断することができないと認めるときは、法第二十条第五項に規定する指定試験機関（以下「指定試験機関」という。）に対し、当該遊技機について再び試験を行い、その結果を当該公安委員会に報告すべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、認定に関し必要があると認めるときは、認定申請者に当該遊技機又はその部品の提出を求めることができる。</Sentence>
@@ -259,25 +259,25 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（認定の通知等）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、認定申請書に係る遊技機が遊技機の基準に該当しないと認めるとき（第六条各号に掲げる遊技機の種類に該当する遊技機にあつては、その遊技機の種類に応じ、それぞれ同条各号に掲げる表に定める技術上の規格に適合していると認めるとき）は、認定をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、認定をしたときは、別記様式第六号の認定通知書により、その旨を認定申請者に通知するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、認定をしないときは、別記様式第七号の不認定通知書により、その旨を認定申請者に通知するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">認定申請書若しくは認定申請書に添付しなければならない書類に不備がある場合（第一条の二の規定による補正の要求に応じて当該補正がなされた場合を除く。）又はこれらの書類に虚偽の記載がある場合は、当該認定申請書に係る遊技機は、その認定に関しては、遊技機の基準に該当するもの（第六条各号に掲げる遊技機の種類に該当する遊技機にあつては、同条の技術上の規格に適合していないもの）とみなす。</Sentence>
@@ -287,7 +287,7 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（認定の有効期間）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">認定の有効期間は、その認定を受けた日から三年間とする。</Sentence>
@@ -297,7 +297,7 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（認定の取消し）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、認定に係る遊技機に関し、次の各号に掲げるいずれかの事実が判明したときは、その認定を取り消すことができる。</Sentence>
@@ -315,14 +315,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">公安委員会は、前項の規定により認定を取り消そうとするときは、当該認定を受けた者に対し、あらかじめ、その理由を通知して、弁明の機会を与えなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該認定を受けた者の所在が不明であるため通知をすることができないときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、第一項の規定により認定を取り消したときは、その旨を、別記様式第八号の認定取消通知書により当該認定を受けた者に通知するものとする。</Sentence>
@@ -335,7 +335,7 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（遊技機の型式に関する技術上の規格）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第二十条第三項の遊技機の型式に関する技術上の規格（以下「技術上の規格」という。）は、別表第二及び別表第三に定めるほか、次の各号に掲げる遊技機の種類に応じ、それぞれ当該各号に掲げる表に定めるとおりとする。</Sentence>
@@ -389,13 +389,13 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（検定申請の手続）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">検定を受けようとする者は、別記様式第九号の検定申請書（以下「検定申請書」という。）を当該型式に属する遊技機が設置されることとなる営業所の所在地を管轄する公安委員会に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">検定申請書には、次に掲げる書類を添付しなければならない。</Sentence>
@@ -569,20 +569,20 @@
               </Subitem1>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前項に規定するもののほか、第一項の規定により検定申請書を提出する場合においては、五台の試験用の遊技機（製造又は輸入の日から起算して三月を経過した遊技機以外の遊技機に限る。）を添えて提出するものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第五号に規定する場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二項第六号イの諸元表は、ぱちんこ遊技機にあつては別記様式第二号により、回胴式遊技機にあつては別記様式第三号により、アレンジボール遊技機にあつては別記様式第四号により、じやん球遊技機にあつては別記様式第五号により作成するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二項第六号ホの取扱説明書には、次に掲げる事項を記載しなければならない。</Sentence>
@@ -628,37 +628,37 @@
         <Article Delete="false" Hide="false" Num="7_2">
           <ArticleCaption>（確認）</ArticleCaption>
           <ArticleTitle>第七条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遊技機の製造業者は、同一の型式に属する遊技機を製造する能力を有する者であることについて公安委員会の確認を受けることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の確認を受けようとする製造業者は、前条第二項第三号に掲げる書類を添付した別記様式第十号の確認申請書（以下「確認申請書」という。）を公安委員会に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、第一項の確認を行つた製造業者に対し、別記様式第十一号の確認証明書（以下「確認証明書」という。）を交付するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">確認証明書の交付を受けた製造業者は、確認申請書又は前条第二項第三号に掲げる書類に記載した内容に変更があつたときは、当該変更の日から三十日以内に、同号に掲げる書類のうち当該変更に係る書類及び当該変更があつた後における同号ヘに規定する者の意見を記載した書類を添えて、公安委員会にその旨を、別記様式第十二号の変更届出書により届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">確認証明書の交付を受けた製造業者は、遊技機の製造を廃止したときは、当該廃止の日から三十日以内に、公安委員会にその旨を、別記様式第十三号の廃止届出書により届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、第一項の確認を受けた製造業者が次のいずれかに該当するときは、その確認を取り消すことができる。</Sentence>
@@ -682,7 +682,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="7">
+          <Paragraph Hide="false" Num="7" OldStyle="false">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、前項の規定により確認を取り消したときは、その旨を、別記様式第十四号の確認取消通知書により当該確認を受けた者に通知するものとする。</Sentence>
@@ -692,7 +692,7 @@
         <Article Delete="false" Hide="false" Num="7_3">
           <ArticleCaption>（検定申請に係る補正の要求）</ArticleCaption>
           <ArticleTitle>第七条の三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、検定申請書又は検定申請書に添付しなければならない書類に軽微な不備（誤記又は記載漏れであつて、検定申請者が記載しようとした事項が容易に推測される程度のものをいう。）がある場合には、書面により、検定申請者に対し相当の期間を定めてその補正を求めることができる。</Sentence>
@@ -702,19 +702,19 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（検定に関する試験等）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、検定の申請があつたときは、検定申請書に係る型式につき、当該型式が技術上の規格に適合しているか否かについて別表第一に定める方法による試験（第十三条に規定する型式試験を受けた型式に係る検定の申請にあつては、当該検定申請書及び第七条第二項第五号の書類による審査。次条において同じ。）を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、第十三条に規定する型式試験を受けた型式に係る検定に関し、前項の審査のみによつては当該型式が技術上の規格に適合しているか否かについて判断することができないと認めるときは、指定試験機関に対し、当該型式について再び試験（次条第一項において「再試験」という。）を行い、その結果を当該公安委員会に報告すべきことを別記様式第十五号の再試験命令書により命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、検定に関し必要があると認めるときは、検定申請者に試験用の遊技機の部品の提出を求めることができる。</Sentence>
@@ -724,25 +724,25 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（検定の通知等）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、前条第一項の試験の結果（同条第二項の再試験の結果を含む。次項において同じ。）、検定申請書に係る型式が技術上の規格に適合していると認めるときは、その旨の検定を行うものとし、その旨を、別記様式第十六号の検定通知書（甲）により検定申請者に通知するとともに公示するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、前条第一項の試験の結果、検定申請書に係る型式が技術上の規格に適合していると認められないときは、その旨の検定を行うものとし、その旨を、別記様式第十七号の検定通知書（乙）により検定申請者に通知するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">検定申請書若しくは検定申請書に添付しなければならない書類に不備がある場合（第七条の三の規定による補正の要求に応じて当該補正がなされた場合を除く。）若しくはこれらの書類に虚偽の記載がある場合又は検定申請書に係る型式の名称が過去に技術上の規格に適合している旨の検定を受けた型式（第一項の規定による公示の日から起算して十年を経過しているものを除く。）の名称と判別が著しく困難である場合は、当該検定申請書に係る型式は、その検定に関しては、技術上の規格に適合していないものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定による公示は、公安委員会の掲示板に検定の通知の日から起算して二週間掲示して行い、当該期間が満了した後においては、警視庁又は道府県警察本部における簿冊の備付けその他の適当な方法により行うものとする。</Sentence>
@@ -752,7 +752,7 @@
         <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（検定の有効期間）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">検定の有効期間は、前条第一項の規定による公示の日から三年間とする。</Sentence>
@@ -762,13 +762,13 @@
         <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（検定の取消し）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、第九条第一項の検定を受けた型式に属する遊技機の構造、材質若しくは性能が技術上の規格に適合せず、又は均一性を有していないことが判明したときは、その検定を取り消すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、検定を受けた者が次のいずれかに該当するときは、その検定を取り消すことができる。</Sentence>
@@ -804,20 +804,20 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">公安委員会は、前二項の規定により検定を取り消そうとするときは、当該検定を受けた者に対し、あらかじめ、その理由を通知して、弁明の機会を与えなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該検定を受けた者の所在が不明であるため通知をすることができないときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、第一項又は第二項の規定により検定を取り消したときは、その旨を、別記様式第十九号の検定取消通知書により当該検定を受けた者に通知するとともに公安委員会の掲示板に検定取消しの通知の日から起算して二週間掲示して公示し、第九条第四項の規定による掲示の期間の満了した後の公示について当該検定が取り消された旨を明らかにするための措置をとるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第二項第五号の規定により検査を行う警察職員は、別記様式第二十号の証明書を携帯し、関係者に提示しなければならない。</Sentence>
@@ -827,7 +827,7 @@
         <Article Delete="false" Hide="false" Num="11_2">
           <ArticleCaption>（取扱説明書）</ArticleCaption>
           <ArticleTitle>第十一条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">検定を受けた型式に属する遊技機を販売し、又は貸し付けるときは、当該遊技機には、第七条第二項第六号ホの取扱説明書と同一内容の取扱説明書を添付しなければならない。</Sentence>
@@ -840,14 +840,14 @@
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（指定試験機関への試験事務の委託）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">公安委員会は、法第二十条第五項の規定により、同項に規定する試験事務（以下「試験事務」という。）の全部又は一部を指定試験機関に行わせることとしたときは、当該試験事務の内容並びに指定試験機関の名称、住所及び代表者の氏名を公示するものとする。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、検定に係る試験事務についての公示は、官報に登載することにより行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">公安委員会は、前項の規定による公示があつたときは、公示に係る試験事務を行わないものとする。</Sentence>
@@ -857,7 +857,7 @@
         <Article Delete="false" Hide="false" Num="13">
           <ArticleCaption>（指定試験機関の試験）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前条第一項の規定による公示があつたときは、当該試験事務に係る認定又は検定を受けようとする者は、指定試験機関が行う遊技機についての認定に係る試験（以下「遊技機試験」という。）又は遊技機の型式に関する検定に係る試験（以下「型式試験」という。）を受けた後でなければ、公安委員会に対し、当該認定又は検定に係る認定申請書又は検定申請書を提出することができない。</Sentence>
@@ -867,25 +867,25 @@
         <Article Delete="false" Hide="false" Num="14">
           <ArticleCaption>（遊技機試験）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遊技機試験を受けようとする者は、第一条第三項第三号に規定する書類及び当該遊技機を添えて、別記様式第二十一号の遊技機試験申請書（以下「遊技機試験申請書」という。）を指定試験機関に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遊技機試験においては、遊技機試験申請書に係る遊技機が遊技機の基準に該当しているか否かについて別表第一に定める方法による試験を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、遊技機試験を終了したときは、速やかに、遊技機試験申請書を提出した者（以下「遊技機試験申請者」という。）に対し、当該遊技機を返還するとともに遊技機試験の結果を記載した書類を交付するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一条の二及び第三条第四項の規定は、遊技機試験について準用する。</Sentence>
@@ -896,44 +896,44 @@
         <Article Delete="false" Hide="false" Num="15">
           <ArticleCaption>（型式試験）</ArticleCaption>
           <ArticleTitle>第十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">型式試験を受けようとする者は、第七条第二項第六号に規定する書類及び同条第三項に規定する五台の試験用の遊技機を添えて、別記様式第二十二号の型式試験申請書（以下「型式試験申請書」という。）を指定試験機関に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、型式試験に関し必要があると認めるときは、型式試験申請書を提出した者（以下「型式試験申請者」という。）に対し、試験用の遊技機の部品の提出を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">型式試験においては、型式試験申請書に係る型式につき、当該型式が技術上の規格に適合しているか否かについて別表第一に定める方法による試験を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、型式試験を終了したときは、速やかに、型式試験申請者に対し、型式試験の結果を記載した書類を交付するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項に規定する書類の交付を受けた者は、指定試験機関に対し、有償で当該書類の写しを交付することを求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="6">
+          <Paragraph Hide="false" Num="6" OldStyle="false">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第七条の三及び第九条第三項の規定は、型式試験について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、第七条の三中「公安委員会」とあるのは「指定試験機関」と、「検定申請書」とあるのは「型式試験申請書」と、「検定申請者」とあるのは「型式試験申請者」と、第九条第三項中「検定申請書」とあるのは「型式試験申請書」と、「若しくはこれらの書類に虚偽の記載がある場合又は検定申請書に係る型式の名称が過去に技術上の規格に適合している旨の検定を受けた型式（第一項の規定による公示の日から起算して十年を経過しているものを除く。）の名称と判別が著しく困難である場合」とあるのは「又はこれらの書類に虚偽の記載がある場合」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="7">
+          <Paragraph Hide="false" Num="7" OldStyle="false">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">指定試験機関は、型式試験申請書、第一項の規定により提出された書類及び同項の規定により提出された遊技機のうち一台を型式試験が終了した日から六年間保管しなければならない。</Sentence>
@@ -947,7 +947,7 @@
         <Article Delete="false" Hide="false" Num="16">
           <ArticleCaption>（指定の申請）</ArticleCaption>
           <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第二十条第五項の規定による指定を受けようとする法人は、次に掲げる事項を記載した申請書を国家公安委員会に提出しなければならない。</Sentence>
@@ -965,7 +965,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
@@ -1023,7 +1023,7 @@
         <Article Delete="false" Hide="false" Num="17">
           <ArticleCaption>（名称等の変更）</ArticleCaption>
           <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、その名称若しくは住所又は試験事務を行う事務所の名称若しくは所在地を変更しようとするときは、あらかじめその旨を国家公安委員会に届け出なければならない。</Sentence>
@@ -1033,7 +1033,7 @@
         <Article Delete="false" Hide="false" Num="17_2">
           <ArticleCaption>（指定）</ArticleCaption>
           <ArticleTitle>第十七条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法第二十条第五項の規定による指定は、次の各号に掲げる基準のいずれにも該当すると認められる者について行うものとする。</Sentence>
@@ -1067,7 +1067,7 @@
         <Article Delete="false" Hide="false" Num="18">
           <ArticleCaption>（役員の選任及び解任）</ArticleCaption>
           <ArticleTitle>第十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、役員を選任し、又は解任しようとするときは、国家公安委員会の承認を受けなければならない。</Sentence>
@@ -1077,13 +1077,13 @@
         <Article Delete="false" Hide="false" Num="19">
           <ArticleCaption>（試験事務の義務等）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、遊技機試験又は型式試験を行うべきことを求められたときは、正当な理由がある場合を除き、遅滞なく、当該試験を行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遊技機試験又は型式試験は、次のいずれかに該当する者に行わせなければならない。</Sentence>
@@ -1111,7 +1111,7 @@
         <Article Delete="false" Hide="false" Num="20">
           <ArticleCaption>（試験員の選任及び解任）</ArticleCaption>
           <ArticleTitle>第二十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、試験員を選任し、又は解任したときは、遅滞なく、次に掲げる事項を記載した届出書を国家公安委員会に提出しなければならない。</Sentence>
@@ -1135,7 +1135,7 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の場合において、選任の届出をしようとするときは、同項の届出書に、当該選任に係る者が前条第二項各号のいずれかに該当する者であることを証明する書面を添付しなければならない。</Sentence>
@@ -1145,14 +1145,14 @@
         <Article Delete="false" Hide="false" Num="21">
           <ArticleCaption>（試験事務規程）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">指定試験機関は、試験事務の実施に関する規程（以下「試験事務規程」という。）を定め、国家公安委員会の承認を受けなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">試験事務規程で定めるべき事項は、次のとおりとする。</Sentence>
@@ -1210,13 +1210,13 @@
         <Article Delete="false" Hide="false" Num="22">
           <ArticleCaption>（事業計画等）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、毎事業年度開始前に、事業計画書及び収支予算書を国家公安委員会に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、毎事業年度終了後三月以内に、事業報告書及び収支決算書を国家公安委員会に提出しなければならない。</Sentence>
@@ -1226,7 +1226,7 @@
         <Article Delete="false" Hide="false" Num="23">
           <ArticleCaption>（帳簿の備付け等）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、遊技機試験又は型式試験の結果を記載した書類及び次に掲げる事項を記載した帳簿を試験事務を行う事務所ごとに作成して備え付け、記載の日から十年間保存しなければならない。</Sentence>
@@ -1260,13 +1260,13 @@
         <Article Delete="false" Hide="false" Num="23_2">
           <ArticleCaption>（電磁的方法による保存）</ArticleCaption>
           <ArticleTitle>第二十三条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">遊技機試験又は型式試験の結果及び前条各号に掲げる事項が電磁的方法（電子的方法、磁気的方法その他の人の知覚によつて認識することができない方法をいう。以下同じ。）により試験事務を行う事務所ごとに記録され、当該記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにして保存されるときは、当該記録の保存をもつて前条に規定する、当該結果が記載された書類及び当該事項が記載された帳簿の保存に代えることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定による保存をする場合には、国家公安委員会が定める基準を確保するよう努めなければならない。</Sentence>
@@ -1276,7 +1276,7 @@
         <Article Delete="false" Hide="false" Num="24">
           <ArticleCaption>（報告等）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国家公安委員会は、試験事務の適正な実施のため必要があると認めるときは、指定試験機関に対し、試験事務の実施に関し報告させ、又は資料の提出を求めることができる。</Sentence>
@@ -1286,7 +1286,7 @@
         <Article Delete="false" Hide="false" Num="25">
           <ArticleCaption>（解任の勧告）</ArticleCaption>
           <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国家公安委員会は、指定試験機関の役員又は試験員が試験事務規程に違反した場合その他試験事務の実施に関し不正な行為をした場合において、著しく試験事務の実施に支障が生ずると認めるときは、指定試験機関に対し、当該役員又は試験員の解任を勧告することができる。</Sentence>
@@ -1296,7 +1296,7 @@
         <Article Delete="false" Hide="false" Num="26">
           <ArticleCaption>（業務改善の勧告）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国家公安委員会は、指定試験機関の財産の状況又は試験事務の実施に関し改善が必要であると認めるときは、指定試験機関に対し、その改善に必要な措置を採るべきことを勧告することができる。</Sentence>
@@ -1306,7 +1306,7 @@
         <Article Delete="false" Hide="false" Num="27">
           <ArticleCaption>（試験事務の休廃止）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、試験事務の全部又は一部を休止し、又は廃止しようとするときは、あらかじめ、国家公安委員会の承認を受けなければならない。</Sentence>
@@ -1316,7 +1316,7 @@
         <Article Delete="false" Hide="false" Num="28">
           <ArticleCaption>（指定の取消し）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">国家公安委員会は、指定試験機関が次の各号のいずれかに該当するときは、その指定を取り消すことができる。</Sentence>
@@ -1350,13 +1350,13 @@
         <Article Delete="false" Hide="false" Num="29">
           <ArticleCaption>（公安委員会による試験事務の実施）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第十二条第一項の規定による公示をした公安委員会は、指定試験機関が第二十七条の承認を受けて試験事務の全部若しくは一部を休止したとき、又は指定試験機関が天災その他の事由により試験事務の全部若しくは一部を実施することが困難となつた場合において必要があると認めるときは、第十二条第二項の規定にかかわらず、試験事務の全部又は一部を自ら行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">公安委員会は、前項の規定により試験事務の全部若しくは一部を自ら行うこととし、又は同項の規定により行つている試験事務の全部若しくは一部を行わないこととするときは、あらかじめその旨を公示するものとする。</Sentence>
@@ -1367,7 +1367,7 @@
         <Article Delete="false" Hide="false" Num="30">
           <ArticleCaption>（試験事務の引継ぎ等）</ArticleCaption>
           <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">指定試験機関は、第二十七条の承認を受けて試験事務の全部若しくは一部を廃止したとき、第二十八条の規定により指定を取り消されたとき、又は前条第一項の規定により公安委員会が試験事務の全部若しくは一部を自ら行うこととしたときは、次に掲げる事項を行わなければならない。</Sentence>
@@ -1395,7 +1395,7 @@
         <Article Delete="false" Hide="false" Num="31">
           <ArticleCaption>（フレキシブルディスクによる手続）</ArticleCaption>
           <ArticleTitle>第三十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">次の各号に掲げる書類の当該各号に定める規定による提出については、当該書類の提出に代えて当該書類に記載すべきこととされている事項を記録したフレキシブルディスク及び別記様式第二十三号のフレキシブルディスク提出票を提出することにより行うことができる。</Sentence>
@@ -1522,13 +1522,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項のフレキシブルディスクは、産業標準化法（昭和二十四年法律第百八十五号）に基づく日本産業規格（以下この条において「日本産業規格」という。）Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3">
+          <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定によるフレキシブルディスクへの記録は、次に掲げる方式に従つて行わなければならない。</Sentence>
@@ -1552,13 +1552,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項の規定によるフレキシブルディスクへの記録は、日本産業規格Ｘ〇二〇一及びＸ〇二〇八に規定する図形文字並びに日本産業規格Ｘ〇二一一に規定する制御文字のうち「復帰」及び「改行」を用いて行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="5">
+          <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">第一項のフレキシブルディスクには、日本産業規格Ｘ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。</Sentence>
@@ -1583,7 +1583,7 @@
         <Article Delete="false" Hide="false" Num="32">
           <ArticleCaption>（特定装置）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">風俗営業等の規制及び業務の適正化等に関する法律施行令（昭和五十九年政令第三百十九号）第十四条の表の一の項の国家公安委員会規則で定める装置は、電動役物（役物（入賞を容易にするための特別の装置をいう。以下同じ。）で電気的動力により作動するものをいう。以下同じ。）とする。</Sentence>
@@ -1594,44 +1594,44 @@
     </MainProvision>
     <SupplProvision Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、風俗営業等取締法の一部を改正する法律（昭和五十九年法律第七十六号）の施行の日（昭和六十年二月十三日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二年八月三一日国家公安委員会規則第六号" Extract="false">
+    <SupplProvision AmendLawNum="平成二年八月三一日国家公安委員会規則第六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成二年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphCaption>（遊技機の認定に関する経過措置）</ParagraphCaption>
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行の際現に法第二十条第二項の認定を受けている遊技機及び現に公安委員会に提出されている遊技機の認定及び型式の検定等に関する規則（以下「遊技機認定規則」という。）第一条第一項の認定申請書に係る遊技機、現に指定試験機関に提出されている遊技機認定規則第十四条第一項の遊技機試験申請書に係る遊技機並びに次項に規定する遊技機の型式（この規則の施行の際現に公安委員会に提出されている遊技機認定規則第七条第一項の検定申請書に係る遊技機の型式及び現に指定試験機関に提出されている遊技機認定規則第十五条第一項の型式試験申請書に係る遊技機の型式にあっては、この規則の施行の日以後に次項の規定によりなお従前の例によるものとされる法第二十条第三項の規定による技術上の規格に適合する旨の同条第四項の検定を受けたものに限る。）に属する遊技機についての法第四条第三項の規定による著しく客の射幸心をそそるおそれがある遊技機の基準については、第一条の規定による改正後の施行規則第七条の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphCaption>（遊技機の型式の検定に関する経過措置）</ParagraphCaption>
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行の際現に法第二十条第四項の検定を受けている遊技機の型式及び現に公安委員会に提出されている遊技機認定規則第七条第一項の検定申請書に係る遊技機の型式並びに現に指定試験機関に提出されている遊技機認定規則第十五条第一項の型式試験申請書に係る遊技機の型式についての法第二十条第三項の規定による技術上の規格については、第二条の規定による改正後の遊技機認定規則第六条及び別表第二から別表第七までの規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphCaption>（許可の取消し等に関する経過措置）</ParagraphCaption>
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前にした行為に係るこの規則の施行後における法第三条第一項の許可の取消し、停止その他の処分については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="7">
+      <Paragraph Hide="false" Num="7" OldStyle="false">
         <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
@@ -1639,15 +1639,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成六年三月四日国家公安委員会規則第九号" Extract="false">
+    <SupplProvision AmendLawNum="平成六年三月四日国家公安委員会規則第九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則による改正前の警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則、風俗営業等の規制及び業務の適正化等に関する法律施行規則、遊技機の認定及び型式の検定等に関する規則、警備員等の検定に関する規則、指定車両移動保管機関等に関する規則、遺失物取扱規則、自動車の保管場所の確保等に関する法律施行規則、暴力団員による不当な行為の防止等に関する法律施行規則及び暴力団員による不当な行為の防止等に関する法律の規定に基づく聴聞の実施に関する規則に規定する様式による書面については、当分の間、それぞれ改正後のこれらの規則に規定する様式による書面とみなす。</Sentence>
@@ -1656,7 +1656,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成六年九月二六日国家公安委員会規則第二五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、行政手続法の施行の日（平成六年十月一日）から施行する。</Sentence>
@@ -1665,45 +1665,45 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成七年五月一六日国家公安委員会規則第五号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成七年六月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行の際現に都道府県公安委員会に提出されている改正前の遊技機の認定及び型式の検定等に関する規則（以下「旧規則」という。）第一条第一項の認定申請書に係る遊技機についての風俗営業等の規制及び業務の適正化等に関する法律（以下「法」という。）第二十条第二項の認定（以下「認定」という。）及び旧規則第七条第一項の検定申請書に係る型式についての法第二十条第四項の検定（以下「検定」という。）並びに現に法第二十条第五項に規定する指定試験機関（以下「指定試験機関」という。）に提出されている旧規則第十四条第一項の遊技機試験申請書に係る遊技機についての遊技機試験（指定試験機関が行う遊技機についての認定に係る試験をいう。以下同じ。）及び旧規則第十五条第一項の型式試験申請書に係る型式についての型式試験（指定試験機関が行う遊技機の型式に関する検定に係る試験をいう。以下同じ。）については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前に遊技機試験を受けた遊技機若しくは検定を受けた型式に属する遊技機又はこの規則の施行の日（以下「施行日」という。）以後に前項の規定によりなお従前の例によることとされる遊技機試験を受けた遊技機若しくは前項若しくは次項の規定によりなお従前の例によることとされる検定を受けた型式に属する遊技機についての認定については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前に型式試験を受けた型式又は施行日以後に附則第二項の規定によりなお従前の例によることとされる型式試験を受けた型式についての検定については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行の際現に受けている検定及び施行日以後に附則第二項又は前項の規定によりなお従前の例によることとされる検定の取消しについては、改正後の遊技機の認定及び型式の検定等に関する規則（以下「新規則」という。）第十一条の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前に旧規則第十一条第一項の規定によりされた検定の取消し及び前項の規定によりなお従前の例によることとされる場合における施行日以後にされた検定の取消しは、新規則第七条第二項第一号の規定の適用については、新規則第十一条第二項の規定による検定の取消しとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="7">
+      <Paragraph Hide="false" Num="7" OldStyle="false">
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">新規則第十一条の二の規定は、この規則の施行の際現に検定を受けている型式に属する遊技機及び施行日以後に附則第二項又は第四項の規定によりなお従前の例によることとされる検定を受けた型式に属する遊技機については、適用しない。</Sentence>
@@ -1712,23 +1712,23 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一〇年七月二九日国家公安委員会規則第一二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成十年八月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一月一一日国家公安委員会規則第一号" Extract="false">
+    <SupplProvision AmendLawNum="平成一一年一月一一日国家公安委員会規則第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1739,7 +1739,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一一年三月三一日国家公安委員会規則第七号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
@@ -1748,37 +1748,37 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年三月三〇日国家公安委員会規則第八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、地方分権の推進を図るための関係法律の整備等に関する法律の施行の日（平成十二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一六年一月三〇日国家公安委員会規則第一号" Extract="false">
+    <SupplProvision AmendLawNum="平成一六年一月三〇日国家公安委員会規則第一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成十六年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（遊技機の変更の承認に関する経過措置）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行の際現に施行規則第十七条第一項の変更承認申請書を公安委員会に提出している者に対する法第二十条第十項で準用する法第九条第一項の承認（以下単に「承認」という。）に関する法第四条第四項の基準については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphCaption>（遊技機の規制に関する経過措置）</ParagraphCaption>
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前にされた許可又は承認の申請に係る遊技機（法第二十条第二項の認定（以下単に「認定」という。）を受けたもの又は同条第四項の検定（以下単に「検定」という。）を受けた型式に属するものに限る。）に関する同条第一項の基準については、当該認定を受けた日又は当該検定の遊技機規則第九条第一項の規定による公示の日（以下単に「公示の日」という。）から起算して三年を経過するまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphCaption>（遊技機の認定に関する経過措置）</ParagraphCaption>
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
@@ -1803,7 +1803,7 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphCaption>（遊技機の型式の検定に関する経過措置）</ParagraphCaption>
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
@@ -1828,7 +1828,7 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="7">
+      <Paragraph Hide="false" Num="7" OldStyle="false">
         <ParagraphCaption>（施行日以後にされた許可の申請等に関する経過措置）</ParagraphCaption>
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
@@ -1868,33 +1868,33 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="8">
+      <Paragraph Hide="false" Num="8" OldStyle="false">
         <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項柱書に掲げる遊技機に係る施行規則第十七条第一項の変更承認申請書を施行日以後に公安委員会に提出した者に対する承認に関する法第四条第四項の基準については、前項各号に掲げる遊技機の区分に応じ当該各号に定める日から起算して三年を経過するまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="9">
+      <Paragraph Hide="false" Num="9" OldStyle="false">
         <ParagraphNum>９</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">附則第七項及び前項の規定によりなお従前の例によることとされた法第四条第四項の基準に従ってされた許可又は承認に係る遊技機に関する法第二十条第一項の基準については、附則第七項各号に掲げる遊技機の区分に応じ当該各号に定める日から起算して三年を経過するまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="10">
+      <Paragraph Hide="false" Num="10" OldStyle="false">
         <ParagraphCaption>（認定及び検定の効力に関する経過措置）</ParagraphCaption>
         <ParagraphNum>１０</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">附則第五項の規定によりなお従前の例によることとされた法第二十条第一項の基準に従ってされた認定又は附則第六項の規定によりなお従前の例によることとされた法第二十条第三項の技術上の規格に従ってされた検定は、この規則による改正後の施行規則第七条並びにこの規則による改正後の遊技機規則第六条及び別表第二から別表第七までの規定にかかわらず、附則第七項各号に掲げる遊技機の区分に応じ当該各号に定める日から起算して三年を経過するまでの間は、なおその効力を有する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="11">
+      <Paragraph Hide="false" Num="11" OldStyle="false">
         <ParagraphCaption>（許可の取消し等に関する経過措置）</ParagraphCaption>
         <ParagraphNum>１１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前にした行為及びこの附則の規定によりなおその効力を有することとされる場合における施行日以後にした行為に係るこの規則の施行後における許可の取消し、停止その他の処分については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="12">
+      <Paragraph Hide="false" Num="12" OldStyle="false">
         <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
         <ParagraphNum>１２</ParagraphNum>
         <ParagraphSentence>
@@ -1904,19 +1904,19 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一七年三月四日国家公安委員会規則第二号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一八年四月二四日国家公安委員会規則第一四号" Extract="false">
+    <SupplProvision AmendLawNum="平成一八年四月二四日国家公安委員会規則第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律（平成十七年法律第百十九号。以下「改正法」という。）の施行の日（平成十八年五月一日）から施行する。</Sentence>
@@ -1926,7 +1926,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二〇年八月一日国家公安委員会規則第一六号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、一般社団法人及び一般財団法人に関する法律の施行の日（平成二十年十二月一日）から施行する。</Sentence>
@@ -1938,7 +1938,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する等の法律（平成二十一年法律第七十九号）の施行の日（平成二十四年七月九日）から施行する。</Sentence>
@@ -1948,7 +1948,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則の施行の日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -1956,9 +1956,9 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年一一月一三日国家公安委員会規則第二〇号" Extract="false">
+    <SupplProvision AmendLawNum="平成二七年一一月一三日国家公安委員会規則第二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1966,37 +1966,23 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年九月四日国家公安委員会規則第九号" Extract="false" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年九月四日国家公安委員会規則第九号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、平成三十年二月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
-        <ParagraphCaption>（許可に関する経過措置）</ParagraphCaption>
-        <ParagraphNum>２</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence WritingMode="vertical">この規則の施行の際現に風俗営業等の規制及び業務の適正化等に関する法律（以下「法」という。）第五条第一項の許可申請書を都道府県公安委員会（以下「公安委員会」という。）に提出している者に対する法第三条第一項の許可（以下単に「許可」という。）に関する法第四条第四項の基準については、なお従前の例による。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Hide="false" Num="3">
-        <ParagraphCaption>（遊技機の変更の承認に関する経過措置）</ParagraphCaption>
-        <ParagraphNum>３</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence WritingMode="vertical">この規則の施行の際現に施行規則第十九条第一項の変更承認申請書を公安委員会に提出している者に対する法第二十条第十項で準用する法第九条第一項の承認（以下単に「承認」という。）に関する法第四条第四項の基準については、なお従前の例による。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphCaption>（遊技機の規制に関する経過措置）</ParagraphCaption>
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この規則の施行前にされた許可又は承認の申請に係る遊技機（法第二十条第二項の認定（以下単に「認定」という。）を受けたもの又は同条第四項の検定（以下単に「検定」という。）を受けた型式に属するものに限る。）に関する同条第一項の基準については、当該認定を受けた日又は当該検定の遊技機規則第九条第一項の規定による公示の日（以下単に「公示の日」という。）から起算して四年（風俗営業等の規制及び業務の適正化等に関する法律施行規則及び遊技機の認定及び型式の検定等に関する規則の一部を改正する規則の一部を改正する規則（令和二年国家公安委員会規則第七号）の施行の日の翌日の三年前の日（附則第十項において「特定日」という。）の前日までに認定を受けた遊技機又は検定を受けた型式に属する遊技機（以下「特定遊技機」）という。）に係る場合にあっては、三年）を経過するまでの間は、なお従前の例による。</Sentence>
+          <Sentence WritingMode="vertical">この規則の施行前にされた許可又は承認の申請に係る遊技機（法第二十条第二項の認定（以下単に「認定」という。）を受けたもの又は同条第四項の検定（以下単に「検定」という。）を受けた型式に属するものに限る。）に関する同条第一項の基準については、当該認定を受けた日又は当該検定の遊技機規則第九条第一項の規定による公示の日（以下単に「公示の日」という。）から起算して四年（風俗営業等の規制及び業務の適正化等に関する法律施行規則及び遊技機の認定及び型式の検定等に関する規則の一部を改正する規則の一部を改正する規則（令和二年国家公安委員会規則第七号）の施行の日の翌日の三年前の日（附則第十項において「特定日」という。）の前日までに認定を受けた遊技機又は検定を受けた型式に属する遊技機（以下「特定遊技機」という。）に係る場合にあっては、三年）を経過するまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="5">
+      <Paragraph Hide="false" Num="5" OldStyle="false">
         <ParagraphCaption>（遊技機の認定に関する経過措置）</ParagraphCaption>
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
@@ -2021,7 +2007,7 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="6">
+      <Paragraph Hide="false" Num="6" OldStyle="false">
         <ParagraphCaption>（遊技機の型式の検定に関する経過措置）</ParagraphCaption>
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
@@ -2046,7 +2032,7 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="7">
+      <Paragraph Hide="false" Num="7" OldStyle="false">
         <ParagraphCaption>（施行日以後にされた許可の申請等に関する経過措置）</ParagraphCaption>
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
@@ -2086,39 +2072,39 @@
           </ItemSentence>
         </Item>
       </Paragraph>
-      <Paragraph Hide="false" Num="8">
+      <Paragraph Hide="false" Num="8" OldStyle="false">
         <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">前項に規定する遊技機に係る施行規則第十九条第一項の変更承認申請書を施行日以後に公安委員会に提出した者に対する承認に関する法第四条第四項の基準については、前項各号に掲げる遊技機の区分に応じ当該各号に定める日から起算して四年（特定遊技機に係る場合にあっては、三年）を経過するまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="9">
+      <Paragraph Hide="false" Num="9" OldStyle="false">
         <ParagraphNum>９</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">附則第七項及び前項の規定によりなお従前の例によることとされた法第四条第四項の基準に従ってされた許可又は承認に係る遊技機に関する法第二十条第一項の基準については、附則第七項各号に掲げる遊技機の区分に応じ当該各号に定める日から起算して四年（特定遊技機に係る場合にあっては、三年）を経過するまでの間は、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="10">
+      <Paragraph Hide="false" Num="10" OldStyle="false">
         <ParagraphCaption>（認定及び検定の効力に関する経過措置）</ParagraphCaption>
         <ParagraphNum>１０</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">特定日から施行日の前日までの間にされた認定又は検定は、遊技機規則第四条又は第十条の規定にかかわらず、当該認定を受けた日又は当該検定の公示の日から起算して四年を経過するまでの間は、なおその効力を有する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="11">
+      <Paragraph Hide="false" Num="11" OldStyle="false">
         <ParagraphNum>１１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">附則第五項の規定によりなお従前の例によることとされた法第二十条第一項の基準に従ってされた認定又は附則第六項の規定によりなお従前の例によることとされた同条第三項の技術上の規格に従ってされた検定は、附則第七項各号に掲げる遊技機の区分に応じ当該各号に定める日から起算して四年を経過するまでの間は、なおその効力を有する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="12">
+      <Paragraph Hide="false" Num="12" OldStyle="false">
         <ParagraphCaption>（許可の取消し等に関する経過措置）</ParagraphCaption>
         <ParagraphNum>１２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの規則の施行後にした行為に係るこの規則の施行後における許可の取消し、停止その他の処分については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="13">
+      <Paragraph Hide="false" Num="13" OldStyle="false">
         <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
         <ParagraphNum>１３</ParagraphNum>
         <ParagraphSentence>
@@ -2128,7 +2114,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年四月二七日国家公安委員会規則第一〇号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、学校教育法の一部を改正する法律の施行の日（平成三十一年四月一日）から施行する。</Sentence>
@@ -2137,14 +2123,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年六月二一日国家公安委員会規則第三号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、令和元年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -2152,24 +2138,17 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年一〇月二四日国家公安委員会規則第八号" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一〇月二四日国家公安委員会規則第八号" Type="Amend" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1" WritingMode="vertical">この規則は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律附則第一条第二号に掲げる規定の施行の日（令和元年十二月十四日）から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十一条中国家公安委員会の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する規則別表第一風俗営業等の規制及び業務の適正化等に関する法律施行規則（昭和六十年国家公安委員会規則第一号）の項の改正規定は、公布の日から施行する。</Sentence>
+          <Sentence WritingMode="vertical">この規則は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律附則第一条第二号に掲げる規定の施行の日（令和元年十二月十四日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
-        <ParagraphNum>２</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence WritingMode="vertical">この規則の施行の際現に自動車運転代行業の業務の適正化に関する法律（平成十三年法律第五十七号）第二十条第一項の規定により備え付けているこの規則による改正前の運転代行業法施行規則第十三条第二号に掲げる書面は、この規則による改正後の運転代行業法施行規則第十五条第二号に掲げる書面とみなす。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Hide="false" Num="3">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
@@ -2178,7 +2157,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年五月二〇日国家公安委員会規則第七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
@@ -2190,7 +2169,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
@@ -2200,13 +2179,13 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則による改正前の様式（次項において「旧様式」という。）により使用されている書類は、当分の間、この規則による改正後の様式によるものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
@@ -2423,7 +2402,7 @@
     </AppdxStyle>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第１　試験の方法</AppdxTableTitle>
-      <RelatedArticleNum>（第２条、第８条、第14条、第15条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第２条、第８条、第１４条、第１５条関係）</RelatedArticleNum>
       <Item Delete="false" Hide="false" Num="1">
         <ItemTitle/>
         <ItemSentence>
@@ -2730,7 +2709,7 @@
         <Subitem1 Delete="false" Hide="false" Num="7">
           <Subitem1Title>ト</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence WritingMode="vertical">「第１種特別役物」とは、規定数ごとの入賞に係る図柄の組合せの数を増加させ、又は規定数ごとの入賞に係る条件装置が作動する確率を上昇させる役物で、あらかじめ定められた場合に作動し12回を超えない回数の遊技の結果が得られるまで作動を継続することができるものをいう。</Sentence>
+            <Sentence WritingMode="vertical">「第１種特別役物」とは、規定数ごとの入賞に係る図柄の組合せの数を増加させ、又は規定数ごとの入賞に係る条件装置が作動する確率を上昇させる役物で、あらかじめ定められた場合に作動し１２回を超えない回数の遊技の結果が得られるまで作動を継続することができるものをいう。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Delete="false" Hide="false" Num="8">
@@ -3100,7 +3079,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">記憶容量が16ＫＢを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">記憶容量が１６ＫＢを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -3118,7 +3097,7 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">回胴式遊技機に係るロム（（３）ニに規定するものを除く。）にあつては、制御領域の容量が4.5ＫＢを超えず、かつ、データ領域の容量が３ＫＢを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">回胴式遊技機に係るロム（（３）ニに規定するものを除く。）にあつては、制御領域の容量が４．５ＫＢを超えず、かつ、データ領域の容量が３ＫＢを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
@@ -3130,7 +3109,7 @@
           <Subitem2 Delete="false" Hide="false" Num="7">
             <Subitem2Title>（ト）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">（３）ニに規定するロムは、使用領域の容量が2.5ＫＢを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">（３）ニに規定するロムは、使用領域の容量が２．５ＫＢを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3142,13 +3121,13 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">記憶容量が1,024Ｂを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">記憶容量が１，０２４Ｂを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">使用領域の容量が512Ｂを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">使用領域の容量が５１２Ｂを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3183,7 +3162,7 @@
             <Subitem3 Delete="false" Hide="false" Num="1">
               <Subitem3Title>ａ</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence WritingMode="vertical">周期が0.05秒を超えるものでないこと。</Sentence>
+                <Sentence WritingMode="vertical">周期が０．０５秒を超えるものでないこと。</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Delete="false" Hide="false" Num="2">
@@ -3285,19 +3264,19 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">１分間に100個を超える遊技球を発射することができるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">１分間に１００個を超える遊技球を発射することができるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間行つた場合において、（イ）及び（ロ）に掲げる性能が不変であるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間行つた場合において、（イ）及び（ロ）に掲げる性能が不変であるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間行つた場合において、その間、遊技盤上の遊技球の位置を確認し、かつ、調整することができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間行つた場合において、その間、遊技盤上の遊技球の位置を確認し、かつ、調整することができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3309,7 +3288,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">１個の遊技球が入賞口に入賞した場合に、15個を超える数の遊技球を獲得することができるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">１個の遊技球が入賞口に入賞した場合に、１５個を超える数の遊技球を獲得することができるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -3321,25 +3300,25 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を１時間行つた場合において、獲得する遊技球の総数が発射させた遊技球の総数の３分の１を超え、かつ、2.2倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を１時間行つた場合において、獲得する遊技球の総数が発射させた遊技球の総数の３分の１を超え、かつ、２．２倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を４時間行つた場合において、獲得する遊技球の総数が発射させた遊技球の総数の５分の２を超え、かつ、1.5倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を４時間行つた場合において、獲得する遊技球の総数が発射させた遊技球の総数の５分の２を超え、かつ、１．５倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を10時間行つた場合において、獲得する遊技球の総数が発射させた遊技球の総数の２分の１を超え、かつ、３分の４に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を１０時間行つた場合において、獲得する遊技球の総数が発射させた遊技球の総数の２分の１を超え、かつ、３分の４に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を10時間行つた場合において、獲得する遊技球の数のうち役物の作動によるものの割合が７割（役物が連続して作動する場合における当該役物の作動によるものの割合にあつては、６割）を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">設定ごとに、遊技球の試射試験を１０時間行つた場合において、獲得する遊技球の数のうち役物の作動によるものの割合が７割（役物が連続して作動する場合における当該役物の作動によるものの割合にあつては、６割）を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3357,7 +3336,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">すべての第１種非電動役物に係る最大入賞数の合計は、電動役物が設けられているぱちんこ遊技機にあつては４個を、電動役物が設けられていないぱちんこ遊技機にあつては14個を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">すべての第１種非電動役物に係る最大入賞数の合計は、電動役物が設けられているぱちんこ遊技機にあつては４個を、電動役物が設けられていないぱちんこ遊技機にあつては１４個を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3369,13 +3348,13 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">１の第２種非電動役物に係る最大入賞数は、電動役物が設けられているぱちんこ遊技機にあつてはおおむね２個を、電動役物が設けられていないぱちんこ遊技機にあつてはおおむね10個を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">１の第２種非電動役物に係る最大入賞数は、電動役物が設けられているぱちんこ遊技機にあつてはおおむね２個を、電動役物が設けられていないぱちんこ遊技機にあつてはおおむね１０個を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">すべての第２種非電動役物に係る最大入賞数の合計は、電動役物が設けられているぱちんこ遊技機にあつてはおおむね４個を、電動役物が設けられていないぱちんこ遊技機にあつてはおおむね20個を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">すべての第２種非電動役物に係る最大入賞数の合計は、電動役物が設けられているぱちんこ遊技機にあつてはおおむね４個を、電動役物が設けられていないぱちんこ遊技機にあつてはおおむね２０個を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -3399,7 +3378,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">普通電動役物の１回の作動により、入賞口の入口が開き、又は拡大する状態（以下この表において「開放等」という。）の時間は、通じて６秒間を超えないあらかじめ定められたものであることとし、また、普通電動役物に係る最大入賞数は、おおむね10個を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">普通電動役物の１回の作動により、入賞口の入口が開き、又は拡大する状態（以下この表において「開放等」という。）の時間は、通じて６秒間を超えないあらかじめ定められたものであることとし、また、普通電動役物に係る最大入賞数は、おおむね１０個を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -3496,19 +3475,19 @@
           <Subitem2 Delete="false" Hide="false" Num="6">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">特別電動役物に係る最大入賞数は、おおむね10個を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">特別電動役物に係る最大入賞数は、おおむね１０個を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="7">
             <Subitem2Title>（ト）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">役物連続作動装置が作動していない場合において、特別電動役物の１回の作動による大入賞口の開放等の時間は、通じて1.8秒間を超えないあらかじめ定められたものであること。</Sentence>
+              <Sentence WritingMode="vertical">役物連続作動装置が作動していない場合において、特別電動役物の１回の作動による大入賞口の開放等の時間は、通じて１．８秒間を超えないあらかじめ定められたものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="8">
             <Subitem2Title>（チ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">役物連続作動装置が作動している場合において、特別電動役物の１回の作動による大入賞口の開放等の時間は、通じて30秒間を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">役物連続作動装置が作動している場合において、特別電動役物の１回の作動による大入賞口の開放等の時間は、通じて３０秒間を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="9">
@@ -3518,7 +3497,7 @@
             </Subitem2Sentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">Ｍ×Ｎ×Ｒ×Ｓ≦10</Sentence>
+                <Sentence WritingMode="vertical">Ｍ×Ｎ×Ｒ×Ｓ≦１０</Sentence>
               </ListSentence>
             </List>
           </Subitem2>
@@ -3591,13 +3570,13 @@
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">役物連続作動装置の１回の作動により特別電動役物が連続して作動する回数の合計は、10回を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">役物連続作動装置の１回の作動により特別電動役物が連続して作動する回数の合計は、１０回を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">条件装置の作動に係る大入賞口内の特定の領域を通過する遊技球の数は、当該大入賞口に入賞する遊技球の数のおおむね10分の１を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">条件装置の作動に係る大入賞口内の特定の領域を通過する遊技球の数は、当該大入賞口に入賞する遊技球の数のおおむね１０分の１を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
@@ -3678,7 +3657,7 @@
           <Subitem2 Delete="false" Hide="false" Num="8">
             <Subitem2Title>（チ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">（ト）に規定するぱちんこ遊技機にあつては、作動確率の値のうち高いものの低いものに対する比率が10倍を超えるものでなく、かつ、当該比率が設定ごとに異なるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">（ト）に規定するぱちんこ遊技機にあつては、作動確率の値のうち高いものの低いものに対する比率が１０倍を超えるものでなく、かつ、当該比率が設定ごとに異なるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="9">
@@ -3798,13 +3777,13 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球には、直径11ｍｍの玉を用いること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球には、直径１１ｍｍの玉を用いること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球には、5.4ｇ以上5.7ｇ以下の質量の玉を用いること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球には、５．４ｇ以上５．７ｇ以下の質量の玉を用いること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3822,7 +3801,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技盤の大きさは、一辺が500ｍｍである正方形の枠を超えず、かつ、直径が300ｍｍである円を含むことができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技盤の大きさは、一辺が５００ｍｍである正方形の枠を超えず、かつ、直径が３００ｍｍである円を含むことができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3834,7 +3813,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">役物が作動しない場合における入賞口の数は、５個以上15個以下であること。</Sentence>
+              <Sentence WritingMode="vertical">役物が作動しない場合における入賞口の数は、５個以上１５個以下であること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -3858,37 +3837,37 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">役物が作動しない場合における入賞口の入口の大きさは、13ｍｍを超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">役物が作動しない場合における入賞口の入口の大きさは、１３ｍｍを超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第１種非電動役物の作動により拡大した場合における入賞口の入口の大きさは、55ｍｍを超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">第１種非電動役物の作動により拡大した場合における入賞口の入口の大きさは、５５ｍｍを超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="7">
             <Subitem2Title>（ト）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第２種非電動役物の作動により開き、又は拡大した場合における入賞口の入口の大きさは、55ｍｍを超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">第２種非電動役物の作動により開き、又は拡大した場合における入賞口の入口の大きさは、５５ｍｍを超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="8">
             <Subitem2Title>（チ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">普通電動役物の作動により開き、又は拡大した場合における入賞口の入口の大きさは、55ｍｍを超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">普通電動役物の作動により開き、又は拡大した場合における入賞口の入口の大きさは、５５ｍｍを超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="9">
             <Subitem2Title>（リ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">特別電動役物の作動により開き、又は拡大した場合における大入賞口の入口の大きさは、55ｍｍを超え、135ｍｍを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">特別電動役物の作動により開き、又は拡大した場合における大入賞口の入口の大きさは、５５ｍｍを超え、１３５ｍｍを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="10">
             <Subitem2Title>（ヌ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球がゲート（入賞口内に設けられているゲートを除く。）を通過したときに役物又は普通図柄表示装置が作動することとなる場合における当該ゲートの大きさは、13ｍｍを超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">遊技球がゲート（入賞口内に設けられているゲートを除く。）を通過したときに役物又は普通図柄表示装置が作動することとなる場合における当該ゲートの大きさは、１３ｍｍを超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -3942,7 +3921,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技板とガラス板等との距離は、13ｍｍを超え、25ｍｍを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技板とガラス板等との距離は、１３ｍｍを超え、２５ｍｍを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -4062,7 +4041,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技くぎ及び風車の軸の材質は、ビッカース硬度が150Ｈｖ以上230Ｈｖ以下である硬度を有する真ちゆう又はこれと同等の硬度を有する金属で容易にさびず、かつ、折れない性質のものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技くぎ及び風車の軸の材質は、ビッカース硬度が１５０Ｈｖ以上２３０Ｈｖ以下である硬度を有する真ちゆう又はこれと同等の硬度を有する金属で容易にさびず、かつ、折れない性質のものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -4126,7 +4105,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">規定数は、遊技メダルにあつては３枚を、遊技球にあつては15個を、それぞれ超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">規定数は、遊技メダルにあつては３枚を、遊技球にあつては１５個を、それぞれ超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -4144,7 +4123,7 @@
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">すべての回胴の回転の方向及び速さは一定とし、また、その回転の回数は、１分間に80回転を超えるものでないこと。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">すべての回胴の回転の方向及び速さは一定とし、また、その回転の回数は、１分間に８０回転を超えるものでないこと。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、回胴回転装置を作動させた後、すべての回胴の回転の速さが一定となるまでの間は、この限りでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
@@ -4157,13 +4136,13 @@
           <Subitem2 Delete="false" Hide="false" Num="6">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">回胴の回転は、回転停止装置を作動させる場合を除き、すべての回胴の回転の速さが一定となつた後、30秒以内に停止するものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">回胴の回転は、回転停止装置を作動させる場合を除き、すべての回胴の回転の速さが一定となつた後、３０秒以内に停止するものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="7">
             <Subitem2Title>（ト）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">回胴の回転は、回転停止装置を作動させるためのボタン、レバーその他の装置（以下この表において「停止ボタン等」という。）を操作した後、190ｍｓ以内に停止するものであること。</Sentence>
+              <Sentence WritingMode="vertical">回胴の回転は、回転停止装置を作動させるためのボタン、レバーその他の装置（以下この表において「停止ボタン等」という。）を操作した後、１９０ｍｓ以内に停止するものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="8">
@@ -4187,7 +4166,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">１回の入賞により獲得することができる遊技メダル等の数は、遊技メダルにあつては15枚を、遊技球にあつては75個を、それぞれ超えるものでなく、かつ、当該入賞に使用した遊技メダル等の数の15倍を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">１回の入賞により獲得することができる遊技メダル等の数は、遊技メダルにあつては１５枚を、遊技球にあつては７５個を、それぞれ超えるものでなく、かつ、当該入賞に使用した遊技メダル等の数の１５倍を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -4211,67 +4190,67 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、回胴回転装置を作動させた後、回転するすべての回胴につき、任意の順序により、任意の時間に回転停止装置を作動させる試験を400回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の３分の１を超え、かつ、2.2倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、回胴回転装置を作動させた後、回転するすべての回胴につき、任意の順序により、任意の時間に回転停止装置を作動させる試験を４００回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の３分の１を超え、かつ、２．２倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、内部抽せんを行い、条件装置が作動した場合には当該条件装置に係る図柄の組合せが表示され、当該図柄の組合せにより獲得することができる遊技メダル等の最大数が獲得されることとしたシミュレーション試験を400回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の2.2倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、内部抽せんを行い、条件装置が作動した場合には当該条件装置に係る図柄の組合せが表示され、当該図柄の組合せにより獲得することができる遊技メダル等の最大数が獲得されることとしたシミュレーション試験を４００回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の２．２倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（ト）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を1,600回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の５分の２を超え、かつ、1.5倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を１，６００回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の５分の２を超え、かつ、１．５倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（チ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を1,600回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の1.5倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を１，６００回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の１．５倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="7">
             <Subitem2Title>（リ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を6,000回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の２分の１を超え、かつ、1.26倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を６，０００回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の２分の１を超え、かつ、１．２６倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="8">
             <Subitem2Title>（ヌ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を6,000回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の1.26倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を６，０００回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の１．２６倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="9">
             <Subitem2Title>（ル）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を17,500回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の５分の３を超え、かつ、1.15倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を１７，５００回行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の５分の３を超え、かつ、１．１５倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="10">
             <Subitem2Title>（ヲ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を17,500回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の1.15倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を１７，５００回行つた場合において、獲得することとなる遊技メダル等の総数が、投入をしたこととなる遊技メダル等の総数の１．１５倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="11">
             <Subitem2Title>（ワ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を6,000回行つた場合において、獲得する遊技メダル等の数のうち役物の作動によるものの割合が、７割（第１種特別役物の作動によるものの割合にあつては、６割）を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ホ）に規定する試験を６，０００回行つた場合において、獲得する遊技メダル等の数のうち役物の作動によるものの割合が、７割（第１種特別役物の作動によるものの割合にあつては、６割）を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="12">
             <Subitem2Title>（カ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を6,000回行つた場合において、獲得することとなる遊技メダル等の数のうち役物の作動によるものの割合が、７割（第１種特別役物の作動によるものの割合にあつては、６割）を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、（ヘ）に規定するシミュレーション試験を６，０００回行つた場合において、獲得することとなる遊技メダル等の数のうち役物の作動によるものの割合が、７割（第１種特別役物の作動によるものの割合にあつては、６割）を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="13">
             <Subitem2Title>（ヨ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入賞に係る図柄の組合せの数は、すべての図柄の組合せの数の100分の11を超え、100分の40を超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">入賞に係る図柄の組合せの数は、すべての図柄の組合せの数の１００分の１１を超え、１００分の４０を超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="14">
@@ -4308,13 +4287,13 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">再遊技に係る図柄の組合せの数は、すべての図柄の組合せの数の145分の１を超えるものであること。</Sentence>
+              <Sentence WritingMode="vertical">再遊技に係る図柄の組合せの数は、すべての図柄の組合せの数の１４５分の１を超えるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、再遊技に係る条件装置が作動する確率は、73分の10以上の値のうちからあらかじめ定められたものであり、次に掲げるときを除き、変動するものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、再遊技に係る条件装置が作動する確率は、７３分の１０以上の値のうちからあらかじめ定められたものであり、次に掲げるときを除き、変動するものでないこと。</Sentence>
             </Subitem2Sentence>
             <Subitem3 Delete="false" Hide="false" Num="1">
               <Subitem3Title>ａ</Subitem3Title>
@@ -4350,7 +4329,7 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、再遊技に係る条件装置が作動する確率が変動した場合における当該確率は、あらかじめ定められた値（第１種特別役物及び役物連続作動装置が作動していないときは、73分の10以上の値のうちからあらかじめ定められたもの）であること。</Sentence>
+              <Sentence WritingMode="vertical">設定ごと及び規定数ごとに、再遊技に係る条件装置が作動する確率が変動した場合における当該確率は、あらかじめ定められた値（第１種特別役物及び役物連続作動装置が作動していないときは、７３分の１０以上の値のうちからあらかじめ定められたもの）であること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -4417,7 +4396,7 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第１種特別役物が作動することとなる図柄の組合せの数は、役物連続作動装置が設けられている遊技機にあつてはすべての図柄の組合せの数の500分の１を、役物連続作動装置が設けられていない遊技機にあつてはすべての図柄の組合せの数の500分の３を、それぞれ超えるものでないこと。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第１種特別役物が作動することとなる図柄の組合せの数は、役物連続作動装置が設けられている遊技機にあつてはすべての図柄の組合せの数の５００分の１を、役物連続作動装置が設けられていない遊技機にあつてはすべての図柄の組合せの数の５００分の３を、それぞれ超えるものでないこと。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、ト（チ）に掲げる場合は、この限りでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
@@ -4485,7 +4464,7 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第２種特別役物が作動している場合にあつては、１個以上の回胴は、停止ボタン等を操作した後、75ｍｓ以内に停止するものであること。</Sentence>
+              <Sentence WritingMode="vertical">第２種特別役物が作動している場合にあつては、１個以上の回胴は、停止ボタン等を操作した後、７５ｍｓ以内に停止するものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -4521,13 +4500,13 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第１種特別役物に係る役物連続作動装置が作動することとなる図柄の組合せの数は、その作動中に獲得される遊技メダル等の数が、遊技メダルにあつては225枚を、遊技球にあつては1,125個を、それぞれ超えない遊技機にあつては、すべての図柄の組合せの数の1,500分の２を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">第１種特別役物に係る役物連続作動装置が作動することとなる図柄の組合せの数は、その作動中に獲得される遊技メダル等の数が、遊技メダルにあつては２２５枚を、遊技球にあつては１，１２５個を、それぞれ超えない遊技機にあつては、すべての図柄の組合せの数の１，５００分の２を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第１種特別役物に係る役物連続作動装置が作動することとなる図柄の組合せの数は、（ホ）に規定する遊技機以外の遊技機にあつては、すべての図柄の組合せの数の1,500分の１を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">第１種特別役物に係る役物連続作動装置が作動することとなる図柄の組合せの数は、（ホ）に規定する遊技機以外の遊技機にあつては、すべての図柄の組合せの数の１，５００分の１を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="7">
@@ -4539,7 +4518,7 @@
           <Subitem2 Delete="false" Hide="false" Num="8">
             <Subitem2Title>（チ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第１種特別役物に係る役物連続作動装置が作動している場合にあつては、第１種特別役物が作動することとなる図柄の組合せの数は、すべての図柄の組合せの数の500分の10を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">第１種特別役物に係る役物連続作動装置が作動している場合にあつては、第１種特別役物が作動することとなる図柄の組合せの数は、すべての図柄の組合せの数の５００分の１０を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="9">
@@ -4563,13 +4542,13 @@
           <Subitem2 Delete="false" Hide="false" Num="12">
             <Subitem2Title>（ヲ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第１種特別役物に係る１の役物連続作動装置は、その作動中に、遊技メダルにあつては285枚を、遊技球にあつては1,425個を、それぞれ超えない数のうちからあらかじめ定められた１の数を超える遊技メダル等が獲得されたときは、その作動を終了するものであること。</Sentence>
+              <Sentence WritingMode="vertical">第１種特別役物に係る１の役物連続作動装置は、その作動中に、遊技メダルにあつては２８５枚を、遊技球にあつては１，４２５個を、それぞれ超えない数のうちからあらかじめ定められた１の数を超える遊技メダル等が獲得されたときは、その作動を終了するものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="13">
             <Subitem2Title>（ワ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">第２種特別役物に係る１の役物連続作動装置は、その作動中に、普通役物若しくは第１種特別役物の作動に係る条件装置が作動したとき又は遊技メダルにあつては153枚を、遊技球にあつては765個を、それぞれ超えない数のうちからあらかじめ定められた１の数を超える遊技メダル等が獲得されたときは、その作動を終了するものであること。</Sentence>
+              <Sentence WritingMode="vertical">第２種特別役物に係る１の役物連続作動装置は、その作動中に、普通役物若しくは第１種特別役物の作動に係る条件装置が作動したとき又は遊技メダルにあつては１５３枚を、遊技球にあつては７６５個を、それぞれ超えない数のうちからあらかじめ定められた１の数を超える遊技メダル等が獲得されたときは、その作動を終了するものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -4581,7 +4560,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">記録することができる遊技メダルの数は、50枚を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">記録することができる遊技メダルの数は、５０枚を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -4708,8 +4687,8 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">図柄の数は、１の回胴につき21を超えず、かつ、すべての回胴につき同一の数であること。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">また、すべての図柄の種類の数は、10を超えるものでないこと。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">図柄の数は、１の回胴につき２１を超えず、かつ、すべての回胴につき同一の数であること。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">また、すべての図柄の種類の数は、１０を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
@@ -4721,7 +4700,7 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">図柄の大きさは、縦25ｍｍ以上、横35ｍｍ以上であること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">図柄の大きさは、縦２５ｍｍ以上、横３５ｍｍ以上であること。</Sentence>
               <Sentence Num="2" WritingMode="vertical">また、図柄の大きさは、図柄の種類に応じて、すべての回胴につき同一であること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
@@ -4870,13 +4849,13 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">規定数は、１回の遊技（規定数の遊技メダル等の投入をした時から当該遊技メダル等に係る遊技の結果が得られる時までの間における遊技球を用いて行う遊技をいう。以下この表及び次表において同じ。）につき、遊技メダルにあつては３枚であり、遊技球にあつては15個であること。</Sentence>
+              <Sentence WritingMode="vertical">規定数は、１回の遊技（規定数の遊技メダル等の投入をした時から当該遊技メダル等に係る遊技の結果が得られる時までの間における遊技球を用いて行う遊技をいう。以下この表及び次表において同じ。）につき、遊技メダルにあつては３枚であり、遊技球にあつては１５個であること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">規定数の遊技メダル等の投入ごとに、15個又は16個の遊技球を使用して遊技をさせることができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">規定数の遊技メダル等の投入ごとに、１５個又は１６個の遊技球を使用して遊技をさせることができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -4906,19 +4885,19 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">１分間に100個を超える遊技球を発射することができるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">１分間に１００個を超える遊技球を発射することができるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間行つた場合において、（イ）、（ロ）及び（ハ）に掲げる性能が不変であるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間行つた場合において、（イ）、（ロ）及び（ハ）に掲げる性能が不変であるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間行つた場合において、その間、遊技盤上の遊技球の位置を確認し、かつ、調整することができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間行つた場合において、その間、遊技盤上の遊技球の位置を確認し、かつ、調整することができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -4930,7 +4909,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入賞があつた場合に獲得することができる遊技メダル等の数は、投入をした遊技メダル等の数の15倍（役物又は得点増加装置が設けられている遊技機に係る入賞にあつては、10倍）を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">入賞があつた場合に獲得することができる遊技メダル等の数は、投入をした遊技メダル等の数の１５倍（役物又は得点増加装置が設けられている遊技機に係る入賞にあつては、１０倍）を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -4942,25 +4921,25 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の２分の１を超え、かつ、３分の４に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の２分の１を超え、かつ、３分の４に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を４時間行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の５分の２を超え、かつ、1.5倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を４時間行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の５分の２を超え、かつ、１．５倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を１時間行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の３分の１を超え、かつ、2.2倍に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１時間行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の３分の１を超え、かつ、２．２倍に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間行つた場合において、獲得する遊技メダル等の数のうち役物及び得点増加装置の作動によるものの割合が、７割を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間行つた場合において、獲得する遊技メダル等の数のうち役物及び得点増加装置の作動によるものの割合が、７割を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
@@ -5056,7 +5035,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">誘導増加装置は、その作動中に遊技球が誘導増加装置作動領域を通過したとき、又は遊技の結果が14回を超えない回数のうちからあらかじめ定められた１の回数得られたときは、その作動を終了するものであること。</Sentence>
+              <Sentence WritingMode="vertical">誘導増加装置は、その作動中に遊技球が誘導増加装置作動領域を通過したとき、又は遊技の結果が１４回を超えない回数のうちからあらかじめ定められた１の回数得られたときは、その作動を終了するものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -5104,7 +5083,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">記録することができる遊技メダルの数は、50枚を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">記録することができる遊技メダルの数は、５０枚を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -5250,13 +5229,13 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球には、直径11ｍｍの玉を用いること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球には、直径１１ｍｍの玉を用いること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球には、5.4ｇ以上5.7ｇ以下の質量の玉を用いること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球には、５．４ｇ以上５．７ｇ以下の質量の玉を用いること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5274,7 +5253,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技盤の大きさは、一辺が500ｍｍである正方形の枠を超えず、かつ、直径が300ｍｍである半円を含むことができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技盤の大きさは、一辺が５００ｍｍである正方形の枠を超えず、かつ、直径が３００ｍｍである半円を含むことができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5310,13 +5289,13 @@
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入球口の入口の大きさは、13ｍｍ（役物誘導装置の作動により開き、又は拡大した場合における役物作動口の入口にあつては、90ｍｍ）を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">入球口の入口の大きさは、１３ｍｍ（役物誘導装置の作動により開き、又は拡大した場合における役物作動口の入口にあつては、９０ｍｍ）を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球がゲート（入球口内に設けられているゲートを除く。）を通過したときに役物、役物誘導装置、誘導図柄表示装置又は得点増加装置が作動することとなる場合における当該ゲートの大きさは、13ｍｍを超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">遊技球がゲート（入球口内に設けられているゲートを除く。）を通過したときに役物、役物誘導装置、誘導図柄表示装置又は得点増加装置が作動することとなる場合における当該ゲートの大きさは、１３ｍｍを超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5358,7 +5337,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技板とガラス板等との距離は、13ｍｍを超え、25ｍｍを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技板とガラス板等との距離は、１３ｍｍを超え、２５ｍｍを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -5376,7 +5355,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入賞図柄表示装置により表示される図柄の数は、16であること。</Sentence>
+              <Sentence WritingMode="vertical">入賞図柄表示装置により表示される図柄の数は、１６であること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -5478,7 +5457,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技くぎ及び風車の軸の材質は、ビッカース硬度が150Ｈｖ以上230Ｈｖ以下である硬度を有する真ちゆう又はこれと同等の硬度を有する金属で容易にさびず、かつ、折れない性質のものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技くぎ及び風車の軸の材質は、ビッカース硬度が１５０Ｈｖ以上２３０Ｈｖ以下である硬度を有する真ちゆう又はこれと同等の硬度を有する金属で容易にさびず、かつ、折れない性質のものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -5542,13 +5521,13 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">規定数は、１回の遊技につき、遊技メダルにあつては３枚であり、遊技球にあつては15個であること。</Sentence>
+              <Sentence WritingMode="vertical">規定数は、１回の遊技につき、遊技メダルにあつては３枚であり、遊技球にあつては１５個であること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">規定数の遊技メダル等の投入ごとに、自動図柄設定装置を有する遊技機にあつては15個を超えない数の遊技球を、自動図柄設定装置を有しない遊技機にあつては25個を超えない数の遊技球を、それぞれ使用して遊技をさせることができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">規定数の遊技メダル等の投入ごとに、自動図柄設定装置を有する遊技機にあつては１５個を超えない数の遊技球を、自動図柄設定装置を有しない遊技機にあつては２５個を超えない数の遊技球を、それぞれ使用して遊技をさせることができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -5578,19 +5557,19 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">１分間に100個を超える遊技球を発射することができるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">１分間に１００個を超える遊技球を発射することができるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間以上行つた場合において、（イ）、（ロ）及び（ハ）に掲げる性能が不変であるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間以上行つた場合において、（イ）、（ロ）及び（ハ）に掲げる性能が不変であるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間以上行つた場合において、その間、遊技盤上の遊技球の位置を確認し、かつ、調整することができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間以上行つた場合において、その間、遊技盤上の遊技球の位置を確認し、かつ、調整することができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5602,7 +5581,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入賞があつた場合に獲得することができる遊技メダル等の数は、投入をした遊技メダル等の数の15倍（役物又は得点増加装置が設けられている遊技機に係る入賞にあつては、10倍）を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">入賞があつた場合に獲得することができる遊技メダル等の数は、投入をした遊技メダル等の数の１５倍（役物又は得点増加装置が設けられている遊技機に係る入賞にあつては、１０倍）を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -5614,25 +5593,25 @@
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>（ハ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間以上行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の２分の１を超え、かつ、３分の４に満たないものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間以上行つた場合において、獲得する遊技メダル等の総数が、投入をした遊技メダル等の総数の２分の１を超え、かつ、３分の４に満たないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球の試射試験を10時間以上行つた場合において、獲得する遊技メダル等の数のうち役物及び得点増加装置の作動によるものの割合が、おおむね７割を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">遊技球の試射試験を１０時間以上行つた場合において、獲得する遊技メダル等の数のうち役物及び得点増加装置の作動によるものの割合が、おおむね７割を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入賞に係る図柄の組合せの種類の数は、10を超え、30を超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">入賞に係る図柄の組合せの種類の数は、１０を超え、３０を超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="6">
             <Subitem2Title>（ヘ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入賞に係る図柄の組合せの種類ごとに当該組合せの種類に対応して獲得することができることとされる遊技メダル等の数を合計した場合において、その合計数が規定数の50倍を超え、150倍を超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">入賞に係る図柄の組合せの種類ごとに当該組合せの種類に対応して獲得することができることとされる遊技メダル等の数を合計した場合において、その合計数が規定数の５０倍を超え、１５０倍を超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5644,7 +5623,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">自動図柄設定装置が設定する図柄の数は、14であること。</Sentence>
+              <Sentence WritingMode="vertical">自動図柄設定装置が設定する図柄の数は、１４であること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -5716,7 +5695,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">条件連続装置の１回の作動により開放条件装置が連続して作動する回数は、14回を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">条件連続装置の１回の作動により開放条件装置が連続して作動する回数は、１４回を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -5758,7 +5737,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">記録することができる遊技メダルの数は、50枚を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">記録することができる遊技メダルの数は、５０枚を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -5886,13 +5865,13 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球には、直径11ｍｍの玉を用いること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球には、直径１１ｍｍの玉を用いること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球には、5.4ｇ以上5.7ｇ以下の質量の玉を用いること。</Sentence>
+              <Sentence WritingMode="vertical">遊技球には、５．４ｇ以上５．７ｇ以下の質量の玉を用いること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5910,7 +5889,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技盤の大きさは、一辺が500ｍｍである正方形の枠を超えず、かつ、直径が300ｍｍである半円を含むことができるものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技盤の大きさは、一辺が５００ｍｍである正方形の枠を超えず、かつ、直径が３００ｍｍである半円を含むことができるものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5940,13 +5919,13 @@
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>（ニ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">入球口の入口の大きさは、13ｍｍ（開いた場合における特別入球口の入口にあつては、90ｍｍ）を超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">入球口の入口の大きさは、１３ｍｍ（開いた場合における特別入球口の入口にあつては、９０ｍｍ）を超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
             <Subitem2Title>（ホ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技球がゲート（入球口内に設けられているゲートを除く。）を通過したときに特別入球口の入口が開き、又は得点増加装置が作動することとなる場合における当該ゲートの大きさは、13ｍｍを超えるものでないこと。</Sentence>
+              <Sentence WritingMode="vertical">遊技球がゲート（入球口内に設けられているゲートを除く。）を通過したときに特別入球口の入口が開き、又は得点増加装置が作動することとなる場合における当該ゲートの大きさは、１３ｍｍを超えるものでないこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -5988,7 +5967,7 @@
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>（ロ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技板とガラス板等との距離は、13ｍｍを超え、25ｍｍを超えないものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技板とガラス板等との距離は、１３ｍｍを超え、２５ｍｍを超えないものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -6096,7 +6075,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>（イ）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">遊技くぎ及び風車の軸の材質は、ビッカース硬度が150Ｈｖ以上230Ｈｖ以下である硬度を有する真ちゆう又はこれと同等の硬度を有する金属で容易にさびず、かつ、折れない性質のものであること。</Sentence>
+              <Sentence WritingMode="vertical">遊技くぎ及び風車の軸の材質は、ビッカース硬度が１５０Ｈｖ以上２３０Ｈｖ以下である硬度を有する真ちゆう又はこれと同等の硬度を有する金属で容易にさびず、かつ、折れない性質のものであること。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">

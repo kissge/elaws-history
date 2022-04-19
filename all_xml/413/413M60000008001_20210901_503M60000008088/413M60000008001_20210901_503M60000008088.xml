@@ -2,7 +2,7 @@
 <Law AmendmentId="503M60000008038" AmendmentNum="令和三年総務省令第三十八号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="13" PromulgateMonth="08" PromulgateDay="31">
   <LawNum>平成十三年総務省令第一号</LawNum>
   <LawBody>
-    <LawTitle>総務省組織規則</LawTitle>
+    <LawTitle Kana="そうむしょうそしききそく" Abbrev="" AbbrevKana="">総務省組織規則</LawTitle>
     <EnactStatement>総務省設置法（平成十一年法律第九十一号）及び総務省組織令（平成十二年政令第二百四十六号）の規定に基づき、並びに総務省設置法、消防組織法（昭和二十二年法律第二百二十六号）及び総務省組織令を実施するため、総務省組織規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -16,7 +16,6 @@
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="2">
             <SubsectionTitle>第二款　削除</SubsectionTitle>
-            <ArticleRange>（第七条―第十四条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="3">
             <SubsectionTitle>第三款　行政管理局</SubsectionTitle>
@@ -71,11 +70,9 @@
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="2">
             <SubsectionTitle>第二款　削除</SubsectionTitle>
-            <ArticleRange>（第八十八条―第百七十一条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="3">
             <SubsectionTitle>第三款　削除</SubsectionTitle>
-            <ArticleRange>（第百七十二条―第百八十三条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="4">
             <SubsectionTitle>第四款　情報通信政策研究所</SubsectionTitle>
@@ -127,7 +124,6 @@
           <SectionTitle>第二節　施設等機関</SectionTitle>
           <TOCSubsection Delete="false" Num="1">
             <SubsectionTitle>第一款　削除</SubsectionTitle>
-            <ArticleRange>（第三百十三条―第三百二十条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="2">
             <SubsectionTitle>第二款　消防大学校</SubsectionTitle>
@@ -416,7 +412,7 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="16">
-              <ArticleCaption>(法制管理室及び調査官）</ArticleCaption>
+              <ArticleCaption>（法制管理室及び調査官）</ArticleCaption>
               <ArticleTitle>第十六条</ArticleTitle>
               <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
@@ -881,7 +877,7 @@
               <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">地域政策課に、地域情報化企画室を置く</Sentence>
+                  <Sentence WritingMode="vertical">地域政策課に、地域情報化企画室を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -1744,7 +1740,7 @@
               <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">研究推進室は、技術政策課の所掌事務のうち、情報の電磁的流通（符号、音響、影像その他の情報の電磁的方式による発信、伝送又は受信をいう。以下同じ。) 及び電波の利用に関する技術の研究及び開発に関する事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">研究推進室は、技術政策課の所掌事務のうち、情報の電磁的流通（符号、音響、影像その他の情報の電磁的方式による発信、伝送又は受信をいう。以下同じ。）及び電波の利用に関する技術の研究及び開発に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="3" OldStyle="false">
@@ -1784,7 +1780,7 @@
               <Paragraph Hide="false" Num="2" OldStyle="false">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>標準化戦略室は、通信規格課の所掌事務のうち、有線電気通信設備及び無線設備（高周波利用設備を含む。第四項において同じ。）に関する技術上の規格（将来における我が国の経済社会の発展の基盤となる革新的な情報通信技術に係るものに限る。）を定めるための国、独立行政法人、大学、民間等の連携の推進に関するものの企画及び立案並びに推進に関する事務をつかさどる。</Sentence>
+                  <Sentence>標準化戦略室は、通信規格課の所掌事務のうち、有線電気通信設備及び無線設備（高周波利用設備を含む。第四項において同じ。）に関する技術上の規格（将来における我が国の経済社会の発展の基盤となる革新的な情報通信技術に係るものに限る。）を定めるための国、独立行政法人、大学、民間等の連携に関するものの企画及び立案並びに推進に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -2775,8 +2771,7 @@
                 <Item Delete="false" Hide="false" Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">無線設備の機器の試験及び<Ruby>較<Rt>こう</Rt>
-</Ruby>正に関する事務のうち委託による無線局の周波数の測定に関すること。</Sentence>
+                    <Sentence WritingMode="vertical">無線設備の機器の試験及び<Ruby>較<Rt>こう</Rt></Ruby>正に関する事務のうち委託による無線局の周波数の測定に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="6">
@@ -3188,7 +3183,7 @@
               <Paragraph Hide="false" Num="8" OldStyle="false">
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国際統計交渉官は、命を受けて、国際統計について、極めて高度の専門的な知識経験に基づく情報の収集及び　分析並びに外国政府等（外国政府又は国際機関その他これらに準ずるものをいう。）との協議、調整等を行うことにより、国際統計及び統計の国際展開に関する政策の企画及び立案の支援を行う。</Sentence>
+                  <Sentence WritingMode="vertical">国際統計交渉官は、命を受けて、国際統計について、極めて高度の専門的な知識経験に基づく情報の収集及び分析並びに外国政府等（外国政府又は国際機関その他これらに準ずるものをいう。）との協議、調整等を行うことにより、国際統計及び統計の国際展開に関する政策の企画及び立案の支援を行う。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="9" OldStyle="false">
@@ -3369,7 +3364,7 @@
               <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">庶務課は、自治大学校の所掌事務に関し、次に掲げる事務をつかさどる</Sentence>
+                  <Sentence WritingMode="vertical">庶務課は、自治大学校の所掌事務に関し、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -5000,7 +4995,7 @@
                 <Item Delete="false" Hide="false" Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">統計の作成及び施策の立案を支援するために必要な知識及び技能を習得させるため、所定の研修の課程を修了した者の情報の管理に関すること。</Sentence>
+                    <Sentence WritingMode="vertical">統計の作成及び施策の立案を支援するために必要な知識及び技能を修得させるため、所定の研修の課程を修了した者の情報の管理に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -5307,7 +5302,7 @@
                 <Paragraph Hide="false" Num="1" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence WritingMode="vertical">管区行政評価局に地域総括評価官六人(関東管区行政評価局にあっては七人、中部管区行政評価局及び中国四国管区行政評価局にあっては五人、北海道管区行政評価局にあっては四人）を置く。</Sentence>
+                    <Sentence WritingMode="vertical">管区行政評価局に、地域総括評価官六人（関東管区行政評価局にあっては七人、中部管区行政評価局及び中国四国管区行政評価局にあっては五人、北海道管区行政評価局にあっては四人）を置く。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -5430,13 +5425,13 @@
                   <Item Delete="false" Hide="false" Num="18">
                     <ItemTitle>十八</ItemTitle>
                     <ItemSentence>
-                      <Sentence>内閣法(昭和二十二年法律第五号）第二十六条の規定により管区行政評価局に属させられた事務</Sentence>
+                      <Sentence>内閣法（昭和二十二年法律第五号）第二十六条の規定により管区行政評価局に属させられた事務</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="19">
                     <ItemTitle>十九</ItemTitle>
                     <ItemSentence>
-                      <Sentence WritingMode="vertical">総務省設置法(以下「法」という。）第二十五条第二項に規定する事務のうち総務大臣の定める事務</Sentence>
+                      <Sentence WritingMode="vertical">総務省設置法（以下「法」という。）第二十五条第二項に規定する事務のうち総務大臣の定める事務</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="20">
@@ -5497,7 +5492,7 @@
                 <Paragraph Hide="false" Num="1" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence WritingMode="vertical">総務行政相談部に、次に掲げる課並びに管理官一人、首席行政相談官一人、主任業務管理官五人（関東管区行政評価局にあっては六人、中部管区行政評価局及び中国四国管区行政評価局にあっては四人、北海道管区行政評価局にあっては三人）及び主任行政相談官五人(関東管区行政評価局にあっては六人、中部管区行政評価局及び中国四国管区行政評価局にあっては四人、北海道管区行政評価局にあっては三人)を置く。</Sentence>
+                    <Sentence WritingMode="vertical">総務行政相談部に、次に掲げる課並びに管理官一人、首席行政相談官一人、主任業務管理官五人（関東管区行政評価局にあっては六人、中部管区行政評価局及び中国四国管区行政評価局にあっては四人、北海道管区行政評価局にあっては三人）及び主任行政相談官五人（関東管区行政評価局にあっては六人、中部管区行政評価局及び中国四国管区行政評価局にあっては四人、北海道管区行政評価局にあっては三人）を置く。</Sentence>
                   </ParagraphSentence>
                   <List>
                     <ListSentence>
@@ -5528,8 +5523,7 @@
                   <Item Delete="false" Hide="false" Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1" WritingMode="vertical">管区行政評価局の所掌事務に関する総合調整に関すること(管理官の所掌に属するものを除く。</Sentence>
-                      <Sentence Num="2" WritingMode="vertical">)。</Sentence>
+                      <Sentence WritingMode="vertical">管区行政評価局の所掌事務に関する総合調整に関すること（管理官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="3">
@@ -5571,7 +5565,7 @@
                   <Item Delete="false" Hide="false" Num="9">
                     <ItemTitle>九</ItemTitle>
                     <ItemSentence>
-                      <Sentence WritingMode="vertical">広報に関すること（管理官の所掌に属するものを除く。)。</Sentence>
+                      <Sentence WritingMode="vertical">広報に関すること（管理官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="10">
@@ -5708,7 +5702,7 @@
                 <Paragraph Hide="false" Num="1" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence WritingMode="vertical">主任業務管理官は、命を受けて、第二百三十条各号に掲げる事務(首席行政相談官の所掌に属するものを除く。)のうち管区行政評価局長の指定する事務をつかさどる。</Sentence>
+                    <Sentence WritingMode="vertical">主任業務管理官は、命を受けて、第二百三十条各号に掲げる事務（首席行政相談官の所掌に属するものを除く。）のうち管区行政評価局長の指定する事務をつかさどる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -5728,7 +5722,7 @@
                 <Paragraph Hide="false" Num="1" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence WritingMode="vertical">評価監視部に、評価監視官六人(関東管区行政評価局にあっては、七人）を置く。</Sentence>
+                    <Sentence WritingMode="vertical">評価監視部に、評価監視官六人（関東管区行政評価局にあっては、七人）を置く。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -5865,8 +5859,7 @@
                 <Paragraph Hide="false" Num="2" OldStyle="false">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">総務行政相談管理官は、命を受けて、四国行政評価支局の所掌事務(評価監視部の所掌に属するものを除く。</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">)を掌理する。</Sentence>
+                    <Sentence WritingMode="vertical">総務行政相談管理官は、命を受けて、四国行政評価支局の所掌事務（評価監視部の所掌に属するものを除く。）を掌理する。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -5955,7 +5948,7 @@
                   <Item Delete="false" Hide="false" Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
-                      <Sentence WritingMode="vertical">四国行政評価支局の所掌事務に関する総合調整に関すること(管理官の所掌に属するものを除く。）。</Sentence>
+                      <Sentence WritingMode="vertical">四国行政評価支局の所掌事務に関する総合調整に関すること（管理官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="3">
@@ -9205,7 +9198,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>復興庁が廃止されるまでの間、第十八条第二項第一号イの規定の適用については、「各府省及びデジタル庁」とあるのは「各府省、デジタル庁及び復興庁」と、「及びデジタル庁（令和三年法律第三十六号）第五条第二項」とあるのは「、デジタル庁設置法（令和三年法律第三十六号）第五条第二項及び復興庁設置法（平成二十三年法律第百二十五号）第五条第二項」とする。</Sentence>
+            <Sentence>復興庁が廃止されるまでの間、第十八条第二項第一号イの規定の適用については、「各府省及びデジタル庁」とあるのは「各府省、デジタル庁及び復興庁」と、「及びデジタル庁設置法（令和三年法律第三十六号）第五条第二項」とあるのは「、デジタル庁設置法（令和三年法律第三十六号）第五条第二項及び復興庁設置法（平成二十三年法律第百二十五号）第五条第二項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -9244,7 +9237,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">当分の間、第三十三条の規定の適用については、「特別法人事業税」とあるのは、「特別法人事業税、地方法人特別税、地方法人特別譲与税、地方道路譲与税」とする</Sentence>
+            <Sentence WritingMode="vertical">当分の間、第三十三条の規定の適用については、「特別法人事業税」とあるのは、「特別法人事業税、地方法人特別税、地方法人特別譲与税、地方道路譲与税」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

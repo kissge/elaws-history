@@ -567,20 +567,26 @@
               <Sentence WritingMode="vertical">前号の意見がないときは、その旨及びその理由</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="4">
+          <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">追記情報</Sentence>
+              <Sentence>第二号の意見があるときは、事業報告書（会計に関する部分を除く。）の内容と財務諸表、事業報告書（会計に関する部分に限る。）及び決算報告書の内容又は会計監査人が監査の過程で得た知識との間の重要な相違等について、報告すべき事項の有無及び報告すべき事項があるときはその内容</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前各号に掲げるもののほか、利益の処分又は損失の処理に関する書類、事業報告書（会計に関する部分に限る。）及び決算報告書に関して必要な報告</Sentence>
+              <Sentence WritingMode="vertical">追記情報</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前各号に掲げるもののほか、利益の処分又は損失の処理に関する書類、事業報告書（会計に関する部分に限る。）及び決算報告書に関して必要な報告</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">会計監査報告を作成した日</Sentence>
             </ItemSentence>
@@ -589,12 +595,12 @@
         <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項第四号に掲げる追記情報とは、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付す必要がある事項又は財務諸表の内容のうち強調する必要がある事項をいう。</Sentence>
+            <Sentence WritingMode="vertical">前項第五号に掲げる追記情報とは、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付す必要がある事項又は財務諸表の内容のうち強調する必要がある事項をいう。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">正当な理由による会計方針の変更</Sentence>
+              <Sentence WritingMode="vertical">会計方針の変更</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -1022,6 +1028,15 @@
         <ParagraphSentence>
           <Sentence Function="main" Num="1">この省令は、令和四年四月一日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2">ただし、第二条の規定は、同年五月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年二月二二日農林水産省令第一二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

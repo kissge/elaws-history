@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="017" Year="15">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="017" Year="15" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成十五年文部科学省令第十七号</LawNum>
   <LawBody>
-    <LawTitle>文部科学省関係構造改革特別区域法施行規則</LawTitle>
+    <LawTitle Kana="もんぶかがくしょうかんけいこうぞうかいかくとくべつくいきほうせこうきそく" Abbrev="文部科学省関係特区法施行規則" AbbrevKana="も">文部科学省関係構造改革特別区域法施行規則</LawTitle>
     <EnactStatement>構造改革特別区域法（平成十四年法律第百八十九号）第十三条第一項及び第三十八条の規定に基づき、並びに同法及び構造改革特別区域法施行令（平成十五年政令第七十八号）を実施するため、文部科学省関係構造改革特別区域法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -278,7 +278,23 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">学校法人会計基準（昭和四十六年文部省令第十八号）別表第一及び別表第二の規定は、前項の資金収支予算書及び消費収支予算書に記載する科目について準用する。</Sentence>
-            <Sentence Num="2">この場合において、同令別表第一中「地方公共団体補助金収入」とあるのは「協力地方公共団体補助金収入　その他の地方公共団体補助金収入」と、同令別表第二中「地方公共団体補助金」とあるのは「協力地方公共団体補助金　その他の地方公共団体補助金」と読み替えるものとする。</Sentence>
+            <Sentence Num="2">この場合において、同令別表第一中「地方公共団体補助金収入」とあるのは「<QuoteStruct>
+            <TableRow>
+              <TableColumn>
+                <Sentence>協力地方公共団体補助金収入</Sentence>
+              </TableColumn>
+              <TableColumn>
+                <Sentence>その他の地方公共団体補助金収入</Sentence>
+              </TableColumn>
+            </TableRow></QuoteStruct>」と、同令別表第二中「地方公共団体補助金」とあるのは「<QuoteStruct>
+            <TableRow>
+              <TableColumn>
+                <Sentence>協力地方公共団体補助金</Sentence>
+              </TableColumn>
+              <TableColumn>
+                <Sentence>その他の地方公共団体補助金</Sentence>
+              </TableColumn>
+            </TableRow></QuoteStruct>」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -288,7 +304,266 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1">学校法人会計基準の規定は、法第二十条第九項又は第十二項の規定により助成を受ける協力学校法人について準用する。</Sentence>
-            <Sentence Num="2">この場合において、同令第一条第一項中「私立学校振興助成法（昭和五十年法律第六十一号。以下「法」という。）第十四条第一項に規定する学校法人」とあるのは「構造改革特別区域法（平成十四年法律第百八十九号）第二十条第十三項において読み替えて準用する私立学校振興助成法（昭和五十年法律第六十一号。以下「法」という。）第十四条第一項に規定する協力学校法人」と、同令別表第一中「地方公共団体補助金収入」とあるのは「協力地方公共団体補助金収入　その他の地方公共団体補助金収入」と、同令別表第二中「地方公共団体補助金」とあるのは「協力地方公共団体補助金　その他の地方公共団体補助金」と、同令第一号様式中「地方公共団体補助金収入」とあるのは「協力地方公共団体補助金収入　その他の地方公共団体補助金収入」と、同令第二号様式中「地方公共団体補助金収入」とあるのは「協力地方公共団体補助金収入　その他の地方公共団体補助金収入」と、同令第四号様式中「地方公共団体補助金」とあるのは「協力地方公共団体補助金　その他の地方公共団体補助金」と、同令第五号様式中「地方公共団体補助金」とあるのは「協力地方公共団体補助金　その他の地方公共団体補助金」と読み替えるものとする。</Sentence>
+            <Sentence Num="2">この場合において、同令第一条第一項中「私立学校振興助成法（昭和五十年法律第六十一号。以下「法」という。）第十四条第一項に規定する学校法人」とあるのは「構造改革特別区域法（平成十四年法律第百八十九号）第二十条第十三項において読み替えて準用する私立学校振興助成法（昭和五十年法律第六十一号。以下「法」という。）第十四条第一項に規定する協力学校法人」と、同令別表第一中「地方公共団体補助金収入」とあるのは「協力地方公共団体補助金収入　その他の地方公共団体補助金収入」と、同令別表第二中「地方公共団体補助金」とあるのは「協力地方公共団体補助金　その他の地方公共団体補助金」と、同令第一号様式中「</Sentence>
+            <Sentence Num="3"><QuoteStruct>
+            <TableRow>
+              <TableColumn Valign="top">
+                <Sentence>地方公共団体補助金収入</Sentence>
+              </TableColumn>
+              <TableColumn Valign="top">
+                <Sentence>　</Sentence>
+              </TableColumn>
+              <TableColumn Valign="top">
+                <Sentence>　</Sentence>
+              </TableColumn>
+              <TableColumn Valign="top">
+                <Sentence>　</Sentence>
+              </TableColumn>
+            </TableRow></QuoteStruct></Sentence>
+            <Sentence Num="4">」とあるのは「</Sentence>
+            <Sentence Num="5"><QuoteStruct>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>協力地方公共団体補助金収入</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>その他の地方公共団体補助金収入</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow></QuoteStruct></Sentence>
+              <Sentence Num="6">」と、同令第二号様式中「</Sentence>
+              <Sentence Num="7"><QuoteStruct>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>地方公共団体補助金収入</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow></QuoteStruct></Sentence>
+              <Sentence Num="8">」とあるのは「</Sentence>
+              <Sentence Num="9"><QuoteStruct>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>協力地方公共団体補助金収入</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>その他の地方公共団体補助金収入</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow>
+            </QuoteStruct></Sentence>
+            <Sentence Num="10">」と、同令第四号様式中「</Sentence>
+            <Sentence Num="11"><QuoteStruct>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>地方公共団体補助金</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow></QuoteStruct></Sentence>
+              <Sentence Num="12">」とあるのは「</Sentence>
+              <Sentence Num="13"><QuoteStruct>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>協力地方公共団体補助金</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>その他の地方公共団体補助金</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow>
+            </QuoteStruct></Sentence>
+            <Sentence Num="14">」と、同令第五号様式中「</Sentence>
+            <Sentence Num="15"><QuoteStruct>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>地方公共団体補助金</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow></QuoteStruct></Sentence>
+            <Sentence Num="16">」とあるのは「</Sentence>
+            <Sentence Num="17"><QuoteStruct>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>協力地方公共団体補助金</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>その他の地方公共団体補助金</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>　</Sentence>
+                </TableColumn>
+              </TableRow>
+            </QuoteStruct></Sentence>
+            <Sentence Num="17">」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -316,7 +591,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415037" AmendLawNum="平成一五年八月二九日文部科学省令第三七号" Id="3577aa90-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年八月二九日文部科学省令第三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -325,7 +600,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416015" AmendLawNum="平成一六年三月三一日文部科学省令第一五号" Extract="true" Id="99996e8c-1893-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月三一日文部科学省令第一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -338,7 +613,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416020" AmendLawNum="平成一六年三月三一日文部科学省令第二〇号" Extract="true" Id="8b365c7c-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月三一日文部科学省令第二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日等）</ParagraphCaption>
@@ -348,7 +623,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416024" AmendLawNum="平成一六年三月三一日文部科学省令第二四号" Id="3606ed18-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年三月三一日文部科学省令第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -357,7 +632,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416033" AmendLawNum="平成一六年四月三〇日文部科学省令第三三号" Id="363694e6-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年四月三〇日文部科学省令第三三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -366,7 +641,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416039" AmendLawNum="平成一六年八月三一日文部科学省令第三九号" Id="3666e18c-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年八月三一日文部科学省令第三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -375,7 +650,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416044" AmendLawNum="平成一六年一二月一七日文部科学省令第四四号" Id="36973346-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月一七日文部科学省令第四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -384,7 +659,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="416045" AmendLawNum="平成一六年一二月二二日文部科学省令第四五号" Id="36c6e1b8-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一六年一二月二二日文部科学省令第四五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -393,7 +668,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417039" AmendLawNum="平成一七年九月一日文部科学省令第三九号" Id="36f675c2-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年九月一日文部科学省令第三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -402,7 +677,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417046" AmendLawNum="平成一七年九月三〇日文部科学省令第四六号" Id="37265472-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年九月三〇日文部科学省令第四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -411,7 +686,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418023" AmendLawNum="平成一八年三月三一日文部科学省令第二三号" Id="d62aeaba-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三一日文部科学省令第二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -420,7 +695,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418026" AmendLawNum="平成一八年四月二八日文部科学省令第二六号" Id="99e0b68e-1893-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二八日文部科学省令第二六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -429,7 +704,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418029" AmendLawNum="平成一八年六月二六日文部科学省令第二九号" Extract="true" Id="37b4ded6-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年六月二六日文部科学省令第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -439,7 +714,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419005" AmendLawNum="平成一九年三月三〇日文部科学省令第五号" Extract="true" Id="d62ca4b8-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月三〇日文部科学省令第五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -452,7 +727,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="419010" AmendLawNum="平成一九年三月三〇日文部科学省令第一〇号" Id="611afca6-d3b3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年三月三〇日文部科学省令第一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -462,7 +737,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="419040" AmendLawNum="平成一九年一二月二五日文部科学省令第四〇号" Extract="true" Id="9119ba1e-d3b3-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一九年一二月二五日文部科学省令第四〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -471,7 +746,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423041" AmendLawNum="平成二三年一一月二九日文部科学省令第四一号" Id="3873177a-1929-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年一一月二九日文部科学省令第四一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

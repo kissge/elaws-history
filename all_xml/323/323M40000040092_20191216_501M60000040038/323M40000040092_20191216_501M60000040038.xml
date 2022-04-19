@@ -1197,9 +1197,8 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="1" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">森林</Sentence>
-              <Sentence WritingMode="vertical">原野</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">〃</Sentence>
@@ -1210,6 +1209,9 @@
             </TableColumn>
           </TableRow>
           <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">原野</Sentence>
+            </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">〃</Sentence>
             </TableColumn>
@@ -1511,12 +1513,12 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">
-<Ruby>さ<Rt>、</Rt>
+<Ruby>さ<Rt>ヽ</Rt>
 </Ruby>
-<Ruby>く<Rt>、</Rt>
-</Ruby>、<Ruby>へ<Rt>、</Rt>
+<Ruby>く<Rt>ヽ</Rt>
+</Ruby>ヽ<Ruby>へ<Rt>ヽ</Rt>
 </Ruby>
-<Ruby>い<Rt>、</Rt>
+<Ruby>い<Rt>ヽ</Rt>
 </Ruby>、垣、生垣等を包括する。</Sentence>
             </TableColumn>
           </TableRow>
@@ -1547,9 +1549,9 @@
               <Sentence WritingMode="vertical">〃</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">溝<Ruby>き<Rt>、</Rt>
+              <Sentence WritingMode="vertical">溝<Ruby>き<Rt>ヽ</Rt>
 </Ruby>
-<Ruby>よ<Rt>、</Rt>
+<Ruby>よ<Rt>ヽ</Rt>
 </Ruby>、埋下水等の各一式をもつて一個とする。</Sentence>
             </TableColumn>
           </TableRow>
@@ -1580,7 +1582,7 @@
               <Sentence WritingMode="vertical">〃</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">貯水池、<Ruby>ろ<Rt>、</Rt>
+              <Sentence WritingMode="vertical">貯水池、<Ruby>ろ<Rt>ヽ</Rt>
 </Ruby>水池、井戸等の各一個所をもつて一個とする。</Sentence>
             </TableColumn>
           </TableRow>
@@ -1596,9 +1598,9 @@
               <Sentence WritingMode="vertical">〃</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">石敷、<Ruby>れ<Rt>、</Rt>
+              <Sentence WritingMode="vertical">石敷、<Ruby>れ<Rt>ヽ</Rt>
 </Ruby>
-<Ruby>ん<Rt>、</Rt>
+<Ruby>ん<Rt>ヽ</Rt>
 </Ruby>瓦敷、コンクリート敷、木塊鋪、アスフアルト鋪等の各一個所をもつて一個とする。</Sentence>
             </TableColumn>
           </TableRow>
@@ -1750,9 +1752,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">
-<Ruby>さ<Rt>、</Rt>
+<Ruby>さ<Rt>ヽ</Rt>
 </Ruby>
-<Ruby>ん<Rt>、</Rt>
+<Ruby>ん<Rt>ヽ</Rt>
 </Ruby>橋、陸橋をも包括し、各その個数による。</Sentence>
             </TableColumn>
           </TableRow>
@@ -1768,9 +1770,9 @@
               <Sentence WritingMode="vertical">〃</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">石垣、<Ruby>さ<Rt>、</Rt>
+              <Sentence WritingMode="vertical">石垣、<Ruby>さ<Rt>ヽ</Rt>
 </Ruby>
-<Ruby>く<Rt>、</Rt>
+<Ruby>く<Rt>ヽ</Rt>
 </Ruby>等の各一個所をもつて一個とする。</Sentence>
             </TableColumn>
           </TableRow>
@@ -1998,16 +2000,16 @@
               </Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">竈及びろ</Sentence>
+              <Sentence WritingMode="vertical">竈及び<Ruby>ろ<Rt>ヽ</Rt></Ruby></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">〃</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">鎔鉱<Ruby>ろ<Rt>、</Rt>
-</Ruby>、反射<Ruby>ろ<Rt>、</Rt>
-</Ruby>、結晶<Ruby>ろ<Rt>、</Rt>
-</Ruby>、真鍮<Ruby>ろ<Rt>、</Rt>
+              <Sentence WritingMode="vertical">鎔鉱<Ruby>ろ<Rt>ヽ</Rt>
+</Ruby>、反射<Ruby>ろ<Rt>ヽ</Rt>
+</Ruby>、結晶<Ruby>ろ<Rt>ヽ</Rt>
+</Ruby>、真鍮<Ruby>ろ<Rt>ヽ</Rt>
 </Ruby>等の各一式をもつて一個とする。</Sentence>
             </TableColumn>
           </TableRow>
@@ -3019,7 +3021,8 @@
               </Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">新規登載</Sentence>
+              <Sentence WritingMode="vertical">
+              </Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">出資</Sentence>
@@ -3034,8 +3037,7 @@
               </Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical">新規登載</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">

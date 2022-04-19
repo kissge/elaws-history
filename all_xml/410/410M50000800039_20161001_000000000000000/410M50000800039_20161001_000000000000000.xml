@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="039" Year="10">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="039" Year="10" PromulgateMonth="06" PromulgateDay="12">
   <LawNum>平成十年運輸省令第三十九号</LawNum>
   <LawBody>
-    <LawTitle>港湾環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令</LawTitle>
+    <LawTitle Kana="こうわんかんきょうえいきょうひょうかのこうもくならびにとうがいこうもくにかかるちょうさ、よそくおよびひょうかをごうりてきにおこなうためのしゅほうをせんていするためのししん、かんきょうのほぜんのためのそちにかんするししんとうをさだめるしょうれい" Abbrev="" AbbrevKana="">港湾環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令</LawTitle>
     <EnactStatement>環境影響評価法（平成九年法律第八十一号）第四十八条第二項において準用する第十一条第一項及び第十二条第一項の規定に基づき、港湾環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -1089,7 +1089,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411030" AmendLawNum="平成一一年六月一一日運輸省令第三〇号" Id="138f7d50-1919-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年六月一一日運輸省令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1098,7 +1098,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418020" AmendLawNum="平成一八年三月三〇日国土交通省令第二〇号" Extract="true" Id="120f1ab2-1919-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三〇日国土交通省令第二〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1129,7 +1129,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425028" AmendLawNum="平成二五年四月一日国土交通省令第二八号" Id="126c1d20-1919-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年四月一日国土交通省令第二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1138,7 +1138,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427043" AmendLawNum="平成二七年六月一日国土交通省令第四三号" Id="12c9157a-1919-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年六月一日国土交通省令第四三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1153,8 +1153,8 @@
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn rowspan="2">
-              <Sentence>影響要因の区分</Sentence>
+            <TableColumn rowspan="2" BorderBottom="none">
+              <Sentence/>
             </TableColumn>
             <TableColumn rowspan="2">
               <Sentence>環境要素の区分</Sentence>
@@ -1196,7 +1196,7 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2" rowspan="2">
+            <TableColumn colspan="2" rowspan="2" BorderTop="none">
               <Sentence>影響要因の区分</Sentence>
             </TableColumn>
             <TableColumn>
@@ -2532,7 +2532,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>人と自然との触れ合いの活動の場の特性を踏まえて調査地域における主要な人と自然との触れ合いの活動の場に係る港湾環境影響を予測し、及び評価するために必要な情報を適切かつ効果的に把握できる時間、時期及び時間帯</Sentence>
+              <Sentence>人と自然との触れ合いの活動の場の特性を踏まえて調査地域における主要な人と自然との触れ合いの活動の場に係る港湾環境影響を予測し、及び評価するために必要な情報を適切かつ効果的に把握できる期間、時期及び時間帯</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>
