@@ -13,7 +13,7 @@ unzip "$zip"
 
 # 加工 (1) サブディレクトリ化
 
-ls -d */ | while read -r dir; do
+for dir in */; do
     prefix=${dir:0:3}
     mkdir -p "$prefix"
     mv "$dir" "$prefix"/
