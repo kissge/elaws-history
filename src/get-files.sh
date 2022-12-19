@@ -3,7 +3,7 @@
 set -Eeuxo pipefail
 
 mkdir -p "$WORKDIR"
-TZ=Asia/Tokyo date +%Y%m%dT%H%M%S.%N%z >"$NOW"
+TZ=Asia/Tokyo date +%Y/%m/%dT%H%M%S.%N%z >"$NOW"
 zip="$WORKDIR"/all_xml.zip
 curl -D "$HEADERS" -A "$USER_AGENT" -o "$zip" 'https://elaws.e-gov.go.jp/download?file_section=1&only_xml_flag=true'
 
