@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="24" Year="27">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="024" Year="27" PromulgateMonth="08" PromulgateDay="31">
   <LawNum>昭和二十七年労働省令第二十四号</LawNum>
   <LawBody>
-    <LawTitle>労働基準法第十八条第四項の規定に基づき使用者が労働者の預金を受け入れる場合の利率を定める省令</LawTitle>
+    <LawTitle Kana="ろうどうきじゅんほうだいじゅうはちじょうだいよんこうのきていにもとづきしようしゃがろうどうしゃのよきんをうけいれるばあいのりりつをさだめるしょうれい" Abbrev="労基法労働者預金受入利率を定める省令" AbbrevKana="ろ">労働基準法第十八条第四項の規定に基づき使用者が労働者の預金を受け入れる場合の利率を定める省令</LawTitle>
     <EnactStatement>労働基準法第十八条第四項の規定に基き使用者が労働者の預金を受け入れる場合の利率を定める省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -131,21 +131,21 @@
             <Sentence Function="proviso" Num="2">ただし、月の十六日以後に預入された場合には、その預入の月の利子を付けることを要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1">払戻金に相当する預金には、その払渡しの月の利子を付けることを要しない。</Sentence>
             <Sentence Num="2">預入の月において払戻金の払渡しがあったときも、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>十円未満の預金の端数には、利子を付けることを要しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Num="4" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>利子の計算においては、円未満の端数は切り捨てることができる。</Sentence>
           </ParagraphSentence>
@@ -161,7 +161,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="407033" AmendLawNum="平成七年七月一七日労働省令第三三号" Id="2cf804ca-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年七月一七日労働省令第三三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -170,7 +170,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409001" AmendLawNum="平成九年一月一六日労働省令第一号" Id="2d203422-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年一月一六日労働省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -179,7 +179,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411010" AmendLawNum="平成一一年二月一五日労働省令第一〇号" Id="2d488fe4-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年二月一五日労働省令第一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -188,7 +188,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412043" AmendLawNum="平成一二年一二月一四日労働省令第四三号" Id="2d70c1b2-18dc-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一二月一四日労働省令第四三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

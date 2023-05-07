@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="89" Year="04" PromulgateMonth="03" PromulgateDay="31"><LawNum>昭和四十三年法律第八十九号</LawNum><LawBody><LawTitle Kana="しゃかいほけんろうむしほう" Abbrev="社労士法" AbbrevKana="し">社会保険労務士法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="089" Year="43" PromulgateMonth="06" PromulgateDay="03"><LawNum>昭和四十三年法律第八十九号</LawNum><LawBody><LawTitle Kana="しゃかいほけんろうむしほう" Abbrev="社労士法" AbbrevKana="し">社会保険労務士法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -276,21 +276,12 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="6">
-          <ArticleTitle>第六条</ArticleTitle>
+        <Article Num="6:7">
+          <ArticleTitle>第六条及び第七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>削除</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="7">
-          <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>削除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6000,6 +5991,28 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
@@ -6090,7 +6103,8 @@
       <Item Num="15">
         <ItemTitle>十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">激<Ruby>甚<Rt>じん</Rt></Ruby>災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号。第二十五条の規定に限る。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">激<Ruby>甚<Rt>じん</Rt>
+            </Ruby>災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号。第二十五条の規定に限る。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="16">
@@ -6394,37 +6408,37 @@
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">番号</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">免除科目</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">免除資格者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">労働基準法及び労働安全衛生法</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　国又は地方公共団体の公務員として労働諸法令（別表第一第一号から第二十号の二十までに掲げる法律及びこれらの法律に基づく命令並びに行政不服審査法（同表第一号から第二十号の二十までに掲げる法律又はこれらの法律に基づく命令に係る不服申立ての場合に限る。）をいう。以下同じ。）の施行事務に従事した期間が通算して十五年以上になる者</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国家公務員として労働基準法、労働者災害補償保険法又は労働安全衛生法の施行事務に従事した期間が通算して十年以上になる者</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　厚生労働大臣が、労働基準法及び労働安全衛生法についてこの号の１及び２に掲げる者と同等以上の知識を有すると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">二</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　国又は地方公共団体の公務員として社会保険諸法令（別表第一第二十一号から第三十一号までに掲げる法律及びこれらの法律に基づく命令並びに行政不服審査法（同表第二十一号から第三十一号までに掲げる法律又はこれらの法律に基づく命令に係る不服申立ての場合に限る。）をいう。以下同じ。）の施行事務に従事した期間が通算して十五年以上になる者（次号１及び第四号１に掲げる者に該当する者として雇用保険法及び労働保険の保険料の徴収等に関する法律の科目について、試験の免除を受ける者を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国又は地方公共団体の公務員として労働諸法令の施行事務に従事した期間が通算して十五年以上になる者</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　労働若しくは社会保険に関する法令に関する厚生労働省令で定める事務（以下「労働社会保険法令事務」という。）を行う厚生労働大臣が指定する団体の役員若しくは従業者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者又は社会保険労務士若しくは社会保険労務士法人の補助者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者で、厚生労働省令で定める基準に適合するものとして厚生労働大臣が指定した連合会が行う講習を修了したもの（次号３及び第四号３に掲げる者に該当する者として雇用保険法及び労働保険の保険料の徴収等に関する法律の科目について、試験の免除を受ける者を除く。）</Sentence>
@@ -6434,13 +6448,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">三</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">雇用保険法</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　国又は地方公共団体の公務員として社会保険諸法令の施行事務に従事した期間が通算して十五年以上になる者（前号１及び次号１に掲げる者に該当する者として労働者災害補償保険法及び労働保険の保険料の徴収等に関する法律の科目について、試験の免除を受ける者を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国又は地方公共団体の公務員として労働諸法令の施行事務に従事した期間が通算して十五年以上になる者</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　労働社会保険法令事務を行う厚生労働大臣が指定する団体の役員若しくは従業者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者又は社会保険労務士若しくは社会保険労務士法人の補助者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者で、厚生労働省令で定める基準に適合するものとして厚生労働大臣が指定した連合会が行う講習を修了したもの（前号３及び次号３に掲げる者に該当する者として労働者災害補償保険法及び労働保険の保険料の徴収等に関する法律の科目について、試験の免除を受ける者を除く。）</Sentence>
@@ -6450,13 +6464,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">四</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">労働保険の保険料の徴収等に関する法律</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　国又は地方公共団体の公務員として社会保険諸法令の施行事務に従事した期間が通算して十五年以上になる者（第二号１及び前号１に掲げる者に該当する者として労働者災害補償保険法及び雇用保険法の科目について、試験の免除を受ける者を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国又は地方公共団体の公務員として労働諸法令の施行事務に従事した期間が通算して十五年以上になる者</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　労働社会保険法令事務を行う厚生労働大臣が指定する団体の役員若しくは従業者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者又は社会保険労務士若しくは社会保険労務士法人の補助者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者で、厚生労働省令で定める基準に適合するものとして厚生労働大臣が指定した連合会が行う講習を修了したもの（第二号３及び前号３に掲げる者に該当する者として労働者災害補償保険法及び雇用保険法の科目について、試験の免除を受ける者を除く。）</Sentence>
@@ -6465,13 +6479,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">五</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">健康保険法</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　国又は地方公共団体の公務員として社会保険諸法令の施行事務に従事した期間が通算して十五年以上になる者</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国又は地方公共団体の公務員として健康保険法の施行事務に従事した期間が通算して十年以上になる者</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　社会保険審査官の職にあつた期間が通算して五年以上になる者</Sentence>
@@ -6479,13 +6493,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">六</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">厚生年金保険法</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　国又は地方公共団体の公務員として社会保険諸法令の施行事務に従事した期間が通算して十五年以上になる者</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国又は地方公共団体の公務員として労働諸法令の施行事務に従事した期間が通算して十五年以上になる者（次号２に掲げる者に該当する者として国民年金法の科目について、試験の免除を受ける者を除く。）</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　労働社会保険法令事務を行う厚生労働大臣が指定する団体の役員若しくは従業者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者又は社会保険労務士若しくは社会保険労務士法人の補助者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者で、厚生労働省令で定める基準に適合するものとして厚生労働大臣が指定した連合会が行う講習を修了したもの（次号３に掲げる者に該当する者として国民年金法の科目について、試験の免除を受ける者を除く。）</Sentence>
@@ -6495,13 +6509,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">七</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">国民年金法</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　国又は地方公共団体の公務員として社会保険諸法令の施行事務に従事した期間が通算して十五年以上になる者</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国又は地方公共団体の公務員として労働諸法令の施行事務に従事した期間が通算して十五年以上になる者（前号２に掲げる者に該当する者として厚生年金保険法の科目について、試験の免除を受ける者を除く。）</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　労働社会保険法令事務を行う厚生労働大臣が指定する団体の役員若しくは従業者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者又は社会保険労務士若しくは社会保険労務士法人の補助者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者で、厚生労働省令で定める基準に適合するものとして厚生労働大臣が指定した連合会が行う講習を修了したもの（前号３に掲げる者に該当する者として厚生年金保険法の科目について、試験の免除を受ける者を除く。）</Sentence>
@@ -6511,13 +6525,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">八</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">労務管理その他の労働及び社会保険に関する一般常識</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　労働社会保険法令事務を行う厚生労働大臣が指定する団体の役員若しくは従業者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者又は社会保険労務士若しくは社会保険労務士法人の補助者として労働社会保険法令事務に従事した期間が通算して十五年以上になる者で、厚生労働省令で定める基準に適合するものとして厚生労働大臣が指定した連合会が行う講習を修了したもの</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　国又は地方公共団体の公務員として厚生労働省の所掌事務に属する行政事務に従事した期間、厚生労働大臣が所管する行政執行法人の役員又は職員として行政事務に相当する事務に従事した期間及び特定地方独立行政法人の役員又は職員として厚生労働省の所掌事務に属する行政事務に相当する事務に従事した期間が通算して十年以上になる者</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　厚生労働大臣が、労働及び社会保険についてこの号の１及び２に掲げる者と同等以上の知識を有すると認める者</Sentence>

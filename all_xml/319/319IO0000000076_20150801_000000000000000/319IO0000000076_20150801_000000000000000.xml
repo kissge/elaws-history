@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="ImperialOrder" Num="76" Year="19">
+<Law Era="Showa" Lang="ja" LawType="ImperialOrder" Num="076" Year="19" PromulgateMonth="02" PromulgateDay="15">
   <LawNum>昭和十九年勅令第七十六号</LawNum>
   <LawBody>
-    <LawTitle>官吏功労表彰令</LawTitle>
+    <LawTitle Kana="かんりこうろうひょうしょうれい" Abbrev="" AbbrevKana="">官吏功労表彰令</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -57,8 +57,8 @@
             <Sentence WritingMode="vertical">顕功章ヲ授与セラレタル者刑ニ処セラレ其ノ官職ヲ失ヒタルトキ又ハ懲戒処分ニ依リ其ノ官職ヲ免ゼラレタルトキハ之ヲ返納セシム</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ外顕功章ヲ授与セラレタル者懲戒処分ヲ受ケ其ノ他受章者タルノ体面ヲ汚辱スルノ失行アリタルトキハ顕功章ノ佩用ヲ停止シ又ハ之ヲ返納セシムルコトヲ得</Sentence>
           </ParagraphSentence>
@@ -83,10 +83,10 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322004" AmendLawNum="昭和二二年五月三日政令第四号" Extract="true" Id="d43d17f4-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年五月三日政令第四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から、これを施行する。</Sentence>
         </ParagraphSentence>
@@ -113,8 +113,7 @@
               <Sentence WritingMode="vertical">銀色金属</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -125,8 +124,7 @@
               <Sentence WritingMode="vertical">図ノ通</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -156,8 +154,7 @@
               <Sentence WritingMode="vertical">銀色</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
         </Table>

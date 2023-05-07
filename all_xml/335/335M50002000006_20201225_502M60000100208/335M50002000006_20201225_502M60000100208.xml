@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="6" Year="35" PromulgateMonth="03" PromulgateDay="31">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="006" Year="35" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和三十五年労働省令第六号</LawNum>
   <LawBody>
-    <LawTitle Kana="じんぱいほうせこうきそく" Abbrev="" AbbrevKana="">じん肺法施行規則</LawTitle>
+    <LawTitle Kana="じんぱいほうしこうきそく" Abbrev="" AbbrevKana="">じん肺法施行規則</LawTitle>
     <EnactStatement>じん肺法（昭和三十五年法律第三十号）の規定に基づき、及び同法を実施するため、じん肺法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -1427,19 +1427,19 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="0">
+    <AppdxTable>
       <AppdxTableTitle>別表</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
       <Item Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">土石、岩石又は鉱物（以下「鉱物等」という。）（湿潤な土石を除く。）を掘削する場所における作業（次号に掲げる作業を除く。）。ただし、次に掲げる作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">土石、岩石又は鉱物（以下「鉱物等」という。）（湿潤な土石を除く。）を掘削する場所における作業（次号に掲げる作業を除く。）。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、次に掲げる作業を除く。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1">坑外の、鉱物等を湿式により試<Ruby>錐<Rt>すい</Rt>
-</Ruby>する場所における作業</Sentence>
+            <Sentence>坑外の、鉱物等を湿式により試<Ruby>錐<Rt>すい</Rt></Ruby>する場所における作業</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="2">
@@ -1464,7 +1464,8 @@
       <Item Num="3">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">坑内の、鉱物等を破砕し、粉砕し、ふるい分け、積み込み、又は積み卸す場所における作業（次号に掲げる作業を除く。）。ただし、次に掲げる作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">坑内の、鉱物等を破砕し、粉砕し、ふるい分け、積み込み、又は積み卸す場所における作業（次号に掲げる作業を除く。）。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、次に掲げる作業を除く。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
@@ -1494,8 +1495,8 @@
       <Item Num="4">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">坑内において鉱物等（湿潤なものを除く。）を運搬する作業。ただし、鉱物等を積載した車を<Ruby>牽<Rt>けん</Rt>
-</Ruby>引する機関車を運転する作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">坑内において鉱物等（湿潤なものを除く。）を運搬する作業。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、鉱物等を積載した車を<Ruby>牽<Rt>けん</Rt></Ruby>引する機関車を運転する作業を除く。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="5">
@@ -1519,7 +1520,8 @@
       <Item Num="6">
         <ItemTitle>六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">岩石又は鉱物を裁断し、彫り、又は仕上げする場所における作業（第十三号に掲げる作業を除く。）。ただし、次に掲げる作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">岩石又は鉱物を裁断し、彫り、又は仕上げする場所における作業（第十三号に掲げる作業を除く。）。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、次に掲げる作業を除く。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
@@ -1537,13 +1539,15 @@
       <Item Num="7">
         <ItemTitle>七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">研磨材の吹き付けにより研磨し、又は研磨材を用いて動力により、岩石、鉱物若しくは金属を研磨し、若しくはばり取りし、若しくは金属を裁断する場所における作業（前号に掲げる作業を除く。）。ただし、設備による注水又は注油をしながら、研磨材を用いて動力により、岩石、鉱物若しくは金属を研磨し、若しくはばり取りし、又は金属を裁断する場所における作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">研磨材の吹き付けにより研磨し、又は研磨材を用いて動力により、岩石、鉱物若しくは金属を研磨し、若しくはばり取りし、若しくは金属を裁断する場所における作業（前号に掲げる作業を除く。）。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、設備による注水又は注油をしながら、研磨材を用いて動力により、岩石、鉱物若しくは金属を研磨し、若しくはばり取りし、又は金属を裁断する場所における作業を除く。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="8">
         <ItemTitle>八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">鉱物等、炭素を主成分とする原料（以下「炭素原料」という。）又はアルミニウムはくを動力により破砕し、粉砕し、又はふるい分ける場所における作業（第三号、第十五号又は第十九号に掲げる作業を除く。）。ただし、次に掲げる作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">鉱物等、炭素を主成分とする原料（以下「炭素原料」という。）又はアルミニウムはくを動力により破砕し、粉砕し、又はふるい分ける場所における作業（第三号、第十五号又は第十九号に掲げる作業を除く。）。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、次に掲げる作業を除く。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
@@ -1585,13 +1589,15 @@
       <Item Num="12">
         <ItemTitle>十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">ガラス又はほうろうを製造する工程において、原料を混合する場所における作業又は原料若しくは調合物を溶解炉に投げ入れる作業。ただし、水の中で原料を混合する場所における作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">ガラス又はほうろうを製造する工程において、原料を混合する場所における作業又は原料若しくは調合物を溶解炉に投げ入れる作業。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、水の中で原料を混合する場所における作業を除く。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="13">
         <ItemTitle>十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">陶磁器、耐火物、けい藻土製品又は研磨材を製造する工程において、原料を混合し、若しくは成形し、原料若しくは半製品を乾燥し、半製品を台車に積み込み、若しくは半製品若しくは製品を台車から積み卸し、仕上げし、若しくは荷造りする場所における作業又は窯の内部に立ち入る作業。ただし、次に掲げる作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">陶磁器、耐火物、けい藻土製品又は研磨材を製造する工程において、原料を混合し、若しくは成形し、原料若しくは半製品を乾燥し、半製品を台車に積み込み、若しくは半製品若しくは製品を台車から積み卸し、仕上げし、若しくは荷造りする場所における作業又は窯の内部に立ち入る作業。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、次に掲げる作業を除く。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
@@ -1609,13 +1615,15 @@
       <Item Num="14">
         <ItemTitle>十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">炭素製品を製造する工程において、炭素原料を混合し、若しくは成形し、半製品を炉詰めし、又は半製品若しくは製品を炉出しし、若しくは仕上げする場所における作業。ただし、水の中で原料を混合する場所における作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">炭素製品を製造する工程において、炭素原料を混合し、若しくは成形し、半製品を炉詰めし、又は半製品若しくは製品を炉出しし、若しくは仕上げする場所における作業。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、水の中で原料を混合する場所における作業を除く。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="15">
         <ItemTitle>十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">砂型を用いて鋳物を製造する工程において、砂型を造型し、砂型を壊し、砂落としし、砂を再生し、砂を混練し、又は鋳ばり等を削り取る場所における作業（第七号に掲げる作業を除く。）。ただし、設備による注水若しくは注油をしながら、又は水若しくは油の中で、砂を再生する場所における作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">砂型を用いて鋳物を製造する工程において、砂型を造型し、砂型を壊し、砂落としし、砂を再生し、砂を混練し、又は鋳ばり等を削り取る場所における作業（第七号に掲げる作業を除く。）。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、設備による注水若しくは注油をしながら、又は水若しくは油の中で、砂を再生する場所における作業を除く。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="16">
@@ -1627,7 +1635,8 @@
       <Item Num="17">
         <ItemTitle>十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">金属その他無機物を製錬し、又は溶融する工程において、土石又は鉱物を開放炉に投げ入れ、焼結し、湯出しし、又は鋳込みする場所における作業。ただし、転炉から湯出しし、又は金型に鋳込みする場所における作業を除く。</Sentence>
+          <Sentence Function="main" Num="1">金属その他無機物を製錬し、又は溶融する工程において、土石又は鉱物を開放炉に投げ入れ、焼結し、湯出しし、又は鋳込みする場所における作業。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、転炉から湯出しし、又は金型に鋳込みする場所における作業を除く。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="18">
@@ -1663,10 +1672,7 @@
       <Item Num="22">
         <ItemTitle>二十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">染土の付着した<Ruby>藺<Rt>い</Rt>
-</Ruby>草を<Ruby>庫<Rt>くら</Rt>
-</Ruby>入れし、<Ruby>庫<Rt>くら</Rt>
-</Ruby>出しし、選別調整し、又は製織する場所における作業</Sentence>
+          <Sentence>染土の付着した<Ruby>藺<Rt>い</Rt></Ruby>草を<Ruby>庫<Rt>くら</Rt></Ruby>入れし、<Ruby>庫<Rt>くら</Rt></Ruby>出しし、選別調整し、又は製織する場所における作業</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="23">
@@ -1683,15 +1689,14 @@
       </Item>
     </AppdxTable>
     <AppdxStyle Num="1">
-      <AppdxStyleTitle>様式第１号</AppdxStyleTitle>
-      <RelatedArticleNum>　削除</RelatedArticleNum>
+      <AppdxStyleTitle>様式第１号　削除</AppdxStyleTitle>
     </AppdxStyle>
     <AppdxStyle Num="2">
       <AppdxStyleTitle>様式第２号</AppdxStyleTitle>
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src=""/>
+          <Fig src="./pict/335M50002000006_202209161631_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1700,7 +1705,7 @@
       <RelatedArticleNum>（第１３条、第２０条、第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_002.pdf"/>
+          <Fig src="./pict/335M50002000006_202208301604_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1709,7 +1714,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_003.pdf"/>
+          <Fig src="./pict/335M50002000006_202208301604_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1718,7 +1723,7 @@
       <RelatedArticleNum>（第１７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_004.pdf"/>
+          <Fig src="./pict/335M50002000006_202208301604_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1727,7 +1732,7 @@
       <RelatedArticleNum>（第２０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src=""/>
+          <Fig src="./pict/335M50002000006_202209161631_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1736,7 +1741,7 @@
       <RelatedArticleNum>（第３５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_006.pdf"/>
+          <Fig src="./pict/335M50002000006_202208301604_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1745,16 +1750,16 @@
       <RelatedArticleNum>（第３７条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src=""/>
+          <Fig src="./pict/335M50002000006_202209161631_008_01.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle Num="8_2">
       <AppdxStyleTitle>様式第８号</AppdxStyleTitle>
       <RelatedArticleNum>（第３７条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src=""/>
+          <Fig src="./pict/335M50002000006_202209161631_008_02.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

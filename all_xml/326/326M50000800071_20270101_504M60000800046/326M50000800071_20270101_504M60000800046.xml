@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000800098" AmendmentNum="令和二年国土交通省令第九十八号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="071" Year="26" PromulgateMonth="08" PromulgateDay="10" ScheduledEnforcementDate=""><LawNum>昭和二十六年運輸省令第七十一号</LawNum><LawBody><LawTitle Kana="じどうしゃせいびしぎのうけんていきそく" Abbrev="" AbbrevKana="">自動車整備士技能検定規則</LawTitle>
+<Law AmendmentId="502M60000800098" AmendmentNum="令和二年国土交通省令第九十八号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="071" Year="26" PromulgateMonth="08" PromulgateDay="10"><LawNum>昭和二十六年運輸省令第七十一号</LawNum><LawBody><LawTitle Kana="じどうしゃせいびしぎのうけんていきそく" Abbrev="" AbbrevKana="">自動車整備士技能検定規則</LawTitle>
     <EnactStatement>道路運送車両法及び道路運送車両法施行法に基き、自動車整備士技能検定規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -18,17 +18,54 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">自動車整備士の種類は、次のとおりとする。</Sentence></ParagraphSentence>
-            <List><ListSentence><Sentence Num="2" WritingMode="vertical">一級自動車整備士（総合）</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="3" WritingMode="vertical">一級自動車整備士（二輪）</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="4" WritingMode="vertical">二級自動車整備士（総合）</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="5" WritingMode="vertical">二級自動車整備士（二輪）</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="6" WritingMode="vertical">三級自動車整備士（総合）</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="7" WritingMode="vertical">三級自動車整備士（二輪）</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="8" WritingMode="vertical">自動車タイヤ整備士</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="9" WritingMode="vertical">自動車電気・電子制御装置整備士</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="10" WritingMode="vertical">自動車車体・電子制御装置整備士</Sentence></ListSentence></List>
-                  </Paragraph>
+            <Sentence Num="1" WritingMode="vertical">自動車整備士の種類は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">一級自動車整備士（総合）</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">一級自動車整備士（二輪）</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">二級自動車整備士（総合）</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">二級自動車整備士（二輪）</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">三級自動車整備士（総合）</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">三級自動車整備士（二輪）</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">自動車タイヤ整備士</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">自動車電気・電子制御装置整備士</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">自動車車体・電子制御装置整備士</Sentence>
+            </ListSentence>
+          </List>
+        </Paragraph>
       </Article>
       <Article Num="3">
         <ArticleCaption>（技能検定の種類）</ArticleCaption>
@@ -1087,28 +1124,25 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                   <Sentence Num="1" WritingMode="vertical">一　基本工作</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">二　点検、分解、組立、調整及び完成検査</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">二　点検、分解、組立て、調整及び完成検査</Sentence>
                   <Sentence Num="3" WritingMode="vertical">三　修理</Sentence>
                   <Sentence Num="4" WritingMode="vertical">四　整備用の試験機、計量器及び工具の取扱</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">自動車電気装置整備士の技能検定</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">自動車電気・電子制御装置整備士の技能検定</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">電気装置</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">電気装置及び電子制御装置</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">自動車車体整備士の技能検定</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">自動車車体・電子制御装置整備士の技能検定</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">車<Ruby>わ<Rt>・</Rt>
-                    </Ruby>
-                    <Ruby>く<Rt>・</Rt>
-                    </Ruby>及び車体</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">車枠及び車体並びに電子制御装置</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -1896,8 +1930,12 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">（施行期日）</Sentence>
-          <Sentence Num="2" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
+        <List>
+          <ListSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ListSentence>
+        </List>
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五八年四月九日運輸省令第二〇号" Extract="true">

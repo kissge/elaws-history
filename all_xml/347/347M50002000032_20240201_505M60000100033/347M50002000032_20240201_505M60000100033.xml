@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="032" Year="47" PromulgateMonth="09" PromulgateDay="30" ScheduledEnforcementDate=""><LawNum>昭和四十七年労働省令第三十二号</LawNum><LawBody><LawTitle Kana="ろうどうあんぜんえいせいきそく" Abbrev="安衛則" AbbrevKana="あ">労働安全衛生規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="032" Year="47" PromulgateMonth="09" PromulgateDay="30"><LawNum>昭和四十七年労働省令第三十二号</LawNum><LawBody><LawTitle Kana="ろうどうあんぜんえいせいきそく" Abbrev="安衛則" AbbrevKana="あ">労働安全衛生規則</LawTitle>
     <EnactStatement>労働安全衛生法（昭和四十七年法律第五十七号）及び労働安全衛生法施行令（昭和四十七年政令第三百十八号）の規定に基づき、並びに同法を実施するため、労働安全衛生規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -34662,6 +34662,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年四月三日厚生労働省令第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十六条、第十七条関係）</RelatedArticleNum>
@@ -34987,13 +34997,24 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">令第六条第十八号の作業のうち、次の項に掲げる作業以外の作業</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令第六条第十八号の作業のうち、次の二項に掲げる作業以外の作業</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">特定化学物質及び四アルキル鉛等作業主任者技能講習を修了した者</Sentence>
+              <Sentence Num="1" WritingMode="vertical">特定化学物質及び四アルキル鉛等作業主任者技能講習（講習科目を次項の金属アーク溶接等作業に係るものに限定したもの（以下「金属アーク溶接等作業主任者限定技能講習」という。）を除く。令第六条第二十号の作業の項において同じ。）を修了した者</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">特定化学物質作業主任者</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">令第六条第十八号の作業のうち、金属をアーク溶接する作業、アークを用いて金属を溶断し、又はガウジングする作業その他の溶接ヒュームを製造し、又は取り扱う作業（以下この項において「金属アーク溶接等作業」という。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">特定化学物質及び四アルキル鉛等作業主任者技能講習（金属アーク溶接等作業主任者限定技能講習を含む。）を修了した者</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">金属アーク溶接等作業主任者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -35072,41 +35093,36 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel LineBreak="false">備考</RemarksLabel>
+          <RemarksLabel LineBreak="true">備考　令第六条第四号の作業に係る伝熱面積の合計は、次に定めるところにより算定するものとする。</RemarksLabel>
           <Item Num="1">
+            <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">令第六条第四号の作業に係る伝熱面積の合計は、次に定めるところにより算定するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ボイラーの伝熱面積の算定方法は、ボイラー則第二条に規定するところによること。</Sentence>
             </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>一</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">ボイラーの伝熱面積の算定方法は、ボイラー則第二条に規定するところによること。</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="2">
-              <Subitem1Title>二</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">貫流ボイラーについては、前号により算定した伝熱面積に十分の一を乗じて得た値を当該ボイラーの伝熱面積とすること。</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="3">
-              <Subitem1Title>三</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">廃熱ボイラーについては、その伝熱面積に二分の一を乗じて得た値を当該廃熱ボイラーの伝熱面積とすること。</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="4">
-              <Subitem1Title>四</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">令第二十条第五号イからニまでに掲げるボイラーについては、その伝熱面積を算入しないこと。</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="5">
-              <Subitem1Title>五</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">ボイラーに圧力、温度、水位又は燃焼の状態に係る異常があつた場合に当該ボイラーを安全に停止させることができる機能その他の機能を有する自動制御装置であつて厚生労働大臣の定めるものを備えたボイラーについては、当該ボイラー（当該ボイラーのうち、最大の伝熱面積を有するボイラーを除く。）の伝熱面積を算入しないことができること。</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">貫流ボイラーについては、前号により算定した伝熱面積に十分の一を乗じて得た値を当該ボイラーの伝熱面積とすること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">廃熱ボイラーについては、その伝熱面積に二分の一を乗じて得た値を当該廃熱ボイラーの伝熱面積とすること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十条第五号イからニまでに掲げるボイラーについては、その伝熱面積を算入しないこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">ボイラーに圧力、温度、水位又は燃焼の状態に係る異常があつた場合に当該ボイラーを安全に停止させることができる機能その他の機能を有する自動制御装置であつて厚生労働大臣の定めるものを備えたボイラーについては、当該ボイラー（当該ボイラーのうち、最大の伝熱面積を有するボイラーを除く。）の伝熱面積を算入しないことができること。</Sentence>
+            </ItemSentence>
           </Item>
         </Remarks>
       </TableStruct>

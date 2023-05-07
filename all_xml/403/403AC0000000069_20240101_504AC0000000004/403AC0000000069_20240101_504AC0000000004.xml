@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="69" Year="04" PromulgateMonth="03" PromulgateDay="31"><LawNum>平成三年法律第六十九号</LawNum><LawBody><LawTitle Kana="ちかぜいほう" Abbrev="" AbbrevKana="">地価税法</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="069" Year="03" PromulgateMonth="05" PromulgateDay="02"><LawNum>平成三年法律第六十九号</LawNum><LawBody><LawTitle Kana="ちかぜいほう" Abbrev="" AbbrevKana="">地価税法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1293,21 +1293,12 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="36">
-          <ArticleTitle>第三十六条</ArticleTitle>
+        <Article Num="36:37">
+          <ArticleTitle>第三十六条及び第三十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>削除</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="37">
-          <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>削除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5018,6 +5009,41 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二七日法律第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
@@ -5077,7 +5103,7 @@
         <Subitem1 Num="2">
           <Subitem1Title>ロ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">農地法第四条第一項本文（農地の転用の制限）又は第五条第一項本文（農地又は採草放牧地の転用のための権利移動の制限）の規定による許可（農地等を農地等以外のものにするために受けるものに限る。）を受けた農地等及び同法第四条第一項第八号又は第五条第一項第七号に規定する届出をした農地等</Sentence>
+            <Sentence Num="1" WritingMode="vertical">農地法第四条第一項本文（農地の転用の制限）又は第五条第一項本文（農地又は採草放牧地の転用のための権利移動の制限）の規定による許可（農地等を農地等以外のものにするために受けるものに限る。）を受けた農地等及び同法第四条第一項第七号又は第五条第一項第六号に規定する届出をした農地等</Sentence>
           </Subitem1Sentence>
         </Subitem1>
       </Item>
@@ -5315,37 +5341,67 @@
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">消防法（昭和二十三年法律第百八十六号）第十一条第一項（危険物施設の設置の許可）の許可を受けた者　当該許可に係る同法第十条第四項（危険物の貯蔵及び取扱いの制限等）に規定する製造所、貯蔵所及び取扱所の位置及び構造に係る同項に規定する技術上の基準</Sentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">消防法（昭和二十三年法律第百八十六号）第十一条第一項（危険物施設の設置の許可）の許可を受けた者</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">当該許可に係る同法第十条第四項（危険物の貯蔵及び取扱いの制限等）に規定する製造所、貯蔵所及び取扱所の位置及び構造に係る同項に規定する技術上の基準</Sentence>
+            </Column>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="2">
           <Subitem1Title>ロ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">鉱山保安法（昭和二十四年法律第七十号）第二条第一項（用語の意義）に規定する鉱業権者　同条第二項に規定する鉱山における保安を確保するため、同法第十三条第一項（工事計画）の届出に係る施設の位置について経済産業大臣が定めた基準</Sentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">鉱山保安法（昭和二十四年法律第七十号）第二条第一項（用語の意義）に規定する鉱業権者</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">同条第二項に規定する鉱山における保安を確保するため、同法第十三条第一項（工事計画）の届出に係る施設の位置について経済産業大臣が定めた基準</Sentence>
+            </Column>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="3">
           <Subitem1Title>ハ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">火薬類取締法（昭和二十五年法律第百四十九号）第三条（製造の許可）、第十条第一項（製造施設等の変更）又は第十二条第一項（火薬庫）の許可を受けた者　これらの許可に係る同法第七条第一号（許可の基準）又は第十二条第三項に規定する製造施設又は火薬庫の位置に係るこれらの規定（同法第十条第三項において準用する場合を含む。）に規定する技術上の基準</Sentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">火薬類取締法（昭和二十五年法律第百四十九号）第三条（製造の許可）、第十条第一項（製造施設等の変更）又は第十二条第一項（火薬庫）の許可を受けた者</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">これらの許可に係る同法第七条第一号（許可の基準）又は第十二条第三項に規定する製造施設又は火薬庫の位置に係るこれらの規定（同法第十条第三項において準用する場合を含む。）に規定する技術上の基準</Sentence>
+            </Column>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="4">
           <Subitem1Title>ニ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">高圧ガス保安法（昭和二十六年法律第二百四号）第五条第一項（製造の許可等）、第十四条第一項（製造のための施設等の変更）、第十六条第一項若しくは第十九条第一項（貯蔵所）の許可を受けた者又は同法第五条第二項、第十四条第四項、第十七条の二第一項（貯蔵所）、第十九条第四項、第二十四条の二第一項若しくは第二十四条の四第一項（消費）の届出をした者　これらの許可又は届出に係る同法第八条第一号（許可の基準）、第十二条第一項（製造のための施設及び製造の方法）、第十六条第二項、第十八条第二項（貯蔵所）又は第二十四条の三第一項（消費）に規定する施設の位置及び構造に係るこれらの規定（同法第十四条第三項及び第十九条第三項において準用する場合を含む。）に規定する技術上の基準</Sentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法（昭和二十六年法律第二百四号）第五条第一項（製造の許可等）、第十四条第一項（製造のための施設等の変更）、第十六条第一項若しくは第十九条第一項（貯蔵所）の許可を受けた者又は同法第五条第二項、第十四条第四項、第十七条の二第一項（貯蔵所）、第十九条第四項、第二十四条の二第一項若しくは第二十四条の四第一項（消費）の届出をした者</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">これらの許可又は届出に係る同法第八条第一号（許可の基準）、第十二条第一項（製造のための施設及び製造の方法）、第十六条第二項、第十八条第二項（貯蔵所）又は第二十四条の三第一項（消費）に規定する施設の位置及び構造に係るこれらの規定（同法第十四条第三項及び第十九条第三項において準用する場合を含む。）に規定する技術上の基準</Sentence>
+            </Column>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="5">
           <Subitem1Title>ホ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号）第三条第一項（事業の登録）の登録を受けた者、同法第八条（販売所等の変更の届出）の届出をした者又は同法第三十六条第一項（貯蔵施設等の設置の許可）若しくは第三十七条の二第一項（変更の許可）の許可を受けた者　これらの登録、届出又は許可に係る同法第十六条第一項（基準適合義務等）又は第三十七条（許可の基準）に規定する貯蔵施設又は特定供給設備の位置に係るこれらの規定（同法第三十七条の二第三項において準用する場合を含む。）に規定する技術上の基準</Sentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号）第三条第一項（事業の登録）の登録を受けた者、同法第八条（販売所等の変更の届出）の届出をした者又は同法第三十六条第一項（貯蔵施設等の設置の許可）若しくは第三十七条の二第一項（変更の許可）の許可を受けた者</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">これらの登録、届出又は許可に係る同法第十六条第一項（基準適合義務等）又は第三十七条（許可の基準）に規定する貯蔵施設又は特定供給設備の位置に係るこれらの規定（同法第三十七条の二第三項において準用する場合を含む。）に規定する技術上の基準</Sentence>
+            </Column>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="6">
           <Subitem1Title>ヘ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">石油コンビナート等災害防止法（昭和五十年法律第八十四号）第五条第一項（新設の届出等）又は第七条第一項（変更の届出等）の届出をした者　同法第五条第一項に規定する第一種事業所内の通路（これに隣接する財務省令で定める空地を含む。）の配置の同法第八条第一項第一号（新設等の計画に係る指示）に規定する基準</Sentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">石油コンビナート等災害防止法（昭和五十年法律第八十四号）第五条第一項（新設の届出等）又は第七条第一項（変更の届出等）の届出をした者</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">同法第五条第一項に規定する第一種事業所内の通路（これに隣接する財務省令で定める空地を含む。）の配置の同法第八条第一項第一号（新設等の計画に係る指示）に規定する基準</Sentence>
+            </Column>
           </Subitem1Sentence>
         </Subitem1>
       </Item>

@@ -8653,13 +8653,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence/>
+            <Sentence Num="1" WritingMode="vertical"/>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>前項の規定による改正後の労働金庫法第五十八条第六項第二号の二の規定の適用については、旧特定目的会社並びに旧特定目的会社に係る資産流動化計画及び特定社債は、それぞれ新資産流動化法の規定による特定目的会社並びに特定目的会社に係る資産流動化計画及び特定社債とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定による改正後の労働金庫法第五十八条第六項第二号の二の規定の適用については、旧特定目的会社並びに旧特定目的会社に係る資産流動化計画及び特定社債は、それぞれ新資産流動化法の規定による特定目的会社並びに特定目的会社に係る資産流動化計画及び特定社債とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11036,6 +11036,28 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

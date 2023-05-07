@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000800001" AmendmentNum="令和元年国土交通省令第一号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="075" Year="29">
+<Law AmendmentId="501M60000800001" AmendmentNum="令和元年国土交通省令第一号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="075" Year="29" PromulgateMonth="10" PromulgateDay="09">
   <LawNum>昭和二十九年総理府令第七十五号</LawNum>
   <LawBody>
-    <LawTitle>水位及び流量調査作業規程準則</LawTitle>
+    <LawTitle Kana="すいいおよびりゅうりょうちょうささぎょうきていじゅんそく" Abbrev="" AbbrevKana="">水位及び流量調査作業規程準則</LawTitle>
     <EnactStatement>国土調査法第三条第二項の規定に基き、水位及び流量調査作業規程準則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -25,10 +25,7 @@
           <ArticleRange>（第二十条―第二十三条）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="3">
-          <SectionTitle>第三節　<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量以外の流量観測</SectionTitle>
+          <SectionTitle>第三節　<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量以外の流量観測</SectionTitle>
           <TOCSubsection Delete="false" Num="1">
             <SubsectionTitle>第一款　通則</SubsectionTitle>
             <ArticleRange>（第二十四条・第二十五条）</ArticleRange>
@@ -42,16 +39,12 @@
             <ArticleRange>（第三十四条―第三十八条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="4">
-            <SubsectionTitle>第四款　<Ruby>堰<Rt>せき</Rt>
-</Ruby>測法</SubsectionTitle>
+            <SubsectionTitle>第四款　<Ruby>堰<Rt>せき</Rt></Ruby>測法</SubsectionTitle>
             <ArticleRange>（第三十九条）</ArticleRange>
           </TOCSubsection>
         </TOCSection>
         <TOCSection Delete="false" Num="4">
-          <SectionTitle>第四節　<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量観測</SectionTitle>
+          <SectionTitle>第四節　<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量観測</SectionTitle>
           <ArticleRange>（第四十条―第四十六条）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="5">
@@ -76,10 +69,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">国土調査法（昭和二十六年法律第百八十号）第二条第一項各号の水調査のうち、河川、湖沼、貯水池（<Ruby>た<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>め<Rt>ヽ</Rt>
-</Ruby>池を含む。）の水位及び流量に関する調査（以下「水位及び流量調査」という。）の作業規程の準則は、この省令の定めるところによる。</Sentence>
+              <Sentence WritingMode="vertical">国土調査法（昭和二十六年法律第百八十号）第二条第一項各号の水調査のうち、河川、湖沼、貯水池（<Ruby>た<Rt>ヽ</Rt></Ruby><Ruby>め<Rt>ヽ</Rt></Ruby>池を含む。）の水位及び流量に関する調査（以下「水位及び流量調査」という。）の作業規程の準則は、この省令の定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -218,7 +208,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">閉合差１．５ｃｍ√Ｓ</Sentence>
+                    <Sentence WritingMode="vertical">閉合差　１．５ｃｍ√Ｓ</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -266,8 +256,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">測量は、横断線拠標を起点とし、往復観測を行うものとし、地上測量においては水準儀を用い、水深測量においては測<Ruby>桿<Rt>かん</Rt>
-</Ruby>又は測錘を用いること。</Sentence>
+                <Sentence WritingMode="vertical">測量は、横断線拠標を起点とし、往復観測を行うものとし、地上測量においては水準儀を用い、水深測量においては測<Ruby>桿<Rt>かん</Rt></Ruby>又は測錘を用いること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -304,10 +293,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">前条の規定による水位標横断面図は、毎年出水期の前に、定期的に横断測量を行い、同一縮尺によつて補正するものとする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水等の原因によつて河床に変化をきたしたと認める場合には、その都度、すみやかに横断測量を行い補正するものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水等の原因によつて河床に変化をきたしたと認める場合には、その都度、すみやかに横断測量を行い補正するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -398,12 +384,7 @@
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">流速計測法による観測所においては、第二十九条の規定による測定方法により流量観測を行うに必要な水位標、舟、橋<Ruby>り<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>よ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>、索綱及びつり箱等を設置するものとする。</Sentence>
+              <Sentence WritingMode="vertical">流速計測法による観測所においては、第二十九条の規定による測定方法により流量観測を行うに必要な水位標、舟、橋<Ruby>り<Rt>ヽ</Rt></Ruby><Ruby>よ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>、索綱及びつり箱等を設置するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -424,8 +405,7 @@
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">浮子投下施設は、浮子が一定の<Ruby>吃<Rt>きつ</Rt>
-</Ruby>水を保つために必要な時間等を考慮して、上流に位置する横断線の上流三十メートル以上の位置に、左の条件に適合するように設置するものとする。</Sentence>
+              <Sentence WritingMode="vertical">浮子投下施設は、浮子が一定の<Ruby>吃<Rt>きつ</Rt></Ruby>水を保つために必要な時間等を考慮して、上流に位置する横断線の上流三十メートル以上の位置に、左の条件に適合するように設置するものとする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -443,19 +423,13 @@
           <Paragraph Hide="false" Num="4" OldStyle="false">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">浮子投下施設は、橋<Ruby>り<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>よ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>その他既存の工作物をもつてかえることができる。</Sentence>
+              <Sentence WritingMode="vertical">浮子投下施設は、橋<Ruby>り<Rt>ヽ</Rt></Ruby><Ruby>よ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>その他既存の工作物をもつてかえることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="5" OldStyle="false">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">水面<Ruby>勾<Rt>こう</Rt>
-</Ruby>配を測定する場合において第一項の水位標によつては水面勾配を測定するに適当でないときは、第一項の水位標の外に、水面勾配の測定ができる位置に水位標を設置するものとする。</Sentence>
+              <Sentence WritingMode="vertical">水面<Ruby>勾<Rt>こう</Rt></Ruby>配を測定する場合において第一項の水位標によつては水面勾配を測定するに適当でないときは、第一項の水位標の外に、水面勾配の測定ができる位置に水位標を設置するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -485,18 +459,12 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="18">
-            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水）</ArticleCaption>
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水）</ArticleCaption>
             <ArticleTitle>第十八条</ArticleTitle>
             <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">この準則において、「<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水」とは、既往十箇年間における毎日の水位又は流量のうち、原則として当該水位流量観測所における第百位以上に該当する水位又は流量の状態をいう。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">この準則において、「<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水」とは、既往十箇年間における毎日の水位又は流量のうち、原則として当該水位流量観測所における第百位以上に該当する水位又は流量の状態をいう。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、既往十箇年における毎日の水位又は流量の資料を得ることができない場合には、当該観測所が行つた既往の観測期間の年数に十を乗じて得た数値以上の順位に該当する水位又は流量の状態をいう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -509,10 +477,7 @@
             <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">水位流量観測所を新たに設置した場合において、前二項の規定により<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水の水位又は流量を定むべき資料を有しない時には、当該観測所と関連を有する既存の観測所の既存資料等から推定して定めるものとする。</Sentence>
+                <Sentence WritingMode="vertical">水位流量観測所を新たに設置した場合において、前二項の規定により<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水の水位又は流量を定むべき資料を有しない時には、当該観測所と関連を有する既存の観測所の既存資料等から推定して定めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -578,10 +543,7 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">観測は、原則として毎日六時及び十八時に行う。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水の場合には、毎正時観測を行うものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水の場合には、毎正時観測を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3" OldStyle="false">
@@ -687,10 +649,7 @@
           </Article>
         </Section>
         <Section Delete="false" Hide="false" Num="3">
-          <SectionTitle>第三節　<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量以外の流量観測</SectionTitle>
+          <SectionTitle>第三節　<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量以外の流量観測</SectionTitle>
           <Subsection Delete="false" Hide="false" Num="1">
             <SubsectionTitle>第一款　通則</SubsectionTitle>
             <Article Delete="false" Hide="false" Num="24">
@@ -817,12 +776,7 @@
               <Paragraph Hide="false" Num="1" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">流速計による測定は、流量観測所の状況に応じて、河川を渡渉し、又は第十四条の規定により設置してある舟、橋<Ruby>り<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>よ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>、つり箱等を使用して、流速測点の位置において、流線に直角の方向を保つように保持し、原則として連続二回の測定を行うものとする。</Sentence>
+                  <Sentence WritingMode="vertical">流速計による測定は、流量観測所の状況に応じて、河川を渡渉し、又は第十四条の規定により設置してある舟、橋<Ruby>り<Rt>ヽ</Rt></Ruby><Ruby>よ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>、つり箱等を使用して、流速測点の位置において、流線に直角の方向を保つように保持し、原則として連続二回の測定を行うものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -1063,8 +1017,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">Hは、<Ruby>溢<Rt>いつ</Rt>
-</Ruby>流水頭</Sentence>
+                    <Sentence WritingMode="vertical">Hは、<Ruby>溢<Rt>いつ</Rt></Ruby>流水頭</Sentence>
                   </ListSentence>
                 </List>
               </Paragraph>
@@ -1115,81 +1068,48 @@
                         <Sentence WritingMode="vertical">ｖは、第一項の規定により求めた流量を、水位標の位置における河川の横断面積で除して得た数値とする。</Sentence>
                       </ItemSentence>
                     </Item>
-                    <Item Delete="false" Hide="false" Num="3">
-                      <ItemTitle>３</ItemTitle>
-                      <ItemSentence>
-                        <Sentence WritingMode="vertical">前項の規定により流量を求めた場合において、特に精密を要する場合には、前項の規定により得た流量を再び河川の横断面積で除して流速の加速度を求め、これを用いて前項の公式により流量を求める。</Sentence>
-                      </ItemSentence>
-                    </Item>
                   </Remarks>
                 </StyleStruct>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3" OldStyle="false">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">前項の規定により流量を求めた場合において、特に精密を要する場合には、前項の規定により得た流量を再び河川の横断面積で除して流速の加速度を求め、これを用いて前項の公式により流量を求める。</Sentence>
+                </ParagraphSentence>
               </Paragraph>
             </Article>
           </Subsection>
         </Section>
         <Section Delete="false" Hide="false" Num="4">
-          <SectionTitle>第四節　<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量観測</SectionTitle>
+          <SectionTitle>第四節　<Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量観測</SectionTitle>
           <Article Delete="false" Hide="false" Num="40">
-            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量観測）</ArticleCaption>
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量観測）</ArticleCaption>
             <ArticleTitle>第四十条</ArticleTitle>
             <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水（第十八条参照）時の流量観測は、特に敏速なる観測を必要とするため、次条から第四十五条までに規定する方法により行う。</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水（第十八条参照）時の流量観測は、特に敏速なる観測を必要とするため、次条から第四十五条までに規定する方法により行う。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、流量を求める方法については第二十四条の規定を準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="41">
-            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量観測班）</ArticleCaption>
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量観測班）</ArticleCaption>
             <ArticleTitle>第四十一条</ArticleTitle>
             <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量を観測しようとする観測所は、あらかじめ<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量観測班を編成しておかなければならない。</Sentence>
+                <Sentence WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量を観測しようとする観測所は、あらかじめ<Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量観測班を編成しておかなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="42">
-            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量観測の方法）</ArticleCaption>
+            <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量観測の方法）</ArticleCaption>
             <ArticleTitle>第四十二条</ArticleTitle>
             <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量を観測しようとする観測所は、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水時における水位上昇時の観測回数を多くし、特に<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水の峰附近と認める時期の観測については、なるべく毎時観測を行うよう努めるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量を観測しようとする観測所は、<Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水時における水位上昇時の観測回数を多くし、特に<Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水の峰附近と認める時期の観測については、なるべく毎時観測を行うよう努めるものとする。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、一回の観測に要する時間は一時間をこえないものとし、観測した時刻は、これを明確に記録しておかなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1199,11 +1119,7 @@
             <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量観測の方法は、原則として浮子測法によるものとし、次項から第五項までの規定による外、第三十四条から第三十八条までの規定を準用する。</Sentence>
+                <Sentence WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt>う<Rt>ヽ</Rt></Ruby>水流量観測の方法は、原則として浮子測法によるものとし、次項から第五項までの規定による外、第三十四条から第三十八条までの規定を準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -1317,11 +1233,7 @@
             <Paragraph Hide="false" Num="5" OldStyle="false">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水時における平均流速算出の際の更正係数は、左の表の数値による。</Sentence>
+                <Sentence WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水時における平均流速算出の際の更正係数は、左の表の数値による。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
@@ -1394,11 +1306,7 @@
             <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水が終了したときは、横断面の変化の状況を調査するため、すみやかにそれぞれの横断線に沿つて横断測量を行い、横断面図を作成しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水が終了したときは、横断面の変化の状況を調査するため、すみやかにそれぞれの横断線に沿つて横断測量を行い、横断面図を作成しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合における横断測量の方法については、第十条各号の規定を準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1409,45 +1317,19 @@
             <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水時における流量の計算は、前条の規定による横断線の改測の結果、左の各号により行う。</Sentence>
+                <Sentence WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水時における流量の計算は、前条の規定による横断線の改測の結果、左の各号により行う。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">横断面の区分断面が、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水後においてもそれぞれ変化の少い場合にあつては、第三十八条の規定を準用する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">横断面の区分断面が、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水後においてもそれぞれ変化の少い場合にあつては、第三十八条の規定を準用する。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合において、第四十二条に規定する観測時期におけるそれぞれの通水断面積を算出する基礎となる水位は、その時期における観測開始時刻及び終了時刻における第十五条第一項に定めるそれぞれの水位標の水位の平均値とする。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水の前後におけるそれぞれの横断線の相対応する断面の変化が著しい場合には、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水の前後における相対応する区分断面積の平均値を比較して、その平均値が、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水前より大なる場合には<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水後の、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水前より小なる場合には<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水前の、平均値を計算断面として、当該断面について、第三十八条の規定を準用する。</Sentence>
+                  <Sentence WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水の前後におけるそれぞれの横断線の相対応する断面の変化が著しい場合には、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水の前後における相対応する区分断面積の平均値を比較して、その平均値が、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水前より大なる場合には<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水後の、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水前より小なる場合には<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水前の、平均値を計算断面として、当該断面について、第三十八条の規定を準用する。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1519,10 +1401,7 @@
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">水位年表は、調査単位の区域ごとに、水基本調査準則第三十条の規定による観測所の一連番号順に編<Ruby>さ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>ん<Rt>ヽ</Rt>
-</Ruby>して常に整備しておかなければならない。</Sentence>
+              <Sentence WritingMode="vertical">水位年表は、調査単位の区域ごとに、水基本調査準則第三十条の規定による観測所の一連番号順に編<Ruby>さ<Rt>ヽ</Rt></Ruby><Ruby>ん<Rt>ヽ</Rt></Ruby>して常に整備しておかなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1576,82 +1455,41 @@
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">流量年表は、調査単位の区域ごとに、水基本調査準則第三十条の規定による観測所の一連番号順に編<Ruby>さ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>ん<Rt>ヽ</Rt>
-</Ruby>して常に整備しておかなければならない。</Sentence>
+              <Sentence WritingMode="vertical">流量年表は、調査単位の区域ごとに、水基本調査準則第三十条の規定による観測所の一連番号順に編<Ruby>さ<Rt>ヽ</Rt></Ruby><Ruby>ん<Rt>ヽ</Rt></Ruby>して常に整備しておかなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="53">
-          <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量曲線図）</ArticleCaption>
+          <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量曲線図）</ArticleCaption>
           <ArticleTitle>第五十三条</ArticleTitle>
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">水位流量観測所は、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水時の流量値を算定したときは、これに基き当該観測を行つた<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水ごとに、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量曲線図を作成しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、算定した流量値が<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量曲線図を作成するに適当でない場合は、この限りでない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">水位流量観測所は、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水時の流量値を算定したときは、これに基き当該観測を行つた<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水ごとに、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量曲線図を作成しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、算定した流量値が<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量曲線図を作成するに適当でない場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="54">
-          <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水表）</ArticleCaption>
+          <ArticleCaption>（<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水表）</ArticleCaption>
           <ArticleTitle>第五十四条</ArticleTitle>
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">水位流量観測所は、第二十条第二項但書の規定又は第二十一条第一項の規定による毎正時の水位観測及び第四十二条に規定する観測時期における流量観測の結果並びに前条の規定による<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量曲線図に基いて、<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水表を作成しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、前条但書の規定により<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水流量曲線図を作成しない場合は、毎正時の流量は算出しないものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">水位流量観測所は、第二十条第二項但書の規定又は第二十一条第一項の規定による毎正時の水位観測及び第四十二条に規定する観測時期における流量観測の結果並びに前条の規定による<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量曲線図に基いて、<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水表を作成しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、前条但書の規定により<Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水流量曲線図を作成しない場合は、毎正時の流量は算出しないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水表は、調査単位の区域ごとに、水基本調査準則第三十条の規定による観測所の一連番号順に編<Ruby>さ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>ん<Rt>ヽ</Rt>
-</Ruby>して常に整備しておかなければならない。</Sentence>
+              <Sentence WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水表は、調査単位の区域ごとに、水基本調査準則第三十条の規定による観測所の一連番号順に編<Ruby>さ<Rt>ヽ</Rt></Ruby><Ruby>ん<Rt>ヽ</Rt></Ruby>して常に整備しておかなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">
-<Ruby>こ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>う<Rt>ヽ</Rt>
-</Ruby>水表の様式については、別表第十二に定めるところによる。</Sentence>
+              <Sentence WritingMode="vertical"><Ruby>こ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>水表の様式については、別表第十二に定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1711,7 +1549,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和元年五月七日国土交通省令第一号" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年五月七日国土交通省令第一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1775,8 +1613,8 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence WritingMode="vertical">二　自記水位標の構造自記水位標は、自記水位計、観測井、水位計小屋及び附帯設備よりなるものとし、護岸、<Ruby>閘<Rt>こう</Rt>
-</Ruby>門等堅固な構造物又は岩石等が適当な位置にある場合には、これらに固定するものとする。</Sentence>
+              <Sentence WritingMode="vertical">二　自記水位標の構造</Sentence>
+              <Sentence WritingMode="vertical">自記水位標は、自記水位計、観測井、水位計小屋及び附帯設備よりなるものとし、護岸、<Ruby>閘<Rt>こう</Rt></Ruby>門等堅固な構造物又は岩石等が適当な位置にある場合には、これらに固定するものとする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1794,13 +1632,11 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　観測井は、堅固な基礎の上に金属、コンクリート等の永久的材料を使用して作成する。</Sentence>
               <Sentence WritingMode="vertical">２　観測井は、なるべく内部に人が出入できる大きさとし、井の頂部は、既往の最高水位以上の高さとし、底部は、既往の最大渇水位以下であつて十分余裕のある深さとする。</Sentence>
-              <Sentence WritingMode="vertical">３　観測井には、導水孔又は導水管若しくは導水<Ruby>渠<Rt>きよ</Rt>
-</Ruby>を設置し、その位置は既往の最大渇水位以下とする。但し、土砂流失の大きい河川にあつては、観測井の適宜の位置に、補助導水孔を設置する。</Sentence>
+              <Sentence WritingMode="vertical">３　観測井には、導水孔又は導水管若しくは導水<Ruby>渠<Rt>きよ</Rt></Ruby>を設置し、その位置は既往の最大渇水位以下とする。但し、土砂流失の大きい河川にあつては、観測井の適宜の位置に、補助導水孔を設置する。</Sentence>
               <Sentence WritingMode="vertical">４　導水孔又は導水管の大きさは、観測井内の水面を平穏に保ち、且つ、土砂等による埋没の危険を防除できるように考慮して、決定するものとする。</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1820,8 +1656,7 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　自記水位標には、なるべく二個の水位標を併置し、うち一個は、観測井内部に取りつけて、内部水位の検定ができるようにするものとする。</Sentence>
-              <Sentence WritingMode="vertical">２　土砂流失の多い河川にあつては、導水孔、導水管及び観測井内部に<Ruby>堆<Rt>たい</Rt>
-</Ruby>積する土砂を排除し得る装置を附する。</Sentence>
+              <Sentence WritingMode="vertical">２　土砂流失の多い河川にあつては、導水孔、導水管及び観測井内部に<Ruby>堆<Rt>たい</Rt></Ruby>積する土砂を排除し得る装置を附する。</Sentence>
               <Sentence WritingMode="vertical">３　寒冷地方にあつて、必要ある場合には、観測井内部の水の凍結を防止し得る設備を附する。</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1924,7 +1759,7 @@
               <Sentence WritingMode="vertical">プライス式</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">約０．３０～２２．５ｍ／ｓｅｃ</Sentence>
+              <Sentence WritingMode="vertical">約０．３０～２．５ｍ／ｓｅｃ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">水面から　１０ｃｍ以上</Sentence>
@@ -1935,7 +1770,7 @@
               <Sentence WritingMode="vertical">広井式</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">約００．３０～２．００ｍ／ｓｅｃ</Sentence>
+              <Sentence WritingMode="vertical">約０．３０～２．００ｍ／ｓｅｃ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">水面から　１０ｃｍ以上</Sentence>

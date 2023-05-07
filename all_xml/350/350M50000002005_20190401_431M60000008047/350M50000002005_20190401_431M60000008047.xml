@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="431M60000008047" AmendmentNum="平成三十一年総務省令第四十七号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="005" Year="50">
+<Law AmendmentId="431M60000008047" AmendmentNum="平成三十一年総務省令第四十七号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="005" Year="50" PromulgateMonth="02" PromulgateDay="20">
   <LawNum>昭和五十年総理府令第五号</LawNum>
   <LawBody>
-    <LawTitle>個人企業経済調査規則</LawTitle>
+    <LawTitle Kana="こじんきぎょうけいざいちょうさきそく" Abbrev="" AbbrevKana="">個人企業経済調査規則</LawTitle>
     <EnactStatement>統計法（昭和二十二年法律第十八号）第三条第二項、第十二条第二項及び第十八条の規定に基づき、個人企業経済調査規則（昭和三十六年総理府令第十七号）の全部を改正する総理府令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -104,30 +104,13 @@
           <Item Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
-                <Sentence>大分類Ｍ―宿泊業、飲食サービス業（中分類七六―飲食店（小分類番号七六五</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence>酒場、ビヤホール及び小分類番号七六六</Sentence>
-              </Column>
-              <Column Num="3">
-                <Sentence Num="1">バー、キャバレー、ナイトクラブに限る。</Sentence>
-                <Sentence Num="2">）を除く。</Sentence>
-                <Sentence Num="3">）</Sentence>
-              </Column>
+              <Sentence>大分類Ｍ―宿泊業、飲食サービス業（中分類七六―飲食店（小分類番号七六五　酒場、ビヤホール及び小分類番号七六六　バー、キャバレー、ナイトクラブに限る。）を除く。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
-                <Sentence>大分類Ｎ―生活関連サービス業、娯楽業（中分類七九―その他の生活関連サービス業（小分類番号七九二</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1">家事サービス業に限る。</Sentence>
-                <Sentence Num="2">）を除く。</Sentence>
-                <Sentence Num="3">）</Sentence>
-              </Column>
+              <Sentence>大分類Ｎ―生活関連サービス業、娯楽業（中分類七九―その他の生活関連サービス業（小分類番号七九二　家事サービス業に限る。）を除く。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
@@ -139,20 +122,7 @@
           <Item Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
-                <Sentence>大分類Ｐ―医療、福祉（中分類八三―医療業（小分類番号八三一</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence>病院、小分類番号八三二</Sentence>
-              </Column>
-              <Column Num="3">
-                <Sentence>一般診療所及び小分類番号八三三</Sentence>
-              </Column>
-              <Column Num="4">
-                <Sentence Num="1">歯科診療所に限る。</Sentence>
-                <Sentence Num="2">）を除く。</Sentence>
-                <Sentence Num="3">）</Sentence>
-              </Column>
+              <Sentence>大分類Ｐ―医療、福祉（中分類八三―医療業（小分類番号八三一　病院、小分類番号八三二　一般診療所及び小分類番号八三三　歯科診療所に限る。）を除く。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="13">
@@ -413,7 +383,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="351003" AmendLawNum="昭和五一年二月二日総理府令第三号" Id="03a2c71e-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五一年二月二日総理府令第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -422,7 +392,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355059" AmendLawNum="昭和五五年一一月一七日総理府令第五九号" Id="03cf7804-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年一一月一七日総理府令第五九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -431,7 +401,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356029" AmendLawNum="昭和五六年四月二七日総理府令第二九号" Id="ebd7af50-1907-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年四月二七日総理府令第二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -446,7 +416,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359035" AmendLawNum="昭和五九年六月二九日総理府令第三五号" Id="d0769bf8-18db-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年六月二九日総理府令第三五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -455,7 +425,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360010" AmendLawNum="昭和六〇年三月二九日総理府令第一〇号" Id="0455a4ec-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年三月二九日総理府令第一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -464,7 +434,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="401013" AmendLawNum="平成元年三月二四日総理府令第一三号" Id="04824e8e-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年三月二四日総理府令第一三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -473,7 +443,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="404047" AmendLawNum="平成四年一〇月一日総理府令第四七号" Id="04aef290-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成四年一〇月一日総理府令第四七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -482,7 +452,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406007" AmendLawNum="平成六年二月二三日総理府令第七号" Id="04db93f4-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年二月二三日総理府令第七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -491,7 +461,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410045" AmendLawNum="平成一〇年六月二九日総理府令第四五号" Id="05085cf4-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年六月二九日総理府令第四五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -501,7 +471,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412033" AmendLawNum="平成一二年三月三〇日総理府令第三三号" Id="ed3d07d2-1907-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年三月三〇日総理府令第三三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -510,7 +480,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412090" AmendLawNum="平成一二年八月一四日総理府令第九〇号" Extract="true" Id="73a95cea-1885-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年八月一四日総理府令第九〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -519,7 +489,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414018" AmendLawNum="平成一四年二月二六日総務省令第一八号" Id="058e30fe-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年二月二六日総務省令第一八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -536,7 +506,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414100" AmendLawNum="平成一四年九月二五日総務省令第一〇〇号" Id="05badcd0-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年九月二五日総務省令第一〇〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -545,7 +515,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415038" AmendLawNum="平成一五年三月一八日総務省令第三八号" Id="eef3f570-18eb-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月一八日総務省令第三八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -554,7 +524,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420003" AmendLawNum="平成二〇年一月一八日総務省令第三号" Id="06141c3c-1908-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一月一八日総務省令第三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -563,7 +533,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420141" AmendLawNum="平成二〇年一二月一〇日総務省令第一四一号" Extract="true" Id="f15ce8f8-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月一〇日総務省令第一四一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -585,7 +555,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426020" AmendLawNum="平成二六年三月二七日総務省令第二〇号" Id="ee1bd55c-1907-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年三月二七日総務省令第二〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -594,7 +564,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="431047" AmendLawNum="平成三一年四月一日総務省令第四七号" Extract="true" Id="c0d5bda0-575f-11e9-9db0-005056b30d52">
+    <SupplProvision AmendLawNum="平成三一年四月一日総務省令第四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

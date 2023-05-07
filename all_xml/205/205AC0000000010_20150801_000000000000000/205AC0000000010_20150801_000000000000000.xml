@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="Act" Num="10" Year="05">
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="010" Year="05" PromulgateMonth="03" PromulgateDay="07">
   <LawNum>大正五年法律第十号</LawNum>
   <LawBody>
-    <LawTitle>大正五年法律第十号（証券ヲ以テスル歳入納付ニ関スル法律）</LawTitle>
+    <LawTitle Kana="しょうけんをもってするさいにゅうのうふにかんするほうりつ" Abbrev="" AbbrevKana="">大正五年法律第十号（証券ヲ以テスル歳入納付ニ関スル法律）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -30,14 +30,14 @@
             <Sentence WritingMode="vertical">本法ニ依リ証券ヲ受領シタル市町村ハ証券ニ属スル権利ヲ行使シ現金ヲ国庫ニ送付スル責任アルモノトス但シ政令ノ定ムル所ニ依リ証券ヲ国庫ニ送付スルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">市町村其ノ責ニ帰スヘカラサル事由ニ因リ証券金額ノ支払又ハ償還ヲ受クルコトヲ得サルトキハ其ノ事実ヲ具シ政府ニ責任ノ免除ヲ請フコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ申出アリタルトキハ政府ハ事実ヲ審査シ市町村ノ責任ヲ免除スルコトヲ得</Sentence>
           </ParagraphSentence>
@@ -62,7 +62,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="329036" AmendLawNum="昭和二九年三月三一日法律第三六号" Extract="true" Id="7647e9b6-5c28-11e9-8ce0-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二九年三月三一日法律第三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -71,7 +71,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="332038" AmendLawNum="昭和三二年三月三一日法律第三八号" Extract="true" Id="41b2cf26-47dd-11e5-8a55-c7c44144b980">
+    <SupplProvision AmendLawNum="昭和三二年三月三一日法律第三八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -80,7 +80,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334148" AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true" Id="f578bfee-d3bf-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三四年四月二〇日法律第一四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -97,7 +97,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341039" AmendLawNum="昭和四一年三月三一日法律第三九号" Extract="true" Id="29ab20a8-d3c1-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年三月三一日法律第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -110,7 +110,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -135,7 +135,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414098" AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true" Id="9171d2c4-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="30">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="30" PromulgateMonth="01" PromulgateDay="29">
   <LawNum>昭和三十年総理府令第三号</LawNum>
   <LawBody>
-    <LawTitle>土じよう調査作業規程準則</LawTitle>
+    <LawTitle Kana="どじょうちょうささぎょうきていじゅんそく" Abbrev="" AbbrevKana="">土じよう調査作業規程準則</LawTitle>
     <EnactStatement>国土調査法第三条第二項の規定に基き、土じよう調査作業規程準則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -68,8 +68,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>統とは、層の特徴及び配列が類似し、かつ、岩種及び<Ruby>堆<Rt>たい</Rt>
-</Ruby>積様式の類似した母材から生成した土じようの一群をいう。</Sentence>
+              <Sentence>統とは、層の特徴及び配列が類似し、かつ、岩種及び<Ruby>堆<Rt>たい</Rt></Ruby>積様式の類似した母材から生成した土じようの一群をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -297,10 +296,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>
-                    <Ruby>礫<Rt>れき</Rt>
-</Ruby>
-                  </Sentence>
+                  <Sentence><Ruby>礫<Rt>れき</Rt></Ruby></Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -318,9 +314,7 @@
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>
-                    <Ruby>泥<Rt>でい</Rt>
-</Ruby>炭及び黒泥</Sentence>
+                  <Sentence><Ruby>泥<Rt>でい</Rt></Ruby>炭及び黒泥</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
@@ -356,16 +350,13 @@
               <Item Num="13">
                 <ItemTitle>十三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>
-                    <Ruby>斑<Rt>はん</Rt>
-</Ruby>紋、結核及び盤層</Sentence>
+                  <Sentence><Ruby>斑<Rt>はん</Rt></Ruby>紋、結核及び盤層</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="14">
                 <ItemTitle>十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>湿り及び<Ruby>湧<Rt>ゆう</Rt>
-</Ruby>水面</Sentence>
+                  <Sentence>湿り及び<Ruby>湧<Rt>ゆう</Rt></Ruby>水面</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="15">
@@ -468,8 +459,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の規定により取りまとめた統及び類において、相異なる統及び類に属する土じようのある地点間にあつては、土じようの母材、地形、排水の状態及び植生等を勘案して、簡易試坑又は試<Ruby>穿<Rt>せん</Rt>
-</Ruby>を行う地点を選定して土じよう断面の異同を識別し、その結果により界線を定めるものとする。</Sentence>
+                <Sentence>前項の規定により取りまとめた統及び類において、相異なる統及び類に属する土じようのある地点間にあつては、土じようの母材、地形、排水の状態及び植生等を勘案して、簡易試坑又は試<Ruby>穿<Rt>せん</Rt></Ruby>を行う地点を選定して土じよう断面の異同を識別し、その結果により界線を定めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -608,9 +598,7 @@
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence>
-                  <Ruby>珪<Rt>けい</Rt>
-</Ruby>ばん比</Sentence>
+                <Sentence><Ruby>珪<Rt>けい</Rt></Ruby>ばん比</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
@@ -703,7 +691,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="330027" AmendLawNum="昭和三〇年七月二〇日総理府令第二七号" Id="c1590e6e-18e3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三〇年七月二〇日総理府令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -712,7 +700,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="349039" AmendLawNum="昭和四九年六月二六日総理府令第三九号" Id="be8be160-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四九年六月二六日総理府令第三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -721,7 +709,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412103" AmendLawNum="平成一二年八月一四日総理府令第一〇三号" Id="bf1d2242-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年八月一四日総理府令第一〇三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -731,7 +719,7 @@
       </Paragraph>
     </SupplProvision>
     <AppdxTable>
-      <AppdxTableTitle>別表第一　断面調査の調査内容</AppdxTableTitle>
+      <AppdxTableTitle>別表一　断面調査の調査内容</AppdxTableTitle>
       <TableStruct>
         <Table>
           <TableRow>
@@ -757,8 +745,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>次のとおり区分する。</Sentence>
-              <Sentence>明<Ruby>瞭<Rt>りよう</Rt>
-</Ruby>（層界の厚さが、一センチメートル以上三センチメートル未満のもの。）</Sentence>
+              <Sentence>明<Ruby>瞭<Rt>りよう</Rt></Ruby>（層界の厚さが、一センチメートル以上三センチメートル未満のもの。）</Sentence>
               <Sentence>判然（層界の厚さが、三センチメートル以上五センチメートル未満のもの。）</Sentence>
               <Sentence>漸変（層界の厚さが、五センチメートル以上のもの。）</Sentence>
               <Sentence>層界の形は、直線、波状、不規則及び切れているに区分する。</Sentence>
@@ -814,8 +801,7 @@
               <Sentence>泥炭質（泥炭を半ば近く含む層）</Sentence>
               <Sentence>泥炭を含む（泥炭が三分の一未満の層）</Sentence>
               <Sentence>２　質は、次のとおり区分する。ただし、原植物の種類が判定できる場合には、その名称をあわせて記載する。</Sentence>
-              <Sentence>高位泥炭（原植物が主として水<Ruby>蘚<Rt>せん</Rt>
-</Ruby>類からなるもの。）</Sentence>
+              <Sentence>高位泥炭（原植物が主として水<Ruby>蘚<Rt>せん</Rt></Ruby>類からなるもの。）</Sentence>
               <Sentence>中間泥炭（原植物が主としてわたすげ、ぬまかや等からなるもの。）</Sentence>
               <Sentence>低位泥炭（原植物が主としてあし類からなるもの。）</Sentence>
               <Sentence>（二）　黒泥の量</Sentence>
@@ -831,8 +817,7 @@
               <Sentence>１　板状（水平の厚さに対し横が大きいもの。）</Sentence>
               <Sentence>２　柱状（柱の垂直の長さが柱の辺又は径の二倍以上のもの。）</Sentence>
               <Sentence>３　方形状（縦、横及び高さがほぼ等しいもの。）</Sentence>
-              <Sentence>角塊状（<Ruby>稜<Rt>りよう</Rt>
-</Ruby>角に丸味がなく、二センチメートル以上の大きさのもの。）</Sentence>
+              <Sentence>角塊状（<Ruby>稜<Rt>りよう</Rt></Ruby>角に丸味がなく、二センチメートル以上の大きさのもの。）</Sentence>
               <Sentence>塊状（稜角に丸味があり、二センチメートル以上の大きさのもの。）</Sentence>
               <Sentence>堅果状（稜角に丸味がなく、二ミリメートル以上二センチメートル未満の大きさのもの。）</Sentence>
               <Sentence>粗粒状（稜角に丸味があり、二ミリメートル以上二センチメートル未満の大きさのもの。）</Sentence>
@@ -857,8 +842,7 @@
               <Sentence>小（〇・五ミリメートル以上二ミリメートル未満のもの。）</Sentence>
               <Sentence>中（二ミリメートル以上一センチメートル未満のもの。）</Sentence>
               <Sentence>大（一センチメートル以上のもの。）</Sentence>
-              <Sentence>２　含量（必要がある場合には、孔げきの状態により、海綿状、管状、細胞状及び気<Ruby>泡<Rt>ほう</Rt>
-</Ruby>状等と記載する。）</Sentence>
+              <Sentence>２　含量（必要がある場合には、孔げきの状態により、海綿状、管状、細胞状及び気<Ruby>泡<Rt>ほう</Rt></Ruby>状等と記載する。）</Sentence>
               <Sentence>富む（三十パーセント以上のもの。）</Sentence>
               <Sentence>含む（十パーセント以上三十パーセント未満のもの。）</Sentence>
               <Sentence>あり（十パーセント未満のもの。）</Sentence>
@@ -973,7 +957,7 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第二　付帯調査の調査内容</AppdxTableTitle>
+      <AppdxTableTitle>別表二　付帯調査の調査内容</AppdxTableTitle>
       <TableStruct>
         <Table>
           <TableRow>
@@ -1025,8 +1009,7 @@
               <Sentence>二　植生</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>（一）　草地及び林地においては、断面調査箇所を中心として、十メートル四方の正方形を区画して、そのうちの高木階、従高木階、<Ruby>灌<Rt>かん</Rt>
-</Ruby>木階、草本階（高径層及び低径層）、地表階（つる性植物及び着生植物等）に分け、種別に優占度を記載し、その他高木及び従高木にあつては、樹高及び直径を測定する。</Sentence>
+              <Sentence>（一）　草地及び林地においては、断面調査箇所を中心として、十メートル四方の正方形を区画して、そのうちの高木階、従高木階、<Ruby>灌<Rt>かん</Rt></Ruby>木階、草本階（高径層及び低径層）、地表階（つる性植物及び着生植物等）に分け、種別に優占度を記載し、その他高木及び従高木にあつては、樹高及び直径を測定する。</Sentence>
               <Sentence>（二）　優占度は、次の階級とし、出現の仕方に特徴がある場合には、群状、団状及び単位状等と付記する。</Sentence>
             </TableColumn>
           </TableRow>
@@ -1080,7 +1063,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>イ１／２０以上１／４未満</Sentence>
-              <Sentence>ロ１／２０未満任意</Sentence>
+              <Sentence>ロ１／２０未満</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>任意</Sentence>
@@ -1120,11 +1103,9 @@
               <Sentence>１　山地丘陵地</Sentence>
               <Sentence>山頂緩斜面</Sentence>
               <Sentence>山腹緩斜面</Sentence>
-              <Sentence>山<Ruby>麓<Rt>ろく</Rt>
-</Ruby>緩斜面</Sentence>
+              <Sentence>山<Ruby>麓<Rt>ろく</Rt></Ruby>緩斜面</Sentence>
               <Sentence>急斜面</Sentence>
-              <Sentence>山地丘陵地にあつては、原地形が火山噴出により生じ、かつ、火山噴出岩又は火山<Ruby>砕<Rt>さい</Rt>
-</Ruby>屑物により特徴づけられている場合には、山地丘陵地の分類名の上に火山性の文字を冠する。</Sentence>
+              <Sentence>山地丘陵地にあつては、原地形が火山噴出により生じ、かつ、火山噴出岩又は火山<Ruby>砕<Rt>さい</Rt></Ruby>屑物により特徴づけられている場合には、山地丘陵地の分類名の上に火山性の文字を冠する。</Sentence>
               <Sentence>２　台地</Sentence>
               <Sentence>岩石台地</Sentence>
               <Sentence>砂礫台地</Sentence>
@@ -1135,16 +1116,11 @@
               <Sentence>谷底平野</Sentence>
               <Sentence>扇状地</Sentence>
               <Sentence>三角州</Sentence>
-              <Sentence>
-                <Ruby>干潟<Rt>ひがた</Rt>
-</Ruby>
-              </Sentence>
+              <Sentence><Ruby>干潟<Rt>ひがた</Rt></Ruby></Sentence>
               <Sentence>（二）　各地形に付随する細地形は、必要があれば次のとおり更に区分する。</Sentence>
               <Sentence>地すべり地形</Sentence>
               <Sentence>崩壊地形</Sentence>
-              <Sentence>麓屑面及び<Ruby>崖錐<Rt>がいすい</Rt>
-</Ruby>
-</Sentence>
+              <Sentence>麓屑面及び<Ruby>崖錐<Rt>がいすい</Rt></Ruby></Sentence>
               <Sentence>泥流地形</Sentence>
               <Sentence>土石流地形</Sentence>
               <Sentence>砂礫地</Sentence>
@@ -1168,22 +1144,14 @@
               <Sentence>安山岩質岩石（石英安山岩、安山岩、玄武岩及び〔ひん〕（ひん）岩で、強ハリ質岩石を除く。）</Sentence>
               <Sentence>集塊岩</Sentence>
               <Sentence>深成岩</Sentence>
-              <Sentence>花<Ruby>崗<Rt>こう</Rt>
-</Ruby>岩質岩石（花崗岩、花崗<Ruby>閃<Rt>せん</Rt>
-</Ruby>緑岩、巨晶花崗岩、半花崗岩、花崗斑岩、石英閃緑岩及び閃緑岩で比較的優白色のもの又は片麻岩で片理構造の弱いもの。）</Sentence>
+              <Sentence>花<Ruby>崗<Rt>こう</Rt></Ruby>岩質岩石（花崗岩、花崗<Ruby>閃<Rt>せん</Rt></Ruby>緑岩、巨晶花崗岩、半花崗岩、花崗斑岩、石英閃緑岩及び閃緑岩で比較的優白色のもの又は片麻岩で片理構造の弱いもの。）</Sentence>
               <Sentence>石英斑岩</Sentence>
               <Sentence>斑励岩質岩石（斑励岩、輝緑岩及び角閃岩のうち、片状構造の明瞭でないもの並びに閃緑岩で比較的優黒色のもの。）</Sentence>
-              <Sentence>
-                <Ruby>蛇<Rt>じや</Rt>
-</Ruby>紋岩質岩石（蛇紋岩、<Ruby>橄欖<Rt>かんらん</Rt>
-</Ruby>岩及びその他蛇紋岩化作用の著しく進んだもの。）</Sentence>
+              <Sentence><Ruby>蛇<Rt>じや</Rt></Ruby>紋岩質岩石（蛇紋岩、<Ruby>橄欖<Rt>かんらん</Rt></Ruby>岩及びその他蛇紋岩化作用の著しく進んだもの。）</Sentence>
               <Sentence>変成岩</Sentence>
-              <Sentence>緑色片岩（緑泥片岩、緑<Ruby>簾<Rt>れん</Rt>
-</Ruby>片岩及び角閃岩で片状構造の明瞭のもの。）</Sentence>
+              <Sentence>緑色片岩（緑泥片岩、緑<Ruby>簾<Rt>れん</Rt></Ruby>片岩及び角閃岩で片状構造の明瞭のもの。）</Sentence>
               <Sentence>その他の変成岩（緑色片岩以外の片状構造の明瞭な変成岩、片麻岩中で片状構造の明瞭のもの及び圧砕岩質岩石（圧砕岩化作用の進んだもの。））</Sentence>
-              <Sentence>（二）　堆積岩については、必要があれば古生代、中生代、古第三紀、新第三紀、<Ruby>洪<Rt>こう</Rt>
-</Ruby>積世及び<Ruby>冲<Rt>ちゆう</Rt>
-</Ruby>積世に区分する。</Sentence>
+              <Sentence>（二）　堆積岩については、必要があれば古生代、中生代、古第三紀、新第三紀、<Ruby>洪<Rt>こう</Rt></Ruby>積世及び<Ruby>冲<Rt>ちゆう</Rt></Ruby>積世に区分する。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1215,12 +1183,12 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第三　聴取調査の調査内容</AppdxTableTitle>
+      <AppdxTableTitle>別表三　聴取調査の調査内容</AppdxTableTitle>
       <TableStruct>
         <Table>
           <TableRow>
             <TableColumn colspan="6">
-              <Sentence>次の表のうち田、畑、草地及び林地について、〇印を付したものをその調査地点の調査内容とする。ただし、田について裏作のある場合には、裏作の平年反当を調査項目に加える。</Sentence>
+              <Sentence>次の表のうち田、畑、草地及び林地について、○印を付したものをその調査地点の調査内容とする。ただし、田について裏作のある場合には、裏作の平年反当を調査項目に加える。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1253,16 +1221,16 @@
               <Sentence>調査地点の市、区、町、村、字、地番</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1270,16 +1238,16 @@
               <Sentence>耕作者住所氏名</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1287,18 +1255,16 @@
               <Sentence>開田、開畑又は開園の年</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1306,18 +1272,16 @@
               <Sentence>日照の良否</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1325,16 +1289,16 @@
               <Sentence>地下水位</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1342,19 +1306,16 @@
               <Sentence>かんがい用水の水源</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1362,19 +1323,16 @@
               <Sentence>水量</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1382,19 +1340,16 @@
               <Sentence>水温</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1402,19 +1357,16 @@
               <Sentence>水質</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1422,19 +1374,16 @@
               <Sentence>減水深</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1442,19 +1391,16 @@
               <Sentence>土地改良の種類</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1462,19 +1408,16 @@
               <Sentence>土地改良の実施年月及び効果</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1482,18 +1425,16 @@
               <Sentence>栽培作物及び樹性</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1501,18 +1442,16 @@
               <Sentence>常習被害</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1520,18 +1459,16 @@
               <Sentence>平年反収</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1539,19 +1476,16 @@
               <Sentence>作付順序</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1559,19 +1493,16 @@
               <Sentence>間作</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1579,18 +1510,16 @@
               <Sentence>樹の生育状況</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1598,18 +1527,16 @@
               <Sentence>植付年代及び樹令</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1617,19 +1544,16 @@
               <Sentence>植栽密度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1637,19 +1561,16 @@
               <Sentence>火入れの有無</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1657,18 +1578,16 @@
               <Sentence>落枝、落葉及び採草の時期並びに回数及び収量</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1676,19 +1595,16 @@
               <Sentence>植栽前の状況</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1696,19 +1612,16 @@
               <Sentence>放牧家畜の種類及び頭数</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1716,26 +1629,23 @@
               <Sentence>放牧の時期</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇</Sentence>
+              <Sentence>○</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
         </Table>
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第四　分析の方法</AppdxTableTitle>
+      <AppdxTableTitle>別表四　分析の方法</AppdxTableTitle>
       <TableStruct>
         <Table>
           <TableRow>
@@ -1830,7 +1740,7 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第五　地形図並びに土じよう図に表示する図式</AppdxTableTitle>
+      <AppdxTableTitle>別表五　地形図並びに土じよう図に表示する図式</AppdxTableTitle>
       <Item Num="1">
         <ItemTitle>第１部</ItemTitle>
         <ItemSentence>
@@ -1851,7 +1761,7 @@
       </Item>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第六</AppdxTableTitle>
+      <AppdxTableTitle>別表六</AppdxTableTitle>
       <TableStruct>
         <Table>
           <TableRow>

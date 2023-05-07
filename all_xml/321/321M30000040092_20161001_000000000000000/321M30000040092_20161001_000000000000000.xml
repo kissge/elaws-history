@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="092" Year="21">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="092" Year="21" PromulgateMonth="08" PromulgateDay="15">
   <LawNum>昭和二十一年大蔵省令第九十二号</LawNum>
   <LawBody>
-    <LawTitle>金融機関経理応急措置法施行規則</LawTitle>
+    <LawTitle Kana="きんゆうきかんけいりおうきゅうそちほうせこうきそく" Abbrev="" AbbrevKana="">金融機関経理応急措置法施行規則</LawTitle>
     <Preamble>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -65,8 +65,8 @@
             <Sentence>法第二条第一項第二号イに規定する預金等は、自由預金等（金融緊急措置令施行規則に規定する封鎖預金等以外の預金等をいふ。）及び同令に規定する第一封鎖預金等とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>金融機関経理応急措置法施行令（以下令といふ。）第三条第一項第二号イに規定する預金等は、金融緊急措置令施行規則に規定する第二封鎖預金等並びに企業整備資金措置法及び臨時資金調整法に規定する特殊預金とする。</Sentence>
           </ParagraphSentence>
@@ -89,8 +89,8 @@
             <Sentence>金融機関で昭和二十年大蔵外務内務司法省令第一号別表に掲げるもの、印度支那銀行及び日仏銀行の指定時における負債のうち、法第二条第一項第二号ハ（以下ハ号といふ。）に掲げる負債（出資及び株式を除く。）及び大蔵大臣の指定する負債（以下ハ号等の負債といふ。）は、同条同項同号イ乃至ニの負債の合計金額が、指定時において新勘定に属する資産の合計金額を超過するときは、同条同項同号ハ及び同条第二項の規定にかかはらず、ハ号等の負債の金額からその超過額に相当する金額を控除した金額に限り新勘定に属する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前項の金融機関は、同項の規定により新勘定に属するハ号等の負債の金額を、遅滞なく当該負債に関する権利者に通知しなければならない。</Sentence>
           </ParagraphSentence>
@@ -333,14 +333,14 @@
             <Sentence>法第二十六条第一項の規定により、生命保険中央会（生命保険における戦争危険の再保険の業務に関する勘定及び戦争死亡傷害保険の業務に関する勘定に限る。）及び損害保険中央会の指定時に始まる事業年度は、昭和二十二年一月三十一日で終了するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前項に規定するものの外、法第二十六条第一項の規定により、金融機関の指定時に始まる事業年度は、大蔵大臣の認可を受けた場合に限り昭和二十二年十月一日の属する他の法令又は定款の定める事業年度の末日で終了するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前項の規定により、大蔵大臣の認可を受けようとする金融機関は、大蔵大臣の定めるところにより、左の事項を記載した申請書を提出しなければならない。</Sentence>
           </ParagraphSentence>
@@ -543,7 +543,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="321094" AmendLawNum="昭和二一年八月二八日大蔵省令第九四号" Id="2f3338b8-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二一年八月二八日大蔵省令第九四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -552,7 +552,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="321107" AmendLawNum="昭和二一年一〇月一四日大蔵省令第一〇七号" Id="2f59bea2-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二一年一〇月一四日大蔵省令第一〇七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -561,7 +561,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322014" AmendLawNum="昭和二二年二月六日大蔵省令第一四号" Id="2f8031c2-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年二月六日大蔵省令第一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -570,7 +570,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322037" AmendLawNum="昭和二二年四月五日大蔵省令第三七号" Id="2fa6b8d8-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年四月五日大蔵省令第三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -579,7 +579,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322092" AmendLawNum="昭和二二年九月二七日大蔵省令第九二号" Id="2fcd4156-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年九月二七日大蔵省令第九二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -588,16 +588,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322001" AmendLawNum="昭和二二年一〇月一三日大蔵省・農林省・商工省令第一号" Id="2ff3c97a-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年一〇月一三日大蔵省・農林省・商工省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この省令は、公布の日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="323040" AmendLawNum="昭和二三年四月一六日大蔵省令第四〇号" Id="301a61f2-18c8-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二三年四月一六日大蔵省令第四〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

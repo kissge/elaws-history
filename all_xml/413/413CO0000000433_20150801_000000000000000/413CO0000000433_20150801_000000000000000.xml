@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="433" Year="13">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="433" Year="13" PromulgateMonth="12" PromulgateDay="28">
   <LawNum>平成十三年政令第四百三十三号</LawNum>
   <LawBody>
-    <LawTitle>水路業務法施行令</LawTitle>
+    <LawTitle Kana="すいろぎょうむほうしこうれい" Abbrev="" AbbrevKana="">水路業務法施行令</LawTitle>
     <EnactStatement>内閣は、測量法及び水路業務法の一部を改正する法律（平成十三年法律第五十三号）の施行に伴い、水路業務法（昭和二十五年法律第百二号）第九条第一項及び第二項第一号の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -42,8 +42,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">三　干出する岩その他の物及び干出<Ruby>堆<Rt>たい</Rt>
-</Ruby>の高さ</Sentence>
+                  <Sentence WritingMode="vertical">三　干出する岩その他の物及び干出<Ruby>堆<Rt>たい</Rt></Ruby>の高さ</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">最低水面からの高さ</Sentence>
@@ -101,8 +100,7 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="2">
-        <ArticleCaption>（長半径及び<Ruby>扁<Rt>へん</Rt>
-</Ruby>平率）</ArticleCaption>
+        <ArticleCaption>（長半径及び<Ruby>扁<Rt>へん</Rt></Ruby>平率）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>

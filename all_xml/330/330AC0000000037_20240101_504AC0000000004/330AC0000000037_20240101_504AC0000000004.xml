@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="37" Year="04" PromulgateMonth="03" PromulgateDay="31"><LawNum>昭和三十年法律第三十七号</LawNum><LawBody><LawTitle Kana="ゆにゅうひんにたいするないこくしょうひぜいのちょうしゅうとうにかんするほうりつ" Abbrev="輸徴法" AbbrevKana="ゆ">輸入品に対する内国消費税の徴収等に関する法律</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="037" Year="30" PromulgateMonth="06" PromulgateDay="30"><LawNum>昭和三十年法律第三十七号</LawNum><LawBody><LawTitle Kana="ゆにゅうひんにたいするないこくしょうひぜいのちょうしゅうとうにかんするほうりつ" Abbrev="輸徴法" AbbrevKana="ゆ">輸入品に対する内国消費税の徴収等に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（趣旨）</ArticleCaption>
@@ -1055,8 +1055,27 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">保税地域からの引取りに係る内国消費税に関する事項を処理させるため国税通則法第百十七条第一項（納税管理人）に規定する納税管理人（以下この条において「納税管理人」という。）を定めなければならない者が関税法第九十五条第一項（税関事務管理人）に規定する税関事務管理人を定めなければならない者である場合には、当該税関事務管理人を保税地域からの引取りに係る内国消費税に関する事項を処理させるための納税管理人として定めなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">保税地域からの引取りに係る内国消費税に関する事項を処理させるための国税通則法第百十七条第一項（納税管理人）に規定する納税管理人（以下この条において「引取納税管理人」という。）を定めなければならない者が関税法第九十五条第一項（税関事務管理人）に規定する税関事務管理人（以下この条において「税関事務管理人」という。）を定めなければならない者である場合には、税関事務管理人として定められた者を引取納税管理人として定めなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、国税通則法第百十七条第一項の規定の適用については、同項中「住所又は居所を有する者」とあるのは、「住所又は居所（法人にあつては、本店又は主たる事務所）を有する者」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">引取納税管理人及び税関事務管理人を定めなければならない者が、税関長に対して国税通則法第百十七条第二項の規定による引取納税管理人の届出及び関税法第九十五条第二項の規定による税関事務管理人の届出をしなかつた場合には、当該税関長は、これらの届出をしなかつた者に対し、同条第三項の求めに併せて、内国消費税に関する特定事項（保税地域からの引取りに係る内国消費税に関する事項のうち引取納税管理人に処理させる必要があると認められるものとして財務省令で定めるものをいう。次項において同じ。）を明示して、当該求めに係る同条第三項の指定日までに、引取納税管理人の届出をすべきことを書面で求めることができ、かつ、同条第四項の国内便宜者に対し、同項の求めに併せて引取納税管理人となることを書面で求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">関税法第九十五条第三項の求めに併せて前項の規定による引取納税管理人の届出をすべきことの求めをした税関長は、これらの求めを受けた者が同項の指定日までに当該税関長に対し同条第二項の規定による税関事務管理人の届出及び国税通則法第百十七条第二項の規定による引取納税管理人の届出をしなかつた場合において、関税法第九十五条第四項の求めと併せて前項の規定による引取納税管理人となることの求めを受けた者を同条第五項の規定により同項に規定する特定税関事務管理人として指定するときは、当該特定税関事務管理人を、内国消費税に関する特定事項を処理させる引取納税管理人（次項において「特定引取納税管理人」という。）として併せて指定することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国税通則法第百十七条第六項及び第七項の規定は、前項の規定により税関長が特定引取納税管理人を指定した場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第七項中「特定納税者」とあるのは、「輸入品に対する内国消費税の徴収等に関する法律第二十一条の二第二項（保税地域からの引取りに係る納税管理人）の規定による同条第一項に規定する引取納税管理人の届出をすべきことの求めを受けた者」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1401,7 +1420,7 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に掲げる日から施行する。</Sentence>
         </ParagraphSentence>
         <Item Num="1:2">
-          <ItemTitle>一および二</ItemTitle>
+          <ItemTitle>一及び二</ItemTitle>
           <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">略</Sentence>
           </ItemSentence>
@@ -3114,6 +3133,139 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月三一日法律第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからニまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条中輸入品に対する内国消費税の徴収等に関する法律第十九条の改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからホまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条中輸入品に対する内国消費税の徴収等に関する法律第七条第三項の改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="78">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="79">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月三一日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中関税法第九十五条の改正規定並びに次条第二項及び附則第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>

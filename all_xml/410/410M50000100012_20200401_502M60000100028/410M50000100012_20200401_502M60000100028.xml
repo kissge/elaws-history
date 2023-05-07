@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="12" Year="10">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="012" Year="10" PromulgateMonth="01" PromulgateDay="30">
   <LawNum>平成十年厚生省令第十二号</LawNum>
   <LawBody>
-    <LawTitle>精神保健福祉士短期養成施設等及び精神保健福祉士一般養成施設等指定規則</LawTitle>
+    <LawTitle Kana="せいしんほけんふくししたんきようせいしせつとうおよびせいしんほけんふくししいっぱんようせいしせつとうしていきそく" Abbrev="" AbbrevKana="">精神保健福祉士短期養成施設等及び精神保健福祉士一般養成施設等指定規則</LawTitle>
     <EnactStatement>精神保健福祉士法（平成九年法律第百三十一号）第二十七条の規定に基づき、精神保健福祉士短期養成施設等及び精神保健福祉士一般養成施設等指定規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -1533,30 +1533,38 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1">ソーシャルワーク実習は、この表に掲げる時間数のうち九十時間以上を、精神科病院等において実施するものとする。</Sentence>
-                <Sentence Num="2">二</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1">ソーシャルワーク実習は、実習施設等を利用して行わなければならない。</Sentence>
-                <Sentence Num="2">三</Sentence>
-              </Column>
-              <Column Num="3">
-                <Sentence Num="1">ソーシャルワーク実習は、学生一人に対し、精神科病院等及び一以上の厚生労働大臣が別に定める施設又は事業のうちソーシャルワーク実習を行うのに適当なもの（以下「施設又は事業」という。）で実施するものとする。</Sentence>
-                <Sentence Num="2">四</Sentence>
-              </Column>
-              <Column Num="4">
-                <Sentence Num="1">学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法（昭和四十四年法律第六十四号）第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
-                <Sentence Num="2">五</Sentence>
-              </Column>
-              <Column Num="5">
-                <Sentence Num="1">指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、ソーシャルワーク実習指導及びソーシャルワーク実習は免除するものとする。</Sentence>
-                <Sentence Num="2">六</Sentence>
-              </Column>
-              <Column Num="6">
-                <Sentence Function="main" Num="1">社会福祉士介護福祉士養成施設指定規則別表第一若しくは別表第三、社会福祉士介護福祉士学校指定規則（平成二十年／文部科学省／厚生労働省／令第二号）別表第一若しくは別表第三又は社会福祉に関する科目を定める省令（平成二十年／文部科学省／厚生労働省／令第三号）第一条第二十三号若しくは第三条第十八号に規定するソーシャルワーク実習を履修した者については、精神科病院等以外におけるソーシャルワーク実習の実施について、六十時間を超えない範囲で、この表に掲げる時間数の一部を免除することができる。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、この場合においても、当該実習は、精神科病院等及び一以上の施設又は事業で実施するものとする。</Sentence>
-              </Column>
+              <Sentence>ソーシャルワーク実習は、この表に掲げる時間数のうち九十時間以上を、精神科病院等において実施するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>ソーシャルワーク実習は、実習施設等を利用して行わなければならない。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>ソーシャルワーク実習は、学生一人に対し、精神科病院等及び一以上の厚生労働大臣が別に定める施設又は事業のうちソーシャルワーク実習を行うのに適当なもの（以下「施設又は事業」という。）で実施するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法（昭和四十四年法律第六十四号）第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、ソーシャルワーク実習指導及びソーシャルワーク実習は免除するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1">社会福祉士介護福祉士養成施設指定規則別表第一若しくは別表第三、社会福祉士介護福祉士学校指定規則（平成二十年文部科学省・厚生労働省令第二号）別表第一若しくは別表第三又は社会福祉に関する科目を定める省令（平成二十年文部科学省・厚生労働省令第三号）第一条第二十三号若しくは第三条第十八号に規定するソーシャルワーク実習を履修した者については、精神科病院等以外におけるソーシャルワーク実習の実施について、六十時間を超えない範囲で、この表に掲げる時間数の一部を免除することができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、この場合においても、当該実習は、精神科病院等及び一以上の施設又は事業で実施するものとする。</Sentence>
             </ItemSentence>
           </Item>
         </Remarks>
@@ -2178,30 +2186,38 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1">ソーシャルワーク実習は、この表に掲げる時間数のうち九十時間以上を、精神科病院等において実施するものとする。</Sentence>
-                <Sentence Num="2">二</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1">ソーシャルワーク実習は、実習施設等を利用して行わなければならない。</Sentence>
-                <Sentence Num="2">三</Sentence>
-              </Column>
-              <Column Num="3">
-                <Sentence Num="1">ソーシャルワーク実習は、学生一人に対し、精神科病院等及び一以上の施設又は事業で実施するものとする。</Sentence>
-                <Sentence Num="2">四</Sentence>
-              </Column>
-              <Column Num="4">
-                <Sentence Num="1">学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
-                <Sentence Num="2">五</Sentence>
-              </Column>
-              <Column Num="5">
-                <Sentence Num="1">指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、ソーシャルワーク実習指導及びソーシャルワーク実習は免除するものとする。</Sentence>
-                <Sentence Num="2">六</Sentence>
-              </Column>
-              <Column Num="6">
-                <Sentence Function="main" Num="1">社会福祉士介護福祉士養成施設指定規則別表第一若しくは別表第三、社会福祉士介護福祉学校指定規則別表第一若しくは別表第三又は社会福祉に関する科目を定める省令第一条第二十三号若しくは第三条第十八号に規定するソーシャルワーク実習を履修した者については、精神科病院等以外におけるソーシャルワーク実習の実施について、六十時間を超えない範囲で、この表に掲げる時間数の一部を免除することができる。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、この場合においても、当該実習は、精神科病院等及び一以上の施設又は事業で実施するものとする。</Sentence>
-              </Column>
+              <Sentence>ソーシャルワーク実習は、この表に掲げる時間数のうち九十時間以上を、精神科病院等において実施するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>ソーシャルワーク実習は、実習施設等を利用して行わなければならない。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>ソーシャルワーク実習は、学生一人に対し、精神科病院等及び一以上の施設又は事業で実施するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、ソーシャルワーク実習指導及びソーシャルワーク実習は免除するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1">社会福祉士介護福祉士養成施設指定規則別表第一若しくは別表第三、社会福祉士介護福祉学校指定規則別表第一若しくは別表第三又は社会福祉に関する科目を定める省令第一条第二十三号若しくは第三条第十八号に規定するソーシャルワーク実習を履修した者については、精神科病院等以外におけるソーシャルワーク実習の実施について、六十時間を超えない範囲で、この表に掲げる時間数の一部を免除することができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、この場合においても、当該実習は、精神科病院等及び一以上の施設又は事業で実施するものとする。</Sentence>
             </ItemSentence>
           </Item>
         </Remarks>

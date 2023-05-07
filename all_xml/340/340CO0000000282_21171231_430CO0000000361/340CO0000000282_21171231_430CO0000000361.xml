@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="282" Year="40">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="282" Year="40" PromulgateMonth="08" PromulgateDay="19" ScheduledEnforcementDate="2117/12/31">
   <LawNum>昭和四十年政令第二百八十二号</LawNum>
   <LawBody>
-    <LawTitle>砂糖及びでん粉の価格調整に関する法律施行令</LawTitle>
+    <LawTitle Kana="さとうおよびでんこのかかくちょうせいにかんするほうりつせこうれい" Abbrev="" AbbrevKana="">砂糖及びでん粉の価格調整に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、砂糖の価格安定等に関する法律（昭和四十年法律第百九号）の規定に基づき、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -1201,6 +1201,7 @@
             </Paragraph>
           </Article>
           <Article Num="41">
+            <ArticleCaption>（平均輸入価格のでん粉原料用輸入農産物の価格への換算）</ArticleCaption>
             <ArticleTitle>第四十一条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
@@ -1845,8 +1846,8 @@
         <Note>
           <ArithFormula>
             <Sentence>Ｐは、算定期間の各日におけるシカゴ商品取引所の公表に係るとうもろこしの最近月の先物価格の平均額</Sentence>
-            <Sentence>Ｃ１は、とうもろこしについての本邦の輸入港に到着するまでに要する運賃及び保険料の標準的な額に本邦の輸入港におけるとうもろこしの船卸しに要する標準的な費用の額その他の輸入に要する標準的な費用の額を加えて得た額</Sentence>
-            <Sentence>Ｃ２は、でん粉の製造及び販売に要する標準的な費用の額</Sentence>
+            <Sentence>Ｃ<Sub>１</Sub>は、とうもろこしについての本邦の輸入港に到着するまでに要する運賃及び保険料の標準的な額に本邦の輸入港におけるとうもろこしの船卸しに要する標準的な費用の額その他の輸入に要する標準的な費用の額を加えて得た額</Sentence>
+            <Sentence>Ｃ<Sub>２</Sub>は、でん粉の製造及び販売に要する標準的な費用の額</Sentence>
             <Sentence>ｒは、でん粉の通常の製造歩留り</Sentence>
           </ArithFormula>
         </Note>

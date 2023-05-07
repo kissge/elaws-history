@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="005" Year="32">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="005" Year="32" PromulgateMonth="02" PromulgateDay="23">
   <LawNum>昭和三十二年総理府令第五号</LawNum>
   <LawBody>
-    <LawTitle>消防団員等公務災害補償等責任共済等に関する法律施行規則</LawTitle>
+    <LawTitle Kana="しょうぼうだんいんとうこうむさいがいほしょうとうせきにんきょうさいとうにかんするほうりつせこうきそく" Abbrev="" AbbrevKana="">消防団員等公務災害補償等責任共済等に関する法律施行規則</LawTitle>
     <EnactStatement>消防団員等公務災害補償責任共済基金法を実施するため、並びに消防団員等公務災害補償責任共済基金法施行令第一条及び第六条の規定に基き、同令第一条の規定に基く支払請求書の様式等を定める総理府令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -721,13 +721,13 @@
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="10">
-          <ParagraphNum>10</ParagraphNum>
+          <ParagraphNum>１０</ParagraphNum>
           <ParagraphSentence>
             <Sentence>令第二十二条第十三項の規定による通知は、組合区域変更の日又は従前水害予防組合関係市町村が新たに消防団員等公務災害補償責任共済契約を締結した日から起算して一月以内に、基金又は指定法人が定める様式により行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="11">
-          <ParagraphNum>11</ParagraphNum>
+          <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
             <Sentence>令第二十二条第十四項に規定する総務省令で定めるところにより算定した金額は、次に掲げる額の合計額とする。</Sentence>
           </ParagraphSentence>
@@ -745,7 +745,7 @@
           </Item>
         </Paragraph>
         <Paragraph Num="12">
-          <ParagraphNum>12</ParagraphNum>
+          <ParagraphNum>１２</ParagraphNum>
           <ParagraphSentence>
             <Sentence>令第二十二条第十六項の規定に該当する場合において、水害予防組合契約締結団体は、同条第十三項に規定する通知を受けた日から起算して一月以内に、契約締結水害予防組合の組合区域変更の日の属する年度の掛金のうち第二十一条第二項の規定の例により算定した額を十二で除して得た額に組合区域変更の日の前日の属する月の翌月から組合区域変更の日の属する年度の末日の属する月までの月数を乗じて得た額を、従前水害予防組合関係市町村契約締結団体に支払わなければならない。</Sentence>
           </ParagraphSentence>
@@ -771,7 +771,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="332067" AmendLawNum="昭和三二年九月二八日総理府令第六七号" Id="fdd225ce-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三二年九月二八日総理府令第六七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -786,7 +786,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="335006" AmendLawNum="昭和三五年二月一八日総理府令第六号" Id="fe03bc42-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三五年二月一八日総理府令第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -795,7 +795,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339012" AmendLawNum="昭和三九年五月一五日自治省令第一二号" Id="fe359dac-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年五月一五日自治省令第一二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -804,7 +804,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="341017" AmendLawNum="昭和四一年七月三〇日自治省令第一七号" Id="fe6712f6-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四一年七月三〇日自治省令第一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -813,7 +813,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="342034" AmendLawNum="昭和四二年一二月一五日自治省令第三四号" Id="fe9890d8-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年一二月一五日自治省令第三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -822,7 +822,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="343006" AmendLawNum="昭和四三年三月一五日自治省令第六号" Id="feca34b2-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四三年三月一五日自治省令第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -831,7 +831,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="347027" AmendLawNum="昭和四七年一二月一八日自治省令第二七号" Id="fefc0262-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四七年一二月一八日自治省令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -840,7 +840,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="349021" AmendLawNum="昭和四九年六月二一日自治省令第二一号" Id="ff2d77ac-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四九年六月二一日自治省令第二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -849,7 +849,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="363017" AmendLawNum="昭和六三年四月一五日自治省令第一七号" Id="ff61252a-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六三年四月一五日自治省令第一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -858,7 +858,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409006" AmendLawNum="平成九年二月二〇日自治省令第六号" Id="ff92adca-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年二月二〇日自治省令第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -867,7 +867,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412044" AmendLawNum="平成一二年九月一四日自治省令第四四号" Id="8c15e2fc-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年九月一四日自治省令第四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -876,7 +876,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="413147" AmendLawNum="平成一三年一一月二七日総務省令第一四七号" Id="fff59e44-1942-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一三年一一月二七日総務省令第一四七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -885,7 +885,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="417020" AmendLawNum="平成一七年三月七日総務省令第二〇号" Id="28c0a39a-d3bf-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月七日総務省令第二〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

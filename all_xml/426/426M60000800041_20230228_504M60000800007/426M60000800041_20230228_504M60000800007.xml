@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000800020" AmendmentNum="令和元年国土交通省令第二十号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="41" Year="26" PromulgateMonth="03" PromulgateDay="31">
+<Law AmendmentId="501M60000800020" AmendmentNum="令和元年国土交通省令第二十号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="041" Year="26" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成二十六年国土交通省令第四十一号</LawNum>
   <LawBody>
     <LawTitle Kana="おがさわらしょとうしんこうかいはつとくべつそちほうせこうきそく" Abbrev="小笠原法施行規則" AbbrevKana="お">小笠原諸島振興開発特別措置法施行規則</LawTitle>
@@ -156,7 +156,7 @@
           <TableStruct>
             <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">規定</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -164,7 +164,7 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">法第十八条第一項</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -175,9 +175,6 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">旅行業法第六条の四第三項の規定による届出に係る部分</Sentence>
                 </TableColumn>
@@ -345,41 +342,41 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxNote Num="1">
-      <AppdxNoteTitle WritingMode="vertical">別記第一号様式</AppdxNoteTitle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記第一号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
-      <NoteStruct>
-        <Note>
+      <StyleStruct>
+        <Style>
           <Fig src="./pict/426M60000800041_202111091423_001.pdf"/>
-        </Note>
-      </NoteStruct>
-    </AppdxNote>
-    <AppdxNote Num="2">
-      <AppdxNoteTitle WritingMode="vertical">別記第二号様式</AppdxNoteTitle>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記第二号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
-      <NoteStruct>
-        <Note>
+      <StyleStruct>
+        <Style>
           <Fig src="./pict/426M60000800041_202111091423_002.pdf"/>
-        </Note>
-      </NoteStruct>
-    </AppdxNote>
-    <AppdxNote Num="3">
-      <AppdxNoteTitle WritingMode="vertical">別記第三号様式</AppdxNoteTitle>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記第三号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
-      <NoteStruct>
-        <Note>
+      <StyleStruct>
+        <Style>
           <Fig src="./pict/2JH00000014823_1905221505_1908271408_003.pdf"/>
-        </Note>
-      </NoteStruct>
-    </AppdxNote>
-    <AppdxNote Num="4">
-      <AppdxNoteTitle WritingMode="vertical">別記第四号様式</AppdxNoteTitle>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記第四号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
-      <NoteStruct>
-        <Note>
-          <Fig src=""/>
-        </Note>
-      </NoteStruct>
-    </AppdxNote>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/426M60000800041_20230228_504M60000800007_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
   </LawBody>
 </Law>

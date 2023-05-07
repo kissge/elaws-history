@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="26">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="26" PromulgateMonth="09" PromulgateDay="29">
   <LawNum>昭和二十六年運輸省・建設省令第三号</LawNum>
   <LawBody>
-    <LawTitle>自動車道標識の様式を定める省令</LawTitle>
+    <LawTitle Kana="じどうしゃどうひょうしきのようしきをさだめるしょうれい" Abbrev="" AbbrevKana="">自動車道標識の様式を定める省令</LawTitle>
     <EnactStatement>自動車道標識令（昭和二十六年政令第二百五十二号）第五条の規定に基き、自動車道標識の様式を定める省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Paragraph Num="1">
@@ -21,7 +21,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340005" AmendLawNum="昭和四〇年一〇月四日運輸省・建設省令第五号" Id="4c268748-1979-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年一〇月四日運輸省・建設省令第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -659,9 +659,7 @@
           </TableRow>
           <TableRow>
             <TableColumn rowspan="2">
-              <Sentence>上り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配があること。</Sentence>
+              <Sentence>上り急<Ruby>勾<Rt>こう</Rt></Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt></Ruby>配があること。</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1227,20 +1225,13 @@
               <Subitem2 Num="1">
                 <Subitem2Title>（一）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence>「都府県の名称」、「市町村の名称」、「方面、方向及び距離」、「方面及び距離」、「方面及び方向」、「著名な地点」及び「まわり道があること。」を表示する案内標識、「├形道路交差点又は┤形道路交差点があること。」、「右方屈曲又は左方屈曲があること。」、「右方屈折又は左方屈折があること。」、「右背向屈曲又は左背向屈曲があること。」、「右背向屈折又は左背向屈折があること。」、「右つづら折り又は左つづら折りがあること。」、「合流交通があること。」、「車線数が減少すること。」、「幅員が減少すること。」及び「上り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配があること。」を表示する警戒標識、「指定方向以外の方向への進行を禁止すること。」、「制限速度」、「制限重量」、「制限高」及び「一方通行をする必要があること。」を表示する規制標識並びに「規制予告」を表示する指示標識の標示板に示される文字（数字を含む。以下同じ。）及び記号は、例示とする。</Sentence>
+                  <Sentence>「都府県の名称」、「市町村の名称」、「方面、方向及び距離」、「方面及び距離」、「方面及び方向」、「著名な地点」及び「まわり道があること。」を表示する案内標識、「├形道路交差点又は┤形道路交差点があること。」、「右方屈曲又は左方屈曲があること。」、「右方屈折又は左方屈折があること。」、「右背向屈曲又は左背向屈曲があること。」、「右背向屈折又は左背向屈折があること。」、「右つづら折り又は左つづら折りがあること。」、「合流交通があること。」、「車線数が減少すること。」、「幅員が減少すること。」及び「上り急<Ruby>勾<Rt>こう</Rt></Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt></Ruby>配があること。」を表示する警戒標識、「指定方向以外の方向への進行を禁止すること。」、「制限速度」、「制限重量」、「制限高」及び「一方通行をする必要があること。」を表示する規制標識並びに「規制予告」を表示する指示標識の標示板に示される文字（数字を含む。以下同じ。）及び記号は、例示とする。</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Num="2">
                 <Subitem2Title>（二）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence>「上り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配があること。」を表示する警戒標識の標示板に示される数字は、当該上り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配の<Ruby>勾<Rt>こう</Rt>
-</Ruby>配の値とする。</Sentence>
+                  <Sentence>「上り急<Ruby>勾<Rt>こう</Rt></Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt></Ruby>配があること。」を表示する警戒標識の標示板に示される数字は、当該上り急<Ruby>勾<Rt>こう</Rt></Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt></Ruby>配の<Ruby>勾<Rt>こう</Rt></Ruby>配の値とする。</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Num="3">
@@ -1309,9 +1300,7 @@
                     <Sentence>警戒標識</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>文字、記号及び縁線を黒色とし、縁及び地を黄色とする。ただし、「上り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt>
-</Ruby>配があること。」を表示するものについては、矢印を白色とする。</Sentence>
+                    <Sentence>文字、記号及び縁線を黒色とし、縁及び地を黄色とする。ただし、「上り急<Ruby>勾<Rt>こう</Rt></Ruby>配又は下り急<Ruby>勾<Rt>こう</Rt></Ruby>配があること。」を表示するものについては、矢印を白色とする。</Sentence>
                   </Column>
                 </Subitem2Sentence>
               </Subitem2>

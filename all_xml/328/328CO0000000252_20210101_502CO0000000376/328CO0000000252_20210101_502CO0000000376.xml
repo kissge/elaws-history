@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="252" Year="28">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="252" Year="28" PromulgateMonth="08" PromulgateDay="31">
   <LawNum>昭和二十八年政令第二百五十二号</LawNum>
   <LawBody>
-    <LawTitle>家畜商法施行令</LawTitle>
+    <LawTitle Kana="かちくしょうほうせこうれい" Abbrev="" AbbrevKana="">家畜商法施行令</LawTitle>
     <EnactStatement>内閣は、家畜商法（昭和二十四年法律第二百八号）第九条の規定に基き、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（免許の申請）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">家畜商法（以下「法」という。）第三条第一項の免許の申請は、家畜商免許申請書に、次に掲げる書類を添え、これをその住所地を管轄する都道府県知事に提出してしなければならない。</Sentence>
@@ -48,14 +48,14 @@
       <Article Delete="false" Hide="false" Num="1_2">
         <ArticleCaption>（講習会の開催の公示等）</ArticleCaption>
         <ArticleTitle>第一条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">都道府県は、法第三条第二項第一号の講習会（以下「講習会」という。）を開催しようとするときは、講習会の開始予定日の二十日前までに、開催の日時及び場所その他講習会の実施方法に関する要綱を公示しなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">都道府県が次条の規定による通知を受けたときも、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項後段の場合においては、同項前段の公示事項のほか、講習会を開催する指定講習機関（法第三条第二項第一号の都道府県知事が指定する者をいう。以下同じ。）の名称をも公示しなければならない。</Sentence>
@@ -64,7 +64,7 @@
       </Article>
       <Article Delete="false" Hide="false" Num="1_3">
         <ArticleTitle>第一条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">指定講習機関は、講習会を開催しようとするときは、講習会の開始予定日の三十日前までに、講習会の開催場所の所在する都道府県に対し、講習会の開催の日時及び場所その他講習会の実施方法に関する要綱を通知しなければならない。</Sentence>
@@ -74,7 +74,7 @@
       <Article Delete="false" Hide="false" Num="1_4">
         <ArticleCaption>（講習会における講習方法）</ArticleCaption>
         <ArticleTitle>第一条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">講習会における講習は、次の各号に掲げる事項について行うものとし、その講習時間は、当該各号に掲げる時間を下らないものとする。</Sentence>
@@ -114,7 +114,7 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">講習会における講習は、前項の規定によるほか、農林水産大臣の定める講習要目に準拠して行なうものとする。</Sentence>
@@ -124,7 +124,7 @@
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（家畜商名簿の登録）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第五条の家畜商名簿には、次の事項を登録しなければならない。</Sentence>
@@ -158,20 +158,20 @@
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（登録の変更）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">家畜商は、前条第二号に掲げる事項に変更を生じたときは、農林水産省令で定めるところにより、速かに登録変更申請書をその登録をした都道府県知事に提出しなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、その変更が住所の変更（都道府県の区域を異にする住所の変更に限る。）に係るものであるときは、変更後の住所地を管轄する都道府県知事（その都道府県知事がその登録をした都道府県知事である場合を除く。）に対し、法第六条第二項の家畜商免許証（以下「家畜商免許証」という。）を添えてその旨を届け出るとともに、当該変更の直前の住所地を管轄する都道府県知事（その都道府県知事がその登録をした都道府県知事である場合を除く。）に対し、その旨を届け出なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項前段の規定によるほか、その登録を受けた都道府県知事の管轄する区域以外の都道府県の区域内に住所を有する家畜商は、前条第二号に掲げる事項に変更を生じたとき（都道府県の区域を異にする住所の変更に係る場合を除く。）は、その住所地を管轄する都道府県知事に対し、その旨を届け出なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
+        <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事は、第一項前段の申請書の提出があつたときは、これに基き家畜商名簿を訂正しなければならない。</Sentence>
@@ -181,7 +181,7 @@
       <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（登録の消除）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">都道府県知事は、法第七条第一項若しくは第二項の規定により免許を取り消したとき、又は家畜商が死亡し、若しくは解散したときは、その者に係る家畜商名簿の登録を消除しなければならない。</Sentence>
@@ -191,7 +191,7 @@
       <Article Delete="false" Hide="false" Num="4_2">
         <ArticleCaption>（家畜商免許証の記載事項）</ArticleCaption>
         <ArticleTitle>第四条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">家畜商免許証には、次の事項を記載するものとする。</Sentence>
@@ -225,7 +225,7 @@
       <Article Delete="false" Hide="false" Num="4_3">
         <ArticleCaption>（従業者の変更等の場合の家畜商免許証の交付）</ArticleCaption>
         <ArticleTitle>第四条の三</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">家畜商は、新たに家畜の取引の業務に従事する使用人その他の従業者を置き若しくは増置し、又はこれを変更するときは、その新たに置き若しくは増置する従業者又は変更後の従業者について、家畜商免許証の交付を申請することができる。</Sentence>
@@ -235,7 +235,7 @@
       <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（免許証の書換交付）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">家畜商は、家畜商免許証に記載された第四条の二第二号又は第三号に掲げる事項に変更を生じたときは、その交付に係る家畜商免許証（当該家畜商の家畜の取引の業務に従事する使用人その他の従業者に係る変更の場合にあつては、その変更前の従業者について交付されているものを除く。）について、第三条第一項前段の規定により登録変更申請書を提出する際、当該都道府県知事に対し、その書換交付を申請しなければならない。</Sentence>
@@ -246,7 +246,7 @@
       <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（免許証の再交付）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">家畜商は、家畜商免許証を破損し、又は亡失したときは、当該免許を受けた都道府県知事に申請して、家畜商免許証の再交付を受けることができる。</Sentence>
@@ -256,13 +256,13 @@
       <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（免許証の返納）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第四条の規定により登録を消除された者又はその者の相続人若しくは清算人は、家畜商免許証を都道府県知事に返納しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">家畜商は、不要となつた家畜商免許証を都道府県知事に返納しなければならない。</Sentence>
@@ -272,7 +272,7 @@
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（書類の様式）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">家畜商免許申請書、修了証明書、登録変更申請書、家畜商免許証その他この政令の規定に基づいて申請する場合の申請書（必要な添附書類を含む。）の様式は、農林水産省令で定める。</Sentence>
@@ -282,7 +282,7 @@
     </MainProvision>
     <SupplProvision Extract="false" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、昭和二十八年九月一日から施行する。</Sentence>
@@ -291,7 +291,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三七年一月二三日政令第一〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、昭和三十七年一月二十五日から施行する。</Sentence>
@@ -300,7 +300,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四五年六月一日政令第一六二号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -312,7 +312,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -322,7 +322,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五八年一二月二六日政令第二七六号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
@@ -331,7 +331,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六二年六月二三日政令第二三〇号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、昭和六十二年六月二十五日から施行する。</Sentence>
@@ -343,7 +343,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、行政手続等における情報通信の技術の利用に関する法律の施行の日（平成十五年二月三日）から施行する。</Sentence>
@@ -356,7 +356,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</Sentence>
@@ -369,7 +369,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、会社法の施行の日（平成十八年五月一日）から施行する。</Sentence>

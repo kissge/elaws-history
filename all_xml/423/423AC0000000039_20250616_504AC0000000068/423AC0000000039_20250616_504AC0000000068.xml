@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="39" Year="23" PromulgateMonth="05" PromulgateDay="02" ScheduledEnforcementDate="2025/06/16"><LawNum>平成二十三年法律第三十九号</LawNum><LawBody><LawTitle Kana="かぶしきがいしゃこくさいきょうりょくぎんこうほう" Abbrev="新ＪＢＩＣ法" AbbrevKana="し">株式会社国際協力銀行法</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="039" Year="23" PromulgateMonth="05" PromulgateDay="02"><LawNum>平成二十三年法律第三十九号</LawNum><LawBody><LawTitle Kana="かぶしきがいしゃこくさいきょうりょくぎんこうほう" Abbrev="新ＪＢＩＣ法" AbbrevKana="し">株式会社国際協力銀行法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -133,6 +133,29 @@
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">新規企業者等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">設立の日又は事業を開始した日以後の期間が十年未満の法人等（その海外で行う事業の内容、出資者その他の事情を勘案して当該事業に対する民間の投資を補完する必要性が低い法人等として財務省令で定めるものを除く。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">イに掲げるもののほか、その海外で行う事業の内容、出資者その他の事情を勘案して当該事業に対する民間の投資を補完する必要性が特に高い法人等として財務省令で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">出資外国法人等</Sentence>
                 </Column>
                 <Column Num="2">
@@ -140,8 +163,8 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="8">
-              <ItemTitle>八</ItemTitle>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">外国金融機関等</Sentence>
@@ -151,8 +174,31 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="9">
-              <ItemTitle>九</ItemTitle>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定外国法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する事業を行う外国の法人（外国金融機関等を除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">我が国の産業の国際競争力の維持又は向上を図る上で重要な物資又は技術の開発（物資にあっては、製造を含む。）に関する事業であって、我が国の法人等若しくは出資外国法人等が調達する物資の供給網の強<Ruby>靱<Rt>じん</Rt></Ruby>化又は我が国の法人等若しくは出資外国法人等が利用する技術の提供の促進に必要なものとして財務省令で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">情報通信技術を活用するための基盤の整備に関する事業その他の我が国の法人等又は出資外国法人等の海外における事業活動に必要な基盤の整備に関する事業として財務省令で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">公社債等</Sentence>
@@ -162,8 +208,8 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="10">
-              <ItemTitle>十</ItemTitle>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">設備の輸出等</Sentence>
@@ -191,19 +237,31 @@
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
-            <Item Num="11">
-              <ItemTitle>十一</ItemTitle>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">重要物資の輸入等</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">我が国の外国との貿易関係又は国民経済の健全な発展のために不可欠な物資（設備を含む。）又は技術を輸入し、又は受け入れることをいう。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに該当するものをいう。</Sentence>
                 </Column>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">我が国の外国との貿易関係又は国民経済の健全な発展のために不可欠な物資（設備を含む。）又は技術（ロにおいて「重要物資等」という。）を輸入し、又は受け入れること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">海外で生産され、又は開発された重要物資等を我が国の法人等又は出資外国法人等が外国における事業に使用するために当該外国に引き取り、又は受け入れること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
-            <Item Num="12">
-              <ItemTitle>十二</ItemTitle>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">債務の保証等</Sentence>
@@ -213,8 +271,8 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="13">
-              <ItemTitle>十三</ItemTitle>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">特定信託</Sentence>
@@ -224,8 +282,8 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="14">
-              <ItemTitle>十四</ItemTitle>
+            <Item Num="16">
+              <ItemTitle>十六</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">協調融資</Sentence>
@@ -379,7 +437,13 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">外国政府等、外国金融機関等若しくは国際通貨基金その他の国際機関に対して、その海外で行う事業若しくは当該外国の物資の輸入若しくは技術の受入れに必要な長期資金（資金需要の期間が一年を超えるものをいう。）若しくは当該外国の国際収支の均衡若しくは通貨の安定を図るために必要な資金の貸付けを行い、当該資金に係る貸付債権を譲り受け、若しくは当該資金に係る債務の保証等を行い、又は当該資金の調達のために発行される公社債等を応募その他の方法により取得すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">外国政府等、外国金融機関等若しくは国際通貨基金その他の国際機関に対して、その海外で行う事業若しくは当該外国の物資の輸入若しくは技術の受入れに必要な長期資金（資金需要の期間が一年を超えるものをいう。以下同じ。）若しくは当該外国の国際収支の均衡若しくは通貨の安定を図るために必要な資金の貸付けを行い、当該資金に係る貸付債権を譲り受け、若しくは当該資金に係る債務の保証等を行い、若しくは当該資金の調達のために発行される公社債等を応募その他の方法により取得し、又は特定外国法人に対して、その海外で行う事業（第二条第十号イ及びロに掲げる事業に限る。）に必要な長期資金の貸付けを行い、当該資金に係る貸付債権を譲り受け、若しくは当該資金に係る債務の保証等を行い、若しくは当該資金の調達のために発行される公社債等を応募その他の方法により取得すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4_2">
+              <ItemTitle>四の二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">戦争の結果生じた被害の復旧に関する事業その他の海外における復興又は開発に必要な事業を行う外国政府等その他の外国の法人等に対して、国際通貨基金その他の国際機関が当該事業に必要な長期資金の貸付けを行う場合において、当該資金に係る債務の保証等（国際金融秩序の混乱の防止又はその被害への対処のために行うものに限る。）を行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -391,8 +455,20 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">海外で事業を行う者（専ら海外投資を目的とする我が国の法人等で当該事業を行う者に対し出資するものを含む。）に対して当該事業に必要な資金を出資すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">海外で事業を行う次に掲げる者に対して当該事業に必要な資金（ロに掲げる者に対しては、海外で新たに行う事業に必要な資金に限る。）を出資し、又は専ら海外投資を目的とする我が国の法人等で海外で事業を行う者に対し出資するものに対して当該事業に必要な資金を出資すること。</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">外国の法人等</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">我が国の新規企業者等又は中小企業者等（中小企業者又は中堅企業として財務大臣が定めるものをいう。以下同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
@@ -485,7 +561,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる業務（我が国にとって重要な資源の海外における開発及び取得の促進のために行うものを除く。）のうち、我が国の法人等に対する貸付けであって、中小企業者等（中小企業者又は中堅企業として財務大臣が定めるものをいう。以下同じ。）以外のものに対するものは、次に掲げる場合に限り、行うことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる業務（我が国にとって重要な資源の海外における開発及び取得の促進のために行うものを除く。）のうち、我が国の法人等に対する貸付けであって、中小企業者等以外のものに対するものは、次に掲げる場合に限り、行うことができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -525,6 +601,30 @@
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">我が国の法人等がその直接又は間接に出資する出資外国法人等に対して当該出資外国法人等が行う次に掲げる事業に必要な資金の供与を行う場合において、当該法人等に対して当該供与に必要な資金の貸付けを行うとき。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">我が国の法人等又は出資外国法人等による製品の生産に不可欠な原材料その他の物資の開発（製造を含む。）、輸送又は調達に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">我が国の法人等又は出資外国法人等による製品の生産に不可欠な技術の開発に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">我が国の法人等又は出資外国法人等が生産する製品の加工若しくは組立て又は輸送若しくは販売に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">国際金融秩序の混乱により我が国の法人等の海外における事業の遂行が著しく困難となった場合において、これに対処するために会社の業務の特例が必要となった旨を財務大臣が定めたとき。</Sentence>
               </ItemSentence>
@@ -587,7 +687,7 @@
           <Paragraph Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第一号から第四号までに掲げる業務のうち、債務の保証等（公社債等に係るものに限る。）及び公社債等の取得は、次に掲げる場合（同条第一号から第三号までに掲げる業務にあっては、第二号から第七号までに掲げる場合）に限り、行うことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一号から第四号までに掲げる業務のうち、債務の保証等（公社債等に係るものに限る。）及び公社債等の取得は、次に掲げる場合（同条第一号から第三号までに掲げる業務にあっては、第二号から第八号までに掲げる場合）に限り、行うことができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -628,7 +728,13 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法人等が海外における社会資本の整備に関する事業に必要な資金の調達のために発行する社債若しくはこれに準ずる債券又は信託の受益権（いずれも償還期限が一年を超えるものに限る。）を取得する場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法人等が海外における社会資本の整備に関する事業に必要な資金の調達のために発行する社債若しくはこれに準ずる債券又は信託の受益権（いずれも償還期限が一年を超えるものに限る。次号において同じ。）を取得する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">新規企業者等又は我が国の中小企業者等が海外における事業に必要な資金の調達のために発行する社債若しくはこれに準ずる債券又は信託の受益権を取得する場合</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -675,8 +781,26 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該貸付け（第十一条第二号及び第五号の規定による資金の貸付けを除く。）、当該譲受け（同条第二号の規定による貸付債権の譲受けを除く。）、当該取得（同号の規定による公社債等の取得を除く。）、当該債務の保証等（同号の規定による債務の保証等を除く。）又は当該出資（いずれも海外における社会資本の整備に関する事業に係るものに限る。）に係る貸付金（貸付金と同様の経済的性質を有するものとして財務省令で定めるものを含む。次項及び第十六条第二項において同じ。）の利率（利率と同様の経済的性質を有するものとして財務省令で定めるものを含む。次項において同じ。）、貸付債権の利回りその他の条件が、当該貸付けに係る貸付金、当該譲受けに係る貸付債権その他の資産が回収不能となる危険性等を勘案した適正なものであると認められる場合（前号に掲げる場合を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該貸付け（第十一条第二号及び第五号の規定による資金の貸付けを除き、海外における次に掲げる事業に係るものに限る。）、当該譲受け（同条第二号の規定による貸付債権の譲受けを除き、海外における次に掲げる事業に係るものに限る。）、当該取得（同号の規定による公社債等の取得を除き、海外における次に掲げる事業に係るもの又は新規企業者等が発行する社債若しくはこれに準ずる債券若しくは信託の受益権の取得に限る。）、当該債務の保証等（同号及び同条第四号の二の規定による債務の保証等を除き、海外における次に掲げる事業に係るものに限る。）又は当該出資（海外における次に掲げる事業に係るもの又は新規企業者等に対するものに限る。）に係る貸付金（貸付金と同様の経済的性質を有するものとして財務省令で定めるものを含む。次項及び第十六条第二項において同じ。）の利率（利率と同様の経済的性質を有するものとして財務省令で定めるものを含む。次項において同じ。）、貸付債権の利回りその他の条件が、当該貸付けに係る貸付金、当該譲受けに係る貸付債権その他の資産が回収不能となる危険性等を勘案した適正なものであると認められる場合（前号に掲げる場合を除く。）</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">社会資本の整備に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">資源の開発に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">革新的な情報通信技術を活用した事業その他の革新的な技術又は事業の実施の方式（商品の生産若しくは販売の方式又は役務の提供の方式をいう。）を活用した事業であって、その活用により当該事業の高度化又は当該事業の利用者の利便の向上が図られるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
@@ -2342,6 +2466,24 @@
             </Column>
           </ItemSentence>
         </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年四月一四日法律第一一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十一条第四号の改正規定（「いう」の下に「。以下同じ」を加える部分に限る。）、同号の次に一号を加える改正規定及び第十三条第一項第二号の改正規定（「債務の保証等（同号」の下に「及び同条第四号の二」を加える部分に限る。）並びに次項の規定は、公布の日の翌日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律（前項ただし書に規定する改正規定にあっては、当該改正規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
   </LawBody>

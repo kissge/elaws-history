@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="66" Year="37" PromulgateMonth="04" PromulgateDay="02" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和三十七年法律第六十六号</LawNum><LawBody><LawTitle Kana="こくぜいつうそくほう" Abbrev="" AbbrevKana="">国税通則法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="066" Year="37" PromulgateMonth="04" PromulgateDay="02" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和三十七年法律第六十六号</LawNum><LawBody><LawTitle Kana="こくぜいつうそくほう" Abbrev="" AbbrevKana="">国税通則法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -437,8 +437,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項前段の場合において、相続人が二人以上あるときは、各相続人が同項前段の規定により承継する国税の額は、同項の国税の額を民法第九百条から第九百二条まで（法定相続分・代襲相続人の相続分・遺言による相続分の指定）の規定によるその相続分により<Ruby>按<Rt>あん</Rt>
-                  </Ruby>分して計算した額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項前段の場合において、相続人が二人以上あるときは、各相続人が同項前段の規定により承継する国税の額は、同項の国税の額を民法第九百条から第九百二条まで（法定相続分・代襲相続人の相続分・遺言による相続分の指定）の規定によるその相続分により<Ruby>按<Rt>あん</Rt></Ruby>分して計算した額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -770,10 +769,21 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">法人税及び地方法人税</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税及び地方法人税（次号に掲げるものを除く。）</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">事業年度の終了の時</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3_2">
+                <ItemTitle>三の二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">各対象会計年度の国際最低課税額に対する法人税及び特定基準法人税額に対する地方法人税</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">対象会計年度（法人税法第十五条の二（対象会計年度の意義）に規定する対象会計年度をいう。）の終了の時</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -1268,22 +1278,19 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その申告、更正又は決定に係る課税標準等又は税額等の計算の基礎となつた事実に関する訴えについての判決（判決と同一の効力を有する和解その他の行為を含む。）により、その事実が当該計算の基礎としたところと異なることが確定したとき</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">　その確定した日の翌日から起算して二月以内</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その申告、更正又は決定に係る課税標準等又は税額等の計算の基礎となつた事実に関する訴えについての判決（判決と同一の効力を有する和解その他の行為を含む。）により、その事実が当該計算の基礎としたところと異なることが確定したとき　その確定した日の翌日から起算して二月以内</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その申告、更正又は決定に係る課税標準等又は税額等の計算に当たつてその申告をし、又は決定を受けた者に帰属するものとされていた所得その他課税物件が他の者に帰属するものとする当該他の者に係る国税の更正又は決定があつたとき</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">　当該更正又は決定があつた日の翌日から起算して二月以内</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その申告、更正又は決定に係る課税標準等又は税額等の計算に当たつてその申告をし、又は決定を受けた者に帰属するものとされていた所得その他課税物件が他の者に帰属するものとする当該他の者に係る国税の更正又は決定があつたとき　当該更正又は決定があつた日の翌日から起算して二月以内</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その他当該国税の法定申告期限後に生じた前二号に類する政令で定めるやむを得ない理由があるとき</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">　当該理由が生じた日の翌日から起算して二月以内</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他当該国税の法定申告期限後に生じた前二号に類する政令で定めるやむを得ない理由があるとき　当該理由が生じた日の翌日から起算して二月以内</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1518,22 +1525,19 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">課税標準申告書の提出があつた場合において、当該申告書に記載された課税標準が税務署長の調査したところと同じであるとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　納付すべき税額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">課税標準申告書の提出があつた場合において、当該申告書に記載された課税標準が税務署長の調査したところと同じであるとき。　納付すべき税額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">課税標準申告書を提出すべきものとされている国税につき当該申告書の提出がないとき、又は当該申告書の提出があつた場合において、当該申告書に記載された課税標準が税務署長の調査したところと異なるとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　課税標準及び納付すべき税額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">課税標準申告書を提出すべきものとされている国税につき当該申告書の提出がないとき、又は当該申告書の提出があつた場合において、当該申告書に記載された課税標準が税務署長の調査したところと異なるとき。　課税標準及び納付すべき税額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">課税標準申告書の提出を要しないとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　課税標準（第六十九条（加算税の税目）に規定する加算税及び過怠税については、その計算の基礎となる税額。以下この条において同じ。）及び納付すべき税額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">課税標準申告書の提出を要しないとき。　課税標準（第六十九条（加算税の税目）に規定する加算税及び過怠税については、その計算の基礎となる税額。以下この条において同じ。）及び納付すべき税額</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1597,15 +1601,13 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十条第二項（更正又は決定の所轄庁）の更正又は決定があつたとき</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該更正又は決定をした税務署長</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十条第二項（更正又は決定の所轄庁）の更正又は決定があつたとき　当該更正又は決定をした税務署長</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">更正若しくは第二十五条（決定）の規定による決定で前号に規定するもの以外のもの若しくは期限後申告書若しくは修正申告書の提出（第二十一条第二項（納税申告書の提出先等）の規定に該当する場合にあつては、同条第三項の規定による当該申告書の送付）があつた後に当該国税の納税地に異動があつた場合又は源泉徴収等による国税につき納付すべき税額が確定した時以後に当該国税の納税地に異動があつた場合において、これらの異動に係る納税地で現在の納税地以外のもの（以下この号において「旧納税地」という。）を所轄する税務署長においてその異動の事実が知れず、又はその異動後の納税地が判明せず、かつ、その知れないこと又は判明しないことにつきやむを得ない事情があるとき</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　旧納税地を所轄する税務署長</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">更正若しくは第二十五条（決定）の規定による決定で前号に規定するもの以外のもの若しくは期限後申告書若しくは修正申告書の提出（第二十一条第二項（納税申告書の提出先等）の規定に該当する場合にあつては、同条第三項の規定による当該申告書の送付）があつた後に当該国税の納税地に異動があつた場合又は源泉徴収等による国税につき納付すべき税額が確定した時以後に当該国税の納税地に異動があつた場合において、これらの異動に係る納税地で現在の納税地以外のもの（以下この号において「旧納税地」という。）を所轄する税務署長においてその異動の事実が知れず、又はその異動後の納税地が判明せず、かつ、その知れないこと又は判明しないことにつきやむを得ない事情があるとき　旧納税地を所轄する税務署長</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1636,24 +1638,30 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">国税を納付しようとする者は、その税額に相当する金銭に納付書（納税告知書の送達を受けた場合には、納税告知書）を添えて、これを日本銀行（国税の収納を行う代理店を含む。）又はその国税の収納を行う税務署の職員に納付しなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、証券をもつてする歳入納付に関する法律（大正五年法律第十号）の定めるところにより証券で納付すること又は財務省令で定めるところによりあらかじめ税務署長に届け出た場合に財務省令で定める方法により納付すること（自動車重量税（自動車重量税法（昭和四十六年法律第八十九号）第十四条（税務署長による徴収）の規定により税務署長が徴収するものとされているものを除く。）又は登録免許税（登録免許税法（昭和四十二年法律第三十五号）第二十九条（税務署長による徴収）の規定により税務署長が徴収するものとされているものを除く。）の納付にあつては、自動車重量税法第十条の二（電子情報処理組織を使用する方法等による納付の特例）又は登録免許税法第二十四条の二（電子情報処理組織を使用する方法等による納付の特例）に規定する財務省令で定める方法により納付すること）を妨げない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、証券をもつてする歳入納付に関する法律（大正五年法律第十号）の定めるところにより証券で納付すること又は財務省令で定めるところによりあらかじめ税務署長に届け出た場合に財務省令で定める方法（次項において「特定納付方法」という。）により納付すること（自動車重量税（自動車重量税法（昭和四十六年法律第八十九号）第十四条（税務署長による徴収）の規定により税務署長が徴収するものとされているものを除く。）又は登録免許税（登録免許税法（昭和四十二年法律第三十五号）第二十九条（税務署長による徴収）の規定により税務署長が徴収するものとされているものを除く。）の納付にあつては、自動車重量税法第十条の二（電子情報処理組織を使用する方法等による納付の特例）又は登録免許税法第二十四条の二（電子情報処理組織を使用する方法等による納付の特例）に規定する財務省令で定める方法により納付すること）を妨げない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">印紙で納付すべきものとされている国税は、前項の規定にかかわらず、国税に関する法律の定めるところにより、その税額に相当する印紙を貼ることにより納付するものとする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">印紙で納付することができるものとされている国税を印紙で納付する場合も、また同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定納付方法（電子情報処理組織を使用する方法として財務省令で定める方法に限る。）による国税（法定申告期限と同時に法定納期限が到来するもの（輸入品に係る申告消費税等を除く。）に限るものとし、源泉徴収等による国税を含む。）の納付の手続のうち財務省令で定めるものが法定納期限に行われた場合（その税額が財務省令で定める金額以下である場合に限る。）において、政令で定める日までにその納付がされたときは、その納付は法定納期限においてされたものとみなして、延納及び附帯税に関する規定を適用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">物納の許可があつた国税は、第一項の規定にかかわらず、国税に関する法律の定めるところにより、物納をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">印紙で納付すべきものとされている国税は、第一項の規定にかかわらず、国税に関する法律の定めるところにより、その税額に相当する印紙を貼ることにより納付するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">印紙で納付することができるものとされている国税を印紙で納付する場合も、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">物納の許可があつた国税は、第一項の規定にかかわらず、国税に関する法律の定めるところにより、物納をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">国税を納付しようとする者でこの法律の施行地外の地域に住所又は居所を有するもの（以下この項において「国外納付者」という。）は、第一項の規定にかかわらず、財務省令で定めるところにより、金融機関の営業所、事務所その他これらに類するもの（この法律の施行地外の地域にあるものに限る。以下この項において「国外営業所等」という。）を通じてその税額に相当する金銭をその国税の収納を行う税務署の職員の預金口座（国税の納付を受けるために開設されたものに限る。）に対して払込みをすることにより納付することができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、その国税の納付は、当該国外納付者が当該金融機関の国外営業所等を通じて送金した日においてされたものとみなして、延納、物納及び附帯税に関する規定を適用する。</Sentence>
@@ -2498,7 +2506,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該申請者が、次項の規定による質問に対して答弁せず、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該申請者が、次項の規定による質問に対して答弁せず、若しくは偽りの答弁をし、同項の規定による検査を拒み、妨げ、若しくは忌避し、又は同項の規定による物件の提示若しくは提出の要求に対し、正当な理由がなくこれに応じず、若しくは偽りの記載若しくは記録をした帳簿書類その他の物件（その写しを含む。）を提示し、若しくは提出したとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -2511,13 +2519,13 @@
             <Paragraph Num="11">
               <ParagraphNum>１１</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">税務署長等は、第六項の規定による調査をするため必要があると認めるときは、その必要な限度で、その職員に、当該申請者に質問させ、又はその者の帳簿書類その他の物件を検査させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">税務署長等は、第六項の規定による調査をするため必要があると認めるときは、その必要な限度で、その職員に、当該申請者に質問させ、その者の帳簿書類その他の物件を検査させ、当該物件（その写しを含む。）の提示若しくは提出を求めさせ、又は当該調査において提出された物件を留め置かせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="12">
               <ParagraphNum>１２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定により質問又は検査を行う職員は、その身分を示す証明書を携帯し、関係者の請求があつたときは、これを提示しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により質問、検査又は提示若しくは提出の要求を行う職員は、その身分を示す証明書を携帯し、関係者の請求があつたときは、これを提示しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="13">
@@ -2927,15 +2935,13 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">還付金等の請求権につき民事執行法（昭和五十四年法律第四号）の規定による差押命令又は差押処分が発せられたとき。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">　その差押命令又は差押処分の送達を受けた日の翌日から七日を経過した日までの期間</Sentence>
+                <Sentence Num="1" WritingMode="vertical">還付金等の請求権につき民事執行法（昭和五十四年法律第四号）の規定による差押命令又は差押処分が発せられたとき。　その差押命令又は差押処分の送達を受けた日の翌日から七日を経過した日までの期間</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">還付金等の請求権につき仮差押えがされたとき。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">　その仮差押えがされている期間</Sentence>
+                <Sentence Num="1" WritingMode="vertical">還付金等の請求権につき仮差押えがされたとき。　その仮差押えがされている期間</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3061,15 +3067,13 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その申告又は更正に係る国税について期限内申告書が提出されている場合において、その法定申告期限から一年を経過する日後に当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられたとき</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　その法定申告期限から一年を経過する日の翌日から当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられた日までの期間</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その申告又は更正に係る国税について期限内申告書が提出されている場合において、その法定申告期限から一年を経過する日後に当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられたとき　その法定申告期限から一年を経過する日の翌日から当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられた日までの期間</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その申告又は更正に係る国税について期限後申告書（還付金の還付を受けるための納税申告書で政令で定めるもの（以下「還付請求申告書」という。）を含む。以下この号及び次項において同じ。）が提出されている場合において、その期限後申告書の提出があつた日の翌日から起算して一年を経過する日後に当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられたとき</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　その期限後申告書の提出があつた日の翌日から起算して一年を経過する日の翌日から当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられた日までの期間</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その申告又は更正に係る国税について期限後申告書（還付金の還付を受けるための納税申告書で政令で定めるもの（以下「還付請求申告書」という。）を含む。以下この号及び次項において同じ。）が提出されている場合において、その期限後申告書の提出があつた日の翌日から起算して一年を経過する日後に当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられたとき　その期限後申告書の提出があつた日の翌日から起算して一年を経過する日の翌日から当該修正申告書が提出され、又は当該更正に係る更正通知書が発せられた日までの期間</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -3266,7 +3270,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">期限内申告書（還付請求申告書を含む。第三項において同じ。）が提出された場合（期限後申告書が提出された場合において、次条第一項ただし書又は第八項の規定の適用があるときを含む。）において、修正申告書の提出又は更正があつたときは、当該納税者に対し、その修正申告又は更正に基づき第三十五条第二項（申告納税方式による国税等の納付）の規定により納付すべき税額に百分の十の割合（修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正があるべきことを予知してされたものでないときは、百分の五の割合）を乗じて計算した金額に相当する過少申告加算税を課する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">期限内申告書（還付請求申告書を含む。第三項において同じ。）が提出された場合（期限後申告書が提出された場合において、次条第一項ただし書又は第九項の規定の適用があるときを含む。）において、修正申告書の提出又は更正があつたときは、当該納税者に対し、その修正申告又は更正に基づき第三十五条第二項（申告納税方式による国税等の納付）の規定により納付すべき税額に百分の十の割合（修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正があるべきことを予知してされたものでないときは、百分の五の割合）を乗じて計算した金額に相当する過少申告加算税を課する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3298,7 +3302,7 @@
                     <Sentence Num="1" WritingMode="vertical">期限内申告税額</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">期限内申告書（次条第一項ただし書又は第八項の規定の適用がある場合には、期限後申告書を含む。第五項第二号において同じ。）の提出に基づき第三十五条第一項又は第二項の規定により納付すべき税額（これらの申告書に係る国税について、次に掲げる金額があるときは当該金額を加算した金額とし、所得税、法人税、地方法人税、相続税又は消費税に係るこれらの申告書に記載された還付金の額に相当する税額があるときは当該税額を控除した金額とする。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">期限内申告書（次条第一項ただし書又は第九項の規定の適用がある場合には、期限後申告書を含む。第五項第二号において同じ。）の提出に基づき第三十五条第一項又は第二項の規定により納付すべき税額（これらの申告書に係る国税について、次に掲げる金額があるときは当該金額を加算した金額とし、所得税、法人税、地方法人税、相続税又は消費税に係るこれらの申告書に記載された還付金の額に相当する税額があるときは当該税額を控除した金額とする。）</Sentence>
                   </Column>
                 </ItemSentence>
                 <Subitem1 Num="1">
@@ -3336,12 +3340,12 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の規定に該当する場合において、当該納税者が、帳簿（財務省令で定めるものに限るものとし、その作成又は保存に代えて電磁的記録の作成又は保存がされている場合における当該電磁的記録を含む。以下この項及び次条第四項において同じ。）に記載し、又は記録すべき事項に関しその修正申告書の提出又は更正（以下この項において「修正申告等」という。）があつた時前に、国税庁、国税局又は税務署の当該職員（以下この項及び同条第四項において「当該職員」という。）から当該帳簿の提示又は提出を求められ、かつ、次に掲げる場合のいずれかに該当するとき（当該納税者の責めに帰すべき事由がない場合を除く。）は、第一項の過少申告加算税の額は、同項及び第二項の規定にかかわらず、これらの規定により計算した金額に、第一項に規定する納付すべき税額（その税額の計算の基礎となるべき事実で当該修正申告等の基因となる当該帳簿に記載し、又は記録すべき事項に係るもの以外のもの（以下この項において「帳簿に記載すべき事項等に係るもの以外の事実」という。）があるときは、当該帳簿に記載すべき事項等に係るもの以外の事実に基づく税額として政令で定めるところにより計算した金額を控除した税額）に百分の十の割合（第二号に掲げる場合に該当するときは、百分の五の割合）を乗じて計算した金額を加算した金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定に該当する場合において、当該納税者が、帳簿（財務省令で定めるものに限るものとし、その作成又は保存に代えて電磁的記録の作成又は保存がされている場合における当該電磁的記録を含む。以下この項及び次条第五項において同じ。）に記載し、又は記録すべき事項に関しその修正申告書の提出又は更正（以下この項において「修正申告等」という。）があつた時前に、国税庁、国税局又は税務署の当該職員（以下この項及び同条第五項において「当該職員」という。）から当該帳簿の提示又は提出を求められ、かつ、次に掲げる場合のいずれかに該当するとき（当該納税者の責めに帰すべき事由がない場合を除く。）は、第一項の過少申告加算税の額は、同項及び第二項の規定にかかわらず、これらの規定により計算した金額に、第一項に規定する納付すべき税額（その税額の計算の基礎となるべき事実で当該修正申告等の基因となる当該帳簿に記載し、又は記録すべき事項に係るもの以外のもの（以下この項において「帳簿に記載すべき事項等に係るもの以外の事実」という。）があるときは、当該帳簿に記載すべき事項等に係るもの以外の事実に基づく税額として政令で定めるところにより計算した金額を控除した税額）に百分の十の割合（第二号に掲げる場合に該当するときは、百分の五の割合）を乗じて計算した金額を加算した金額とする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該職員に当該帳簿の提示若しくは提出をしなかつた場合又は当該職員にその提示若しくは提出がされた当該帳簿に記載し、若しくは記録すべき事項のうち、納税申告書の作成の基礎となる重要なものとして財務省令で定める事項（次号及び次条第四項において「特定事項」という。）の記載若しくは記録が著しく不十分である場合として財務省令で定める場合</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該職員に当該帳簿の提示若しくは提出をしなかつた場合又は当該職員にその提示若しくは提出がされた当該帳簿に記載し、若しくは記録すべき事項のうち、納税申告書の作成の基礎となる重要なものとして財務省令で定める事項（次号及び次条第五項において「特定事項」という。）の記載若しくは記録が著しく不十分である場合として財務省令で定める場合</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -3382,7 +3386,7 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の規定は、修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正があるべきことを予知してされたものでない場合において、その申告に係る国税についての調査に係る第七十四条の九第一項第四号及び第五号（納税義務者に対する調査の事前通知等）に掲げる事項その他政令で定める事項の通知（次条第七項において「調査通知」という。）がある前に行われたものであるときは、適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定は、修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正があるべきことを予知してされたものでない場合において、その申告に係る国税についての調査に係る第七十四条の九第一項第四号及び第五号（納税義務者に対する調査の事前通知等）に掲げる事項その他政令で定める事項の通知（次条第六項第二号及び第八項において「調査通知」という。）がある前に行われたものであるときは、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3411,13 +3415,52 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定に該当する場合（同項ただし書又は第八項の規定の適用がある場合を除く。）において、前項に規定する納付すべき税額（同項第二号の修正申告書の提出又は更正があつたときは、その国税に係る累積納付税額を加算した金額）が五十万円を超えるときは、同項の無申告加算税の額は、同項の規定にかかわらず、同項の規定により計算した金額に、その超える部分に相当する税額（同項に規定する納付すべき税額が当該超える部分に相当する税額に満たないときは、当該納付すべき税額）に百分の五の割合を乗じて計算した金額を加算した金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定に該当する場合（同項ただし書又は第九項の規定の適用がある場合を除く。次項及び第六項において同じ。）において、前項に規定する納付すべき税額（同項第二号の修正申告書の提出又は更正があつたときは、その国税に係る累積納付税額を加算した金額。次項において「加算後累積納付税額」という。）が五十万円を超えるときは、前項の無申告加算税の額は、同項の規定にかかわらず、同項の規定により計算した金額に、その超える部分に相当する税額（同項に規定する納付すべき税額が当該超える部分に相当する税額に満たないときは、当該納付すべき税額）に百分の五の割合を乗じて計算した金額を加算した金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項において、累積納付税額とは、第一項第二号の修正申告書の提出又は更正前にされたその国税についての次に掲げる納付すべき税額の合計額（当該国税について、当該納付すべき税額を減少させる更正又は更正若しくは第二十五条の規定による決定に係る不服申立て若しくは訴えについての決定、裁決若しくは判決による原処分の異動があつたときはこれらにより減少した部分の税額に相当する金額を控除した金額とし、第六項において準用する前条第五項（第一号に係る部分に限る。以下この項及び第六項において同じ。）の規定の適用があつたときは同条第五項の規定により控除すべきであつた金額を控除した金額とする。）をいう。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定に該当する場合において、加算後累積納付税額（当該加算後累積納付税額の計算の基礎となつた事実のうちに同項各号に規定する申告、更正又は決定前の税額（還付金の額に相当する税額を含む。）の計算の基礎とされていなかつたことについて当該納税者の責めに帰すべき事由がないと認められるものがあるときは、その事実に基づく税額として政令で定めるところにより計算した金額を控除した税額）が三百万円を超えるときは、同項の無申告加算税の額は、前二項の規定にかかわらず、加算後累積納付税額を次の各号に掲げる税額に区分してそれぞれの税額に当該各号に定める割合（期限後申告書又は第一項第二号の修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでないときは、その割合から百分の五の割合を減じた割合。以下この項において同じ。）を乗じて計算した金額の合計額から累積納付税額を当該各号に掲げる税額に区分してそれぞれの税額に当該各号に定める割合を乗じて計算した金額の合計額を控除した金額とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">五十万円以下の部分に相当する税額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">百分の十五の割合</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">五十万円を超え三百万円以下の部分に相当する税額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">百分の二十の割合</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">三百万円を超える部分に相当する税額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">百分の三十の割合</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項において、累積納付税額とは、第一項第二号の修正申告書の提出又は更正前にされたその国税についての次に掲げる納付すべき税額の合計額（当該国税について、当該納付すべき税額を減少させる更正又は更正若しくは第二十五条の規定による決定に係る不服申立て若しくは訴えについての決定、裁決若しくは判決による原処分の異動があつたときはこれらにより減少した部分の税額に相当する金額を控除した金額とし、第七項において準用する前条第五項（第一号に係る部分に限る。以下この項及び第七項において同じ。）の規定の適用があつたときは同条第五項の規定により控除すべきであつた金額を控除した金額とする。）をいう。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -3432,10 +3475,10 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の規定に該当する場合において、当該納税者が、帳簿に記載し、又は記録すべき事項に関しその期限後申告書若しくは修正申告書の提出又は更正若しくは決定（以下この項において「期限後申告等」という。）があつた時前に、当該職員から当該帳簿の提示又は提出を求められ、かつ、次に掲げる場合のいずれかに該当するとき（当該納税者の責めに帰すべき事由がない場合を除く。）は、第一項の無申告加算税の額は、同項及び第二項の規定にかかわらず、これらの規定により計算した金額に、第一項に規定する納付すべき税額（その税額の計算の基礎となるべき事実で当該期限後申告等の基因となる当該帳簿に記載し、又は記録すべき事項に係るもの以外のもの（以下この項において「帳簿に記載すべき事項等に係るもの以外の事実」という。）があるときは、当該帳簿に記載すべき事項等に係るもの以外の事実に基づく税額として政令で定めるところにより計算した金額を控除した税額）に百分の十の割合（第二号に掲げる場合に該当するときは、百分の五の割合）を乗じて計算した金額を加算した金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定に該当する場合において、当該納税者が、帳簿に記載し、又は記録すべき事項に関しその期限後申告書若しくは修正申告書の提出又は更正若しくは決定（以下この項において「期限後申告等」という。）があつた時前に、当該職員から当該帳簿の提示又は提出を求められ、かつ、次に掲げる場合のいずれかに該当するとき（当該納税者の責めに帰すべき事由がない場合を除く。）は、第一項の無申告加算税の額は、同項から第三項までの規定にかかわらず、これらの規定により計算した金額に、第一項に規定する納付すべき税額（その税額の計算の基礎となるべき事実で当該期限後申告等の基因となる当該帳簿に記載し、又は記録すべき事項に係るもの以外のもの（以下この項において「帳簿に記載すべき事項等に係るもの以外の事実」という。）があるときは、当該帳簿に記載すべき事項等に係るもの以外の事実に基づく税額として政令で定めるところにより計算した金額を控除した税額）に百分の十の割合（第二号に掲げる場合に該当するときは、百分の五の割合）を乗じて計算した金額を加算した金額とする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -3450,26 +3493,38 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>５</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の規定に該当する場合（同項ただし書若しくは第八項の規定の適用がある場合又は期限後申告書若しくは第一項第二号の修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合を除く。）において、その期限後申告書若しくは修正申告書の提出又は更正若しくは決定があつた日の前日から起算して五年前の日までの間に、その申告又は更正若しくは決定に係る国税の属する税目について、無申告加算税（期限後申告書又は同号の修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合において課されたものを除く。）又は重加算税（第六十八条第四項（重加算税）において「無申告加算税等」という。）を課されたことがあるときは、第一項の無申告加算税の額は、同項及び第二項の規定にかかわらず、これらの規定により計算した金額に、第一項に規定する納付すべき税額に百分の十の割合を乗じて計算した金額を加算した金額とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第五項の規定は、第一項第二号の場合について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定に該当する場合において、次の各号のいずれかに該当するときは、同項の無申告加算税の額は、同項から第三項までの規定にかかわらず、これらの規定により計算した金額に、第一項に規定する納付すべき税額に百分の十の割合を乗じて計算した金額を加算した金額とする。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その期限後申告書若しくは第一項第二号の修正申告書の提出（その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものに限る。）又は更正若しくは決定があつた日の前日から起算して五年前の日までの間に、その申告又は更正若しくは決定に係る国税の属する税目について、無申告加算税（期限後申告書又は同号の修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合において課されたものを除く。）又は重加算税（第六十八条第四項第一号（重加算税）において「無申告加算税等」という。）を課されたことがある場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その期限後申告書若しくは第一項第二号の修正申告書の提出（その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合において、その申告に係る国税についての調査通知がある前に行われたものを除く。）又は更正若しくは決定に係る国税の課税期間の初日の属する年の前年及び前々年に課税期間が開始した当該国税（課税期間のない当該国税については、当該国税の納税義務が成立した日の属する年の前年及び前々年に納税義務が成立した当該国税）の属する税目について、無申告加算税（第八項の規定の適用があるものを除く。）若しくは第六十八条第二項の重加算税（以下この号及び同条第四項第二号において「特定無申告加算税等」という。）を課されたことがあり、又は特定無申告加算税等に係る賦課決定をすべきと認める場合</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">期限後申告書又は第一項第二号の修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合において、その申告に係る国税についての調査通知がある前に行われたものであるときは、その申告に基づき第三十五条第二項の規定により納付すべき税額に係る第一項の無申告加算税の額は、同項及び第二項の規定にかかわらず、当該納付すべき税額に百分の五の割合を乗じて計算した金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第五項の規定は、第一項第二号の場合について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">期限後申告書又は第一項第二号の修正申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合において、その申告に係る国税についての調査通知がある前に行われたものであるときは、その申告に基づき第三十五条第二項の規定により納付すべき税額に係る第一項の無申告加算税の額は、同項から第三項までの規定にかかわらず、当該納付すべき税額に百分の五の割合を乗じて計算した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第一項の規定は、期限後申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について第二十五条の規定による決定があるべきことを予知してされたものでない場合において、期限内申告書を提出する意思があつたと認められる場合として政令で定める場合に該当してされたものであり、かつ、法定申告期限から一月を経過する日までに行われたものであるときは、適用しない。</Sentence>
               </ParagraphSentence>
@@ -3510,7 +3565,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十六条第一項（無申告加算税）の規定に該当する場合（同項ただし書若しくは同条第八項の規定の適用がある場合又は納税申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合を除く。）において、納税者がその国税の課税標準等又は税額等の計算の基礎となるべき事実の全部又は一部を隠蔽し、又は仮装し、その隠蔽し、又は仮装したところに基づき法定申告期限までに納税申告書を提出せず、又は法定申告期限後に納税申告書を提出していたときは、当該納税者に対し、政令で定めるところにより、無申告加算税の額の計算の基礎となるべき税額（その税額の計算の基礎となるべき事実で隠蔽し、又は仮装されていないものに基づくことが明らかであるものがあるときは、当該隠蔽し、又は仮装されていない事実に基づく税額として政令で定めるところにより計算した金額を控除した税額）に係る無申告加算税に代え、当該基礎となるべき税額に百分の四十の割合を乗じて計算した金額に相当する重加算税を課する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十六条第一項（無申告加算税）の規定に該当する場合（同項ただし書若しくは同条第九項の規定の適用がある場合又は納税申告書の提出が、その申告に係る国税についての調査があつたことにより当該国税について更正又は決定があるべきことを予知してされたものでない場合を除く。）において、納税者がその国税の課税標準等又は税額等の計算の基礎となるべき事実の全部又は一部を隠蔽し、又は仮装し、その隠蔽し、又は仮装したところに基づき法定申告期限までに納税申告書を提出せず、又は法定申告期限後に納税申告書を提出していたときは、当該納税者に対し、政令で定めるところにより、無申告加算税の額の計算の基礎となるべき税額（その税額の計算の基礎となるべき事実で隠蔽し、又は仮装されていないものに基づくことが明らかであるものがあるときは、当該隠蔽し、又は仮装されていない事実に基づく税額として政令で定めるところにより計算した金額を控除した税額）に係る無申告加算税に代え、当該基礎となるべき税額に百分の四十の割合を乗じて計算した金額に相当する重加算税を課する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3522,8 +3577,20 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前三項の規定に該当する場合において、これらの規定に規定する税額の計算の基礎となるべき事実で隠蔽し、又は仮装されたものに基づき期限後申告書若しくは修正申告書の提出、更正若しくは第二十五条（決定）の規定による決定又は納税の告知（第三十六条第一項（第二号に係る部分に限る。）（納税の告知）の規定による納税の告知をいう。以下この項において同じ。）若しくは納税の告知を受けることなくされた納付があつた日の前日から起算して五年前の日までの間に、その申告、更正若しくは決定又は告知若しくは納付に係る国税の属する税目について、無申告加算税等を課され、又は徴収されたことがあるときは、前三項の重加算税の額は、これらの規定にかかわらず、これらの規定により計算した金額に、これらの規定に規定する基礎となるべき税額に百分の十の割合を乗じて計算した金額を加算した金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前三項の規定に該当する場合において、次の各号のいずれか（第一項又は前項の規定に該当する場合にあつては、第一号）に該当するときは、前三項の重加算税の額は、これらの規定にかかわらず、これらの規定により計算した金額に、これらの規定に規定する基礎となるべき税額に百分の十の割合を乗じて計算した金額を加算した金額とする。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三項に規定する税額の計算の基礎となるべき事実で隠蔽し、又は仮装されたものに基づき期限後申告書若しくは修正申告書の提出、更正若しくは決定又は納税の告知（第三十六条第一項（第二号に係る部分に限る。）（納税の告知）の規定による納税の告知をいう。以下この号において同じ。）若しくは納税の告知を受けることなくされた納付があつた日の前日から起算して五年前の日までの間に、その申告、更正若しくは決定又は告知若しくは納付に係る国税の属する税目について、無申告加算税等を課され、又は徴収されたことがある場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その期限後申告書若しくは修正申告書の提出又は更正若しくは決定に係る国税の課税期間の初日の属する年の前年及び前々年に課税期間が開始した当該国税（課税期間のない当該国税については、当該国税の納税義務が成立した日の属する年の前年及び前々年に納税義務が成立した当該国税）の属する税目について、特定無申告加算税等を課されたことがあり、又は特定無申告加算税等に係る賦課決定をすべきと認める場合</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="69">
@@ -3599,7 +3666,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の規定により賦課決定をすることができないこととなる日前三月以内にされた納税申告書の提出（源泉徴収等による国税の納付を含む。以下この項において同じ。）に伴つて行われることとなる無申告加算税（第六十六条第七項（無申告加算税）の規定の適用があるものに限る。）又は不納付加算税（第六十七条第二項（不納付加算税）の規定の適用があるものに限る。）についてする賦課決定は、第一項の規定にかかわらず、当該納税申告書の提出があつた日から三月を経過する日まで、することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により賦課決定をすることができないこととなる日前三月以内にされた納税申告書の提出（源泉徴収等による国税の納付を含む。以下この項において同じ。）に伴つて行われることとなる無申告加算税（第六十六条第八項（無申告加算税）の規定の適用があるものに限る。）又は不納付加算税（第六十七条第二項（不納付加算税）の規定の適用があるものに限る。）についてする賦課決定は、第一項の規定にかかわらず、当該納税申告書の提出があつた日から三月を経過する日まで、することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -5810,8 +5877,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">担当審判官は、審査請求に係る事件について、審理すべき事項が多数であり又は錯<Ruby>綜<Rt>そう</Rt>
-                    </Ruby>しているなど事件が複雑であることその他の事情により、迅速かつ公正な審理を行うため、第九十五条の二から前条第一項まで（口頭意見陳述等）に定める審理手続を計画的に遂行する必要があると認める場合には、期日及び場所を指定して、審理関係人を招集し、あらかじめ、これらの審理手続の申立てに関する意見の聴取を行うことができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">担当審判官は、審査請求に係る事件について、審理すべき事項が多数であり又は錯<Ruby>綜<Rt>そう</Rt></Ruby>しているなど事件が複雑であることその他の事情により、迅速かつ公正な審理を行うため、第九十五条の二から前条第一項まで（口頭意見陳述等）に定める審理手続を計画的に遂行する必要があると認める場合には、期日及び場所を指定して、審理関係人を招集し、あらかじめ、これらの審理手続の申立てに関する意見の聴取を行うことができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -6774,8 +6840,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">納税者がすべき国税の課税標準の申告（その修正申告を含む。以下この条において「申告」という。）をしないこと、虚偽の申告をすること又は国税の徴収若しくは納付をしないことを<Ruby>煽<Rt>せん</Rt>
-                </Ruby>動した者は、三年以下の拘禁刑又は二十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">納税者がすべき国税の課税標準の申告（その修正申告を含む。以下この条において「申告」という。）をしないこと、虚偽の申告をすること又は国税の徴収若しくは納付をしないことを<Ruby>煽<Rt>せん</Rt></Ruby>動した者は、三年以下の拘禁刑又は二十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -10665,8 +10730,8 @@
               </Column>
             </ItemSentence>
           </Item>
-          <Item Num="5:8">
-            <ItemTitle>五から八まで</ItemTitle>
+          <Item Num="5:8_2">
+            <ItemTitle>五から八の二まで</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">略</Sentence>
             </ItemSentence>
@@ -11515,6 +11580,132 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月三一日法律第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八条中国税通則法第四十六条の二の改正規定、同法第六十五条の改正規定、同法第六十六条の改正規定、同法第六十八条の改正規定及び同法第七十条第四項の改正規定並びに附則第二十三条第二項及び第三項の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八条中国税通則法第十五条第二項の改正規定及び同法第三十四条の改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="5:6">
+            <ItemTitle>五及び六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第八条中国税通則法第十四条の改正規定及び附則第二十三条第一項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年三月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（国税通則法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国税通則法第四十六条の二の規定は、令和六年一月一日以後に申請される国税通則法第四十六条第一項から第三項までの規定による納税の猶予（以下この項において「納税の猶予」という。）について適用し、同日前に申請された納税の猶予については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国税通則法第六十六条及び第六十八条第四項の規定は、令和六年一月一日以後に法定申告期限（国税に関する法律の規定により当該法定申告期限とみなされる期限を含む。以下この項において「法定申告期限」という。）が到来する国税について適用し、同日前に法定申告期限が到来した国税については、なお従前の例による。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同日前に法定申告期限が到来した国税に係る第八条の規定による改正前の国税通則法（以下この項において「旧国税通則法」という。）第六十六条の無申告加算税（同条第七項の規定の適用があるものを除く。）又は旧国税通則法第六十八条第二項の重加算税は、新国税通則法第六十六条第六項第二号に規定する特定無申告加算税等とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="78">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="79">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

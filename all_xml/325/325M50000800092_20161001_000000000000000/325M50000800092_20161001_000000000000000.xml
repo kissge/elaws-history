@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="092" Year="25">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="092" Year="25" PromulgateMonth="12" PromulgateDay="05">
   <LawNum>昭和二十五年運輸省令第九十二号</LawNum>
   <LawBody>
-    <LawTitle>無軌条電車運転規則</LawTitle>
+    <LawTitle Kana="むきじょうでんしゃうんてんきそく" Abbrev="" AbbrevKana="">無軌条電車運転規則</LawTitle>
     <EnactStatement>軌道法（大正十年法律第七十六号）第十四条及び第三十一条の規定に基き、無軌条電車運転規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -530,10 +530,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>車両は、一年に少くとも一回集電装置、主電動機、補助回転機、制御装置、動力伝達装置、操向装置、バネ装置、台<Ruby>わ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>く<Rt>ヽ</Rt>
-</Ruby>、車輪、車軸、制動装置、計器、蓄電池等の重要部分を分解して検査しなければならない。</Sentence>
+                <Sentence>車両は、一年に少くとも一回集電装置、主電動機、補助回転機、制御装置、動力伝達装置、操向装置、バネ装置、台<Ruby>わ<Rt>ヽ</Rt></Ruby><Ruby>く<Rt>ヽ</Rt></Ruby>、車輪、車軸、制動装置、計器、蓄電池等の重要部分を分解して検査しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -543,10 +540,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>車両は、一箇月に少くとも一回集電装置、主電動機、補助回転機、制御装置、動力伝達装置、操向装置、バネ装置、台<Ruby>わ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>く<Rt>ヽ</Rt>
-</Ruby>、車輪、車軸、制動装置、戸閉装置、蓄電池、車体等の各部の状態及び作用について検査しなければならない。</Sentence>
+                <Sentence>車両は、一箇月に少くとも一回集電装置、主電動機、補助回転機、制御装置、動力伝達装置、操向装置、バネ装置、台<Ruby>わ<Rt>ヽ</Rt></Ruby><Ruby>く<Rt>ヽ</Rt></Ruby>、車輪、車軸、制動装置、戸閉装置、蓄電池、車体等の各部の状態及び作用について検査しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -571,18 +565,12 @@
             </Paragraph>
           </Article>
           <Article Num="24">
-            <ArticleCaption>（漏<Ruby>え<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>い<Rt>ヽ</Rt>
-</Ruby>電流の値）</ArticleCaption>
+            <ArticleCaption>（漏<Ruby>え<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>電流の値）</ArticleCaption>
             <ArticleTitle>第二十四条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>主回路と車体との間の漏<Ruby>え<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>い<Rt>ヽ</Rt>
-</Ruby>電流の値は、一ミリアムペア以下の値に保たれていなければならない。</Sentence>
+                <Sentence>主回路と車体との間の漏<Ruby>え<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>電流の値は、一ミリアムペア以下の値に保たれていなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1082,7 +1070,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="331043" AmendLawNum="昭和三一年七月二〇日運輸省令第四三号" Extract="true" Id="80f6f492-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三一年七月二〇日運輸省令第四三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -1092,7 +1080,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334001" AmendLawNum="昭和三四年一月二一日運輸省令第一号" Id="4d2e196a-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三四年一月二一日運輸省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1101,7 +1089,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="334027" AmendLawNum="昭和三四年六月五日運輸省令第二七号" Id="4d559396-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三四年六月五日運輸省令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1110,7 +1098,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340062" AmendLawNum="昭和四〇年八月二七日運輸省令第六二号" Id="4d7d1164-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四〇年八月二七日運輸省令第六二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1119,7 +1107,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359018" AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true" Id="f77f7bdc-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1298,7 +1286,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="362029" AmendLawNum="昭和六二年三月二七日運輸省令第二九号" Extract="true" Id="0f037d84-d3c3-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年三月二七日運輸省令第二九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1311,7 +1299,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="406014" AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true" Id="46598172-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月三〇日運輸省令第一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1324,7 +1312,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418013" AmendLawNum="平成一八年三月二四日国土交通省令第一三号" Extract="true" Id="467b87b8-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月二四日国土交通省令第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1337,7 +1325,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="426096" AmendLawNum="平成二六年一二月二六日国土交通省令第九六号" Extract="true" Id="4e429100-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二六年一二月二六日国土交通省令第九六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

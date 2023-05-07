@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="13" Year="22">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="013" Year="22" PromulgateMonth="03" PromulgateDay="13">
   <LawNum>昭和二十二年法律第十三号</LawNum>
   <LawBody>
-    <LawTitle>請願法</LawTitle>
+    <LawTitle Kana="せいがんほう" Abbrev="" AbbrevKana="">請願法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -31,8 +31,8 @@
             <Sentence Num="2" WritingMode="vertical">天皇に対する請願書は、内閣にこれを提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">請願の事項を所管する官公署が明らかでないときは、請願書は、これを内閣に提出することができる。</Sentence>
           </ParagraphSentence>

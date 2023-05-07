@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="188" Year="34">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="188" Year="34" PromulgateMonth="05" PromulgateDay="25">
   <LawNum>昭和三十四年政令第百八十八号</LawNum>
   <LawBody>
-    <LawTitle>接収貴金属等の処理に関する法律施行令</LawTitle>
+    <LawTitle Kana="せっしゅうききんぞくとうのしょりにかんするほうりつしこうれい" Abbrev="" AbbrevKana="">接収貴金属等の処理に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、接収貴金属等の処理に関する法律（昭和三十四年法律第百三十五号）の規定に基き、及び同法を実施するため、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -290,7 +290,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="336030" AmendLawNum="昭和三六年三月一三日政令第三〇号" Id="fb85e8b0-18ec-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三六年三月一三日政令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -299,7 +299,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337391" AmendLawNum="昭和三七年九月二九日政令第三九一号" Id="3608ac92-d3be-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三七年九月二九日政令第三九一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -328,7 +328,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="340164" AmendLawNum="昭和四〇年五月一八日政令第一六四号" Extract="true" Id="0bd9229c-4d92-4725-8370-d2736e947213">
+    <SupplProvision AmendLawNum="昭和四〇年五月一八日政令第一六四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -337,7 +337,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="342037" AmendLawNum="昭和四二年三月一七日政令第三七号" Extract="true" Id="fc01bac6-18ec-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四二年三月一七日政令第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -352,12 +352,10 @@
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="4">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
               <Sentence WritingMode="vertical">区分</Sentence>
@@ -497,36 +495,28 @@
               <Sentence WritingMode="vertical">1グラム</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">6</Sentence>
@@ -576,12 +566,10 @@
               <Sentence WritingMode="vertical">04</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">50</Sentence>
@@ -598,12 +586,10 @@
               <Sentence WritingMode="vertical">1キログラム</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">120</Sentence>
@@ -612,28 +598,22 @@
               <Sentence WritingMode="vertical">80</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">55</Sentence>
@@ -665,12 +645,10 @@
               <Sentence WritingMode="vertical">10</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">22</Sentence>
@@ -679,12 +657,10 @@
               <Sentence WritingMode="vertical">44</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">7</Sentence>
@@ -701,28 +677,22 @@
               <Sentence WritingMode="vertical">1グラム</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">23</Sentence>
@@ -731,12 +701,10 @@
               <Sentence WritingMode="vertical">77</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">7</Sentence>
@@ -771,28 +739,22 @@
               <Sentence WritingMode="vertical">75</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">986</Sentence>
@@ -815,36 +777,28 @@
               <Sentence WritingMode="vertical">28</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">1,084</Sentence>
@@ -864,44 +818,34 @@
               <Sentence WritingMode="vertical">1カラット</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">50</Sentence>
@@ -918,44 +862,34 @@
               <Sentence WritingMode="vertical">1カラット</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">55</Sentence>
@@ -984,36 +918,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1036,36 +962,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1088,36 +1006,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1140,36 +1050,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1192,36 +1094,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1244,36 +1138,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1296,36 +1182,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1336,50 +1214,40 @@
               <Sentence WritingMode="vertical">1カラット</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">20</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">20</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1402,36 +1270,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1457,36 +1317,28 @@
               <Sentence WritingMode="vertical">00</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1497,50 +1349,40 @@
               <Sentence WritingMode="vertical">1カラット</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">2</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">2</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
         </Table>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Rule" Num="007" Year="45">
+<Law Era="Showa" Lang="ja" LawType="Rule" Num="007" Year="45" PromulgateMonth="09" PromulgateDay="11">
   <LawNum>昭和四十五年国家公安委員会規則第七号</LawNum>
   <LawBody>
-    <LawTitle>交通巡視員の服制に関する規則</LawTitle>
+    <LawTitle Kana="こうつうじゅんしいんのふくせいにかんするきそく" Abbrev="" AbbrevKana="">交通巡視員の服制に関する規則</LawTitle>
     <EnactStatement>警察法（昭和二十九年法律第百六十二号）第七十条の規定に基づき、交通巡視員の服制および服装に関する規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -42,7 +42,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="351006" AmendLawNum="昭和五一年五月二七日国家公安委員会規則第六号" Id="20a3c13c-1981-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五一年五月二七日国家公安委員会規則第六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -57,7 +57,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353005" AmendLawNum="昭和五三年六月一五日国家公安委員会規則第五号" Id="20d81bc6-1981-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五三年六月一五日国家公安委員会規則第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -66,7 +66,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="405015" AmendLawNum="平成五年一二月一七日国家公安委員会規則第一五号" Id="210c8672-1981-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成五年一二月一七日国家公安委員会規則第一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -81,7 +81,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406024" AmendLawNum="平成六年七月一三日国家公安委員会規則第二四号" Id="2140e3d6-1981-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年七月一三日国家公安委員会規則第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -96,7 +96,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414018" AmendLawNum="平成一四年七月五日国家公安委員会規則第一八号" Extract="true" Id="10d9d1f8-18e4-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年七月五日国家公安委員会規則第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -112,7 +112,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="427022" AmendLawNum="平成二七年一二月一四日国家公安委員会規則第二二号" Extract="true" Id="985dab3e-18e6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成二七年一二月一四日国家公安委員会規則第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -222,8 +222,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図一のとおりとする。</Sentence>
@@ -394,8 +393,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図三のとおりとする。</Sentence>
@@ -506,8 +504,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図四のとおりとする。</Sentence>
@@ -593,8 +590,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図五のとおりとする。</Sentence>
@@ -673,8 +669,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図六のとおりとする。</Sentence>
@@ -738,8 +733,7 @@
                 <Sentence>制式</Sentence>
               </TableColumn>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>コート式とする。</Sentence>
@@ -808,8 +802,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図七のとおりとする。</Sentence>
@@ -870,8 +863,7 @@
                 <Sentence>制式</Sentence>
               </TableColumn>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>ブルゾン式とする。</Sentence>
@@ -920,8 +912,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図九のとおりとする。</Sentence>
@@ -957,8 +948,7 @@
                 <Sentence>制式</Sentence>
               </TableColumn>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>ハーフコート式とする。</Sentence>
@@ -1025,8 +1015,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図十のとおりとする。</Sentence>
@@ -2047,8 +2036,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>１　襟、袖及びエンブレムは、交通巡視員（男性）冬服上衣と同様とする。</Sentence>
@@ -2105,8 +2093,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図二のとおりとする。</Sentence>
@@ -2505,8 +2492,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn>
                 <Sentence>形状は、図八のとおりとする。</Sentence>
@@ -3094,6 +3080,15 @@
         <FigStruct>
           <FigStructTitle>図十一　交通巡視員章及び識別章の取付け位置</FigStructTitle>
           <Fig src="./pict/S45F30301000007-080.jpg"/>
+          <Remarks>
+            <RemarksLabel LineBreak="false">（注）</RemarksLabel>
+            <Item Num="1">
+              <ItemTitle/>
+              <ItemSentence>
+                <Sentence>左胸のポケットの上部に付ける。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Remarks>
         </FigStruct>
       </Item>
     </AppdxTable>

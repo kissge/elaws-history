@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="050" Year="29">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="050" Year="29" PromulgateMonth="07" PromulgateDay="02">
   <LawNum>昭和二十九年総理府令第五十号</LawNum>
   <LawBody>
-    <LawTitle>地形調査作業規程準則</LawTitle>
+    <LawTitle Kana="ちけいちょうささぎょうきていじゅんそく" Abbrev="" AbbrevKana="">地形調査作業規程準則</LawTitle>
     <EnactStatement>国土調査法第三条第二項の規定に基き、地形調査作業規程準則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -471,8 +471,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>岩石台地又は砂<Ruby>礫<Rt>れき</Rt>
-</Ruby>台地が数段からなるときは、地形面解析を行い、性状に従い区分すること。</Sentence>
+                <Sentence>岩石台地又は砂<Ruby>礫<Rt>れき</Rt></Ruby>台地が数段からなるときは、地形面解析を行い、性状に従い区分すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -668,8 +667,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>火山岩<Ruby>屑<Rt>せつ</Rt>
-</Ruby>、ローム</Sentence>
+                    <Sentence>火山岩<Ruby>屑<Rt>せつ</Rt></Ruby>、ローム</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>山麓緩斜面、台地、低地、泥流地形、土石流地形</Sentence>
@@ -677,14 +675,10 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>角石、円石、角<Ruby>礫<Rt>れき</Rt>
-</Ruby>、円礫、土</Sentence>
+                    <Sentence>角石、円石、角<Ruby>礫<Rt>れき</Rt></Ruby>、円礫、土</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>山麓緩斜面、河原、浜、<Ruby>崖<Rt>がい</Rt>
-</Ruby>
-<Ruby>錐<Rt>すい</Rt>
-</Ruby>、麓屑面、砂礫堆、土石流地形</Sentence>
+                    <Sentence>山麓緩斜面、河原、浜、<Ruby>崖<Rt>がい</Rt></Ruby><Ruby>錐<Rt>すい</Rt></Ruby>、麓屑面、砂礫堆、土石流地形</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -868,7 +862,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="330027" AmendLawNum="昭和三〇年七月二〇日総理府令第二七号" Id="c1590e6e-18e3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三〇年七月二〇日総理府令第二七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -877,7 +871,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="349039" AmendLawNum="昭和四九年六月二六日総理府令第三九号" Id="be8be160-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四九年六月二六日総理府令第三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -886,7 +880,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412103" AmendLawNum="平成一二年八月一四日総理府令第一〇三号" Id="bf1d2242-1894-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年八月一四日総理府令第一〇三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -895,7 +889,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="423012" AmendLawNum="平成二三年三月一八日国土交通省令第一二号" Id="c1d2d906-18e3-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二三年三月一八日国土交通省令第一二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1145,9 +1139,7 @@
               <Sentence>磯</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-                <Ruby>汀<Rt>てい</Rt>
-</Ruby>線付近の平坦な裸岩地域</Sentence>
+              <Sentence><Ruby>汀<Rt>てい</Rt></Ruby>線付近の平坦な裸岩地域</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1174,8 +1166,7 @@
               <Sentence>崩壊地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>山腹斜面又は崖の一部が急激に崩落して生じた裸地（<Ruby>灌<Rt>かん</Rt>
-</Ruby>木が生育しているものを含む。）</Sentence>
+              <Sentence>山腹斜面又は崖の一部が急激に崩落して生じた裸地（<Ruby>灌<Rt>かん</Rt></Ruby>木が生育しているものを含む。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1353,15 +1344,13 @@
               <Sentence>図上の谷幅が０．１未満の場合</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>０．１　緑</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1369,8 +1358,7 @@
               <Sentence>図上の谷幅が０．１以上０．４未満の場合</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>０．１から０．４まで　緑</Sentence>
@@ -1384,8 +1372,7 @@
               <Sentence>図上の谷幅が０．４以上の場合</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>０．２　緑</Sentence>
@@ -1549,7 +1536,7 @@
               <Sentence>切土地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>CA</Sentence>
+              <Sentence>ＣＡ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1558,11 +1545,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1571,15 +1557,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1587,7 +1571,7 @@
               <Sentence>盛土地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>BA</Sentence>
+              <Sentence>ＢＡ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1596,11 +1580,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1609,15 +1592,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1625,7 +1606,7 @@
               <Sentence>切り盛り平坦地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>FA</Sentence>
+              <Sentence>ＦＡ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1634,11 +1615,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1647,15 +1627,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1663,7 +1641,7 @@
               <Sentence>埋立地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>FR</Sentence>
+              <Sentence>ＦＲ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1672,11 +1650,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1685,15 +1662,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1701,7 +1676,7 @@
               <Sentence>干拓地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>WR</Sentence>
+              <Sentence>ＷＲ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1710,11 +1685,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1723,15 +1697,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1739,7 +1711,7 @@
               <Sentence>その他の人工改変地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>EA</Sentence>
+              <Sentence>ＥＡ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1748,11 +1720,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1761,15 +1732,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1777,7 +1746,7 @@
               <Sentence>改変中の地域</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>UM</Sentence>
+              <Sentence>ＵＭ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1786,11 +1755,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.2</Sentence>
+              <Sentence>０．２</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1799,23 +1767,19 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.2</Sentence>
+              <Sentence>０．２</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1823,37 +1787,31 @@
               <Sentence>山頂緩斜面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>mT</Sentence>
+              <Sentence>ｍＴ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>茶</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>茶</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence/>
+            </TableColumn>
+            <TableColumn>
+              <Sentence/>
             </TableColumn>
             <TableColumn rowspan="2">
               <Sentence>その面全部を彩色する。</Sentence>
@@ -1864,37 +1822,31 @@
               <Sentence>山腹緩斜面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>mF</Sentence>
+              <Sentence>ｍＦ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>茶</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>茶</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence/>
+            </TableColumn>
+            <TableColumn>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1902,7 +1854,7 @@
               <Sentence>山麓緩斜面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>mP</Sentence>
+              <Sentence>ｍＰ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -1911,7 +1863,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
@@ -1923,22 +1875,19 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1946,98 +1895,77 @@
               <Sentence>急斜面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>谷密度が80以上の急斜面</Sentence>
+              <Sentence>谷密度が８０以上の急斜面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>mSⅠ</Sentence>
+              <Sentence>ｍＳⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2046,11 +1974,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2059,31 +1986,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>谷密度が80未満の急斜面</Sentence>
+              <Sentence>谷密度が８０未満の急斜面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>mSⅡ</Sentence>
+              <Sentence>ｍＳⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2092,11 +2015,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2105,61 +2027,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2167,7 +2076,7 @@
               <Sentence>岩石台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>RtⅠ（＋）</Sentence>
+              <Sentence>ＲｔⅠ（＋）</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2176,7 +2085,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
@@ -2188,18 +2097,14 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-<QuoteStruct>
-<Fig src=""/>
-</QuoteStruct>
-</Sentence>
-              <Sentence>線色は、紫、線幅は、0.1とする。</Sentence>
+              <Sentence><QuoteStruct><Fig src=""/></QuoteStruct></Sentence>
+              <Sentence>線色は、紫、線幅は、０．１とする。</Sentence>
               <Sentence>以下岩石台地の区分において同じ。</Sentence>
             </TableColumn>
           </TableRow>
@@ -2208,7 +2113,7 @@
               <Sentence>岩石台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>RtⅠ</Sentence>
+              <Sentence>ＲｔⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2216,8 +2121,7 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
@@ -2228,15 +2132,13 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2244,7 +2146,7 @@
               <Sentence>岩石台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>RtⅡ（＋）</Sentence>
+              <Sentence>ＲｔⅠⅠ（＋）</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2253,11 +2155,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2266,13 +2167,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>右斜線は、橙色の線、横線は、赤色の線とする。</Sentence>
@@ -2283,7 +2183,7 @@
               <Sentence>岩石台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>RtⅡ</Sentence>
+              <Sentence>ＲｔⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2292,11 +2192,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2305,15 +2204,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2321,7 +2218,7 @@
               <Sentence>岩石台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>RtⅢ（＋）</Sentence>
+              <Sentence>ＲｔⅠⅠⅠ（＋）</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2330,13 +2227,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
               <Sentence>黄</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2345,13 +2241,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>右斜線は、橙色の線、左斜線は、黄色の線とし、横線は、赤色の線とする。</Sentence>
@@ -2362,7 +2257,7 @@
               <Sentence>岩石台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>RtⅢ</Sentence>
+              <Sentence>ＲｔⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2371,13 +2266,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
               <Sentence>黄</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2386,11 +2280,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>右斜線は、橙色の線、左斜線は、黄色の線とする。</Sentence>
@@ -2401,7 +2294,7 @@
               <Sentence>砂礫台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>GtⅠ（＋）</Sentence>
+              <Sentence>ＧｔⅠ（＋）</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2410,7 +2303,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
@@ -2422,14 +2315,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2437,26 +2329,22 @@
               <Sentence>砂礫台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>GtⅠ</Sentence>
+              <Sentence>ＧｔⅠ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
@@ -2470,7 +2358,7 @@
               <Sentence>砂礫台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>GtⅡ（＋）</Sentence>
+              <Sentence>ＧｔⅠⅠ（＋）</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2479,11 +2367,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2492,13 +2379,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>右斜線は、橙色の線、横線は、赤色の線とする。</Sentence>
@@ -2509,7 +2395,7 @@
               <Sentence>砂礫台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>GtⅡ</Sentence>
+              <Sentence>ＧｔⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2518,11 +2404,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2531,15 +2416,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2547,7 +2430,7 @@
               <Sentence>砂礫台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>GtⅢ（＋）</Sentence>
+              <Sentence>ＧｔⅠⅠⅠ（＋）</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2556,13 +2439,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
               <Sentence>黄</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2571,13 +2453,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>右斜線は、橙色の線、左斜線は、黄色の線とし、横線は、赤色の線とする。</Sentence>
@@ -2588,7 +2469,7 @@
               <Sentence>砂礫台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>GtⅢ</Sentence>
+              <Sentence>ＧｔⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2597,13 +2478,12 @@
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
               <Sentence>黄</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2612,11 +2492,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>右斜線は、橙色の線、左斜線は、黄色の線とする。</Sentence>
@@ -2627,7 +2506,7 @@
               <Sentence>石灰岩台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>K</Sentence>
+              <Sentence>Ｋ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2636,7 +2515,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
@@ -2648,14 +2527,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>橙</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2663,7 +2541,7 @@
               <Sentence>火山灰台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>AP</Sentence>
+              <Sentence>ＡＰ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2672,11 +2550,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2685,11 +2562,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <FigStruct>
@@ -2702,7 +2578,7 @@
               <Sentence>溶岩台地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>LP</Sentence>
+              <Sentence>ＬＰ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2711,19 +2587,16 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
@@ -2737,7 +2610,7 @@
               <Sentence>更新世段丘</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PL</Sentence>
+              <Sentence>ＰＬ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2746,11 +2619,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2759,15 +2631,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2775,7 +2645,7 @@
               <Sentence>完新世段丘</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>HL</Sentence>
+              <Sentence>ＨＬ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2784,11 +2654,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2797,15 +2666,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>黒</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2813,117 +2680,92 @@
               <Sentence>扇状地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>通常は冠水しなかつた部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>FⅠ</Sentence>
+              <Sentence>ＦⅠ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -2934,18 +2776,16 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>異常の洪水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>FⅡ</Sentence>
+              <Sentence>ＦⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2954,7 +2794,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -2966,30 +2806,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>季節的な増水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>FⅢ</Sentence>
+              <Sentence>ＦⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -2998,7 +2835,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -3010,60 +2847,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3071,117 +2896,92 @@
               <Sentence>谷底低地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>通常は冠水しなかつた部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PvⅠ</Sentence>
+              <Sentence>ＰｖⅠ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
@@ -3192,18 +2992,16 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>異常の洪水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PvⅡ</Sentence>
+              <Sentence>ＰｖⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -3212,7 +3010,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
@@ -3224,30 +3022,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>季節的な増水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PvⅢ</Sentence>
+              <Sentence>ＰｖⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -3256,7 +3051,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
@@ -3268,60 +3063,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3329,117 +3112,92 @@
               <Sentence>氾濫原低地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>通常は冠水しなかつた部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PmⅠ</Sentence>
+              <Sentence>ＰｍⅠ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄緑</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄緑</Sentence>
@@ -3450,18 +3208,16 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>異常の洪水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PmⅡ</Sentence>
+              <Sentence>ＰｍⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -3470,7 +3226,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄緑</Sentence>
@@ -3482,30 +3238,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄緑</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>季節的な増水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PmⅢ</Sentence>
+              <Sentence>ＰｍⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -3514,7 +3267,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄緑</Sentence>
@@ -3526,60 +3279,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄緑</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3587,117 +3328,92 @@
               <Sentence>三角州</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>通常は冠水しなかつた部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>DⅠ</Sentence>
+              <Sentence>ＤⅠ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
@@ -3708,18 +3424,16 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>異常の洪水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>DⅡ</Sentence>
+              <Sentence>ＤⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -3728,7 +3442,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
@@ -3740,30 +3454,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>季節的な増水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>DⅢ</Sentence>
+              <Sentence>ＤⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -3772,7 +3483,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
@@ -3784,60 +3495,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3845,117 +3544,92 @@
               <Sentence>自然堤防</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>通常は冠水しなかつた部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PhⅠ</Sentence>
+              <Sentence>ＰｈⅠ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>桃</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>桃</Sentence>
@@ -3966,18 +3640,16 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>異常の洪水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PhⅡ</Sentence>
+              <Sentence>ＰｈⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -3986,7 +3658,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>桃</Sentence>
@@ -3998,30 +3670,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>桃</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>季節的な増水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PhⅢ</Sentence>
+              <Sentence>ＰｈⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4030,7 +3699,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>桃</Sentence>
@@ -4042,60 +3711,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>桃</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4103,117 +3760,92 @@
               <Sentence>旧河道</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>通常は冠水しなかつた部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PrⅠ</Sentence>
+              <Sentence>ＰｒⅠ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>薄紫</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>薄紫</Sentence>
@@ -4224,18 +3856,16 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>異常の洪水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PrⅡ</Sentence>
+              <Sentence>ＰｒⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4244,7 +3874,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>薄紫</Sentence>
@@ -4256,30 +3886,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>薄紫</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>季節的な増水時に冠水した部分</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>PrⅢ</Sentence>
+              <Sentence>ＰｒⅠⅠⅠ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4288,7 +3915,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>薄紫</Sentence>
@@ -4300,60 +3927,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>薄紫</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4361,7 +3976,7 @@
               <Sentence>干潟</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Lg</Sentence>
+              <Sentence>Ｌｇ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4370,11 +3985,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4383,15 +3997,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>灰</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4399,7 +4011,7 @@
               <Sentence>河原</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Sr</Sentence>
+              <Sentence>Ｓｒ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4408,7 +4020,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -4420,14 +4032,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4435,7 +4046,7 @@
               <Sentence>磯</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Rb</Sentence>
+              <Sentence>Ｒｂ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4443,8 +4054,7 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -4455,19 +4065,14 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-<QuoteStruct>
-<Fig src=""/>
-</QuoteStruct>
-</Sentence>
-              <Sentence>線色は、黒、線幅は、0.1とする。</Sentence>
+              <Sentence><QuoteStruct><Fig src=""/></QuoteStruct></Sentence>
+              <Sentence>線色は、黒、線幅は、０．１とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4475,7 +4080,7 @@
               <Sentence>浜</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Sb</Sentence>
+              <Sentence>Ｓｂ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4484,11 +4089,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4497,15 +4101,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4513,7 +4115,7 @@
               <Sentence>地すべり地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>ls</Sentence>
+              <Sentence>ｌｓ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4522,11 +4124,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4535,15 +4136,14 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>円弧形記号は、ひだの大きさ及び向きを示すよう赤色で彩色して表示する。ただし、ひだの長さ及び幅がそれぞれ10メートル以上のものを調査し、図上の幅が、0.2に満たない場合は、0.2として記入する。</Sentence>
-              <Sentence>地すべりの方向は、滑つたことがあるか、若しくは滑りつつあるものについて矢印で示すものとし、線色は、赤、線幅は、0.2とする。</Sentence>
+              <Sentence>円弧形記号は、ひだの大きさ及び向きを示すよう赤色で彩色して表示する。ただし、ひだの長さ及び幅がそれぞれ１０メートル以上のものを調査し、図上の幅が、０．２に満たない場合は、０．２として記入する。</Sentence>
+              <Sentence>地すべりの方向は、滑つたことがあるか、若しくは滑りつつあるものについて矢印で示すものとし、線色は、赤、線幅は、０．２とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4551,7 +4151,7 @@
               <Sentence>崩壊地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>df</Sentence>
+              <Sentence>ｄｆ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4559,8 +4159,7 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
@@ -4571,15 +4170,14 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>崩壊地の大きさ及び方向を表示するように記入する。</Sentence>
-              <Sentence>ただし、崩壊の長さ及び幅がそれぞれ10メートル以上のものを調査し、図上の幅が、0.2に満たない場合は、0.2として記入する。</Sentence>
+              <Sentence>ただし、崩壊の長さ及び幅がそれぞれ１０メートル以上のものを調査し、図上の幅が、０．２に満たない場合は、０．２として記入する。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4587,7 +4185,7 @@
               <Sentence>麓屑面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>co</Sentence>
+              <Sentence>ｃｏ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4596,11 +4194,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4609,15 +4206,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4625,7 +4220,7 @@
               <Sentence>崖錐</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>tl</Sentence>
+              <Sentence>ｔｌ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4634,11 +4229,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4647,11 +4241,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>崖錐の錐面の角度及び実形の大きさに応じた扇形を記入する。</Sentence>
@@ -4662,7 +4255,7 @@
               <Sentence>火山泥流堆積地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>M</Sentence>
+              <Sentence>Ｍ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4671,11 +4264,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4684,14 +4276,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>泥流丘の部分は、その実形を記入するものとし、線色は、紫、線幅は、0.1とする。</Sentence>
+              <Sentence>泥流丘の部分は、その実形を記入するものとし、線色は、紫、線幅は、０．１とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4699,7 +4290,7 @@
               <Sentence>土石流堆積地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>R</Sentence>
+              <Sentence>Ｒ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4708,11 +4299,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>1.0</Sentence>
+              <Sentence>１．０</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4721,11 +4311,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>1.0</Sentence>
+              <Sentence>１．０</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>土石流堆積地の実形を記入する。</Sentence>
@@ -4736,7 +4325,7 @@
               <Sentence>砂礫堆</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Sh</Sentence>
+              <Sentence>Ｓｈ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4745,11 +4334,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4758,11 +4346,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>砂礫堆の実形を記入する。</Sentence>
@@ -4773,7 +4360,7 @@
               <Sentence>裸出砂丘</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Nd</Sentence>
+              <Sentence>Ｎｄ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4781,8 +4368,7 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -4793,19 +4379,14 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-<QuoteStruct>
-<Fig src=""/>
-</QuoteStruct>
-</Sentence>
-              <Sentence>線色は、茶、線幅は、0.1とする。</Sentence>
+              <Sentence><QuoteStruct><Fig src=""/></QuoteStruct></Sentence>
+              <Sentence>線色は、茶、線幅は、０．１とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4813,7 +4394,7 @@
               <Sentence>被覆砂丘</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Cd</Sentence>
+              <Sentence>Ｃｄ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4821,8 +4402,7 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -4833,19 +4413,14 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-<QuoteStruct>
-<Fig src=""/>
-</QuoteStruct>
-</Sentence>
-              <Sentence>線色は、茶、線幅は、0.05とする。</Sentence>
+              <Sentence><QuoteStruct><Fig src=""/></QuoteStruct></Sentence>
+              <Sentence>線色は、茶、線幅は、０．０５とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4853,7 +4428,7 @@
               <Sentence>湿地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>W</Sentence>
+              <Sentence>Ｗ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4862,11 +4437,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4875,15 +4449,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4891,7 +4463,7 @@
               <Sentence>泥炭地</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>P</Sentence>
+              <Sentence>Ｐ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4900,11 +4472,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4913,15 +4484,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4929,7 +4498,7 @@
               <Sentence>天井川</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>Er</Sentence>
+              <Sentence>Ｅｒ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4938,7 +4507,7 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.2</Sentence>
+              <Sentence>０．２</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>黄</Sentence>
@@ -4950,15 +4519,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4966,7 +4533,7 @@
               <Sentence>崖</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>e</Sentence>
+              <Sentence>ｅ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -4974,8 +4541,7 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
@@ -4986,14 +4552,13 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>崖の平面投影の実形を記入するものとし、その投影が0.3に満たない場合は、0.3として記入する。</Sentence>
+              <Sentence>崖の平面投影の実形を記入するものとし、その投影が０．３に満たない場合は、０．３として記入する。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5001,7 +4566,7 @@
               <Sentence>凹地・浅い谷</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>b</Sentence>
+              <Sentence>ｂ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5010,11 +4575,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5023,15 +4587,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5039,7 +4601,7 @@
               <Sentence>岸欠壊</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>c</Sentence>
+              <Sentence>ｃ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5047,8 +4609,7 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
@@ -5059,14 +4620,13 @@
               </FigStruct>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>実形を記入する。ただし、欠壊の長さ及び幅がそれぞれ10メートル以上のものを調査し、図上の幅が、0.2に満たない場合は、0.2として記入する。</Sentence>
+              <Sentence>実形を記入する。ただし、欠壊の長さ及び幅がそれぞれ１０メートル以上のものを調査し、図上の幅が、０．２に満たない場合は、０．２として記入する。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5074,7 +4634,7 @@
               <Sentence>異常高潮界</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>ah</Sentence>
+              <Sentence>ａｈ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5083,11 +4643,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.3</Sentence>
+              <Sentence>０．３</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5096,15 +4655,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.3</Sentence>
+              <Sentence>０．３</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5112,7 +4669,7 @@
               <Sentence>遷移点</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>n</Sentence>
+              <Sentence>ｎ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5121,11 +4678,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.2</Sentence>
+              <Sentence>０．２</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5134,14 +4690,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>赤</Sentence>
-              <Sentence>0.2</Sentence>
+              <Sentence>０．２</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>谷の実形に応じて記入する。ただし、図上の幅が、2.0に満たない場合は、2.0として記入する。</Sentence>
+              <Sentence>谷の実形に応じて記入する。ただし、図上の幅が、２．０に満たない場合は、２．０として記入する。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5149,7 +4704,7 @@
               <Sentence>傾斜変換線</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>i</Sentence>
+              <Sentence>ｉ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5158,11 +4713,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
-              <Sentence>0.3</Sentence>
+              <Sentence>０．３</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5171,15 +4725,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>緑</Sentence>
-              <Sentence>0.3</Sentence>
+              <Sentence>０．３</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5187,7 +4739,7 @@
               <Sentence>火山地界</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>mv</Sentence>
+              <Sentence>ｍｖ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5196,11 +4748,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.4</Sentence>
+              <Sentence>０．４</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5209,15 +4760,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>茶</Sentence>
-              <Sentence>0.4</Sentence>
+              <Sentence>０．４</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5225,7 +4774,7 @@
               <Sentence>谷密度界</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>vd</Sentence>
+              <Sentence>ｖｄ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5234,11 +4783,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.3</Sentence>
+              <Sentence>０．３</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5247,15 +4795,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.3</Sentence>
+              <Sentence>０．３</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5263,7 +4809,7 @@
               <Sentence>地形界</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>ld</Sentence>
+              <Sentence>ｌｄ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5272,11 +4818,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5285,15 +4830,13 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.05</Sentence>
+              <Sentence>０．０５</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5301,7 +4844,7 @@
               <Sentence>火山岩屑</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>V</Sentence>
+              <Sentence>Ｖ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5310,27 +4853,22 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5338,7 +4876,7 @@
               <Sentence>ローム</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>L</Sentence>
+              <Sentence>Ｌ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5347,27 +4885,22 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5375,93 +4908,74 @@
               <Sentence>角石</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3" rowspan="4">
-              <Sentence>角石から円礫までの記号の大きさについては、ローマ字は、横1.5縦1.5とし、数字は、横1.0縦1.0として表示する。</Sentence>
+              <Sentence>角石から円礫までの記号の大きさについては、ローマ字は、横１．５縦１．５とし、数字は、横１．０縦１．０として表示する。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径1,000以上</Sentence>
+              <Sentence>長径１，０００以上</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>a4</Sentence>
+              <Sentence>ａ４</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5470,39 +4984,33 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径500以上1,000未満</Sentence>
+              <Sentence>長径５００以上１，０００未満</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>a3</Sentence>
+              <Sentence>ａ３</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5511,39 +5019,33 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径100以上500未満</Sentence>
+              <Sentence>長径１００以上５００未満</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>a2</Sentence>
+              <Sentence>ａ２</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5552,43 +5054,36 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径20以上100未満</Sentence>
+              <Sentence>長径２０以上１００未満</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>a1</Sentence>
+              <Sentence>ａ１</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5597,73 +5092,57 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5671,98 +5150,77 @@
               <Sentence>円石</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径1,000以上</Sentence>
+              <Sentence>長径１，０００以上</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>r4</Sentence>
+              <Sentence>ｒ４</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5771,43 +5229,36 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径500以上1,000未満</Sentence>
+              <Sentence>長径５００以上１，０００未満</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>r3</Sentence>
+              <Sentence>ｒ３</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5816,43 +5267,36 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径100以上500未満</Sentence>
+              <Sentence>長径１００以上５００未満</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>r2</Sentence>
+              <Sentence>ｒ２</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5861,43 +5305,36 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>長径20以上100未満</Sentence>
+              <Sentence>長径２０以上１００未満</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>r1</Sentence>
+              <Sentence>ｒ１</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5906,73 +5343,57 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5980,7 +5401,7 @@
               <Sentence>角礫</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>a0</Sentence>
+              <Sentence>ａ０</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -5989,27 +5410,22 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6017,7 +5433,7 @@
               <Sentence>円礫</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>r0</Sentence>
+              <Sentence>ｒ０</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6026,27 +5442,22 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6054,98 +5465,77 @@
               <Sentence>土</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>砂</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>s</Sentence>
+              <Sentence>ｓ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6154,43 +5544,36 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>シルト</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>si</Sentence>
+              <Sentence>ｓｉ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6199,43 +5582,36 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
               <Sentence>粘土</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>cl</Sentence>
+              <Sentence>ｃｌ</Sentence>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6244,81 +5620,63 @@
             </TableColumn>
             <TableColumn>
               <Sentence>紫</Sentence>
-              <Sentence>0.1</Sentence>
+              <Sentence>０．１</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6326,16 +5684,13 @@
               <Sentence>変化のあつた河身</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6344,11 +5699,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.2</Sentence>
+              <Sentence>０．２</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6357,32 +5711,27 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.2</Sentence>
+              <Sentence>０．２</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>流水部の幅が図上で0.4以上である場合は、上の記号を用い、0.4未満である場合は、下の記号を用いる。</Sentence>
+              <Sentence>流水部の幅が図上で０．４以上である場合は、上の記号を用い、０．４未満である場合は、下の記号を用いる。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6391,11 +5740,10 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.4</Sentence>
+              <Sentence>０．４</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <FigStruct>
@@ -6404,61 +5752,48 @@
             </TableColumn>
             <TableColumn>
               <Sentence>青</Sentence>
-              <Sentence>0.4</Sentence>
+              <Sentence>０．４</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn colspan="3">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
         </Table>
@@ -6491,7 +5826,7 @@
           <Item Num="5">
             <ItemTitle>５</ItemTitle>
             <ItemSentence>
-              <Sentence>岩石台地又は砂礫台地については、上位の高さのものから下位の高さのものへそれぞれＲｔⅠ（＋）、ＲｔⅠ、ＲｔⅡ（＋）、ＲｔⅡ、ＲｔⅢ（＋）、ＲｔⅢ又はＧｔⅠ（＋）、ＧｔⅠ、ＧｔⅡ（＋）、ＧｔⅡ、ＧｔⅢ（＋）、ＧｔⅢの順に区分するものとする。</Sentence>
+              <Sentence>岩石台地又は砂礫台地については、上位の高さのものから下位の高さのものへそれぞれＲｔⅠ（＋）、ＲｔⅠ、ＲｔⅠⅠ（＋）、ＲｔⅠⅠ、ＲｔⅠⅠⅠ（＋）、ＲｔⅠⅠⅠ又はＧｔⅠ（＋）、ＧｔⅠ、ＧｔⅠⅠ（＋）、ＧｔⅠⅠ、ＧｔⅠⅠⅠ（＋）、ＧｔⅠⅠⅠの順に区分するものとする。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="6">
@@ -6832,10 +6167,8 @@
               <Sentence>麓屑面</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
-              <Sentence>物質<Ruby>匍<Rt>ほ</Rt>
-</Ruby>行の有無、背後の急斜面との関係、構成物質の状況、植被の状況、斜面の平均勾配</Sentence>
+              <Sentence/>
+              <Sentence>物質<Ruby>匍<Rt>ほ</Rt></Ruby>行の有無、背後の急斜面との関係、構成物質の状況、植被の状況、斜面の平均勾配</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7091,8 +6424,7 @@
               <Sentence>八　使用した参考文献又は資料名</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
         </Table>

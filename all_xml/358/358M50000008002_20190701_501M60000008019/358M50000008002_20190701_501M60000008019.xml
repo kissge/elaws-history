@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="002" Year="58">
+<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="002" Year="58" PromulgateMonth="01" PromulgateDay="18">
   <LawNum>昭和五十八年自治省令第二号</LawNum>
   <LawBody>
-    <LawTitle>流水検知装置の技術上の規格を定める省令</LawTitle>
+    <LawTitle Kana="りゅうすいけんちそうちのぎじゅつじょうのきかくをさだめるしょうれい" Abbrev="" AbbrevKana="">流水検知装置の技術上の規格を定める省令</LawTitle>
     <EnactStatement>消防法（昭和二十三年法律第百八十六号）第二十一条の二第二項の規定に基づき、流水検知装置の技術上の規格を定める省令（昭和五十年自治省令第十八号）の全部を改正する省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -108,9 +108,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">
-<Ruby>堆<Rt>たい</Rt>
-</Ruby>積物により機能に支障を生じないこと。</Sentence>
+              <Sentence WritingMode="vertical"><Ruby>堆<Rt>たい</Rt></Ruby>積物により機能に支障を生じないこと。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
@@ -176,8 +174,7 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">一次側と二次側とが中間室で分離されているものにあつては、中間室に<Ruby>溜<Rt>たま</Rt>
-</Ruby>る水を外部に自動的に排水する装置を有すること。</Sentence>
+              <Sentence WritingMode="vertical">一次側と二次側とが中間室で分離されているものにあつては、中間室に<Ruby>溜<Rt>たま</Rt></Ruby>る水を外部に自動的に排水する装置を有すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
@@ -189,8 +186,7 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">二次側に予備水を必要としないものにあつては、二次側に<Ruby>溜<Rt>たま</Rt>
-</Ruby>る水を外部に排水する装置を有すること。</Sentence>
+              <Sentence WritingMode="vertical">二次側に予備水を必要としないものにあつては、二次側に<Ruby>溜<Rt>たま</Rt></Ruby>る水を外部に排水する装置を有すること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -218,8 +214,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">さびの発生するおそれのある部分は、有効な防<Ruby>錆<Rt>せい</Rt>
-</Ruby>処理を施すこと。</Sentence>
+              <Sentence WritingMode="vertical">さびの発生するおそれのある部分は、有効な防<Ruby>錆<Rt>せい</Rt></Ruby>処理を施すこと。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
@@ -764,7 +759,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362007" AmendLawNum="昭和六二年三月一八日自治省令第七号" Id="fd1cc0ac-18f3-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年三月一八日自治省令第七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -773,7 +768,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="407030" AmendLawNum="平成七年九月一三日自治省令第三〇号" Id="bdb419e2-190c-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成七年九月一三日自治省令第三〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -788,7 +783,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410037" AmendLawNum="平成一〇年九月二八日自治省令第三七号" Extract="true" Id="fd71282c-18f3-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年九月二八日自治省令第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -806,8 +801,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う検定対象機械器具等についての試験を申請をしている消火器、消火薬剤、閉鎖型スプリンクラーヘッド、消防用ホース、一斉開放弁、<Ruby>泡<Rt>あわ</Rt>
-</Ruby>消火薬剤、感知器及び発信機、流水検知装置、差込式結合金具並びにねじ式結合金具に係る試験については、なお従前の例による。</Sentence>
+            <Sentence WritingMode="vertical">この省令の施行の際、現に日本消防検定協会の行う検定対象機械器具等についての試験を申請をしている消火器、消火薬剤、閉鎖型スプリンクラーヘッド、消防用ホース、一斉開放弁、<Ruby>泡<Rt>あわ</Rt></Ruby>消火薬剤、感知器及び発信機、流水検知装置、差込式結合金具並びにねじ式結合金具に係る試験については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="9" OldStyle="false">
@@ -818,7 +812,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412044" AmendLawNum="平成一二年九月一四日自治省令第四四号" Id="8c15e2fc-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年九月一四日自治省令第四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -827,7 +821,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501019" AmendLawNum="令和元年六月二八日総務省令第一九号" Id="ef844ec2-9e19-11e9-92bf-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年六月二八日総務省令第一九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

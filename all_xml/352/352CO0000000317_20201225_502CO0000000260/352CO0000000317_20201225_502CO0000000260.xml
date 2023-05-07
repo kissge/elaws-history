@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="317" Year="52">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="317" Year="52" PromulgateMonth="12" PromulgateDay="01">
   <LawNum>昭和五十二年政令第三百十七号</LawNum>
   <LawBody>
-    <LawTitle>私的独占の禁止及び公正取引の確保に関する法律施行令</LawTitle>
+    <LawTitle Kana="してきどくせんのきんしおよびこうせいとりひきのかくほにかんするほうりつしこうれい" Abbrev="独禁法施行令,独占禁止法施行令" AbbrevKana="ど,ど">私的独占の禁止及び公正取引の確保に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第二条第七項、第七条の二第一項（同法第八条の三において準用する場合を含む。）、第九条の二第一項第一号、第二号及び第四号並びに第十八条の二第一項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -300,8 +300,7 @@
             <Table WritingMode="vertical">
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">
-                  </Sentence>
+                  <Sentence/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">業種</Sentence>

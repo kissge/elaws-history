@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="031" Year="60">
+<Law AmendmentId="431M60000008012" AmendmentNum="平成三十一年総務省令第十二号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="031" Year="60" PromulgateMonth="04" PromulgateDay="01">
   <LawNum>昭和六十年郵政省令第三十一号</LawNum>
   <LawBody>
-    <LawTitle>端末設備等規則</LawTitle>
+    <LawTitle Kana="たんまつせつびとうきそく" Abbrev="" AbbrevKana="">端末設備等規則</LawTitle>
     <EnactStatement>電気通信事業法（昭和五十九年法律第八十六号）第四十九条第一項及び第五十二条第一項の規定に基づき、端末設備等規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -67,7 +67,7 @@
         <Article Delete="false" Hide="false" Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則は、電気通信事業法（昭和五十九年法律第八十六号。以下「法」という。）第五十二条第一項及び第七十条第一項の規定に基づく技術基準を定めることを目的とする。</Sentence>
@@ -77,13 +77,13 @@
         <Article Delete="false" Hide="false" Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則において使用する用語は、法において使用する用語の例による。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">この規則の規定の解釈については、次の定義に従うものとする。</Sentence>
@@ -246,13 +246,13 @@
         <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（責任の分界）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">利用者の接続する端末設備（以下「端末設備」という。）は、事業用電気通信設備との責任の分界を明確にするため、事業用電気通信設備との間に分界点を有しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">分界点における接続の方式は、端末設備を電気通信回線ごとに事業用電気通信設備から容易に切り離せるものでなければならない。</Sentence>
@@ -265,7 +265,7 @@
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（漏えいする通信の識別禁止）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">端末設備は、事業用電気通信設備から漏えいする通信の内容を意図的に識別する機能を有してはならない。</Sentence>
@@ -275,7 +275,7 @@
         <Article Delete="false" Hide="false" Num="5">
           <ArticleCaption>（鳴音の発生防止）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">端末設備は、事業用電気通信設備との間で鳴音（電気的又は音響的結合により生ずる発振状態をいう。）を発生することを防止するために総務大臣が別に告示する条件を満たすものでなければならない。</Sentence>
@@ -285,11 +285,10 @@
         <Article Delete="false" Hide="false" Num="6">
           <ArticleCaption>（絶縁抵抗等）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">端末設備の機器は、その電源回路と<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体及びその電源回路と事業用電気通信設備との間に次の絶縁抵抗及び絶縁耐力を有しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">端末設備の機器は、その電源回路と<Ruby>筐<Rt>きよう</Rt></Ruby>体及びその電源回路と事業用電気通信設備との間に次の絶縁抵抗及び絶縁耐力を有しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -304,11 +303,10 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">端末設備の機器の金属製の台及び<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体は、接地抵抗が一〇〇オーム以下となるように接地しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">端末設備の機器の金属製の台及び<Ruby>筐<Rt>きよう</Rt></Ruby>体は、接地抵抗が一〇〇オーム以下となるように接地しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、安全な場所に危険のないように設置する場合にあつては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -316,7 +314,7 @@
         <Article Delete="false" Hide="false" Num="7">
           <ArticleCaption>（過大音響衝撃の発生防止）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">通話機能を有する端末設備は、通話中に受話器から過大な音響衝撃が発生することを防止する機能を備えなければならない。</Sentence>
@@ -326,7 +324,7 @@
         <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（配線設備等）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">利用者が端末設備を事業用電気通信設備に接続する際に使用する線路及び保安器その他の機器（以下「配線設備等」という。）は、次の各号により設置されなければならない。</Sentence>
@@ -360,7 +358,7 @@
         <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（端末設備内において電波を使用する端末設備）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">端末設備を構成する一の部分と他の部分相互間において電波を使用する端末設備は、次の各号の条件に適合するものでなければならない。</Sentence>
@@ -381,8 +379,7 @@
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">使用される無線設備は、一の<Ruby>筐<Rt>きよう</Rt>
-</Ruby>体に収められており、かつ、容易に開けることができないこと。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">使用される無線設備は、一の<Ruby>筐<Rt>きよう</Rt></Ruby>体に収められており、かつ、容易に開けることができないこと。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、総務大臣が別に告示するものについては、この限りでない。</Sentence>
               </ItemSentence>
             </Item>
@@ -396,7 +393,7 @@
           <Article Delete="false" Hide="false" Num="10">
             <ArticleCaption>（基本的機能）</ArticleCaption>
             <ArticleTitle>第十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アナログ電話端末の直流回路は、発信又は応答を行うとき閉じ、通信が終了したとき開くものでなければならない。</Sentence>
@@ -406,7 +403,7 @@
           <Article Delete="false" Hide="false" Num="11">
             <ArticleCaption>（発信の機能）</ArticleCaption>
             <ArticleTitle>第十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アナログ電話端末は、発信に関する次の機能を備えなければならない。</Sentence>
@@ -442,7 +439,7 @@
           <Article Delete="false" Hide="false" Num="12">
             <ArticleCaption>（選択信号の条件）</ArticleCaption>
             <ArticleTitle>第十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アナログ電話端末の選択信号は、次の条件に適合するものでなければならない。</Sentence>
@@ -464,7 +461,7 @@
           <Article Delete="false" Hide="false" Num="12_2">
             <ArticleCaption>（緊急通報機能）</ArticleCaption>
             <ArticleTitle>第十二条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アナログ電話端末であつて、通話の用に供するものは、電気通信番号規則別表第十二号に掲げる緊急通報番号を使用した警察機関、海上保安機関又は消防機関への通報（以下「緊急通報」という。）を発信する機能を備えなければならない。</Sentence>
@@ -474,7 +471,7 @@
           <Article Delete="false" Hide="false" Num="13">
             <ArticleCaption>（直流回路の電気的条件等）</ArticleCaption>
             <ArticleTitle>第十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">直流回路を閉じているときのアナログ電話端末の直流回路の電気的条件は、次のとおりでなければならない。</Sentence>
@@ -493,7 +490,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">直流回路を開いているときのアナログ電話端末の直流回路の電気的条件は、次のとおりでなければならない。</Sentence>
@@ -517,7 +514,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="3">
+            <Paragraph Hide="false" Num="3" OldStyle="false">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アナログ電話端末は、電気通信回線に対して直流の電圧を加えるものであつてはならない。</Sentence>
@@ -527,7 +524,7 @@
           <Article Delete="false" Hide="false" Num="14">
             <ArticleCaption>（送出電力）</ArticleCaption>
             <ArticleTitle>第十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アナログ電話端末の送出電力の許容範囲は、通話の用に供する場合を除き、別表第三号のとおりとする。</Sentence>
@@ -537,7 +534,7 @@
           <Article Delete="false" Hide="false" Num="15">
             <ArticleCaption>（漏話減衰量）</ArticleCaption>
             <ArticleTitle>第十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">複数の電気通信回線と接続されるアナログ電話端末の回線相互間の漏話減衰量は、一、五〇〇ヘルツにおいて七〇デシベル以上でなければならない。</Sentence>
@@ -547,7 +544,7 @@
           <Article Delete="false" Hide="false" Num="16">
             <ArticleCaption>（特殊なアナログ電話端末）</ArticleCaption>
             <ArticleTitle>第十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アナログ電話端末のうち、第十条から前条までの規定によることが著しく不合理なものであつて総務大臣が別に告示するものは、これらの規定にかかわらず、総務大臣が別に告示する条件に適合するものでなければならない。</Sentence>
@@ -560,7 +557,7 @@
           <Article Delete="false" Hide="false" Num="17">
             <ArticleCaption>（基本的機能）</ArticleCaption>
             <ArticleTitle>第十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、次の機能を備えなければならない。</Sentence>
@@ -588,7 +585,7 @@
           <Article Delete="false" Hide="false" Num="18">
             <ArticleCaption>（発信の機能）</ArticleCaption>
             <ArticleTitle>第十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、発信に関する次の機能を備えなければならない。</Sentence>
@@ -617,7 +614,7 @@
           <Article Delete="false" Hide="false" Num="19">
             <ArticleCaption>（送信タイミング）</ArticleCaption>
             <ArticleTitle>第十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、総務大臣が別に告示する条件に適合する送信タイミングで送信する機能を備えなければならない。</Sentence>
@@ -627,7 +624,7 @@
           <Article Delete="false" Hide="false" Num="20">
             <ArticleCaption>（ランダムアクセス制御）</ArticleCaption>
             <ArticleTitle>第二十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、総務大臣が別に告示する条件に適合するランダムアクセス制御（複数の移動電話端末からの送信が衝突した場合、再び送信が衝突することを避けるために各移動電話端末がそれぞれ不規則な遅延時間の後に再び送信することをいう。）を行う機能を備えなければならない。</Sentence>
@@ -637,7 +634,7 @@
           <Article Delete="false" Hide="false" Num="21">
             <ArticleCaption>（タイムアラインメント制御）</ArticleCaption>
             <ArticleTitle>第二十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、総務大臣が別に告示する条件に適合するタイムアラインメント制御（移動電話端末が、移動電話用設備（インターネットプロトコル移動電話用設備を除く。以下この節及び別表第四号において同じ。）から指示された値に従い送信タイミングを調整することをいう。）を行う機能を備えなければならない。</Sentence>
@@ -647,7 +644,7 @@
           <Article Delete="false" Hide="false" Num="22">
             <ArticleCaption>（位置登録制御）</ArticleCaption>
             <ArticleTitle>第二十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、位置登録制御（移動電話端末が、移動電話用設備に位置情報（移動電話端末の位置を示す情報をいう。以下この条において同じ。）の登録を行うことをいう。）に関する次の機能を備えなければならない。</Sentence>
@@ -670,7 +667,7 @@
           <Article Delete="false" Hide="false" Num="23">
             <ArticleCaption>（チヤネル切替指示に従う機能）</ArticleCaption>
             <ArticleTitle>第二十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、移動電話用設備からのチヤネルを指定する信号を受信した場合にあつては、指定されたチヤネルに切り替える機能を備えなければならない。</Sentence>
@@ -680,7 +677,7 @@
           <Article Delete="false" Hide="false" Num="24">
             <ArticleCaption>（受信レベル通知機能）</ArticleCaption>
             <ArticleTitle>第二十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、受信レベルの通知に関する次の機能を備えなければならない。</Sentence>
@@ -702,7 +699,7 @@
           <Article Delete="false" Hide="false" Num="25">
             <ArticleCaption>（送信停止指示に従う機能）</ArticleCaption>
             <ArticleTitle>第二十五条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、移動電話用設備からのチヤネルの切断を要求する信号を受信した場合にあつては、その確認をする信号を送出し、送信を停止する機能を備えなければならない。</Sentence>
@@ -712,7 +709,7 @@
           <Article Delete="false" Hide="false" Num="26">
             <ArticleCaption>（受信レベル等の劣化時の自動的な送信停止機能）</ArticleCaption>
             <ArticleTitle>第二十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、通信中の受信レベル又は伝送品質が著しく劣化した場合にあつては、自動的に送信を停止する機能を備えなければならない。</Sentence>
@@ -722,7 +719,7 @@
           <Article Delete="false" Hide="false" Num="27">
             <ArticleCaption>（故障時の自動的な送信停止機能）</ArticleCaption>
             <ArticleTitle>第二十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、故障により送信が継続的に行われる場合にあつては、自動的にその送信を停止する機能を備えなければならない。</Sentence>
@@ -732,7 +729,7 @@
           <Article Delete="false" Hide="false" Num="28">
             <ArticleCaption>（重要通信の確保のための機能）</ArticleCaption>
             <ArticleTitle>第二十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、重要通信を確保するため、移動電話用設備からの発信の規制を要求する信号を受信した場合にあつては、発信しない機能を備えなければならない。</Sentence>
@@ -742,7 +739,7 @@
           <Article Delete="false" Hide="false" Num="28_2">
             <ArticleCaption>（緊急通報機能）</ArticleCaption>
             <ArticleTitle>第二十八条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末であつて、通話の用に供するものは、緊急通報を発信する機能を備えなければならない。</Sentence>
@@ -752,7 +749,7 @@
           <Article Delete="false" Hide="false" Num="29">
             <ArticleCaption>（移動電話端末固有情報の変更を防止する機能）</ArticleCaption>
             <ArticleTitle>第二十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末は、移動電話端末固有情報（移動電話端末を特定するための情報であつて、チヤネルの設定に当たつて使用されるものをいう。以下同じ。）に関する次の機能を備えなければならない。</Sentence>
@@ -780,7 +777,7 @@
           <Article Delete="false" Hide="false" Num="30">
             <ArticleCaption>（アナログ電話端末等と通信する場合の送出電力）</ArticleCaption>
             <ArticleTitle>第三十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末の送出電力の許容範囲は、アナログ電話端末、又は自営電気通信設備であつて、アナログ電話用設備に接続される点において二線式の接続形式で接続されるもの（以下「アナログ電話端末等」という。）と通信する場合にあつては、通話の用に供する場合を除き、別表第四号のとおりとする。</Sentence>
@@ -790,7 +787,7 @@
           <Article Delete="false" Hide="false" Num="31">
             <ArticleCaption>（漏話減衰量）</ArticleCaption>
             <ArticleTitle>第三十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">複数の電気通信回線と接続される移動電話端末の回線相互間の漏話減衰量は、一、五〇〇ヘルツにおいて七〇デシベル以上でなければならない。</Sentence>
@@ -800,7 +797,7 @@
           <Article Delete="false" Hide="false" Num="32">
             <ArticleCaption>（特殊な移動電話端末）</ArticleCaption>
             <ArticleTitle>第三十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">移動電話端末のうち、第十七条から前条までの規定によることが著しく不合理なものであつて総務大臣が別に告示するものは、これらの規定にかかわらず、総務大臣が別に告示する条件に適合するものでなければならない。</Sentence>
@@ -813,7 +810,7 @@
           <Article Delete="false" Hide="false" Num="32_2">
             <ArticleCaption>（基本的機能）</ArticleCaption>
             <ArticleTitle>第三十二条の二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末は、次の機能を備えなければならない。</Sentence>
@@ -835,7 +832,7 @@
           <Article Delete="false" Hide="false" Num="32_3">
             <ArticleCaption>（発信の機能）</ArticleCaption>
             <ArticleTitle>第三十二条の三</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末は、発信に関する次の機能を備えなければならない。</Sentence>
@@ -864,7 +861,7 @@
           <Article Delete="false" Hide="false" Num="32_4">
             <ArticleCaption>（識別情報登録）</ArticleCaption>
             <ArticleTitle>第三十二条の四</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末のうち、識別情報（インターネットプロトコル電話端末を識別するための情報をいう。以下同じ。）の登録要求（インターネットプロトコル電話端末が、インターネットプロトコル電話用設備に識別情報の登録を行うための要求をいう。以下同じ。）を行うものは、識別情報の登録がなされない場合であつて、再び登録要求を行おうとするときは、次の機能を備えなければならない。</Sentence>
@@ -882,7 +879,7 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">前項の規定は、火災、盗難その他の非常の場合にあつては、適用しない。</Sentence>
@@ -892,7 +889,7 @@
           <Article Delete="false" Hide="false" Num="32_5">
             <ArticleCaption>（ふくそう通知機能）</ArticleCaption>
             <ArticleTitle>第三十二条の五</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末は、インターネットプロトコル電話用設備からふくそうが発生している旨の信号を受信した場合にその旨を利用者に通知するための機能を備えなければならない。</Sentence>
@@ -902,7 +899,7 @@
           <Article Delete="false" Hide="false" Num="32_6">
             <ArticleCaption>（緊急通報機能）</ArticleCaption>
             <ArticleTitle>第三十二条の六</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末であつて、通話の用に供するものは、緊急通報を発信する機能を備えなければならない。</Sentence>
@@ -912,13 +909,13 @@
           <Article Delete="false" Hide="false" Num="32_7">
             <ArticleCaption>（電気的条件等）</ArticleCaption>
             <ArticleTitle>第三十二条の七</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末は、総務大臣が別に告示する電気的条件及び光学的条件のいずれかの条件に適合するものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Hide="false" Num="2" OldStyle="false">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">インターネットプロトコル電話端末は、電気通信回線に対して直流の電圧を加えるものであつてはならない。</Sentence>
@@ -929,7 +926,7 @@
           <Article Delete="false" Hide="false" Num="32_8">
             <ArticleCaption>（アナログ電話端末等と通信する場合の送出電力）</ArticleCaption>
             <ArticleTitle>第三十二条の八</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末がアナログ電話端末等と通信する場合にあつては、通話の用に供する場合を除き、インターネットプロトコル電話用設備とアナログ電話用設備との接続点においてデジタル信号をアナログ信号に変換した送出電力は、別表第五号のとおりとする。</Sentence>
@@ -939,7 +936,7 @@
           <Article Delete="false" Hide="false" Num="32_9">
             <ArticleCaption>（特殊なインターネットプロトコル電話端末）</ArticleCaption>
             <ArticleTitle>第三十二条の九</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル電話端末のうち、第三十二条の二から前条までの規定によることが著しく不合理なものであつて総務大臣が別に告示するものは、これらの規定にかかわらず、総務大臣が別に告示する条件に適合するものでなければならない。</Sentence>
@@ -952,7 +949,7 @@
           <Article Delete="false" Hide="false" Num="32_10">
             <ArticleCaption>（基本的機能）</ArticleCaption>
             <ArticleTitle>第三十二条の十</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、次の機能を備えなければならない。</Sentence>
@@ -992,7 +989,7 @@
           <Article Delete="false" Hide="false" Num="32_11">
             <ArticleCaption>（発信の機能）</ArticleCaption>
             <ArticleTitle>第三十二条の十一</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、発信に関する次の機能を備えなければならない。</Sentence>
@@ -1021,7 +1018,7 @@
           <Article Delete="false" Hide="false" Num="32_12">
             <ArticleCaption>（送信タイミング）</ArticleCaption>
             <ArticleTitle>第三十二条の十二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、総務大臣が別に告示する条件に適合する送信タイミングで送信する機能を備えなければならない。</Sentence>
@@ -1031,7 +1028,7 @@
           <Article Delete="false" Hide="false" Num="32_13">
             <ArticleCaption>（ランダムアクセス制御）</ArticleCaption>
             <ArticleTitle>第三十二条の十三</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、総務大臣が別に告示する条件に適合するランダムアクセス制御（複数のインターネットプロトコル移動電話端末からの送信が衝突した場合、再び送信が衝突することを避けるために各インターネットプロトコル移動電話端末がそれぞれ不規則な遅延時間の後に再び送信することをいう。）を行う機能を備えなければならない。</Sentence>
@@ -1041,7 +1038,7 @@
           <Article Delete="false" Hide="false" Num="32_14">
             <ArticleCaption>（タイムアラインメント制御）</ArticleCaption>
             <ArticleTitle>第三十二条の十四</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、総務大臣が別に告示する条件に適合するタイムアラインメント制御（インターネットプロトコル移動電話端末が、インターネットプロトコル移動電話用設備から指示された値に従い送信タイミングを調整することをいう。）を行う機能を備えなければならない。</Sentence>
@@ -1051,7 +1048,7 @@
           <Article Delete="false" Hide="false" Num="32_15">
             <ArticleCaption>（位置登録制御）</ArticleCaption>
             <ArticleTitle>第三十二条の十五</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、総務大臣が別に告示する条件に適合する位置登録制御（インターネットプロトコル移動電話端末が、インターネットプロトコル移動電話用設備に位置情報（インターネットプロトコル移動電話端末の位置を示す情報をいう。）の登録を行うことをいう。）を行う機能を備えなければならない。</Sentence>
@@ -1061,7 +1058,7 @@
           <Article Delete="false" Hide="false" Num="32_16">
             <ArticleCaption>（チヤネル切替指示に従う機能）</ArticleCaption>
             <ArticleTitle>第三十二条の十六</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、インターネットプロトコル移動電話用設備からのチヤネルを指定する信号を受信した場合にあつては、指定されたチヤネルに切り替える機能を備えなければならない。</Sentence>
@@ -1071,7 +1068,7 @@
           <Article Delete="false" Hide="false" Num="32_17">
             <ArticleCaption>（受信レベル通知機能）</ArticleCaption>
             <ArticleTitle>第三十二条の十七</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、総務大臣が別に告示する条件に適合する受信レベルの通知に関する機能を備えなければならない。</Sentence>
@@ -1081,7 +1078,7 @@
           <Article Delete="false" Hide="false" Num="32_18">
             <ArticleCaption>（送信停止指示に従う機能）</ArticleCaption>
             <ArticleTitle>第三十二条の十八</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、インターネットプロトコル移動電話用設備からのチヤネルの切断を要求する信号を受信した場合にあつては、その確認をする信号を送出し、送信を停止する機能を備えなければならない。</Sentence>
@@ -1091,7 +1088,7 @@
           <Article Delete="false" Hide="false" Num="32_19">
             <ArticleCaption>（受信レベル等の劣化時の自動的な送信停止機能）</ArticleCaption>
             <ArticleTitle>第三十二条の十九</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、通信中の受信レベル又は伝送品質が著しく劣化した場合にあつては、自動的に送信を停止する機能を備えなければならない。</Sentence>
@@ -1101,7 +1098,7 @@
           <Article Delete="false" Hide="false" Num="32_20">
             <ArticleCaption>（故障時の自動的な送信停止機能）</ArticleCaption>
             <ArticleTitle>第三十二条の二十</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、故障により送信が継続的に行われる場合にあつては、自動的にその送信を停止する機能を備えなければならない。</Sentence>
@@ -1111,7 +1108,7 @@
           <Article Delete="false" Hide="false" Num="32_21">
             <ArticleCaption>（重要通信確保のための機能）</ArticleCaption>
             <ArticleTitle>第三十二条の二十一</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、重要通信を確保するため、インターネットプロトコル移動電話用設備からの発信の規制を要求する信号を受信した場合にあつては、発信しない機能を備えなければならない。</Sentence>
@@ -1121,7 +1118,7 @@
           <Article Delete="false" Hide="false" Num="32_22">
             <ArticleCaption>（ふくそう通知機能）</ArticleCaption>
             <ArticleTitle>第三十二条の二十二</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、インターネットプロトコル移動電話用設備からふくそうが発生している旨の信号を受信した場合にその旨を利用者に通知するための機能を備えなければならない。</Sentence>
@@ -1131,7 +1128,7 @@
           <Article Delete="false" Hide="false" Num="32_23">
             <ArticleCaption>（緊急通報機能）</ArticleCaption>
             <ArticleTitle>第三十二条の二十三</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末であつて、通話の用に供するものは、緊急通報を発信する機能を備えなければならない。</Sentence>
@@ -1141,7 +1138,7 @@
           <Article Delete="false" Hide="false" Num="32_24">
             <ArticleCaption>（インターネットプロトコル移動電話端末固有情報の変更を防止する機能）</ArticleCaption>
             <ArticleTitle>第三十二条の二十四</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末は、インターネットプロトコル移動電話端末固有情報（インターネットプロトコル移動電話端末を特定するための情報であつて、チヤネルの設定に当たつて使用されるものをいう。以下同じ。）に関する次の機能を備えなければならない。</Sentence>
@@ -1169,7 +1166,7 @@
           <Article Delete="false" Hide="false" Num="32_25">
             <ArticleCaption>（特殊なインターネットプロトコル移動電話端末）</ArticleCaption>
             <ArticleTitle>第三十二条の二十五</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Hide="false" Num="1" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">インターネットプロトコル移動電話端末のうち、第三十二条の十から前条までの規定によることが著しく不合理なものであつて総務大臣が別に告示するものは、これらの規定にかかわらず、総務大臣が別に告示する条件に適合するものでなければならない。</Sentence>
@@ -1183,7 +1180,7 @@
         <Article Delete="false" Hide="false" Num="33">
           <ArticleCaption>（無線呼出端末固有情報の変更を防止する機能）</ArticleCaption>
           <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">無線呼出端末は、無線呼出端末固有情報（無線呼出端末を特定するための情報であつて、無線呼出用設備からの呼出しに当たつて使用されるものをいう。以下同じ。）に関する次の機能を備えなければならない。</Sentence>
@@ -1211,7 +1208,7 @@
         <Article Delete="false" Hide="false" Num="34">
           <ArticleCaption>（特殊な無線呼出端末）</ArticleCaption>
           <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">無線呼出端末のうち、前条の規定によることが著しく不合理なものであつて総務大臣が別に告示するものは、同条の規定にかかわらず、総務大臣が別に告示する条件に適合するものでなければならない。</Sentence>
@@ -1224,7 +1221,7 @@
         <Article Delete="false" Hide="false" Num="34_2">
           <ArticleCaption>（基本的機能）</ArticleCaption>
           <ArticleTitle>第三十四条の二</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">総合デジタル通信端末は、次の機能を備えなければならない。</Sentence>
@@ -1247,7 +1244,7 @@
         <Article Delete="false" Hide="false" Num="34_3">
           <ArticleCaption>（発信の機能）</ArticleCaption>
           <ArticleTitle>第三十四条の三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">総合デジタル通信端末は、発信に関する次の機能を備えなければならない。</Sentence>
@@ -1276,7 +1273,7 @@
         <Article Delete="false" Hide="false" Num="34_4">
           <ArticleCaption>（緊急通報機能）</ArticleCaption>
           <ArticleTitle>第三十四条の四</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">総合デジタル通信端末であつて、通話の用に供するものは、緊急通報を発信する機能を備えなければならない。</Sentence>
@@ -1286,13 +1283,13 @@
         <Article Delete="false" Hide="false" Num="34_5">
           <ArticleCaption>（電気的条件等）</ArticleCaption>
           <ArticleTitle>第三十四条の五</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">総合デジタル通信端末は、総務大臣が別に告示する電気的条件及び光学的条件のいずれかの条件に適合するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">総合デジタル通信端末は、電気通信回線に対して直流の電圧を加えるものであつてはならない。</Sentence>
@@ -1302,7 +1299,7 @@
         <Article Delete="false" Hide="false" Num="34_6">
           <ArticleCaption>（アナログ電話端末等と通信する場合の送出電力）</ArticleCaption>
           <ArticleTitle>第三十四条の六</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">総合デジタル通信端末がアナログ電話端末等と通信する場合にあつては、通話の用に供する場合を除き、総合デジタル通信用設備とアナログ電話用設備との接続点においてデジタル信号をアナログ信号に変換した送出電力は、別表第五号のとおりとする。</Sentence>
@@ -1312,7 +1309,7 @@
         <Article Delete="false" Hide="false" Num="34_7">
           <ArticleCaption>（特殊な総合デジタル通信端末）</ArticleCaption>
           <ArticleTitle>第三十四条の七</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">総合デジタル通信端末のうち、第三十四条の二から前条までの規定によることが著しく不合理なものであつて総務大臣が別に告示するものは、これらの規定にかかわらず、総務大臣が別に告示する条件に適合するものでなければならない。</Sentence>
@@ -1325,13 +1322,13 @@
         <Article Delete="false" Hide="false" Num="34_8">
           <ArticleCaption>（電気的条件等）</ArticleCaption>
           <ArticleTitle>第三十四条の八</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">専用通信回線設備等端末は、総務大臣が別に告示する電気的条件及び光学的条件のいずれかの条件に適合するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Hide="false" Num="2" OldStyle="false">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">専用通信回線設備等端末は、電気通信回線に対して直流の電圧を加えるものであつてはならない。</Sentence>
@@ -1342,7 +1339,7 @@
         <Article Delete="false" Hide="false" Num="34_9">
           <ArticleCaption>（漏話減衰量）</ArticleCaption>
           <ArticleTitle>第三十四条の九</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">複数の電気通信回線と接続される専用通信回線設備等端末の回線相互間の漏話減衰量は、一、五〇〇ヘルツにおいて七〇デシベル以上でなければならない。</Sentence>
@@ -1390,7 +1387,7 @@
         <Article Delete="false" Hide="false" Num="35">
           <ArticleCaption>（特殊な端末設備）</ArticleCaption>
           <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">電話用設備、無線呼出用設備、総合デジタル通信用設備、専用通信回線設備又はデジタルデータ伝送用設備に接続される端末設備のうち、電気通信事業者が総務大臣の認可を受けて定める端末設備の接続の技術的条件によることが適当であるものについては、第四章から前章までの規定にかかわらず、その技術的条件によることができる。</Sentence>
@@ -1403,7 +1400,7 @@
         <Article Delete="false" Hide="false" Num="36">
           <ArticleCaption>（自営電気通信設備）</ArticleCaption>
           <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三条から前条（第八条第三号を除く。）までの規定は、自営電気通信設備について準用する。</Sentence>
@@ -1415,7 +1412,7 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和六十年四月一日から施行する。</Sentence>
@@ -1424,7 +1421,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六〇年七月二〇日郵政省令第五九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1433,7 +1430,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六二年九月二九日郵政省令第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、昭和六十二年十月一日から施行する。</Sentence>
@@ -1442,7 +1439,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成五年一一月二九日郵政省令第六四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1452,7 +1449,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成六年一一月二四日郵政省令第七八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1462,21 +1459,21 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一〇年三月一七日郵政省令第一三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成十年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令による改正前の端末設備等規則（以下「旧令」という。）第十二条第二号、第十三条第一項第一号、同項第二号、第十四条又は第十五条の条件に適合するアナログ電話端末であつて、この省令の施行の日前に電気通信事業法（以下「法」という。）第五十条の端末機器技術基準適合認定（以下「技術基準適合認定」という。）、法第五十一条の端末設備の接続の検査（以下「端末設備の接続の検査」という。）又は法第五十二条の自営電気通信設備の接続の検査（以下「自営電気通信設備の接続の検査」という。）を受けたものの押しボタンダイヤル信号の条件、直流回路を閉じているときの直流回路の直流抵抗値、送出電力の許容範囲又は漏話減衰量については、この省令による改正後の端末設備等規則（以下「新令」という。）第十二条第二号、第十三条第一項第一号、第十四条又は第十五条の規定にかかわらず、なお従前の例によることとし、この省令の施行の日以後平成十一年三月三十一日までに技術基準適合認定、端末設備の接続の検査又は自営電気通信設備の接続の検査を受けるものの押しボタンダイヤル信号の条件、直流回路を閉じているときの直流回路の直流抵抗値、送出電力の許容範囲又は漏話減衰量については、新令第十二条第二号、第十三条第一項第一号、第十四条又は第十五条の規定にかかわらず、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">旧令第三十一条の条件に適合する移動電話端末であつて、この省令の施行の日前に技術基準適合認定、端末設備の接続の検査又は自営電気通信設備の接続の検査を受けたものの漏話減衰量については、新令第三十一条の規定にかかわらず、なお従前の例によることとし、この省令の施行の日以後平成十一年三月三十一日までに技術基準適合認定、端末設備の接続の検査又は自営電気通信設備の接続の検査を受けるものの漏話減衰量については、新令第三十一条の規定にかかわらず、なお従前の例によることができる。</Sentence>
@@ -1488,7 +1485,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
@@ -1501,7 +1498,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
@@ -1511,7 +1508,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一六年一月二六日総務省令第一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律（平成十五年法律第百二十五号）の施行の日（平成十六年一月二十六日）から施行する。</Sentence>
@@ -1523,7 +1520,7 @@
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律（以下「改正法」という。）附則第一条第三号に掲げる規定の施行の日から施行する。</Sentence>
@@ -1533,27 +1530,27 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二二年一〇月二五日総務省令第九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成二十三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令による改正前の端末設備等規則の条件に適合する端末設備又は自営電気通信設備であって、この省令の施行の日前に電気通信事業法（以下「法」という。）第五十三条第一項に規定する技術基準適合認定、法第五十六条第一項に規定する設計認証、法第六十九条第一項の規定による端末設備の接続の検査若しくは法第七十条第二項の規定による自営電気通信設備の接続の検査（以下「技術基準適合認定等」という。）を受け、又は法第六十三条第三項の規定による技術基準適合自己確認の届出（以下「技術基準適合自己確認の届出」という。）を行ったものの技術基準については、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="3">
+      <Paragraph Hide="false" Num="3" OldStyle="false">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の日から平成二十四年三月三十一日までに技術基準適合認定等を受け、又は技術基準適合自己確認の届出を行う端末設備又は自営電気通信設備の技術基準については、この省令による改正後の端末設備等規則（以下「新規則」という。）の規定にかかわらず、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="4">
+      <Paragraph Hide="false" Num="4" OldStyle="false">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令の施行の日から平成二十五年三月三十一日までに技術基準適合認定等を受け、又は技術基準適合自己確認の届出を行う端末設備又は自営電気通信設備の技術基準については、新規則第三十二条の四及び第三十二条の五の規定は、適用しないことができる。</Sentence>
@@ -1562,7 +1559,7 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二五年三月二八日総務省令第三二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
@@ -1572,14 +1569,14 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三一年三月一日総務省令第一二号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令中、第一条の規定は平成三十二年四月一日から、第二条の規定は公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2">
+      <Paragraph Hide="false" Num="2" OldStyle="false">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
@@ -1591,7 +1588,7 @@
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令は、電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律（平成三十年法律第二十四号。以下「改正法」という。）附則第一条第二号に掲げる規定の施行の日から施行する。</Sentence>
@@ -1676,6 +1673,11 @@
               <ItemSentence>
                 <Sentence WritingMode="vertical">ダイヤルパルスメーク率とは、ダイヤルパルスの接（メーク）と断（ブレーク）の時間の割合をいい、次式で定義するものとする。</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence WritingMode="vertical">ダイヤルパルスメーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</Sentence>
+                </ListSentence>
+              </List>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>３</ItemTitle>
@@ -1685,11 +1687,6 @@
             </Item>
           </Remarks>
         </TableStruct>
-        <List>
-          <ListSentence>
-            <Sentence WritingMode="vertical">ダイヤルパルスメーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</Sentence>
-          </ListSentence>
-        </List>
       </Item>
     </AppdxTable>
     <AppdxTable>

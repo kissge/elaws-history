@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="21" Year="17" PromulgateMonth="07" PromulgateDay="01">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="021" Year="17" PromulgateMonth="02" PromulgateDay="24">
   <LawNum>平成十七年厚生労働省令第二十一号</LawNum>
   <LawBody>
     <LawTitle Kana="いしわたしょうがいよぼうきそく" Abbrev="石綿則" AbbrevKana="い">石綿障害予防規則</LawTitle>
@@ -55,7 +55,7 @@
       </TOCChapter>
       <TOCChapter Num="9">
         <ChapterTitle>第九章　報告</ChapterTitle>
-        <ArticleRange>（第四十九条）</ArticleRange>
+        <ArticleRange>（第四十九条・第五十条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -98,7 +98,8 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この省令において「切断等」とは、切断、破砕、<Ruby>穿<Rt>せん</Rt></Ruby>孔、研磨等をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この省令において「切断等」とは、切断、破砕、<Ruby>穿<Rt>せん</Rt>
+                </Ruby>孔、研磨等をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -239,7 +240,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業者は、事前調査のうち、建築物に係るものについては、前項各号に規定する場合を除き、適切に当該調査を実施するために必要な知識を有する者として厚生労働大臣が定めるものに行わせなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、事前調査のうち、建築物及び船舶に係るものについては、前項各号に規定する場合を除き、適切に当該調査を実施するために必要な知識を有する者として厚生労働大臣が定めるものに行わせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -311,7 +312,7 @@
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">事前調査のうち、建築物に係るもの（第三項第三号に掲げる方法によるものを除く。）を行った者（分析調査を行った場合にあっては、当該分析調査を行った者を含む。）の氏名及び第四項の厚生労働大臣が定める者であることを証明する書類（分析調査を行った場合にあっては、前項の厚生労働大臣が定める者であることを証明する書類を含む。）の写し</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">事前調査のうち、建築物及び船舶に係るもの（第三項第三号に掲げる方法によるものを除く。）を行った者（分析調査を行った場合にあっては、当該分析調査を行った者を含む。）の氏名及び第四項の厚生労働大臣が定める者であることを証明する書類（分析調査を行った場合にあっては、前項の厚生労働大臣が定める者であることを証明する書類を含む。）の写し</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
@@ -324,7 +325,7 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業者は、解体等の作業を行う作業場には、次の事項を、作業に従事する労働者が見やすい箇所に掲示するとともに、次条第一項の作業を行う作業場には、前項の規定による記録の写しを備え付けなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、解体等の作業を行う作業場には、次の事項を、見やすい箇所に掲示するとともに、次条第一項の作業を行う作業場には、前項の規定による記録の写しを備え付けなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -410,6 +411,12 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">工作物（石綿等が使用されているおそれが高いものとして厚生労働大臣が定めるものに限る。）の解体工事又は改修工事（当該工事の請負代金の額が百万円以上であるものに限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">船舶（総トン数二十トン以上の船舶に限る。）の解体工事又は改修工事</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -598,15 +605,22 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、成形された材料であって石綿等が使用されているもの（石綿含有保温材等を除く。次項において「石綿含有成形品」という。）を建築物、工作物又は船舶から除去する作業においては、切断等以外の方法により当該作業を実施しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、成形された材料であって石綿等が使用されているもの（石綿含有保温材等を除く。第三項において「石綿含有成形品」という。）を建築物、工作物又は船舶から除去する作業においては、切断等以外の方法により当該作業を実施しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、切断等以外の方法により当該作業を実施することが技術上困難なときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、前項ただし書の場合において、石綿含有成形品のうち特に石綿等の粉じんが発散しやすいものとして厚生労働大臣が定めるものを切断等の方法により除去する作業を行うときは、次に掲げる措置を講じなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該措置と同等以上の効果を有する措置を講じたときは、この限りでない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、前項の作業の一部を請負人に請け負わせるときは、当該請負人に対し、切断等以外の方法により当該作業を実施する必要がある旨を周知させなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項ただし書の場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、第一項ただし書の場合において、石綿含有成形品のうち特に石綿等の粉じんが発散しやすいものとして厚生労働大臣が定めるものを切断等の方法により除去する作業を行うときは、次に掲げる措置を講じなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該措置（第一号及び第二号に掲げる措置に限る。）と同等以上の効果を有する措置を講じたときは、第一号及び第二号の措置については、この限りでない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -620,6 +634,12 @@
                   <Sentence Num="1" WritingMode="vertical">当該作業中は、当該石綿含有成形品を常時湿潤な状態に保つこと。</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該作業の一部を請負人に請け負わせるときは、当該請負人に対し、前二号に掲げる措置を講ずる必要がある旨を周知させること。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="6_3">
@@ -628,7 +648,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第二項の規定は、事業者が建築物、工作物又は船舶の壁、柱、天井等に用いられた石綿含有仕上げ塗材を電動工具を使用して除去する作業に労働者を従事させる場合について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、事業者が建築物、工作物又は船舶の壁、柱、天井等に用いられた石綿含有仕上げ塗材を電動工具を使用して除去する作業に労働者を従事させる場合及び当該作業の一部を請負人に請け負わせる場合について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -694,23 +714,29 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業者は、その労働者を就業させる建築物若しくは船舶又は当該建築物若しくは船舶に設置された工作物（次項及び第四項に規定するものを除く。）に吹き付けられた石綿等又は張り付けられた石綿含有保温材等が損傷、劣化等により石綿等の粉じんを発散させ、及び労働者がその粉じんにばく露するおそれがあるときは、当該吹き付けられた石綿等又は石綿含有保温材等の除去、封じ込め、囲い込み等の措置を講じなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、その労働者を就業させる建築物若しくは船舶又は当該建築物若しくは船舶に設置された工作物（次項及び第五項に規定するものを除く。）に吹き付けられた石綿等又は張り付けられた石綿含有保温材等が損傷、劣化等により石綿等の粉じんを発散させ、及び労働者がその粉じんにばく露するおそれがあるときは、当該吹き付けられた石綿等又は石綿含有保温材等の除去、封じ込め、囲い込み等の措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業者は、その労働者を臨時に就業させる建築物若しくは船舶又は当該建築物若しくは船舶に設置された工作物（第四項に規定するものを除く。）に吹き付けられた石綿等又は張り付けられた石綿含有保温材等が損傷、劣化等により石綿等の粉じんを発散させ、及び労働者がその粉じんにばく露するおそれがあるときは、労働者に呼吸用保護具及び作業衣又は保護衣を使用させなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、その労働者を臨時に就業させる建築物若しくは船舶又は当該建築物若しくは船舶に設置された工作物（第五項に規定するものを除く。）に吹き付けられた石綿等又は張り付けられた石綿含有保温材等が損傷、劣化等により石綿等の粉じんを発散させ、及び労働者がその粉じんにばく露するおそれがあるときは、労働者に呼吸用保護具及び作業衣又は保護衣を使用させなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">労働者は、事業者から前項の保護具等の使用を命じられたときは、これを使用しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、前項のおそれがある場所における作業の一部を請負人に請け負わせる場合であって、当該請負人が当該場所で臨時に就業するときは、当該請負人に対し、呼吸用保護具及び作業衣又は保護衣を使用する必要がある旨を周知させなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">労働者は、事業者から第二項の保護具等の使用を命じられたときは、これを使用しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">法第三十四条の建築物貸与者は、当該建築物の貸与を受けた二以上の事業者が共用する廊下の壁等に吹き付けられた石綿等又は張り付けられた石綿含有保温材等が損傷、劣化等により石綿等の粉じんを発散させ、及び労働者がその粉じんにばく露するおそれがあるときは、第一項に規定する措置を講じなければならない。</Sentence>
               </ParagraphSentence>
@@ -757,7 +783,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">石綿等の切断等の作業（第六条の二第二項に規定する作業を除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">石綿等の切断等の作業（第六条の二第三項に規定する作業を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -781,7 +807,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前各号に掲げる作業、第六条の二第二項に規定する作業又は第六条の三に規定する作業（以下「石綿等の切断等の作業等」という。）において発散した石綿等の粉じんの掃除の作業</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げる作業、第六条の二第三項に規定する作業又は第六条の三に規定する作業（以下「石綿等の切断等の作業等」という。）において発散した石綿等の粉じんの掃除の作業</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -791,26 +817,45 @@
                 <Sentence Num="1" WritingMode="vertical">事業者は、石綿等の切断等の作業等を行う場所に、石綿等の切りくず等を入れるためのふたのある容器を備えなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、第一項各号のいずれかに掲げる作業の一部を請負人に請け負わせるときは、当該請負人に対し、石綿等を湿潤な状態のものとする必要がある旨を周知させなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項ただし書の場合は、除じん性能を有する電動工具の使用その他の石綿等の粉じんの発散を防止する措置を講ずるように努めなければならない旨を周知させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="14">
             <ArticleTitle>第十四条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業者は、石綿等の切断等の作業等に労働者を従事させるときは、当該労働者に呼吸用保護具（第六条第二項第一号の規定により隔離を行った作業場所における同条第一項第一号に掲げる作業（除去の作業に限る。第三十五条の二第二項において「吹付石綿等除去作業」という。）に労働者を従事させるときは、電動ファン付き呼吸用保護具又はこれと同等以上の性能を有する空気呼吸器、酸素呼吸器若しくは送気マスク（同項において「電動ファン付き呼吸用保護具等」という。）に限る。）を使用させなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、石綿等の切断等の作業等に労働者を従事させるときは、当該労働者に呼吸用保護具（第六条第二項第一号の規定により隔離を行った作業場所における同条第一項第一号に掲げる作業（除去の作業に限る。次項及び第三十五条の二第二項において「吹付石綿等除去作業」という。）に労働者を従事させるときは、電動ファン付き呼吸用保護具又はこれと同等以上の性能を有する空気呼吸器、酸素呼吸器若しくは送気マスク（次項及び第三十五条の二第二項において「電動ファン付き呼吸用保護具等」という。）に限る。）を使用させなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、石綿等の切断等の作業等に労働者を従事させるときは、当該労働者に作業衣を使用させなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該労働者に保護衣を使用させるときは、この限りでない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、石綿等の切断等の作業等の一部を請負人に請け負わせるときは、当該請負人に対し、呼吸用保護具（吹付石綿等除去作業の一部を請負人に請け負わせるときは、電動ファン付き呼吸用保護具等に限る。）を使用する必要がある旨を周知させなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">労働者は、事業者から前二項の保護具等の使用を命じられたときは、これを使用しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、石綿等の切断等の作業等に労働者を従事させるときは、当該労働者に作業衣を使用させなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該労働者に保護衣を使用させるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、石綿等の切断等の作業等の一部を請負人に請け負わせるときは、当該請負人に対し、作業衣又は保護衣を使用する必要がある旨を周知させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">労働者は、事業者から第一項及び第三項の保護具等の使用を命じられたときは、これを使用しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -820,7 +865,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業者は、石綿等を取り扱い（試験研究のため使用する場合を含む。以下同じ。）、若しくは試験研究のため製造する作業場又は石綿分析用試料等を製造する作業場には、関係者以外の者が立ち入ることを禁止し、かつ、その旨を見やすい箇所に表示しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、石綿等を取り扱い（試験研究のため使用する場合を含む。以下同じ。）、若しくは試験研究のため製造する作業場又は石綿分析用試料等を製造する作業場には、当該作業場において作業に従事する者以外の者が立ち入ることについて、禁止する旨を見やすい箇所に表示することその他の方法により禁止するとともに、表示以外の方法により禁止したときは、当該作業場が立入禁止である旨を見やすい箇所に表示しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -894,13 +939,19 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、第十二条第一項の規定により設ける局所排気装置又はプッシュプル型換気装置については、石綿等に係る作業が行われている間、厚生労働大臣が定める要件を満たすように稼働させなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、第十二条第一項の規定により設ける局所排気装置又はプッシュプル型換気装置については、労働者が石綿等に係る作業に従事する間、厚生労働大臣が定める要件を満たすように稼働させなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、前項の局所排気装置又はプッシュプル型換気装置を稼働させるときは、バッフルを設けて換気を妨害する気流を排除する等当該装置を有効に稼働させるため必要な措置を講じなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、前項の作業の一部を請負人に請け負わせるときは、当該請負人が当該作業に従事する間（労働者が当該作業に従事するときを除く。）、同項の局所排気装置又はプッシュプル型換気装置を同項の厚生労働大臣が定める要件を満たすように稼働させること等について配慮しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、前二項の局所排気装置又はプッシュプル型換気装置の稼働時においては、バッフルを設けて換気を妨害する気流を排除する等当該装置を有効に稼働させるため必要な措置を講じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -915,38 +966,38 @@
             <TableStruct>
               <Table WritingMode="vertical">
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">粉じんの粒径</Sentence>
                     <Sentence Num="2" WritingMode="vertical">（単位　マイクロメートル）</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">除じん方式</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">五未満</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">ろ過除じん方式</Sentence>
                     <Sentence Num="2" WritingMode="vertical">電気除じん方式</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">五以上二十未満</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">スクラバによる除じん方式</Sentence>
                     <Sentence Num="2" WritingMode="vertical">ろ過除じん方式</Sentence>
                     <Sentence Num="3" WritingMode="vertical">電気除じん方式</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">二十以上</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">マルチサイクロン（処理風量が毎分二十立方メートル以内ごとに一つのサイクロンを設けたものをいう。）による除じん方式</Sentence>
                     <Sentence Num="2" WritingMode="vertical">スクラバによる除じん方式</Sentence>
                     <Sentence Num="3" WritingMode="vertical">ろ過除じん方式</Sentence>
@@ -954,7 +1005,7 @@
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                     <Sentence Num="1" WritingMode="vertical">備考　この表における粉じんの粒径は、重量法で測定した粒径分布において最大頻度を示す粒径をいう。</Sentence>
                   </TableColumn>
                 </TableRow>
@@ -1368,7 +1419,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者は、第一項の作業に従事したときは、同項の休憩室に入る前に、作業衣等に付着した物を除去しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の作業に従事した者は、同項の休憩室に入る前に、作業衣等に付着した物を除去しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1440,6 +1491,12 @@
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、廃棄のため、容器等に梱包したときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、前項の作業の一部を請負人に請け負わせるときは、当該請負人に対し、当該作業に使用した器具、工具、足場等について、廃棄のため、容器等に梱包したときを除き、付着した物を除去した後でなければ作業場外に持ち出してはならない旨を周知させなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="33">
           <ArticleCaption>（喫煙等の禁止）</ArticleCaption>
@@ -1447,13 +1504,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、石綿等を取り扱い、若しくは試験研究のため製造する作業場又は石綿分析用試料等を製造する作業場で労働者が喫煙し、又は飲食することを禁止し、かつ、その旨を当該作業場の見やすい箇所に表示しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、石綿等を取り扱い、若しくは試験研究のため製造する作業場又は石綿分析用試料等を製造する作業場における作業に従事する者の喫煙又は飲食について、禁止する旨を見やすい箇所に表示することその他の方法により禁止するとともに、表示以外の方法により禁止したときは、当該作業場において喫煙又は飲食が禁止されている旨を当該作業場の見やすい箇所に表示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者は、前項の作業場で喫煙し、又は飲食してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の作業場において作業に従事する者は、当該作業場で喫煙し、又は飲食してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1463,7 +1520,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、石綿等を取り扱い、若しくは試験研究のため製造する作業場又は石綿分析用試料等を製造する作業場には、次の事項を、作業に従事する労働者が見やすい箇所に掲示しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、石綿等を取り扱い、若しくは試験研究のため製造する作業場又は石綿分析用試料等を製造する作業場には、次の事項を、見やすい箇所に掲示しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1474,7 +1531,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">石綿の人体に及ぼす作用</Sentence>
+                <Sentence Num="1" WritingMode="vertical">石綿により生ずるおそれのある疾病の種類及びその症状</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1486,7 +1543,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">使用すべき保護具</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該作業場においては保護具等を使用しなければならない旨及び使用すべき保護具等</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1549,7 +1606,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、前項の記録を作成するために必要である場合は、当該記録の作成者又は石綿使用建築物等解体等作業を行う仕事の発注者の労働者（いずれも呼吸用保護具（吹付石綿等除去作業が行われている場所に当該者を立ち入らせるときは、電動ファン付き呼吸用保護具等に限る。）及び作業衣又は保護衣を着用する者に限る。）を第六条第二項第一号及び第六条の二第二項第一号（第六条の三の規定により準用する場合を含む。）の規定により隔離された作業場所に立ち入らせることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、前項の記録を作成するために必要である場合は、当該記録の作成者又は石綿使用建築物等解体等作業を行う仕事の発注者の労働者（いずれも呼吸用保護具（吹付石綿等除去作業が行われている場所に当該者を立ち入らせるときは、電動ファン付き呼吸用保護具等に限る。）及び作業衣又は保護衣を着用する者に限る。）を第六条第二項第一号及び第六条の二第三項第一号（第六条の三の規定により準用する場合を含む。）の規定により隔離された作業場所に立ち入らせることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1672,7 +1729,13 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、事業者は、第一項の場所については、労働者に有効な呼吸用保護具を使用させるほか、健康診断の実施その他労働者の健康の保持を図るため必要な措置を講じなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、第一項の場所については、労働者に有効な呼吸用保護具を使用させるほか、健康診断の実施その他労働者の健康の保持を図るため必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、第一項の場所において作業に従事する者（労働者を除く。）に対し、同項の場所については、有効な呼吸用保護具を使用する必要がある旨を周知させなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1741,7 +1804,8 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">胸部のエックス線直接撮影による検査の結果、異常な陰影（石綿肺による線維増殖性の変化によるものを除く。）がある場合で、医師が必要と認めるときは、特殊なエックス線撮影による検査、<Ruby>喀痰<Rt>かくたん</Rt></Ruby>の細胞診又は気管支鏡検査</Sentence>
+                <Sentence Num="1" WritingMode="vertical">胸部のエックス線直接撮影による検査の結果、異常な陰影（石綿肺による線維増殖性の変化によるものを除く。）がある場合で、医師が必要と認めるときは、特殊なエックス線撮影による検査、<Ruby>喀痰<Rt>かくたん</Rt>
+                  </Ruby>の細胞診又は気管支鏡検査</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1833,14 +1897,26 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、第十条第二項、第十四条第一項及び第二項、第三十五条の二第二項、第四十四条並びに第四十八条第六号（第四十八条の四において準用する場合を含む。）に規定する保護具等が使用された場合には、他の衣服等から隔離して保管しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、第十条第二項、第十四条第一項及び第三項、第三十五条の二第二項、第三十八条第三項、第四十四条並びに第四十八条第六号（第四十八条の四において準用する場合を含む。次項において同じ。）に規定する保護具等が使用された場合には、他の衣服等から隔離して保管しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">事業者及び労働者は、前項の保護具等について、付着した物を除去した後でなければ作業場外に持ち出してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、労働者以外の者が第十条第三項、第十四条第二項及び第四項、第三十八条第四項並びに第四十八条第六号に規定する保護具等を使用したときは、当該者に対し、他の衣服等から隔離して保管する必要がある旨を周知させるとともに、必要に応じ、当該保護具等を使用した者（労働者を除く。）に対し他の衣服等から隔離して保管する場所を提供する等適切に保管が行われるよう必要な配慮をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">事業者及び労働者は、第一項の保護具等について、付着した物を除去した後でなければ作業場外に持ち出してはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、廃棄のため、容器等に梱包したときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、第二項の保護具等を使用した者（労働者を除く。）に対し、当該保護具等であって、廃棄のため容器等に梱包されていないものについては、付着した物を除去した後でなければ作業場外に持ち出してはならない旨を周知させなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1848,8 +1924,72 @@
       <Chapter Num="8">
         <ChapterTitle>第八章　製造等</ChapterTitle>
         <Article Num="46_2">
-          <ArticleCaption>（令第十六条第一項第四号の厚生労働省令で定めるもの等）</ArticleCaption>
+          <ArticleCaption>（石綿を含有するおそれのある製品の輸入時の措置）</ArticleCaption>
           <ArticleTitle>第四十六条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">石綿をその重量の〇・一パーセントを超えて含有するおそれのある製品であって厚生労働大臣が定めるものを輸入しようとする者（当該製品を販売の用に供し、又は営業上使用しようとする場合に限る。）は、当該製品の輸入の際に、厚生労働大臣が定める者が作成した次に掲げる事項を記載した書面を取得し、当該製品中に石綿がその重量の〇・一パーセントを超えて含有しないことを当該書面により確認しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">書面の発行年月日及び書面番号その他の当該書面を特定することができる情報</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">製品の名称及び型式</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">分析に係る試料を採取した製品のロット（一の製造期間内に一連の製造工程により均質性を有するように製造された製品の一群をいう。以下この号及び次項において同じ。）を特定するための情報（ロットを構成しない製品であって、製造年月日及び製造番号がある場合はその製造年月日及び製造番号）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">分析の日時</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">分析の方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">分析を実施した者の氏名又は名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">石綿の検出の有無及び検出された場合にあってはその含有率</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の書面は、当該書面が輸入しようとする製品のロット（ロットを構成しない製品については、輸入しようとする製品）に対応するものであることを明らかにする書面及び同項第六号の分析を実施した者が同項に規定する厚生労働大臣が定める者に該当することを証する書面の写しが添付されたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の輸入しようとする者は、同項の書面（前項の規定により添付すべきこととされている書面及び書面の写しを含む。）を、当該製品を輸入した日から起算して三年間保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46_3">
+          <ArticleCaption>（令第十六条第一項第四号の厚生労働省令で定めるもの等）</ArticleCaption>
+          <ArticleTitle>第四十六条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2055,6 +2195,7 @@
       <Chapter Num="9">
         <ChapterTitle>第九章　報告</ChapterTitle>
         <Article Num="49">
+          <ArticleCaption>（石綿関係記録等の報告）</ArticleCaption>
           <ArticleTitle>第四十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -2081,9 +2222,49 @@
             </Item>
           </Paragraph>
         </Article>
+        <Article Num="50">
+          <ArticleCaption>（石綿を含有する製品に係る報告）</ArticleCaption>
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">製品を製造し、又は輸入した事業者（当該製品を販売の用に供し、又は営業上使用する場合に限る。）は、当該製品（令第十六条第一項第四号及び第九号に掲げるものに限り、法第五十五条ただし書の要件に該当するものを除く。）が石綿をその重量の〇・一パーセントを超えて含有していることを知った場合には、遅滞なく、次に掲げる事項（当該製品について譲渡又は提供をしていない場合にあっては、第四号に掲げる事項を除く。）について、所轄労働基準監督署長に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">製品の名称及び型式</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">製造した者の氏名又は名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">製造し、又は輸入した製品の数量</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">譲渡し、又は提供した製品の数量及び譲渡先又は提供先</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">製品の使用に伴う健康障害の発生及び拡大を防止するために行う措置</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -2190,86 +2371,86 @@
           <TableStruct>
             <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">適用除外する規定</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">作業の区分</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">資格を有する者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">名称</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">新安衛則第三百五十九条及び別表第一</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">労働安全衛生法施行令（昭和四十七年政令第三百十八号。以下「令」という。）第六条第九号に掲げる作業</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">労働安全衛生法等の一部を改正する法律（以下「改正法」という。）第一条の規定による改正前の労働安全衛生法（以下「旧法」という。）別表第十八第五号に掲げる地山の掘削作業主任者技能講習を修了した者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">地山の掘削作業主任者</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">新安衛則第三百七十四条及び別表第一</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">令第六条第十号に掲げる作業</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">旧法別表第十八第六号に掲げる土止め支保工作業主任者技能講習を修了した者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">土止め支保工作業主任者</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">新安衛則別表第一及び第十一条の規定による改正後の特定化学物質障害予防規則第二十七条</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">令第六条第十八号に掲げる作業</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">旧法別表第十八第二十二号に掲げる特定化学物質等作業主任者技能講習を修了した者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">特定化学物質作業主任者</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">新安衛則別表第一及び第十条の規定による改正後の四アルキル鉛中毒予防規則第十四条</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">令第六条第二十号に掲げる作業</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">旧法別表第十八第二十四号に掲げる四アルキル鉛等作業主任者技能講習を修了した者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">四アルキル鉛等作業主任者</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">新安衛則別表第一及び第十九条の規定による改正後の石綿障害予防規則第十九条</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">令第六条第二十三号に掲げる作業</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">旧法別表第十八第二十二号に掲げる特定化学物質等作業主任者技能講習を修了した者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">石綿作業主任者</Sentence>
                 </TableColumn>
               </TableRow>
@@ -2840,12 +3021,154 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一八日厚生労働省令第九六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和三年十二月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中石綿障害予防規則目次の改正規定、同令第四十九条及び第五十条の改正規定並びに次条の規定は、令和三年八月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（石綿を含有する製品に係る報告に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の石綿障害予防規則（以下この条において「新石綿則」という。）第五十条に規定する事業者は、前条ただし書に規定する規定の施行の日前に、製造し、又は輸入した製品（労働安全衛生法施行令（昭和四十七年政令第三百十八号）第十六条第一項第四号及び第九号に掲げるものに限り、労働安全衛生法第五十五条ただし書の要件に該当するものを除く。）が石綿をその重量の〇・一パーセントを超えて含有していることを知っている場合には、新石綿則第五十条の規定にかかわらず、その旨が公知の事実であるときを除き、遅滞なく、同条各号に掲げる事項（当該製品について譲渡又は提供をしていない場合にあっては、同条第四号に掲げる事項を除く。）について、所轄労働基準監督署長に報告するよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新石綿則第五十条及び前項の規定は、次の各号に掲げる規定により労働安全衛生法第五十五条の規定が適用されない物については、適用しない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働安全衛生法施行令の一部を改正する政令（平成十八年政令第二百五十七号）附則第二条</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働安全衛生法施行令の一部を改正する政令の一部を改正する政令（平成十九年政令第二百八十一号）附則第二条</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働安全衛生法施行令等の一部を改正する政令（平成二十年政令第三百四十九号）附則第五条</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働安全衛生法施行令の一部を改正する政令の一部を改正する政令（平成二十一年政令第二百九十五号）附則第二条</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働安全衛生法施行令等の一部を改正する政令（平成二十三年政令第四号）附則第五条</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働安全衛生法施行令等の一部を改正する政令（平成二十四年政令第十三号）附則第二条第一項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（様式に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による様式については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一月一三日厚生労働省令第三号　抄">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年四月一五日厚生労働省令第八二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和五年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月三一日厚生労働省令第九一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条、第五条、第七条、第九条、第十一条、第十三条及び第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条各号に掲げる規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条の２関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037982.pdf"/>
+          <Fig src="./pict/2FH00000060064.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2854,7 +3177,7 @@
       <RelatedArticleNum>（第４条の２関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037983.pdf"/>
+          <Fig src="./pict/2FH00000060065.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2863,7 +3186,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000038075.pdf"/>
+          <Fig src="./pict/2FH00000038069.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2905,10 +3228,10 @@
     </AppdxStyle>
     <AppdxStyle Num="3_2">
       <AppdxStyleTitle WritingMode="vertical">様式第３号の２</AppdxStyleTitle>
-      <RelatedArticleNum>（第４６条の２関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４６条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037968.pdf"/>
+          <Fig src="./pict/2FH00000052473.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

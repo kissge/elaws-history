@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="024" Year="25">
+<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="024" Year="25" PromulgateMonth="03" PromulgateDay="27">
   <LawNum>平成二十五年総務省令第二十四号</LawNum>
   <LawBody>
-    <LawTitle>漏電火災警報器に係る技術上の規格を定める省令</LawTitle>
+    <LawTitle Kana="ろうでんかさいけいほうきにかかるぎじゅつじょうのきかくをさだめるしょうれい" Abbrev="" AbbrevKana="">漏電火災警報器に係る技術上の規格を定める省令</LawTitle>
     <EnactStatement>消防法（昭和二十三年法律第百八十六号）第二十一条の十六の三第一項の規定に基づき、漏電火災警報器に係る技術上の規格を定める省令（昭和五十一年自治省令第十五号）の全部を改正する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -371,21 +371,7 @@
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">指示電気計器は、ＪＩＳ</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">Ｃ</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">一一〇二―一及びＪＩＳ</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="4">
-                  <Sentence WritingMode="vertical">Ｃ</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="5">
-                  <Sentence WritingMode="vertical">一一〇二―二に定める固有誤差、絶縁及び電圧試験に適合するものであること。</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">指示電気計器は、ＪＩＳ　Ｃ　一一〇二―一及びＪＩＳ　Ｃ　一一〇二―二に定める固有誤差、絶縁及び電圧試験に適合するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
@@ -396,35 +382,13 @@
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Column LineBreak="false" Num="1">
-                    <Sentence WritingMode="vertical">ＪＩＳ</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="2">
-                    <Sentence WritingMode="vertical">Ｃ</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="3">
-                    <Sentence WritingMode="vertical">八三五二</Sentence>
-                  </Column>
+                  <Sentence WritingMode="vertical">ＪＩＳ　Ｃ　八三五二</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Column LineBreak="false" Num="1">
-                    <Sentence WritingMode="vertical">ＪＩＳ</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="2">
-                    <Sentence WritingMode="vertical">Ｃ</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="3">
-                    <Sentence WritingMode="vertical">六五七五―一及びＪＩＳ</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="4">
-                    <Sentence WritingMode="vertical">Ｃ</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="5">
-                    <Sentence WritingMode="vertical">六五七五―二</Sentence>
-                  </Column>
+                  <Sentence WritingMode="vertical">ＪＩＳ　Ｃ　六五七五―一及びＪＩＳ　Ｃ　六五七五―二</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -1114,7 +1078,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501019" AmendLawNum="令和元年六月二八日総務省令第一九号" Id="ef844ec2-9e19-11e9-92bf-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年六月二八日総務省令第一九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

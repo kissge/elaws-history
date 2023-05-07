@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="52" Year="19" PromulgateMonth="08" PromulgateDay="06" AmendmentId="502M60000002038" AmendmentNum="令和二年内閣府令第三十八号" ScheduledEnforcementDate=""><LawNum>平成十九年内閣府令第五十二号</LawNum><LawBody><LawTitle Kana="きんゆうしょうひんとりひきぎょうとうにかんするないかくふれい" Abbrev="金商業等府令" AbbrevKana="き">金融商品取引業等に関する内閣府令</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="052" Year="19" PromulgateMonth="08" PromulgateDay="06"><LawNum>平成十九年内閣府令第五十二号</LawNum><LawBody><LawTitle Kana="きんゆうしょうひんとりひきぎょうとうにかんするないかくふれい" Abbrev="金商業等府令" AbbrevKana="き">金融商品取引業等に関する内閣府令</LawTitle>
     <EnactStatement>金融商品取引法（昭和二十三年法律第二十五号）及び金融商品取引法施行令（昭和四十年政令第三百二十一号）の規定に基づき、並びに同法及び同令を実施するため、金融商品取引業等に関する内閣府令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2752,7 +2752,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">信託業（信託業法（平成十六年法律第百五十四号）第二条第一項に規定する信託業をいう。）を営む者が信託財産として保有する議決権（当該者が行使することができる権限又は行使について指図を行うことができる権限を有するものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">信託業（信託業法（平成十六年法律第百五十四号）第二条第一項に規定する信託業をいう。第六十二条第三項第一号において同じ。）を営む者が信託財産として保有する議決権（当該者が行使することができる権限又は行使について指図を行うことができる権限を有するものを除く。）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -3693,10 +3693,13 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">割引の方法により発行した有価証券については、その発行価額に次の算式により算出した額を加えた額を額面金額とみなして、前項の規定を適用する。</Sentence></ParagraphSentence>
-                  <List><ListSentence><Sentence Num="2" WritingMode="vertical">
-                    <ArithFormula>（（額面金額－発行価額）／発行の日から償還の日までの年数）×発行の日から供託の日までの年数</ArithFormula>
-                  </Sentence></ListSentence></List>
+                  <Sentence Num="1" WritingMode="vertical">割引の方法により発行した有価証券については、その発行価額に次の算式により算出した額を加えた額を額面金額とみなして、前項の規定を適用する。</Sentence>
+                </ParagraphSentence>
+                <List>
+                  <ListSentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>（（額面金額－発行価額）／発行の日から償還の日までの年数）×発行の日から供託の日までの年数</ArithFormula></Sentence>
+                  </ListSentence>
+                </List>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
@@ -5857,66 +5860,222 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第三十四条の四第一項第二号に規定する内閣府令で定める要件は、次に掲げる要件の全てに該当することとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第三十四条の四第一項第二号に規定する内閣府令で定める要件は、次の各号のいずれかに該当することとする。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日（法第三十四条の四第六項において準用する法第三十四条の三第二項第一号に規定する承諾日をいう。次号、次条第二項、第六十四条第二項第五号及び第六十四条の二において同じ。）における申出者（法第三十四条の四第二項に規定する申出者をいう。以下この条及び第六十四条において同じ。）の資産の合計額から負債の合計額を控除した額が三億円以上になると見込まれること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日における申出者の資産（次に掲げるものに限る。）の合計額が三億円以上になると見込まれること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる要件の全てに該当すること。</Sentence>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">有価証券（ホに掲げるもの及びヘに掲げるもの（不動産特定共同事業法（平成六年法律第七十七号）第二条第九項に規定する特例事業者と締結したものに限る。）を除く。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日（法第三十四条の四第六項において準用する法第三十四条の三第二項第一号に規定する承諾日をいう。以下この項、次条第二項、第六十四条第二項第五号及び第六十四条の二において同じ。）における申出者（法第三十四条の四第二項に規定する申出者をいう。以下この項及び次項並びに第六十四条において同じ。）の資産の合計額から負債の合計額を控除した額が三億円以上になると見込まれること。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">デリバティブ取引に係る権利</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日における申出者の資産（次に掲げるものに限る。次号ロ及び第四号ロにおいて同じ。）の合計額が三億円以上になると見込まれること。</Sentence>
+                    </Subitem1Sentence>
+                    <Subitem2 Num="1">
+                      <Subitem2Title>（１）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">有価証券（（５）に掲げるもの及び（６）に掲げるもの（不動産特定共同事業法（平成六年法律第七十七号）第二条第九項に規定する特例事業者と締結したものに限る。）を除く。）</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="2">
+                      <Subitem2Title>（２）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">デリバティブ取引に係る権利</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="3">
+                      <Subitem2Title>（３）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">農業協同組合法（昭和二十二年法律第百三十二号）第十一条の五に規定する特定貯金等、水産業協同組合法（昭和二十三年法律第二百四十二号）第十一条の十一に規定する特定貯金等、協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）第六条の五の十一に規定する特定預金等、信用金庫法（昭和二十六年法律第二百三十八号）第八十九条の二に規定する特定預金等、長期信用銀行法（昭和二十七年法律第百八十七号）第十七条の二に規定する特定預金等、労働金庫法（昭和二十八年法律第二百二十七号）第九十四条の二に規定する特定預金等、銀行法第十三条の四に規定する特定預金等、農林中央金庫法（平成十三年法律第九十三号）第五十九条の三に規定する特定預金等及び株式会社商工組合中央金庫法（平成十九年法律第七十四号）第二十九条に規定する特定預金等</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="4">
+                      <Subitem2Title>（４）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">農業協同組合法第十一条の二十七に規定する特定共済契約、消費生活協同組合法（昭和二十三年法律第二百号）第十二条の三第一項に規定する特定共済契約、水産業協同組合法第十五条の十二に規定する特定共済契約、中小企業等協同組合法（昭和二十四年法律第百八十一号）第九条の七の五第二項に規定する特定共済契約又は保険業法第三百条の二に規定する特定保険契約に基づく保険金、共済金、返戻金その他の給付金に係る権利</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="5">
+                      <Subitem2Title>（５）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">信託業法第二十四条の二に規定する特定信託契約に係る信託受益権</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="6">
+                      <Subitem2Title>（６）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">不動産特定共同事業法第二条第三項に規定する不動産特定共同事業契約に基づく権利</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="7">
+                      <Subitem2Title>（７）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">商品市場における取引（商品先物取引法（昭和二十五年法律第二百三十九号）第二条第十項に規定する商品市場における取引をいう。第三号ヘにおいて同じ。）、外国商品市場取引（同条第十三項に規定する外国商品市場取引をいう。同号ヘ及び第六十七条第一号において同じ。）又は店頭商品デリバティブ取引（同法第二条第十四項に規定する店頭商品デリバティブ取引をいう。以下同じ。）に係る権利</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">申出者が最初に金融商品取引業者等との間で法第三十四条の四第一項の規定による申出に係る契約の種類に属する金融商品取引契約を締結した日から起算して一年を経過していること。</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる要件のいずれかに該当し、かつ、前号ハに掲げる要件に該当すること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日における申出者の資産の合計額から負債の合計額を控除した額が五億円以上になると見込まれること。</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日における申出者の資産の合計額が五億円以上になると見込まれること。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
                     <Subitem1Title>ハ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">農業協同組合法（昭和二十二年法律第百三十二号）第十一条の五に規定する特定貯金等、水産業協同組合法（昭和二十三年法律第二百四十二号）第十一条の十一に規定する特定貯金等、協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）第六条の五の十一に規定する特定預金等、信用金庫法（昭和二十六年法律第二百三十八号）第八十九条の二に規定する特定預金等、長期信用銀行法（昭和二十七年法律第百八十七号）第十七条の二に規定する特定預金等、労働金庫法（昭和二十八年法律第二百二十七号）第九十四条の二に規定する特定預金等、銀行法第十三条の四に規定する特定預金等、農林中央金庫法（平成十三年法律第九十三号）第五十九条の三に規定する特定預金等及び株式会社商工組合中央金庫法（平成十九年法律第七十四号）第二十九条に規定する特定預金等</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="4">
-                    <Subitem1Title>ニ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">農業協同組合法第十一条の二十七に規定する特定共済契約、消費生活協同組合法（昭和二十三年法律第二百号）第十二条の三第一項に規定する特定共済契約、水産業協同組合法第十五条の十二に規定する特定共済契約、中小企業等協同組合法（昭和二十四年法律第百八十一号）第九条の七の五第二項に規定する特定共済契約及び保険業法第三百条の二に規定する特定保険契約に基づく保険金、共済金、返戻金その他の給付金に係る権利</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="5">
-                    <Subitem1Title>ホ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">信託業法第二十四条の二に規定する特定信託契約に係る信託受益権</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="6">
-                    <Subitem1Title>ヘ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">不動産特定共同事業法第二条第三項に規定する不動産特定共同事業契約に基づく権利</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="7">
-                    <Subitem1Title>ト</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">商品市場における取引（商品先物取引法（昭和二十五年法律第二百三十九号）第二条第十項に規定する商品市場における取引をいう。）、外国商品市場取引（同条第十三項に規定する外国商品市場取引をいう。第六十七条第一号において同じ。）及び店頭商品デリバティブ取引（同法第二条第十四項に規定する店頭商品デリバティブ取引をいう。第六十七条第二号並びに第百二十三条第九項及び第十三項において同じ。）に係る権利</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日の属する年の前年における申出者の収入金額（所得税法（昭和四十年法律第三十三号）第三十五条第三項に規定する公的年金等に係るものを除く。第四号ハ並びに第二百四十六条の十第一項第二号ハ及び第四号ハにおいて同じ。）が一億円以上であると見込まれること。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">申出者が最初に当該金融商品取引業者等との間で法第三十四条の四第一項の規定による申出に係る契約の種類に属する金融商品取引契約を締結した日から起算して一年を経過していること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">承諾日前一年間における申出者の一月当たりの平均的な契約（次に掲げるものに限る。）の件数が四件以上である場合において、第一号イ又はロに掲げる要件に該当し、かつ、同号ハに掲げる要件に該当すること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">有価証券の売買その他の取引又はデリバティブ取引に係る契約（ニ及びホに掲げるものに該当するものを除く。）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">農業協同組合法第十一条の五に規定する特定貯金等契約、水産業協同組合法第十一条の十一に規定する特定貯金等契約、協同組合による金融事業に関する法律第六条の五の十一に規定する特定預金等契約、信用金庫法第八十九条の二に規定する特定預金等契約、長期信用銀行法第十七条の二に規定する特定預金等契約、労働金庫法第九十四条の二に規定する特定預金等契約、銀行法第十三条の四に規定する特定預金等契約、農林中央金庫法第五十九条の三に規定する特定預金等契約及び株式会社商工組合中央金庫法第二十九条に規定する特定預金等契約</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">農業協同組合法第十一条の二十七に規定する特定共済契約、消費生活協同組合法第十二条の三第一項に規定する特定共済契約、水産業協同組合法第十五条の十二に規定する特定共済契約、中小企業等協同組合法第九条の七の五第二項に規定する特定共済契約及び保険業法第三百条の二に規定する特定保険契約</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="4">
+                    <Subitem1Title>ニ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">信託業法第二十四条の二に規定する特定信託契約</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="5">
+                    <Subitem1Title>ホ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">不動産特定共同事業法第二条第三項に規定する不動産特定共同事業契約</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="6">
+                    <Subitem1Title>ヘ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">商品市場における取引、外国商品市場取引又は店頭商品デリバティブ取引に係る契約</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">特定の知識経験を有する者である場合において、次に掲げる要件のいずれかに該当し、かつ、第一号ハに掲げる要件に該当すること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日における申出者の資産の合計額から負債の合計額を控除した額が一億円以上になると見込まれること。</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日における申出者の資産の合計額が一億円以上になると見込まれること。</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日の属する年の前年における申出者の収入金額が一千万円以上であると見込まれること。</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">既に前項第三号の規定の適用を受けて特定投資家とみなされることとなった申出者については、同号に規定する場合に該当しない場合においても、その知識及び経験に照らして適当であるときは、同号に規定する場合に該当するものとみなして、同号の規定を適用することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項第四号の「特定の知識経験を有する者」とは、次の各号のいずれかに該当する者をいう。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">金融商品取引業、銀行業（銀行法第二条第二項に規定する銀行業をいう。）、保険業（保険業法第二条第一項に規定する保険業をいう。）、信託業その他の金融業に係る業務に従事した期間が通算して一年以上になる者</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）による大学の学部、専攻科又は大学院における経済学又は経営学に属する科目の教授、准教授その他の教員（専ら当該科目に関する研究を職務とする者を含む。）の職にあった期間が通算して一年以上になる者</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する者であって、その実務に従事した期間が通算して一年以上になる者</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">公益社団法人日本証券アナリスト協会による日本証券アナリスト協会認定アナリストの資格を有する者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">日本証券業協会の規則に定める一種外務員又は二種外務員となる資格を有する者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">職業能力開発促進法（昭和四十四年法律第六十四号）第四十四条第一項の技能検定のうち同項に規定する検定職種がファイナンシャル・プランニング（等級が一級又は二級のものに限る。）であるものに合格した者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="4">
+                    <Subitem1Title>ニ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">中小企業診断士（中小企業支援法（昭和三十八年法律第百四十七号）第十一条第一項の規定による登録を受けた者をいう。）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">経営コンサルタント業に係る業務に従事した期間が通算して一年以上になる者その他の者であって、前三号に掲げる者と同等以上の知識及び経験を有するもの</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -12525,8 +12684,7 @@
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">禁<Ruby>錮<Rt>こ</Rt>
-                        </Ruby>以上の刑に処せられ、又は法若しくは弁護士法の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">禁<Ruby>錮<Rt>こ</Rt></Ruby>以上の刑に処せられ、又は法若しくは弁護士法の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から五年を経過しない者</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
@@ -14756,7 +14914,7 @@
                 <Item Num="10">
                   <ItemTitle>十</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">金融商品取引業者等の代表者等が前条第一号イからホまでに掲げる行為により顧客に損失を及ぼした場合で、一日の取引において顧客に生じた損失について顧客に対して申し込み、約束し、又は提供する財産上の利益が十万円に相当する額を上回らないとき（前各号に掲げる場合を除く。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">金融商品取引業者等の代表者等が前条第一号イからホまでに掲げる行為により顧客に損失を及ぼした場合で、一日の取引において顧客に生じた損失について顧客に対して申し込み、約束し、又は提供する財産上の利益が百万円に相当する額を上回らないとき（前各号に掲げる場合を除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="11">
@@ -18370,7 +18528,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">受益者代理人のうち少なくとも一の者は、弁護士、弁護士法人、公認会計士、監査法人、税理士、税理士法人又は金融庁長官の指定する者（以下この項及び次条第一項において「弁護士等」という。）をもって充てられるものであること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">受益者代理人のうち少なくとも一の者は、弁護士、弁護士法人、弁護士・外国法事務弁護士共同法人、公認会計士、監査法人、税理士、税理士法人又は金融庁長官の指定する者（以下この項及び次条第一項において「弁護士等」という。）をもって充てられるものであること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -19186,7 +19344,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">受益者代理人を選任し、当該受益者代理人のうち少なくとも一の者は、弁護士、弁護士法人、公認会計士、監査法人、税理士、税理士法人又は金融庁長官の指定する者（以下この項において「弁護士等」という。）をもって充てられるものであること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">受益者代理人を選任し、当該受益者代理人のうち少なくとも一の者は、弁護士、弁護士法人、弁護士・外国法事務弁護士共同法人、公認会計士、監査法人、税理士、税理士法人又は金融庁長官の指定する者（以下この項において「弁護士等」という。）をもって充てられるものであること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -24671,8 +24829,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項各号の借入金が二以上の資産を担保にしている借入金である場合には、当該担保となっている全ての資産について評価額の比により当該借入金を<Ruby>按<Rt>あん</Rt>
-                    </Ruby>分して第一項第一号の固定資産のみを担保にした借入金の額を算出しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項各号の借入金が二以上の資産を担保にしている借入金である場合には、当該担保となっている全ての資産について評価額の比により当該借入金を<Ruby>按<Rt>あん</Rt></Ruby>分して第一項第一号の固定資産のみを担保にした借入金の額を算出しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
@@ -34122,7 +34279,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">令第十七条の十二第一項第十二号に規定する内閣府令で定める要件は、取引の状況その他の事情から合理的に判断して、その保有する資産（第六十二条第二号イからトまでに掲げるものに限る。次項第一号イ及び第二号並びに第四項第二号から第四号までにおいて同じ。）の合計額が百億円以上であると見込まれることとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">令第十七条の十二第一項第十二号に規定する内閣府令で定める要件は、取引の状況その他の事情から合理的に判断して、その保有する資産（第六十二条第一項第一号ロ（１）から（７）までに掲げるものに限る。次項第一号イ及び第二号並びに第四項第二号から第四号までにおいて同じ。）の合計額が百億円以上であると見込まれることとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -36850,13 +37007,13 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、法第六十三条の八第一項第一号に掲げる行為に係る出資対象事業持分を取得する時点におけるその保有する資産の合計額から負債の合計額を控除した額が三億円以上になると見込まれること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、法第六十三条の八第一項第一号に掲げる行為に係る出資対象事業持分を取得する時点（以下この項において「取得時点」という。）におけるその保有する資産の合計額から負債の合計額を控除した額が三億円以上になると見込まれること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、法第六十三条の八第一項第一号に掲げる行為に係る出資対象事業持分を取得する時点におけるその保有する資産（第六十二条第二号イからトまでに掲げるものに限る。）の合計額が三億円以上になると見込まれること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、取得時点におけるその保有する資産（第六十二条第一項第一号ロ（１）から（７）までに掲げるものに限る。次号ロ及び第四号ロにおいて同じ。）の合計額が三億円以上になると見込まれること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
@@ -36869,7 +37026,61 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第六十三条の八第一項第一号に掲げる行為に係る出資対象事業持分を取得する時点において、外国の法令上特定投資家に相当する者であること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる要件のいずれかに該当し、かつ、前号ハに掲げる要件に該当すること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、取得時点におけるその保有する資産の合計額から負債の合計額を控除した額が五億円以上になると見込まれること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、取得時点におけるその保有する資産の合計額が五億円以上になると見込まれること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、取得時点の属する年の前年におけるその収入金額が一億円以上であると見込まれること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">取得時点前一年間におけるその一月当たりの平均的な契約（第六十二条第一項第三号イからヘまでに掲げるものに限る。）の件数が四件以上である場合において、第一号イ又はロに掲げる要件に該当し、かつ、同号ハに掲げる要件に該当すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定の知識経験を有する者（第六十二条第三項に規定する特定の知識経験を有する者をいう。）である場合において、次に掲げる要件のいずれかに該当し、かつ、第一号ハに掲げる要件に該当すること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、取得時点におけるその保有する資産の合計額から負債の合計額を控除した額が一億円以上になると見込まれること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、取得時点におけるその保有する資産の合計額が一億円以上になると見込まれること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、取得時点の属する年の前年におけるその収入金額が一千万円以上であると見込まれること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">取得時点において、外国の法令上特定投資家に相当する者であること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -37148,7 +37359,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">出資対象事業持分を有し、又は有することとなる者のうちに第二百四十六条の十第一項第二号に掲げる要件に該当する者がある場合にあっては、同号の外国の法令の概要</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">出資対象事業持分を有し、又は有することとなる者のうちに第二百四十六条の十第一項第五号に掲げる要件に該当する者がある場合にあっては、同号の外国の法令の概要</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -38521,7 +38732,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">出資対象事業持分を有し、又は有することとなる者のうちに第二百四十六条の十第一項第二号に掲げる要件に該当する者がある場合にあっては、同号の外国の法令の概要</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">出資対象事業持分を有し、又は有することとなる者のうちに第二百四十六条の十第一項第五号に掲げる要件に該当する者がある場合にあっては、同号の外国の法令の概要</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -40896,7 +41107,7 @@
               <Item Num="10">
                 <ItemTitle>十</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">金融商品仲介業者又はその代表者等が前条各号に掲げる行為により顧客に損失を及ぼした場合で、一日の取引において顧客に生じた損失について顧客に対して申し込み、約束し、又は提供する財産上の利益が十万円に相当する額を上回らないとき（前各号に掲げる場合を除く。）。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">金融商品仲介業者又はその代表者等が前条各号に掲げる行為により顧客に損失を及ぼした場合で、一日の取引において顧客に生じた損失について顧客に対して申し込み、約束し、又は提供する財産上の利益が百万円に相当する額を上回らないとき（前各号に掲げる場合を除く。）。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="11">
@@ -53442,6 +53653,71 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月二一日内閣府令第四〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、令和四年六月二十二日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（金融商品取引業等に関する内閣府令の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の金融商品取引業等に関する内閣府令別紙様式第二十二号は、金融商品取引法第六十四条第三項（同法第六十六条の二十五において準用する場合を含む。）の登録申請書のうちこの府令の施行の日から起算して六月を経過した日（当該登録申請書が同法第六十四条の七第一項又は第二項（これらの規定を同法第六十六条の二十五において準用する場合を含む。）の規定により同法第六十四条の七第一項に規定する登録事務を同項に規定する協会に行わせることとする金融商品取引業者等又は金融商品仲介業者の外務員に係るものである場合において、当該協会が同日前の日をその規則で定めたときは、その日。以下「適用日」という。）以後に提出するものについて適用し、当該登録申請書のうち適用日前に提出するものについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月三〇日内閣府令第四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、令和四年七月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一〇月三一日内閣府令第六一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この府令は、外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律の施行の日（令和四年十一月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="0">
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第百二十五条の八関係）</RelatedArticleNum>
@@ -53608,7 +53884,7 @@
       <RelatedArticleNum>（第百七十二条第一項、第百八十二条第一項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055767.pdf"/>
+          <Fig src="./pict/2FH00000063782.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53644,7 +53920,7 @@
       <RelatedArticleNum>（第百八十三条第一項、第二項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_15_02.pdf"/>
+          <Fig src="./pict/2FH00000063783.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53653,7 +53929,7 @@
       <RelatedArticleNum>（第百八十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_16.pdf"/>
+          <Fig src="./pict/2FH00000063784.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53779,7 +54055,7 @@
       <RelatedArticleNum>（第二百四十六条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_21_02.pdf"/>
+          <Fig src="./pict/2FH00000063785.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53788,7 +54064,7 @@
       <RelatedArticleNum>（第二百四十六条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_21_03.pdf"/>
+          <Fig src="./pict/2FH00000063786.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53797,7 +54073,7 @@
       <RelatedArticleNum>（第二百四十六条の十一、第二百四十六条の二十関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_21_04.pdf"/>
+          <Fig src="./pict/2FH00000063787.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53806,7 +54082,7 @@
       <RelatedArticleNum>（第二百四十六条の十六、第二百四十六条の十七関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_21_05.pdf"/>
+          <Fig src="./pict/2FH00000063788.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53815,7 +54091,7 @@
       <RelatedArticleNum>（第二百四十六条の二十七、第二百四十六条の二十八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_21_06.pdf"/>
+          <Fig src="./pict/2FH00000063789.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53824,7 +54100,7 @@
       <RelatedArticleNum>（第二百四十六条の三十三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_21_07.pdf"/>
+          <Fig src="./pict/2FH00000063790.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53833,7 +54109,7 @@
       <RelatedArticleNum>（第二百四十六条の三十五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_21_08.pdf"/>
+          <Fig src="./pict/2FH00000063791.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53842,7 +54118,7 @@
       <RelatedArticleNum>（第二百四十九条、第二百八十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055771.pdf"/>
+          <Fig src="./pict/2JH00000226556.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53923,7 +54199,7 @@
       <RelatedArticleNum>（附則第三十一条、第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_31.pdf"/>
+          <Fig src="./pict/2FH00000063792.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53932,7 +54208,7 @@
       <RelatedArticleNum>（附則第四十五条、第四十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_32.pdf"/>
+          <Fig src="./pict/2FH00000063793.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53941,7 +54217,7 @@
       <RelatedArticleNum>（附則第五十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_33.pdf"/>
+          <Fig src="./pict/2FH00000063794.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -53950,7 +54226,7 @@
       <RelatedArticleNum>（附則第五十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000099999_34.pdf"/>
+          <Fig src="./pict/2FH00000063795.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

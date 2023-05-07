@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="67" Year="04" PromulgateMonth="03" PromulgateDay="31" ScheduledEnforcementDate="2024/05/30"><LawNum>昭和二十二年法律第六十七号</LawNum><LawBody><LawTitle Kana="ちほうじちほう" Abbrev="地自法" AbbrevKana="ち">地方自治法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="067" Year="22" PromulgateMonth="04" PromulgateDay="17" ScheduledEnforcementDate="2024/05/30"><LawNum>昭和二十二年法律第六十七号</LawNum><LawBody><LawTitle Kana="ちほうじちほう" Abbrev="地自法" AbbrevKana="ち">地方自治法</LawTitle>
     <TOC>
       <TOCLabel>地方自治法目次</TOCLabel>
       <TOCPart Num="1">
@@ -1835,7 +1835,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">普通地方公共団体の議会の議員は、当該普通地方公共団体に対し請負をする者及びその支配人又は主として同一の行為をする法人の無限責任社員、取締役、執行役若しくは監査役若しくはこれらに準ずべき者、支配人及び清算人たることができない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">普通地方公共団体の議会の議員は、当該普通地方公共団体に対し請負（業として行う工事の完成若しくは作業その他の役務の給付又は物件の納入その他の取引で当該普通地方公共団体が対価の支払をすべきものをいう。以下この条、第百四十二条、第百八十条の五第六項及び第二百五十二条の二十八第三項第十二号において同じ。）をする者（各会計年度において支払を受ける当該請負の対価の総額が普通地方公共団体の議会の適正な運営の確保のための環境の整備を図る観点から政令で定める額を超えない者を除く。）及びその支配人又は主として同一の行為をする法人の無限責任社員、取締役、執行役若しくは監査役若しくはこれらに準ずべき者、支配人及び清算人たることができない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2207,6 +2207,13 @@
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急を要する場合は、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="8" OldNum="true" OldStyle="false">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                <Sentence Num="1">前項の規定による招集の告示をした後に当該招集に係る開会の日に会議を開くことが災害その他やむを得ない事由により困難であると認めるときは、当該告示をした者は、当該招集に係る開会の日の変更をすることができる。</Sentence>
+                <Sentence Num="2">この場合においては、変更後の開会の日及び変更の理由を告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
             </Article>
             <Article Num="102">
               <ArticleTitle>第百二条</ArticleTitle>
@@ -2470,21 +2477,12 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="110">
-              <ArticleTitle>第百十条</ArticleTitle>
+            <Article Num="110:111">
+              <ArticleTitle>第百十条及び第百十一条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>削除</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="111">
-              <ArticleTitle>第百十一条</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence>削除</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -12439,7 +12437,7 @@
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の構成員は、規約又は総会の決議により、同項の規定による書面による表決に代えて、電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であつて総務省令で定めるものをいう。）により表決をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の構成員は、規約又は総会の決議により、同項の規定による書面による表決に代えて、電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であつて総務省令で定めるものをいう。第二百六十条の十九の二において同じ。）により表決をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4" OldNum="true" OldStyle="false">
@@ -12455,6 +12453,34 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">認可地縁団体と特定の構成員との関係について議決をする場合には、その構成員は、表決権を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_19_2">
+            <ArticleTitle>第二百六十条の十九の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">この法律又は規約により総会において決議をすべき場合において、構成員全員の承諾があるときは、書面又は電磁的方法による決議をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的方法による決議に係る構成員の承諾については、総務省令で定めるところによらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律又は規約により総会において決議すべきものとされた事項については、構成員全員の書面又は電磁的方法による合意があつたときは、書面又は電磁的方法による決議があつたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律又は規約により総会において決議すべきものとされた事項についての書面又は電磁的方法による決議は、総会の決議と同一の効力を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総会に関する規定は、書面又は電磁的方法による決議について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -12480,7 +12506,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">認可の取消し</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二百六十条の二第十四項の規定による同条第一項の認可の取消し</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -12493,6 +12519,12 @@
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">構成員が欠けたこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">合併（合併により当該認可地縁団体が消滅する場合に限る。）</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -12536,7 +12568,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">認可地縁団体が解散したときは、破産手続開始の決定による解散の場合を除き、代表者がその清算人となる。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">認可地縁団体が解散したときは、破産手続開始の決定及び合併による解散の場合を除き、代表者がその清算人となる。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、規約に別段の定めがあるとき、又は総会において代表者以外の者を選任したときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -12597,8 +12629,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">認可地縁団体の清算人は、その就職の日から二箇月以内に、少なくとも三回の公告をもつて、債権者に対し、一定の期間内にその債権の申出をすべき旨の催告をしなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、その期間は、二箇月を下ることができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">認可地縁団体の清算人は、その就職後遅滞なく、公告をもつて、債権者に対し、一定の期間内にその債権の申出をすべき旨の催告をしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、その期間は、二月を下ることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -12662,7 +12694,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">解散した認可地縁団体の財産は、規約で指定した者に帰属する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">解散した認可地縁団体の財産は、破産手続開始の決定及び合併による解散の場合を除き、規約で指定した者に帰属する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -12770,6 +12802,173 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認可地縁団体は、同一市町村内の他の認可地縁団体と合併することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_39">
+            <ArticleTitle>第二百六十条の三十九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認可地縁団体が合併しようとするときは、総会の決議を経なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の決議は、総構成員の四分の三以上の多数をもつてしなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、規約に別段の定めがあるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">合併は、市町村長の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二百六十条の二第二項及び第五項の規定は、前項の認可について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項第一号中「現にその活動を」とあるのは、「合併しようとする各認可地縁団体が連携して当該目的に資する活動を現に」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_40">
+            <ArticleTitle>第二百六十条の四十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認可地縁団体は、前条第三項の認可があつたときは、その認可の通知のあつた日から二週間以内に、財産目録を作成し、次項の規定により債権者が異議を述べることができる期間が満了するまでの間、これをその主たる事務所に備え置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認可地縁団体は、前条第三項の認可があつたときは、その認可の通知のあつた日から二週間以内に、その債権者に対し、合併に異議があれば一定の期間内に述べるべきことを公告し、かつ、判明している債権者に対しては、各別にこれを催告しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、その期間は、二月を下ることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_41">
+            <ArticleTitle>第二百六十条の四十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">債権者が前条第二項の期間内に異議を述べなかつたときは、合併を承認したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">債権者が異議を述べたときは、認可地縁団体は、弁済し、若しくは相当の担保を供し、又はその債権者に弁済を受けさせることを目的として信託会社若しくは信託業務を営む金融機関に相当の財産を信託しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、合併をしてもその債権者を害するおそれがないときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">合併しようとする各認可地縁団体は、前条及び前二項の規定による手続が終了した場合には、総務省令で定めるところにより、共同で、遅滞なく、その旨を市町村長に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_42">
+            <ArticleTitle>第二百六十条の四十二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">合併により認可地縁団体を設立する場合には、規約の作成その他認可地縁団体の設立に関する事務は、各認可地縁団体において選任した者が共同して行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_43">
+            <ArticleTitle>第二百六十条の四十三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">合併後存続する認可地縁団体又は合併により設立した認可地縁団体は、合併により消滅した認可地縁団体の一切の権利義務（当該認可地縁団体がその行う活動に関し行政庁の認可その他の処分に基づいて有する権利義務を含む。）を承継する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_44">
+            <ArticleTitle>第二百六十条の四十四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村長は、第二百六十条の四十一第三項の規定による届出があつたときは、当該届出に係る合併について第二百六十条の三十九第三項の認可をした旨その他総務省令で定める事項を告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認可地縁団体の合併は、前項の規定による告示によりその効力を生ずる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">合併により設立した団体は、第一項の規定による告示の日において認可地縁団体となつたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により告示した事項は、第二百六十条の二第十項の規定により告示した事項とみなす。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、合併後存続する認可地縁団体に係る同項の規定による従前の告示は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二百六十条の四第一項の規定は、第一項の規定による告示があつた場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_45">
+            <ArticleTitle>第二百六十条の四十五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村長は、次の各号のいずれかに該当するときは、第二百六十条の三十九第三項の認可を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二百六十条の三十九第三項の認可をした日から六月を経過しても第二百六十条の四十一第三項の規定による届出がないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">認可地縁団体が不正な手段により第二百六十条の三十九第三項の認可を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定による告示後に前項（第二号に係る部分に限る。）の規定により第二百六十条の三十九第三項の認可が取り消されたときは、当該認可に係る合併をした認可地縁団体は、当該合併の効力が生じた日後に合併後存続した認可地縁団体又は合併により設立した認可地縁団体が負担した債務について、連帯して弁済する責任を負う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する場合には、当該合併の効力が生じた日後に合併後存続した認可地縁団体又は合併により設立した認可地縁団体が取得した財産は、当該合併をした認可地縁団体の共有に属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項に規定する場合には、各認可地縁団体の第二項の債務の負担部分及び前項の財産の共有持分は、各認可地縁団体の協議によつて定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="260_46">
+            <ArticleTitle>第二百六十条の四十六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">認可地縁団体が所有する不動産であつて表題部所有者（不動産登記法（平成十六年法律第百二十三号）第二条第十号に規定する表題部所有者をいう。以下この項において同じ。）又は所有権の登記名義人の全てが当該認可地縁団体の構成員又はかつて当該認可地縁団体の構成員であつた者であるもの（当該認可地縁団体によつて、十年以上所有の意思をもつて平穏かつ公然と占有されているものに限る。）について、当該不動産の表題部所有者若しくは所有権の登記名義人又はこれらの相続人（以下この条において「登記関係者」という。）の全部又は一部の所在が知れない場合において、当該認可地縁団体が当該認可地縁団体を登記名義人とする当該不動産の所有権の保存又は移転の登記をしようとするときは、当該認可地縁団体は、総務省令で定めるところにより、当該不動産に係る次項の公告を求める旨を市町村長に申請することができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、当該申請を行う認可地縁団体は、次の各号に掲げる事項を疎明するに足りる資料を添付しなければならない。</Sentence>
               </ParagraphSentence>
@@ -12824,8 +13023,8 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="260_39">
-            <ArticleTitle>第二百六十条の三十九</ArticleTitle>
+          <Article Num="260_47">
+            <ArticleTitle>第二百六十条の四十七</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -12839,12 +13038,12 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="260_40">
-            <ArticleTitle>第二百六十条の四十</ArticleTitle>
+          <Article Num="260_48">
+            <ArticleTitle>第二百六十条の四十八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合においては、認可地縁団体の代表者又は清算人は、非訟事件手続法（平成二十三年法律第五十一号）により、五十万円以下の過料に処する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、認可地縁団体の代表者又は清算人は、非訟事件手続法（平成二十三年法律第五十一号）により、五十万円以下の過料に処する。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -12856,6 +13055,18 @@
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">第二百六十条の二十八第一項又は第二百六十条の三十第一項の規定による公告を怠り、又は不正の公告をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二百六十条の四十第一項の規定に違反して、財産目録を作成せず、若しくは備え置かず、又はこれに記載すべき事項を記載せず、若しくは虚偽の記載をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二百六十条の四十第二項又は第二百六十条の四十一第二項の規定に違反して、合併をしたとき。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -14452,10 +14663,7 @@
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>　第一号法定受託事務（第二条関係）</RelatedArticleNum>
       <TableStruct>
-        <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">この表の下欄の用語の意義及び字句の意味は、上欄に掲げる法律における用語の意義及び字句の意味によるものとする。</Sentence>
-        </Remarks>
+        <TableStructTitle WritingMode="vertical">備考　この表の下欄の用語の意義及び字句の意味は、上欄に掲げる法律における用語の意義及び字句の意味によるものとする。</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -14608,7 +14816,7 @@
               <Sentence Num="1" WritingMode="vertical">予防接種法（昭和二十三年法律第六十八号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第六条及び附則第七条第一項の規定により都道府県が処理することとされている事務並びに第六条第一項及び第三項、第十五条第一項（附則第七条第二項の規定により適用する場合を含む。）、第十八条（附則第七条第二項の規定により適用する場合を含む。）、第十九条第一項（附則第七条第二項の規定により適用する場合を含む。）並びに附則第七条第一項の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六条、第九条の三（臨時の予防接種に係る部分に限る。以下同じ。）及び第九条の四（臨時の予防接種に係る部分に限る。以下同じ。）の規定により都道府県が処理することとされている事務並びに第六条第一項から第三項まで、第九条の三、第九条の四、第十五条第一項、第十八条及び第十九条第一項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14775,9 +14983,9 @@
               <Sentence Num="1" WritingMode="vertical">精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　この法律（第一章から第三章まで、第十九条の二第四項、第十九条の七、第十九条の八、第十九条の九第一項、同条第二項（第三十三条の八において準用する場合を含む。）、第十九条の十一、第二十九条の七、第三十条第一項及び第三十一条、第三十三条の七第一項及び第六項、第六章並びに第五十一条の十一の三第二項を除く。）の規定により都道府県が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一　この法律（第一章から第三章まで、第十九条の二第四項、第十九条の七、第十九条の八、第十九条の九第一項、同条第二項（第三十三条の七において準用する場合を含む。）、第十九条の十一、第二十九条の九、第三十条第一項及び第三十一条、第三十三条の六第一項及び第六項、第五章第四節、第四十条の三、第四十条の七、第六章並びに第五十一条の十一の三第二項を除く。）の規定により都道府県が処理することとされている事務</Sentence>
               <Sentence Num="2" WritingMode="vertical">二　この法律（第六章第二節を除く。）の規定により保健所を設置する市又は特別区が処理することとされている事務（保健所長に係るものに限る。）</Sentence>
-              <Sentence Num="3" WritingMode="vertical">三　第三十三条第三項及び第三十四条第二項の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="3" WritingMode="vertical">三　第三十三条第二項及び第六項並びに第三十四条第二項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14819,7 +15027,7 @@
               <Sentence Num="1" WritingMode="vertical">国会議員の選挙等の執行経費の基準に関する法律（昭和二十五年法律第百七十九号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第四条第十五項から第十七項まで、第四条の二第三項から第六項まで、第四条の三第四項から第六項まで、第五条第十六項から第十八項まで及び第十三条第一項ただし書の規定により都道府県が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第十五項から第十七項まで、第四条の二第三項から第六項まで、第四条の三第四項、第六項及び第七項、第五条第十六項から第十八項まで並びに第十三条第一項ただし書の規定により都道府県が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15000,7 +15208,7 @@
               <Sentence Num="1" WritingMode="vertical">旅券法（昭和二十六年法律第二百六十七号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第三条、第八条第一項及び第二項、第九条第一項及び第三項、第十条第四項、第十二条第一項及び第三項、第十七条第一項から第三項まで並びに第十九条第五項及び第六項の規定により都道府県が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三条第一項から第三項まで、第五項及び第六項、第八条第一項及び第三項、第九条第一項及び第三項、第十条第四項、第十七条第一項から第三項まで並びに第十九条第五項及び第六項の規定により都道府県が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15211,14 +15419,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">第五条第二項の規定により都道府県が行うこととされる事務</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">売春防止法（昭和三十一年法律第百十八号）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第三十一条において適用する更生保護法（平成十九年法律第八十八号）第九十八条第二項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15700,7 +15900,10 @@
               <Sentence Num="1" WritingMode="vertical">農業経営基盤強化促進法（昭和五十五年法律第六十五号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第五条第一項、第三項及び第五項から第七項まで、第六条第五項、第八条第一項及び第四項（第九条第二項において準用する場合を含む。）、第九条第一項並びに第十条並びに第十一条の規定により読み替えて適用する農地中間管理事業の推進に関する法律（平成二十五年法律第百一号）第十三条及び第三十条第一項の規定により都道府県が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定により地方公共団体が処理することとされている事務のうち、次に掲げるもの</Sentence>
+              <Sentence Num="2" WritingMode="vertical">一　第五条第一項、第三項及び第五項から第七項まで、第六条第五項、第八条第一項及び第四項（第九条第二項において準用する場合を含む。）、第九条第一項並びに第十条並びに第十一条第一項の規定により読み替えて適用する農地中間管理事業の推進に関する法律第十三条並びに第三十条第一項及び第二項の規定により都道府県が処理することとされている事務</Sentence>
+              <Sentence Num="3" WritingMode="vertical">二　第十二条第六項、第七項及び第十一項、第十三条の二第四項の規定により読み替えて適用する第十二条第六項並びに第十三条の二第六項の規定により読み替えて適用する第十二条第十三項及び第十四項（これらの規定を第十三条第三項において準用する場合を含む。）の規定により都道府県が処理することとされている事務（第十二条第三項第二号の土地に四ヘクタールを超える農地が含まれる農業経営改善計画に係るものに限る。）</Sentence>
+              <Sentence Num="4" WritingMode="vertical">三　第十二条第十三項及び第十四項、第十三条の二第四項の規定により読み替えて適用する第十二条第六項並びに第十三条の二第五項の規定により読み替えて適用する第十二条第六項及び第十一項（これらの規定を第十三条第三項において準用する場合を含む。）の規定により指定市町村が処理することとされている事務（第十二条第三項第二号の土地に四ヘクタールを超える農地が含まれる農業経営改善計画に係るものに限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15866,14 +16069,6 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">旅券法の一部を改正する法律（平成七年法律第二十三号）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">附則第五条の規定によりなおその効力を有することとされる改正前の旅券法第九条第一項ただし書及び第十二条第一項の規定により都道府県が処理することとされている事務</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">密集市街地における防災街区の整備の促進に関する法律（平成九年法律第四十九号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -15905,7 +16100,7 @@
               <Sentence Num="1" WritingMode="vertical">感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第三章（第十二条第六項、同条第七項において準用する同条第二項及び第三項、同条第七項において準用する同条第四項において準用する同条第二項及び第三項、第十四条、第十四条の二並びに第十六条を除く。）、第四章（第十八条第五項及び第六項、第十九条第二項及び第七項並びに第二十条第六項及び第八項（第二十六条においてこれらの規定を準用する場合を含む。）、第二十四条並びに第二十四条の二（第二十六条及び第四十九条の二において準用する場合を含む。）を除く。）、第二十六条の三、第二十六条の四、第三十二条、第三十三条、第三十八条第二項（第一種感染症指定医療機関に係る部分に限る。）及び第五項、同条第八項及び第九項（第一種感染症指定医療機関に係る部分に限る。）、第四十四条の三第一項、第二項及び第七項、第四十四条の五、第八章（第四十六条第五項及び第七項、第五十条第十項、同条第十二項において準用する第三十六条第五項において準用する同条第一項及び第二項、第五十条の二第四項において準用する第四十四条の三第四項から第六項まで並びに第五十一条第四項において準用する同条第一項を除く。）並びに第十章の規定により都道府県又は保健所設置市等が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三章（第十二条第八項、同条第九項において準用する同条第二項及び第三項、同条第九項において準用する同条第四項において準用する同条第二項及び第三項、第十四条、第十四条の二並びに第十六条を除く。）、第四章（第十八条第五項及び第六項、第十九条第二項及び第七項並びに第二十条第六項及び第八項（第二十六条においてこれらの規定を準用する場合を含む。）、第二十四条並びに第二十四条の二（第二十六条及び第四十九条の二において準用する場合を含む。）を除く。）、第二十六条の三（第四十四条の三の五第六項において準用する場合を含む。）、第二十六条の四、第三十二条、第三十三条、第六章第一節（第三十六条の八第四項を除く。）、第三十六条の十九第四項及び第三十六条の二十二（第三十六条の二十三第四項及び第三十六条の二十四第二項においてこれらの規定を準用する場合を含む。）、第三十六条の三十七、第三十八条第二項（第一種感染症指定医療機関、第一種協定指定医療機関及び第二種協定指定医療機関に係る部分に限る。）、第五項、第七項及び第八項、同条第十項及び第十一項（第一種感染症指定医療機関、第一種協定指定医療機関及び第二種協定指定医療機関に係る部分に限る。）、第四十四条の三第一項、第二項、第四項から第六項まで及び第十一項、第四十四条の三の五、第四十四条の三の六、第四十四条の四の二及び第四十四条の五第四項（第四十四条の八においてこれらの規定を準用する場合を含む。）、第四十四条の六、第八章（第四十六条第五項及び第七項、第五十条第十項、同条第十二項において準用する第三十六条第五項において準用する同条第一項及び第二項、第五十条の二第四項において準用する第四十四条の三第七項から第十項まで、第五十条の三、第五十条の四、第五十一条第四項において準用する同条第一項、第五十一条の四第二項並びに同条第三項において準用する第四十四条の五第三項を除く。）、第十章、第六十三条の三第一項並びに第六十三条の四の規定により都道府県又は保健所設置市等が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16103,7 +16298,7 @@
               <Sentence Num="1" WritingMode="vertical">農山漁村の活性化のための定住等及び地域間交流の促進に関する法律（平成十九年法律第四十八号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第七条第六項の規定により都道府県が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第八条第五項の規定により都道府県が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16228,14 +16423,6 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">東日本大震災の被災者に係る一般旅券の発給の特例に関する法律（平成二十三年法律第六十四号）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第三条第一項において準用する旅券法第八条第一項及び第二項の規定により都道府県が処理することとされている事務</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">平成二十三年度における子ども手当の支給等に関する特別措置法（平成二十三年法律第百七号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -16272,8 +16459,8 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">この法律の規定により地方公共団体が処理することとされている事務のうち、次に掲げるもの</Sentence>
-              <Sentence Num="2" WritingMode="vertical">一　第三条第一項、第四項及び第五項、第四条、第五条、第八条第一項及び第五項、第十三条、第十四条第一項及び第三項、第十五条、第十八条第一項、第六項及び第七項、第十九条の二第三項、第二十条、第二十一条第二項、第二十八条並びに第三十条第一項及び第二項の規定により都道府県が処理することとされている事務</Sentence>
-              <Sentence Num="3" WritingMode="vertical">二　第十八条第六項（第一号に係る部分に限る。）の規定により指定市町村が処理することとされている事務（農地を農地以外のものにするため又は採草放牧地を採草放牧地以外のもの（農地を除く。）にするため、農地又は農地と併せて採草放牧地について農地法第三条第一項本文に規定する権利を取得する行為であつて、当該行為に係る農地の面積の合計が四ヘクタールを超えるものに係る農用地利用配分計画に係るものに限る。）</Sentence>
+              <Sentence Num="2" WritingMode="vertical">一　第三条第一項、第四項及び第五項、第四条、第五条、第八条第一項及び第五項、第十三条、第十四条第一項及び第三項、第十五条、第十八条第一項、第六項及び第七項、第二十条、第二十一条第二項、第二十八条並びに第三十条第一項及び第二項の規定により都道府県が処理することとされている事務</Sentence>
+              <Sentence Num="3" WritingMode="vertical">二　第十八条第六項（第一号に係る部分に限る。）の規定により指定市町村が処理することとされている事務（農地を農地以外のものにするため又は採草放牧地を採草放牧地以外のもの（農地を除く。）にするため、農地又は農地と併せて採草放牧地について農地法第三条第一項本文に規定する権利を取得する行為であつて、当該行為に係る農地の面積の合計が四ヘクタールを超えるものに係る農用地利用集積等促進計画に係るものに限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16384,7 +16571,9 @@
               <Sentence Num="1" WritingMode="vertical">農林水産物及び食品の輸出の促進に関する法律（令和元年法律第五十七号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第三十八条第二項の規定により都道府県、保健所を設置する市又は特別区が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定により地方公共団体が処理することとされている事務のうち、次に掲げるもの</Sentence>
+              <Sentence Num="2" WritingMode="vertical">一　第三十七条第七項（第三十八条第三項において準用する場合を含む。）の規定により都道府県又は指定市町村が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地を農地以外のものにする行為又は同一の事業の目的に供するため四ヘクタールを超える農地若しくはその農地と併せて採草放牧地について農地法第三条第一項本文に規定する権利を取得する行為に係る輸出事業計画に係るものに限る。）</Sentence>
+              <Sentence Num="3" WritingMode="vertical">二　第五十三条第二項の規定により都道府県等が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16428,6 +16617,18 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">環境と調和のとれた食料システムの確立のための環境負荷低減事業活動の促進等に関する法律（令和四年法律第三十七号）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">この法律の規定により都道府県又は指定市町村が処理することとされている事務のうち、次に掲げるもの</Sentence>
+              <Sentence Num="2" WritingMode="vertical">一　第二十一条第六項（第二号に係る部分に限り、第二十二条第四項において準用する場合を含む。）の規定により指定市町村が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地を農地以外のものにする行為又は同一の事業の目的に供するため四ヘクタールを超える農地若しくはその農地と併せて採草放牧地について農地法第三条第一項本文に規定する権利を取得する行為に係る特定環境負荷低減事業活動実施計画に係るものに限る。）</Sentence>
+              <Sentence Num="3" WritingMode="vertical">二　第二十一条第十二項（同条第十六項（第二十二条第四項において準用する場合を含む。）及び第二十二条第四項において準用する場合を含む。）の規定により都道府県又は指定市町村が処理することとされている事務</Sentence>
+              <Sentence Num="4" WritingMode="vertical">三　第二十一条第十三項（同条第十六項（第二十二条第四項において準用する場合を含む。）及び第二十二条第四項において準用する場合を含む。）の規定により都道府県又は指定市町村が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地を農地以外のものにする行為又は同一の事業の目的に供するため四ヘクタールを超える農地若しくはその農地と併せて採草放牧地について農地法第三条第一項本文に規定する権利を取得する行為に係る特定環境負荷低減事業活動実施計画に係るものに限る。）</Sentence>
+              <Sentence Num="5" WritingMode="vertical">四　第三十九条第五項及び第六項（これらの規定を第四十条第四項において準用する場合を含む。）の規定により都道府県又は指定市町村が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地を農地以外のものにする行為又は同一の事業の目的に供するため四ヘクタールを超える農地若しくはその農地と併せて採草放牧地について農地法第三条第一項本文に規定する権利を取得する行為に係る基盤確立事業実施計画に係るものに限る。）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">森林環境税及び森林環境譲与税に関する法律（平成三十一年法律第三号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -16449,10 +16650,7 @@
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>　第二号法定受託事務（第二条関係）</RelatedArticleNum>
       <TableStruct>
-        <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">この表の下欄の用語の意義及び字句の意味は、上欄に掲げる法律における用語の意義及び字句の意味によるものとする。</Sentence>
-        </Remarks>
+        <TableStructTitle WritingMode="vertical">備考　この表の下欄の用語の意義及び字句の意味は、上欄に掲げる法律における用語の意義及び字句の意味によるものとする。</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -16510,9 +16708,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">この法律の規定により市町村が処理することとされている事務のうち、次に掲げるもの</Sentence>
-              <Sentence Num="2" WritingMode="vertical">一　第四条第一項第八号の規定により市町村（指定市町村を除く。）が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地を農地以外のものにする行為に係るものを除く。）</Sentence>
+              <Sentence Num="2" WritingMode="vertical">一　第四条第一項第七号の規定により市町村（指定市町村を除く。）が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地を農地以外のものにする行為に係るものを除く。）</Sentence>
               <Sentence Num="3" WritingMode="vertical">二　第四条第三項の規定により市町村（指定市町村を除く。）が処理することとされている事務（申請書を送付する事務（同一の事業の目的に供するため四ヘクタールを超える農地を農地以外のものにする行為に係るものを除く。）に限る。）</Sentence>
-              <Sentence Num="4" WritingMode="vertical">三　第五条第一項第七号の規定により市町村（指定市町村を除く。）が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地又はその農地と併せて採草放牧地について第三条第一項本文に掲げる権利を取得する行為に係るものを除く。）</Sentence>
+              <Sentence Num="4" WritingMode="vertical">三　第五条第一項第六号の規定により市町村（指定市町村を除く。）が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地又はその農地と併せて採草放牧地について第三条第一項本文に掲げる権利を取得する行為に係るものを除く。）</Sentence>
               <Sentence Num="5" WritingMode="vertical">四　第五条第三項において準用する第四条第三項の規定により市町村（指定市町村を除く。）が処理することとされている事務（申請書を送付する事務（同一の事業の目的に供するため四ヘクタールを超える農地又はその農地と併せて採草放牧地について第三条第一項本文に掲げる権利を取得する行為に係るものを除く。）に限る。）</Sentence>
               <Sentence Num="6" WritingMode="vertical">五　第四十三条第一項の規定により市町村（指定市町村を除く。）が処理することとされている事務（同一の事業の目的に供するため四ヘクタールを超える農地をコンクリートその他これに類するもので覆う行為に係るものを除く。）</Sentence>
             </TableColumn>
@@ -18347,6 +18545,12 @@
       <Article Num="2">
         <ArticleCaption>（適用区分）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
@@ -28735,6 +28939,424 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年四月六日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年四月二七日法律第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年四月二七日法律第三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二〇日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条及び第七条から第九条までの規定並びに次条及び附則第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条（地方自治法第二百六十条の十八第三項の改正規定、同法第二百六十条の十九の次に一条を加える改正規定及び同法第二百六十条の二十八第一項の改正規定を除く。）及び第十条の規定並びに附則第三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二五日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して四年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定並びに附則第六十条中商業登記法（昭和三十八年法律第百二十五号）第五十二条第二項の改正規定及び附則第百二十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="125">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二五日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二五日法律第五二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次条並びに附則第三条、第五条及び第三十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二七日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二七日法律第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二十八条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月九日法律第九六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（次号に掲げる改正規定を除く。）、第四条中地域保健法第六条の改正規定、第五条の規定、第八条中医療法第六条の五、第七条、第七条の二、第二十七条の二及び第三十条の四第十項の改正規定、第九条及び第十二条の規定並びに第十七条中高齢者の医療の確保に関する法律第百二十一条第一項第一号イの改正規定並びに次条第一項から第三項まで、附則第三条、第四条、第八条から第十二条まで、第十四条及び第十六条から第十八条までの規定、附則第十九条の規定（次号に掲げる改正規定を除く。）、附則第二十四条の規定、附則第三十一条中住民基本台帳法（昭和四十二年法律第八十一号）別表第二の四の項、別表第三の五の五の項、別表第四の三の項及び別表第五第六号の三の改正規定並びに附則第三十六条から第三十八条まで及び第四十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中感染症の予防及び感染症の患者に対する医療に関する法律（以下「感染症法」という。）第十五条の三、第四十四条の三及び第五十条の二の改正規定、感染症法第五十八条第一号の改正規定（「事務」の下に「（第十五条の三第一項の規定により実施される事務については同条第五項の規定により厚生労働大臣が代行するものを除く。）」を加える部分に限る。）、感染症法第六十四条第一項の改正規定（「第四十四条の三第七項」を「第四十四条の三第八項」に改める部分に限る。）、感染症法第六十五条の二の改正規定（「、第二項及び第七項」を「、第二項及び第八項」に、「から第六項まで並びに」を「から第七項まで、」に改める部分に限る。）、感染症法第七十三条第二項の改正規定（「第十五条の三第二項」の下に「（同条第七項の規定により読み替えて適用される場合を含む。）」を、「提供等」の下に「、第四十四条の三第六項（第四十四条の九第一項の規定に基づく政令によって準用される場合及び第五十条の二第四項において準用される場合を含む。）の規定による市町村長の協力」を加える部分に限る。）並びに感染症法第七十七条第三号の改正規定並びに第十条の規定並びに附則第十九条中地方自治法（昭和二十二年法律第六十七号）別表第一感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）の項の改正規定（「、第二項及び第七項」を「、第二項及び第八項」に、「から第六項まで並びに」を「から第七項まで、」に改める部分に限る。）並びに附則第二十五条、第四十条及び第四十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定及び第四条の規定（第一号に掲げる改正規定を除く。）並びに附則第五条、第六条、第十三条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第六条及び第七条の規定並びに第十三条中新型インフルエンザ等対策特別措置法第二十八条第五項から第七項までの改正規定並びに附則第十五条の規定、附則第二十一条中地方自治法別表第一予防接種法（昭和二十三年法律第六十八号）の項の改正規定並びに附則第三十二条及び第三十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="42">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    
+    <SupplProvision AmendLawNum="令和四年一二月一六日法律第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第百一条の改正規定及び附則第六条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にこの法律による改正前の地方自治法第九十二条の二（同法第二百八十七条の二第七項、第二百九十二条及び第二百九十六条第三項において準用する場合を含む。）に規定する請負をする者及びその支配人に該当した者については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政府の措置等）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、事業主に対し、地方公共団体の議会の議員の選挙においてその雇用する労働者が容易に立候補をすることができるよう、地方公共団体の議会の議員の選挙における立候補に伴う休暇等に関する事項を就業規則に定めることその他の自主的な取組を促すものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>地方公共団体の議会の議員の選挙における労働者の立候補に伴う休暇等に関する法制度については、事業主の負担に配慮しつつ、かつ、他の公職の選挙における労働者の立候補に伴う休暇等に関する制度の在り方についての検討の状況も踏まえ、この法律による改正後の規定の施行の状況、前項の自主的な取組の状況等を勘案して、引き続き検討が加えられるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月一六日法律第一〇四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条中精神保健及び精神障害者福祉に関する法律（以下「精神保健福祉法」という。）第一条の改正規定及び精神保健福祉法第五条の改正規定（「、精神病質」を削る部分に限る。）並びに附則第三条、第二十三条及び第四十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定、第四条中児童福祉法第二十一条の五の七第一項、第三十三条の十八第一項、第三十三条の二十第五項及び第三十三条の二十二の改正規定並びに第三十三条の二十三の次に二条を加える改正規定、第七条の規定（前号に掲げる改正規定を除く。）、第九条中障害者の雇用の促進等に関する法律（以下「障害者雇用促進法」という。）第五条、第二十条、第二十二条、第四十五条の三第二項、第三項及び第七項並びに第七十四条の三第四項の改正規定、第十三条中身体障害者福祉法第九条第二項から第四項までの改正規定並びに第十四条中知的障害者福祉法第九条第二項から第四項までの改正規定並びに附則第四条、第十条、第十一条、第二十一条、第二十二条、第二十四条、第三十六条及び第三十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="43">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

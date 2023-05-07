@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60400000001" AmendmentNum="令和元年国家公安委員会規則第一号" Era="Showa" Lang="ja" LawType="Rule" Num="004" Year="31" PromulgateMonth="02" PromulgateDay="08">
+<Law AmendmentId="501M60400000001" AmendmentNum="令和元年国家公安委員会規則第一号" Era="Showa" Lang="ja" LawType="Rule" Num="004" Year="31" PromulgateMonth="12" PromulgateDay="19">
   <LawNum>昭和三十一年国家公安委員会規則第四号</LawNum>
   <LawBody>
     <LawTitle Kana="けいさつかんのふくせいにかんするきそく" Abbrev="" AbbrevKana="">警察官の服制に関する規則</LawTitle>
@@ -2221,8 +2221,7 @@
                 </FigStruct>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">
-                </Sentence>
+                <Sentence/>
               </TableColumn>
             </TableRow>
           </Table>
@@ -2382,8 +2381,7 @@
                 </FigStruct>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">
-                </Sentence>
+                <Sentence/>
               </TableColumn>
             </TableRow>
           </Table>
@@ -2882,11 +2880,11 @@
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１　襟、袖、エンブレム及び袖章は、男性警察官冬服上衣と同様とする。２　形状は、図一のとおりとする。</Sentence>
+                <Sentence WritingMode="vertical">１　襟、袖、エンブレム及び袖章は、男性警察官冬服上衣と同様とする。</Sentence>
+                <Sentence WritingMode="vertical">２　形状は、図一のとおりとする。</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -2939,8 +2937,7 @@
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical">形状は、図二のとおりとする。</Sentence>
@@ -3341,8 +3338,7 @@
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">
-                </Sentence>
+                <Sentence/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical">形状は、図八のとおりとする。</Sentence>
@@ -4058,8 +4054,7 @@
                 </FigStruct>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">
-                </Sentence>
+                <Sentence/>
               </TableColumn>
             </TableRow>
           </Table>
@@ -4072,10 +4067,23 @@
           <FigStructTitle>図十　階級章</FigStructTitle>
           <Fig src="./pict/S31F30301000004-123.jpg"/>
         </FigStruct>
-        <FigStruct>
-          <FigStructTitle>図十一　階級章及び識別章の取付け位置</FigStructTitle>
-          <Fig src="./pict/S31F30301000004-124.jpg"/>
-        </FigStruct>
+        <StyleStruct>
+          <StyleStructTitle>図十一　階級章及び識別章の取付け位置</StyleStructTitle>
+          <Style>
+            <FigStruct>
+              <Fig src="./pict/S31F30301000004-124.jpg"/>
+            </FigStruct>
+          </Style>
+          <Remarks>
+            <RemarksLabel LineBreak="false">（注）</RemarksLabel>
+            <Item Num="1">
+              <ItemTitle/>
+              <ItemSentence>
+                <Sentence>左胸のポケットの上部に付ける。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Remarks>
+        </StyleStruct>
       </Item>
     </AppdxTable>
   </LawBody>

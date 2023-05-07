@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="35" Year="26" PromulgateMonth="06" PromulgateDay="30"><LawNum>昭和二十六年農林省令第三十五号</LawNum><LawBody><LawTitle Kana="かちくでんせんびょうよぼうほうせこうきそく" Abbrev="家伝法施行規則" AbbrevKana="か">家畜伝染病予防法施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="035" Year="26" PromulgateMonth="05" PromulgateDay="31"><LawNum>昭和二十六年農林省令第三十五号</LawNum><LawBody><LawTitle Kana="かちくでんせんびょうよぼうほうせこうきそく" Abbrev="家伝法施行規則" AbbrevKana="か">家畜伝染病予防法施行規則</LawTitle>
     <EnactStatement>家畜伝染病予防法（昭和二十六年法律第百六十六号）に基き、及び同法を実施するため、家畜伝染病予防法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -459,9 +459,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <Ruby>疥癬<Rt>かいせん</Rt></Ruby>
-                    </Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><Ruby>疥癬<Rt>かいせん</Rt></Ruby></Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">めん羊</Sentence>
@@ -669,8 +667,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <Ruby>兎<Rt>うさぎ</Rt></Ruby>出血病</Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><Ruby>兎<Rt>うさぎ</Rt></Ruby>出血病</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">うさぎ</Sentence>
@@ -678,8 +675,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <Ruby>兎<Rt>うさぎ</Rt></Ruby>粘液腫</Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><Ruby>兎<Rt>うさぎ</Rt></Ruby>粘液腫</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">うさぎ</Sentence>
@@ -3177,11 +3173,17 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">試験研究の用に供するための人又は動物の細胞に添加された血清を輸入する場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">指定検疫物のうち、当該指定検疫物につき法第三十七条第一項の検査証明書又はその写しに記載されるべき事項が記録され、かつ、輸出国の政府機関が作成したと認められる電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。）が作成されたものを輸入する場合</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">試験研究の用に供するための人又は動物の細胞に添加された血清を輸入する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">農林水産大臣が指定する施設において試験研究の用に供するための指定検疫物（前号に規定する血清を除く。）を輸入する場合</Sentence>
               </ItemSentence>
@@ -4094,7 +4096,7 @@
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">Ａ－Ｈ５Ｎ９　ＴW６８　Ｂｉｏ</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">Ａ－Ｈ５Ｎ９　ＴＷ６８　Ｂｉｏ</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -9844,6 +9846,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月一日農林水産省令第六七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
@@ -10273,13 +10284,8 @@
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第九条、第四十条関係）</RelatedArticleNum>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">検査の方法</Sentence>
-        </ItemSentence>
-      </Item>
       <TableStruct>
+        <TableStructTitle WritingMode="vertical">検査の方法</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">

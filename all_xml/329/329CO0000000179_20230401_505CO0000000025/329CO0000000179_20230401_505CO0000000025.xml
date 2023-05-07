@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="29" PromulgateMonth="06" PromulgateDay="30" ScheduledEnforcementDate=""><LawNum>昭和二十九年政令第百七十九号</LawNum><LawBody><LawTitle Kana="じえいたいほうせこうれい" Abbrev="" AbbrevKana="">自衛隊法施行令</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="29" PromulgateMonth="06" PromulgateDay="30"><LawNum>昭和二十九年政令第百七十九号</LawNum><LawBody><LawTitle Kana="じえいたいほうせこうれい" Abbrev="" AbbrevKana="">自衛隊法施行令</LawTitle>
     <EnactStatement>内閣は、自衛隊法（昭和二十九年法律第百六十五号）の規定に基き、及び同法を実施するため、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -517,29 +517,23 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、特科隊一、戦車大隊一及び高射特科大隊一</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、特科隊一、偵察戦闘大隊一及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、特科隊一、偵察戦闘大隊一及び高射特科大隊一</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、戦車大隊一及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、戦車大隊一及び高射特科大隊一</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、偵察戦闘大隊一及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、偵察戦闘大隊一及び高射特科大隊一</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="8">
-                  <ItemTitle>八</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">普通科連隊一、戦車連隊三、特科連隊一及び高射特科連隊一</Sentence>
                   </ItemSentence>
@@ -622,13 +616,13 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">普通科連隊三、特科隊一及び戦車大隊一</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">普通科連隊三及び特科隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">普通科連隊三及び特科隊一</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">普通科連隊三及び偵察戦闘大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
@@ -16859,6 +16853,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月一〇日政令第四八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、令和五年三月十六日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">別表第一</AppdxStyleTitle>
       <RelatedArticleNum>（第一条の二関係）</RelatedArticleNum>
@@ -18326,6 +18329,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">宮古島市</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">石垣駐屯地</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">石垣市</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

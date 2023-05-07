@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="176" Year="47">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="176" Year="47" PromulgateMonth="05" PromulgateDay="12">
   <LawNum>昭和四十七年政令第百七十六号</LawNum>
   <LawBody>
-    <LawTitle>沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令</LawTitle>
+    <LawTitle Kana="おきなわのふっきにともなうこっかこうむいんたいしょくてあてほうのてきようのとくべつそちとうにかんするせいれい" Abbrev="" AbbrevKana="">沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令</LawTitle>
     <EnactStatement>内閣は、沖縄の復帰に伴う特別措置に関する法律（昭和四十六年法律第百二十九号）第百五十六条第一項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -160,17 +160,8 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="6">
-        <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">削除</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="7">
-        <ArticleTitle>第七条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="6:7">
+        <ArticleTitle>第六条及び第七条</ArticleTitle>
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -198,7 +189,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="348134" AmendLawNum="昭和四八年五月一七日政令第一三四号" Extract="true" Id="1db76b78-1890-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四八年五月一七日政令第一三四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -207,7 +198,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="350026" AmendLawNum="昭和五〇年三月一〇日政令第二六号" Id="a6cebcf8-c4ed-459b-b9e9-df8583207f0b">
+    <SupplProvision AmendLawNum="昭和五〇年三月一〇日政令第二六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -216,7 +207,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="352138" AmendLawNum="昭和五二年五月一三日政令第一三八号" Id="7eed37a6-1903-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五二年五月一三日政令第一三八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -225,7 +216,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360056" AmendLawNum="昭和六〇年三月三〇日政令第五六号" Extract="true" Id="227f2a10-1890-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年三月三〇日政令第五六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -234,7 +225,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362054" AmendLawNum="昭和六二年三月二〇日政令第五四号" Extract="true" Id="96e885e3-381a-4fce-a945-d9d97167242e">
+    <SupplProvision AmendLawNum="昭和六二年三月二〇日政令第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -247,7 +238,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412304" AmendLawNum="平成一二年六月七日政令第三〇四号" Extract="true" Id="7ae460e4-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -256,7 +247,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="418029" AmendLawNum="平成一八年三月三日政令第二九号" Id="e4be0ae4-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年三月三日政令第二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -265,7 +256,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421076" AmendLawNum="平成二一年三月三一日政令第七六号" Id="131fb6ec-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月三一日政令第七六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -274,7 +265,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426195" AmendLawNum="平成二六年五月二九日政令第一九五号" Extract="true" Id="53ee467a-47dd-11e5-8fc3-635beeef9d28">
+    <SupplProvision AmendLawNum="平成二六年五月二九日政令第一九五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -321,7 +312,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">(一)　自己都合による退職（(二)から(四)までに掲げる退職以外の退職をいう。）</Sentence>
+              <Sentence WritingMode="vertical">（一）　自己都合による退職（（二）から（四）までに掲げる退職以外の退職をいう。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">一　一年以上十年以下の期間については、一年につき百分の百</Sentence>
@@ -331,7 +322,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">(二)　死亡（公務上の死亡を除く。）による退職</Sentence>
+              <Sentence WritingMode="vertical">（二）　死亡（公務上の死亡を除く。）による退職</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">一　一年以上十年以下の期間については、一年につき百分の百三十</Sentence>
@@ -341,7 +332,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">(三)イ　定員の減少又は組織の改廃のため過員又は廃職を生じたことによる退職</Sentence>
+              <Sentence WritingMode="vertical">（三）イ　定員の減少又は組織の改廃のため過員又は廃職を生じたことによる退職</Sentence>
               <Sentence WritingMode="vertical">ロ　公務上の負傷若しくは病気又は死亡による退職</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -352,7 +343,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">(四)　勧しようによる退職（五年以上勤続し、かつ、年令六十年以上で退職した場合における退職に限る。）</Sentence>
+              <Sentence WritingMode="vertical">（四）　勧しようによる退職（五年以上勤続し、かつ、年令六十年以上で退職した場合における退職に限る。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">一　一年以上十年以下の期間については、一年につき百分の三百</Sentence>

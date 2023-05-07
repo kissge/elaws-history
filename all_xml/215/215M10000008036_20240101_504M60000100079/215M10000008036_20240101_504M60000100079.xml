@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Reiwa" Lang="ja" LawType="MinisterialOrdinance" Num="36" Year="04" PromulgateMonth="04" PromulgateDay="01"><LawNum>大正十五年内務省令第三十六号</LawNum><LawBody><LawTitle Kana="けんこうほけんほうせこうきそく" Abbrev="健保法施行規則" AbbrevKana="け">健康保険法施行規則</LawTitle>
+<Law Era="Taisho" Lang="ja" LawType="MinisterialOrdinance" Num="036" Year="15" PromulgateMonth="07" PromulgateDay="01"><LawNum>大正十五年内務省令第三十六号</LawNum><LawBody><LawTitle Kana="けんこうほけんほうせこうきそく" Abbrev="健保法施行規則" AbbrevKana="け">健康保険法施行規則</LawTitle>
     <EnactStatement>健康保険法施行規則左ノ通定ム</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -1604,6 +1604,23 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="24_3">
+            <ArticleCaption>（法第二百条第一項及び第二百二条の規定の適用を受けなくなった場合の届出）</ArticleCaption>
+            <ArticleTitle>第二十四条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">被保険者が法第三条第十項に規定する共済組合（以下この項、第二十九条の二第一項及び第五十一条第四項第四号において単に「共済組合」という。）の組合員の資格を喪失したことにより、適用事業所（当該共済組合に係るものを除く。）に係る法第二百条第一項及び第二百二条の規定の適用を受けなくなったときは、当該適用事業所の事業主は、当該事実があった日から五日以内に、その旨を記載した様式第三号による届書を機構又は健康保険組合に提出しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同様式中「被保険者資格取得届」とあるのは「第二十四条の三第一項の届書」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第三項及び第四項の規定は、前項の届出について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="25">
             <ArticleCaption>（報酬月額の届出）</ArticleCaption>
             <ArticleTitle>第二十五条</ArticleTitle>
@@ -1934,6 +1951,23 @@
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第二十四条第四項及び第五項の規定は、第一項の届出について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29_2">
+            <ArticleCaption>（法第二百条第一項及び第二百二条の規定の適用を受けるに至った場合の届出）</ArticleCaption>
+            <ArticleTitle>第二十九条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">被保険者が共済組合の組合員の資格を取得したことにより、適用事業所（当該共済組合に係るものを除く。）に係る法第二百条第一項及び第二百二条の規定の適用を受けるに至ったときは、当該適用事業所の事業主は、当該事実があった日から五日以内に、その旨を記載した様式第八号による届書を機構又は健康保険組合に提出しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同様式中「被保険者資格喪失届」とあるのは「第二十九条の二第一項の届書」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第四項の規定は、前項の届出について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2567,15 +2601,51 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">協会は、厚生労働大臣から、法第三十九条第一項の規定により被保険者の資格の取得の確認を行った又は事業所整理記号及び被保険者整理番号の変更を行った旨の情報の提供を受けたときは、様式第九号による被保険者証を被保険者に交付しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">協会は、厚生労働大臣から次に掲げる情報の提供を受けたときは、様式第九号による被保険者証を被保険者に交付しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該情報の提供が、同一の都道府県の区域内における事業所の所在地の変更に伴い行われたものであるときは、この限りでない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第三十九条第一項の規定により被保険者の資格の取得の確認を行った旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">事業所整理記号及び被保険者整理番号の変更を行った旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十四条の三第一項の届書を受理した旨</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">健康保険組合は、法第三十九条第一項の規定により被保険者の資格の取得の確認を行ったとき、又は被保険者等記号・番号を変更したときは、様式第九号による被保険者証を被保険者に交付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">健康保険組合は、次に掲げる場合においては、様式第九号による被保険者証を被保険者に交付しなければならない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第三十九条第一項の規定により被保険者の資格の取得の確認を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者等記号・番号を変更したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十四条の三第一項の届書を受理したとき。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
@@ -2767,9 +2837,33 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業主は、被保険者が資格を喪失したとき、その保険者に変更があったとき、又はその被扶養者が異動したときは、遅滞なく、被保険者証を回収して、これを保険者に返納しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業主は、次に掲げる場合においては、遅滞なく、被保険者証を回収して、これを保険者に返納しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合（被保険者が任意継続被保険者である場合を除く。）において、協会に返納するときは厚生労働大臣を経由して行うものとする。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者が資格を喪失したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者の保険者に変更があったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者の被扶養者が異動したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十九条の二第一項の届出を行うとき。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -2780,15 +2874,39 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">被保険者（任意継続被保険者を除く。次項において同じ。）の資格喪失により事業主が返納すべき被保険者証は、やむを得ない場合を除き、資格喪失届に添えなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項第一号（被保険者が任意継続被保険者である場合を除く。）又は第四号に掲げる場合において事業主が返納すべき被保険者証は、やむを得ない場合を除き、資格喪失届（同号に掲げる場合にあっては、第二十九条の二第一項の届書。以下この項において同じ。）に添えなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合においては、その理由を資格喪失届に付記しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">被保険者は、その資格を喪失したとき、その保険者に変更があったとき、又はその被扶養者が異動したときは、五日以内に、被保険者証を事業主に提出しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">被保険者（任意継続被保険者を除く。以下この項において同じ。）は、次に掲げる場合においては、五日以内に、被保険者証を事業主に提出しなければならない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者の資格を喪失したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者の保険者に変更があったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者の被扶養者が異動したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者が共済組合の組合員の資格を取得したことにより、適用事業所（当該共済組合に係るものを除く。）に係る法第二百条第一項及び第二百二条の規定の適用を受けるに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
@@ -3041,21 +3159,12 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="59">
-              <ArticleTitle>第五十九条</ArticleTitle>
+            <Article Num="59:60">
+              <ArticleTitle>第五十九条及び第六十条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>削除</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="60">
-              <ArticleTitle>第六十条</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence>削除</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3120,6 +3229,34 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">疾病又は負傷が第三者の行為によるものであるときは、その事実並びに第三者の氏名及び住所又は居所（氏名又は住所若しくは居所が明らかでないときは、その旨）</Sentence>
                   </ItemSentence>
+                </Item>
+                <Item Num="9">
+                  <ItemTitle>九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律（令和三年法律第三十八号）第三条第一項、第四条第一項及び第五条第二項の規定による登録に係る預貯金口座（以下「公金受取口座」という。）を利用しようとする者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
                 </Item>
               </Paragraph>
               <Paragraph Num="3">
@@ -3257,6 +3394,34 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">疾病又は負傷が第三者の行為によるものであるときは、その事実並びに第三者の氏名及び住所又は居所（氏名又は住所若しくは居所が明らかでないときは、その旨）</Sentence>
                   </ItemSentence>
+                </Item>
+                <Item Num="9">
+                  <ItemTitle>九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
                 </Item>
               </Paragraph>
               <Paragraph Num="3">
@@ -3404,6 +3569,34 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">疾病又は負傷が第三者の行為によるものであるときは、その事実並びに第三者の氏名及び住所又は居所（氏名又は住所若しくは居所が明らかでないときは、その旨）</Sentence>
                   </ItemSentence>
+                </Item>
+                <Item Num="10">
+                  <ItemTitle>十</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
                 </Item>
               </Paragraph>
               <Paragraph Num="2">
@@ -3852,6 +4045,34 @@
                     <Sentence Num="1" WritingMode="vertical">疾病又は負傷の原因が第三者の行為によるものであるときは、その事実並びに第三者の氏名及び住所又は居所（氏名又は住所若しくは居所が明らかでないときは、その旨）</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="8">
+                  <ItemTitle>八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
@@ -3924,6 +4145,34 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">現に療養の給付又は入院時食事療養費に係る療養、入院時生活療養費に係る療養、保険外併用療養費に係る療養若しくは訪問看護療養費に係る療養を受けている保険医療機関等又は訪問看護ステーションの名称及び所在地</Sentence>
                   </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                      </Column>
+                    </Subitem1Sentence>
+                  </Subitem1>
                 </Item>
               </Paragraph>
               <Paragraph Num="2">
@@ -4035,6 +4284,34 @@
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">同一の疾病又は負傷及びこれにより発した疾病について、労働者災害補償保険法（昭和二十二年法律第五十号）、国家公務員災害補償法（昭和二十六年法律第百九十一号。他の法律において準用し、又は例による場合を含む。）又は地方公務員災害補償法（昭和四十二年法律第百二十一号）若しくは同法に基づく条例の規定により、傷病手当金に相当する給付を受け、又は受けようとする場合は、その旨</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
@@ -4255,6 +4532,34 @@
                   <Sentence Num="1" WritingMode="vertical">死亡が第三者の行為によるものであるときは、その事実並びに第三者の氏名及び住所又は居所（氏名又は住所若しくは居所が明らかでないときは、その旨）</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨及び個人番号</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -4306,6 +4611,34 @@
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">死産であるときは、その旨</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
@@ -4445,6 +4778,34 @@
                   <Sentence Num="1" WritingMode="vertical">出産手当金が法第百九条の規定によるものであるときは、受けることができるはずであった報酬の額及び期間、受けることができなかった報酬の額及び期間、法第百八条第二項ただし書の規定により受けた出産手当金の額並びに報酬を受けることができなかった理由</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -4559,21 +4920,12 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="91">
-            <ArticleTitle>第九十一条</ArticleTitle>
+          <Article Num="91:92">
+            <ArticleTitle>第九十一条及び第九十二条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>削除</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="92">
-            <ArticleTitle>第九十二条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence>削除</Sentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4640,6 +4992,34 @@
                   <Sentence Num="1" WritingMode="vertical">第八十五条第一項第二号、第三号及び第六号に掲げる事項</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -4696,7 +5076,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">予防接種法（昭和二十三年法律第六十八号）第十六条第一項第一号又は第二項第一号（同法附則第七条第二項及び新型インフルエンザ等対策特別措置法（平成二十四年法律第三十一号）第二十八条第五項から第七項までの規定により適用される場合を含む。）の医療費の支給</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">予防接種法（昭和二十三年法律第六十八号）第十六条第一項第一号又は第二項第一号（新型インフルエンザ等対策特別措置法（平成二十四年法律第三十一号）第二十八条第五項から第七項までの規定により適用される場合を含む。）の医療費の支給</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -5829,6 +6209,34 @@
                   <Sentence Num="1" WritingMode="vertical">支給を受けようとする高額療養費に係る療養があった月以前の十二月間に受けた療養について、その者の保険者より令第四十一条第一項から第四項までの規定による高額療養費の支給を既に三月以上受けたときは、その旨及びその高額療養費に係る療養があった年月</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -5881,6 +6289,34 @@
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">申請者及び基準日被扶養者が、計算期間において、それぞれ加入していた医療保険者（高齢者医療確保法第七条第二項に規定する保険者及び高齢者医療確保法第四十八条に規定する後期高齢者医療広域連合をいう。以下同じ。）の名称及びその加入期間</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
@@ -5972,6 +6408,34 @@
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">申請者が計算期間における当該保険者の被保険者であった間に、高額療養費に係る外来療養を受けた者の氏名及びその年月</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
@@ -6666,6 +7130,34 @@
                   <Sentence Num="1" WritingMode="vertical">申請者及び基準日被扶養者が、計算期間において、それぞれ加入していた医療保険者及び介護保険者（介護保険法第三条の規定により介護保険を行う市町村及び特別区をいう。）の名称及びその加入期間</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -6757,6 +7249,34 @@
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">申請者が計算期間における当該保険者の被保険者であった間に、高額介護合算療養費に係る療養を受けた者の氏名及びその年月</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">イに掲げる者以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">払渡しを受けようとする金融機関等の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
@@ -8332,7 +8852,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">申出に係る被保険者が産前産後休業に係る子を出産した場合にあっては、当該子の氏名及び生年月日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">申出に係る被保険者が産前産後休業に係る子を出産した場合にあっては、出産の年月日</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -8836,8 +9356,30 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">還付金の払渡を受けようとする金融機関等の名称</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる者の区分に応じ、当該イ及びロに定める事項</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">還付金の払渡しを受けようとする預貯金口座として、公金受取口座を利用しようとする者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">還付金の払渡しを受けようとする預貯金口座として、公金受取口座を利用する旨</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">イに掲げる以外の者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">還付金の払渡しを受けようとする金融機関等の名称</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
@@ -8889,7 +9431,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">納入告知書を送付する金融機関の店舗の名称及び所在地</Sentence>
+                <Sentence Num="1" WritingMode="vertical">納入告知書を送付する金融機関の店舗の名称</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -12485,6 +13027,15 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">令和三年度及び令和四年度における第百三十五条の二の二第二項及び第三項並びに第百三十五条の七の規定の適用については、第百三十五条の二の二第二項第一号中「国庫補助の額」とあるのは「国庫補助の額及び厚生労働大臣が定める額を合算した額」と、第百三十五条の七第一号イ中「国庫補助の額」とあるのは「国庫補助の額及び厚生労働大臣が定める額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_9">
+        <ArticleTitle>第一条の九</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和五年度及び令和六年度における第百三十五条の二の二第二項及び第三項並びに第百三十五条の七の規定の適用については、第百三十五条の二の二第二項第一号中「国庫補助の額」とあるのは「国庫補助の額及び厚生労働大臣が定める額を合算した額」と、第百三十五条の七第一号イ中「国庫補助の額」とあるのは「国庫補助の額及び厚生労働大臣が定める額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -17305,12 +17856,96 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年九月八日厚生労働省令第一二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和四年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年九月一三日厚生労働省令第一二九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和四年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式にある用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年九月二七日厚生労働省令第一三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、年金制度の機能強化のための国民年金法等の一部を改正する法律附則第一条第八号に掲げる規定の施行の日（次条において「第八号施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">適用事業所の事業主は、被保険者（第八号施行日前から引き続き当該適用事業所に使用される者に限る。）が第八号施行日において健康保険法（大正十一年法律第七十号）第三条第十項に規定する共済組合の組合員の資格を取得し、同法第二百条第一項及び第二百二条の規定の適用を受ける場合には、第一条の規定による改正後の健康保険法施行規則第二十九条の二第一項の規定にかかわらず、日本年金機構に対し、同令様式第八号による届書を提出することを要しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月九日厚生労働省令第一六五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律（以下この項及び附則第五項において「改正法」という。）附則第一条第一号に掲げる規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年一月二七日厚生労働省令第一〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037260.pdf"/>
+          <Fig src="./pict/2FH00000062834.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -17319,7 +17954,7 @@
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037261.pdf"/>
+          <Fig src="./pict/2FH00000062835.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -17373,7 +18008,7 @@
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000061221.pdf"/>
+          <Fig src="./pict/2FH00000061220.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

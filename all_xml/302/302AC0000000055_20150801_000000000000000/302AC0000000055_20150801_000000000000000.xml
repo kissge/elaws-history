@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="55" Year="02">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="055" Year="02" PromulgateMonth="05" PromulgateDay="09">
   <LawNum>昭和二年法律第五十五号</LawNum>
   <LawBody>
-    <LawTitle>日本銀行特別融通及損失補償法</LawTitle>
+    <LawTitle Kana="にほんぎんこうとくべつゆうづうきゅうそんしつほしょうほう" Abbrev="" AbbrevKana="">日本銀行特別融通及損失補償法</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -12,8 +12,8 @@
             <Sentence WritingMode="vertical">日本銀行ハ現ニ預金ノ払戻停止中ニ非ザル銀行ヨリ其ノ預金（定期積金ヲ含ム）ノ支払準備ニ充ツル為資金融通ノ請求アリタル場合ニ於テ財界ノ安定ヲ図ル為必要アリト認ムルトキハ之ニ対シ手形割引ノ方法ニ依リ大蔵大臣ノ定ムル特別融通ヲ為スコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">現ニ預金ノ払戻停止中ノ銀行ニシテ将来営業継続ノ見込アルモノニ付テハ前項ノ規定ヲ適用ス</Sentence>
           </ParagraphSentence>
@@ -85,20 +85,20 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">本法ハ公布ノ日ヨリ之ヲ施行ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">昭和二年四月二十二日ヨリ本法施行ノ日ノ前日迄ニ日本銀行ノ為シタル手形割引ニ依ル融通ニシテ第一条ノ特別融通ニ相当スルモノハ之ヲ第一条ノ特別融通ト看做ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="309034" AmendLawNum="昭和九年三月二九日法律第三四号" Id="50358ed6-18c7-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和九年三月二九日法律第三四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -107,7 +107,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="316035" AmendLawNum="昭和一六年三月六日法律第三五号" Extract="true" Id="505c03cc-18c7-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和一六年三月六日法律第三五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="37">
         <ArticleTitle>第三十七条</ArticleTitle>
@@ -119,16 +119,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="322046" AmendLawNum="昭和二二年四月一日法律第四六号" Extract="true" Id="5082822c-18c7-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二二年四月一日法律第四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この法律施行の期日は、各規定につき、勅令でこれを定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326173" AmendLawNum="昭和二六年六月一日法律第一七三号" Extract="true" Id="50a8f0b0-18c7-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年六月一日法律第一七三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -137,7 +137,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

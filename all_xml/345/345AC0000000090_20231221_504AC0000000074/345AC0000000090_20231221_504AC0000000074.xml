@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="90" Year="45" PromulgateMonth="05" PromulgateDay="22" ScheduledEnforcementDate="2023/12/21"><LawNum>昭和四十五年法律第九十号</LawNum><LawBody><LawTitle Kana="じょうほうしょりのそくしんにかんするほうりつ" Abbrev="情報処理促進法" AbbrevKana="じ">情報処理の促進に関する法律</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="090" Year="45" PromulgateMonth="05" PromulgateDay="22" ScheduledEnforcementDate="2023/12/21"><LawNum>昭和四十五年法律第九十号</LawNum><LawBody><LawTitle Kana="じょうほうしょりのそくしんにかんするほうりつ" Abbrev="情報処理促進法" AbbrevKana="じ">情報処理の促進に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1461,8 +1461,12 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
-            <Sentence Num="3" WritingMode="vertical">一から四まで略</Sentence>
           </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">一から四まで略</Sentence>
+            </ListSentence>
+          </List>
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
@@ -2610,6 +2614,28 @@
           </Item>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和四年六月二二日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>

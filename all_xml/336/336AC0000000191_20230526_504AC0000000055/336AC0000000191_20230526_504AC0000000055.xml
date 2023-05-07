@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="191" Year="36" PromulgateMonth="11" PromulgateDay="07" ScheduledEnforcementDate="2023/05/26"><LawNum>昭和三十六年法律第百九十一号</LawNum><LawBody><LawTitle Kana="たくちぞうせいおよびとくていもりどとうきせいほう" Abbrev="宅造法" AbbrevKana="た">宅地造成及び特定盛土等規制法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="191" Year="36" PromulgateMonth="11" PromulgateDay="07"><LawNum>昭和三十六年法律第百九十一号</LawNum><LawBody><LawTitle Kana="たくちぞうせいおよびとくていもりどとうきせいほう" Abbrev="宅造法" AbbrevKana="た">宅地造成及び特定盛土等規制法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -2271,24 +2271,20 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">目次の改正規定（「第二節</Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">目次の改正規定（「／第二節</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">中核市に関する特例</Sentence>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">中核市に関する特例／第三節</Sentence>
               </Column>
-              <Column LineBreak="false" Num="3">
-                <Sentence WritingMode="vertical">第三節</Sentence>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">特例市に関する特例／」を「第二節</Sentence>
               </Column>
-              <Column LineBreak="false" Num="4">
-                <Sentence WritingMode="vertical">特例市に関する特例」を「第二節</Sentence>
+              <Column Num="4">
+                <Sentence Num="1" WritingMode="vertical">中核市に関する特例」に改める部分に限る。）、第二百五十二条の二十二第一項の改正規定、第二編第十二章第三節を削る改正規定、第二百六十条の三十八を第二百六十条の四十とする改正規定及び第二百六十条の三十七の次に二条を加える改正規定並びに次条、附則第三条、第三十三条、第三十四条、第四十条、第四十一条、第四十五条から第四十八条まで、第五十一条、第五十二条、第五十四条、第五十五条、第五十八条、第五十九条、第六十三条、第六十四条、第六十八条、第六十九条及び第七十一条から第七十五条までの規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="5">
-                <Sentence Num="1" WritingMode="vertical">中核市に関する特例」に改める部分に限る。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">）、第二百五十二条の二十二第一項の改正規定、第二編第十二章第三節を削る改正規定、第二百六十条の三十八を第二百六十条の四十とする改正規定及び第二百六十条の三十七の次に二条を加える改正規定並びに次条、附則第三条、第三十三条、第三十四条、第四十条、第四十一条、第四十五条から第四十八条まで、第五十一条、第五十二条、第五十四条、第五十五条、第五十八条、第五十九条、第六十三条、第六十四条、第六十八条、第六十九条及び第七十一条から第七十五条までの規定</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="6">
-                <Sentence WritingMode="vertical">平成二十七年四月一日</Sentence>
+              <Column Num="5">
+                <Sentence Num="1" WritingMode="vertical">平成二十七年四月一日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -2370,6 +2366,28 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="325" Year="42">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="325" Year="42" PromulgateMonth="10" PromulgateDay="09">
   <LawNum>昭和四十二年政令第三百二十五号</LawNum>
   <LawBody>
-    <LawTitle>外国人漁業の規制に関する法律施行令</LawTitle>
+    <LawTitle Kana="がいこくじんぎょぎょうのきせいにかんするほうりつせこうれい" Abbrev="外国人漁業規制法施行令,外規法施行令" AbbrevKana="が,が">外国人漁業の規制に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、外国人漁業の規制に関する法律（昭和四十二年法律第六十号）第四条第一項第二号及び第三号並びに第六条第四項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -31,8 +31,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第四条の二の政令で定める漁獲物等は、水産資源の持続的な利用に関する国際機関その他の国際的な枠組み（我が国が締結した条約その他の国際約束により設けられたものに限る。）により我が国が本邦の港への寄港の禁止その他の必要な措置を講ずることが必要である旨が決定された船舶であつて、その活動によつて水産資源の適切な保存及び管理に支障が生じ、又は生ずるおそれがあるものとして農林水産大臣の指定するものが積載した漁獲物等（当該船舶から他の船舶に転載されたものを含む。）とする。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">　</Sentence>
+            <Sentence WritingMode="vertical">法第四条の二の政令で定める漁獲物等は、水産資源の持続的な利用に関する国際機関その他の国際的な枠組み（我が国が締結した条約その他の国際約束により設けられたものに限る。）により我が国が本邦の港への寄港の禁止その他の必要な措置を講ずることが必要である旨が決定された船舶であつて、その活動によつて水産資源の適切な保存及び管理に支障が生じ、又は生ずるおそれがあるものとして農林水産大臣の指定するものが積載した漁獲物等（当該船舶から他の船舶に転載されたものを含む。）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -68,7 +67,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="353282" AmendLawNum="昭和五三年七月五日政令第二八二号" Extract="true" Id="913739dd-e097-47b5-b3ae-77289f896c14">
+    <SupplProvision AmendLawNum="昭和五三年七月五日政令第二八二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -81,7 +80,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="355264" AmendLawNum="昭和五五年一〇月一一日政令第二六四号" Extract="true" Id="2ed19c8c-1884-11e8-b5d9-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年一〇月一一日政令第二六四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -94,7 +93,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412310" AmendLawNum="平成一二年六月七日政令第三一〇号" Extract="true" Id="151dcf92-d3b6-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -107,7 +106,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="428260" AmendLawNum="平成二八年七月二一日政令第二六〇号" Id="ea93ac93-e260-e342-d1c3-afea4f6c794b" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年七月二一日政令第二六〇号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

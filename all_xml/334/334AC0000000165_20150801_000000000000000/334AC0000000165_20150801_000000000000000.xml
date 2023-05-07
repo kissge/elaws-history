@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="165" Year="34">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="165" Year="34" PromulgateMonth="05" PromulgateDay="15">
   <LawNum>昭和三十四年法律第百六十五号</LawNum>
   <LawBody>
-    <LawTitle>連合国財産の返還等に伴う損失の処理等に関する法律</LawTitle>
+    <LawTitle Kana="れんごうこくざいさんのへんかんとうにともなうそんしつのしょりとうにかんするほうりつ" Abbrev="" AbbrevKana="">連合国財産の返還等に伴う損失の処理等に関する法律</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（この法律の趣旨）</ArticleCaption>
@@ -448,7 +448,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="337161" AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Id="4d6c2670-d3be-11e9-a719-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -504,7 +504,7 @@
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一　土地及びこれに関する権利についての倍数表</AppdxTableTitle>
       <Item Delete="false" Hide="false" Num="1">
-        <ItemTitle>(一)</ItemTitle>
+        <ItemTitle>（一）</ItemTitle>
         <ItemSentence>
           <Sentence WritingMode="vertical">東京都、大阪市、名古屋市、横浜市、京都市及び神戸市に所在する土地並びにこれに関する権利</Sentence>
         </ItemSentence>
@@ -658,7 +658,7 @@
         </Table>
       </TableStruct>
       <Item Delete="false" Hide="false" Num="2">
-        <ItemTitle>(二)</ItemTitle>
+        <ItemTitle>（二）</ItemTitle>
         <ItemSentence>
           <Sentence WritingMode="vertical">その他の地域に所在する土地及びこれに関する権利</Sentence>
         </ItemSentence>
@@ -815,7 +815,7 @@
     <AppdxTable Num="2">
       <AppdxTableTitle WritingMode="vertical">別表第二　建物及び構築物並びにこれらに関する権利についての倍数表</AppdxTableTitle>
       <Item Delete="false" Hide="false" Num="1">
-        <ItemTitle>(一)</ItemTitle>
+        <ItemTitle>（一）</ItemTitle>
         <ItemSentence>
           <Sentence WritingMode="vertical">木造の建物及び構築物並びにこれらに関する権利</Sentence>
         </ItemSentence>
@@ -969,7 +969,7 @@
         </Table>
       </TableStruct>
       <Item Delete="false" Hide="false" Num="2">
-        <ItemTitle>(二)</ItemTitle>
+        <ItemTitle>（二）</ItemTitle>
         <ItemSentence>
           <Sentence WritingMode="vertical">その他の建物及び構築物並びにこれらに関する権利</Sentence>
         </ItemSentence>
@@ -1126,7 +1126,7 @@
     <AppdxTable Num="3">
       <AppdxTableTitle WritingMode="vertical">別表第三　動産に関する倍数表</AppdxTableTitle>
       <Item Delete="false" Hide="false" Num="1">
-        <ItemTitle>(一)</ItemTitle>
+        <ItemTitle>（一）</ItemTitle>
         <ItemSentence>
           <Sentence WritingMode="vertical">貴石、半貴石、貴金属地金、放射性元素並びに書画及び骨とう品</Sentence>
         </ItemSentence>

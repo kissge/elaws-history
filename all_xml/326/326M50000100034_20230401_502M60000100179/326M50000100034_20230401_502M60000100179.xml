@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="34" Year="26">
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="034" Year="26" PromulgateMonth="08" PromulgateDay="11">
   <LawNum>昭和二十六年厚生省令第三十四号</LawNum>
   <LawBody>
-    <LawTitle>保健師助産師看護師法施行規則</LawTitle>
+    <LawTitle Kana="ほけんしじょさんしかんごしほうせこうきそく" Abbrev="保助看法施行規則" AbbrevKana="ほ">保健師助産師看護師法施行規則</LawTitle>
     <EnactStatement>保健婦助産婦看護婦法施行規則（昭和二十五年厚生省令第三十七号）を次のように改正する。</EnactStatement>
     <MainProvision>
       <Chapter Num="1">
@@ -527,21 +527,12 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="16">
-          <ArticleTitle>第十六条</ArticleTitle>
+        <Article Num="16:17">
+          <ArticleTitle>第十六条及び第十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>削除</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="17">
-          <ArticleTitle>第十七条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>削除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -575,11 +566,27 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">保健師国家試験は、次の科目について行う。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">公衆衛生看護学</Sentence>
-              <Sentence Num="3" WritingMode="vertical">疫学</Sentence>
-              <Sentence Num="4" WritingMode="vertical">保健統計学</Sentence>
-              <Sentence Num="5" WritingMode="vertical">保健医療福祉行政論</Sentence>
             </ParagraphSentence>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">公衆衛生看護学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">疫学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">保健統計学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">保健医療福祉行政論</Sentence>
+              </ListSentence>
+            </List>
           </Paragraph>
         </Article>
         <Article Num="21">
@@ -589,11 +596,27 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">助産師国家試験は、次の科目について行う。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">基礎助産学</Sentence>
-              <Sentence Num="3" WritingMode="vertical">助産診断・技術学</Sentence>
-              <Sentence Num="4" WritingMode="vertical">地域母子保健</Sentence>
-              <Sentence Num="5" WritingMode="vertical">助産管理</Sentence>
             </ParagraphSentence>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">基礎助産学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">助産診断・技術学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">地域母子保健</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">助産管理</Sentence>
+              </ListSentence>
+            </List>
           </Paragraph>
         </Article>
         <Article Num="22">
@@ -603,18 +626,62 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">看護師国家試験は、次の科目について行う。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">人体の構造と機能</Sentence>
-              <Sentence Num="3" WritingMode="vertical">疾病の成り立ちと回復の促進</Sentence>
-              <Sentence Num="4" WritingMode="vertical">健康支援と社会保障制度</Sentence>
-              <Sentence Num="5" WritingMode="vertical">基礎看護学</Sentence>
-              <Sentence Num="6" WritingMode="vertical">成人看護学</Sentence>
-              <Sentence Num="7" WritingMode="vertical">老年看護学</Sentence>
-              <Sentence Num="8" WritingMode="vertical">小児看護学</Sentence>
-              <Sentence Num="9" WritingMode="vertical">母性看護学</Sentence>
-              <Sentence Num="10" WritingMode="vertical">精神看護学</Sentence>
-              <Sentence Num="11" WritingMode="vertical">在宅看護論</Sentence>
-              <Sentence Num="12" WritingMode="vertical">看護の統合と実践</Sentence>
             </ParagraphSentence>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">人体の構造と機能</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">疾病の成り立ちと回復の促進</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">健康支援と社会保障制度</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">基礎看護学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">成人看護学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">老年看護学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">小児看護学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">母性看護学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">精神看護学</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">在宅看護論</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">看護の統合と実践</Sentence>
+              </ListSentence>
+            </List>
           </Paragraph>
         </Article>
         <Article Num="23">
@@ -624,18 +691,62 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">准看護師試験は、次の科目について行う。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">人体の仕組みと働き</Sentence>
-              <Sentence Num="3" WritingMode="vertical">栄養</Sentence>
-              <Sentence Num="4" WritingMode="vertical">薬理</Sentence>
-              <Sentence Num="5" WritingMode="vertical">疾病の成り立ち</Sentence>
-              <Sentence Num="6" WritingMode="vertical">保健医療福祉の仕組み</Sentence>
-              <Sentence Num="7" WritingMode="vertical">看護と法律</Sentence>
-              <Sentence Num="8" WritingMode="vertical">基礎看護</Sentence>
-              <Sentence Num="9" WritingMode="vertical">成人看護</Sentence>
-              <Sentence Num="10" WritingMode="vertical">老年看護</Sentence>
-              <Sentence Num="11" WritingMode="vertical">母子看護</Sentence>
-              <Sentence Num="12" WritingMode="vertical">精神看護</Sentence>
             </ParagraphSentence>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">人体の仕組みと働き</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">栄養</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">薬理</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">疾病の成り立ち</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">保健医療福祉の仕組み</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">看護と法律</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">基礎看護</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">成人看護</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">老年看護</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">母子看護</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence WritingMode="vertical">精神看護</Sentence>
+              </ListSentence>
+            </List>
           </Paragraph>
         </Article>
         <Article Num="24">
@@ -769,6 +880,24 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">保健師国家試験、助産師国家試験又は看護師国家試験の受験を出願する者は、手数料として五千四百円を納めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_2">
+          <ArticleCaption>（不正行為の禁止）</ArticleCaption>
+          <ArticleTitle>第二十八条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、保健師国家試験、助産師国家試験又は看護師国家試験に関して不正の行為があつた場合には、当該不正行為に関係のある者について、その受験を停止させ、又はその試験を無効とすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、なお、その者について、期間を定めて試験を受けることを許さないことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、准看護師試験に関して不正の行為があつた場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、「厚生労働大臣」とあるのは、「都道府県知事」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -927,7 +1056,7 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -1307,7 +1436,7 @@
       <Paragraph Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">保健婦助産婦看護婦学校養成所指定規則の一部を改正する省令（平成元年／文部省／厚生省／令第一号。以下「改正省令」という。）附則第二項の規定により、改正省令による改正前の保健婦助産婦看護婦学校養成所指定規則（昭和二十六年／文部省／厚生省／令第一号）別表三、別表三の二又は別表四のいずれかに定める教育の内容を修習した者に係る看護婦国家試験又は准看護婦試験の科目は、この省令による改正後の第二十二条又は第二十三条の規定にかかわらず、平成五年三月三十一日までの間、なお従前の例による。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">保健婦助産婦看護婦学校養成所指定規則の一部を改正する省令（平成元年文部省・厚生省令第一号。以下「改正省令」という。）附則第二項の規定により、改正省令による改正前の保健婦助産婦看護婦学校養成所指定規則（昭和二十六年文部省・厚生省令第一号）別表三、別表三の二又は別表四のいずれかに定める教育の内容を修習した者に係る看護婦国家試験又は准看護婦試験の科目は、この省令による改正後の第二十二条又は第二十三条の規定にかかわらず、平成五年三月三十一日までの間、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1418,7 +1547,7 @@
       <Paragraph Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">保健婦助産婦看護婦学校養成所指定規則の一部を改正する省令（平成八年／文部省／厚生省／令第一号）による改正前の保健婦助産婦看護婦学校養成所指定規則（昭和二十六年／文部省／厚生省／令第一号）別表三に定める教育の内容を修習した者又は保健婦助産婦看護婦学校養成所指定規則の一部を改正する省令（平成十年／文部省／厚生省／令第一号）による改正前の保健婦助産婦看護婦学校養成所指定規則別表三の二に定める教育の内容を修習した者に係る看護婦国家試験の科目は、この省令による改正後の第二十二条の規定にかかわらず、平成十三年三月三十一日までの間、なお従前の例による。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">保健婦助産婦看護婦学校養成所指定規則の一部を改正する省令（平成八年文部省・厚生省令第一号）による改正前の保健婦助産婦看護婦学校養成所指定規則（昭和二十六年文部省・厚生省令第一号）別表三に定める教育の内容を修習した者又は保健婦助産婦看護婦学校養成所指定規則の一部を改正する省令（平成十年文部省・厚生省令第一号）による改正前の保健婦助産婦看護婦学校養成所指定規則別表三の二に定める教育の内容を修習した者に係る看護婦国家試験の科目は、この省令による改正後の第二十二条の規定にかかわらず、平成十三年三月三十一日までの間、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1517,7 +1646,7 @@
       <Paragraph Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">保健師助産師看護師学校養成所指定規則の一部を改正する省令（平成十一年／文部省／厚生省／令第五号）による改正前の保健師助産師看護師学校養成所指定規則（昭和二十六年／文部省／厚生省／令第一号）別表四に定める教育の内容を修習した者に係る准看護師試験の科目は、この省令による改正後の第二十三条の規定にかかわらず、平成十七年三月三十一日までの間、なお従前の例による。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">保健師助産師看護師学校養成所指定規則の一部を改正する省令（平成十一年文部省・厚生省令第五号）による改正前の保健師助産師看護師学校養成所指定規則（昭和二十六年文部省・厚生省令第一号）別表四に定める教育の内容を修習した者に係る准看護師試験の科目は、この省令による改正後の第二十三条の規定にかかわらず、平成十七年三月三十一日までの間、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1791,12 +1920,50 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年七月二八日厚生労働省令第一〇七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年八月一七日厚生労働省令第一一〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">第一号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第一条の三、附則第六項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037637.pdf"/>
+          <Fig src="./pict/2FH00000062288.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1805,7 +1972,7 @@
       <RelatedArticleNum>（第一条の三、附則第六項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037640.pdf"/>
+          <Fig src="./pict/2FH00000062289.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1814,7 +1981,7 @@
       <RelatedArticleNum>（第一条の三、附則第六項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037641.pdf"/>
+          <Fig src="./pict/2FH00000062290.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

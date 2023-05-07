@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="289" Year="04" PromulgateMonth="12" PromulgateDay="20" ScheduledEnforcementDate=""><LawNum>昭和二十五年法律第二百八十九号</LawNum><LawBody><LawTitle Kana="こうぎょうほう" Abbrev="" AbbrevKana="">鉱業法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="289" Year="25" PromulgateMonth="12" PromulgateDay="20"><LawNum>昭和二十五年法律第二百八十九号</LawNum><LawBody><LawTitle Kana="こうぎょうほう" Abbrev="" AbbrevKana="">鉱業法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -4385,9 +4385,17 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">左に掲げる法律は、廃止する。</Sentence>
-          <Sentence Num="2" WritingMode="vertical">鉱業法（明治三十八年法律第四十五号）</Sentence>
-          <Sentence Num="3" WritingMode="vertical">砂鉱法（明治四十二年法律第十三号）</Sentence>
         </ParagraphSentence>
+        <List>
+          <ListSentence>
+            <Sentence WritingMode="vertical">鉱業法（明治三十八年法律第四十五号）</Sentence>
+          </ListSentence>
+        </List>
+        <List>
+          <ListSentence>
+            <Sentence WritingMode="vertical">砂鉱法（明治四十二年法律第十三号）</Sentence>
+          </ListSentence>
+        </List>
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二六年六月九日法律第二二〇号">
@@ -5696,6 +5704,28 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

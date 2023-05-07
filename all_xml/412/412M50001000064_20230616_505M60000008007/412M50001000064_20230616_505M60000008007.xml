@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000008005" AmendmentNum="令和元年総務省令第五号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="064" Year="12" PromulgateMonth="11" PromulgateDay="16" ScheduledEnforcementDate=""><LawNum>平成十二年郵政省令第六十四号</LawNum><LawBody><LawTitle Kana="だいいっしゅしていでんきつうしんせつびせつぞくりょうきそく" Abbrev="" AbbrevKana="">第一種指定電気通信設備接続料規則</LawTitle>
+<Law AmendmentId="501M60000008005" AmendmentNum="令和元年総務省令第五号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="064" Year="12" PromulgateMonth="11" PromulgateDay="16"><LawNum>平成十二年郵政省令第六十四号</LawNum><LawBody><LawTitle Kana="だいいっしゅしていでんきつうしんせつびせつぞくりょうきそく" Abbrev="" AbbrevKana="">第一種指定電気通信設備接続料規則</LawTitle>
     <EnactStatement>電気通信事業法（昭和五十九年法律第八十六号）の規定に基づき、及び同法を施行するため、接続料規則を次のように定める。</EnactStatement>
     <EnactStatement>電気通信事業法（昭和五十九年法律第八十六号）第三十八条の二第三項第一号ロ、第二号、第四項、第十項及び第十二項の規定に基づき、接続料規則を次のように定める。</EnactStatement>
     <TOC>
@@ -2506,7 +2506,7 @@
       <Paragraph Num="15">
         <ParagraphNum>１５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">令和六年十二月三十一日までの間、事業者は、その第一種指定電気通信設備を設置する単位指定区域（電気通信事業法施行規則第二十三条の二第二項に規定する単位指定区域をいう。以下この項において同じ。）以外の単位指定区域において第一種指定電気通信設備を設置する他の事業者が存在する場合は、規則第四条の表二の項の機能（加入者交換機能、信号制御交換機能、優先接続機能、番号ポータビリティ機能、加入者交換機専用トランクポート機能及び加入者交換機共用トランクポート機能に限る。）、四の項の機能、五の項の機能（中継交換機能、中継交換機専用トランクポート機能及び中継交換機共用トランクポート機能に限る。）、六の項の機能（中継伝送共用機能、中継伝送専用機能及び中継交換機接続伝送専用機能に限る。）及び八の項の機能に係る接続料が、当該機能と同等の機能について当該他の事業者が取得すべき接続料と同額となるよう、当該機能に係る接続料の原価及び利潤並びに通信量等を当該他の事業者のものと合算して算定するものとする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">令和六年十二月三十一日までの間、事業者は、その第一種指定電気通信設備を設置する都道府県の区域（当該事業者が固定端末系伝送路設備（その一端が特定の場所に設置される利用者の電気通信設備に接続される伝送路設備をいう。）を設置する都道府県の区域に限る。）以外の都道府県の区域において第一種指定電気通信設備を設置する他の事業者が存在する場合は、規則第四条の表二の項の機能（加入者交換機能、信号制御交換機能、優先接続機能、番号ポータビリティ機能、加入者交換機専用トランクポート機能及び加入者交換機共用トランクポート機能に限る。）、四の項の機能、五の項の機能（中継交換機能、中継交換機専用トランクポート機能及び中継交換機共用トランクポート機能に限る。）、六の項の機能（中継伝送共用機能、中継伝送専用機能及び中継交換機接続伝送専用機能に限る。）及び八の項の機能に係る接続料が、当該機能と同等の機能について当該他の事業者が取得すべき接続料と同額となるよう、当該機能に係る接続料の原価及び利潤並びに通信量等を当該他の事業者のものと合算して算定するものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="16">
@@ -5588,7 +5588,7 @@
               <Subitem3 Num="1">
                 <Subitem3Title/>
                 <Subitem3Sentence>
-                  <Sentence Num="1" WritingMode="vertical">償却率＝１－（残存率）<Sup>１÷法定耐用年数</Sup></Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>償却率＝１－（残存率）<Sup>１÷法定耐用年数</Sup></ArithFormula></Sentence>
                 </Subitem3Sentence>
                 <Subitem4 Num="1">
                   <Subitem4Title/>
@@ -5632,7 +5632,7 @@
                 <Sentence Num="10" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="11" WritingMode="vertical">次の算定式により局ごと音声収容ルータ投資額を求め、全ての局について当該投資額を合算し、音声収容ルータ投資額を算定する。</Sentence>
                 <Sentence Num="12" WritingMode="vertical">局ごと音声収容ルータ投資額</Sentence>
-                <Sentence Num="13" WritingMode="vertical">＝音声系冗長化後音声収容ルータユニット数×音声収容ルータユニット単価</Sentence>
+                <Sentence Num="13" WritingMode="vertical"><ArithFormula>＝音声系冗長化後音声収容ルータユニット数×音声収容ルータユニット単価</ArithFormula></Sentence>
                 <Sentence Num="14" WritingMode="vertical">＋音声系冗長化後音声収容ルータインタフェース数×音声収容ルータインタフェース単価</Sentence>
                 <Sentence Num="15" WritingMode="vertical">＋音声系冗長化後音声収容ルータユニット数×音声収容ルータソフトウェア単価</Sentence>
               </TableColumn>
@@ -5658,7 +5658,7 @@
                 <Sentence Num="14" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="15" WritingMode="vertical">次の算定式により局ごと共用収容ルータ投資額を求め、全ての局について当該投資額を合算し、共用収容ルータ投資額を算定する。</Sentence>
                 <Sentence Num="16" WritingMode="vertical">局ごと共用収容ルータ投資額</Sentence>
-                <Sentence Num="17" WritingMode="vertical">＝音声系冗長化後共用収容ルータユニット数×共用収容ルータユニット単価</Sentence>
+                <Sentence Num="17" WritingMode="vertical"><ArithFormula>＝音声系冗長化後共用収容ルータユニット数×共用収容ルータユニット単価</ArithFormula></Sentence>
                 <Sentence Num="18" WritingMode="vertical">＋音声系冗長化後共用収容ルータ１０Ｇボード数×共用収容ルータ１０Ｇボード単価</Sentence>
                 <Sentence Num="19" WritingMode="vertical">＋音声系冗長化後共用収容ルータ１０Ｇインタフェース数×共用収容ルータ１０Ｇインタフェース単価</Sentence>
                 <Sentence Num="20" WritingMode="vertical">＋音声系冗長化後共用収容ルータ１Ｇボード数×共用収容ルータ１Ｇボード単価</Sentence>
@@ -5676,14 +5676,14 @@
                 <Sentence Num="4" WritingMode="vertical">（３）　（２）の音声収容装置シェルフ数を音声収容装置架当たり最大収容シェルフ数で除したもの（１に満たない端数は、切り上げるものとする。）を音声収容装置架数とする。</Sentence>
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごと音声収容装置投資額を求め、全ての局について当該投資額を合算し、音声収容装置投資額を算定する。</Sentence>
-                <Sentence Num="7" WritingMode="vertical">（１）　音声収容装置（回線収容部）投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝音声収容装置ラインカード数×音声収容装置ラインカード単価</Sentence>
-                <Sentence Num="9" WritingMode="vertical">（２）　音声収容装置（ユニット部）投資額</Sentence>
-                <Sentence Num="10" WritingMode="vertical">＝音声収容装置シェルフ数×音声収容装置シェルフ単価＋音声収容装置架数×音声収容装置架単価</Sentence>
-                <Sentence Num="11" WritingMode="vertical">（３）　音声収容装置（ソフトウェアユニット部相当）投資額</Sentence>
-                <Sentence Num="12" WritingMode="vertical">＝（音声収容装置シェルフ数×音声収容装置ソフトウェア単価）×音声収容装置（ユニット部）投資額÷（音声収容装置（回線収容部）投資額＋音声収容装置（ユニット部）投資額）</Sentence>
-                <Sentence Num="13" WritingMode="vertical">（４）　局ごと音声収容装置投資額</Sentence>
-                <Sentence Num="14" WritingMode="vertical">＝音声収容装置（ユニット部）投資額＋音声収容装置（ソフトウェアユニット部相当）投資額</Sentence>
+                <Sentence Num="7" WritingMode="vertical">（１）　<ArithFormula>音声収容装置（回線収容部）投資額</ArithFormula></Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝音声収容装置ラインカード数×音声収容装置ラインカード単価</ArithFormula></Sentence>
+                <Sentence Num="9" WritingMode="vertical">（２）　<ArithFormula>音声収容装置（ユニット部）投資額</ArithFormula></Sentence>
+                <Sentence Num="10" WritingMode="vertical"><ArithFormula>＝音声収容装置シェルフ数×音声収容装置シェルフ単価＋音声収容装置架数×音声収容装置架単価</ArithFormula></Sentence>
+                <Sentence Num="11" WritingMode="vertical">（３）　<ArithFormula>音声収容装置（ソフトウェアユニット部相当）投資額</ArithFormula></Sentence>
+                <Sentence Num="12" WritingMode="vertical"><ArithFormula>＝（音声収容装置シェルフ数×音声収容装置ソフトウェア単価）×音声収容装置（ユニット部）投資額÷（音声収容装置（回線収容部）投資額＋音声収容装置（ユニット部）投資額）</ArithFormula></Sentence>
+                <Sentence Num="13" WritingMode="vertical">（４）　<ArithFormula>局ごと音声収容装置投資額</ArithFormula></Sentence>
+                <Sentence Num="14" WritingMode="vertical"><ArithFormula>＝音声収容装置（ユニット部）投資額＋音声収容装置（ソフトウェアユニット部相当）投資額</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -5701,7 +5701,7 @@
                 <Sentence Num="8" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="9" WritingMode="vertical">次の算定式により局ごと音声収容装置用Ｌ２ＳＷ投資額を求め、全ての局について当該投資額を合算し、音声収容装置用Ｌ２ＳＷ投資額を算定する。</Sentence>
                 <Sentence Num="10" WritingMode="vertical">局ごと音声収容装置用Ｌ２ＳＷ投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝冗長化後音声収容装置用Ｌ２ＳＷユニット数×音声収容装置用Ｌ２ＳＷユニット単価</Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝冗長化後音声収容装置用Ｌ２ＳＷユニット数×音声収容装置用Ｌ２ＳＷユニット単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -5718,7 +5718,7 @@
                 <Sentence Num="7" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="8" WritingMode="vertical">次の算定式により局ごとＣＳ投資額を求め、全ての局について当該投資額を合算し、ＣＳ投資額を算定する。</Sentence>
                 <Sentence Num="9" WritingMode="vertical">局ごとＣＳ投資額</Sentence>
-                <Sentence Num="10" WritingMode="vertical">＝冗長化後ＣＳユニット数×ＣＳユニット単価</Sentence>
+                <Sentence Num="10" WritingMode="vertical"><ArithFormula>＝冗長化後ＣＳユニット数×ＣＳユニット単価</ArithFormula></Sentence>
                 <Sentence Num="11" WritingMode="vertical">＋ＣＳ収容アナログ電話回線数×ＣＳ１回線当たり単価</Sentence>
                 <Sentence Num="12" WritingMode="vertical">＋ＣＳソフトウェア投資額</Sentence>
                 <Sentence Num="13" WritingMode="vertical">＋冗長化後ＣＳ用ＤＢユニット数×ＣＳ用ＤＢユニット単価</Sentence>
@@ -5734,16 +5734,16 @@
                 <Sentence Num="3" WritingMode="vertical">（２）　（１）のサービスごと総合デジタル通信用ボード数に総合デジタル通信用ボード当たり占用スロット数を乗じ、全てのサービスについて合計したものを当該局の総合デジタル通信回線収容交換機スロット数とし、これを総合デジタル通信回線収容交換機１ユニット当たりスロット数で除したもの（１に満たない端数は、切り上げるものとする。）を当該局の総合デジタル通信回線収容交換機ユニット数とする。</Sentence>
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと総合デジタル通信回線収容交換機投資額を求め、全ての局について当該投資額を合算し、総合デジタル通信回線収容交換機投資額を算定する。</Sentence>
-                <Sentence Num="6" WritingMode="vertical">（１）　サービスごと総合デジタル通信回線収容交換機（回線収容部）投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝当該サービス総合デジタル通信用ボード数×当該サービス総合デジタル通信用ボード単価</Sentence>
-                <Sentence Num="8" WritingMode="vertical">（２）　総合デジタル通信回線収容交換機（ユニット部）投資額</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝総合デジタル通信回線収容交換機ユニット数×総合デジタル通信回線収容交換機ユニット単価</Sentence>
-                <Sentence Num="10" WritingMode="vertical">（３）　総合デジタル通信回線収容交換機（ソフトウェアユニット部相当）投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝（総合デジタル通信回線収容交換機ユニット数×総合デジタル通信回線収容交換機ソフトウェア単価）</Sentence>
+                <Sentence Num="6" WritingMode="vertical">（１）　<ArithFormula>サービスごと総合デジタル通信回線収容交換機（回線収容部）投資額</ArithFormula></Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝当該サービス総合デジタル通信用ボード数×当該サービス総合デジタル通信用ボード単価</ArithFormula></Sentence>
+                <Sentence Num="8" WritingMode="vertical">（２）　<ArithFormula>総合デジタル通信回線収容交換機（ユニット部）投資額</ArithFormula></Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝総合デジタル通信回線収容交換機ユニット数×総合デジタル通信回線収容交換機ユニット単価</ArithFormula></Sentence>
+                <Sentence Num="10" WritingMode="vertical">（３）　<ArithFormula>総合デジタル通信回線収容交換機（ソフトウェアユニット部相当）投資額</ArithFormula></Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝（総合デジタル通信回線収容交換機ユニット数×総合デジタル通信回線収容交換機ソフトウェア単価）</ArithFormula></Sentence>
                 <Sentence Num="12" WritingMode="vertical">×総合デジタル通信回線収容交換機（ユニット部）投資額</Sentence>
                 <Sentence Num="13" WritingMode="vertical">÷（総合デジタル通信回線収容交換機（回線収容部）投資額＋総合デジタル通信回線収容交換機（ユニット部）投資額）</Sentence>
-                <Sentence Num="14" WritingMode="vertical">（４）　局ごと総合デジタル通信回線収容交換機投資額</Sentence>
-                <Sentence Num="15" WritingMode="vertical">＝総合デジタル通信回線収容交換機（ユニット部）投資額</Sentence>
+                <Sentence Num="14" WritingMode="vertical">（４）　<ArithFormula>局ごと総合デジタル通信回線収容交換機投資額</ArithFormula></Sentence>
+                <Sentence Num="15" WritingMode="vertical"><ArithFormula>＝総合デジタル通信回線収容交換機（ユニット部）投資額</ArithFormula></Sentence>
                 <Sentence Num="16" WritingMode="vertical">＋総合デジタル通信回線収容交換機（ソフトウェアユニット部相当）投資額</Sentence>
               </TableColumn>
             </TableRow>
@@ -5757,7 +5757,7 @@
                 <Sentence Num="3" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="4" WritingMode="vertical">次の算定式により局ごと総合デジタル通信回線収容交換機用ＤＢ投資額を求め、全ての局について当該投資額を合算し、総合デジタル通信回線収容交換機用ＤＢ投資額を算定する。</Sentence>
                 <Sentence Num="5" WritingMode="vertical">局ごと総合デジタル通信回線収容交換機用ＤＢ投資額</Sentence>
-                <Sentence Num="6" WritingMode="vertical">＝冗長化後総合デジタル通信回線収容交換機用ＤＢユニット数</Sentence>
+                <Sentence Num="6" WritingMode="vertical"><ArithFormula>＝冗長化後総合デジタル通信回線収容交換機用ＤＢユニット数</ArithFormula></Sentence>
                 <Sentence Num="7" WritingMode="vertical">×総合デジタル通信回線収容交換機用ＤＢユニット単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -5772,7 +5772,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと消防警察トランク投資額を求め、全ての局について当該投資額を合算し、消防警察トランク投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">局ごと消防警察トランク投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝消防警察トランク数×消防警察トランク単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝消防警察トランク数×消防警察トランク単価</ArithFormula></Sentence>
                 <Sentence Num="8" WritingMode="vertical">＋消防警察トランク架数×消防警察トランク搭載架単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -5789,7 +5789,7 @@
                 <Sentence Num="6" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="7" WritingMode="vertical">次の算定式により割付対象局ごと警察消防用回線集約装置投資額を求め、全ての対象局について当該投資額を合算し、警察消防用回線集約装置投資額を算定する。</Sentence>
                 <Sentence Num="8" WritingMode="vertical">割付対象局ごと警察消防用回線集約装置投資額</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝警察消防用回線集約装置数×警察消防用回線集約装置単価</Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝警察消防用回線集約装置数×警察消防用回線集約装置単価</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋警察消防用回線集約装置架数×警察消防用回線集約装置搭載架単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -5802,46 +5802,46 @@
                 <Sentence Num="2" WritingMode="vertical">国勢調査の調査区ごとの各サービスの回線数を次により算定する。なお、各（県、調査区）につき、世帯自県案分率、就業者自県案分率を算定する。県境の調査区以外では、自県案分率は１となる。</Sentence>
                 <Sentence Num="3" WritingMode="vertical">世帯自県案分率（県、調査区）＝世帯数（県、調査区）÷総世帯数（調査区）</Sentence>
                 <Sentence Num="4" WritingMode="vertical">就業者自県案分率（県、調査区）＝就業者数（県、調査区）÷総就業者数（調査区）</Sentence>
-                <Sentence Num="5" WritingMode="vertical">（１）　住宅用加入電話回線数</Sentence>
-                <Sentence Num="6" WritingMode="vertical">＝局ごと住宅用加入電話契約回線数÷調査区ごと世帯数の局ごと合計</Sentence>
+                <Sentence Num="5" WritingMode="vertical">（１）　<ArithFormula>住宅用加入電話回線数</ArithFormula></Sentence>
+                <Sentence Num="6" WritingMode="vertical"><ArithFormula>＝局ごと住宅用加入電話契約回線数÷調査区ごと世帯数の局ごと合計</ArithFormula></Sentence>
                 <Sentence Num="7" WritingMode="vertical">×調査区ごとの世帯数×世帯自県案分率</Sentence>
-                <Sentence Num="8" WritingMode="vertical">（２）　事務用加入電話回線数</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝局ごと事務用加入電話契約回線数÷調査区ごと就業者数の局ごと合計</Sentence>
+                <Sentence Num="8" WritingMode="vertical">（２）　<ArithFormula>事務用加入電話回線数</ArithFormula></Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝局ごと事務用加入電話契約回線数÷調査区ごと就業者数の局ごと合計</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">×調査区ごとの就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="11" WritingMode="vertical">（３）　住宅用第一種総合デジタル通信サービス回線数</Sentence>
-                <Sentence Num="12" WritingMode="vertical">＝単位料金区域別住宅用第一種総合デジタル通信サービス契約回線数</Sentence>
+                <Sentence Num="11" WritingMode="vertical">（３）　<ArithFormula>住宅用第一種総合デジタル通信サービス回線数</ArithFormula></Sentence>
+                <Sentence Num="12" WritingMode="vertical"><ArithFormula>＝単位料金区域別住宅用第一種総合デジタル通信サービス契約回線数</ArithFormula></Sentence>
                 <Sentence Num="13" WritingMode="vertical">÷調査区ごと世帯数の単位料金区域別合計×調査区ごとの世帯数×世帯自県案分率</Sentence>
-                <Sentence Num="14" WritingMode="vertical">（４）　事務用第一種総合デジタル通信サービス回線数</Sentence>
-                <Sentence Num="15" WritingMode="vertical">＝単位料金区域別事務用第一種総合デジタル通信サービス契約回線数</Sentence>
+                <Sentence Num="14" WritingMode="vertical">（４）　<ArithFormula>事務用第一種総合デジタル通信サービス回線数</ArithFormula></Sentence>
+                <Sentence Num="15" WritingMode="vertical"><ArithFormula>＝単位料金区域別事務用第一種総合デジタル通信サービス契約回線数</ArithFormula></Sentence>
                 <Sentence Num="16" WritingMode="vertical">÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="17" WritingMode="vertical">（５）　第二種総合デジタル通信サービス回線数</Sentence>
-                <Sentence Num="18" WritingMode="vertical">＝単位料金区域別第二種総合デジタル通信サービス契約回線数</Sentence>
+                <Sentence Num="17" WritingMode="vertical">（５）　<ArithFormula>第二種総合デジタル通信サービス回線数</ArithFormula></Sentence>
+                <Sentence Num="18" WritingMode="vertical"><ArithFormula>＝単位料金区域別第二種総合デジタル通信サービス契約回線数</ArithFormula></Sentence>
                 <Sentence Num="19" WritingMode="vertical">÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="20" WritingMode="vertical">（６）　第一種公衆電話回線数</Sentence>
-                <Sentence Num="21" WritingMode="vertical">＝単位料金区域別第一種公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</Sentence>
-                <Sentence Num="22" WritingMode="vertical">（７）　第一種デジタル公衆電話回線数</Sentence>
-                <Sentence Num="23" WritingMode="vertical">＝単位料金区域別第一種デジタル公衆電話実績回線数</Sentence>
+                <Sentence Num="20" WritingMode="vertical">（６）　<ArithFormula>第一種公衆電話回線数</ArithFormula></Sentence>
+                <Sentence Num="21" WritingMode="vertical"><ArithFormula>＝単位料金区域別第一種公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</ArithFormula></Sentence>
+                <Sentence Num="22" WritingMode="vertical">（７）　<ArithFormula>第一種デジタル公衆電話回線数</ArithFormula></Sentence>
+                <Sentence Num="23" WritingMode="vertical"><ArithFormula>＝単位料金区域別第一種デジタル公衆電話実績回線数</ArithFormula></Sentence>
                 <Sentence Num="24" WritingMode="vertical">÷単位料金区域内調査区数×世帯自県案分率</Sentence>
-                <Sentence Num="25" WritingMode="vertical">（８）　第二種公衆電話回線数</Sentence>
-                <Sentence Num="26" WritingMode="vertical">＝単位料金区域別第二種公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計</Sentence>
+                <Sentence Num="25" WritingMode="vertical">（８）　<ArithFormula>第二種公衆電話回線数</ArithFormula></Sentence>
+                <Sentence Num="26" WritingMode="vertical"><ArithFormula>＝単位料金区域別第二種公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計</ArithFormula></Sentence>
                 <Sentence Num="27" WritingMode="vertical">×調査区ごと就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="28" WritingMode="vertical">（９）　第二種デジタル公衆電話回線数</Sentence>
-                <Sentence Num="29" WritingMode="vertical">＝単位料金区域別第二種デジタル公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計</Sentence>
+                <Sentence Num="28" WritingMode="vertical">（９）　<ArithFormula>第二種デジタル公衆電話回線数</ArithFormula></Sentence>
+                <Sentence Num="29" WritingMode="vertical"><ArithFormula>＝単位料金区域別第二種デジタル公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計</ArithFormula></Sentence>
                 <Sentence Num="30" WritingMode="vertical">×調査区ごと就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="31" WritingMode="vertical">（１０）　低速専用線二線式回線数</Sentence>
-                <Sentence Num="32" WritingMode="vertical">＝単位料金区域別低速専用線実績回線数</Sentence>
+                <Sentence Num="31" WritingMode="vertical">（１０）　<ArithFormula>低速専用線二線式回線数</ArithFormula></Sentence>
+                <Sentence Num="32" WritingMode="vertical"><ArithFormula>＝単位料金区域別低速専用線実績回線数</ArithFormula></Sentence>
                 <Sentence Num="33" WritingMode="vertical">×（県別低速専用線二線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））</Sentence>
                 <Sentence Num="34" WritingMode="vertical">÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="35" WritingMode="vertical">（１１）　低速専用線四線式回線数</Sentence>
-                <Sentence Num="36" WritingMode="vertical">＝単位料金区域別低速専用線実績回線数</Sentence>
+                <Sentence Num="35" WritingMode="vertical">（１１）　<ArithFormula>低速専用線四線式回線数</ArithFormula></Sentence>
+                <Sentence Num="36" WritingMode="vertical"><ArithFormula>＝単位料金区域別低速専用線実績回線数</ArithFormula></Sentence>
                 <Sentence Num="37" WritingMode="vertical">×（県別低速専用線四線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））</Sentence>
                 <Sentence Num="38" WritingMode="vertical">÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="39" WritingMode="vertical">（１２）　高速メタル専用線回線数</Sentence>
-                <Sentence Num="40" WritingMode="vertical">＝単位料金区域別高速専用線実績回線数</Sentence>
+                <Sentence Num="39" WritingMode="vertical">（１２）　<ArithFormula>高速メタル専用線回線数</ArithFormula></Sentence>
+                <Sentence Num="40" WritingMode="vertical"><ArithFormula>＝単位料金区域別高速専用線実績回線数</ArithFormula></Sentence>
                 <Sentence Num="41" WritingMode="vertical">×（県別高速メタル専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））</Sentence>
                 <Sentence Num="42" WritingMode="vertical">÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-                <Sentence Num="43" WritingMode="vertical">（１３）　高速光専用線回線数</Sentence>
-                <Sentence Num="44" WritingMode="vertical">＝単位料金区域別高速専用線実績回線数</Sentence>
+                <Sentence Num="43" WritingMode="vertical">（１３）　<ArithFormula>高速光専用線回線数</ArithFormula></Sentence>
+                <Sentence Num="44" WritingMode="vertical"><ArithFormula>＝単位料金区域別高速専用線実績回線数</ArithFormula></Sentence>
                 <Sentence Num="45" WritingMode="vertical">×（県別高速光専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））</Sentence>
                 <Sentence Num="46" WritingMode="vertical">÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
                 <Sentence Num="47" WritingMode="vertical">２　き線点～収容局間伝送路経路の選択</Sentence>
@@ -5866,12 +5866,12 @@
                 <Sentence Num="66" WritingMode="vertical">（２）　収容局ごとに、当該局に収容されるき線点ごとに（１）で算定したき線点遠隔収容装置ユニット数の合計を当該局のき線点遠隔収容装置ユニット数とし、当該き線点ごとのき線点遠隔収容装置収容回線数の合計を当該局のき線点遠隔収容装置収容回線数とする。</Sentence>
                 <Sentence Num="67" WritingMode="vertical">５　投資額の算定</Sentence>
                 <Sentence Num="68" WritingMode="vertical">次の算定式（１）及び（２）により求めた局ごとき線点遠隔収容装置投資額のうちいずれか小さいものを当該局のき線点遠隔収容装置投資額とし、全ての局について当該投資額を合算し、き線点遠隔収容装置投資額を算定する。</Sentence>
-                <Sentence Num="69" WritingMode="vertical">（１）　局ごとき線点遠隔収容装置投資額</Sentence>
-                <Sentence Num="70" WritingMode="vertical">＝（き線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価＋専用線収容装置ユニット数×専用線ユニット単価）</Sentence>
+                <Sentence Num="69" WritingMode="vertical">（１）　<ArithFormula>局ごとき線点遠隔収容装置投資額</ArithFormula></Sentence>
+                <Sentence Num="70" WritingMode="vertical"><ArithFormula>＝（き線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価＋専用線収容装置ユニット数×専用線ユニット単価）</ArithFormula></Sentence>
                 <Sentence Num="71" WritingMode="vertical">×き線点遠隔収容装置収容回線数</Sentence>
                 <Sentence Num="72" WritingMode="vertical">÷（き線点遠隔収容装置収容回線数＋専用線遠隔収容装置収容回線数）</Sentence>
-                <Sentence Num="73" WritingMode="vertical">（２）　局ごとき線点遠隔収容装置投資額</Sentence>
-                <Sentence Num="74" WritingMode="vertical">＝き線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価</Sentence>
+                <Sentence Num="73" WritingMode="vertical">（２）　<ArithFormula>局ごとき線点遠隔収容装置投資額</ArithFormula></Sentence>
+                <Sentence Num="74" WritingMode="vertical"><ArithFormula>＝き線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -5884,12 +5884,12 @@
                 <Sentence Num="3" WritingMode="vertical">（２）　収容局ごとに、当該局が収容するき線点ごとの第一種総合デジタル通信サービス回線数の合計を当該局のき線点遠隔収容装置収容総合デジタル通信サービス回線数とする。</Sentence>
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと総合デジタル通信局内回線終端装置投資額を求め、全ての局について当該投資額を合算し、総合デジタル通信局内回線終端装置投資額を算定する。</Sentence>
-                <Sentence Num="6" WritingMode="vertical">（１）　総合デジタル通信回線収容交換機（ソフトウェア回線収容部相当）投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝（総合デジタル通信回線収容交換機ユニット数×総合デジタル通信回線収容交換機ソフトウェア単価）</Sentence>
+                <Sentence Num="6" WritingMode="vertical">（１）　<ArithFormula>総合デジタル通信回線収容交換機（ソフトウェア回線収容部相当）投資額</ArithFormula></Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝（総合デジタル通信回線収容交換機ユニット数×総合デジタル通信回線収容交換機ソフトウェア単価）</ArithFormula></Sentence>
                 <Sentence Num="8" WritingMode="vertical">×総合デジタル通信回線収容交換機（回線収容部）投資額</Sentence>
                 <Sentence Num="9" WritingMode="vertical">÷（総合デジタル通信回線収容交換機（回線収容部）投資額＋総合デジタル通信回線収容交換機（ユニット部）投資額）</Sentence>
-                <Sentence Num="10" WritingMode="vertical">（２）　局ごと総合デジタル通信局内回線終端装置投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝き線点遠隔収容装置収容総合デジタル通信サービス回線数</Sentence>
+                <Sentence Num="10" WritingMode="vertical">（２）　<ArithFormula>局ごと総合デジタル通信局内回線終端装置投資額</ArithFormula></Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝き線点遠隔収容装置収容総合デジタル通信サービス回線数</ArithFormula></Sentence>
                 <Sentence Num="12" WritingMode="vertical">×き線点遠隔収容装置総合デジタル通信サービス回線単価</Sentence>
                 <Sentence Num="13" WritingMode="vertical">＋総合デジタル通信回線収容交換機（回線収容部）投資額</Sentence>
                 <Sentence Num="14" WritingMode="vertical">＋総合デジタル通信回線収容交換機（ソフトウェア回線収容部相当）投資額</Sentence>
@@ -5905,12 +5905,12 @@
                 <Sentence Num="3" WritingMode="vertical">（２）　収容局ごとに、当該局が収容するき線点ごとのアナログ電話回線数の合計を当該局のき線点遠隔収容装置収容アナログ電話回線数とする。</Sentence>
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごとアナログ局内回線収容部投資額を求め、全ての局について当該投資額を合算し、アナログ局内回線収容部投資額を算定する。</Sentence>
-                <Sentence Num="6" WritingMode="vertical">（１）　音声収容装置（ソフトウェア回線収容部相当）投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝（音声収容装置シェルフ数×音声収容装置ソフトウェア単価）</Sentence>
+                <Sentence Num="6" WritingMode="vertical">（１）　<ArithFormula>音声収容装置（ソフトウェア回線収容部相当）投資額</ArithFormula></Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝（音声収容装置シェルフ数×音声収容装置ソフトウェア単価）</ArithFormula></Sentence>
                 <Sentence Num="8" WritingMode="vertical">×音声収容装置（回線収容部）投資額</Sentence>
                 <Sentence Num="9" WritingMode="vertical">÷（音声収容装置（回線収容部）投資額＋音声収容装置（ユニット部）投資額）</Sentence>
-                <Sentence Num="10" WritingMode="vertical">（２）　局ごとアナログ局内回線収容部投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝き線点遠隔収容装置収容アナログ電話回線数</Sentence>
+                <Sentence Num="10" WritingMode="vertical">（２）　<ArithFormula>局ごとアナログ局内回線収容部投資額</ArithFormula></Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝き線点遠隔収容装置収容アナログ電話回線数</ArithFormula></Sentence>
                 <Sentence Num="12" WritingMode="vertical">×き線点遠隔収容装置アナログ電話回線単価</Sentence>
                 <Sentence Num="13" WritingMode="vertical">＋音声収容装置（回線収容部）投資額</Sentence>
                 <Sentence Num="14" WritingMode="vertical">＋音声収容装置（ソフトウェア回線収容部相当）投資額</Sentence>
@@ -5926,7 +5926,7 @@
                 <Sentence Num="3" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="4" WritingMode="vertical">次の算定式により局ごとアナログ・デジタル回線共通部投資額を求め、全ての局について当該投資額を合算し、アナログ・デジタル回線共通部投資額を算定する。</Sentence>
                 <Sentence Num="5" WritingMode="vertical">局ごとアナログ・デジタル回線共通部投資額</Sentence>
-                <Sentence Num="6" WritingMode="vertical">＝き線点遠隔収容装置収容回線数×き線点遠隔収容装置回線単価</Sentence>
+                <Sentence Num="6" WritingMode="vertical"><ArithFormula>＝き線点遠隔収容装置収容回線数×き線点遠隔収容装置回線単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -5940,7 +5940,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと主配線盤投資額を求め、全ての局について当該投資額を合算し、主配線盤投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">局ごと主配線盤投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系主配線盤端子数×主配線盤端子当たり単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系主配線盤端子数×主配線盤端子当たり単価</ArithFormula></Sentence>
                 <Sentence Num="8" WritingMode="vertical">＋音声系主配線盤架数×主配線盤架当たり単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -5963,7 +5963,7 @@
                 <Sentence Num="12" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="13" WritingMode="vertical">次の算定式により局ごとに階梯ごと光ケーブル成端架投資額を求め、全ての局について当該投資額を合算し、光ケーブル成端架投資額を算定する。</Sentence>
                 <Sentence Num="14" WritingMode="vertical">階梯ごと光ケーブル成端架投資額</Sentence>
-                <Sentence Num="15" WritingMode="vertical">＝当該階梯音声系光ケーブル成端架（大型）架数×光ケーブル成端架（大型）架当たり単価</Sentence>
+                <Sentence Num="15" WritingMode="vertical"><ArithFormula>＝当該階梯音声系光ケーブル成端架（大型）架数×光ケーブル成端架（大型）架当たり単価</ArithFormula></Sentence>
                 <Sentence Num="16" WritingMode="vertical">＋当該階梯音声系光ケーブル成端架（中型）架数×光ケーブル成端架（中型）架当たり単価</Sentence>
                 <Sentence Num="17" WritingMode="vertical">＋当該階梯音声系光ケーブル成端架（小型２）架数×光ケーブル成端架（小型２）架当たり単価</Sentence>
                 <Sentence Num="18" WritingMode="vertical">＋当該階梯音声系光ケーブル成端架（小型１）架数×光ケーブル成端架（小型１）架当たり単価</Sentence>
@@ -5989,7 +5989,7 @@
                 <Sentence Num="9" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="10" WritingMode="vertical">次の算定式により、局ごと共用コアルータ投資額を求め、全ての局について当該投資額を合算し、共用コアルータ投資額を算定する。</Sentence>
                 <Sentence Num="11" WritingMode="vertical">局ごと共用コアルータ投資額</Sentence>
-                <Sentence Num="12" WritingMode="vertical">＝音声系冗長化後共用コアルータユニット数×共用コアルータユニット単価</Sentence>
+                <Sentence Num="12" WritingMode="vertical"><ArithFormula>＝音声系冗長化後共用コアルータユニット数×共用コアルータユニット単価</ArithFormula></Sentence>
                 <Sentence Num="13" WritingMode="vertical">＋音声系冗長化後共用コアルータ１０Ｇボード数×共用コアルータ１０Ｇボード単価</Sentence>
                 <Sentence Num="14" WritingMode="vertical">＋音声系冗長化後共用コアルータ１０Ｇインタフェース数×共用コアルータ１０Ｇインタフェース単価</Sentence>
                 <Sentence Num="15" WritingMode="vertical">＋音声系冗長化後共用コアルータユニット数×共用コアルータソフトウェア単価</Sentence>
@@ -6007,7 +6007,7 @@
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごとコア局用Ｌ２ＳＷ投資額を求め、全ての局について当該投資額を合算し、コア局用Ｌ２ＳＷ投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">局ごとコア局用Ｌ２ＳＷ投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝音声系冗長化後コア局用Ｌ２ＳＷユニット数×コア局用Ｌ２ＳＷユニット単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝音声系冗長化後コア局用Ｌ２ＳＷユニット数×コア局用Ｌ２ＳＷユニット単価</ArithFormula></Sentence>
                 <Sentence Num="9" WritingMode="vertical">＋音声系冗長化後コア局用Ｌ２ＳＷ１０Ｇインタフェース数×コア局用Ｌ２ＳＷ１０Ｇインタフェース単価</Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋音声系冗長化後コア局用Ｌ２ＳＷ１Ｇインタフェース数×コア局用Ｌ２ＳＷ１Ｇインタフェース単価</Sentence>
               </TableColumn>
@@ -6023,9 +6023,9 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごとＭＧＷ投資額を求め、全ての局について当該投資額を合算し、ＭＧＷ投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">局ごとＭＧＷ投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝（ＭＧＷユニット部投資額＋ＭＧＷユニット部ソフトウェア投資額）</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝（ＭＧＷユニット部投資額＋ＭＧＷユニット部ソフトウェア投資額）</ArithFormula></Sentence>
                 <Sentence Num="8" WritingMode="vertical">＋（ＭＧＷ回線依存部投資額＋ＭＧＷ回線依存部ソフトウェア投資額）</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝（冗長化後ＭＧＷユニット数×ＭＧＷユニット単価＋冗長化後ＭＧＷユニット数×ＭＧＷユニットソフトウェア単価）</Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝（冗長化後ＭＧＷユニット数×ＭＧＷユニット単価＋冗長化後ＭＧＷユニット数×ＭＧＷユニットソフトウェア単価）</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋（冗長化後ＭＧＷＳＴＭ―１ポート数×ＭＧＷＳＴＭ―１ポート単価＋冗長化後ＭＧＷＳＴＭ―１ポート数×ＭＧＷＳＴＭ―１ポートソフトウェア単価）</Sentence>
               </TableColumn>
             </TableRow>
@@ -6041,7 +6041,7 @@
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごとＭＧＣ投資額を求め、全ての局について当該投資額を合算し、ＭＧＣ投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">局ごとＭＧＣ投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝冗長化後ＭＧＣユニット数×ＭＧＣユニット単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝冗長化後ＭＧＣユニット数×ＭＧＣユニット単価</ArithFormula></Sentence>
                 <Sentence Num="9" WritingMode="vertical">＋冗長化後ＭＧＣユニット数×ＭＧＣソフトウェア単価</Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋冗長化後ＭＧＣ用ＤＢユニット数×ＭＧＣ用ＤＢユニット単価</Sentence>
               </TableColumn>
@@ -6059,7 +6059,7 @@
                 <Sentence Num="6" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="7" WritingMode="vertical">次の算定式により局ごとＳＧＷ投資額を求め、全ての局について当該投資額を合算し、ＳＧＷ投資額を算定する。</Sentence>
                 <Sentence Num="8" WritingMode="vertical">局ごとＳＧＷ投資額</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝冗長化後ＳＧＷユニット数×ＳＧＷユニット単価</Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝冗長化後ＳＧＷユニット数×ＳＧＷユニット単価</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋冗長化後ＳＧＷユニット数×ＳＧＷソフトウェア単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -6080,7 +6080,7 @@
                 <Sentence Num="10" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="11" WritingMode="vertical">次の算定式により局ごとＳＴＰ投資額を求め、全ての局について当該投資額を合算し、ＳＴＰ投資額を算定する。</Sentence>
                 <Sentence Num="12" WritingMode="vertical">局ごとＳＴＰ投資額</Sentence>
-                <Sentence Num="13" WritingMode="vertical">＝ＳＴＰユニット数×ＳＴＰユニット単価</Sentence>
+                <Sentence Num="13" WritingMode="vertical"><ArithFormula>＝ＳＴＰユニット数×ＳＴＰユニット単価</ArithFormula></Sentence>
                 <Sentence Num="14" WritingMode="vertical">＋ＳＴＰリンク数×ＳＴＰリンク単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -6117,18 +6117,18 @@
                 <Sentence Num="26" WritingMode="vertical">６　投資額の算定</Sentence>
                 <Sentence Num="27" WritingMode="vertical">次の算定式により局ごとＰＴＮ投資額、局ごとＣＷＤＭ投資額及び局ごとＸＣＭ投資額を求め、全ての局についてそれら投資額を合算し、ＰＴＮ投資額、ＣＷＤＭ投資額及びＸＣＭ投資額を算定する。</Sentence>
                 <Sentence Num="28" WritingMode="vertical">局ごとＰＴＮ投資額</Sentence>
-                <Sentence Num="29" WritingMode="vertical">＝（音声系冗長化後ＰＴＮ低速インタフェース混在ボード数×ＰＴＮ低速混在インタフェースボード単価</Sentence>
+                <Sentence Num="29" WritingMode="vertical"><ArithFormula>＝（音声系冗長化後ＰＴＮ低速インタフェース混在ボード数×ＰＴＮ低速混在インタフェースボード単価</ArithFormula></Sentence>
                 <Sentence Num="30" WritingMode="vertical">＋音声系冗長化後ＰＴＮユニット数×ＰＴＮユニット単価</Sentence>
                 <Sentence Num="31" WritingMode="vertical">＋音声系冗長化後ＰＴＮ２．４Ｇ高速インタフェース数×ＰＴＮ２．４Ｇ高速インタフェースポート単価</Sentence>
                 <Sentence Num="32" WritingMode="vertical">＋音声系冗長化後ＰＴＮ１０Ｇ高速インタフェース数×ＰＴＮ１０Ｇ高速インタフェースポート単価）</Sentence>
                 <Sentence Num="33" WritingMode="vertical">×（１＋クロック供給装置投資額加算率）</Sentence>
                 <Sentence Num="34" WritingMode="vertical">局ごとＣＷＤＭ投資額</Sentence>
-                <Sentence Num="35" WritingMode="vertical">＝（音声系冗長化後ＣＷＤＭユニット数×ＣＷＤＭユニット単価</Sentence>
+                <Sentence Num="35" WritingMode="vertical"><ArithFormula>＝（音声系冗長化後ＣＷＤＭユニット数×ＣＷＤＭユニット単価</ArithFormula></Sentence>
                 <Sentence Num="36" WritingMode="vertical">＋音声系冗長化後ＣＷＤＭ低速１０Ｇカード数×ＣＤＷＭ低速１０Ｇカード単価</Sentence>
                 <Sentence Num="37" WritingMode="vertical">＋音声系冗長化後ＣＷＤＭ１０Ｇインタフェース数×ＣＷＤＭ１０Ｇインタフェース単価）</Sentence>
                 <Sentence Num="38" WritingMode="vertical">×（１＋クロック供給装置投資額加算率）</Sentence>
                 <Sentence Num="39" WritingMode="vertical">局ごとＸＣＭ投資額</Sentence>
-                <Sentence Num="40" WritingMode="vertical">＝ＸＣＭ基本架数×ＸＣＭ基本架単価</Sentence>
+                <Sentence Num="40" WritingMode="vertical"><ArithFormula>＝ＸＣＭ基本架数×ＸＣＭ基本架単価</ArithFormula></Sentence>
                 <Sentence Num="41" WritingMode="vertical">＋ＸＣＭ接続架数×ＸＣＭ接続架単価</Sentence>
                 <Sentence Num="42" WritingMode="vertical">＋ＸＣＭ局内１５６Ｍインタフェース数×ＸＣＭ局内１５６Ｍインタフェース単価</Sentence>
                 <Sentence Num="43" WritingMode="vertical">＋ＸＣＭ局間５２Ｍインタフェース数×ＸＣＭ局間５２Ｍインタフェース単価</Sentence>
@@ -6154,7 +6154,7 @@
                 <Sentence Num="9" WritingMode="vertical">５　投資額の算定</Sentence>
                 <Sentence Num="10" WritingMode="vertical">次の算定式により局ごと中間中継伝送装置投資額を求め、全ての局について当該投資額を合算し、中間中継伝送装置投資額を算定する。</Sentence>
                 <Sentence Num="11" WritingMode="vertical">局ごと中間中継伝送装置投資額</Sentence>
-                <Sentence Num="12" WritingMode="vertical">＝音声系中間中継伝送装置ユニット数×中間中継伝送装置ユニット単価</Sentence>
+                <Sentence Num="12" WritingMode="vertical"><ArithFormula>＝音声系中間中継伝送装置ユニット数×中間中継伝送装置ユニット単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6181,7 +6181,7 @@
                 <Sentence Num="17" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="18" WritingMode="vertical">次の算定式により局ごとのメタルケーブル投資額を求め、全ての局について当該投資額を合算し、メタルケーブル投資額を算定する。この場合に使用する単価は、当該局が属する都道府県の値とする。</Sentence>
                 <Sentence Num="19" WritingMode="vertical">局ごと種別ごとメタルケーブル投資額</Sentence>
-                <Sentence Num="20" WritingMode="vertical">＝当該種別音声系架空メタルケーブル対ｋｍ×当該種別架空メタルケーブル対ｋｍ単価</Sentence>
+                <Sentence Num="20" WritingMode="vertical"><ArithFormula>＝当該種別音声系架空メタルケーブル対ｋｍ×当該種別架空メタルケーブル対ｋｍ単価</ArithFormula></Sentence>
                 <Sentence Num="21" WritingMode="vertical">＋当該種別音声系架空メタルケーブル延長ｋｍ×当該種別架空メタルケーブル延長ｋｍ単価</Sentence>
                 <Sentence Num="22" WritingMode="vertical">＋当該種別音声系地下メタルケーブル対ｋｍ×当該種別地下メタルケーブル対ｋｍ単価</Sentence>
                 <Sentence Num="23" WritingMode="vertical">＋当該種別音声系地下メタルケーブル延長ｋｍ×当該種別地下メタルケーブル延長ｋｍ単価</Sentence>
@@ -6209,7 +6209,7 @@
                 <Sentence Num="15" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="16" WritingMode="vertical">次の算定式により局ごとの光ケーブル投資額を求め、全ての局について当該投資額を合算し、光ケーブル投資額を算定する。この場合に使用する単価は、当該局が属する都道府県の値とする。</Sentence>
                 <Sentence Num="17" WritingMode="vertical">局ごと光ケーブル投資額</Sentence>
-                <Sentence Num="18" WritingMode="vertical">＝音声系加入系架空光ケーブル心ｋｍ×加入系架空光ケーブル心ｋｍ単価</Sentence>
+                <Sentence Num="18" WritingMode="vertical"><ArithFormula>＝音声系加入系架空光ケーブル心ｋｍ×加入系架空光ケーブル心ｋｍ単価</ArithFormula></Sentence>
                 <Sentence Num="19" WritingMode="vertical">＋音声系加入系架空光ケーブル延長ｋｍ×加入系架空光ケーブル延長ｋｍ単価</Sentence>
                 <Sentence Num="20" WritingMode="vertical">＋音声系加入系地下光ケーブル心ｋｍ×加入系地下光ケーブル心ｋｍ単価</Sentence>
                 <Sentence Num="21" WritingMode="vertical">＋音声系加入系地下光ケーブル延長ｋｍ×加入系地下光ケーブル延長ｋｍ単価</Sentence>
@@ -6232,7 +6232,7 @@
                 <Sentence Num="10" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="11" WritingMode="vertical">次の算定式によりループごと光ケーブル投資額を求め、全てのループについて当該投資額を合算し、光ケーブル投資額を算定する。</Sentence>
                 <Sentence Num="12" WritingMode="vertical">ループごと光ケーブル投資額</Sentence>
-                <Sentence Num="13" WritingMode="vertical">＝音声系中継系架空光ケーブル心ｋｍ×中継系架空光ケーブル心ｋｍ単価</Sentence>
+                <Sentence Num="13" WritingMode="vertical"><ArithFormula>＝音声系中継系架空光ケーブル心ｋｍ×中継系架空光ケーブル心ｋｍ単価</ArithFormula></Sentence>
                 <Sentence Num="14" WritingMode="vertical">＋音声系中継系架空光ケーブル延長ｋｍ×中継系架空光ケーブル延長ｋｍ単価</Sentence>
                 <Sentence Num="15" WritingMode="vertical">＋音声系中継系地下光ケーブル心ｋｍ×中継系地下光ケーブル心ｋｍ単価</Sentence>
                 <Sentence Num="16" WritingMode="vertical">＋音声系中継系地下光ケーブル延長ｋｍ×中継系地下光ケーブル延長ｋｍ単価</Sentence>
@@ -6253,7 +6253,7 @@
                 <Sentence Num="8" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="9" WritingMode="vertical">次の算定式によりループごと海底光ケーブル投資額を求め、全てのループについて当該投資額を合算し、海底光ケーブル投資額を算定する。</Sentence>
                 <Sentence Num="10" WritingMode="vertical">ループごと海底光ケーブル投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝音声系有中継海底光ケーブル心ｋｍ</Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝音声系有中継海底光ケーブル心ｋｍ</ArithFormula></Sentence>
                 <Sentence Num="12" WritingMode="vertical">×（有中継海底光ケーブル心ｋｍ当たり単価＋海底光ケーブル心ｋｍ当たり漁業補償費）</Sentence>
                 <Sentence Num="13" WritingMode="vertical">＋音声系有中継海底光ケーブル延長ｋｍ</Sentence>
                 <Sentence Num="14" WritingMode="vertical">×有中継海底光ケーブル延長ｋｍ当たり単価</Sentence>
@@ -6275,9 +6275,9 @@
                 <Sentence Num="6" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="7" WritingMode="vertical">次の算定式によりループごと海底中間中継伝送装置投資額を求め、全ての局について当該投資額を合算し、海底中間中継伝送装置投資額を算定する。また、局ごと海底中間中継伝送装置用給電装置投資額を求め、全ての局について当該投資額を合算し、海底中間中継伝送装置用給電装置投資額を算定する。</Sentence>
                 <Sentence Num="8" WritingMode="vertical">ループごと海底中間中継伝送装置投資額</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝音声系海底中間中継伝送装置数×海底中間中継伝送装置単価</Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝音声系海底中間中継伝送装置数×海底中間中継伝送装置単価</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">局ごと海底中間中継伝送装置用給電装置投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝音声系海底中間中継伝送装置用給電装置数×海底中間中継伝送装置用給電装置単価</Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝音声系海底中間中継伝送装置用給電装置数×海底中間中継伝送装置用給電装置単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6292,7 +6292,7 @@
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごと無線伝送装置投資額を求め、全ての局について当該投資額を合算し、無線伝送装置投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">局ごと無線伝送装置投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝音声系変復調回線切替装置ユニット数×変復調回線切替装置ユニット単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝音声系変復調回線切替装置ユニット数×変復調回線切替装置ユニット単価</ArithFormula></Sentence>
                 <Sentence Num="9" WritingMode="vertical">＋音声系変復調回線切替装置架数×変復調回線切替装置架・共通部単価</Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋音声系無線送受信装置ユニット数×無線送受信装置ユニット単価</Sentence>
                 <Sentence Num="11" WritingMode="vertical">＋音声系無線送受信装置架数×無線送受信装置架・共通部単価</Sentence>
@@ -6310,7 +6310,7 @@
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごとインタフェース変換装置投資額を求め、全ての局について当該投資額を合算し、インタフェース変換装置投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">局ごとインタフェース変換装置投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝音声系インタフェース変換装置ユニット数×インタフェース変換装置ユニット単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝音声系インタフェース変換装置ユニット数×インタフェース変換装置ユニット単価</ArithFormula></Sentence>
                 <Sentence Num="9" WritingMode="vertical">＋音声系インタフェース変換装置インタフェース数×インタフェース変換装置インタフェースポート単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -6338,7 +6338,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと無線鉄塔投資額を求め、全ての局について当該投資額を合算し、無線鉄塔投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">局ごと無線鉄塔投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系地上設置用無線鉄塔数×地上設置用鉄塔単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系地上設置用無線鉄塔数×地上設置用鉄塔単価</ArithFormula></Sentence>
                 <Sentence Num="8" WritingMode="vertical">＋音声系屋上設置用無線鉄塔数×屋上設置用鉄塔単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -6355,7 +6355,7 @@
                 <Sentence Num="6" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="7" WritingMode="vertical">次の算定式により局ごと衛星通信設備投資額を求め、全ての局について当該投資額を合算し、衛星通信設備投資額を算定する。</Sentence>
                 <Sentence Num="8" WritingMode="vertical">局ごと衛星通信設備投資額</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝音声系トランスポンダ数×トランスポンダ単価</Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝音声系トランスポンダ数×トランスポンダ単価</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋音声系ＴＤＭＡ装置架数×ＴＤＭＡ装置架単価</Sentence>
                 <Sentence Num="11" WritingMode="vertical">＋音声系衛星送受信装置架数×衛星送受信装置架単価</Sentence>
                 <Sentence Num="12" WritingMode="vertical">＋音声系衛星アンテナ数×衛星アンテナ単価</Sentence>
@@ -6399,7 +6399,7 @@
                 <Sentence Num="6" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="7" WritingMode="vertical">次の算定式により局ごと加入系管路投資額を求め、全ての局について当該投資額を合算し、加入系管路投資額を算定する。</Sentence>
                 <Sentence Num="8" WritingMode="vertical">局ごと加入系管路投資額</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝音声系加入系管路条ｋｍ×（加入系管路条ｋｍ当たり単価＋管路条ｋｍ当たり災害対策増分単価）</Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝音声系加入系管路条ｋｍ×（加入系管路条ｋｍ当たり単価＋管路条ｋｍ当たり災害対策増分単価）</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋音声系加入系管路亘長ｋｍ×加入系管路亘長ｋｍ当たり単価</Sentence>
                 <Sentence Num="11" WritingMode="vertical">＋音声系インナーパイプ延長ｋｍ×インナーパイプ延長ｋｍ当たり単価</Sentence>
               </TableColumn>
@@ -6415,7 +6415,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式によりループごと中継系管路投資額を求め、全ての局について当該投資額を合算し、中継系管路投資額を算定する。この場合に使用する単価は、当該局が属する都道府県の値とする。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">ループごと中継系管路投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系中継系管路条ｋｍ×（中継系管路条ｋｍ当たり単価＋管路条ｋｍ当たり災害対策増分単価）</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系中継系管路条ｋｍ×（中継系管路条ｋｍ当たり単価＋管路条ｋｍ当たり災害対策増分単価）</ArithFormula></Sentence>
                 <Sentence Num="8" WritingMode="vertical">＋音声系中継系管路亘長ｋｍ×中継系管路亘長ｋｍ当たり単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -6431,7 +6431,7 @@
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごと加入系中口径管路投資額を求め、全ての局について当該投資額を合算し、加入系中口径管路投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">局ごと加入系中口径管路投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝音声系加入系中口径管路亘長ｋｍ×中口径管路亘長ｋｍ当たり単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝音声系加入系中口径管路亘長ｋｍ×中口径管路亘長ｋｍ当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6445,7 +6445,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式によりループごと中継系中口径管路投資額を求め、全てのループについて当該投資額を合算し、中継系中口径管路投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">ループごと中継系中口径管路投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系中継系中口径管路亘長ｋｍ×中口径管路亘長ｋｍ当たり単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系中継系中口径管路亘長ｋｍ×中口径管路亘長ｋｍ当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6459,7 +6459,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと加入系共同溝投資額を求め、全ての局について当該投資額を合算し、加入系共同溝投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">局ごと加入系共同溝投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系加入系共同溝亘長ｋｍ×共同溝亘長ｋｍ当たり単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系加入系共同溝亘長ｋｍ×共同溝亘長ｋｍ当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6473,7 +6473,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式によりループごと中継系共同溝投資額を求め、全てのループについて当該投資額を合算し、中継系共同溝投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">ループごと中継系共同溝投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系中継系共同溝亘長ｋｍ×共同溝亘長ｋｍ当たり単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系中継系共同溝亘長ｋｍ×共同溝亘長ｋｍ当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6487,7 +6487,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと加入系とう道投資額を求め、全ての局について当該投資額を合算し、加入系とう道投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">局ごと加入系とう道投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系加入系とう道亘長ｋｍ×（とう道亘長ｋｍ当たり単価＋とう道亘長ｋｍ当たり災害対策増分単価）</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系加入系とう道亘長ｋｍ×（とう道亘長ｋｍ当たり単価＋とう道亘長ｋｍ当たり災害対策増分単価）</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6501,7 +6501,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式によりループごと中継系とう道投資額を求め、全てのループについて当該投資額を合算し、中継系とう道投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">ループごと中継系とう道投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系中継系とう道亘長ｋｍ×（とう道亘長ｋｍ当たり単価＋とう道亘長ｋｍ当たり災害対策増分単価）</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系中継系とう道亘長ｋｍ×（とう道亘長ｋｍ当たり単価＋とう道亘長ｋｍ当たり災害対策増分単価）</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6516,7 +6516,7 @@
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごと電線共同溝投資額を求め、全ての局について当該投資額を合算し、電線共同溝投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">局ごと電線共同溝投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝音声系電線共同溝延長ｋｍ×電線共同溝延長ｋｍ当たり単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝音声系電線共同溝延長ｋｍ×電線共同溝延長ｋｍ当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6558,7 +6558,7 @@
                 <Sentence Num="6" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="7" WritingMode="vertical">次の算定式により局ごと空調設備投資額を求め、全ての局について当該投資額を合算し、空調設備投資額を算定する。</Sentence>
                 <Sentence Num="8" WritingMode="vertical">局ごと空調設備投資額</Sentence>
-                <Sentence Num="9" WritingMode="vertical">＝音声系空調設備（大）台数×空調設備（大）１台当たり単価</Sentence>
+                <Sentence Num="9" WritingMode="vertical"><ArithFormula>＝音声系空調設備（大）台数×空調設備（大）１台当たり単価</ArithFormula></Sentence>
                 <Sentence Num="10" WritingMode="vertical">＋音声系空調設備（小）台数×空調設備（小）１台当たり単価</Sentence>
               </TableColumn>
             </TableRow>
@@ -6576,7 +6576,7 @@
                 <Sentence Num="7" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="8" WritingMode="vertical">次の算定式により局ごと整流装置投資額を求め、全ての局について当該投資額を合算し、整流装置投資額を算定する。</Sentence>
                 <Sentence Num="9" WritingMode="vertical">局ごと整流装置投資額</Sentence>
-                <Sentence Num="10" WritingMode="vertical">＝音声系整流装置基本部数×整流装置基本部単価</Sentence>
+                <Sentence Num="10" WritingMode="vertical"><ArithFormula>＝音声系整流装置基本部数×整流装置基本部単価</ArithFormula></Sentence>
                 <Sentence Num="11" WritingMode="vertical">＋音声系整流装置増設架数×整流装置増設架単価</Sentence>
                 <Sentence Num="12" WritingMode="vertical">＋音声系整流器ユニット数×整流器ユニット単価</Sentence>
               </TableColumn>
@@ -6592,7 +6592,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと直流変換電源装置投資額を求め、全ての局について当該投資額を合算し、直流変換電源装置投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">局ごと直流変換電源装置投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系直流変換電源装置架数×直流変換電源装置架当たり単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系直流変換電源装置架数×直流変換電源装置架当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6607,7 +6607,7 @@
                 <Sentence Num="5" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごとに種別ごと交流無停電電源装置投資額を求め、全ての局について当該投資額を合算し、交流無停電電源装置投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">種別ごと交流無停電電源装置投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝当該種別音声系交流無停電電源装置台数×当該種別交流無停電電源装置単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝当該種別音声系交流無停電電源装置台数×当該種別交流無停電電源装置単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6627,7 +6627,7 @@
                 <Sentence Num="10" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="11" WritingMode="vertical">次の算定式により局ごとに種別ごと蓄電池投資額を求め、全ての局について当該投資額を合算し、蓄電池投資額を算定する。</Sentence>
                 <Sentence Num="12" WritingMode="vertical">種別ごと蓄電池投資額</Sentence>
-                <Sentence Num="13" WritingMode="vertical">＝当該種別音声系蓄電池組数×当該種別蓄電池単価</Sentence>
+                <Sentence Num="13" WritingMode="vertical"><ArithFormula>＝当該種別音声系蓄電池組数×当該種別蓄電池単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6645,7 +6645,7 @@
                 <Sentence Num="8" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="9" WritingMode="vertical">次の算定式により局ごと受電装置投資額を求め、全ての局について当該投資額を合算し、受電装置投資額を算定する。</Sentence>
                 <Sentence Num="10" WritingMode="vertical">局ごと受電装置投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝音声系受電装置所要容量×受電装置単位容量当たり単価</Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝音声系受電装置所要容量×受電装置単位容量当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6663,7 +6663,7 @@
                 <Sentence Num="8" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="9" WritingMode="vertical">次の算定式により局ごと発電装置投資額を求め、全ての局について当該投資額を合算し、発電装置投資額を算定する。</Sentence>
                 <Sentence Num="10" WritingMode="vertical">局ごと発電装置投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝音声系発電装置所要容量×（発電装置単位容量当たり単価＋発電装置単位容量当たり停電対策増分単価）</Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝音声系発電装置所要容量×（発電装置単位容量当たり単価＋発電装置単位容量当たり停電対策増分単価）</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6678,7 +6678,7 @@
                 <Sentence Num="5" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="6" WritingMode="vertical">次の算定式により局ごとに種別ごと小規模局用電源装置投資額を求め、全ての局について当該投資額を合算し、小規模局用電源装置投資額を算定する。</Sentence>
                 <Sentence Num="7" WritingMode="vertical">種別ごと小規模局用電源装置投資額</Sentence>
-                <Sentence Num="8" WritingMode="vertical">＝当該種別音声系小規模局用電源装置台数×当該種別小規模局用電源装置単価</Sentence>
+                <Sentence Num="8" WritingMode="vertical"><ArithFormula>＝当該種別音声系小規模局用電源装置台数×当該種別小規模局用電源装置単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6692,7 +6692,7 @@
                 <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
                 <Sentence Num="5" WritingMode="vertical">次の算定式により局ごとに可搬型発動発電機投資額を求め、全ての局について当該投資額を合算し、可搬型発動発電機投資額を算定する。</Sentence>
                 <Sentence Num="6" WritingMode="vertical">可搬型発動発電機投資額</Sentence>
-                <Sentence Num="7" WritingMode="vertical">＝音声系可搬型発動発電機所要容量×可搬型発動発電機単位容量当たり単価</Sentence>
+                <Sentence Num="7" WritingMode="vertical"><ArithFormula>＝音声系可搬型発動発電機所要容量×可搬型発動発電機単位容量当たり単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6725,16 +6725,16 @@
                 <Sentence Num="23" WritingMode="vertical">次の算定式により局ごと機械室建物投資額を求め、全ての局について当該投資額を合算し、機械室建物投資額を算定する。</Sentence>
                 <Sentence Num="24" WritingMode="vertical">（１）　局舎種別が複数階局の場合</Sentence>
                 <Sentence Num="25" WritingMode="vertical">局ごと機械室建物投資額</Sentence>
-                <Sentence Num="26" WritingMode="vertical">＝音声系機械室建物面積×（機械室建物建設単価＋機械室建物災害対策増分単価）</Sentence>
+                <Sentence Num="26" WritingMode="vertical"><ArithFormula>＝音声系機械室建物面積×（機械室建物建設単価＋機械室建物災害対策増分単価）</ArithFormula></Sentence>
                 <Sentence Num="27" WritingMode="vertical">（２）　局舎種別が平屋局であって離島単独局の場合</Sentence>
                 <Sentence Num="28" WritingMode="vertical">局ごと機械室建物投資額</Sentence>
-                <Sentence Num="29" WritingMode="vertical">＝音声系機械室建物面積×機械室建物建設単価</Sentence>
+                <Sentence Num="29" WritingMode="vertical"><ArithFormula>＝音声系機械室建物面積×機械室建物建設単価</ArithFormula></Sentence>
                 <Sentence Num="30" WritingMode="vertical">（３）　局舎種別が平屋局であって（２）以外の場合</Sentence>
                 <Sentence Num="31" WritingMode="vertical">局ごと機械室建物投資額</Sentence>
-                <Sentence Num="32" WritingMode="vertical">＝音声系機械室建物面積×（機械室建物建設単価＋機械室建物災害対策増分単価）</Sentence>
+                <Sentence Num="32" WritingMode="vertical"><ArithFormula>＝音声系機械室建物面積×（機械室建物建設単価＋機械室建物災害対策増分単価）</ArithFormula></Sentence>
                 <Sentence Num="33" WritingMode="vertical">（４）　局舎種別がＲＴ―ＢＯＸの場合</Sentence>
                 <Sentence Num="34" WritingMode="vertical">局ごと機械室建物投資額</Sentence>
-                <Sentence Num="35" WritingMode="vertical">＝音声系ＲＴ―ＢＯＸ数×ＲＴ―ＢＯＸ単価</Sentence>
+                <Sentence Num="35" WritingMode="vertical"><ArithFormula>＝音声系ＲＴ―ＢＯＸ数×ＲＴ―ＢＯＸ単価</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6752,7 +6752,7 @@
                 <Sentence Num="8" WritingMode="vertical">３　投資額の算定</Sentence>
                 <Sentence Num="9" WritingMode="vertical">次の算定式により局ごと機械室土地投資額を求め、全ての局について当該投資額を合算し、機械室土地投資額を算定する。この場合に使用する土地単価時点補正係数は、当該局が属する都道府県の値とする。</Sentence>
                 <Sentence Num="10" WritingMode="vertical">局ごと機械室土地投資額</Sentence>
-                <Sentence Num="11" WritingMode="vertical">＝音声系機械室土地面積×（固定資産評価額÷土地単価時価補正係数）×土地単価時点補正係数</Sentence>
+                <Sentence Num="11" WritingMode="vertical"><ArithFormula>＝音声系機械室土地面積×（固定資産評価額÷土地単価時価補正係数）×土地単価時点補正係数</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6761,7 +6761,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">監視設備（総合監視）投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝ネットワーク設備<Sup>（注）</Sup>投資額合計×監視設備（総合監視）対投資額比率</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝ネットワーク設備<Sup>（注）</Sup>投資額合計×監視設備（総合監視）対投資額比率</ArithFormula></Sentence>
                 <Sentence Num="3" WritingMode="vertical">注　ネットワーク設備とは、附則別表第２の１に規定する設備区分に係る設備及び附則別表第２の２に規定する附属設備等のうち、空調設備、電力設備、機械室建物及び機械室土地の設備等区分に係る設備等をいう。以下この表において同じ。</Sentence>
               </TableColumn>
             </TableRow>
@@ -6771,7 +6771,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">監視設備（収容局設備）投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝（音声収容ルータ投資額＋共用収容ルータ投資額＋音声収容装置投資額</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝（音声収容ルータ投資額＋共用収容ルータ投資額＋音声収容装置投資額</ArithFormula></Sentence>
                 <Sentence Num="3" WritingMode="vertical">＋音声収容装置用Ｌ２ＳＷ投資額＋総合デジタル通信回線収容交換機投資額</Sentence>
                 <Sentence Num="4" WritingMode="vertical">＋消防警察トランク投資額＋警察消防用回線集約装置投資額）</Sentence>
                 <Sentence Num="5" WritingMode="vertical">×監視設備（収容局設備）対投資額比率</Sentence>
@@ -6783,7 +6783,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">監視設備（コア局設備）投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝（共用コアルータ投資額＋コア局用Ｌ２ＳＷ投資額＋ＣＳ投資額</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝（共用コアルータ投資額＋コア局用Ｌ２ＳＷ投資額＋ＣＳ投資額</ArithFormula></Sentence>
                 <Sentence Num="3" WritingMode="vertical">＋ＭＧＷ投資額＋ＭＧＣ投資額＋ＸＣＭ投資額＋ＳＧＷ投資額）</Sentence>
                 <Sentence Num="4" WritingMode="vertical">×監視設備（コア局設備）対投資額比率</Sentence>
               </TableColumn>
@@ -6794,7 +6794,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">監視設備（伝送無線機械）投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝（伝送装置投資額＋中間中継伝送装置投資額＋無線伝送装置投資額</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝（伝送装置投資額＋中間中継伝送装置投資額＋無線伝送装置投資額</ArithFormula></Sentence>
                 <Sentence Num="3" WritingMode="vertical">＋インタフェース変換装置投資額＋無線アンテナ投資額＋無線鉄塔投資額＋衛星通信設備投資額）</Sentence>
                 <Sentence Num="4" WritingMode="vertical">×監視設備（伝送無線機械）対投資額比率</Sentence>
               </TableColumn>
@@ -6805,7 +6805,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">監視設備（市外線路）投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝市外線路投資額（中継系光ケーブル、海底光ケーブル、海底中間中継伝送装置及び中継系電柱の投資額の合計）</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝市外線路投資額（中継系光ケーブル、海底光ケーブル、海底中間中継伝送装置及び中継系電柱の投資額の合計）</ArithFormula></Sentence>
                 <Sentence Num="3" WritingMode="vertical">×監視設備（市外線路）対投資額比率</Sentence>
               </TableColumn>
             </TableRow>
@@ -6815,7 +6815,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">監視設備（市内線路）投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝市内線路投資額（加入系光ケーブル、メタルケーブル及び加入系電柱の投資額の合計）</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝市内線路投資額（加入系光ケーブル、メタルケーブル及び加入系電柱の投資額の合計）</ArithFormula></Sentence>
                 <Sentence Num="3" WritingMode="vertical">×監視設備（市内線路）対投資額比率</Sentence>
               </TableColumn>
             </TableRow>
@@ -6825,7 +6825,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">共通用建物投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝ネットワーク設備投資額合計×共通用建物対投資額比率</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝ネットワーク設備投資額合計×共通用建物対投資額比率</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6834,7 +6834,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">共通用土地投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝ネットワーク設備投資額合計×共通用土地対投資額比率×共通用土地単価補正係数</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝ネットワーク設備投資額合計×共通用土地対投資額比率×共通用土地単価補正係数</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6843,7 +6843,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">構築物投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝（機械室建物投資額＋共通用建物投資額）×構築物対投資額比率</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝（機械室建物投資額＋共通用建物投資額）×構築物対投資額比率</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6852,7 +6852,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">機械及び装置投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝ネットワーク設備投資額合計×機械及び装置対投資額比率</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝ネットワーク設備投資額合計×機械及び装置対投資額比率</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6861,7 +6861,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">車両投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝ネットワーク設備投資額合計×車両対投資額比率</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝ネットワーク設備投資額合計×車両対投資額比率</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6870,7 +6870,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">工具、器具及び備品投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝ネットワーク設備投資額合計×工具、器具及び備品対投資額比率</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝ネットワーク設備投資額合計×工具、器具及び備品対投資額比率</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -6879,7 +6879,7 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">無形固定資産投資額</Sentence>
-                <Sentence Num="2" WritingMode="vertical">＝ネットワーク設備投資額合計×無形固定資産（ソフトウェア以外）対投資額比率</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>＝ネットワーク設備投資額合計×無形固定資産（ソフトウェア以外）対投資額比率</ArithFormula></Sentence>
               </TableColumn>
             </TableRow>
           </Table>
@@ -24478,12 +24478,12 @@
               <Subitem4 Num="1">
                 <Subitem4Title/>
                 <Subitem4Sentence>
-                  <Sentence Num="1" WritingMode="vertical">償却率＝１－（残存率）<Sup>１÷法定耐用年数</Sup></Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>償却率＝１－（残存率）<Sup>１÷法定耐用年数</Sup></ArithFormula></Sentence>
                 </Subitem4Sentence>
                 <Subitem5 Num="1">
                   <Subitem5Title/>
                   <Subitem5Sentence>
-                    <Sentence Num="1" WritingMode="vertical">残存率＝０．１とする。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>残存率＝０．１</ArithFormula>とする。</Sentence>
                   </Subitem5Sentence>
                 </Subitem5>
               </Subitem4>
@@ -24558,8 +24558,8 @@
               <Sentence Num="2" WritingMode="vertical">局設置簡易遠隔収容装置のユニット数を１とする。</Sentence>
               <Sentence Num="3" WritingMode="vertical">２　投資額の算定</Sentence>
               <Sentence Num="4" WritingMode="vertical">次の（１）及び（２）の算定式により、前項の規定に基づく局ごとのユニット数を用いて求めた局ごと局設置簡易遠隔収容装置投資額のうち最小のものを当該局の局設置簡易遠隔収容装置投資額として、全ての局の局ごと局設置簡易遠隔収容装置投資額を合算し、局設置簡易遠隔収容装置投資額を算定する。</Sentence>
-              <Sentence Num="5" WritingMode="vertical">（１）　局ごと局設置簡易遠隔収容装置投資額＝（局設置簡易遠隔収容装置ユニット数×局設置簡易遠隔収容装置ユニット単価＋専用線ユニット単価）×（局設置簡易遠隔収容装置収容電話回線数÷（局設置簡易遠隔収容装置収容電話回線数＋局設置簡易遠隔収容装置収容専用回線数））＋局設置簡易遠隔収容装置収容アナログ電話回線数×局設置簡易遠隔収容装置アナログ電話回線単価＋局設置簡易遠隔収容装置収容総合デジタル通信サービス回線数×局設置簡易遠隔収容装置総合デジタル通信サービス回線単価＋回線収容部投資額</Sentence>
-              <Sentence Num="6" WritingMode="vertical">（２）　局ごと局設置簡易遠隔収容装置投資額＝局設置簡易遠隔収容装置ユニット数×局設置簡易遠隔収容装置ユニット単価＋局設置簡易遠隔収容装置収容アナログ電話回線数×局設置簡易遠隔収容装置アナログ電話回線単価＋局設置簡易遠隔収容装置収容総合デジタル通信サービス回線数×局設置簡易遠隔収容装置総合デジタル通信サービス回線単価＋回線収容部投資額</Sentence>
+              <Sentence Num="5" WritingMode="vertical">（１）　<ArithFormula>局ごと局設置簡易遠隔収容装置投資額＝（局設置簡易遠隔収容装置ユニット数×局設置簡易遠隔収容装置ユニット単価＋専用線ユニット単価）×（局設置簡易遠隔収容装置収容電話回線数÷（局設置簡易遠隔収容装置収容電話回線数＋局設置簡易遠隔収容装置収容専用回線数））＋局設置簡易遠隔収容装置収容アナログ電話回線数×局設置簡易遠隔収容装置アナログ電話回線単価＋局設置簡易遠隔収容装置収容総合デジタル通信サービス回線数×局設置簡易遠隔収容装置総合デジタル通信サービス回線単価＋回線収容部投資額</ArithFormula></Sentence>
+              <Sentence Num="6" WritingMode="vertical">（２）　<ArithFormula>局ごと局設置簡易遠隔収容装置投資額＝局設置簡易遠隔収容装置ユニット数×局設置簡易遠隔収容装置ユニット単価＋局設置簡易遠隔収容装置収容アナログ電話回線数×局設置簡易遠隔収容装置アナログ電話回線単価＋局設置簡易遠隔収容装置収容総合デジタル通信サービス回線数×局設置簡易遠隔収容装置総合デジタル通信サービス回線単価＋回線収容部投資額</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -24572,19 +24572,19 @@
               <Sentence Num="3" WritingMode="vertical">なお、各（県、調査区）につき、世帯自県案分率、就業者自県案分率を算定する。県境の調査区以外では、自県案分率は１となる。</Sentence>
               <Sentence Num="4" WritingMode="vertical">世帯自県案分率（県、調査区）＝世帯数（県、調査区）÷総世帯数（調査区）</Sentence>
               <Sentence Num="5" WritingMode="vertical">就業者自県案分率（県、調査区）＝就業者数（県、調査区）÷総就業者数（調査区）</Sentence>
-              <Sentence Num="6" WritingMode="vertical">（１）　住宅用加入電話回線数＝局ごと住宅用加入電話契約回線数÷調査区ごと世帯数の局ごと合計×調査区ごとの世帯数×世帯自県案分率</Sentence>
-              <Sentence Num="7" WritingMode="vertical">（２）　事務用加入電話回線数＝局ごと事務用加入電話契約回線数÷調査区ごと就業者数の局ごと合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="8" WritingMode="vertical">（３）　住宅用第一種総合デジタル通信サービス回線数＝単位料金区域別住宅用第一種総合デジタル通信サービス契約回線数÷調査区ごと世帯数の単位料金区域別合計×調査区ごとの世帯数×世帯自県案分率</Sentence>
-              <Sentence Num="9" WritingMode="vertical">（４）　事務用第一種総合デジタル通信サービス回線数＝単位料金区域別事務用第一種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="10" WritingMode="vertical">（５）　第二種総合デジタル通信サービス回線数＝単位料金区域別第二種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="11" WritingMode="vertical">（６）　第一種公衆電話回線数＝単位料金区域別第一種公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</Sentence>
-              <Sentence Num="12" WritingMode="vertical">（７）　第一種デジタル公衆電話回線数＝単位料金区域別第一種デジタル公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</Sentence>
-              <Sentence Num="13" WritingMode="vertical">（８）　第二種公衆電話回線数＝単位料金区域別第二種公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="14" WritingMode="vertical">（９）　第二種デジタル公衆電話回線数＝単位料金区域別第二種デジタル公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="15" WritingMode="vertical">（１０）　低速専用線二線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線二線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="16" WritingMode="vertical">（１１）　低速専用線四線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線四線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="17" WritingMode="vertical">（１２）　高速メタル専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速メタル専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="18" WritingMode="vertical">（１３）　高速光専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速光専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
+              <Sentence Num="6" WritingMode="vertical">（１）　<ArithFormula>住宅用加入電話回線数＝局ごと住宅用加入電話契約回線数÷調査区ごと世帯数の局ごと合計×調査区ごとの世帯数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="7" WritingMode="vertical">（２）　<ArithFormula>事務用加入電話回線数＝局ごと事務用加入電話契約回線数÷調査区ごと就業者数の局ごと合計×調査区ごとの就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="8" WritingMode="vertical">（３）　<ArithFormula>住宅用第一種総合デジタル通信サービス回線数＝単位料金区域別住宅用第一種総合デジタル通信サービス契約回線数÷調査区ごと世帯数の単位料金区域別合計×調査区ごとの世帯数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="9" WritingMode="vertical">（４）　<ArithFormula>事務用第一種総合デジタル通信サービス回線数＝単位料金区域別事務用第一種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="10" WritingMode="vertical">（５）　<ArithFormula>第二種総合デジタル通信サービス回線数＝単位料金区域別第二種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="11" WritingMode="vertical">（６）　<ArithFormula>第一種公衆電話回線数＝単位料金区域別第一種公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="12" WritingMode="vertical">（７）　<ArithFormula>第一種デジタル公衆電話回線数＝単位料金区域別第一種デジタル公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="13" WritingMode="vertical">（８）　<ArithFormula>第二種公衆電話回線数＝単位料金区域別第二種公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="14" WritingMode="vertical">（９）　<ArithFormula>第二種デジタル公衆電話回線数＝単位料金区域別第二種デジタル公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="15" WritingMode="vertical">（１０）　<ArithFormula>低速専用線二線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線二線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="16" WritingMode="vertical">（１１）　<ArithFormula>低速専用線四線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線四線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="17" WritingMode="vertical">（１２）　<ArithFormula>高速メタル専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速メタル専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="18" WritingMode="vertical">（１３）　<ArithFormula>高速光専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速光専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
               <Sentence Num="19" WritingMode="vertical">２　き線点～局間伝送路経路の選択</Sentence>
               <Sentence Num="20" WritingMode="vertical">局ごとに、当該局の収容区域内の需要の存在する調査区ごとにき線点を設定するものとし、き線点～局間伝送路経路は次の基準により決定する。</Sentence>
               <Sentence Num="21" WritingMode="vertical">（１）　局を起点とし、東西南北の四方に向けて敷設する。</Sentence>
@@ -24607,8 +24607,8 @@
               <Sentence Num="38" WritingMode="vertical">（２）　局ごとに、当該局に収容されるき線点の、（１）で算定したき線点ごとのき線点遠隔収容装置ユニット数の合計を、当該局のき線点遠隔収容装置ユニット数とし、き線点ごとのき線点遠隔収容装置収容回線数の合計を、当該局のき線点遠隔収容装置収容回線数とする。</Sentence>
               <Sentence Num="39" WritingMode="vertical">５　投資額の算定</Sentence>
               <Sentence Num="40" WritingMode="vertical">次の算定式（（１）、（２））により、前項の規定に基づき局ごとに算定したユニット数等を用いて求めた局ごとき線点遠隔収容装置投資額のうち最小のものを当該局のき線点遠隔収容装置投資額として全ての局の局ごとき線点遠隔収容装置投資額を合算し、き線点遠隔収容装置投資額を算定する。</Sentence>
-              <Sentence Num="41" WritingMode="vertical">（１）　局ごとき線点遠隔収容装置投資額＝（局ごとき線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価＋局ごと専用線収容装置ユニット数×専用線ユニット単価）×（局ごとき線点遠隔収容装置収容回線数÷（局ごとき線点遠隔収容装置収容回線数＋局ごと専用線遠隔収容装置収容回線数））＋局ごとき線点遠隔収容装置収容回線数×き線点遠隔収容装置回線単価＋局ごとき線点遠隔収容装置収容アナログ電話回線数×き線点遠隔収容装置アナログ電話回線単価＋き線点遠隔収容装置収容総合デジタル通信サービス回線数×き線点遠隔収容装置総合デジタル通信サービス回線単価</Sentence>
-              <Sentence Num="42" WritingMode="vertical">（２）　局ごとき線点遠隔収容装置投資額＝局ごとき線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価＋局ごとき線点遠隔収容装置収容回線数×き線点遠隔収容装置回線単価＋局ごとき線点遠隔収容装置収容アナログ電話回線数×き線点遠隔収容装置アナログ電話回線単価＋き線点遠隔収容装置収容総合デジタル通信サービス回線数×き線点遠隔収容装置総合デジタル通信サービス回線単価</Sentence>
+              <Sentence Num="41" WritingMode="vertical">（１）　<ArithFormula>局ごとき線点遠隔収容装置投資額＝（局ごとき線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価＋局ごと専用線収容装置ユニット数×専用線ユニット単価）×（局ごとき線点遠隔収容装置収容回線数÷（局ごとき線点遠隔収容装置収容回線数＋局ごと専用線遠隔収容装置収容回線数））＋局ごとき線点遠隔収容装置収容回線数×き線点遠隔収容装置回線単価＋局ごとき線点遠隔収容装置収容アナログ電話回線数×き線点遠隔収容装置アナログ電話回線単価＋き線点遠隔収容装置収容総合デジタル通信サービス回線数×き線点遠隔収容装置総合デジタル通信サービス回線単価</ArithFormula></Sentence>
+              <Sentence Num="42" WritingMode="vertical">（２）　<ArithFormula>局ごとき線点遠隔収容装置投資額＝局ごとき線点遠隔収容装置ユニット数×き線点遠隔収容装置ユニット単価＋局ごとき線点遠隔収容装置収容回線数×き線点遠隔収容装置回線単価＋局ごとき線点遠隔収容装置収容アナログ電話回線数×き線点遠隔収容装置アナログ電話回線単価＋き線点遠隔収容装置収容総合デジタル通信サービス回線数×き線点遠隔収容装置総合デジタル通信サービス回線単価</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -25558,12 +25558,12 @@
               <Subitem4 Num="1">
                 <Subitem4Title/>
                 <Subitem4Sentence>
-                  <Sentence Num="1" WritingMode="vertical">償却率＝１－（残存率）<Sup>１÷法定耐用年数</Sup></Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>償却率＝１－（残存率）<Sup>１÷法定耐用年数</Sup></ArithFormula></Sentence>
                 </Subitem4Sentence>
                 <Subitem5 Num="1">
                   <Subitem5Title/>
                   <Subitem5Sentence>
-                    <Sentence Num="1" WritingMode="vertical">残存率＝０．１とする。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>残存率＝０．１</ArithFormula>とする。</Sentence>
                   </Subitem5Sentence>
                 </Subitem5>
               </Subitem4>
@@ -25640,10 +25640,10 @@
               <Sentence Num="3" WritingMode="vertical">（２）　（１）のアナログ電話用ボード数、第一種総合デジタル通信サービス用ボード数及び第二種総合デジタル通信サービス用ボード数に、それぞれ当該サービスに係るボード当たり占用スロット数を乗じ、全てのサービスについて合計したものを当該局のメタル回線収容装置スロット数とし、これをメタル回線収容装置１ユニット当たり最大収容スロット数で除したもの（１に満たない端数は、切り上げるものとする。）を当該局のメタル回線収容装置ユニット数とする。</Sentence>
               <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
               <Sentence Num="5" WritingMode="vertical">次の算定式により局ごとメタル回線収容装置投資額を求め、全ての局について当該投資額を合算したものに、メタル回線収容装置ソフトウェア投資額（（３）に係るものを除く。）を加え、メタル回線収容装置投資額を算定する。</Sentence>
-              <Sentence Num="6" WritingMode="vertical">（１）　メタル回線収容装置（回線収容部）投資額＝アナログ電話用ボード数×アナログ電話用ボード単価＋第一種総合デジタル通信サービス用ボード数×第一種総合デジタル通信サービス用ボード単価＋第二種総合デジタル通信サービス用ボード数×第二種総合デジタル通信サービス用ボード単価</Sentence>
-              <Sentence Num="7" WritingMode="vertical">（２）　メタル回線収容装置（ユニット部）投資額＝メタル回線収容装置ユニット数×メタル回線収容装置ユニット単価</Sentence>
-              <Sentence Num="8" WritingMode="vertical">（３）　メタル回線収容装置（ユニット部ソフトウェア）投資額＝（メタル回線収容装置ユニット数×メタル回線収容装置ソフトウェア単価）×メタル回線収容装置（ユニット部）投資額÷（メタル回線収容装置（回線収容部）投資額＋メタル回線収容装置（ユニット部）投資額）</Sentence>
-              <Sentence Num="9" WritingMode="vertical">（４）　局ごとメタル回線収容装置投資額＝メタル回線収容装置（ユニット部）投資額＋メタル回線収容装置（ユニット部ソフトウェア）投資額</Sentence>
+              <Sentence Num="6" WritingMode="vertical">（１）　<ArithFormula>メタル回線収容装置（回線収容部）投資額＝アナログ電話用ボード数×アナログ電話用ボード単価＋第一種総合デジタル通信サービス用ボード数×第一種総合デジタル通信サービス用ボード単価＋第二種総合デジタル通信サービス用ボード数×第二種総合デジタル通信サービス用ボード単価</ArithFormula></Sentence>
+              <Sentence Num="7" WritingMode="vertical">（２）　<ArithFormula>メタル回線収容装置（ユニット部）投資額＝メタル回線収容装置ユニット数×メタル回線収容装置ユニット単価</ArithFormula></Sentence>
+              <Sentence Num="8" WritingMode="vertical">（３）　<ArithFormula>メタル回線収容装置（ユニット部ソフトウェア）投資額＝（メタル回線収容装置ユニット数×メタル回線収容装置ソフトウェア単価）×メタル回線収容装置（ユニット部）投資額÷（メタル回線収容装置（回線収容部）投資額＋メタル回線収容装置（ユニット部）投資額）</ArithFormula></Sentence>
+              <Sentence Num="9" WritingMode="vertical">（４）　<ArithFormula>局ごとメタル回線収容装置投資額＝メタル回線収容装置（ユニット部）投資額＋メタル回線収容装置（ユニット部ソフトウェア）投資額</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -25700,21 +25700,21 @@
               <Sentence Num="2" WritingMode="vertical">国勢調査の調査区ごとの各サービスの回線数を次により算定する。なお、各（県、調査区）につき、世帯自県案分率、就業者自県案分率を算定する。県境の調査区以外では、自県案分率は１となる。</Sentence>
               <Sentence Num="3" WritingMode="vertical">世帯自県案分率（県、調査区）＝世帯数（県、調査区）÷総世帯数（調査区）</Sentence>
               <Sentence Num="4" WritingMode="vertical">就業者自県案分率（県、調査区）＝就業者数（県、調査区）÷総就業者数（調査区）</Sentence>
-              <Sentence Num="5" WritingMode="vertical">（１）　住宅用加入電話回線数＝局ごと住宅用加入電話契約回線数÷調査区ごと世帯数の局ごと合計×調査区ごとの世帯数×世帯自県案分率</Sentence>
-              <Sentence Num="6" WritingMode="vertical">（２）　事務用加入電話回線数＝局ごと事務用加入電話契約回線数÷調査区ごと就業者数の局ごと合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="7" WritingMode="vertical">（３）　住宅用光地域ＩＰ回線数＝局ごと住宅用光地域ＩＰ回線数÷調査区ごと世帯数の局ごと合計×調査区ごとの世帯数×世帯自県案分率</Sentence>
-              <Sentence Num="8" WritingMode="vertical">（４）　事務用光地域ＩＰ回線数＝局ごと事務用光地域ＩＰ回線数÷調査区ごと就業者数の局ごと合計×調査区ごとの就業者数×世帯自県案分率</Sentence>
-              <Sentence Num="9" WritingMode="vertical">（５）　住宅用第一種総合デジタル通信サービス回線数＝単位料金区域別住宅用第一種総合デジタル通信サービス契約回線数÷調査区ごと世帯数の単位料金区域別合計×調査区ごとの世帯数×世帯自県案分率</Sentence>
-              <Sentence Num="10" WritingMode="vertical">（６）　事務用第一種総合デジタル通信サービス回線数＝単位料金区域別事務用第一種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="11" WritingMode="vertical">（７）　第二種総合デジタル通信サービス回線数＝単位料金区域別第二種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="12" WritingMode="vertical">（８）　第一種公衆電話回線数＝単位料金区域別第一種公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</Sentence>
-              <Sentence Num="13" WritingMode="vertical">（９）　第一種デジタル公衆電話回線数＝単位料金区域別第一種デジタル公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</Sentence>
-              <Sentence Num="14" WritingMode="vertical">（１０）　第二種公衆電話回線数＝単位料金区域別第二種公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="15" WritingMode="vertical">（１１）　第二種デジタル公衆電話回線数＝単位料金区域別第二種デジタル公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="16" WritingMode="vertical">（１２）　低速専用線二線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線二線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="17" WritingMode="vertical">（１３）　低速専用線四線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線四線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="18" WritingMode="vertical">（１４）　高速メタル専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速メタル専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
-              <Sentence Num="19" WritingMode="vertical">（１５）　高速光専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速光専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</Sentence>
+              <Sentence Num="5" WritingMode="vertical">（１）　<ArithFormula>住宅用加入電話回線数＝局ごと住宅用加入電話契約回線数÷調査区ごと世帯数の局ごと合計×調査区ごとの世帯数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="6" WritingMode="vertical">（２）　<ArithFormula>事務用加入電話回線数＝局ごと事務用加入電話契約回線数÷調査区ごと就業者数の局ごと合計×調査区ごとの就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="7" WritingMode="vertical">（３）　<ArithFormula>住宅用光地域ＩＰ回線数＝局ごと住宅用光地域ＩＰ回線数÷調査区ごと世帯数の局ごと合計×調査区ごとの世帯数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="8" WritingMode="vertical">（４）　<ArithFormula>事務用光地域ＩＰ回線数＝局ごと事務用光地域ＩＰ回線数÷調査区ごと就業者数の局ごと合計×調査区ごとの就業者数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="9" WritingMode="vertical">（５）　<ArithFormula>住宅用第一種総合デジタル通信サービス回線数＝単位料金区域別住宅用第一種総合デジタル通信サービス契約回線数÷調査区ごと世帯数の単位料金区域別合計×調査区ごとの世帯数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="10" WritingMode="vertical">（６）　<ArithFormula>事務用第一種総合デジタル通信サービス回線数＝単位料金区域別事務用第一種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="11" WritingMode="vertical">（７）　<ArithFormula>第二種総合デジタル通信サービス回線数＝単位料金区域別第二種総合デジタル通信サービス契約回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごとの就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="12" WritingMode="vertical">（８）　<ArithFormula>第一種公衆電話回線数＝単位料金区域別第一種公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="13" WritingMode="vertical">（９）　<ArithFormula>第一種デジタル公衆電話回線数＝単位料金区域別第一種デジタル公衆電話実績回線数÷単位料金区域内調査区数×世帯自県案分率</ArithFormula></Sentence>
+              <Sentence Num="14" WritingMode="vertical">（１０）　<ArithFormula>第二種公衆電話回線数＝単位料金区域別第二種公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="15" WritingMode="vertical">（１１）　<ArithFormula>第二種デジタル公衆電話回線数＝単位料金区域別第二種デジタル公衆電話実績回線数÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="16" WritingMode="vertical">（１２）　<ArithFormula>低速専用線二線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線二線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="17" WritingMode="vertical">（１３）　<ArithFormula>低速専用線四線式回線数＝単位料金区域別低速専用線実績回線数×（県別低速専用線四線式実績回線数÷（県別低速専用線二線式実績回線数＋県別低速専用線四線式実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="18" WritingMode="vertical">（１４）　<ArithFormula>高速メタル専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速メタル専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
+              <Sentence Num="19" WritingMode="vertical">（１５）　<ArithFormula>高速光専用線回線数＝単位料金区域別高速専用線実績回線数×（県別高速光専用線実績回線数÷（県別高速メタル専用線実績回線数＋県別高速光専用線実績回線数））÷調査区ごと就業者数の単位料金区域別合計×調査区ごと就業者数×就業者自県案分率</ArithFormula></Sentence>
               <Sentence Num="20" WritingMode="vertical">２　き線点～収容局間伝送路経路の選択</Sentence>
               <Sentence Num="21" WritingMode="vertical">収容局ごとに、当該局の収容区域内の需要の存在する調査区ごとにき線点を設定するものとし、き線点～局間伝送路経路は、次の基準により決定する。</Sentence>
               <Sentence Num="22" WritingMode="vertical">（１）　局を起点とし、東西南北の四方に向けて敷設する。</Sentence>
@@ -25737,8 +25737,8 @@
               <Sentence Num="39" WritingMode="vertical">（２）　収容局ごとに、当該局に収容されるき線点ごとに（１）で算定したき線点遠隔収容装置ユニット数の合計を当該局のき線点遠隔収容装置ユニット数とし、当該き線点ごとのき線点遠隔収容装置収容回線数の合計を当該局のき線点遠隔収容装置収容回線数とする。</Sentence>
               <Sentence Num="40" WritingMode="vertical">５　投資額の算定</Sentence>
               <Sentence Num="41" WritingMode="vertical">次の算定式（１）及び（２）により求めた局ごとき線点遠隔収容装置投資額のうちいずれか小さいものを当該局のき線点遠隔収容装置投資額とし、全ての局について当該投資額を合算し、き線点遠隔収容装置投資額を算定する。</Sentence>
-              <Sentence Num="42" WritingMode="vertical">（１）　局ごとき線点遠隔収容装置投資額＝（き線点遠隔収容装置ユニット数×（き線点遠隔収容装置ユニット単価＋き線点遠隔収容装置ユニット災害対策増分単価）＋専用線収容装置ユニット数×専用線ユニット単価）×き線点遠隔収容装置収容回線数÷（き線点遠隔収容装置収容回線数＋専用線遠隔収容装置収容回線数）</Sentence>
-              <Sentence Num="43" WritingMode="vertical">（２）　局ごとき線点遠隔収容装置投資額＝き線点遠隔収容装置ユニット数×（き線点遠隔収容装置ユニット単価＋き線点遠隔収容装置ユニット災害対策増分単価）</Sentence>
+              <Sentence Num="42" WritingMode="vertical">（１）　<ArithFormula>局ごとき線点遠隔収容装置投資額＝（き線点遠隔収容装置ユニット数×（き線点遠隔収容装置ユニット単価＋き線点遠隔収容装置ユニット災害対策増分単価）＋専用線収容装置ユニット数×専用線ユニット単価）×き線点遠隔収容装置収容回線数÷（き線点遠隔収容装置収容回線数＋専用線遠隔収容装置収容回線数）</ArithFormula></Sentence>
+              <Sentence Num="43" WritingMode="vertical">（２）　<ArithFormula>局ごとき線点遠隔収容装置投資額＝き線点遠隔収容装置ユニット数×（き線点遠隔収容装置ユニット単価＋き線点遠隔収容装置ユニット災害対策増分単価）</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -25751,9 +25751,9 @@
               <Sentence Num="3" WritingMode="vertical">（２）　収容局ごとに、当該局がき線点遠隔収容装置ごとに収容する第一種総合デジタル通信サービス回線数の合計を当該局のき線点遠隔収容装置収容総合デジタル通信サービス回線数とする。</Sentence>
               <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
               <Sentence Num="5" WritingMode="vertical">次の算定式により局ごと総合デジタル通信局内回線終端装置投資額を求め、全ての局について当該投資額を合算し、総合デジタル通信局内回線終端装置投資額を算定する。</Sentence>
-              <Sentence Num="6" WritingMode="vertical">（１）　メタル回線収容装置（総合デジタル通信サービス回線収容部）投資額＝第一種総合デジタル通信サービス用ボード数×第一種総合デジタル通信サービス用ボード単価＋第二種総合デジタル通信サービス用ボード数×第二種総合デジタル通信サービス用ボード単価</Sentence>
-              <Sentence Num="7" WritingMode="vertical">（２）　メタル回線収容装置（総合デジタル通信サービス回線収容部ソフトウェア）投資額＝（メタル回線収容装置ユニット数×メタル回線収容装置ソフトウェア単価）×メタル回線収容装置（総合デジタル通信サービス回線収容部）投資額÷（メタル回線収容装置（回線収容部）投資額＋メタル回線収容装置（ユニット部）投資額）</Sentence>
-              <Sentence Num="8" WritingMode="vertical">（３）　局ごと総合デジタル通信局内回線終端装置投資額＝き線点遠隔収容装置収容総合デジタル通信サービス回線数×き線点遠隔収容装置総合デジタル通信サービス回線単価＋メタル回線収容装置（総合デジタル通信サービス回線収容部）投資額＋メタル回線収容装置（総合デジタル通信サービス回線収容部ソフトウェア）投資額</Sentence>
+              <Sentence Num="6" WritingMode="vertical">（１）　<ArithFormula>メタル回線収容装置（総合デジタル通信サービス回線収容部）投資額＝第一種総合デジタル通信サービス用ボード数×第一種総合デジタル通信サービス用ボード単価＋第二種総合デジタル通信サービス用ボード数×第二種総合デジタル通信サービス用ボード単価</ArithFormula></Sentence>
+              <Sentence Num="7" WritingMode="vertical">（２）　<ArithFormula>メタル回線収容装置（総合デジタル通信サービス回線収容部ソフトウェア）投資額＝（メタル回線収容装置ユニット数×メタル回線収容装置ソフトウェア単価）×メタル回線収容装置（総合デジタル通信サービス回線収容部）投資額÷（メタル回線収容装置（回線収容部）投資額＋メタル回線収容装置（ユニット部）投資額）</ArithFormula></Sentence>
+              <Sentence Num="8" WritingMode="vertical">（３）　<ArithFormula>局ごと総合デジタル通信局内回線終端装置投資額＝き線点遠隔収容装置収容総合デジタル通信サービス回線数×き線点遠隔収容装置総合デジタル通信サービス回線単価＋メタル回線収容装置（総合デジタル通信サービス回線収容部）投資額＋メタル回線収容装置（総合デジタル通信サービス回線収容部ソフトウェア）投資額</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -25766,9 +25766,9 @@
               <Sentence Num="3" WritingMode="vertical">（２）　収容局ごとに、当該局がき線点遠隔収容装置ごとに収容するアナログ電話回線数の合計を当該局のき線点遠隔収容装置収容アナログ電話回線数とする。</Sentence>
               <Sentence Num="4" WritingMode="vertical">２　投資額の算定</Sentence>
               <Sentence Num="5" WritingMode="vertical">次の算定式により局ごとアナログ局内回線収容部投資額を求め、全ての局について当該投資額を合算し、アナログ局内回線収容部投資額を算定する。</Sentence>
-              <Sentence Num="6" WritingMode="vertical">（１）　メタル回線収容装置（アナログ電話回線収容部）投資額＝アナログ電話用ボード数×アナログ電話用ボード単価</Sentence>
-              <Sentence Num="7" WritingMode="vertical">（２）　メタル回線収容装置（アナログ電話回線収容部ソフトウェア）投資額＝（メタル回線収容装置ユニット数×メタル回線収容装置ソフトウェア単価）×メタル回線収容装置（アナログ電話回線収容部）投資額÷（メタル回線収容装置（回線収容部）投資額＋メタル回線収容装置（ユニット部）投資額）</Sentence>
-              <Sentence Num="8" WritingMode="vertical">（３）　局ごとアナログ局内回線収容部投資額＝き線点遠隔収容装置収容アナログ電話回線数×き線点遠隔収容装置アナログ電話回線単価＋メタル回線収容装置（アナログ電話回線収容部）投資額＋メタル回線収容装置（アナログ電話回線収容部ソフトウェア）投資額</Sentence>
+              <Sentence Num="6" WritingMode="vertical">（１）　<ArithFormula>メタル回線収容装置（アナログ電話回線収容部）投資額＝アナログ電話用ボード数×アナログ電話用ボード単価</ArithFormula></Sentence>
+              <Sentence Num="7" WritingMode="vertical">（２）　<ArithFormula>メタル回線収容装置（アナログ電話回線収容部ソフトウェア）投資額＝（メタル回線収容装置ユニット数×メタル回線収容装置ソフトウェア単価）×メタル回線収容装置（アナログ電話回線収容部）投資額÷（メタル回線収容装置（回線収容部）投資額＋メタル回線収容装置（ユニット部）投資額）</ArithFormula></Sentence>
+              <Sentence Num="8" WritingMode="vertical">（３）　<ArithFormula>局ごとアナログ局内回線収容部投資額＝き線点遠隔収容装置収容アナログ電話回線数×き線点遠隔収容装置アナログ電話回線単価＋メタル回線収容装置（アナログ電話回線収容部）投資額＋メタル回線収容装置（アナログ電話回線収容部ソフトウェア）投資額</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

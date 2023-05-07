@@ -2896,26 +2896,8 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="2">
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">削除</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="3">
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">削除</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="4">
-        <ArticleTitle>第四条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="2:4">
+        <ArticleTitle>第二条から第四条まで</ArticleTitle>
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -3333,7 +3315,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">（二）　アルコール倉庫（屋外　を含む。）</Sentence>
+              <Sentence WritingMode="vertical">（二）　アルコール倉庫（屋外を含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">貯蔵可能な容量の総計</Sentence>

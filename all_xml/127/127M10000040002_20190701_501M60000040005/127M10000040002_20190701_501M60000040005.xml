@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000040005" AmendmentNum="令和元年財務省令第五号" Era="Meiji" Lang="ja" LawType="MinisterialOrdinance" Num="002" Year="27">
+<Law AmendmentId="501M60000040005" AmendmentNum="令和元年財務省令第五号" Era="Meiji" Lang="ja" LawType="MinisterialOrdinance" Num="002" Year="27" PromulgateMonth="02" PromulgateDay="07">
   <LawNum>明治二十七年大蔵省令第二号</LawNum>
   <LawBody>
-    <LawTitle>明治二十七年大蔵省令第二号（政府カ第三債務者トシテ差押ヘラレタル債務額ノ仕払停止仕払執行及供託ニ関スル手続）</LawTitle>
+    <LawTitle Kana="せいふがだいさんさいむしゃとしてさしおさえへられたるさいむがくのしはらいていしはらいししっこうおよびきょうたくにかんするてつづき" Abbrev="" AbbrevKana="">明治二十七年大蔵省令第二号（政府カ第三債務者トシテ差押ヘラレタル債務額ノ仕払停止仕払執行及供託ニ関スル手続）</LawTitle>
     <Preamble>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -83,8 +83,8 @@
             <Sentence WritingMode="vertical">出納官吏ニ於テ差押ヘラレタル保管金ヲ仕払フトキハ政府ノ債権者ニ交付シアル保管金領収証書ヲ差押債権者ヨリ提出セシメタル上差押金額ノ仕払ヲ為スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項ノ場合ニ於テ差押債権者ニ仕払フヘキ金額カ差押ヘラレタル保管金ノ一部分ナルトキハ保管金領収証書分割ノ手続ヲ為シタル後差押金額ノ仕払ヲ為スヘシ</Sentence>
           </ParagraphSentence>
@@ -125,8 +125,8 @@
             <Sentence WritingMode="vertical">歳出金ノ繰替払ヲ命令スル官吏既ニ歳出金繰替払証票又ハ同通知書ヲ政府ノ債権者ニ交付シ又ハ繰替払伝票ヲ出納官吏ニ交付シタル後差押命令等ヲ受ケタルトキハ第二号書式ニ準シ仕払停止通知書ヲ調製シ遅滞ナク之ヲ出納官吏ニ交付スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">出納官吏現金引出切符ヲ政府ノ債権者ニ交付シタル後前項ノ仕払停止通知書ヲ受ケタルトキハ直ニ第二号書式ノ仕払停止通知書ヲ金庫ニ送付スヘシ</Sentence>
           </ParagraphSentence>
@@ -257,8 +257,8 @@
             <Sentence WritingMode="vertical">出納官吏前条ノ歳出金繰替払証票又ハ同伝票ヲ受ケタルトキハ現金ニ明治三十二年大蔵省令第六号附属第一号書式ノ供託書ヲ添ヘ金庫ヘ送付シ其ノ旨執行裁判所ヘ通知ノ手続ヲ為スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第十八条但書ノ規定ハ前項ノ場合ニ之ヲ準用ス</Sentence>
           </ParagraphSentence>
@@ -319,7 +319,7 @@
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision AmendLawId="401043" AmendLawNum="平成元年四月六日大蔵省令第四三号" Id="7d2c997a-d3bf-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年四月六日大蔵省令第四三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -328,7 +328,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="406011" AmendLawNum="平成六年三月二三日大蔵省令第一一号" Id="6adcf440-1935-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成六年三月二三日大蔵省令第一一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -343,7 +343,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="415048" AmendLawNum="平成一五年三月三一日財務省令第四八号" Extract="true" Id="909d8d34-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月三一日財務省令第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -378,7 +378,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="417024" AmendLawNum="平成一七年三月三〇日財務省令第二四号" Id="f12d30a6-193e-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一七年三月三〇日財務省令第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -393,7 +393,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501001" AmendLawNum="令和元年五月七日財務省令第一号" Extract="true" Id="49ea128c-7239-11e9-9807-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年五月七日財務省令第一号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -410,7 +410,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501005" AmendLawNum="令和元年六月二一日財務省令第五号" Id="960e72bc-9b8c-11e9-8f3c-005056b30d52">
+    <SupplProvision AmendLawNum="令和元年六月二一日財務省令第五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>

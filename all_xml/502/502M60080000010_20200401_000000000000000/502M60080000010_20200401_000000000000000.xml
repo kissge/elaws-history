@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="Rule" Num="010" Year="02">
+<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="Rule" Num="010" Year="02" PromulgateMonth="03" PromulgateDay="17">
   <LawNum>令和二年原子力規制委員会規則第十号</LawNum>
   <LawBody>
-    <LawTitle>特定第一種廃棄物埋設施設又は特定廃棄物管理施設の技術基準に関する規則</LawTitle>
+    <LawTitle Kana="とくていだいいっしゅはいきぶつまいせつしせつまたはとくていはいきぶつかんりしせつのぎじゅつきじゅんにかんするきそく" Abbrev="" AbbrevKana="">特定第一種廃棄物埋設施設又は特定廃棄物管理施設の技術基準に関する規則</LawTitle>
     <EnactStatement>原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律（平成二十九年法律第十五号）の一部の施行に伴い、及び核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第五十一条の九の規定に基づき、特定第一種廃棄物埋設施設又は特定廃棄物管理施設の技術基準に関する規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -254,8 +254,7 @@
               <Subitem1 Delete="false" Hide="false" Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">液体状の放射性廃棄物を取り扱う設備の周辺部又は施設外に通ずる出入口若しくはその周辺部には、液体状の放射性廃棄物が施設外へ漏えいすることを防止するための<Ruby>堰<Rt>せき</Rt>
-</Ruby>が設置されていること。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">液体状の放射性廃棄物を取り扱う設備の周辺部又は施設外に通ずる出入口若しくはその周辺部には、液体状の放射性廃棄物が施設外へ漏えいすることを防止するための<Ruby>堰<Rt>せき</Rt></Ruby>が設置されていること。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施設内部の床面が隣接する施設の床面又は地表面より低い場合であって、液体状の放射性廃棄物が施設外へ漏えいするおそれがないときは、この限りでない。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
@@ -662,6 +661,28 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律第三条の規定の施行の日（令和二年四月一日）から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（特定第一種廃棄物埋設施設又は特定廃棄物管理施設の設計及び工事の方法の技術基準に関する規則等の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">次に掲げる規則は、廃止する。</Sentence>
+          </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定第一種廃棄物埋設施設又は特定廃棄物管理施設の設計及び工事の方法の技術基準に関する規則（平成四年総理府令第四号）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定第一種廃棄物埋設施設又は特定廃棄物管理施設の性能に係る技術基準に関する規則（平成二十五年原子力規制委員会規則第三十三号）</Sentence>
+              </ItemSentence>
+            </Item>
         </Paragraph>
       </Article>
     </SupplProvision>

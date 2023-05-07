@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Reiwa" Lang="ja" LawType="MinisterialOrdinance" Num="23" Year="04" PromulgateMonth="03" PromulgateDay="31"><LawNum>昭和三十年厚生省令第二十三号</LawNum><LawBody><LawTitle Kana="しかぎこうしほうせこうきそく" Abbrev="" AbbrevKana="">歯科技工士法施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="023" Year="30" PromulgateMonth="09" PromulgateDay="22"><LawNum>昭和三十年厚生省令第二十三号</LawNum><LawBody><LawTitle Kana="しかぎこうしほうせこうきそく" Abbrev="" AbbrevKana="">歯科技工士法施行規則</LawTitle>
     <EnactStatement>歯科技工法（昭和三十年法律第百六十八号）第七条第三項、第十六条、第十八条、第二十一条第一項及び附則第二条第二項並びに歯科技工法施行令（昭和三十年政令第二百二十八号）第一条、第二条第五号及び第十条の規定に基き、並びにこれらの法令を実施するため、歯科技工法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -283,7 +283,9 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">写真（出願前六箇月以内に脱帽で正面から撮影した縦六センチメートル横四センチメートルのもので、その裏面に<QuoteStruct><Fig src="./pict/3JH00000234804.jpg"/></QuoteStruct>の記号、撮影年月日及び氏名を記載すること。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">写真（出願前六箇月以内に脱帽で正面から撮影した縦六センチメートル横四センチメートルのもので、その裏面に<QuoteStruct>
+                    <Fig src="./pict/3JH00000234804.jpg"/>
+                  </QuoteStruct>の記号、撮影年月日及び氏名を記載すること。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -318,8 +320,7 @@
               </Sublist1>
               <Sublist1>
                 <Sublist1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">
-                    <Ruby>顎<Rt>がく</Rt></Ruby>口<Ruby>腔<Rt>くう</Rt></Ruby>機能学</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><Ruby>顎<Rt>がく</Rt></Ruby>口<Ruby>腔<Rt>くう</Rt></Ruby>機能学</Sentence>
                 </Sublist1Sentence>
               </Sublist1>
               <Sublist1>
@@ -638,7 +639,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">歯科技工士は、その業務を行つた場合には、その記録を作成して三年間これを保存するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">開設者は、指示書による歯科技工ごとに、その記録を作成して三年間これを保存するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -760,10 +761,10 @@
     <SupplProvision AmendLawNum="昭和五七年三月二〇日厚生省令第八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">（施行期日）</Sentence>
-          <Sentence Num="2" WritingMode="vertical">この省令は、昭和五十七年四月一日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、昭和五十七年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1210,12 +1211,41 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年七月二八日厚生労働省令第一〇七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第一条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037830.pdf"/>
+          <Fig src="./pict/2FH00000062300.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

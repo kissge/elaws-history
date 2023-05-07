@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="53" Year="04" PromulgateMonth="04" PromulgateDay="14" ScheduledEnforcementDate="2026/05/24"><LawNum>明治四十一年法律第五十三号</LawNum><LawBody><LawTitle Kana="こうしょうにんほう" Abbrev="" AbbrevKana="">公証人法</LawTitle>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="053" Year="41" PromulgateMonth="04" PromulgateDay="14" ScheduledEnforcementDate="2026/05/24"><LawNum>明治四十一年法律第五十三号</LawNum><LawBody><LawTitle Kana="こうしょうにんほう" Abbrev="" AbbrevKana="">公証人法</LawTitle>
     <MainProvision>
       <Chapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
@@ -234,8 +234,8 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">禁錮以上ノ刑ニ処セラレタル者</Sentence>
-                <Sentence Num="2" WritingMode="vertical">但シ二年以下ノ禁錮ニ処セラレタル者ニシテ刑ノ執行ヲ終リ又ハ其ノ執行ヲ受クルコトナキニ至リタルトキハ此ノ限ニ在ラス</Sentence>
+                <Sentence Num="1" WritingMode="vertical">拘禁刑以上ノ刑ニ処セラレタル者</Sentence>
+                <Sentence Num="2" WritingMode="vertical">但シ二年以下ノ拘禁刑ニ処セラレタル者ニシテ刑ノ執行ヲ終リ又ハ其ノ執行ヲ受クルコトナキニ至リタルトキハ此ノ限ニ在ラス</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -2441,6 +2441,28 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

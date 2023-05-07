@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="024" Year="61">
+<Law AmendmentId="501M60000008019" AmendmentNum="令和元年総務省令第十九号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="024" Year="61" PromulgateMonth="10" PromulgateDay="15">
   <LawNum>昭和六十一年自治省令第二十四号</LawNum>
   <LawBody>
-    <LawTitle>動力消防ポンプの技術上の規格を定める省令</LawTitle>
+    <LawTitle Kana="どうりょくしょうぼうぽんぷのぎじゅつじょうのきかくをさだめるしょうれい" Abbrev="" AbbrevKana="">動力消防ポンプの技術上の規格を定める省令</LawTitle>
     <EnactStatement>消防法（昭和二十三年法律第百八十六号）第二十一条の十六の三第一項の規定に基づき、動力消防ポンプの技術上の規格を定める省令（昭和四十九年自治省令第三十五号）の全部を改正する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -92,8 +92,7 @@
                   <Sentence WritingMode="vertical">可搬消防ポンプ</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">ポンプが車両を使用しないで人力により搬送され、又は、人力により<Ruby>牽<Rt>けん</Rt>
-</Ruby>引される車両若しくは自動車の車台に取り外しができるように取り付けられて搬送される動力消防ポンプをいう。</Sentence>
+                  <Sentence WritingMode="vertical">ポンプが車両を使用しないで人力により搬送され、又は、人力により<Ruby>牽<Rt>けん</Rt></Ruby>引される車両若しくは自動車の車台に取り外しができるように取り付けられて搬送される動力消防ポンプをいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -349,8 +348,7 @@
                     <Sentence WritingMode="vertical">吸水配管及び放水配管</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">
-                    </Sentence>
+                    <Sentence/>
                     <Sentence WritingMode="vertical">ＪＩＳ　Ｇ　三四五二（配管用炭素鋼管）</Sentence>
                     <Sentence WritingMode="vertical">ＪＩＳ　Ｇ　三四五四（圧力配管用炭素鋼鋼管）</Sentence>
                     <Sentence WritingMode="vertical">ＪＩＳ　Ｇ　三四五九（配管用ステンレス鋼管）</Sentence>
@@ -1538,15 +1536,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">機関の運転中において、当該機関の性能をＪＩＳ</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">Ｄ</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">一〇〇一（自動車用エンジン出力試験方法）のネット軸出力試験方法により測定した場合、当該機関の出力及び回転速度の減衰が認められないこと。</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">機関の運転中において、当該機関の性能をＪＩＳ　Ｄ　一〇〇一（自動車用エンジン出力試験方法）のネット軸出力試験方法により測定した場合、当該機関の出力及び回転速度の減衰が認められないこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -1584,28 +1574,12 @@
             </List>
             <List>
               <ListSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">Ｑ</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">冷却水量（単位</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">リットル毎分）</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">Ｑ　冷却水量（単位　リットル毎分）</Sentence>
               </ListSentence>
             </List>
             <List>
               <ListSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">Ｐ０</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">機関の定格出力（単位</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">キロワット）</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">Ｐ０　機関の定格出力（単位　キロワット）</Sentence>
               </ListSentence>
             </List>
           </Paragraph>
@@ -1864,7 +1838,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="409043" AmendLawNum="平成九年一二月二二日自治省令第四三号" Id="6bfe44ae-190e-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成九年一二月二二日自治省令第四三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1879,7 +1853,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410037" AmendLawNum="平成一〇年九月二八日自治省令第三七号" Extract="true" Id="fd71282c-18f3-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年九月二八日自治省令第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1901,14 +1875,14 @@
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="12" OldStyle="false">
-          <ParagraphNum>12</ParagraphNum>
+          <ParagraphNum>１２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の日前に消防法（昭和二十三年法律第百八十六号）第二十一条の十六の四第一項の規定により自治大臣に届出を行った動力消防ポンプについては、第九条による改正後の動力消防ポンプの技術上の規格を定める省令の規格に適合する動力消防ポンプとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412044" AmendLawNum="平成一二年九月一四日自治省令第四四号" Id="8c15e2fc-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年九月一四日自治省令第四四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1917,7 +1891,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420047" AmendLawNum="平成二〇年三月三一日総務省令第四七号" Id="6c866e92-190e-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年三月三一日総務省令第四七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -1932,7 +1906,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="425023" AmendLawNum="平成二五年三月二七日総務省令第二三号" Extract="true" Id="98eb8dc4-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二五年三月二七日総務省令第二三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1945,7 +1919,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501019" AmendLawNum="令和元年六月二八日総務省令第一九号" Id="ef844ec2-9e19-11e9-92bf-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年六月二八日総務省令第一九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -1972,15 +1946,13 @@
               <Sentence WritingMode="vertical">規格放水性能</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">高圧放水性能</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2127,12 +2099,10 @@
               <Sentence WritingMode="vertical">〇・一三以上</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2146,12 +2116,10 @@
               <Sentence WritingMode="vertical">〇・〇五以上</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
         </Table>

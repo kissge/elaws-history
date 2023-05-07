@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="212" Year="08">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="212" Year="08" PromulgateMonth="07" PromulgateDay="05">
   <LawNum>平成八年政令第二百十二号</LawNum>
   <LawBody>
-    <LawTitle>排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行令</LawTitle>
+    <LawTitle Kana="はいたてきけいざいすいいきにおけるぎょぎょうとうにかんするしゅけんてきけんりのこうしとうにかんするほうりつしこうれい" Abbrev="ＥＥＺ漁業法施行令,漁業主権法施行令" AbbrevKana="Ｅ,ぎ">排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、排他的経済水域における漁業等に関する主権的権利の行使等に関する法律（平成八年法律第七十六号）の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -474,8 +474,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>担保金にあっては、法第二十四条第一項の規定による告知があった日の翌日から起算して十日以内（取締官がやむを得ない事由があると認めて当該告知があった日の翌日から起算して二十日を超えない範囲内において当該期間を延長したときは、その期間内）に、違反者又は<Ruby>拿<Rt>だ</Rt>
-</Ruby>捕に係る船舶の船長その他主務大臣が担保金を提供する者として適当と認める者から、本邦通貨で提供されること。</Sentence>
+              <Sentence>担保金にあっては、法第二十四条第一項の規定による告知があった日の翌日から起算して十日以内（取締官がやむを得ない事由があると認めて当該告知があった日の翌日から起算して二十日を超えない範囲内において当該期間を延長したときは、その期間内）に、違反者又は<Ruby>拿<Rt>だ</Rt></Ruby>捕に係る船舶の船長その他主務大臣が担保金を提供する者として適当と認める者から、本邦通貨で提供されること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -625,7 +624,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411010" AmendLawNum="平成一一年一月二一日政令第一〇号" Extract="false" Id="e4607607-8c3e-4a05-8ed9-acfc0c3ab46a" Type="Amend">
+    <SupplProvision AmendLawNum="平成一一年一月二一日政令第一〇号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -648,7 +647,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412228" AmendLawNum="平成一二年五月二六日政令第二二八号" Extract="false" Id="323e2e0c-3755-442c-9d53-136be5f25ad4" Type="Amend">
+    <SupplProvision AmendLawNum="平成一二年五月二六日政令第二二八号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -657,7 +656,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412310" AmendLawNum="平成一二年六月七日政令第三一〇号" Extract="true" Id="151dcf92-d3b6-11e9-a719-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三一〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -670,7 +669,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="413434" AmendLawNum="平成一三年一二月二八日政令第四三四号" Extract="true" Id="a02f58fb-e72c-4e29-a3bc-dbbfcbb3c788" Type="Amend">
+    <SupplProvision AmendLawNum="平成一三年一二月二八日政令第四三四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -683,7 +682,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="425135" AmendLawNum="平成二五年五月一〇日政令第一三五号" Extract="false" Id="34157952-f260-43f7-8534-eb35e8ebc2c4" Type="Amend">
+    <SupplProvision AmendLawNum="平成二五年五月一〇日政令第一三五号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -700,7 +699,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426303" AmendLawNum="平成二六年九月一二日政令第三〇三号" Extract="false" Id="f8a1c0b2-2ae8-4cb8-bfe7-25fd48ba69d5" Type="Amend">
+    <SupplProvision AmendLawNum="平成二六年九月一二日政令第三〇三号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -709,7 +708,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="426379" AmendLawNum="平成二六年一一月二八日政令第三七九号" Extract="false" Id="182e17d2-f28f-4ee4-9313-8de60e2f1d29" Type="Amend">
+    <SupplProvision AmendLawNum="平成二六年一一月二八日政令第三七九号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -718,7 +717,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501173" AmendLawNum="令和元年一二月四日政令第一七三号">
+    <SupplProvision AmendLawNum="令和元年一二月四日政令第一七三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000400092" AmendmentNum="令和二年経済産業省令第九十二号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="004" Year="51" PromulgateMonth="12" PromulgateDay="28">
+<Law AmendmentId="502M60000400092" AmendmentNum="令和二年経済産業省令第九十二号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="004" Year="51" PromulgateMonth="02" PromulgateDay="17">
   <LawNum>昭和五十一年通商産業省令第四号</LawNum>
   <LawBody>
     <LawTitle Kana="とくていせつびけんさきそく" Abbrev="" AbbrevKana="">特定設備検査規則</LawTitle>
@@ -915,7 +915,7 @@
                   </List>
                   <List>
                     <ListSentence>
-                      <Sentence WritingMode="vertical">この式においてσ’’ａ、Ｅ、ｔ、Ｄｍ及びσｙ）は、それぞれ次の値を表すものとする。</Sentence>
+                      <Sentence WritingMode="vertical">この式においてσ’’ａ、Ｅ、ｔ、Ｄｍ及びσｙは、それぞれ次の値を表すものとする。</Sentence>
                     </ListSentence>
                   </List>
                   <List>
@@ -996,7 +996,12 @@
                   </List>
                   <List>
                     <ListSentence>
-                      <Sentence WritingMode="vertical">Ｅ及びσｙそれぞれイに規定する値</Sentence>
+                      <Column LineBreak="false" Num="1">
+                        <Sentence WritingMode="vertical">Ｅ及びσｙ</Sentence>
+                      </Column>
+                      <Column LineBreak="false" Num="2">
+                        <Sentence WritingMode="vertical">それぞれイに規定する値</Sentence>
+                      </Column>
                     </ListSentence>
                   </List>
                   <List>
@@ -1064,17 +1069,27 @@
                   </List>
                   <List>
                     <ListSentence>
-                      <Sentence WritingMode="vertical">（１）及び（２）　の式においてσ’’ａ、Ｅ、ｋ、ｌ、ｉ及びσｙは、それぞれ次の値を表すものとする。</Sentence>
+                      <Sentence WritingMode="vertical">（１）及び（２）の式においてσ’’ａ、Ｅ、ｋ、ｌ、ｉ及びσｙは、それぞれ次の値を表すものとする。</Sentence>
                     </ListSentence>
                   </List>
                   <List>
                     <ListSentence>
-                      <Sentence WritingMode="vertical">σ’’ａ、Ｅ及びσｙそれぞれイに規定する値</Sentence>
+                      <Column LineBreak="false" Num="1">
+                        <Sentence WritingMode="vertical">σ’’ａ、Ｅ及びσｙ</Sentence>
+                      </Column>
+                      <Column LineBreak="false" Num="2">
+                        <Sentence WritingMode="vertical">それぞれイに規定する値</Sentence>
+                      </Column>
                     </ListSentence>
                   </List>
                   <List>
                     <ListSentence>
-                      <Sentence WritingMode="vertical">ｋ、ｌ及びｉ　それぞれ条件式に規定する値</Sentence>
+                      <Column LineBreak="false" Num="1">
+                        <Sentence WritingMode="vertical">ｋ、ｌ及びｉ</Sentence>
+                      </Column>
+                      <Column LineBreak="false" Num="2">
+                        <Sentence WritingMode="vertical">それぞれ条件式に規定する値</Sentence>
+                      </Column>
                     </ListSentence>
                   </List>
                 </Item>
@@ -1892,192 +1907,6 @@
                       <Sentence WritingMode="vertical">最小降伏点又は最小〇・二パーセント耐力の値が二百六十二ニュートン毎平方ミリメートル以上四百四十八ニュートン毎平方ミリメートル以下の場合であつて図に掲げる値以外のときは、補間法により溶接部の厚さに対応する吸収エネルギーの値を求める。</Sentence>
                     </ItemSentence>
                   </Item>
-                  <Item Delete="false" Hide="false" Num="1">
-                    <ItemTitle>備考一</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">特定設備の区分のうちその他の圧力容器については、特定設備の名称に応じたものとし、括弧内に名称を記載する。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="2">
-                    <ItemTitle>備考二</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">胴板の区分の欄の一類から四類は、次表の上欄に掲げる胴板の区分に応じて、下欄に掲げるとおりとし、下欄の番号は、日本工業規格Ｂ８２８５（１９９３）圧力容器の溶接施工方法の確認試験の付表１母材の区分のＰ番号によるものとする。</Sentence>
-                    </ItemSentence>
-                    <TableStruct>
-                      <Table WritingMode="vertical">
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">胴板の区分</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">胴板の種類（Ｐ番号）</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">一類　炭素鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">一</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">二類　低合金鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">三、四及び五</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">三類　高合金鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">六、七、八Ａ、八Ｂ、九Ａ、九Ｂ、十一Ａ、四十三及び四十五</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">四類　非鉄金属</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">二十一、二十二、二十三、二十五、二十七、三十一、三十二、三十四、三十五、四十二、五十一及び五十二</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                      </Table>
-                    </TableStruct>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="3">
-                    <ItemTitle>備考三</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">クラッド鋼については、合せ材を強度部材とするときは、母材と合せ材について、それぞれ胴板の区分とする。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="1">
-                    <ItemTitle>備考一</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">特定設備の区分のうちその他の圧力容器については、特定設備の名称に応じたものとし、括弧内に名称を記載する。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="2">
-                    <ItemTitle>備考二</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">胴板の区分の欄の一類から四類は、次表の上欄に掲げる胴板の区分に応じて、下欄に掲げるとおりとし、下欄の番号は、日本産業規格Ｂ８２８５（１９９３）圧力容器の溶接施工方法の確認試験の付表１母材の区分のＰ番号によるものとする。</Sentence>
-                    </ItemSentence>
-                    <TableStruct>
-                      <Table WritingMode="vertical">
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">胴板の区分</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">胴板の種類（Ｐ番号）</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">一類　炭素鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">一</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">二類　低合金鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">三、四及び五</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">三類　高合金鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">六、七、八Ａ、八Ｂ、九Ａ、九Ｂ、十一Ａ、四十三及び四十五</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">四類　非鉄金属</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">二十一、二十二、二十三、二十五、二十七、三十一、三十二、三十四、三十五、四十二、五十一及び五十二</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                      </Table>
-                    </TableStruct>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="3">
-                    <ItemTitle>備考三</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">クラッド鋼については、合せ材を強度部材とするときは、母材と合せ材について、それぞれ胴板の区分とする。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="1">
-                    <ItemTitle>備考一</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">特定設備の区分のうちその他の圧力容器については、特定設備の名称に応じたものとし、括弧内に名称を記載する。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="2">
-                    <ItemTitle>備考二</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">胴板の区分の欄の一類から四類は、次表の上欄に掲げる胴板の区分に応じて、下欄に掲げるとおりとし、下欄の番号は、日本産業規格Ｂ８２８５（１９９３）圧力容器の溶接施工方法の確認試験の付表１母材の区分のＰ番号によるものとする。</Sentence>
-                    </ItemSentence>
-                    <TableStruct>
-                      <Table WritingMode="vertical">
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">胴板の区分</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">胴板の種類（Ｐ番号）</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">一類　炭素鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">一</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">二類　低合金鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">三、四及び五</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">三類　高合金鋼</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">六、七、八Ａ、八Ｂ、九Ａ、九Ｂ、十一Ａ、四十三及び四十五</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                        <TableRow>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">四類　非鉄金属</Sentence>
-                          </TableColumn>
-                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">二十一、二十二、二十三、二十五、二十七、三十一、三十二、三十四、三十五、四十二、五十一及び五十二</Sentence>
-                          </TableColumn>
-                        </TableRow>
-                      </Table>
-                    </TableStruct>
-                  </Item>
-                  <Item Delete="false" Hide="false" Num="3">
-                    <ItemTitle>備考三</ItemTitle>
-                    <ItemSentence>
-                      <Sentence WritingMode="vertical">クラッド鋼については、合せ材を強度部材とするときは、母材と合せ材について、それぞれ胴板の区分とする。</Sentence>
-                    </ItemSentence>
-                  </Item>
                 </Remarks>
               </FigStruct>
             </Paragraph>
@@ -2567,49 +2396,19 @@
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">設計圧力（記号</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">Ｐ、単位</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">メガパスカル）</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">設計圧力（記号　Ｐ、単位　メガパスカル）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第一種特定設備にあつては、設計温度（記号</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">Ｔ、単位</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">度）</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">第一種特定設備にあつては、設計温度（記号　Ｔ、単位　度）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5_2">
               <ItemTitle>五の二</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第二種特定設備にあつては、設計温度のうち最高の温度（記号</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">ＴＨ、単位</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">度）及び最低設計金属温度（記号</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="4">
-                  <Sentence WritingMode="vertical">ＴＬ、単位</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="5">
-                  <Sentence WritingMode="vertical">度）</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">第二種特定設備にあつては、設計温度のうち最高の温度（記号　ＴＨ、単位　度）及び最低設計金属温度（記号　ＴＬ、単位　度）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="6">
@@ -2621,15 +2420,7 @@
             <Item Delete="false" Hide="false" Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">内容積（記号</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">Ｖ、単位</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="3">
-                  <Sentence WritingMode="vertical">立方メートル）</Sentence>
-                </Column>
+                <Sentence WritingMode="vertical">内容積（記号　Ｖ、単位　立方メートル）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3620,7 +3411,7 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１２</AppdxStyleTitle>
-      <RelatedArticleNum>（第６３条及び第７８条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第６３条関係）</RelatedArticleNum>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１３</AppdxStyleTitle>
@@ -3772,6 +3563,71 @@
             </TableColumn>
           </TableRow>
         </Table>
+        <Remarks>
+          <RemarksLabel LineBreak="false"/>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>備考一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">特定設備の区分のうちその他の圧力容器については、特定設備の名称に応じたものとし、括弧内に名称を記載する。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>備考二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">胴板の区分の欄の一類から四類は、次表の上欄に掲げる胴板の区分に応じて、下欄に掲げるとおりとし、下欄の番号は、日本産業規格Ｂ８２８５（１９９３）圧力容器の溶接施工方法の確認試験の付表１母材の区分のＰ番号によるものとする。</Sentence>
+            </ItemSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">胴板の区分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">胴板の種類（Ｐ番号）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">一類　炭素鋼</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">一</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">二類　低合金鋼</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">三、四及び五</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">三類　高合金鋼</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">六、七、八Ａ、八Ｂ、九Ａ、九Ｂ、十一Ａ、四十三及び四十五</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">四類　非鉄金属</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">二十一、二十二、二十三、二十五、二十七、三十一、三十二、三十四、三十五、四十二、五十一及び五十二</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>備考三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">クラッド鋼については、合せ材を強度部材とするときは、母材と合せ材について、それぞれ胴板の区分とする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Remarks>
       </TableStruct>
     </AppdxTable>
   </LawBody>

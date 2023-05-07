@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60080000012" AmendmentNum="令和二年原子力規制委員会規則第十二号" Era="Heisei" Lang="ja" LawType="Rule" Num="10" Year="25" PromulgateMonth="03" PromulgateDay="17">
+<Law AmendmentId="502M60080000012" AmendmentNum="令和二年原子力規制委員会規則第十二号" Era="Heisei" Lang="ja" LawType="Rule" Num="010" Year="25" PromulgateMonth="06" PromulgateDay="28">
   <LawNum>平成二十五年原子力規制委員会規則第十号</LawNum>
   <LawBody>
     <LawTitle Kana="けんきゅうかいはつだんかいはつでんようげんしろおよびそのふぞくしせつのぎじゅつきじゅんにかんするきそく" Abbrev="" AbbrevKana="">研究開発段階発電用原子炉及びその附属施設の技術基準に関する規則</LawTitle>
@@ -19,7 +19,8 @@
         <ArticleRange>（第五十一条―第七十八条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="4">
-        <ChapterTitle>第四章　雑則（第七十九条―第八十二条）</ChapterTitle>
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第七十九条―第八十二条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -502,14 +503,12 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="12">
-          <ArticleCaption>（発電用原子炉施設内における<Ruby>溢<Rt>いつ</Rt>
-</Ruby>水等による損傷の防止）</ArticleCaption>
+          <ArticleCaption>（発電用原子炉施設内における<Ruby>溢<Rt>いつ</Rt></Ruby>水等による損傷の防止）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">設計基準対象施設が発電用原子炉施設内における<Ruby>溢<Rt>いつ</Rt>
-</Ruby>水の発生によりその安全性を損なうおそれがある場合は、防護措置その他の適切な措置を講じなければならない。</Sentence>
+              <Sentence WritingMode="vertical">設計基準対象施設が発電用原子炉施設内における<Ruby>溢<Rt>いつ</Rt></Ruby>水の発生によりその安全性を損なうおそれがある場合は、防護措置その他の適切な措置を講じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2" OldStyle="false">
@@ -1391,7 +1390,7 @@
           <Paragraph Hide="false" Num="3" OldStyle="false">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第一項第六号及び前項第七号に掲げる装置であって線量当量率を計測する装置にあっては、多重性及び独立性を確保しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">第一項第六号及び前条第七号に掲げる装置であって線量当量率を計測する装置にあっては、多重性及び独立性を確保しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="4" OldStyle="false">
@@ -1517,6 +1516,12 @@
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">制御棒の最大反応度価値及び反応度添加率は、想定される反応度投入事象（発電用原子炉に反応度が異常に投入される事象をいう。）に対して原子炉冷却材圧力バウンダリ（ナトリウム冷却型高速炉に係るものにあっては、原子炉冷却材バウンダリ及び原子炉カバーガス等のバウンダリとする。）を破損せず、かつ、炉心の冷却機能を損なうような炉心、炉心支持構造物及び原子炉圧力容器内部構造物（ナトリウム冷却型高速炉に係るものにあっては、原子炉容器内部構造物とする。）の損壊を起こさないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">制御棒、液体制御材その他の反応度を制御する設備は、通常運転時における圧力、温度及び放射線に起因する最も厳しい条件において、必要な物理的及び化学的性質を保持するものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1678,15 +1683,13 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">放射性廃棄物処理施設内部の床面は、床面の傾斜又は床面に設けられた溝の傾斜により流体状の放射性廃棄物が排液受け口に導かれる構造であり、かつ、流体状の放射性廃棄物（気体状のものを除く。以下同じ。）を処理する設備の周辺部には、流体状の放射性廃棄物の漏えいの拡大を防止するための<Ruby>堰<Rt>せき</Rt>
-</Ruby>が施設されていること。</Sentence>
+                <Sentence WritingMode="vertical">放射性廃棄物処理施設内部の床面は、床面の傾斜又は床面に設けられた溝の傾斜により流体状の放射性廃棄物が排液受け口に導かれる構造であり、かつ、流体状の放射性廃棄物（気体状のものを除く。以下同じ。）を処理する設備の周辺部には、流体状の放射性廃棄物の漏えいの拡大を防止するための<Ruby>堰<Rt>せき</Rt></Ruby>が施設されていること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">放射性廃棄物処理施設外に通じる出入口又はその周辺部には、流体状の放射性廃棄物が放射性廃棄物処理施設外へ漏えいすることを防止するための<Ruby>堰<Rt>せき</Rt>
-</Ruby>が施設されていること。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">放射性廃棄物処理施設外に通じる出入口又はその周辺部には、流体状の放射性廃棄物が放射性廃棄物処理施設外へ漏えいすることを防止するための<Ruby>堰<Rt>せき</Rt></Ruby>が施設されていること。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、放射性廃棄物処理施設内部の床面が隣接する発電用原子炉施設の床面又は地表面より低い場合であって、放射性廃棄物処理施設外へ漏えいするおそれがない場合は、この限りでない。</Sentence>
               </ItemSentence>
             </Item>
@@ -2885,13 +2888,13 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この規則の施行の際現に設置され又は設置に着手されている発電用原子炉施設（核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）第四十三条の三の五第二項第五号に規定する発電用原子炉施設をいう。以下同じ。）については、平成三十二年五月一日以後最初に当該発電用原子炉施設に係る法第四十三条の三の十五の検査を終了した日又は平成三十二年五月一日以後に発電用原子炉（法第二条第五項に規定する発電用原子炉をいう。）の運転を開始する日の前日のいずれか早い日までの間（以下この項において「経過措置期間」という。）は、なお従前の例による。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この規則の施行の際現に設置され又は設置に着手されている発電用原子炉施設（核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）第四十三条の三の五第二項第五号に規定する発電用原子炉施設をいう。以下同じ。）については、平成三十二年五月一日以後最初に当該発電用原子炉施設に係る法第四十三条の三の十六第一項の検査を終了した日又は平成三十二年五月一日以後に発電用原子炉（法第二条第五項に規定する発電用原子炉をいう。）の運転を開始する日の前日のいずれか早い日までの間（以下この項において「経過措置期間」という。）は、なお従前の例による。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げるものについては、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">経過措置期間中に行われる次に掲げる許可、認可及び検査</Sentence>
+              <Sentence WritingMode="vertical">経過措置期間中に行われる次に掲げる許可、認可及び確認</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -2908,14 +2911,14 @@
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">法第四十三条の三の十一第一項の検査（ロの認可を受けた工事の計画に従って行われる工事に係るものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">法第四十三条の三の十一第三項の確認（ロの認可を受けた工事の計画に従って行われる工事に係るものに限る。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前号ハの検査に合格した発電用原子炉施設</Sentence>
+              <Sentence WritingMode="vertical">前号ハの確認を受けた発電用原子炉施設</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -3001,13 +3004,13 @@
         <Paragraph Hide="false" Num="3" OldStyle="false">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この規則の施行の際現に設置され又は設置に着手されている発電用原子炉施設（法第四十三条の三の五第二項第五号に規定する発電用原子炉施設をいう。以下同じ。）に対する第一条の規定による改正後の実用発電用原子炉及びその附属施設の技術基準に関する規則（以下「新実用炉規則」という。）第四十五条第三項（非常用発電機に接続される電気盤に関する措置に係る部分を除く。以下この項において同じ。）及び第一条の規定による改正後の研究開発段階発電用原子炉及びその附属施設の技術基準に関する規則（以下「新研開炉規則」という。）第四十四条第三項（非常用発電機に接続される電気盤に関する措置に係る部分を除く。以下この項において同じ。）の規定の適用については、平成三十一年八月一日以後最初に当該発電用原子炉施設に係る法第四十三条の三の十五の検査を終了した日又は平成三十一年八月一日以後に発電用原子炉（法第二条第五項に規定する発電用原子炉をいう。次項において同じ。）の運転を開始する日の前日のいずれか早い日までの間（以下この項において「経過措置期間」という。）は、なお従前の例による。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この規則の施行の際現に設置され又は設置に着手されている発電用原子炉施設（法第四十三条の三の五第二項第五号に規定する発電用原子炉施設をいう。以下同じ。）に対する第一条の規定による改正後の実用発電用原子炉及びその附属施設の技術基準に関する規則（以下「新実用炉規則」という。）第四十五条第三項（非常用発電機に接続される電気盤に関する措置に係る部分を除く。以下この項において同じ。）及び第一条の規定による改正後の研究開発段階発電用原子炉及びその附属施設の技術基準に関する規則（以下「新研開炉規則」という。）第四十四条第三項（非常用発電機に接続される電気盤に関する措置に係る部分を除く。以下この項において同じ。）の規定の適用については、平成三十一年八月一日以後最初に当該発電用原子炉施設に係る法第四十三条の三の十六第一項の検査を終了した日又は平成三十一年八月一日以後に発電用原子炉（法第二条第五項に規定する発電用原子炉をいう。次項において同じ。）の運転を開始する日の前日のいずれか早い日までの間（以下この項において「経過措置期間」という。）は、なお従前の例による。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げるものについては、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">経過措置期間中に行われる次に掲げる認可及び検査</Sentence>
+              <Sentence WritingMode="vertical">経過措置期間中に行われる次に掲げる認可及び確認</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -3018,27 +3021,27 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">法第四十三条の三の十一第一項の検査（イの認可を受けた工事の計画に従って行われる工事に係るものに限る。次項において同じ。）</Sentence>
+                <Sentence WritingMode="vertical">法第四十三条の三の十一第三項の確認（イの認可を受けた工事の計画に従って行われる工事に係るものに限る。次項において同じ。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前号ロの検査に合格した発電用原子炉施設</Sentence>
+              <Sentence WritingMode="vertical">前号ロの確認を受けた発電用原子炉施設</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="4" OldStyle="false">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この規則の施行の際現に設置され又は設置に着手されている発電用原子炉施設に対する新実用炉規則第四十五条第三項（非常用発電機に接続される電気盤に関する措置に係る部分に限る。）及び新研開炉規則第四十四条第三項（非常用発電機に接続される電気盤に関する措置に係る部分に限る。）の規定の適用については、平成三十三年八月一日以後最初に当該発電用原子炉施設に係る法第四十三条の三の十五の検査を終了した日又は平成三十三年八月一日以後に発電用原子炉の運転を開始する日の前日のいずれか早い日までの間（以下この項において「経過措置期間」という。）は、なお従前の例による。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この規則の施行の際現に設置され又は設置に着手されている発電用原子炉施設に対する新実用炉規則第四十五条第三項（非常用発電機に接続される電気盤に関する措置に係る部分に限る。）及び新研開炉規則第四十四条第三項（非常用発電機に接続される電気盤に関する措置に係る部分に限る。）の規定の適用については、平成三十三年八月一日以後最初に当該発電用原子炉施設に係る法第四十三条の三の十六第一項の検査を終了した日又は平成三十三年八月一日以後に発電用原子炉の運転を開始する日の前日のいずれか早い日までの間（以下この項において「経過措置期間」という。）は、なお従前の例による。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げるものについては、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">経過措置期間中に行われる次に掲げる認可及び検査</Sentence>
+              <Sentence WritingMode="vertical">経過措置期間中に行われる次に掲げる認可及び確認</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -3049,14 +3052,14 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">法第四十三条の三の十一第一項の検査</Sentence>
+                <Sentence WritingMode="vertical">法第四十三条の三の十一第三項の確認</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前号ロの検査に合格した発電用原子炉施設</Sentence>
+              <Sentence WritingMode="vertical">前号ロの確認を受けた発電用原子炉施設</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -3207,6 +3210,19 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四十四条の規定は、放射性同位元素等による放射線障害の防止に関する法律施行規則の一部を改正する規則（平成三十年原子力規制委員会規則第十一号）の施行の日（令和元年九月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一月二三日原子力規制委員会規則第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律（平成二十九年法律第十五号）第三条の規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月一七日原子力規制委員会規則第一二号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -3705,6 +3721,7 @@
     </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第７９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
           <Fig src="./pict/pict_1910071610_2008201908_001.pdf"/>

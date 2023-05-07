@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="164" Year="22" PromulgateMonth="12" PromulgateDay="12" ScheduledEnforcementDate=""><LawNum>昭和二十二年法律第百六十四号</LawNum><LawBody><LawTitle Kana="じどうふくしほう" Abbrev="児福法" AbbrevKana="じ">児童福祉法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="164" Year="22" PromulgateMonth="12" PromulgateDay="12"><LawNum>昭和二十二年法律第百六十四号</LawNum><LawBody><LawTitle Kana="じどうふくしほう" Abbrev="児福法" AbbrevKana="じ">児童福祉法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -55,6 +55,10 @@
             <TOCDivision Num="3">
               <DivisionTitle>第三目　小児慢性特定疾病児童等自立支援事業</DivisionTitle>
               <ArticleRange>（第十九条の二十二）</ArticleRange>
+            </TOCDivision>
+            <TOCDivision Num="4">
+              <DivisionTitle>第四目　小児慢性特定疾病対策地域協議会</DivisionTitle>
+              <ArticleRange>（第十九条の二十三・第十九条の二十四）</ArticleRange>
             </TOCDivision>
           </TOCSubsection>
           <TOCSubsection Num="3">
@@ -1975,7 +1979,7 @@
                 <Paragraph Num="8" OldNum="true" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">医療費支給認定は、その申請のあつた日に遡つてその効力を生ずる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">医療費支給認定は、指定医が当該医療費支給認定に係る小児慢性特定疾病児童等の小児慢性特定疾病の状態が第六条の二第三項に規定する厚生労働大臣が定める程度であると診断した日、又は当該医療費支給認定の申請のあつた日から当該申請に通常要する期間を勘案して政令で定める一定の期間前の日のいずれか遅い日に遡つてその効力を生ずる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="9" OldNum="true" OldStyle="false">
@@ -2493,7 +2497,13 @@
                 <Paragraph Num="2" OldNum="true" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">都道府県は、前項に掲げる事業のほか、小児慢性特定疾病児童等自立支援事業として、次に掲げる事業を行うことができる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">都道府県は、前項に規定する事業のほか、地域における小児慢性特定疾病児童等の実情の把握その他の次項各号に掲げる事業の実施に関し必要な情報の収集、整理、分析及び評価に関する事業として厚生労働省令で定める事業を行うよう努めるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="3" OldNum="true" OldStyle="false">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">都道府県は、前二項に規定する事業の実施等により把握した地域の実情を踏まえ、小児慢性特定疾病児童等自立支援事業として、次に掲げる事業のうち必要があると認めるものを行うよう努めるものとする。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
@@ -2526,16 +2536,55 @@
                     </ItemSentence>
                   </Item>
                 </Paragraph>
-                <Paragraph Num="3" OldNum="true" OldStyle="false">
+                <Paragraph Num="4" OldNum="true" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
                     <Sentence Num="1" WritingMode="vertical">都道府県は、前項各号に掲げる事業を行うに当たつては、関係機関並びに小児慢性特定疾病児童等及びその家族その他の関係者の意見を聴くものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
+                <Paragraph Num="5" OldNum="true" OldStyle="false">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前各項に規定するもののほか、小児慢性特定疾病児童等自立支援事業の実施に関し必要な事項は、厚生労働省令で定める。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+            </Division>
+            <Division Num="4">
+              <DivisionTitle>第四目　小児慢性特定疾病対策地域協議会</DivisionTitle>
+              <Article Num="19_23">
+                <ArticleTitle>第十九条の二十三</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">都道府県、地方自治法第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下「中核市」という。）並びに第五十九条の四第一項に規定する児童相談所設置市は、単独で又は共同して、小児慢性特定疾病児童等への支援の体制の整備を図るため、関係機関、関係団体並びに小児慢性特定疾病児童等及びその家族並びに小児慢性特定疾病児童等に対する医療又は小児慢性特定疾病児童等の福祉、教育若しくは雇用に関連する職務に従事する者その他の関係者（次項において「関係機関等」という。）により構成される小児慢性特定疾病対策地域協議会（以下この目において「協議会」という。）を置くよう努めるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="2" OldNum="true" OldStyle="false">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">協議会は、関係機関等が相互の連絡を図ることにより、地域における小児慢性特定疾病児童等への支援体制に関する課題について情報を共有し、関係機関等の連携の緊密化を図るとともに、地域の実情に応じた体制の整備について協議を行うものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="3" OldNum="true" OldStyle="false">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">協議会の事務に従事する者又は当該者であつた者は、正当な理由がなく、協議会の事務に関して知り得た秘密を漏らしてはならない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
                 <Paragraph Num="4" OldNum="true" OldStyle="false">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">前三項に規定するもののほか、小児慢性特定疾病児童等自立支援事業の実施に関し必要な事項は、厚生労働省令で定める。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項の規定により協議会が置かれた都道府県、指定都市及び中核市並びに第五十九条の四第一項に規定する児童相談所設置市の区域について難病の患者に対する医療等に関する法律第三十二条第一項の規定により難病対策地域協議会が置かれている場合には、当該協議会及び難病対策地域協議会は、小児慢性特定疾病児童等及び難病（同法第一条に規定する難病をいう。第二十一条の四第二項において同じ。）の患者への支援体制の整備を図り、かつ、小児慢性特定疾病児童等に対し必要な医療等を切れ目なく提供するため、相互に連携を図るよう努めるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="19_24">
+                <ArticleTitle>第十九条の二十四</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、協議会の組織及び運営に関し必要な事項は、協議会が定める。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -2678,7 +2727,7 @@
               <Paragraph Num="2" OldNum="true" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">国は、前項に規定する調査及び研究の推進に当たつては、難病（難病の患者に対する医療等に関する法律第一条に規定する難病をいう。以下この項において同じ。）の患者に対する良質かつ適切な医療の確保を図るための基盤となる難病の発病の機構、診断及び治療方法に関する調査及び研究との適切な連携を図るよう留意するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国は、前項に規定する調査及び研究の推進に当たつては、難病の患者に対する良質かつ適切な医療の確保を図るための基盤となる難病の発病の機構、診断及び治療方法に関する調査及び研究との適切な連携を図るよう留意するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -2921,7 +2970,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、前条第一項の申請が行われたときは、当該申請に係る障害児の心身の状態、当該障害児の介護を行う者の状況、当該障害児及びその保護者の障害児通所支援の利用に関する意向その他の内閣府令で定める事項を勘案して障害児通所給付費等の支給の要否の決定（以下この条において「通所支給要否決定」という。）を行うものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、前条第一項の申請が行われたときは、当該申請に係る障害児の心身の状態、当該障害児の介護を行う者の状況、当該障害児及びその保護者の障害児通所支援の利用に関する意向その他の内閣府令で定める事項を勘案して障害児通所給付費等の支給の要否の決定（以下この条及び第三十三条の二十三の二第一項第二号において「通所支給要否決定」という。）を行うものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -3818,7 +3867,7 @@
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">当該指定に係る障害児通所支援事業所が一の地方自治法第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）の区域に所在する指定障害児通所支援事業者</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該指定に係る障害児通所支援事業所が一の指定都市の区域に所在する指定障害児通所支援事業者</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">指定都市の長</Sentence>
@@ -3829,7 +3878,7 @@
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">当該指定に係る障害児通所支援事業所が一の地方自治法第二百五十二条の二十二第一項の中核市（以下「中核市」という。）の区域に所在する指定障害児通所支援事業者</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該指定に係る障害児通所支援事業所が一の中核市の区域に所在する指定障害児通所支援事業者</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">中核市の長</Sentence>
@@ -6220,8 +6269,8 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">児童相談所長は、一時保護が行われた児童で親権を行う者又は未成年後見人のあるものについても、監護、教育及び懲戒に関し、その児童の福祉のため必要な措置を採ることができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、体罰を加えることはできない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">児童相談所長は、一時保護が行われた児童で親権を行う者又は未成年後見人のあるものについても、監護及び教育に関し、その児童の福祉のため必要な措置をとることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、児童相談所長は、児童の人格を尊重するとともに、その年齢及び発達の程度に配慮しなければならず、かつ、体罰その他の児童の心身の健全な発達に有害な影響を及ぼす言動をしてはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -6648,7 +6697,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">指定障害児通所支援事業者及び指定障害児相談支援事業者並びに指定障害児入所施設等の設置者（以下この条において「対象事業者」という。）は、指定通所支援、指定障害児相談支援又は指定入所支援（以下この条において「情報公表対象支援」という。）の提供を開始しようとするとき、その他内閣府令で定めるときは、内閣府令で定めるところにより、情報公表対象支援情報（その提供する情報公表対象支援の内容及び情報公表対象支援を提供する事業者又は施設の運営状況に関する情報であつて、情報公表対象支援を利用し、又は利用しようとする障害児の保護者が適切かつ円滑に当該情報公表対象支援を利用する機会を確保するために公表されることが適当なものとして内閣府令で定めるものをいう。第八項において同じ。）を、当該情報公表対象支援を提供する事業所又は施設の所在地を管轄する都道府県知事に報告しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">指定障害児通所支援事業者及び指定障害児相談支援事業者並びに指定障害児入所施設等の設置者（以下この条及び第三十三条の二十三の二第三項において「対象事業者」という。）は、指定通所支援、指定障害児相談支援又は指定入所支援（以下この条において「情報公表対象支援」という。）の提供を開始しようとするとき、その他内閣府令で定めるときは、内閣府令で定めるところにより、情報公表対象支援情報（その提供する情報公表対象支援の内容及び情報公表対象支援を提供する事業者又は施設の運営状況に関する情報であつて、情報公表対象支援を利用し、又は利用しようとする障害児の保護者が適切かつ円滑に当該情報公表対象支援を利用する機会を確保するために公表されることが適当なものとして内閣府令で定めるものをいう。第八項において同じ。）を、当該情報公表対象支援を提供する事業所又は施設の所在地を管轄する都道府県知事に報告しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -6813,7 +6862,7 @@
             <Paragraph Num="5" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">市町村は、当該市町村の区域における障害児の心身の状況、その置かれている環境その他の事情を正確に把握した上で、これらの事情を勘案して、市町村障害児福祉計画を作成するよう努めるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">市町村は、当該市町村の区域における障害児の心身の状況、その置かれている環境その他の事情を正確に把握するとともに、第三十三条の二十三の二第一項の規定により公表された結果その他のこの法律に基づく業務の実施の状況に関する情報を分析した上で、当該事情及び当該分析の結果を勘案して、市町村障害児福祉計画を作成するよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6" OldNum="true" OldStyle="false">
@@ -6933,28 +6982,34 @@
             <Paragraph Num="4" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県障害児福祉計画は、障害者の日常生活及び社会生活を総合的に支援するための法律第八十九条第一項に規定する都道府県障害福祉計画と一体のものとして作成することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、第三十三条の二十三の二第一項の規定により公表された結果その他のこの法律に基づく業務の実施の状況に関する情報を分析した上で、当該分析の結果を勘案して、都道府県障害児福祉計画を作成するよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県障害児福祉計画は、障害者基本法第十一条第二項に規定する都道府県障害者計画、社会福祉法第百八条第一項に規定する都道府県地域福祉支援計画その他の法律の規定による計画であつて障害児の福祉に関する事項を定めるものと調和が保たれたものでなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県障害児福祉計画は、障害者の日常生活及び社会生活を総合的に支援するための法律第八十九条第一項に規定する都道府県障害福祉計画と一体のものとして作成することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県は、障害者の日常生活及び社会生活を総合的に支援するための法律第八十九条の三第一項に規定する協議会を設置したときは、都道府県障害児福祉計画を定め、又は変更しようとする場合において、あらかじめ、当該協議会の意見を聴くよう努めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県障害児福祉計画は、障害者基本法第十一条第二項に規定する都道府県障害者計画、社会福祉法第百八条第一項に規定する都道府県地域福祉支援計画その他の法律の規定による計画であつて障害児の福祉に関する事項を定めるものと調和が保たれたものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県障害児福祉計画を定め、又は変更しようとするときは、あらかじめ、障害者基本法第三十六条第一項の合議制の機関の意見を聴かなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、障害者の日常生活及び社会生活を総合的に支援するための法律第八十九条の三第一項に規定する協議会を設置したときは、都道府県障害児福祉計画を定め、又は変更しようとする場合において、あらかじめ、当該協議会の意見を聴くよう努めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県障害児福祉計画を定め、又は変更しようとするときは、あらかじめ、障害者基本法第三十六条第一項の合議制の機関の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県障害児福祉計画を定め、又は変更したときは、遅滞なく、これを内閣総理大臣に提出しなければならない。</Sentence>
@@ -6967,6 +7022,54 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">都道府県は、定期的に、前条第二項各号に掲げる事項（都道府県障害児福祉計画に同条第三項各号に掲げる事項を定める場合にあつては、当該各号に掲げる事項を含む。）について、調査、分析及び評価を行い、必要があると認めるときは、当該都道府県障害児福祉計画を変更することその他の必要な措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33_23_2">
+            <ArticleTitle>第三十三条の二十三の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、市町村障害児福祉計画及び都道府県障害児福祉計画の作成、実施及び評価並びに障害児の福祉の増進に資するため、次に掲げる事項に関する情報（第三項において「障害児福祉等関連情報」という。）のうち、第一号に掲げる事項について調査及び分析を行い、その結果を公表するものとするとともに、第二号及び第三号に掲げる事項について調査及び分析を行い、その結果を公表するよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害児通所給付費等（第五十七条の二第一項に規定する障害児通所給付費等をいう。）及び障害児入所給付費等（第五十条第六号の三に規定する障害児入所給付費等をいう。）に要する費用の額に関する地域別又は年齢別の状況その他の内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">通所支給要否決定における調査に関する状況その他の内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害児通所支援、障害児入所支援又は障害児相談支援を利用する障害児の心身の状況、当該障害児に提供される当該障害児通所支援、障害児入所支援又は障害児相談支援の内容その他の内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村及び都道府県は、内閣総理大臣に対し、前項第一号に掲げる事項に関する情報を、内閣府令で定める方法により提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、必要があると認めるときは、市町村及び都道府県並びに対象事業者に対し、障害児福祉等関連情報を、内閣府令で定める方法により提供するよう求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33_23_3">
+            <ArticleTitle>第三十三条の二十三の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前条第一項に規定する調査及び分析に係る事務の全部又は一部を連合会その他内閣府令で定める者に委託することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -7049,8 +7152,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">児童に<Ruby>淫<Rt>いん</Rt>
-                    </Ruby>行をさせる行為</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">児童に<Ruby>淫<Rt>いん</Rt></Ruby>行をさせる行為</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
@@ -8128,8 +8230,8 @@
           <Paragraph Num="3" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">児童福祉施設の長、その住居において養育を行う第六条の三第八項に規定する内閣府令で定める者又は里親は、入所中又は受託中の児童で親権を行う者又は未成年後見人のあるものについても、監護、教育及び懲戒に関し、その児童の福祉のため必要な措置をとることができる。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、体罰を加えることはできない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">児童福祉施設の長、その住居において養育を行う第六条の三第八項に規定する内閣府令で定める者又は里親（以下この項において「施設長等」という。）は、入所中又は受託中の児童で親権を行う者又は未成年後見人のあるものについても、監護及び教育に関し、その児童の福祉のため必要な措置をとることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、施設長等は、児童の人格を尊重するとともに、その年齢及び発達の程度に配慮しなければならず、かつ、体罰その他の児童の心身の健全な発達に有害な影響を及ぼす言動をしてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true" OldStyle="false">
@@ -9536,7 +9638,7 @@
           <Paragraph Num="3" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十一条の五の六第四項（第二十一条の五の八第三項において準用する場合を含む。）又は第五十七条の三の四第二項の規定に違反した者は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の二十三第三項、第二十一条の五の六第四項（第二十一条の五の八第三項において準用する場合を含む。）又は第五十七条の三の四第二項の規定に違反した者は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10622,6 +10724,12 @@
       <Article Num="7">
         <ArticleCaption>（不服申立てに係る経過措置）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
@@ -11017,8 +11125,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">施行日前にされた行政庁の処分に係る第百四十九条から第百五十一条まで、第百五十七条、第百五十八条、第百六十五条、第百六十八条、第百七十条、第百七十二条、第百七十三条、第百七十五条、第百七十六条、第百八十三条、第百八十八条、第百九十五条、第二百一条、第二百八条、第二百十四条、第二百十九条から第二百二十一条まで、第二百二十九条又は第二百三十八条の規定による改正前の児童福祉法第五十九条の四第二項、あん摩マツサージ指圧師、はり師、きゆう師等に関する法律第十二条の四、食品衛生法第二十九条の四、旅館業法第九条の三、公衆浴場法第七条の三、医療法第七十一条の三、身体障害者福祉法第四十三条の二第二項、精神保健及び精神障害者福祉に関する法律第五十一条の十二第二項、クリーニング業法第十四条の二第二項、狂犬病予防法第二十五条の二、社会福祉事業法第八十三条の二第二項、結核予防法第六十九条、<Ruby>と<Rt>ヽ</Rt>
-              </Ruby>畜場法第二十条、歯科技工士法第二十七条の二、臨床検査技師、衛生検査技師等に関する法律第二十条の八の二、知的障害者福祉法第三十条第二項、老人福祉法第三十四条第二項、母子保健法第二十六条第二項、柔道整復師法第二十三条、建築物における衛生的環境の確保に関する法律第十四条第二項、廃棄物の処理及び清掃に関する法律第二十四条、食鳥処理の事業の規制及び食鳥検査に関する法律第四十一条第三項又は感染症の予防及び感染症の患者に対する医療に関する法律第六十五条の規定に基づく再審査請求については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にされた行政庁の処分に係る第百四十九条から第百五十一条まで、第百五十七条、第百五十八条、第百六十五条、第百六十八条、第百七十条、第百七十二条、第百七十三条、第百七十五条、第百七十六条、第百八十三条、第百八十八条、第百九十五条、第二百一条、第二百八条、第二百十四条、第二百十九条から第二百二十一条まで、第二百二十九条又は第二百三十八条の規定による改正前の児童福祉法第五十九条の四第二項、あん摩マツサージ指圧師、はり師、きゆう師等に関する法律第十二条の四、食品衛生法第二十九条の四、旅館業法第九条の三、公衆浴場法第七条の三、医療法第七十一条の三、身体障害者福祉法第四十三条の二第二項、精神保健及び精神障害者福祉に関する法律第五十一条の十二第二項、クリーニング業法第十四条の二第二項、狂犬病予防法第二十五条の二、社会福祉事業法第八十三条の二第二項、結核予防法第六十九条、<Ruby>と<Rt>ヽ</Rt></Ruby>畜場法第二十条、歯科技工士法第二十七条の二、臨床検査技師、衛生検査技師等に関する法律第二十条の八の二、知的障害者福祉法第三十条第二項、老人福祉法第三十四条第二項、母子保健法第二十六条第二項、柔道整復師法第二十三条、建築物における衛生的環境の確保に関する法律第十四条第二項、廃棄物の処理及び清掃に関する法律第二十四条、食鳥処理の事業の規制及び食鳥検査に関する法律第四十一条第三項又は感染症の予防及び感染症の患者に対する医療に関する法律第六十五条の規定に基づく再審査請求については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -14826,6 +14933,109 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月一六日法律第一〇二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中民法第八百二十二条を削り、同法第八百二十一条を同法第八百二十二条とし、同法第八百二十条の次に一条を加える改正規定並びに第二条及び第四条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月一六日法律第一〇四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条中精神保健及び精神障害者福祉に関する法律（以下「精神保健福祉法」という。）第一条の改正規定及び精神保健福祉法第五条の改正規定（「、精神病質」を削る部分に限る。）並びに附則第三条、第二十三条及び第四十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定、第四条中児童福祉法第二十一条の五の七第一項、第三十三条の十八第一項、第三十三条の二十第五項及び第三十三条の二十二の改正規定並びに第三十三条の二十三の次に二条を加える改正規定、第七条の規定（前号に掲げる改正規定を除く。）、第九条中障害者の雇用の促進等に関する法律（以下「障害者雇用促進法」という。）第五条、第二十条、第二十二条、第四十五条の三第二項、第三項及び第七項並びに第七十四条の三第四項の改正規定、第十三条中身体障害者福祉法第九条第二項から第四項までの改正規定並びに第十四条中知的障害者福祉法第九条第二項から第四項までの改正規定並びに附則第四条、第十条、第十一条、第二十一条、第二十二条、第二十四条、第三十六条及び第三十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条の規定（前号に掲げる改正規定を除く。）及び第十一条の規定並びに附則第七条及び第十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定、第六条の規定、第八条中精神保健福祉法第四条第一項の改正規定、第十条の規定、第十三条の規定（第二号に掲げる改正規定を除く。）、第十四条の規定（同号に掲げる改正規定を除く。）及び第十五条中精神保健福祉士法第二条の改正規定（「第五条第十八項」を「第五条第十九項」に改める部分に限る。）並びに附則第六条、第二十七条、第二十八条、第三十一条から第三十四条まで、第三十八条、第四十一条及び第四十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（小児慢性特定疾病医療費の支給に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条の規定（附則第一条第三号に掲げる改正規定に限る。）による改正後の児童福祉法（以下「第三号改正後児童福祉法」という。）第十九条の三第八項の規定は、同号に掲げる規定の施行の日（以下「第三号施行日」という。）以後にされる児童福祉法第十九条の三第一項の申請に係る同条第三項に規定する医療費支給認定（以下この条及び次条において「医療費支給認定」という。）について適用し、第三号施行日前にされた同法第十九条の三第一項の申請に係る医療費支給認定については、なお従前の例による。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、第三号改正後児童福祉法第十九条の三第八項中「又は当該医療費支給認定」とあるのは「当該医療費支給認定」と、「前の日」とあるのは「前の日又は令和五年十月一日」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="43">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>

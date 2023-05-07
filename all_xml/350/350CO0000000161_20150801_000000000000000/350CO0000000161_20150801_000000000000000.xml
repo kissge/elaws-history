@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="161" Year="50">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="161" Year="50" PromulgateMonth="05" PromulgateDay="23">
   <LawNum>昭和五十年政令第百六十一号</LawNum>
   <LawBody>
-    <LawTitle>下水道の整備等に伴う一般廃棄物処理業等の合理化に関する特別措置法施行令</LawTitle>
+    <LawTitle Kana="げすいどうのせいびとうにともなういっぱんはいきぶつしょりぎょうとうのごうりかにかんするとくべつそちほうしこうれい" Abbrev="合特法施行令" AbbrevKana="ご">下水道の整備等に伴う一般廃棄物処理業等の合理化に関する特別措置法施行令</LawTitle>
     <EnactStatement>内閣は、下水道の整備等に伴う一般廃棄物処理業等の合理化に関する特別措置法（昭和五十年法律第三十一号）第二条及び第三条第一項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -21,8 +21,7 @@
         <Paragraph Hide="false" Num="1" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三条第一項の政令で定める事由は、し尿及びし尿浄化<Ruby>槽<Rt>そう</Rt>
-</Ruby>に係る汚でいの海洋投入処分に対する法令の規定による規制の強化とする。</Sentence>
+            <Sentence WritingMode="vertical">法第三条第一項の政令で定める事由は、し尿及びし尿浄化<Ruby>槽<Rt>そう</Rt></Ruby>に係る汚でいの海洋投入処分に対する法令の規定による規制の強化とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -37,7 +36,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="360246" AmendLawNum="昭和六〇年八月二日政令第二四六号" Id="ada760d4-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六〇年八月二日政令第二四六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -46,7 +45,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411312" AmendLawNum="平成一一年一〇月一日政令第三一二号" Extract="true" Id="b20adbe2-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一〇月一日政令第三一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="034" Year="40" PromulgateMonth="03" PromulgateDay="31" ScheduledEnforcementDate=""><LawNum>昭和四十年法律第三十四号</LawNum><LawBody><LawTitle Kana="ほうじんぜいほう" Abbrev="" AbbrevKana="">法人税法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="034" Year="40" PromulgateMonth="03" PromulgateDay="31"><LawNum>昭和四十年法律第三十四号</LawNum><LawBody><LawTitle Kana="ほうじんぜいほう" Abbrev="" AbbrevKana="">法人税法</LawTitle>
     <EnactStatement>法人税法（昭和二十二年法律第二十八号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -173,7 +173,7 @@
               <ArticleRange>（第六十四条の三）</ArticleRange>
             </TOCSubsection>
             <TOCSubsection Num="10">
-              <SubsectionTitle>第十款　公益法人等が普通法人等に移行する場合の所得の金額の計算</SubsectionTitle>
+              <SubsectionTitle>第十款　公共法人等が普通法人等に移行する場合の所得の金額の計算</SubsectionTitle>
               <ArticleRange>（第六十四条の四）</ArticleRange>
             </TOCSubsection>
             <TOCSubsection Num="11">
@@ -2012,9 +2012,42 @@
                     <Sentence Num="1" WritingMode="vertical">内国法人</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">設立の日（公益法人等又は人格のない社団等については収益事業を開始した日とし、公益法人等（収益事業を行つていないものに限る。）に該当していた普通法人又は協同組合等については当該普通法人又は協同組合等に該当することとなつた日とする。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設立の日（次に掲げる法人については、それぞれ次に定める日）</Sentence>
                   </Column>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">新たに収益事業を開始した公益法人等又は人格のない社団等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">その開始した日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">公共法人に該当していた収益事業を行う公益法人等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該公益法人等に該当することとなつた日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">公共法人又は収益事業を行つていない公益法人等に該当していた普通法人又は協同組合等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該普通法人又は協同組合等に該当することとなつた日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
@@ -2037,7 +2070,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二項の規定による届出をすべき人格のない社団等がその届出をしない場合には、その人格のない社団等の会計期間は、その年の一月一日（同項第一号に規定する収益事業を開始した日又は同項第二号に規定する国内源泉所得のうち収益事業から生ずるものを有することとなつた日の属する年については、これらの日）から十二月三十一日までの期間とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二項の規定による届出をすべき人格のない社団等がその届出をしない場合には、その人格のない社団等の会計期間は、その年の一月一日（同項第一号イに定める日又は同項第二号に規定する国内源泉所得のうち収益事業から生ずるものを有することとなつた日の属する年については、これらの日）から十二月三十一日までの期間とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2086,12 +2119,30 @@
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">公益法人等が事業年度の中途において普通法人若しくは協同組合等に該当することとなつたこと又は普通法人若しくは協同組合等が事業年度の中途において公益法人等に該当することとなつたこと</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事実</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">その事実が生じた日の前日</Sentence>
                   </Column>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公共法人が事業年度の中途において収益事業を行う公益法人等に該当することとなつたこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公共法人又は公益法人等が事業年度の中途において普通法人又は協同組合等に該当することとなつたこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">普通法人又は協同組合等が事業年度の中途において公益法人等に該当することとなつたこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
@@ -6544,13 +6595,13 @@
               </Article>
             </Subsection>
             <Subsection Num="10">
-              <SubsectionTitle>第十款　公益法人等が普通法人等に移行する場合の所得の金額の計算</SubsectionTitle>
+              <SubsectionTitle>第十款　公共法人等が普通法人等に移行する場合の所得の金額の計算</SubsectionTitle>
               <Article Num="64_4">
                 <ArticleTitle>第六十四条の四</ArticleTitle>
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">公益法人等である内国法人が普通法人又は協同組合等に該当することとなつた場合には、その内国法人のその該当することとなつた日（以下この項及び第三項において「移行日」という。）前の収益事業以外の事業から生じた所得の金額の累積額として政令で定めるところにより計算した金額（第三項において「累積所得金額」という。）又は当該移行日前の収益事業以外の事業から生じた欠損金額の累積額として政令で定めるところにより計算した金額（第三項において「累積欠損金額」という。）に相当する金額は、当該内国法人の当該移行日の属する事業年度の所得の金額の計算上、益金の額又は損金の額に算入する。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公共法人又は公益法人等である内国法人が普通法人又は協同組合等に該当することとなつた場合には、その内国法人のその該当することとなつた日（以下この項及び第三項において「移行日」という。）前の収益事業（公益法人等が行うものに限る。以下この項及び次項において同じ。）以外の事業から生じた所得の金額の累積額として政令で定めるところにより計算した金額（第三項において「累積所得金額」という。）又は当該移行日前の収益事業以外の事業から生じた欠損金額の累積額として政令で定めるところにより計算した金額（第三項において「累積欠損金額」という。）に相当する金額は、当該内国法人の当該移行日の属する事業年度の所得の金額の計算上、益金の額又は損金の額に算入する。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
@@ -7472,7 +7523,7 @@
                       <ItemTitle>四</ItemTitle>
                       <ItemSentence>
                         <Column Num="1">
-                          <Sentence Num="1" WritingMode="vertical">通算親法人と内国法人（公益法人等に限る。）との間に当該内国法人による完全支配関係がある場合において、当該内国法人が普通法人又は協同組合等に該当することとなつたこと</Sentence>
+                          <Sentence Num="1" WritingMode="vertical">通算親法人と内国法人（公共法人又は公益法人等に限る。）との間に当該内国法人による完全支配関係がある場合において、当該内国法人が普通法人又は協同組合等に該当することとなつたこと</Sentence>
                         </Column>
                         <Column Num="2">
                           <Sentence Num="1" WritingMode="vertical">その該当することとなつた日</Sentence>
@@ -8749,7 +8800,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">内国法人である普通法人（清算中のものにあつては、通算子法人に限る。次条及び第七十二条第一項（仮決算をした場合の中間申告書の記載事項等）において同じ。）は、その事業年度（新たに設立された内国法人である普通法人のうち適格合併（被合併法人の全てが収益事業を行つていない公益法人等であるものを除く。次項及び第三項において同じ。）により設立されたもの以外のものの設立後最初の事業年度、公益法人等（収益事業を行つていないものに限る。）が普通法人に該当することとなつた場合のその該当することとなつた日の属する事業年度及び当該普通法人が通算子法人である場合において第六十四条の九第一項（通算承認）の規定による承認の効力が生じた日が同日の属する当該普通法人に係る通算親法人の事業年度（以下この項において「通算親法人事業年度」という。）開始の日以後六月を経過した日以後であるときのその効力が生じた日の属する事業年度を除く。第七十二条第一項において同じ。）が六月を超える場合（当該普通法人が通算子法人である場合には、当該事業年度開始の日の属する通算親法人事業年度が六月を超え、かつ、当該通算親法人事業年度開始の日以後六月を経過した日において当該通算親法人との間に通算完全支配関係がある場合）には、当該事業年度（当該普通法人が通算子法人である場合には、当該事業年度開始の日の属する通算親法人事業年度）開始の日以後六月を経過した日（以下この条において「六月経過日」という。）から二月以内に、税務署長に対し、次に掲げる事項を記載した申告書を提出しなければならない。</Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">内国法人である普通法人（清算中のものにあつては、通算子法人に限る。次条及び第七十二条第一項（仮決算をした場合の中間申告書の記載事項等）において同じ。）は、その事業年度（新たに設立された内国法人である普通法人のうち適格合併（被合併法人の全てが収益事業を行つていない公益法人等であるものを除く。次項及び第三項において同じ。）により設立されたもの以外のものの設立後最初の事業年度、公共法人又は収益事業を行つていない公益法人等が普通法人に該当することとなつた場合のその該当することとなつた日の属する事業年度及び当該普通法人が通算子法人である場合において第六十四条の九第一項（通算承認）の規定による承認の効力が生じた日が同日の属する当該普通法人に係る通算親法人の事業年度（以下この項において「通算親法人事業年度」という。）開始の日以後六月を経過した日以後であるときのその効力が生じた日の属する事業年度を除く。第七十二条第一項において同じ。）が六月を超える場合（当該普通法人が通算子法人である場合には、当該事業年度開始の日の属する通算親法人事業年度が六月を超え、かつ、当該通算親法人事業年度開始の日以後六月を経過した日において当該通算親法人との間に通算完全支配関係がある場合）には、当該事業年度（当該普通法人が通算子法人である場合には、当該事業年度開始の日の属する通算親法人事業年度）開始の日以後六月を経過した日（以下この条において「六月経過日」という。）から二月以内に、税務署長に対し、次に掲げる事項を記載した申告書を提出しなければならない。</Sentence>
                     <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一号に掲げる金額が十万円以下である場合若しくは当該金額がない場合又は当該普通法人と通算親法人である協同組合等との間に通算完全支配関係がある場合は、当該申告書を提出することを要しない。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
@@ -10213,18 +10264,40 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">公益法人等（収益事業を行つていないものに限る。）に該当していた普通法人又は協同組合等の当該普通法人又は協同組合等に該当することとなつた日の属する事業年度</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる法人の区分に応じそれぞれ次に定める日の属する事業年度</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">同日以後三月を経過した日と当該事業年度終了の日とのうちいずれか早い日</Sentence>
                   </Column>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">公共法人に該当していた収益事業を行う公益法人等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該公益法人等に該当することとなつた日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">公共法人又は収益事業を行つていない公益法人等に該当していた普通法人又は協同組合等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該普通法人又は協同組合等に該当することとなつた日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">内国法人である普通法人若しくは協同組合等の設立の日、内国法人である公益法人等若しくは人格のない社団等の新たに収益事業を開始した日又は公益法人等（収益事業を行つていないものに限る。）に該当していた普通法人若しくは協同組合等の当該普通法人若しくは協同組合等に該当することとなつた日（以下この号において「設立等の日」という。）から前三号に規定する事業年度終了の日までの期間が三月に満たない場合における当該事業年度の翌事業年度</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">内国法人である普通法人若しくは協同組合等の設立の日、内国法人である公益法人等若しくは人格のない社団等の新たに収益事業を開始した日又は前号イ若しくはロに掲げる法人の区分に応じそれぞれ同号イ若しくはロに定める日（以下この号において「設立等の日」という。）から前三号に規定する事業年度終了の日までの期間が三月に満たない場合における当該事業年度の翌事業年度</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">当該設立等の日以後三月を経過した日と当該翌事業年度終了の日とのうちいずれか早い日</Sentence>
@@ -12461,7 +12534,7 @@
                       <Sentence Num="1" WritingMode="vertical">　</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">収益事業を開始した日又は公益法人等（収益事業を行つていないものに限る。）に該当していた普通法人若しくは協同組合等の当該普通法人若しくは協同組合等に該当することとなつた日</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">収益事業を開始した日又は前号イ若しくはロに掲げる法人の区分に応じそれぞれ同号イ若しくはロに定める日</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">第百四十一条各号に掲げる外国法人の区分に応じ当該各号に定める国内源泉所得で収益事業から生ずるものを有することとなつた日</Sentence>
@@ -12834,7 +12907,37 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">公益法人等（収益事業を行つていないものに限る。）が普通法人又は協同組合等に該当することとなつた場合には、その該当することとなつた日以後二月以内に、次に掲げる事項を記載した届出書にその該当することとなつた時における貸借対照表その他の財務省令で定める書類を添付し、これを納税地の所轄税務署長に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公共法人が収益事業を行う公益法人等に該当することとなつた場合には、その該当することとなつた日以後二月以内に、次に掲げる事項を記載した届出書にその該当することとなつた時における収益事業に係る貸借対照表その他の財務省令で定める書類を添付し、これを納税地の所轄税務署長に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その納税地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その事業の目的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その収益事業の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その該当することとなつた日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共法人又は収益事業を行つていない公益法人等が普通法人又は協同組合等に該当することとなつた場合には、その該当することとなつた日以後二月以内に、次に掲げる事項を記載した届出書にその該当することとなつた時における貸借対照表その他の財務省令で定める書類を添付し、これを納税地の所轄税務署長に提出しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -12855,15 +12958,15 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">外国法人（人格のない社団等に限る。以下この項及び次項において同じ。）は、第百四十一条各号（課税標準）に掲げる外国法人の区分に応じ当該各号に定める国内源泉所得のうち収益事業から生ずるもの（以下この項及び次項において「特定国内源泉所得」という。）を有することとなつた場合には、その有することとなつた日以後二月以内に、第一項各号に掲げる事項に準ずる事項を記載した届出書にその有することとなつた時における収益事業に係る貸借対照表その他の財務省令で定める書類を添付し、これを納税地の所轄税務署長に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、外国法人の特定国内源泉所得に係る所得の金額の全部につき租税条約等の規定（第百四十九条第一項ただし書（外国普通法人となつた旨の届出）に規定する租税条約等の規定をいう。次項において同じ。）により法人税を課さないこととされる場合には、当該届出書を提出することを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項ただし書の規定により同項に規定する届出書の提出を要しないこととされた外国法人が租税条約等の規定により法人税を課さないこととされる特定国内源泉所得以外の特定国内源泉所得を有することとなつた場合には、その有することとなつた日以後二月以内に、第一項各号に掲げる事項に準ずる事項を記載した届出書にその有することとなつた時における収益事業に係る貸借対照表その他の財務省令で定める書類を添付し、これを納税地の所轄税務署長に提出しなければならない。</Sentence>
             </ParagraphSentence>

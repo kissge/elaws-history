@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="Rule" Num="011" Year="02">
+<Law AmendmentId="" AmendmentNum="" Era="Reiwa" Lang="ja" LawType="Rule" Num="011" Year="02" PromulgateMonth="03" PromulgateDay="17">
   <LawNum>令和二年原子力規制委員会規則第十一号</LawNum>
   <LawBody>
-    <LawTitle>使用施設等の技術基準に関する規則</LawTitle>
+    <LawTitle Kana="しようしせつとうのぎじゅつきじゅんにかんするきそく" Abbrev="" AbbrevKana="">使用施設等の技術基準に関する規則</LawTitle>
     <EnactStatement>原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律（平成二十九年法律第十五号）の一部の施行に伴い、及び核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第五十五条の二第二項第二号の規定に基づき、使用施設等の技術基準に関する規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -382,14 +382,12 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="13">
-          <ArticleCaption>（<Ruby>溢<Rt>いつ</Rt>
-</Ruby>水による損傷の防止）</ArticleCaption>
+          <ArticleCaption>（<Ruby>溢<Rt>いつ</Rt></Ruby>水による損傷の防止）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
           <Paragraph Hide="false" Num="1" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">使用施設等は、その施設内における<Ruby>溢<Rt>いつ</Rt>
-</Ruby>水の発生によりその安全機能を損なうおそれがある場合は、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
+              <Sentence WritingMode="vertical">使用施設等は、その施設内における<Ruby>溢<Rt>いつ</Rt></Ruby>水の発生によりその安全機能を損なうおそれがある場合は、防護措置その他の適切な措置が講じられたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -770,6 +768,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律第三条の規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（使用施設等の溶接の技術基準に関する規則の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">使用施設等の溶接の技術基準に関する規則（昭和六十一年総理府令第七十三号）は、廃止する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

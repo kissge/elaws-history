@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="256" Year="33">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="256" Year="33" PromulgateMonth="08" PromulgateDay="30">
   <LawNum>昭和三十三年政令第二百五十六号</LawNum>
   <LawBody>
-    <LawTitle>鉄道軌道整備法施行令</LawTitle>
+    <LawTitle Kana="てつどうきどうせいびほうせこうれい" Abbrev="" AbbrevKana="">鉄道軌道整備法施行令</LawTitle>
     <EnactStatement>内閣は、地方鉄道軌道整備法（昭和二十八年法律第百六十九号）の規定に基き、地方鉄道軌道整備法施行令（昭和二十八年政令第三百八十九号）の全部を改正するこの政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -87,9 +87,7 @@
             <Subitem1 Num="7">
               <Subitem1Title>ト</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>伏せ<Ruby>樋<Rt>び</Rt>
-</Ruby>
-</Sentence>
+                <Sentence>伏せ<Ruby>樋<Rt>び</Rt></Ruby></Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="8">
@@ -203,8 +201,7 @@
             <Subitem1 Num="5">
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>転<Ruby>轍<Rt>てつ</Rt>
-</Ruby>装置</Sentence>
+                <Sentence>転<Ruby>轍<Rt>てつ</Rt></Ruby>装置</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="6">
@@ -225,14 +222,12 @@
                 <Sentence>送電線路</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-          </Item>
-          <Item Num="ロ">
-            <ItemTitle>ロ</ItemTitle>
-            <ItemSentence>
-              <Sentence>
-<Ruby>饋<Rt>き</Rt>
-</Ruby>電線路</Sentence>
-            </ItemSentence>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence><Ruby>饋<Rt>き</Rt></Ruby>電線路</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
@@ -360,7 +355,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="362054" AmendLawNum="昭和六二年三月二〇日政令第五四号" Extract="true" Id="e9bf9ab0-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和六二年三月二〇日政令第五四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -373,7 +368,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="403163" AmendLawNum="平成三年五月一五日政令第一六三号" Id="b9624ede-18eb-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成三年五月一五日政令第一六三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -388,7 +383,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412312" AmendLawNum="平成一二年六月七日政令第三一二号" Extract="true" Id="3d0760e2-d3b9-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -398,7 +393,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="414027" AmendLawNum="平成一四年二月八日政令第二七号" Extract="true" Id="31ee3964-d3ba-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年二月八日政令第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -411,7 +406,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="418181" AmendLawNum="平成一八年四月二六日政令第一八一号" Extract="true" Id="831a2e3a-1884-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="平成一八年四月二六日政令第一八一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -424,7 +419,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="430228" AmendLawNum="平成三〇年七月二七日政令第二二八号" Id="7cbeb162-917b-11e8-9dfa-005056b30d52">
+    <SupplProvision AmendLawNum="平成三〇年七月二七日政令第二二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="501M60000800047" AmendmentNum="令和元年国土交通省令第四十七号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="014" Year="25">
+<Law AmendmentId="501M60000800047" AmendmentNum="令和元年国土交通省令第四十七号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="014" Year="25" PromulgateMonth="03" PromulgateDay="03">
   <LawNum>昭和二十五年運輸省令第十四号</LawNum>
   <LawBody>
-    <LawTitle>造船造機統計調査規則</LawTitle>
+    <LawTitle Kana="ぞうせんぞうきとうけいちょうさきそく" Abbrev="" AbbrevKana="">造船造機統計調査規則</LawTitle>
     <EnactStatement>統計法第三条第二項の規定に基き、造船造機統計調査規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -56,10 +56,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">造船調査については、鋼製の船舶又は鋼製の船舶以外の船舶で総トン数二十トン以上若しくは長さ十五メートル以上のものの製造設備又は入<Ruby>き<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>よ<Rt>ヽ</Rt>
-</Ruby>設備若しくは上架設備を有する工場</Sentence>
+              <Sentence WritingMode="vertical">造船調査については、鋼製の船舶又は鋼製の船舶以外の船舶で総トン数二十トン以上若しくは長さ十五メートル以上のものの製造設備又は入<Ruby>き<Rt>ヽ</Rt></Ruby><Ruby>よ<Rt>ヽ</Rt></Ruby>設備若しくは上架設備を有する工場</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -84,19 +81,19 @@
               <Sentence WritingMode="vertical">造船調査</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
-              <Subitem1Title>(一)</Subitem1Title>
+              <Subitem1Title>（一）</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">工場の名称及び所在地</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
-              <Subitem1Title>(二)</Subitem1Title>
+              <Subitem1Title>（二）</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">製造船舶</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
-              <Subitem1Title>(三)</Subitem1Title>
+              <Subitem1Title>（三）</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">修繕船舶</Sentence>
               </Subitem1Sentence>
@@ -108,13 +105,13 @@
               <Sentence WritingMode="vertical">造機調査</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
-              <Subitem1Title>(一)</Subitem1Title>
+              <Subitem1Title>（一）</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">工場の名称及び所在地</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
-              <Subitem1Title>(二)</Subitem1Title>
+              <Subitem1Title>（二）</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">舶用機関等の製造高、在庫高及び修繕高</Sentence>
               </Subitem1Sentence>
@@ -124,7 +121,7 @@
         <Paragraph Hide="false" Num="2" OldStyle="false">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項第一号の(二)及び(三)の船舶には、鋼製の船舶以外の船舶で総トン数二十トン未満のものを含まない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前項第一号の（二）及び（三）の船舶には、鋼製の船舶以外の船舶で総トン数二十トン未満のものを含まない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、長さ十五メートル以上の船舶は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -248,7 +245,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="326014" AmendLawNum="昭和二六年三月一三日運輸省令第一四号" Id="4635a600-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二六年三月一三日運輸省令第一四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -258,7 +255,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="328040" AmendLawNum="昭和二八年八月五日運輸省令第四〇号" Id="465d4412-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二八年八月五日運輸省令第四〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -267,7 +264,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="333054" AmendLawNum="昭和三三年一二月二六日運輸省令第五四号" Id="ca887530-18a5-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三三年一二月二六日運輸省令第五四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -276,7 +273,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="339054" AmendLawNum="昭和三九年七月三一日運輸省令第五四号" Id="46ac27f8-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三九年七月三一日運輸省令第五四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -285,7 +282,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="346022" AmendLawNum="昭和四六年四月二三日運輸省令第二二号" Id="46d3b9d0-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四六年四月二三日運輸省令第二二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -294,7 +291,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="354015" AmendLawNum="昭和五四年四月二六日運輸省令第一五号" Id="46fb3b4a-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五四年四月二六日運輸省令第一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum>１</ParagraphNum>
@@ -309,7 +306,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="356012" AmendLawNum="昭和五六年三月三〇日運輸省令第一二号" Extract="true" Id="168b3cbc-d3ba-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五六年三月三〇日運輸省令第一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -322,7 +319,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="358001" AmendLawNum="昭和五八年一月二二日運輸省令第一号" Id="474a3cfe-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五八年一月二二日運輸省令第一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -331,7 +328,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359018" AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true" Id="f77f7bdc-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五九年六月二二日運輸省令第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -519,7 +516,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="401024" AmendLawNum="平成元年七月二〇日運輸省令第二四号" Id="f78ca082-d3b7-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成元年七月二〇日運輸省令第二四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -528,7 +525,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="402028" AmendLawNum="平成二年九月二五日運輸省令第二八号" Id="47c0ce5a-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成二年九月二五日運輸省令第二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -537,7 +534,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="410061" AmendLawNum="平成一〇年八月三一日運輸省令第六一号" Id="47e8439a-18d6-11e8-ab74-005056b30d52">
+    <SupplProvision AmendLawNum="平成一〇年八月三一日運輸省令第六一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -554,7 +551,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412039" AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true" Id="07452690-d3b6-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一一月二九日運輸省令第三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -567,7 +564,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414079" AmendLawNum="平成一四年六月二八日国土交通省令第七九号" Id="ec431f88-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年六月二八日国土交通省令第七九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -580,7 +577,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="415026" AmendLawNum="平成一五年三月二〇日国土交通省令第二六号" Id="650585c4-d3b4-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一五年三月二〇日国土交通省令第二六号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -589,7 +586,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="421015" AmendLawNum="平成二一年三月三〇日国土交通省令第一五号" Extract="true" Id="732f8c76-d3b4-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成二一年三月三〇日国土交通省令第一五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -612,7 +609,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="501045" AmendLawNum="令和元年一二月一六日国土交通省令第四五号" Extract="true" Id="e4739df0-2076-11ea-b6ae-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一六日国土交通省令第四五号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -623,7 +620,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="501047" AmendLawNum="令和元年一二月一六日国土交通省令第四七号" Extract="true" Id="618a0fe0-2077-11ea-b6ae-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一二月一六日国土交通省令第四七号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

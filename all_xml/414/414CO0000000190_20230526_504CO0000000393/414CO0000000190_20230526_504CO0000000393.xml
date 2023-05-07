@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="190" Year="14" PromulgateMonth="05" PromulgateDay="31" ScheduledEnforcementDate=""><LawNum>平成十四年政令第百九十号</LawNum><LawBody><LawTitle Kana="としさいせいとくべつそちほうせこうれい" Abbrev="" AbbrevKana="">都市再生特別措置法施行令</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="190" Year="14" PromulgateMonth="05" PromulgateDay="31"><LawNum>平成十四年政令第百九十号</LawNum><LawBody><LawTitle Kana="としさいせいとくべつそちほうせこうれい" Abbrev="" AbbrevKana="">都市再生特別措置法施行令</LawTitle>
     <EnactStatement>内閣は、都市再生特別措置法（平成十四年法律第二十二号）第二条第二項、第二十条第一項、第二十九条第一項第一号、第三十条、第三十七条第一項第六号及び第四十二条の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -18,9 +18,31 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">法第十九条第三項の政令で定める規模は、一ヘクタールとする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該都市開発事業の事業区域に隣接し、又は近接してこれと一体的に他の都市開発事業が施行され、又は施行されることが確実であると見込まれ、かつ、これらの都市開発事業の事業区域の面積の合計が一ヘクタール以上となる場合にあっては、〇・五ヘクタールとする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第十九条第三項の政令で定める都市開発事業を施行する土地（水面を含む。）の区域（第二号において「事業区域」という。）の面積の規模は、〇・五ヘクタールとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特定都市再生緊急整備地域内において当該都市開発事業を施行する場合においては、次の各号に掲げる場合の区分に応じ、当該各号に定める規模とする。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次号に掲げる場合以外の場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">一ヘクタール</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">当該都市開発事業の事業区域に隣接し、又は近接してこれと一体的に他の都市開発事業が施行され、又は施行されることが確実であると見込まれ、かつ、これらの都市開発事業の事業区域の面積の合計が一ヘクタール以上となる場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">〇・五ヘクタール</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="3">
@@ -190,9 +212,31 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">法第二十条第一項の規定による民間都市再生事業計画の認定を申請することができる都市再生事業についての同項の政令で定める規模は、一ヘクタールとする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該都市開発事業の事業区域に隣接し、又は近接してこれと一体的に他の都市開発事業（都市再生緊急整備地域内におけるその地域整備方針に定められた都市機能の増進を主たる目的とするものに限る。）が施行され、又は施行されることが確実であると見込まれ、かつ、これらの都市開発事業の事業区域の面積の合計が一ヘクタール以上となる場合にあっては、〇・五ヘクタールとする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二十条第一項の規定による民間都市再生事業計画の認定を申請することができる都市再生事業についての同項の政令で定める都市開発事業の事業区域の面積の規模は、〇・五ヘクタールとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特定都市再生緊急整備地域内において当該都市開発事業を施行する場合においては、次の各号に掲げる場合の区分に応じ、当該各号に定める規模とする。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次号に掲げる場合以外の場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">一ヘクタール</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">当該特定都市再生緊急整備地域が指定されている都市再生緊急整備地域内において当該都市開発事業の事業区域に隣接し、又は近接してこれと一体的に他の都市開発事業（当該都市再生緊急整備地域に係る地域整備方針に定められた都市機能の増進を主たる目的とするものに限る。）が施行され、又は施行されることが確実であると見込まれ、かつ、これらの都市開発事業の事業区域の面積の合計が一ヘクタール以上となる場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">〇・五ヘクタール</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
@@ -1791,6 +1835,15 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この政令は、宅地造成等規制法の一部を改正する法律の施行の日（令和五年五月二十六日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月三〇日政令第九八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、令和五年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

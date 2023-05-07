@@ -2259,17 +2259,32 @@
                 </ParagraphSentence>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">理事長　一人</Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">理事長</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">一人</Sentence>
+                    </Column>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">理事　二人以上</Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">理事</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">二人以上</Sentence>
+                    </Column>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">監事　二人以上</Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">監事</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">二人以上</Sentence>
+                    </Column>
                   </ListSentence>
                 </List>
               </Paragraph>

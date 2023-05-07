@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="123" Year="25" PromulgateMonth="05" PromulgateDay="01" ScheduledEnforcementDate=""><LawNum>昭和二十五年法律第百二十三号</LawNum><LawBody><LawTitle Kana="せいしんほけんおよびせいしんしょうがいしゃふくしにかんするほうりつ" Abbrev="精神保健福祉法" AbbrevKana="せ">精神保健及び精神障害者福祉に関する法律</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="123" Year="25" PromulgateMonth="05" PromulgateDay="01"><LawNum>昭和二十五年法律第百二十三号</LawNum><LawBody><LawTitle Kana="せいしんほけんおよびせいしんしょうがいしゃふくしにかんするほうりつ" Abbrev="精神保健福祉法" AbbrevKana="せ">精神保健及び精神障害者福祉に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -92,7 +92,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律は、精神障害者の医療及び保護を行い、障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号）と相まつてその社会復帰の促進及びその自立と社会経済活動への参加の促進のために必要な援助を行い、並びにその発生の予防その他国民の精神的健康の保持及び増進に努めることによつて、精神障害者の福祉の増進及び国民の精神保健の向上を図ることを目的とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、障害者基本法（昭和四十五年法律第八十四号）の基本的な理念にのつとり、精神障害者の権利の擁護を図りつつ、その医療及び保護を行い、障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号）と相まつてその社会復帰の促進及びその自立と社会経済活動への参加の促進のために必要な援助を行い、並びにその発生の予防その他国民の精神的健康の保持及び増進に努めることによつて、精神障害者の福祉の増進及び国民の精神保健の向上を図ることを目的とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -138,8 +138,51 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律で「精神障害者」とは、統合失調症、精神作用物質による急性中毒又はその依存症、知的障害、精神病質その他の精神疾患を有する者をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律で「精神障害者」とは、統合失調症、精神作用物質による急性中毒又はその依存症、知的障害その他の精神疾患を有する者をいう。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この法律で「家族等」とは、精神障害者の配偶者、親権を行う者、扶養義務者及び後見人又は保佐人をいう。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれかに該当する者を除く。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">行方の知れない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該精神障害者に対して訴訟をしている者又はした者並びにその配偶者及び直系血族</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">家庭裁判所で免ぜられた法定代理人、保佐人又は補助人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該精神障害者に対して配偶者からの暴力の防止及び被害者の保護等に関する法律（平成十三年法律第三十一号）第一条第一項に規定する身体に対する暴力等を行つた配偶者その他の当該精神障害者の入院及び処遇についての意思表示を求めることが適切でない者として厚生労働省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">心身の故障により当該精神障害者の入院及び処遇についての意思表示を適切に行うことができない者として厚生労働省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">未成年者</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -379,7 +422,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">厚生労働大臣の登録を受けた者が厚生労働省令で定めるところにより行う研修（申請前一年以内に行われたものに限る。）の課程を修了していること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">厚生労働大臣の登録を受けた者が厚生労働省令で定めるところにより行う研修（申請前三年以内に行われたものに限る。）の課程を修了していること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -536,7 +579,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十九条第一項、第二十九条の二第一項、第三十三条第一項、第三項若しくは第四項又は第三十三条の七第一項若しくは第二項の規定により精神障害者を入院させている精神科病院（精神科病院以外の病院で精神病室が設けられているものを含む。第十九条の十を除き、以下同じ。）の管理者は、厚生労働省令で定めるところにより、その精神科病院に常時勤務する指定医（第十九条の二第二項の規定によりその職務を停止されている者を除く。第五十三条第一項を除き、以下同じ。）を置かなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十九条第一項、第二十九条の二第一項、第三十三条第一項から第三項まで又は第三十三条の七第一項若しくは第二項の規定により精神障害者を入院させている精神科病院（精神科病院以外の病院で精神病室が設けられているものを含む。第十九条の十を除き、以下同じ。）の管理者は、厚生労働省令で定めるところにより、その精神科病院に常時勤務する指定医（第十九条の二第二項の規定によりその職務を停止されている者を除く。第五十三条第一項を除き、以下同じ。）を置かなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -966,7 +1009,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県は、精神障害の救急医療が適切かつ効率的に提供されるように、夜間又は休日において精神障害の医療を必要とする精神障害者又はその第三十三条第二項に規定する家族等その他の関係者からの相談に応ずること、精神障害の救急医療を提供する医療施設相互間の連携を確保することその他の地域の実情に応じた体制の整備を図るよう努めるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、精神障害の救急医療が適切かつ効率的に提供されるように、夜間又は休日において精神障害の医療を必要とする精神障害者又はその家族等その他の関係者からの相談に応ずること、精神障害の救急医療を提供する医療施設相互間の連携を確保することその他の地域の実情に応じた体制の整備を図るよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1034,7 +1077,7 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、第三項又は第四項後段の規定による措置を採る場合においては、当該任意入院者に対し、当該措置を採る旨、第三十八条の四の規定による退院等の請求に関することその他厚生労働省令で定める事項を書面で知らせなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、第三項又は第四項後段の規定による措置を採る場合においては、当該任意入院者に対し、当該措置を採る旨及びその理由、第三十八条の四の規定による退院等の請求に関することその他厚生労働省令で定める事項を書面で知らせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1251,7 +1294,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の規定による措置を採る場合においては、当該精神障害者に対し、当該入院措置を採る旨、第三十八条の四の規定による退院等の請求に関することその他厚生労働省令で定める事項を書面で知らせなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の規定による入院措置を採る場合においては、当該精神障害者及びその家族等であつて第二十八条第一項の規定による通知を受けたもの又は同条第二項の規定による立会いを行つたものに対し、当該入院措置を採る旨及びその理由、第三十八条の四の規定による退院等の請求に関することその他厚生労働省令で定める事項を書面で知らせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -1272,7 +1315,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の措置をとつたときは、すみやかに、その者につき、前条第一項の規定による入院措置をとるかどうかを決定しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による入院措置を採つたときは、速やかに、その者につき、前条第一項の規定による入院措置を採るかどうかを決定しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1284,7 +1327,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十七条第四項及び第五項並びに第二十八条の二の規定は第一項の規定による診察について、前条第三項の規定は第一項の規定による措置を採る場合について、同条第四項の規定は第一項の規定により入院する者の入院について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第四項及び第五項並びに第二十八条の二の規定は第一項の規定による診察について、前条第三項の規定は第一項の規定による入院措置を採る場合について、同条第四項の規定は第一項の規定により入院する者の入院について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1448,71 +1491,40 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">前項の「家族等」とは、当該精神障害者の配偶者、親権を行う者、扶養義務者及び後見人又は保佐人をいう。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれかに該当する者を除く。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、前項第一号に掲げる者について、その家族等がない場合又はその家族等の全員がその意思を表示することができない場合において、その者の居住地（居住地がないか、又は明らかでないときは、その者の現在地。第四十五条第一項を除き、以下同じ。）を管轄する市町村長（特別区の長を含む。以下同じ。）の同意があるときは、本人の同意がなくてもその者を入院させることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">第三十四条第二項の規定により移送された者について、その者の居住地を管轄する市町村長の同意があるときも、同様とする。</Sentence>
               </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">行方の知れない者</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該精神障害者に対して訴訟をしている者又はした者並びにその配偶者及び直系血族</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">家庭裁判所で免ぜられた法定代理人、保佐人又は補助人</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">心身の故障により前項の規定による同意又は不同意の意思表示を適切に行うことができない者として厚生労働省令で定めるもの</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">未成年者</Sentence>
-                </ItemSentence>
-              </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、第一項第一号に掲げる者について、その家族等（前項に規定する家族等をいう。以下同じ。）がない場合又はその家族等の全員がその意思を表示することができない場合において、その者の居住地（居住地がないか、又は明らかでないときは、その者の現在地。第四十五条第一項を除き、以下同じ。）を管轄する市町村長（特別区の長を含む。以下同じ。）の同意があるときは、本人の同意がなくてもその者を入院させることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">第三十四条第二項の規定により移送された者について、その者の居住地を管轄する市町村長の同意があるときも、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前二項に規定する場合において、精神科病院（厚生労働省令で定める基準に適合すると都道府県知事が認めるものに限る。）の管理者は、緊急その他やむを得ない理由があるときは、指定医に代えて特定医師に診察を行わせることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、診察の結果、精神障害者であり、かつ、医療及び保護のため入院の必要がある者であつて当該精神障害のために第二十条の規定による入院が行われる状態にないと判定されたときは、前二項の規定にかかわらず、本人の同意がなくても、十二時間を限り、その者を入院させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項又は前項に規定する場合において、精神科病院（厚生労働省令で定める基準に適合すると都道府県知事が認めるものに限る。）の管理者は、緊急その他やむを得ない理由があるときは、指定医に代えて特定医師に診察を行わせることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、診察の結果、精神障害者であり、かつ、医療及び保護のため入院の必要がある者であつて当該精神障害のために第二十条の規定による入院が行われる状態にないと判定されたときは、第一項又は前項の規定にかかわらず、本人の同意がなくても、十二時間を限り、その者を入院させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の四の二の規定は、前項の規定により診察を行つた場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条中「指定医は、前条第一項」とあるのは「第二十一条第四項に規定する特定医師は、第三十三条第三項」と、「当該指定医」とあるのは「当該特定医師」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十九条の四の二の規定は、前項の規定により診察を行つた場合について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条中「指定医は、前条第一項」とあるのは「第二十一条第四項に規定する特定医師は、第三十三条第四項」と、「当該指定医」とあるのは「当該特定医師」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、第三項後段の規定による入院措置を採つたときは、遅滞なく、厚生労働省令で定めるところにより、当該入院措置に関する記録を作成し、これを保存しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、第四項後段の規定による措置を採つたときは、遅滞なく、厚生労働省令で定めるところにより、当該措置に関する記録を作成し、これを保存しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二項に規定する市町村長は、同項の規定に基づく事務に関し、関係行政機関又は関係地方公共団体に対し、必要な事項を照会することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、第一項、第三項又は第四項後段の規定による措置を採つたときは、十日以内に、その者の症状その他厚生労働省令で定める事項を当該入院について同意をした者の同意書を添え、最寄りの保健所長を経て都道府県知事に届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、第一項、第二項又は第三項後段の規定による入院措置を採つたときは、十日以内に、その者の症状その他厚生労働省令で定める事項を当該入院について同意をした者の同意書を添え、最寄りの保健所長を経て都道府県知事に届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1521,7 +1533,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、前条第一項又は第三項の規定により入院した者（以下「医療保護入院者」という。）を退院させたときは、十日以内に、その旨及び厚生労働省令で定める事項を最寄りの保健所長を経て都道府県知事に届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">精神科病院の管理者は、前条第一項又は第二項の規定により入院した者（以下「医療保護入院者」という。）を退院させたときは、十日以内に、その旨及び厚生労働省令で定める事項を最寄りの保健所長を経て都道府県知事に届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1530,8 +1542,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">精神科病院の管理者は、第三十三条第一項、第三項又は第四項後段の規定による措置を採る場合においては、当該精神障害者に対し、当該入院措置を採る旨、第三十八条の四の規定による退院等の請求に関することその他厚生労働省令で定める事項を書面で知らせなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該入院措置を採つた日から四週間を経過する日までの間であつて、当該精神障害者の症状に照らし、その者の医療及び保護を図る上で支障があると認められる間においては、この限りでない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">精神科病院の管理者は、第三十三条第一項、第二項又は第三項後段の規定による入院措置を採る場合においては、当該精神障害者及びその家族等であつて同条第一項の規定による同意をしたものに対し、当該入院措置を採る旨及びその理由、第三十八条の四の規定による退院等の請求に関することその他厚生労働省令で定める事項を書面で知らせなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該精神障害者については、当該入院措置を採つた日から四週間を経過する日までの間であつて、その症状に照らし、その者の医療及び保護を図る上で支障があると認められる間においては、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1634,7 +1646,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十九条の九第二項の規定は前条第六項の規定による処分をする場合について、第二十九条第三項の規定は精神科病院の管理者が前条第一項又は第二項後段の規定による措置を採る場合について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の九第二項の規定は前条第六項の規定による処分をする場合について、第二十九条第三項の規定は精神科病院の管理者が前条第一項又は第二項後段の規定による入院措置を採る場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第二十九条第三項中「当該精神障害者及びその家族等であつて第二十八条第一項の規定による通知を受けたもの又は同条第二項の規定による立会いを行つたもの」とあるのは、「当該精神障害者」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1650,7 +1663,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項に規定する精神障害者の家族等がない場合又はその家族等の全員がその意思を表示することができない場合において、その者の居住地を管轄する市町村長の同意があるときは、本人の同意がなくてもその者を第三十三条第三項の規定による入院をさせるため第三十三条の七第一項に規定する精神科病院に移送することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項に規定する精神障害者の家族等がない場合又はその家族等の全員がその意思を表示することができない場合において、その者の居住地を管轄する市町村長の同意があるときは、本人の同意がなくてもその者を第三十三条第二項の規定による入院をさせるため第三十三条の七第一項に規定する精神科病院に移送することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1662,7 +1675,8 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十九条の二の二第二項及び第三項の規定は、前三項の規定による移送を行う場合について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十九条の二の二第二項及び第三項の規定は前三項の規定による移送を行う場合について、第三十三条第六項の規定は第二項の規定による移送を行う場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第六項中「第二項」とあるのは、「第三十四条第二項」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1771,7 +1785,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前条第一項若しくは第二項の規定による報告又は第三十三条第七項の規定による届出（同条第一項又は第三項の規定による措置に係るものに限る。）があつたときは、当該報告又は届出に係る入院中の者の症状その他厚生労働省令で定める事項を精神医療審査会に通知し、当該入院中の者についてその入院の必要があるかどうかに関し審査を求めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前条第一項若しくは第二項の規定による報告又は第三十三条第七項の規定による届出（同条第一項又は第二項の規定による入院措置に係るものに限る。）があつたときは、当該報告又は届出に係る入院中の者の症状その他厚生労働省令で定める事項を精神医療審査会に通知し、当該入院中の者についてその入院の必要があるかどうかに関し審査を求めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1868,7 +1882,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、必要があると認めるときは、精神科病院の管理者、精神科病院に入院中の者又は第三十三条第一項、第三項若しくは第四項の規定による入院について同意をした者に対し、この法律による入院に必要な手続に関し、報告を求め、又は帳簿書類の提出若しくは提示を命じることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、必要があると認めるときは、精神科病院の管理者、精神科病院に入院中の者又は第三十三条第一項から第三項までの規定による入院について同意をした者に対し、この法律による入院に必要な手続に関し、報告を求め、又は帳簿書類の提出若しくは提示を命じることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1891,7 +1905,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、必要があると認めるときは、第二十一条第三項の規定により入院している者又は第三十三条第一項、第三項若しくは第四項若しくは第三十三条の七第一項若しくは第二項の規定により入院した者について、その指定する二人以上の指定医に診察させ、各指定医の診察の結果がその入院を継続する必要があることに一致しない場合又はこれらの者の入院がこの法律若しくはこの法律に基づく命令に違反して行われた場合には、これらの者が入院している精神科病院の管理者に対し、その者を退院させることを命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、必要があると認めるときは、第二十一条第三項の規定により入院している者、医療保護入院者又は第三十三条第三項若しくは第三十三条の七第一項若しくは第二項の規定により入院した者について、その指定する二人以上の指定医に診察させ、各指定医の診察の結果がその入院を継続する必要があることに一致しない場合又はこれらの者の入院がこの法律若しくはこの法律に基づく命令に違反して行われた場合には、これらの者が入院している精神科病院の管理者に対し、その者を退院させることを命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1903,7 +1917,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、精神科病院の管理者が第一項又は第二項の規定による命令に従わないときは、当該精神科病院の管理者に対し、期間を定めて第二十一条第一項、第三十三条第一項、第三項及び第四項並びに第三十三条の七第一項及び第二項の規定による精神障害者の入院に係る医療の提供の全部又は一部を制限することを命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、精神科病院の管理者が第一項又は第二項の規定による命令に従わないときは、当該精神科病院の管理者に対し、期間を定めて第二十一条第一項、第三十三条第一項から第三項まで並びに第三十三条の七第一項及び第二項の規定による精神障害者の入院に係る医療の提供の全部又は一部を制限することを命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -2526,7 +2540,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十三条第三項及び第三十四条第二項の規定により市町村が処理することとされている事務は、第一号法定受託事務とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十三条第二項及び第三十四条第二項の規定により市町村が処理することとされている事務は、第一号法定受託事務とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2597,7 +2611,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">精神科病院の管理者、指定医、地方精神保健福祉審議会の委員、精神医療審査会の委員、第二十一条第四項、第三十三条第四項若しくは第三十三条の七第二項の規定により診察を行つた特定医師若しくは第四十七条第一項の規定により都道府県知事等が指定した医師又はこれらの職にあつた者が、この法律の規定に基づく職務の執行に関して知り得た人の秘密を正当な理由がなく漏らしたときは、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精神科病院の管理者、指定医、地方精神保健福祉審議会の委員、精神医療審査会の委員、第二十一条第四項、第三十三条第三項若しくは第三十三条の七第二項の規定により診察を行つた特定医師若しくは第四十七条第一項の規定により都道府県知事等が指定した医師又はこれらの職にあつた者が、この法律の規定に基づく職務の執行に関して知り得た人の秘密を正当な理由がなく漏らしたときは、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2713,7 +2727,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十九条の四の二（第二十一条第五項、第三十三条第五項及び第三十三条の七第三項において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の四の二（第二十一条第五項、第三十三条第四項及び第三十三条の七第三項において準用する場合を含む。）の規定に違反した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -3445,8 +3459,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">施行日前にされた行政庁の処分に係る第百四十九条から第百五十一条まで、第百五十七条、第百五十八条、第百六十五条、第百六十八条、第百七十条、第百七十二条、第百七十三条、第百七十五条、第百七十六条、第百八十三条、第百八十八条、第百九十五条、第二百一条、第二百八条、第二百十四条、第二百十九条から第二百二十一条まで、第二百二十九条又は第二百三十八条の規定による改正前の児童福祉法第五十九条の四第二項、あん摩マツサージ指圧師、はり師、きゆう師等に関する法律第十二条の四、食品衛生法第二十九条の四、旅館業法第九条の三、公衆浴場法第七条の三、医療法第七十一条の三、身体障害者福祉法第四十三条の二第二項、精神保健及び精神障害者福祉に関する法律第五十一条の十二第二項、クリーニング業法第十四条の二第二項、狂犬病予防法第二十五条の二、社会福祉事業法第八十三条の二第二項、結核予防法第六十九条、<Ruby>と<Rt>ヽ</Rt>
-              </Ruby>畜場法第二十条、歯科技工士法第二十七条の二、臨床検査技師、衛生検査技師等に関する法律第二十条の八の二、知的障害者福祉法第三十条第二項、老人福祉法第三十四条第二項、母子保健法第二十六条第二項、柔道整復師法第二十三条、建築物における衛生的環境の確保に関する法律第十四条第二項、廃棄物の処理及び清掃に関する法律第二十四条、食鳥処理の事業の規制及び食鳥検査に関する法律第四十一条第三項又は感染症の予防及び感染症の患者に対する医療に関する法律第六十五条の規定に基づく再審査請求については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にされた行政庁の処分に係る第百四十九条から第百五十一条まで、第百五十七条、第百五十八条、第百六十五条、第百六十八条、第百七十条、第百七十二条、第百七十三条、第百七十五条、第百七十六条、第百八十三条、第百八十八条、第百九十五条、第二百一条、第二百八条、第二百十四条、第二百十九条から第二百二十一条まで、第二百二十九条又は第二百三十八条の規定による改正前の児童福祉法第五十九条の四第二項、あん摩マツサージ指圧師、はり師、きゆう師等に関する法律第十二条の四、食品衛生法第二十九条の四、旅館業法第九条の三、公衆浴場法第七条の三、医療法第七十一条の三、身体障害者福祉法第四十三条の二第二項、精神保健及び精神障害者福祉に関する法律第五十一条の十二第二項、クリーニング業法第十四条の二第二項、狂犬病予防法第二十五条の二、社会福祉事業法第八十三条の二第二項、結核予防法第六十九条、<Ruby>と<Rt>ヽ</Rt></Ruby>畜場法第二十条、歯科技工士法第二十七条の二、臨床検査技師、衛生検査技師等に関する法律第二十条の八の二、知的障害者福祉法第三十条第二項、老人福祉法第三十四条第二項、母子保健法第二十六条第二項、柔道整復師法第二十三条、建築物における衛生的環境の確保に関する法律第十四条第二項、廃棄物の処理及び清掃に関する法律第二十四条、食鳥処理の事業の規制及び食鳥検査に関する法律第四十一条第三項又は感染症の予防及び感染症の患者に対する医療に関する法律第六十五条の規定に基づく再審査請求については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4799,6 +4812,99 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月一六日法律第一〇四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条中精神保健及び精神障害者福祉に関する法律（以下「精神保健福祉法」という。）第一条の改正規定及び精神保健福祉法第五条の改正規定（「、精神病質」を削る部分に限る。）並びに附則第三条、第二十三条及び第四十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定、第四条中児童福祉法第二十一条の五の七第一項、第三十三条の十八第一項、第三十三条の二十第五項及び第三十三条の二十二の改正規定並びに第三十三条の二十三の次に二条を加える改正規定、第七条の規定（前号に掲げる改正規定を除く。）、第九条中障害者の雇用の促進等に関する法律（以下「障害者雇用促進法」という。）第五条、第二十条、第二十二条、第四十五条の三第二項、第三項及び第七項並びに第七十四条の三第四項の改正規定、第十三条中身体障害者福祉法第九条第二項から第四項までの改正規定並びに第十四条中知的障害者福祉法第九条第二項から第四項までの改正規定並びに附則第四条、第十条、第十一条、第二十一条、第二十二条、第二十四条、第三十六条及び第三十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定、第六条の規定、第八条中精神保健福祉法第四条第一項の改正規定、第十条の規定、第十三条の規定（第二号に掲げる改正規定を除く。）、第十四条の規定（同号に掲げる改正規定を除く。）及び第十五条中精神保健福祉士法第二条の改正規定（「第五条第十八項」を「第五条第十九項」に改める部分に限る。）並びに附則第六条、第二十七条、第二十八条、第三十一条から第三十四条まで、第三十八条、第四十一条及び第四十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、精神保健福祉法の規定による本人の同意がない場合の入院の制度の在り方等に関し、精神疾患の特性及び精神障害者の実情等を勘案するとともに、障害者の権利に関する条約の実施について精神障害者等の意見を聴きつつ、必要な措置を講ずることについて検討するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（精神保健指定医の指定の申請に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七条の規定（附則第一条第二号に掲げる改正規定に限る。以下この条において同じ。）による改正後の精神保健福祉法（次条において「第二号改正後精神保健福祉法」という。）第十八条第一項（第四号に係る部分に限る。）の規定は、第二号施行日以後にされた同項の申請に係る指定について適用し、第二号施行日前にされた第七条の規定による改正前の精神保健福祉法第十八条第一項（第四号に係る部分に限る。）の申請に係る指定については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（措置入院者等に対する書面による通知に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号改正後精神保健福祉法第二十一条第七項、第二十九条第三項（第二号改正後精神保健福祉法第二十九条の二第四項及び第三十三条の八において準用する場合を含む。）及び第三十三条の三第一項の規定は、第二号施行日以後に採られる第二号改正後精神保健福祉法第二十一条第三項若しくは第四項後段、第二十九条第一項、第二十九条の二第一項、第三十三条第一項、第二項若しくは第三項後段又は第三十三条の七第一項若しくは第二項後段の規定による措置について適用し、第二号施行日前に採られた第七条の規定による改正前の精神保健福祉法第二十一条第三項若しくは第四項後段、第二十九条第一項、第二十九条の二第一項、第三十三条第一項、第三項若しくは第四項後段又は第三十三条の七第一項若しくは第二項後段の規定による措置については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="43">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable Num="0">
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>

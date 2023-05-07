@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="ImperialOrder" Num="1" Year="21">
+<Law Era="Meiji" Lang="ja" LawType="ImperialOrder" Num="001" Year="21" PromulgateMonth="01" PromulgateDay="04">
   <LawNum>明治二十一年勅令第一号</LawNum>
   <LawBody>
-    <LawTitle>明治二十一年勅令第一号（宝冠章及大勲位菊花章頸飾ニ関スル件）</LawTitle>
+    <LawTitle Kana="ほうかんしょうおよびだいくんいきっかしょうけいしょくにかんするけん" Abbrev="" AbbrevKana="">明治二十一年勅令第一号（宝冠章及大勲位菊花章頸飾ニ関スル件）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -48,8 +48,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">宝冠大綬章、宝冠牡丹章、宝冠白蝶章、宝冠藤花章、宝冠杏葉章及宝冠波光章ノ章ハ宝冠ト竹桜ノ形ヲ以テ飾リ綬ハ地黄色双線紅色トス</Sentence>
           </ParagraphSentence>
@@ -63,15 +63,15 @@
             <Sentence WritingMode="vertical">大勲位菊花章頸飾ハ大勲位ニ叙セシ者ニ特別之ヲ賜フ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">菊花菊葉ノ形ト明治二字古篆文ヲ以テ飾ル</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision AmendLawId="414277" AmendLawNum="平成一四年八月一二日政令第二七七号" Extract="true" Id="6e35e1af-efd3-49d4-9509-dd8e2be7a143">
+    <SupplProvision AmendLawNum="平成一四年八月一二日政令第二七七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="3" Year="61">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="61" PromulgateMonth="01" PromulgateDay="27">
   <LawNum>昭和六十一年労働省令第三号</LawNum>
   <LawBody>
-    <LawTitle>女性労働基準規則</LawTitle>
+    <LawTitle Kana="じょせいろうどうきじゅんきそく" Abbrev="女性則" AbbrevKana="じ">女性労働基準規則</LawTitle>
     <EnactStatement>労働基準法（昭和二十二年法律第四十九号）第六十四条の二第二項及び第四項、第六十四条の三第一項第二号、第四号及び第五号、第六十四条の四、第六十四条の五第三項並びに第百十五条の二の規定に基づき、並びに同法を実施するため、女子労働基準規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -211,9 +211,7 @@
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">塩素化ビフエニル（別名ＰＣＢ）、アクリルアミド、エチルベンゼン、エチレンイミン、エチレンオキシド、カドミウム化合物、クロム酸塩、五酸化バナジウム、水銀若しくはその無機化合物（硫化水銀を除く。）、塩化ニツケル（Ⅱ）（粉状の物に限る。）、スチレン、テトラクロロエチレン（別名パークロルエチレン）、トリクロロエチレン、<Ruby>砒<Rt>ひ</Rt>
-                    </Ruby>素化合物（アルシン及び<Ruby>砒<Rt>ひ</Rt>
-                    </Ruby>化ガリウムを除く。）、ベータ―プロピオラクトン、ペンタクロルフエノール（別名ＰＣＰ）若しくはそのナトリウム塩又はマンガンを発散する場所</Sentence>
+                  <Sentence WritingMode="vertical">塩素化ビフエニル（別名ＰＣＢ）、アクリルアミド、エチルベンゼン、エチレンイミン、エチレンオキシド、カドミウム化合物、クロム酸塩、五酸化バナジウム、水銀若しくはその無機化合物（硫化水銀を除く。）、塩化ニツケル（Ⅱ）（粉状の物に限る。）、スチレン、テトラクロロエチレン（別名パークロルエチレン）、トリクロロエチレン、<Ruby>砒<Rt>ひ</Rt></Ruby>素化合物（アルシン及び<Ruby>砒<Rt>ひ</Rt></Ruby>化ガリウムを除く。）、ベータ―プロピオラクトン、ペンタクロルフエノール（別名ＰＣＰ）若しくはそのナトリウム塩又はマンガンを発散する場所</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">次に掲げる業務（スチレン、テトラクロロエチレン（別名パークロルエチレン）又はトリクロロエチレンを発散する場所において行われる業務にあつては（２）に限る。）</Sentence>
@@ -245,8 +243,7 @@
               <Subitem2 Num="1">
                 <Subitem2Title>（１）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">鉛中毒予防規則（昭和四十七年労働省令第三十七号）第三十九条ただし書の規定により呼吸用保護具を使用させて行う臨時の作業を行う業務又は同令第五十八条第一項若しくは第二項に規定する業務若しくは同条第三項に規定する業務（同項に規定する業務にあつては、同令第三条各号に規定する業務及び同令第五十八条第三項ただし書の装置等を<Ruby>稼<Rt>か</Rt>
-                    </Ruby>働させて行う同項の業務を除く。）</Sentence>
+                  <Sentence WritingMode="vertical">鉛中毒予防規則（昭和四十七年労働省令第三十七号）第三十九条ただし書の規定により呼吸用保護具を使用させて行う臨時の作業を行う業務又は同令第五十八条第一項若しくは第二項に規定する業務若しくは同条第三項に規定する業務（同項に規定する業務にあつては、同令第三条各号に規定する業務及び同令第五十八条第三項ただし書の装置等を<Ruby>稼<Rt>か</Rt></Ruby>働させて行う同項の業務を除く。）</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Num="2">
@@ -313,8 +310,7 @@
           <Item Num="24">
             <ItemTitle>二十四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">さく岩機、<Ruby>鋲<Rt>びよう</Rt>
-                </Ruby>打機等身体に著しい振動を与える機械器具を用いて行う業務</Sentence>
+              <Sentence WritingMode="vertical">さく岩機、<Ruby>鋲<Rt>びよう</Rt></Ruby>打機等身体に著しい振動を与える機械器具を用いて行う業務</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -636,7 +632,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="0">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>

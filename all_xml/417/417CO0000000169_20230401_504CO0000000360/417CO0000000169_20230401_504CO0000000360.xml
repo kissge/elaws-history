@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="169" Year="17" PromulgateMonth="04" PromulgateDay="27" ScheduledEnforcementDate=""><LawNum>平成十七年政令第百六十九号</LawNum><LawBody><LawTitle Kana="とくていがいらいせいぶつによるせいたいけいとうにかかるひがいのぼうしにかんするほうりつせこうれい" Abbrev="外来生物法施行令" AbbrevKana="が">特定外来生物による生態系等に係る被害の防止に関する法律施行令</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="169" Year="17" PromulgateMonth="04" PromulgateDay="27"><LawNum>平成十七年政令第百六十九号</LawNum><LawBody><LawTitle Kana="とくていがいらいせいぶつによるせいたいけいとうにかかるひがいのぼうしにかんするほうりつせこうれい" Abbrev="外来生物法施行令" AbbrevKana="が">特定外来生物による生態系等に係る被害の防止に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、特定外来生物による生態系等に係る被害の防止に関する法律（平成十六年法律第七十八号）第二条第一項及び第二十六条第一項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -572,6 +572,31 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年一月二五日政令第一六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、令和五年六月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項及び附則第三項の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令による改正後の特定外来生物による生態系等に係る被害の防止に関する法律施行令別表第一の種名の欄に掲げる種（亜種又は変種を含む。）のうちこの政令による改正前の特定外来生物による生態系等に係る被害の防止に関する法律施行令別表第一の種名の欄に掲げられていないものに係る特定外来生物についての特定外来生物による生態系等に係る被害の防止に関する法律（次項において「法」という。）第五条第一項の許可を受けようとする者は、この政令の施行の日（次項において「施行日」という。）前においても、その許可の申請をすることができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">主務大臣は、前項の規定により許可の申請があった場合には、施行日前においても、法第五条第一項の許可をすることができる。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この場合において、当該許可は、施行日にその効力を生ずる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>　外来生物の種（第一条関係）</RelatedArticleNum>
@@ -610,7 +635,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｔｒｉｃｈｏｓｕｒｕｓ　ｖｕｌｐｅｃｕｌａ（フクロギツネ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Trichosurus vulpecula（フクロギツネ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -628,7 +653,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｒｉｎａｃｅｕｓ属（ハリネズミ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Erinaceus属（ハリネズミ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -646,7 +671,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｃａｃａ　ｃｙｃｌｏｐｉｓ（タイワンザル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Macaca cyclopis（タイワンザル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -654,7 +679,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｃａｃａ　ｆａｓｃｉｃｕｌａｒｉｓ（カニクイザル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Macaca fascicularis（カニクイザル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -662,7 +687,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｃａｃａ　ｍｕｌａｔｔａ（アカゲザル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Macaca mulatta（アカゲザル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -680,7 +705,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｙｏｃａｓｔｏｒ　ｃｏｙｐｕｓ（ヌートリア）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Myocastor coypus（ヌートリア）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -693,7 +718,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｃａｌｌｏｓｃｉｕｒｕｓ　ｅｒｙｔｈｒａｅｕｓ（クリハラリス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Callosciurus erythraeus（クリハラリス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -701,7 +726,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｃａｌｌｏｓｃｉｕｒｕｓ　ｆｉｎｌａｙｓｏｎｉｉ（フィンレイソンリス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Callosciurus finlaysonii（フィンレイソンリス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -709,7 +734,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｔｅｒｏｍｙｓ　ｖｏｌａｎｓ（タイリクモモンガ）のうちＰｔｅｒｏｍｙｓ　ｖｏｌａｎｓ　ｏｒｉｉ（エゾモモンガ）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Pteromys volans（タイリクモモンガ）のうちPteromys volans orii（エゾモモンガ）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -717,7 +742,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｃｉｕｒｕｓ　ｃａｒｏｌｉｎｅｎｓｉｓ（トウブハイイロリス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Sciurus carolinensis（トウブハイイロリス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -725,7 +750,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｃｉｕｒｕｓ　ｖｕｌｇａｒｉｓ（キタリス）のうちＳｃｉｕｒｕｓ　ｖｕｌｇａｒｉｓ　ｏｒｉｅｎｔｉｓ（エゾリス）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Sciurus vulgaris（キタリス）のうちSciurus vulgaris orientis（エゾリス）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -738,7 +763,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｏｎｄａｔｒａ　ｚｉｂｅｔｈｉｃｕｓ（マスクラット）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ondatra zibethicus（マスクラット）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -756,7 +781,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｒｏｃｙｏｎ　ｃａｎｃｒｉｖｏｒｕｓ（カニクイアライグマ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Procyon cancrivorus（カニクイアライグマ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -764,7 +789,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｒｏｃｙｏｎ　ｌｏｔｏｒ（アライグマ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Procyon lotor（アライグマ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -777,7 +802,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｕｓｔｅｌａ　ｖｉｓｏｎ（アメリカミンク）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mustela vison（アメリカミンク）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -790,7 +815,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｈｅｒｐｅｓｔｅｓ　ａｕｒｏｐｕｎｃｔａｔｕｓ（フイリマングース）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Herpestes auropunctatus（フイリマングース）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -798,7 +823,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｈｅｒｐｅｓｔｅｓ　ｊａｖａｎｉｃｕｓ（ジャワマングース）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Herpestes javanicus（ジャワマングース）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -806,7 +831,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｕｎｇｏｓ　ｍｕｎｇｏ（シママングース）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mungos mungo（シママングース）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -824,7 +849,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｘｉｓ属（アキシスジカ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Axis属（アキシスジカ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -832,7 +857,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｃｅｒｖｕｓ属（シカ属）に属する種のうちＣｅｒｖｕｓ　ｎｉｐｐｏｎ　ｃｅｎｔｒａｌｉｓ（ホンシュウジカ）、Ｃｅｒｖｕｓ　ｎｉｐｐｏｎ　ｋｅｒａｍａｅ（ケラマジカ）、Ｃｅｒｖｕｓ　ｎｉｐｐｏｎ　ｍａｇｅｓｈｉｍａｅ（マゲシカ）、Ｃｅｒｖｕｓ　ｎｉｐｐｏｎ　ｎｉｐｐｏｎ（キュウシュウジカ）、Ｃｅｒｖｕｓ　ｎｉｐｐｏｎ　ｐｕｌｃｈｅｌｌｕｓ（ツシマジカ）、Ｃｅｒｖｕｓ　ｎｉｐｐｏｎ　ｙａｋｕｓｈｉｍａｅ（ヤクシカ）及びＣｅｒｖｕｓ　ｎｉｐｐｏｎ　ｙｅｓｏｅｎｓｉｓ（エゾシカ）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Cervus属（シカ属）に属する種のうちCervus nippon centralis（ホンシュウジカ）、Cervus nippon keramae（ケラマジカ）、Cervus nippon mageshimae（マゲシカ）、Cervus nippon nippon（キュウシュウジカ）、Cervus nippon pulchellus（ツシマジカ）、Cervus nippon yakushimae（ヤクシカ）及びCervus nippon yesoensis（エゾシカ）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -840,7 +865,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｄａｍａ属（ダマシカ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Dama属（ダマシカ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -848,7 +873,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｌａｐｈｕｒｕｓ　ｄａｖｉｄｉａｎｕｓ（シフゾウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Elaphurus davidianus（シフゾウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -856,7 +881,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｕｎｔｉａｃｕｓ　ｒｅｅｖｅｓｉ（キョン）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Muntiacus reevesi（キョン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -879,7 +904,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｒａｎｔａ　ｃａｎａｄｅｎｓｉｓ（カナダガン）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Branta canadensis（カナダガン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -897,7 +922,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｙｃｎｏｎｏｔｕｓ　ｃａｆｅｒ（シリアカヒヨドリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Pycnonotus cafer（シリアカヒヨドリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -910,7 +935,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇａｒｒｕｌａｘ　ｃａｎｏｒｕｓ（ガビチョウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Garrulax canorus（ガビチョウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -918,7 +943,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇａｒｒｕｌａｘ　ｃｉｎｅｒａｃｅｕｓ（ヒゲガビチョウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Garrulax cineraceus（ヒゲガビチョウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -926,7 +951,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇａｒｒｕｌａｘ　ｐｅｒｓｐｉｃｉｌｌａｔｕｓ（カオグロガビチョウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Garrulax perspicillatus（カオグロガビチョウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -934,7 +959,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇａｒｒｕｌａｘ　ｓａｎｎｉｏ（カオジロガビチョウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Garrulax sannio（カオジロガビチョウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -942,7 +967,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｅｉｏｔｈｒｉｘ　ｌｕｔｅａ（ソウシチョウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Leiothrix lutea（ソウシチョウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -965,7 +990,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｃｈｅｌｙｄｒａ　ｓｅｒｐｅｎｔｉｎａ（カミツキガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Chelydra serpentina（カミツキガメ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -978,7 +1003,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｕｒｅｍｙｓ　ｓｉｎｅｎｓｉｓ（ハナガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mauremys sinensis（ハナガメ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -996,7 +1021,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｊａｐａｌｕｒａ　ｓｗｉｎｈｏｎｉｓ（スウィンホーキノボリトカゲ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Japalura swinhonis（スウィンホーキノボリトカゲ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1009,7 +1034,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ａｌｌｏｇｕｓ（アノリス・アルログス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis allogus（アノリス・アルログス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1017,7 +1042,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ａｌｕｔａｃｅｕｓ（アノリス・アルタケウス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis alutaceus（アノリス・アルタケウス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1025,7 +1050,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ａｎｇｕｓｔｉｃｅｐｓ（アノリス・アングスティケプス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis angusticeps（アノリス・アングスティケプス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1033,7 +1058,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ｃａｒｏｌｉｎｅｎｓｉｓ（グリーンアノール）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis carolinensis（グリーンアノール）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1041,7 +1066,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ｅｑｕｅｓｔｒｉｓ（ナイトアノール）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis equestris（ナイトアノール）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1049,7 +1074,7 @@
               <Sentence Num="1" WritingMode="vertical">６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ｇａｒｍａｎｉ（ガーマンアノール）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis garmani（ガーマンアノール）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1057,7 +1082,7 @@
               <Sentence Num="1" WritingMode="vertical">７</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ｈｏｍｏｌｅｃｈｉｓ（アノリス・ホモレキス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis homolechis（アノリス・ホモレキス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1065,7 +1090,7 @@
               <Sentence Num="1" WritingMode="vertical">８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｎｏｌｉｓ　ｓａｇｒｅｉ（ブラウンアノール）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Anolis sagrei（ブラウンアノール）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1083,7 +1108,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｏｉｇａ　ｃｙａｎｅａ（ミドリオオガシラ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Boiga cyanea（ミドリオオガシラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1091,7 +1116,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｏｉｇａ　ｃｙｎｏｄｏｎ（イヌバオオガシラ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Boiga cynodon（イヌバオオガシラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1099,7 +1124,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｏｉｇａ　ｄｅｎｄｒｏｐｈｉｌａ（マングローブヘビ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Boiga dendrophila（マングローブヘビ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1107,7 +1132,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｏｉｇａ　ｉｒｒｅｇｕｌａｒｉｓ（ミナミオオガシラ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Boiga irregularis（ミナミオオガシラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1115,7 +1140,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｏｉｇａ　ｎｉｇｒｉｃｅｐｓ（ボウシオオガシラ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Boiga nigriceps（ボウシオオガシラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1123,7 +1148,7 @@
               <Sentence Num="1" WritingMode="vertical">６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｌａｐｈｅ　ｔａｅｎｉｕｒａ　ｆｒｉｅｓｉ（タイワンスジオ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Elaphe taeniura friesi（タイワンスジオ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1136,7 +1161,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｒｏｔｏｂｏｔｈｒｏｐｓ　ｍｕｃｒｏｓｑｕａｍａｔｕｓ（タイワンハブ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Protobothrops mucrosquamatus（タイワンハブ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1159,7 +1184,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｃｏｇｎａｔｕｓ（プレーンズヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo cognatus（プレーンズヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1167,7 +1192,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｇｕｔｔａｔｕｓ（キンイロヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo guttatus（キンイロヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1175,7 +1200,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｍａｒｉｎｕｓ（オオヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo marinus（オオヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1183,7 +1208,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｍｅｌａｎｏｓｔｉｃｔｕｓ（ヘリグロヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo melanostictus（ヘリグロヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1191,7 +1216,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｐｕｎｃｔａｔｕｓ（アカボシヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo punctatus（アカボシヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1199,7 +1224,7 @@
               <Sentence Num="1" WritingMode="vertical">６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｑｕｅｒｃｉｃｕｓ（オークヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo quercicus（オークヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1207,7 +1232,7 @@
               <Sentence Num="1" WritingMode="vertical">７</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｓｐｅｃｉｏｓｕｓ（テキサスヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo speciosus（テキサスヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1215,7 +1240,7 @@
               <Sentence Num="1" WritingMode="vertical">８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｕｆｏ　ｔｙｐｈｏｎｉｕｓ（コノハヒキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bufo typhonius（コノハヒキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1228,7 +1253,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｏｓｔｅｏｐｉｌｕｓ　ｓｅｐｔｅｎｔｒｉｏｎａｌｉｓ（キューバズツキガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Osteopilus septentrionalis（キューバズツキガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1241,7 +1266,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｌｅｕｔｈｅｒｏｄａｃｔｙｌｕｓ　ｃｏｑｕｉ（コキーコヤスガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Eleutherodactylus coqui（コキーコヤスガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1249,7 +1274,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｌｅｕｔｈｅｒｏｄａｃｔｙｌｕｓ　ｊｏｈｎｓｔｏｎｅｉ（ジョンストンコヤスガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Eleutherodactylus johnstonei（ジョンストンコヤスガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1257,7 +1282,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｌｅｕｔｈｅｒｏｄａｃｔｙｌｕｓ　ｐｌａｎｉｒｏｓｔｒｉｓ（オンシツガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Eleutherodactylus planirostris（オンシツガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1270,7 +1295,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｋａｌｏｕｌａ　ｐｕｌｃｈｒａ（アジアジムグリガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Kaloula pulchra（アジアジムグリガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1283,7 +1308,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｒａｎａ　ｃａｔｅｓｂｅｉａｎａ（ウシガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Rana catesbeiana（ウシガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1296,7 +1321,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｏｌｙｐｅｄａｔｅｓ　ｌｅｕｃｏｍｙｓｔａｘ（シロアゴガエル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Polypedates leucomystax（シロアゴガエル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1337,7 +1362,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｃｈｅｉｌｏｇｎａｔｈｕｓ　ｍａｃｒｏｐｔｅｒｕｓ（オオタナゴ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Acheilognathus macropterus（オオタナゴ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1355,7 +1380,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｔａｃｈｙｓｕｒｕｓ　ｆｕｌｖｉｄｒａｃｏ（コウライギギ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Tachysurus fulvidraco（コウライギギ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1368,7 +1393,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｍｅｉｕｒｕｓ　ｎｅｂｕｌｏｓｕｓ（ブラウンブルヘッド）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ameiurus nebulosus（ブラウンブルヘッド）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1376,7 +1401,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｉｃｔａｌｕｒｕｓ　ｐｕｎｃｔａｔｕｓ（チャネルキャットフィッシュ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ictalurus punctatus（チャネルキャットフィッシュ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1384,7 +1409,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｙｌｏｄｉｃｔｉｓ　ｏｌｉｖａｒｉｓ（フラットヘッドキャットフィッシュ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Pylodictis olivaris（フラットヘッドキャットフィッシュ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1397,7 +1422,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｉｌｕｒｕｓ　ｇｌａｎｉｓ（ヨーロッパナマズ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Silurus glanis（ヨーロッパナマズ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1433,7 +1458,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇａｍｂｕｓｉａ　ａｆｆｉｎｉｓ（カダヤシ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Gambusia affinis（カダヤシ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1441,7 +1466,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇａｍｂｕｓｉａ　ｈｏｌｂｒｏｏｋｉ（ガンブスィア・ホルブロオキ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Gambusia holbrooki（ガンブスィア・ホルブロオキ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1459,7 +1484,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｅｐｏｍｉｓ　ｍａｃｒｏｃｈｉｒｕｓ（ブルーギル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Lepomis macrochirus（ブルーギル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1467,7 +1492,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｉｃｒｏｐｔｅｒｕｓ　ｄｏｌｏｍｉｅｕ（コクチバス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Micropterus dolomieu（コクチバス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1475,7 +1500,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｉｃｒｏｐｔｅｒｕｓ　ｓａｌｍｏｉｄｅｓ（オオクチバス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Micropterus salmoides（オオクチバス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1488,7 +1513,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｇｏｂｉｕｓ　ｍｅｌａｎｏｓｔｏｍｕｓ（ラウンドゴビー）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neogobius melanostomus（ラウンドゴビー）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1501,7 +1526,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌａｔｅｓ　ｎｉｌｏｔｉｃｕｓ（ナイルパーチ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Lates niloticus（ナイルパーチ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1514,7 +1539,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｏｒｏｎｅ　ａｍｅｒｉｃａｎａ（ホワイトパーチ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Morone americana（ホワイトパーチ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1522,7 +1547,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｏｒｏｎｅ　ｃｈｒｙｓｏｐｓ（ホワイトバス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Morone chrysops（ホワイトバス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1530,7 +1555,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｏｒｏｎｅ　ｓａｘａｔｉｌｉｓ（ストライプトバス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Morone saxatilis（ストライプトバス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1543,7 +1568,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇｙｍｎｏｃｅｐｈａｌｕｓ　ｃｅｒｎｕａ（ラッフ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Gymnocephalus cernua（ラッフ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1551,7 +1576,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｅｒｃａ　ｆｌｕｖｉａｔｉｌｉｓ（ヨーロピアンパーチ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Perca fluviatilis（ヨーロピアンパーチ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1559,7 +1584,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓａｎｄｅｒ　ｌｕｃｉｏｐｅｒｃａ（パイクパーチ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Sander lucioperca（パイクパーチ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1572,7 +1597,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｉｎｉｐｅｒｃａ　ｃｈｕａｔｓｉ（ケツギョ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Siniperca chuatsi（ケツギョ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1580,7 +1605,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｉｎｉｐｅｒｃａ　ｓｃｈｅｒｚｅｒｉ（コウライケツギョ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Siniperca scherzeri（コウライケツギョ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1603,7 +1628,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｈｅｓｔｉｎａ　ａｓｓｉｍｉｌｉｓ（アカボシゴマダラ）のうちＨｅｓｔｉｎａ　ａｓｓｉｍｉｌｉｓ　ｓｈｉｒａｋｉｉ（アカボシゴマダラ奄美亜種）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Hestina assimilis（アカボシゴマダラ）のうちHestina assimilis shirakii（アカボシゴマダラ奄美亜種）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1621,7 +1646,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｒｏｍｉａ　ｂｕｎｇｉｉ（クビアカツヤカミキリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Aromia bungii（クビアカツヤカミキリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1634,7 +1659,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ａｎｇｕｌａｔｕｓ（アングラートゥスマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus angulatus（アングラートゥスマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1642,7 +1667,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｂａｌａｄｅｖａ（バラデバマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus baladeva（バラデバマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1650,7 +1675,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｇｉｇａｎｔｅｕｓ（ギガンテウスマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus giganteus（ギガンテウスマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1658,7 +1683,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｋａｔｓｕｒａｏｒｕｍ（カツラマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus katsuraorum（カツラマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1666,7 +1691,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｍａｅｄａｉ（マエダマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus maedai（マエダマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1674,7 +1699,7 @@
               <Sentence Num="1" WritingMode="vertical">６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｍａｘｉｍｕｓ（マキシムスマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus maximus（マキシムスマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1682,7 +1707,7 @@
               <Sentence Num="1" WritingMode="vertical">７</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｐｅｒａｒｍａｔｕｓ（ペラルマトゥスマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus perarmatus（ペラルマトゥスマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1690,7 +1715,7 @@
               <Sentence Num="1" WritingMode="vertical">８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｓａｕｎｄｅｒｓｉｉ（サンダースマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus saundersii（サンダースマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1698,7 +1723,7 @@
               <Sentence Num="1" WritingMode="vertical">９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｔａｎａｋａｉ（タナカマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus tanakai（タナカマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1706,7 +1731,7 @@
               <Sentence Num="1" WritingMode="vertical">１０</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｎｅｏｌｕｃａｎｕｓ　ｗａｔｅｒｈｏｕｓｅｉ（ウォーターハウスマルバネクワガタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Neolucanus waterhousei（ウォーターハウスマルバネクワガタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1719,7 +1744,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｃｈｅｉｒｏｔｏｎｕｓ属（テナガコガネ属）に属する種のうちＣｈｅｉｒｏｔｏｎｕｓ　ｊａｍｂａｒ（ヤンバルテナガコガネ）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Cheirotonus属（テナガコガネ属）に属する種のうちCheirotonus jambar（ヤンバルテナガコガネ）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1727,7 +1752,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｕｃｈｉｒｕｓ属（クモテナガコガネ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Euchirus属（クモテナガコガネ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1735,7 +1760,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｒｏｐｏｍａｃｒｕｓ属（ヒメテナガコガネ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Propomacrus属（ヒメテナガコガネ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1753,7 +1778,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｂｏｍｂｕｓ　ｔｅｒｒｅｓｔｒｉｓ（セイヨウオオマルハナバチ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Bombus terrestris（セイヨウオオマルハナバチ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1766,7 +1791,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｅｐｉｓｉｏｔａ　ｆｒａｕｅｎｆｅｌｄｉ（ハヤトゲフシアリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Lepisiota frauenfeldi（ハヤトゲフシアリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1774,7 +1799,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｉｎｅｐｉｔｈｅｍａ　ｈｕｍｉｌｅ（アルゼンチンアリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Linepithema humile（アルゼンチンアリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1782,7 +1807,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｇｅｍｉｎａｔａ種群（ソレノプスィス・ゲミナタ種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis geminata種群（ソレノプスィス・ゲミナタ種群）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1790,7 +1815,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｓａｅｖｉｓｓｉｍａ種群（ソレノプスィス・サエヴィスィマ種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis saevissima種群（ソレノプスィス・サエヴィスィマ種群）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1798,7 +1823,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｔｒｉｄｅｎｓ種群（ソレノプスィス・トゥリデンス種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis tridens種群（ソレノプスィス・トゥリデンス種群）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1806,7 +1831,7 @@
               <Sentence Num="1" WritingMode="vertical">６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｖｉｒｕｌｅｎｓ種群（ソレノプスィス・ヴィルレンス種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis virulens種群（ソレノプスィス・ヴィルレンス種群）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1814,7 +1839,7 @@
               <Sentence Num="1" WritingMode="vertical">７</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｗａｓｍａｎｎｉａ　ａｕｒｏｐｕｎｃｔａｔａ（コカミアリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Wasmannia auropunctata（コカミアリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1827,7 +1852,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｖｅｓｐａ　ｖｅｌｕｔｉｎａ（ツマアカスズメバチ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Vespa velutina（ツマアカスズメバチ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1850,7 +1875,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｄｉｋｅｒｏｇａｍｍａｒｕｓ　ｖｉｌｌｏｓｕｓ（ディケロガンマルス・ヴィルロスス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Dikerogammarus villosus（ディケロガンマルス・ヴィルロスス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1881,7 +1906,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">アメリカざりがに科に属する種のうちＰｒｏｃａｍｂａｒｕｓ　ｃｌａｒｋｉｉ（アメリカザリガニ）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">アメリカざりがに科に属する種のうちProcambarus clarkii（アメリカザリガニ）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1894,7 +1919,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">アジアざりがに科に属する種のうちＣａｍｂａｒｏｉｄｅｓ　ｊａｐｏｎｉｃｕｓ（ニホンザリガニ）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">アジアざりがに科に属する種のうちCambaroides japonicus（ニホンザリガニ）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1920,7 +1945,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｒｉｏｃｈｅｉｒ属（モクズガニ属）に属する種のうちＥｒｉｏｃｈｅｉｒ　ｊａｐｏｎｉｃａ（モクズガニ）及びＥｒｉｏｃｈｅｉｒ　ｏｇａｓａｗａｒａｅｎｓｉｓ（オガサワラモクズガニ）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Eriocheir属（モクズガニ属）に属する種のうちEriocheir japonica（モクズガニ）及びEriocheir ogasawaraensis（オガサワラモクズガニ）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1961,7 +1986,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｔｒａｘ属（アトラクス属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Atrax属（アトラクス属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1969,7 +1994,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｈａｄｒｏｎｙｃｈｅ属（ハドロニュケ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Hadronyche属（ハドロニュケ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1982,7 +2007,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｏｘｏｓｃｅｌｅｓ　ｇａｕｃｈｏ（ロクソスケレス・ガウコ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Loxosceles gaucho（ロクソスケレス・ガウコ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1990,7 +2015,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｏｘｏｓｃｅｌｅｓ　ｌａｅｔａ（ロクソスケレス・ラエタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Loxosceles laeta（ロクソスケレス・ラエタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1998,7 +2023,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｏｘｏｓｃｅｌｅｓ　ｒｅｃｌｕｓａ（ロクソスケレス・レクルサ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Loxosceles reclusa（ロクソスケレス・レクルサ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2011,7 +2036,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌａｔｒｏｄｅｃｔｕｓ属（ゴケグモ属）に属する種のうちＬａｔｒｏｄｅｃｔｕｓ　ｅｌｅｇａｎｓ（アカオビゴケグモ）以外のもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Latrodectus属（ゴケグモ属）に属する種のうちLatrodectus elegans（アカオビゴケグモ）以外のもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2034,7 +2059,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｉｍｎｏｐｅｒｎａ属（カワヒバリガイ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Limnoperna属（カワヒバリガイ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2052,7 +2077,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｄｒｅｉｓｓｅｎａ　ｂｕｇｅｎｓｉｓ（クワッガガイ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Dreissena bugensis（クワッガガイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2060,7 +2085,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｄｒｅｉｓｓｅｎａ　ｐｏｌｙｍｏｒｐｈａ（カワホトトギスガイ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Dreissena polymorpha（カワホトトギスガイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2083,7 +2108,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｅｕｇｌａｎｄｉｎａ　ｒｏｓｅａ（ヤマヒタチオビ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Euglandina rosea（ヤマヒタチオビ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2106,7 +2131,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｌａｔｙｄｅｍｕｓ　ｍａｎｏｋｗａｒｉ（ニューギニアヤリガタリクウズムシ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Platydemus manokwari（ニューギニアヤリガタリクウズムシ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2124,7 +2149,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｌｔｅｒｎａｎｔｈｅｒａ　ｐｈｉｌｏｘｅｒｏｉｄｅｓ（ナガエツルノゲイトウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Alternanthera philoxeroides（ナガエツルノゲイトウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2137,7 +2162,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｈｙｄｒｏｃｏｔｙｌｅ　ｒａｎｕｎｃｕｌｏｉｄｅｓ（ブラジルチドメグサ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Hydrocotyle ranunculoides（ブラジルチドメグサ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2150,7 +2175,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｉｓｔｉａ　ｓｔｒａｔｉｏｔｅｓ（ボタンウキクサ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Pistia stratiotes（ボタンウキクサ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2163,7 +2188,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｚｏｌｌａ　ｃｒｉｓｔａｔａ（アゾルラ・クリスタタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Azolla cristata（アゾルラ・クリスタタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2176,7 +2201,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｃｏｒｅｏｐｓｉｓ　ｌａｎｃｅｏｌａｔａ（オオキンケイギク）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Coreopsis lanceolata（オオキンケイギク）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2184,7 +2209,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇｙｍｎｏｃｏｒｏｎｉｓ　ｓｐｉｌａｎｔｈｏｉｄｅｓ（ミズヒマワリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Gymnocoronis spilanthoides（ミズヒマワリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2192,7 +2217,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｉｋａｎｉａ　ｍｉｃｒａｎｔｈａ（ツルヒヨドリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mikania micrantha（ツルヒヨドリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2200,7 +2225,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｒｕｄｂｅｃｋｉａ　ｌａｃｉｎｉａｔａ（オオハンゴンソウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Rudbeckia laciniata（オオハンゴンソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2208,7 +2233,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｅｎｅｃｉｏ　ｍａｄａｇａｓｃａｒｉｅｎｓｉｓ（ナルトサワギク）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Senecio madagascariensis（ナルトサワギク）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2221,7 +2246,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｉｃｙｏｓ　ａｎｇｕｌａｔｕｓ（アレチウリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Sicyos angulatus（アレチウリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2234,7 +2259,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｄｒｏｓｅｒａ　ｉｎｔｅｒｍｅｄｉａ（ナガエモウセンゴケ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Drosera intermedia（ナガエモウセンゴケ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2247,7 +2272,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｙｒｉｏｐｈｙｌｌｕｍ　ａｑｕａｔｉｃｕｍ（オオフサモ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Myriophyllum aquaticum（オオフサモ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2260,7 +2285,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｕｔｒｉｃｕｌａｒｉａ　ｃｆ．　ｐｌａｔｅｎｓｉｓ（エフクレタヌキモ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Utricularia cf.　platensis（エフクレタヌキモ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2268,7 +2293,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｕｔｒｉｃｕｌａｒｉａ　ｉｎｆｌａｔａ（ウトゥリクラリア・インフラタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Utricularia inflata（ウトゥリクラリア・インフラタ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2276,7 +2301,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｕｔｒｉｃｕｌａｒｉａ　ｐｌａｔｅｎｓｉｓ（ウトゥリクラリア・プラテンスィス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Utricularia platensis（ウトゥリクラリア・プラテンスィス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2289,7 +2314,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｕｄｗｉｇｉａ　ｇｒａｎｄｉｆｌｏｒａ（ルドウィギア・グランディフロラ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ludwigia grandiflora（ルドウィギア・グランディフロラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2302,7 +2327,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｍｍｏｐｈｉｌａ　ａｒｅｎａｒｉａ（ビーチグラス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ammophila arenaria（ビーチグラス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2310,7 +2335,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｐａｒｔｉｎａ属（スパルティナ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Spartina属（スパルティナ属）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2323,7 +2348,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｖｅｒｏｎｉｃａ　ａｎａｇａｌｌｉｓ‐ａｑｕａｔｉｃａ（オオカワヂシャ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Veronica anagallis-aquatica（オオカワヂシャ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2372,10 +2397,10 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｃａｃａ　ｃｙｃｌｏｐｉｓ（タイワンザル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Macaca cyclopis（タイワンザル）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｃａｃａ　ｆｕｓｃａｔａ（ニホンザル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Macaca fuscata（ニホンザル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2383,10 +2408,10 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｃａｃａ　ｍｕｌａｔｔａ（アカゲザル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Macaca mulatta（アカゲザル）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｃａｃａ　ｆｕｓｃａｔａ（ニホンザル）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Macaca fuscata（ニホンザル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2409,10 +2434,10 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｕｒｅｍｙｓ　ｓｉｎｅｎｓｉｓ（ハナガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mauremys sinensis（ハナガメ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｕｒｅｍｙｓ　ｊａｐｏｎｉｃａ（ニホンイシガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mauremys japonica（ニホンイシガメ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2420,10 +2445,10 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｕｒｅｍｙｓ　ｓｉｎｅｎｓｉｓ（ハナガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mauremys sinensis（ハナガメ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｕｒｅｍｙｓ　ｍｕｔｉｃａ（ミナミイシガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mauremys mutica（ミナミイシガメ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2431,10 +2456,10 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｕｒｅｍｙｓ　ｓｉｎｅｎｓｉｓ（ハナガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mauremys sinensis（ハナガメ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｕｒｅｍｙｓ　ｒｅｅｖｅｓｉｉ（クサガメ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mauremys reevesii（クサガメ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2499,10 +2524,10 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｏｒｏｎｅ　ｃｈｒｙｓｏｐｓ（ホワイトバス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Morone chrysops（ホワイトバス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｏｒｏｎｅ　ｓａｘａｔｉｌｉｓ（ストライプトバス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Morone saxatilis（ストライプトバス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2525,7 +2550,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｇｅｍｉｎａｔａ種群（ソレノプスィス・ゲミナタ種群）、Ｓｏｌｅｎｏｐｓｉｓ　ｓａｅｖｉｓｓｉｍａ種群（ソレノプスィス・サエヴィスィマ種群）、Ｓｏｌｅｎｏｐｓｉｓ　ｔｒｉｄｅｎｓ種群（ソレノプスィス・トゥリデンス種群）及びＳｏｌｅｎｏｐｓｉｓ　ｖｉｒｕｌｅｎｓ種群（ソレノプスィス・ヴィルレンス種群）に属する種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis geminata種群（ソレノプスィス・ゲミナタ種群）、Solenopsis saevissima種群（ソレノプスィス・サエヴィスィマ種群）、Solenopsis tridens種群（ソレノプスィス・トゥリデンス種群）及びSolenopsis virulens種群（ソレノプスィス・ヴィルレンス種群）に属する種</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">左欄に規定する種群に属する他の種</Sentence>
@@ -2560,7 +2585,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｌｔｅｒｎａｎｔｈｅｒａ　ｐｈｉｌｏｘｅｒｏｉｄｅｓ（ナガエツルノゲイトウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Alternanthera philoxeroides（ナガエツルノゲイトウ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2571,7 +2596,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｈｙｄｒｏｃｏｔｙｌｅ　ｒａｎｕｎｃｕｌｏｉｄｅｓ（ブラジルチドメグサ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Hydrocotyle ranunculoides（ブラジルチドメグサ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2582,7 +2607,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｐｉｓｔｉａ　ｓｔｒａｔｉｏｔｅｓ（ボタンウキクサ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Pistia stratiotes（ボタンウキクサ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2593,7 +2618,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｚｏｌｌａ　ｃｒｉｓｔａｔａ（アゾルラ・クリスタタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Azolla cristata（アゾルラ・クリスタタ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎</Sentence>
@@ -2604,7 +2629,7 @@
               <Sentence Num="1" WritingMode="vertical">５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｃｏｒｅｏｐｓｉｓ　ｌａｎｃｅｏｌａｔａ（オオキンケイギク）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Coreopsis lanceolata（オオキンケイギク）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">根</Sentence>
@@ -2615,7 +2640,7 @@
               <Sentence Num="1" WritingMode="vertical">６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｇｙｍｎｏｃｏｒｏｎｉｓ　ｓｐｉｌａｎｔｈｏｉｄｅｓ（ミズヒマワリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Gymnocoronis spilanthoides（ミズヒマワリ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2626,7 +2651,7 @@
               <Sentence Num="1" WritingMode="vertical">７</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｉｋａｎｉａ　ｍｉｃｒａｎｔｈａ（ツルヒヨドリ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Mikania micrantha（ツルヒヨドリ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">根</Sentence>
@@ -2637,7 +2662,7 @@
               <Sentence Num="1" WritingMode="vertical">８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｒｕｄｂｅｃｋｉａ　ｌａｃｉｎｉａｔａ（オオハンゴンソウ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Rudbeckia laciniata（オオハンゴンソウ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">根</Sentence>
@@ -2648,7 +2673,7 @@
               <Sentence Num="1" WritingMode="vertical">９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｅｎｅｃｉｏ　ｍａｄａｇａｓｃａｒｉｅｎｓｉｓ（ナルトサワギク）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Senecio madagascariensis（ナルトサワギク）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2659,7 +2684,7 @@
               <Sentence Num="1" WritingMode="vertical">１０</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｄｒｏｓｅｒａ　ｉｎｔｅｒｍｅｄｉａ（ナガエモウセンゴケ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Drosera intermedia（ナガエモウセンゴケ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2670,7 +2695,7 @@
               <Sentence Num="1" WritingMode="vertical">１１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｍｙｒｉｏｐｈｙｌｌｕｍ　ａｑｕａｔｉｃｕｍ（オオフサモ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Myriophyllum aquaticum（オオフサモ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2681,7 +2706,7 @@
               <Sentence Num="1" WritingMode="vertical">１２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｕｔｒｉｃｕｌａｒｉａ　ｃｆ．　ｐｌａｔｅｎｓｉｓ（エフクレタヌキモ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Utricularia cf.　platensis（エフクレタヌキモ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎</Sentence>
@@ -2692,7 +2717,7 @@
               <Sentence Num="1" WritingMode="vertical">１３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｕｔｒｉｃｕｌａｒｉａ　ｉｎｆｌａｔａ（ウトゥリクラリア・インフラタ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Utricularia inflata（ウトゥリクラリア・インフラタ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎</Sentence>
@@ -2703,7 +2728,7 @@
               <Sentence Num="1" WritingMode="vertical">１４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｕｔｒｉｃｕｌａｒｉａ　ｐｌａｔｅｎｓｉｓ（ウトゥリクラリア・プラテンスィス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Utricularia platensis（ウトゥリクラリア・プラテンスィス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎</Sentence>
@@ -2714,7 +2739,7 @@
               <Sentence Num="1" WritingMode="vertical">１５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｌｕｄｗｉｇｉａ　ｇｒａｎｄｉｆｌｏｒａ（ルドウィギア・グランディフロラ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ludwigia grandiflora（ルドウィギア・グランディフロラ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2725,7 +2750,7 @@
               <Sentence Num="1" WritingMode="vertical">１６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ａｍｍｏｐｈｉｌａ　ａｒｅｎａｒｉａ（ビーチグラス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ammophila arenaria（ビーチグラス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">根</Sentence>
@@ -2736,7 +2761,7 @@
               <Sentence Num="1" WritingMode="vertical">１７</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｐａｒｔｉｎａ属（スパルティナ属）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Spartina属（スパルティナ属）全種</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">茎、根</Sentence>
@@ -2747,7 +2772,7 @@
               <Sentence Num="1" WritingMode="vertical">１８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｖｅｒｏｎｉｃａ　ａｎａｇａｌｌｉｓ‐ａｑｕａｔｉｃａ（オオカワヂシャ）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Veronica anagallis-aquatica（オオカワヂシャ）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">根</Sentence>
@@ -2779,7 +2804,7 @@
               <Sentence Num="1" WritingMode="vertical">１</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｇｅｍｉｎａｔａ種群（ソレノプスィス・ゲミナタ種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis geminata種群（ソレノプスィス・ゲミナタ種群）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2787,7 +2812,7 @@
               <Sentence Num="1" WritingMode="vertical">２</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｓａｅｖｉｓｓｉｍａ種群（ソレノプスィス・サエヴィスィマ種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis saevissima種群（ソレノプスィス・サエヴィスィマ種群）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2795,7 +2820,7 @@
               <Sentence Num="1" WritingMode="vertical">３</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｔｒｉｄｅｎｓ種群（ソレノプスィス・トゥリデンス種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis tridens種群（ソレノプスィス・トゥリデンス種群）全種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2803,7 +2828,7 @@
               <Sentence Num="1" WritingMode="vertical">４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｖｉｒｕｌｅｎｓ種群（ソレノプスィス・ヴィルレンス種群）全種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis virulens種群（ソレノプスィス・ヴィルレンス種群）全種</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -2821,7 +2846,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">Ｓｏｌｅｎｏｐｓｉｓ　ｇｅｍｉｎａｔａ種群（ソレノプスィス・ゲミナタ種群）、Ｓｏｌｅｎｏｐｓｉｓ　ｓａｅｖｉｓｓｉｍａ種群（ソレノプスィス・サエヴィスィマ種群）、Ｓｏｌｅｎｏｐｓｉｓ　ｔｒｉｄｅｎｓ種群（ソレノプスィス・トゥリデンス種群）及びＳｏｌｅｎｏｐｓｉｓ　ｖｉｒｕｌｅｎｓ種群（ソレノプスィス・ヴィルレンス種群）に属する種</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Solenopsis geminata種群（ソレノプスィス・ゲミナタ種群）、Solenopsis saevissima種群（ソレノプスィス・サエヴィスィマ種群）、Solenopsis tridens種群（ソレノプスィス・トゥリデンス種群）及びSolenopsis virulens種群（ソレノプスィス・ヴィルレンス種群）に属する種</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">左欄に規定する種群に属する他の種</Sentence>
