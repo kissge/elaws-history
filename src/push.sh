@@ -11,9 +11,7 @@ git config --local user.email elaws-history@eki.do
 git remote add origin git@github.com:kissge/elaws-history.git
 git fetch --depth 1
 git reset origin/master --soft
-GLOBIGNORE=".git:$ALL_XML_DIRECTORY_NAME"
-git restore --staged *
-git restore *
+git restore --staged --worktree ":!$ALL_XML_DIRECTORY_NAME"
 git add .
 git commit --allow-empty -m "Archive: $message"
 git tag -am "$message" "$now"
