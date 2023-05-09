@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="138" Year="15" PromulgateMonth="08" PromulgateDay="01" ScheduledEnforcementDate="2025/06/16"><LawNum>平成十五年法律第百三十八号</LawNum><LawBody><LawTitle Kana="ちゅうさいほう" Abbrev="" AbbrevKana="">仲裁法</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="138" Year="15" PromulgateMonth="08" PromulgateDay="01"><LawNum>平成十五年法律第百三十八号</LawNum><LawBody><LawTitle Kana="ちゅうさいほう" Abbrev="" AbbrevKana="">仲裁法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -31,16 +31,16 @@
         <ArticleRange>（第四十四条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="8">
-        <ChapterTitle>第八章　仲裁判断の承認及び執行決定</ChapterTitle>
-        <ArticleRange>（第四十五条・第四十六条）</ArticleRange>
+        <ChapterTitle>第八章　仲裁判断の承認及び執行決定等</ChapterTitle>
+        <ArticleRange>（第四十五条―第四十九条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="9">
         <ChapterTitle>第九章　雑則</ChapterTitle>
-        <ArticleRange>（第四十七条―第四十九条）</ArticleRange>
+        <ArticleRange>（第五十条―第五十二条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="10">
         <ChapterTitle>第十章　罰則</ChapterTitle>
-        <ArticleRange>（第五十条―第五十五条）</ArticleRange>
+        <ArticleRange>（第五十三条―第五十八条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -143,13 +143,25 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律の規定により二以上の裁判所が管轄権を有するときは、先に申立てがあった裁判所が管轄する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、仲裁地が日本国内にあるときは、この法律の規定により裁判所が行う手続に係る申立ては、東京地方裁判所及び大阪地方裁判所にもすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定により二以上の裁判所が管轄権を有するときは、先に申立てがあった裁判所が管轄する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">裁判所は、この法律の規定により裁判所が行う手続に係る事件の全部又は一部がその管轄に属しないと認めるときは、申立てにより又は職権で、これを管轄裁判所に移送しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第三項の規定により管轄する事件について、相当と認めるときは、申立てにより又は職権で、当該事件の全部又は一部を同項の規定により管轄権を有しないこととされた裁判所に移送することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -230,8 +242,20 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の場合における同項各号に掲げる申立てに係る事件は、第五条第一項の規定にかかわらず、前項に規定する普通裁判籍の所在地を管轄する地方裁判所の管轄に専属する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合における同項各号に掲げる申立てに係る事件は、第五条第一項の規定にかかわらず、次に掲げる裁判所の管轄に専属する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する普通裁判籍の所在地を管轄する地方裁判所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">東京地方裁判所及び大阪地方裁判所</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="9">
@@ -294,13 +318,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">仲裁手続における通知を書面によってするときは、当事者間に別段の合意がない限り、名あて人が直接当該書面を受領した時又は名あて人の住所、常居所、営業所、事務所若しくは配達場所（名あて人が発信人からの書面の配達を受けるべき場所として指定した場所をいう。以下この条において同じ。）に当該書面が配達された時に、通知がされたものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">仲裁手続における通知を書面によってするときは、当事者間に別段の合意がない限り、名宛人が直接当該書面を受領した時又は名宛人の住所、常居所、営業所、事務所若しくは配達場所（名宛人が発信人からの書面の配達を受けるべき場所として指定した場所をいう。以下この条において同じ。）に当該書面が配達された時に、通知がされたものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所は、仲裁手続における書面によってする通知について、当該書面を名あて人の住所、常居所、営業所、事務所又は配達場所に配達することが可能であるが、発信人が当該配達の事実を証明する資料を得ることが困難である場合において、必要があると認めるときは、発信人の申立てにより、裁判所が当該書面の送達をする旨の決定をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、仲裁手続における書面によってする通知について、当該書面を名宛人の住所、常居所、営業所、事務所又は配達場所に配達することが可能であるが、発信人が当該配達の事実を証明する資料を得ることが困難である場合において、必要があると認めるときは、発信人の申立てにより、裁判所が当該書面の送達をする旨の決定をすることができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合における送達については、民事訴訟法第百四条及び第百十条から第百十三条までの規定は適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -313,13 +337,13 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二項の申立てに係る事件は、第五条第一項の規定にかかわらず、同項第一号及び第二号に掲げる裁判所並びに名あて人の住所、常居所、営業所、事務所又は配達場所の所在地を管轄する地方裁判所の管轄に専属する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の申立てに係る事件は、第五条第一項及び第二項の規定にかかわらず、同条第一項第一号及び第二号に掲げる裁判所並びに名宛人の住所、常居所、営業所、事務所又は配達場所の所在地を管轄する地方裁判所の管轄に専属する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">仲裁手続における通知を書面によってする場合において、名あて人の住所、常居所、営業所、事務所及び配達場所のすべてが相当の調査をしても分からないときは、当事者間に別段の合意がない限り、発信人は、名あて人の最後の住所、常居所、営業所、事務所又は配達場所にあてて当該書面を書留郵便その他配達を試みたことを証明することができる方法により発送すれば足りる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">仲裁手続における通知を書面によってする場合において、名宛人の住所、常居所、営業所、事務所及び配達場所の全てが相当の調査をしても分からないときは、当事者間に別段の合意がない限り、発信人は、名宛人の最後の住所、常居所、営業所、事務所又は配達場所に宛てて当該書面を書留郵便その他配達を試みたことを証明することができる方法により発送すれば足りる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、当該書面が通常到達すべきであった時に通知がされたものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -351,13 +375,13 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">書面によってされた契約において、仲裁合意を内容とする条項が記載された文書が当該契約の一部を構成するものとして引用されているときは、その仲裁合意は、書面によってされたものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">書面によってされた契約において、仲裁合意を内容とする条項が記載された文書が当該契約の一部を構成するものとして引用されているときは、その仲裁合意は、書面によってされたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">仲裁合意がその内容を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）によってされたときは、その仲裁合意は、書面によってされたものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">仲裁合意がその内容を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。第六項において同じ。）によってされたときは、その仲裁合意は、書面によってされたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -368,6 +392,12 @@
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">書面によらないでされた契約において、仲裁合意を内容とする条項が記載され、又は記録された文書又は電磁的記録が当該契約の一部を構成するものとして引用されているときは、その仲裁合意は、書面によってされたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">仲裁合意を含む一の契約において、仲裁合意以外の契約条項が無効、取消しその他の事由により効力を有しないものとされる場合においても、仲裁合意は、当然には、その効力を妨げられない。</Sentence>
             </ParagraphSentence>
@@ -721,18 +751,97 @@
           </Paragraph>
         </Article>
         <Article Num="24">
-          <ArticleCaption>（暫定措置又は保全措置）</ArticleCaption>
+          <ArticleCaption>（暫定保全措置）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">仲裁廷は、当事者間に別段の合意がない限り、その一方の申立てにより、いずれの当事者に対しても、紛争の対象について仲裁廷が必要と認める暫定措置又は保全措置を講ずることを命ずることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">仲裁廷は、当事者間に別段の合意がない限り、仲裁判断があるまでの間、その一方の申立てにより、他方の当事者に対し、次に掲げる措置を講ずることを命ずることができる。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">金銭の支払を目的とする債権について、強制執行をすることができなくなるおそれがあるとき、又は強制執行をするのに著しい困難を生ずるおそれがあるときに、当該金銭の支払をするために必要な財産の処分その他の変更を禁止すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">財産上の給付（金銭の支払を除く。）を求める権利について、当該権利を実行することができなくなるおそれがあるとき、又は当該権利を実行するのに著しい困難を生ずるおそれがあるときに、当該給付の目的である財産の処分その他の変更を禁止すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">紛争の対象となる物又は権利関係について、申立てをした当事者に生ずる著しい損害又は急迫の危険を避けるため、当該損害若しくは当該危険の発生を防止し、若しくはその防止に必要な措置をとり、又は変更が生じた当該物若しくは権利関係について変更前の原状の回復をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">仲裁手続における審理を妨げる行為を禁止すること（次号に掲げるものを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">仲裁手続の審理のために必要な証拠について、その廃棄、消去又は改変その他の行為を禁止すること。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">仲裁廷は、いずれの当事者に対しても、前項の暫定措置又は保全措置を講ずるについて、相当な担保を提供すべきことを命ずることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申立て（同項第五号に係るものを除く。）をするときは、保全すべき権利又は権利関係及びその申立ての原因となる事実を疎明しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">仲裁廷は、第一項各号に掲げる措置を講ずることを命ずる命令（以下「暫定保全措置命令」という。）を発するに際し、必要があると認めるときは、相当な担保を提供すべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">保全すべき権利若しくは権利関係又は第一項の申立ての原因を欠くことが判明し、又はこれを欠くに至ったときその他の事情の変更があったときは、仲裁廷は、申立てにより、暫定保全措置命令を取り消し、変更し、又はその効力を停止することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定によるほか、仲裁廷は、特別の事情があると認めるときは、当事者にあらかじめ通知した上で、職権で、暫定保全措置命令を取り消し、変更し、又はその効力を停止することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">仲裁廷は、第四項の事情の変更があったと思料するときは、当事者に対し、速やかに当該事情の変更の有無及び当該事情の変更があったときはその内容を開示することを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">暫定保全措置命令の申立てをした者（次項において「申立人」という。）が前項の規定による命令に従わないときは、第四項の規定の適用については、同項の事情の変更があったものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">仲裁廷は、第四項又は第五項の規定により暫定保全措置命令を取り消し、変更し、又はその効力を停止した場合において、申立人の責めに帰すべき事由により暫定保全措置命令を発したと認めるときは、暫定保全措置命令を受けた者の申立てにより、当該申立人に対し、これにより当該暫定保全措置命令を受けた者が受けた損害の賠償を命ずることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当事者間に別段の合意がある場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による命令は、仲裁判断としての効力を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十九条の規定は第八項の規定による命令について、同条第一項及び第三項の規定は暫定保全措置命令その他のこの条の規定による命令（第八項の規定による命令を除く。）又は決定について、それぞれ準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1064,7 +1173,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件は、第五条第一項の規定にかかわらず、次に掲げる裁判所の管轄に専属する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件は、第五条第一項及び第二項の規定にかかわらず、次に掲げる裁判所の管轄に専属する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1082,6 +1191,12 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">申立人又は被申立人の普通裁判籍の所在地を管轄する地方裁判所（前二号に掲げる裁判所がない場合に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">東京地方裁判所及び大阪地方裁判所</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1442,35 +1557,29 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の申立てに係る事件がその管轄に属する場合においても、相当と認めるときは、申立てにより又は職権で、当該事件の全部又は一部を他の管轄裁判所に移送することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件についての第五条第四項又は第五項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件についての第五条第三項又は前項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、口頭弁論又は当事者双方が立ち会うことができる審尋の期日を経なければ、第一項の申立てについての決定をすることができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所は、口頭弁論又は当事者双方が立ち会うことができる審尋の期日を経なければ、第一項の申立てについての決定をすることができない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の申立てがあった場合において、同項各号に掲げる事由のいずれかがあると認めるとき（同項第一号から第六号までに掲げる事由にあっては、申立人が当該事由の存在を証明した場合に限る。）は、仲裁判断を取り消すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の申立てがあった場合において、同項各号に掲げる事由のいずれかがあると認めるとき（同項第一号から第六号までに掲げる事由にあっては、申立人が当該事由の存在を証明した場合に限る。）は、仲裁判断を取り消すことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第五号に掲げる事由がある場合において、当該仲裁判断から同号に規定する事項に関する部分を区分することができるときは、裁判所は、仲裁判断のうち当該部分のみを取り消すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項第五号に掲げる事由がある場合において、当該仲裁判断から同号に規定する事項に関する部分を区分することができるときは、裁判所は、仲裁判断のうち当該部分のみを取り消すことができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="8">
-            <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項の申立てについての決定に対しては、即時抗告をすることができる。</Sentence>
             </ParagraphSentence>
@@ -1478,7 +1587,7 @@
         </Article>
       </Chapter>
       <Chapter Num="8">
-        <ChapterTitle>第八章　仲裁判断の承認及び執行決定</ChapterTitle>
+        <ChapterTitle>第八章　仲裁判断の承認及び執行決定等</ChapterTitle>
         <Article Num="45">
           <ArticleCaption>（仲裁判断の承認）</ArticleCaption>
           <ArticleTitle>第四十五条</ArticleTitle>
@@ -1568,65 +1677,307 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の申立てをするときは、仲裁判断書の写し、当該写しの内容が仲裁判断書と同一であることを証明する文書及び仲裁判断書（日本語で作成されたものを除く。）の日本語による翻訳文を提出しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の申立てをするときは、仲裁判断書の写し、当該写しの内容が仲裁判断書と同一であることを証明する文書及び仲裁判断書（日本語で作成されたものを除く。以下この項において同じ。）の日本語による翻訳文を提出しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所は、相当と認めるときは、被申立人の意見を聴いて、仲裁判断書の全部又は一部について日本語による翻訳文を提出することを要しないものとすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項の申立てを受けた裁判所は、前条第二項第七号に規定する裁判機関に対して仲裁判断の取消し又はその効力の停止を求める申立てがあった場合において、必要があると認めるときは、第一項の申立てに係る手続を中止することができる。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、裁判所は、同項の申立てをした者の申立てにより、他の当事者に対し、担保を立てるべきことを命ずることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、裁判所は、同項の申立てをした者の申立てにより、被申立人に対し、担保を立てるべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件は、第五条第一項の規定にかかわらず、同項各号に掲げる裁判所及び請求の目的又は差し押さえることができる債務者の財産の所在地を管轄する地方裁判所の管轄に専属する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件は、第五条第一項及び第二項の規定にかかわらず、次に掲げる裁判所の管轄に専属する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項各号に掲げる裁判所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">請求の目的又は差し押さえることができる被申立人の財産の所在地を管轄する地方裁判所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">東京地方裁判所及び大阪地方裁判所（仲裁地、被申立人の普通裁判籍の所在地又は請求の目的若しくは差し押さえることができる被申立人の財産の所在地が日本国内にある場合に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の申立てに係る事件がその管轄に属する場合においても、相当と認めるときは、申立てにより又は職権で、当該事件の全部又は一部を他の管轄裁判所に移送することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件についての第五条第四項又は第五項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件についての第五条第三項又は前項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、次項又は第八項の規定により第一項の申立てを却下する場合を除き、執行決定をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所は、次項又は第九項の規定により第一項の申立てを却下する場合を除き、執行決定をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の申立てがあった場合において、前条第二項各号に掲げる事由のいずれかがあると認める場合（同項第一号から第七号までに掲げる事由にあっては、被申立人が当該事由の存在を証明した場合に限る。）に限り、当該申立てを却下することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の申立てがあった場合において、前条第二項各号に掲げる事由のいずれかがあると認める場合（同項第一号から第七号までに掲げる事由にあっては、被申立人が当該事由の存在を証明した場合に限る。）に限り、当該申立てを却下することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、同条第二項第五号に掲げる事由がある場合における前項の規定の適用について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、同条第二項第五号に掲げる事由がある場合における前項の規定の適用について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四十四条第四項及び第七項の規定は、第一項の申立てについての決定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleCaption>（暫定保全措置命令の執行等認可決定）</ArticleCaption>
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">暫定保全措置命令（仲裁地が日本国内にあるかどうかを問わない。以下この章において同じ。）の申立てをした者は、当該暫定保全措置命令を受けた者を被申立人として、裁判所に対し、次の各号に掲げる区分に応じ、当該各号に定める決定（以下「執行等認可決定」という。）を求める申立てをすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">暫定保全措置命令のうち第二十四条第一項第三号に掲げる措置を講ずることを命ずるもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該暫定保全措置命令に基づく民事執行を許す旨の決定</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">暫定保全措置命令のうち第二十四条第一項第一号、第二号、第四号又は第五号に掲げる措置を講ずることを命ずるもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該暫定保全措置命令に違反し、又は違反するおそれがあると認めるときに第四十九条第一項の規定による金銭の支払命令を発することを許す旨の決定</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の申立てをするときは、暫定保全措置命令の命令書の写し、当該写しの内容が暫定保全措置命令の命令書と同一であることを証明する文書及び暫定保全措置命令の命令書（日本語で作成されたものを除く。以下この項において同じ。）の日本語による翻訳文を提出しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所は、相当と認めるときは、被申立人の意見を聴いて、暫定保全措置命令の命令書の全部又は一部について日本語による翻訳文を提出することを要しないものとすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てを受けた裁判所は、仲裁廷又は裁判機関（仲裁地が属する国の法令（当該暫定保全措置命令に適用された法令が仲裁地が属する国以外の国の法令である場合にあっては、当該法令）により当該国の裁判機関がその権限を有する場合に限る。）に対して暫定保全措置命令の取消し、変更又はその効力の停止を求める申立てがあったことを知った場合において、必要があると認めるときは、同項の申立てに係る手続を中止することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、裁判所は、同項の申立てをした者の申立てにより、被申立人に対し、担保を立てるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件は、第五条第一項及び第二項の規定にかかわらず、次に掲げる裁判所の管轄に専属する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項各号に掲げる裁判所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">請求の目的又は差し押さえることができる被申立人の財産の所在地を管轄する地方裁判所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">東京地方裁判所及び大阪地方裁判所（仲裁地、被申立人の普通裁判籍の所在地又は請求の目的若しくは差し押さえることができる被申立人の財産の所在地が日本国内にある場合に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件についての第五条第四項又は第五項の規定による決定に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、次項又は第八項の規定により第一項の申立てを却下する場合を除き、執行等認可決定をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の申立てがあった場合において、次の各号に掲げる事由のいずれかがあると認めるとき（第一号から第八号までに掲げる事由にあっては、被申立人が当該事由の存在を証明した場合に限る。）に限り、当該申立てを却下することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">仲裁合意が、当事者の行為能力の制限により、その効力を有しないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">仲裁合意が、当事者が合意により仲裁合意に適用すべきものとして指定した法令（当該指定がないときは、仲裁地が属する国の法令）によれば、当事者の行為能力の制限以外の事由により、その効力を有しないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当事者が、仲裁人の選任手続又は仲裁手続（暫定保全措置命令に関する部分に限る。次号及び第六号において同じ。）において、仲裁地が属する国の法令の規定（その法令の公の秩序に関しない規定に関する事項について当事者間に合意があるときは、当該合意）により必要とされる通知を受けなかったこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当事者が、仲裁手続において防御することが不可能であったこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">暫定保全措置命令が、仲裁合意若しくは暫定保全措置命令に関する別段の合意又は暫定保全措置命令の申立ての範囲を超える事項について発せられたものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">仲裁廷の構成又は仲裁手続が、仲裁地が属する国の法令の規定（その法令の公の秩序に関しない規定に関する事項について当事者間に合意があるときは、当該合意）に違反するものであったこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">仲裁廷が暫定保全措置命令の申立てをした者に対して相当な担保を提供すべきことを命じた場合において、その者が当該命令に違反し、相当な担保を提供していないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">暫定保全措置命令が、仲裁廷又は第三項に規定する裁判機関により、取り消され、変更され、又はその効力を停止されたこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">仲裁手続における申立てが、日本の法令によれば、仲裁合意の対象とすることができない紛争に関するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">暫定保全措置命令の内容が、日本における公の秩序又は善良の風俗に反すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第五号に掲げる事由がある場合において、当該暫定保全措置命令から同号に規定する事項に関する部分を区分することができるときは、当該部分及び当該暫定保全措置命令のその他の部分をそれぞれ独立した暫定保全措置命令とみなして、同項の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">執行等認可決定は、確定しなければその効力を生じない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四十四条第五項及び第八項の規定は、第一項の申立てについての決定について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四十四条第四項及び第七項の規定は、第一項の申立てについての決定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleCaption>（暫定保全措置命令に基づく民事執行）</ArticleCaption>
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">暫定保全措置命令（第二十四条第一項第三号に掲げる措置を講ずることを命ずるものに限る。）は、前条の規定による執行等認可決定がある場合に限り、当該暫定保全措置命令に基づく民事執行をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleCaption>（暫定保全措置命令に係る違反金支払命令）</ArticleCaption>
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、暫定保全措置命令（第二十四条第一項第一号、第二号、第四号又は第五号に掲げる措置を講ずることを命ずるものに限る。以下この条において同じ。）について確定した執行等認可決定がある場合において、当該暫定保全措置命令を受けた者（以下この条において「被申立人」という。）がこれに違反し、又は違反するおそれがあると認めるときは、当該暫定保全措置命令の申立てをした者（第六項において「申立人」という。）の申立てにより、当該暫定保全措置命令の違反によって害されることとなる利益の内容及び性質並びにこれが害される態様及び程度を勘案して相当と認める一定の額の金銭の支払（被申立人が暫定保全措置命令に違反するおそれがあると認める場合にあっては、被申立人が当該暫定保全措置命令に違反したことを条件とする金銭の支払）を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前項の規定にかかわらず、同項の規定による金銭の支払命令（以下この条において「違反金支払命令」という。）を、執行等認可決定と同時にすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、違反金支払命令は、執行等認可決定が確定するまでは、確定しないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申立てに係る事件は、第五条第一項及び第二項の規定にかかわらず、執行等認可決定をした裁判所及び第四十七条第一項の申立て（同項第二号に係るものに限る。次項において同じ。）に係る事件が係属する裁判所の管轄に専属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第二項前段の規定に基づき、違反金支払命令を執行等認可決定と同時にした場合において、執行等認可決定を取り消す裁判が確定したとき又は第四十七条第一項の申立てが取り下げられたときは、職権で、違反金支払命令を取り消さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">違反金支払命令は、確定しなければその効力を生じない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">違反金支払命令により命じられた金銭の支払があった場合において、暫定保全措置命令の違反により生じた損害の額が支払額を超えるときは、申立人は、その超える額について損害賠償の請求をすることを妨げられない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">違反金支払命令が発せられた後に、仲裁廷又は第四十七条第三項に規定する裁判機関により、暫定保全措置命令が取り消され、変更され、又はその効力を停止されたときは、違反金支払命令を発した裁判所は、被申立人の申立てにより、違反金支払命令を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四十七条第三項の規定は第一項の申立てについて、第四十四条第四項及び第七項の規定は第一項及び前項の申立てについての決定について、それぞれ準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
       </Chapter>
       <Chapter Num="9">
         <ChapterTitle>第九章　雑則</ChapterTitle>
-        <Article Num="47">
+        <Article Num="50">
           <ArticleCaption>（仲裁人の報酬）</ArticleCaption>
-          <ArticleTitle>第四十七条</ArticleTitle>
+          <ArticleTitle>第五十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1641,9 +1992,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="48">
+        <Article Num="51">
           <ArticleCaption>（仲裁費用の予納）</ArticleCaption>
-          <ArticleTitle>第四十八条</ArticleTitle>
+          <ArticleTitle>第五十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1657,9 +2008,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="49">
+        <Article Num="52">
           <ArticleCaption>（仲裁費用の分担）</ArticleCaption>
-          <ArticleTitle>第四十九条</ArticleTitle>
+          <ArticleTitle>第五十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1694,9 +2045,9 @@
       </Chapter>
       <Chapter Num="10">
         <ChapterTitle>第十章　罰則</ChapterTitle>
-        <Article Num="50">
+        <Article Num="53">
           <ArticleCaption>（収賄、受託収賄及び事前収賄）</ArticleCaption>
-          <ArticleTitle>第五十条</ArticleTitle>
+          <ArticleTitle>第五十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1711,9 +2062,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="51">
+        <Article Num="54">
           <ArticleCaption>（第三者供賄）</ArticleCaption>
-          <ArticleTitle>第五十一条</ArticleTitle>
+          <ArticleTitle>第五十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1721,9 +2072,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="52">
+        <Article Num="55">
           <ArticleCaption>（加重収賄及び事後収賄）</ArticleCaption>
-          <ArticleTitle>第五十二条</ArticleTitle>
+          <ArticleTitle>第五十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1743,9 +2094,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="53">
+        <Article Num="56">
           <ArticleCaption>（没収及び追徴）</ArticleCaption>
-          <ArticleTitle>第五十三条</ArticleTitle>
+          <ArticleTitle>第五十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1754,23 +2105,23 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="54">
+        <Article Num="57">
           <ArticleCaption>（贈賄）</ArticleCaption>
-          <ArticleTitle>第五十四条</ArticleTitle>
+          <ArticleTitle>第五十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第五十条から第五十二条までに規定する賄賂を供与し、又はその申込み若しくは約束をした者は、三年以下の拘禁刑又は二百五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第五十三条から第五十五条までに規定する賄賂を供与し、又はその申込み若しくは約束をした者は、三年以下の拘禁刑又は二百五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="55">
+        <Article Num="58">
           <ArticleCaption>（国外犯）</ArticleCaption>
-          <ArticleTitle>第五十五条</ArticleTitle>
+          <ArticleTitle>第五十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第五十条から第五十三条までの規定は、日本国外において第五十条から第五十二条までの罪を犯した者にも適用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第五十三条から第五十六条までの規定は、日本国外において第五十三条から第五十五条までの罪を犯した者にも適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2041,6 +2392,73 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年四月二八日法律第一五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（仲裁手続に関して裁判所が行う手続に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後の仲裁法（以下「新法」という。）第五条第二項の規定は、この法律の施行の日（以下「施行日」という。）以後にされた仲裁手続に関して裁判所が行う手続に係る申立てについて適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第五条第五項の規定は、施行日以後にされた仲裁手続に関して裁判所が行う手続の申立てに係る事件について適用し、施行日前にされた仲裁手続に関して裁判所が行う手続の申立てに係る事件については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第八条第二項（第二号に係る部分に限る。）、第三十五条第三項（第四号に係る部分に限る。）及び第四十六条第四項（第三号に係る部分に限る。）の規定は、施行日以後にされた仲裁手続に関して裁判所が行う手続の申立てに係る事件について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第四十六条第二項ただし書の規定は、施行日以後にされた仲裁判断の執行決定を求める申立てについて適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第四十七条から第四十九条までの規定は、施行日以後に開始された仲裁手続において発せられた暫定保全措置命令について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（仲裁合意の方式に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第十三条第六項の規定は、施行日以後に書面によらないでされた契約について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（暫定保全措置命令に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第二十四条の規定は、施行日以後に開始する仲裁手続について適用し、施行日前に開始した仲裁手続については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
