@@ -6616,6 +6616,12 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">貨物を輸入しようとする者の住所又は居所及び氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="1_2">
+                <ItemTitle>一の二</ItemTitle>
+                <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">貨物の記号、番号、品名、数量及び価格（特例輸入者の特例申告貨物にあつては、貨物の品名、数量及び価格）</Sentence>
                 </ItemSentence>
               </Item>
@@ -6647,7 +6653,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">法第四条第一項第二号（課税物件の確定の時期）に係る同項ただし書の規定の適用を受ける貨物（以下この項において「保税製品」という。）を輸入しようとする者は、当該保税製品に使用した原料である外国貨物の品名並びに当該外国貨物の課税標準に相当する数量及び価格を前項の輸入申告書に併せて記載するとともに、当該外国貨物に係る法第六十一条の四において準用する法第四十三条の三第一項（外国貨物を置くことの承認）又は法第六十二条の十（外国貨物を置くこと等の承認）の規定による税関長の承認を証する書類を税関に提示しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法第四条第一項第二号（課税物件の確定の時期）に係る同項ただし書の規定の適用を受ける貨物（以下この項において「保税製品」という。）を輸入しようとする者は、当該保税製品に使用した原料である外国貨物の品名並びに当該外国貨物の課税標準に相当する数量及び価格を前項の輸入申告書に併せて記載するとともに、当該外国貨物に係る法第六十一条の四（保税蔵置場についての規定の準用）において読み替えて準用する法第四十三条の三第一項（外国貨物を置くことの承認）又は法第六十二条の十（外国貨物を置くこと等の承認）の規定による税関長の承認を証する書類を税関に提示しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該保税製品が特例申告貨物である場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -6658,19 +6664,19 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十八条第一号又は前条第一項第一号に掲げる貨物の数量は、財務大臣が貨物の種類ごとに定める単位による当該貨物の正味の数量とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十八条第一号又は前条第一項第一号の二に掲げる貨物の数量は、財務大臣が貨物の種類ごとに定める単位による当該貨物の正味の数量とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十八条第一号に掲げる貨物の価格は、当該貨物の本邦の輸出港における本船甲板渡し価格（航空機によつて輸出される貨物については、これに準ずる条件による価格とし、無償で輸出される貨物については、当該貨物が有償で輸出されるものとした場合のこれらの価格とする。）とし、前条第一項第一号及び第二項に掲げる貨物（特例申告貨物を除く。）の価格は、当該貨物の定率法第四条から第四条の九まで（課税価格の計算方法）の規定により計算される課税価格に相当する価格とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十八条第一号に掲げる貨物の価格は、当該貨物の本邦の輸出港における本船甲板渡し価格（航空機によつて輸出される貨物については、これに準ずる条件による価格とし、無償で輸出される貨物については、当該貨物が有償で輸出されるものとした場合のこれらの価格とする。）とし、前条第一項第一号の二に掲げる貨物の価格（当該貨物が特例申告貨物である場合を除く。）及び同条第二項に規定する保税製品（特例申告貨物を除く。）の原料として使用された外国貨物の課税標準に相当する価格は、これらの貨物の定率法第四条から第四条の九まで（課税価格の計算方法）の規定により計算される課税価格に相当する価格とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項第一号に掲げる貨物（特例申告貨物に限る。）が無償で輸入される場合における当該貨物の価格は、当該貨物につき定率法第四条から第四条の九までの規定に準じて算出した価格とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項第一号の二に掲げる貨物の価格（当該貨物が特例申告貨物であつて、無償で輸入される場合に限る。）は、当該貨物につき定率法第四条から第四条の九までの規定に準じて算出した価格とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -13694,6 +13700,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一二日政令第一七九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、令和五年十月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第五十九条第一項中第五号を第八号とし、第四号の次に三号を加える改正規定は、令和七年十月十二日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
