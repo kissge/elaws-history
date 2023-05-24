@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="134" Year="37" PromulgateMonth="05" PromulgateDay="15" ScheduledEnforcementDate="2026/05/24"><LawNum>昭和三十七年法律第百三十四号</LawNum><LawBody><LawTitle Kana="ふとうけいひんるいおよびふとうひょうじぼうしほう" Abbrev="景表法,景品表示法" AbbrevKana="け,け">不当景品類及び不当表示防止法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="134" Year="37" PromulgateMonth="05" PromulgateDay="15"><LawNum>昭和三十七年法律第百三十四号</LawNum><LawBody><LawTitle Kana="ふとうけいひんるいおよびふとうひょうじぼうしほう" Abbrev="景表法,景品表示法" AbbrevKana="け,け">不当景品類及び不当表示防止法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -18,32 +18,36 @@
         </TOCSection>
         <TOCSection Num="3">
           <SectionTitle>第三節　課徴金</SectionTitle>
-          <ArticleRange>（第八条―第二十五条）</ArticleRange>
+          <ArticleRange>（第八条―第二十一条）</ArticleRange>
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　景品類の提供及び表示の管理上の措置</SectionTitle>
-          <ArticleRange>（第二十六条―第二十八条）</ArticleRange>
+          <ArticleRange>（第二十二条―第二十四条）</ArticleRange>
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　報告の徴収及び立入検査等</SectionTitle>
-          <ArticleRange>（第二十九条）</ArticleRange>
+          <ArticleRange>（第二十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="6">
+          <SectionTitle>第六節　是正措置計画の認定等</SectionTitle>
+          <ArticleRange>（第二十六条―第三十三条）</ArticleRange>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Num="3">
-        <ChapterTitle>第三章　適格消費者団体の差止請求権等</ChapterTitle>
-        <ArticleRange>（第三十条）</ArticleRange>
+        <ChapterTitle>第三章　適格消費者団体の差止請求等</ChapterTitle>
+        <ArticleRange>（第三十四条・第三十五条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　協定又は規約</ChapterTitle>
-        <ArticleRange>（第三十一条・第三十二条）</ArticleRange>
+        <ArticleRange>（第三十六条・第三十七条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="5">
         <ChapterTitle>第五章　雑則</ChapterTitle>
-        <ArticleRange>（第三十三条―第三十五条）</ArticleRange>
+        <ArticleRange>（第三十八条―第四十五条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="6">
         <ChapterTitle>第六章　罰則</ChapterTitle>
-        <ArticleRange>（第三十六条―第四十一条）</ArticleRange>
+        <ArticleRange>（第四十六条―第五十二条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -68,14 +72,14 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律で「事業者」とは、商業、工業、金融業その他の事業を行う者をいい、当該事業を行う者の利益のためにする行為を行う役員、従業員、代理人その他の者は、次項及び第三十一条の規定の適用については、これを当該事業者とみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律で「事業者」とは、商業、工業、金融業その他の事業を行う者をいい、当該事業を行う者の利益のためにする行為を行う役員、従業員、代理人その他の者は、次項及び第三十六条の規定の適用については、これを当該事業者とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">この法律で「事業者団体」とは、事業者としての共通の利益を増進することを主たる目的とする二以上の事業者の結合体又はその連合体をいい、次に掲げる形態のものを含む。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、二以上の事業者の結合体又はその連合体であつて、資本又は構成事業者（事業者団体の構成員である事業者をいう。第四十条において同じ。）の出資を有し、営利を目的として商業、工業、金融業その他の事業を営むことを主たる目的とし、かつ、現にその事業を営んでいるものを含まないものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、二以上の事業者の結合体又はその連合体であつて、資本又は構成事業者（事業者団体の構成員である事業者をいう。第五十一条において同じ。）の出資を有し、営利を目的として商業、工業、金融業その他の事業を営むことを主たる目的とし、かつ、現にその事業を営んでいるものを含まないものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -223,8 +227,14 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による命令に関し、事業者がした表示が第五条第一号に該当するか否かを判断するため必要があると認めるときは、当該表示をした事業者に対し、期間を定めて、当該表示の裏付けとなる合理的な根拠を示す資料の提出を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による命令（以下「措置命令」という。）に関し、事業者がした表示が第五条第一号に該当するか否かを判断するため必要があると認めるときは、当該表示をした事業者に対し、期間を定めて、当該表示の裏付けとなる合理的な根拠を示す資料の提出を求めることができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、当該事業者が当該資料を提出しないときは、同項の規定の適用については、当該表示は同号に該当する表示とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">措置命令は、措置命令書の謄本を送達して行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -266,6 +276,42 @@
                 <Sentence Num="2" WritingMode="vertical">この場合において、当該事業者が当該資料を提出しないときは、同項の規定の適用については、当該表示は同号に該当する表示と推定する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により課徴金の納付を命ずる場合において、当該事業者が当該課徴金対象行為に係る課徴金の計算の基礎となるべき事実について第二十五条第一項の規定による報告を求められたにもかかわらずその報告をしないときは、内閣総理大臣は、当該事業者に係る課徴金対象期間のうち当該事実の報告がされず課徴金の計算の基礎となるべき事実を把握することができない期間における第一項に定める売上額を、当該事業者又は当該課徴金対象行為に係る商品若しくは役務を供給する他の事業者若しくは当該商品若しくは役務の供給を受ける他の事業者から入手した資料その他の資料を用いて、内閣府令で定める合理的な方法により推計して、課徴金の納付を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">事業者が、基準日から遡り十年以内に、課徴金納付命令（当該課徴金納付命令が確定している場合に限る。）を受けたことがあり、かつ、当該課徴金納付命令の日以後において課徴金対象行為をしていた者であるときにおける第一項の規定の適用については、同項中「百分の三」とあるのは、「百分の四・五」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する「基準日」とは、同項に規定する課徴金対象行為に係る事案について、次に掲げる行為が行われた日のうち最も早い日をいう。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">報告徴収等（第二十五条第一項の規定による報告の徴収、帳簿書類その他の物件の提出の命令、立入検査又は質問をいう。第十二条第四項において同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三項の規定による資料の提出の求め</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十五条第一項の規定による通知</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
           </Article>
           <Article Num="9">
             <ArticleCaption>（課徴金対象行為に該当する事実の報告による課徴金の額の減額）</ArticleCaption>
@@ -273,7 +319,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">前条第一項の場合において、内閣総理大臣は、当該事業者が課徴金対象行為に該当する事実を内閣府令で定めるところにより内閣総理大臣に報告したときは、同項の規定により計算した課徴金の額に百分の五十を乗じて得た額を当該課徴金の額から減額するものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前条第一項（同条第五項の規定により読み替えて適用する場合を含む。以下この節において同じ。）の場合において、内閣総理大臣は、当該事業者が課徴金対象行為に該当する事実を内閣府令で定めるところにより内閣総理大臣に報告したときは、同条第一項の規定により計算した課徴金の額に百分の五十を乗じて得た額を当該課徴金の額から減額するものとする。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その報告が、当該課徴金対象行為についての調査があつたことにより当該課徴金対象行為について課徴金納付命令があるべきことを予知してされたものであるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -284,7 +330,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十五条第一項の規定による通知を受けた者は、第八条第二項に規定する課徴金対象期間において当該商品又は役務の取引を行つた一般消費者であつて政令で定めるところにより特定されているものからの申出があつた場合に、当該申出をした一般消費者の取引に係る商品又は役務の政令で定める方法により算定した購入額に百分の三を乗じて得た額以上の金銭を交付する措置（以下この条及び次条において「返金措置」という。）を実施しようとするときは、内閣府令で定めるところにより、その実施しようとする返金措置（以下この条において「実施予定返金措置」という。）に関する計画（以下この条において「実施予定返金措置計画」という。）を作成し、これを第十五条第一項に規定する弁明書の提出期限までに内閣総理大臣に提出して、その認定を受けることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第一項の規定による通知を受けた者は、第八条第二項に規定する課徴金対象期間において当該商品又は役務の取引を行つた一般消費者であつて政令で定めるところにより特定されているものからの申出があつた場合に、当該申出をした一般消費者の取引に係る商品又は役務の政令で定める方法により算定した購入額に百分の三を乗じて得た額以上の金銭（資金決済に関する法律（平成二十一年法律第五十九号）第三条第七項に規定する第三者型発行者が発行する同条第一項第一号の前払式支払手段その他内閣府令で定めるものであつて、金銭と同様に通常使用することができるものとして内閣府令で定める基準に適合するもの（以下この項において「金銭以外の支払手段」という。）を含む。以下この条及び次条第二項において同じ。）を交付する措置（金銭以外の支払手段を交付する措置にあつては、当該金銭以外の支払手段の交付を承諾した者に対し行うものに限る。以下この条及び次条において「返金措置」という。）を実施しようとするときは、内閣府令で定めるところにより、その実施しようとする返金措置（以下この条において「実施予定返金措置」という。）に関する計画（以下この条において「実施予定返金措置計画」という。）を作成し、これを第十五条第一項に規定する弁明書の提出期限までに内閣総理大臣に提出して、その認定を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -390,7 +436,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第八条第一項の場合において、前項の規定による報告に基づき、前条第一項の認定後に実施された返金措置が認定実施予定返金措置計画に適合して実施されたと認めるときは、当該返金措置（当該認定実施予定返金措置計画に同条第三項に規定する事項が記載されている場合又は同条第四項の規定による報告がされている場合にあつては、当該記載又は報告に係る返金措置を含む。）において交付された金銭の額として内閣府令で定めるところにより計算した額を第八条第一項又は第九条の規定により計算した課徴金の額から減額するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第八条第一項の場合において、前項の規定による報告に基づき、前条第一項の認定後に実施された返金措置が認定実施予定返金措置計画に適合して実施されたと認めるときは、当該返金措置（当該認定実施予定返金措置計画に同条第三項に規定する事項が記載されている場合又は同条第四項の規定による報告がされている場合にあつては、当該記載又は報告に係る返金措置を含む。）において交付された金銭の額として内閣府令で定めるところにより計算した額を第八条第一項若しくは第四項又は第九条の規定により計算した課徴金の額から減額するものとする。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、当該内閣府令で定めるところにより計算した額を当該課徴金の額から減額した額が零を下回るときは、当該額は、零とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -408,13 +454,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">課徴金納付命令を受けた者は、第八条第一項、第九条又は前条第二項の規定により計算した課徴金を納付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">課徴金納付命令を受けた者は、第八条第一項若しくは第四項、第九条又は前条第二項の規定により計算した課徴金を納付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第八条第一項、第九条又は前条第二項の規定により計算した課徴金の額に一万円未満の端数があるときは、その端数は、切り捨てる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八条第一項若しくは第四項、第九条又は前条第二項の規定により計算した課徴金の額に一万円未満の端数があるときは、その端数は、切り捨てる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -426,7 +472,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">課徴金対象行為をした事業者が法人である場合において、当該法人が当該課徴金対象行為に係る事案について報告徴収等（第二十九条第一項の規定による報告の徴収、帳簿書類その他の物件の提出の命令、立入検査又は質問をいう。以下この項において同じ。）が最初に行われた日（当該報告徴収等が行われなかつたときは、当該法人が当該課徴金対象行為について第十五条第一項の規定による通知を受けた日。以下この項において「調査開始日」という。）以後においてその一若しくは二以上の子会社等（事業者の子会社若しくは親会社（会社を子会社とする他の会社をいう。以下この項において同じ。）又は当該事業者と親会社が同一である他の会社をいう。以下この項において同じ。）に対して当該課徴金対象行為に係る事業の全部を譲渡し、又は当該法人（会社に限る。）が当該課徴金対象行為に係る事案についての調査開始日以後においてその一若しくは二以上の子会社等に対して分割により当該課徴金対象行為に係る事業の全部を承継させ、かつ、合併以外の事由により消滅したときは、当該法人がした課徴金対象行為は、当該事業の全部若しくは一部を譲り受け、又は分割により当該事業の全部若しくは一部を承継した子会社等（以下この項において「特定事業承継子会社等」という。）がした課徴金対象行為とみなして、第八条から前条まで及び前三項の規定を適用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">課徴金対象行為をした事業者が法人である場合において、当該法人が当該課徴金対象行為に係る事案について報告徴収等が最初に行われた日（当該報告徴収等が行われなかつたときは、当該法人が当該課徴金対象行為について第十五条第一項の規定による通知を受けた日。以下この項において「調査開始日」という。）以後においてその一若しくは二以上の子会社等（事業者の子会社若しくは親会社（会社を子会社とする他の会社をいう。以下この項において同じ。）又は当該事業者と親会社が同一である他の会社をいう。以下この項において同じ。）に対して当該課徴金対象行為に係る事業の全部を譲渡し、又は当該法人（会社に限る。）が当該課徴金対象行為に係る事案についての調査開始日以後においてその一若しくは二以上の子会社等に対して分割により当該課徴金対象行為に係る事業の全部を承継させ、かつ、合併以外の事由により消滅したときは、当該法人がした課徴金対象行為は、当該事業の全部若しくは一部を譲り受け、又は分割により当該事業の全部若しくは一部を承継した子会社等（以下この項において「特定事業承継子会社等」という。）がした課徴金対象行為とみなして、第八条から前条まで及び前三項の規定を適用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、当該特定事業承継子会社等が二以上あるときは、第八条第一項中「当該事業者に対し」とあるのは「特定事業承継子会社等（第十二条第四項に規定する特定事業承継子会社等をいう。以下この項において同じ。）に対し、この項の規定による命令を受けた他の特定事業承継子会社等と連帯して」と、第一項中「受けた者は、第八条第一項」とあるのは「受けた特定事業承継子会社等（第四項に規定する特定事業承継子会社等をいう。以下この項において同じ。）は、第八条第一項の規定による命令を受けた他の特定事業承継子会社等と連帯して、同項」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -440,7 +486,7 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三項及び第四項の場合において、第八条第二項及び第三項並びに第九条から前条までの規定の適用に関し必要な事項は、政令で定める。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三項及び第四項の場合において、第八条第二項から第六項まで及び第九条から前条までの規定の適用に関し必要な事項は、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
@@ -506,8 +552,8 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、課徴金納付命令の名宛人となるべき者の所在が判明しない場合においては、前項の規定による通知を、その者の氏名（法人にあつては、その名称及び代表者の氏名）、同項第三号に掲げる事項及び内閣総理大臣が同項各号に掲げる事項を記載した書面をいつでもその者に交付する旨を消費者庁の事務所の掲示場に掲示することによつて行うことができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合においては、掲示を始めた日から二週間を経過したときに、当該通知がその者に到達したものとみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、課徴金納付命令の名宛人となるべき者の所在が判明しない場合においては、前項の規定による通知を、その者の氏名（法人にあつては、その名称及び代表者の氏名）、同項第三号に掲げる事項及び内閣総理大臣が同項各号に掲げる事項を記載した書面をいつでもその者に交付する旨（以下この項において「公示事項」という。）を内閣府令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、公示事項が記載された書面を消費者庁の掲示場に掲示し、又は公示事項を消費者庁の事務所に設置した電子計算機の映像面に表示したものを閲覧することができる状態に置く措置をとることによつて行うことができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、当該措置をとつた日から二週間を経過したときに、当該通知がその者に到達したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -618,85 +664,8 @@
             </Paragraph>
           </Article>
           <Article Num="21">
-            <ArticleCaption>（送達書類）</ArticleCaption>
-            <ArticleTitle>第二十一条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">送達すべき書類は、この節に規定するもののほか、内閣府令で定める。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="22">
-            <ArticleCaption>（送達に関する民事訴訟法の準用）</ArticleCaption>
-            <ArticleTitle>第二十二条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">書類の送達については、民事訴訟法（平成八年法律第百九号）第百条第一項、第百一条、第百二条の二、第百三条、第百五条、第百六条及び第百八条の規定を準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同項中「裁判所」とあり、及び同条中「裁判長」とあるのは「内閣総理大臣」と、同法第百一条第一項中「執行官」とあるのは「消費者庁の職員」と読み替えるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="23">
-            <ArticleCaption>（公示送達）</ArticleCaption>
-            <ArticleTitle>第二十三条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げる場合には、公示送達をすることができる。</Sentence>
-              </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">送達を受けるべき者の住所、居所その他送達をすべき場所が知れない場合</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">外国においてすべき送達について、前条において準用する民事訴訟法第百八条の規定によることができず、又はこれによつても送達をすることができないと認めるべき場合</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条において準用する民事訴訟法第百八条の規定により外国の管轄官庁に嘱託を発した後六月を経過してもその送達を証する書面の送付がない場合</Sentence>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">公示送達は、送達すべき書類を送達を受けるべき者にいつでも交付すべき旨を消費者庁の事務所の掲示場に掲示することにより行う。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">公示送達は、前項の規定による掲示を始めた日から二週間を経過することによつて、その効力を生ずる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">外国においてすべき送達についてした公示送達にあつては、前項の期間は、六週間とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="24">
-            <ArticleCaption>（電子情報処理組織の使用）</ArticleCaption>
-            <ArticleTitle>第二十四条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">消費者庁の職員が、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第九号に規定する処分通知等であつてこの節又は内閣府令の規定により書類の送達により行うこととしているものに関する事務を、同法第七条第一項の規定により同法第六条第一項に規定する電子情報処理組織を使用して行つたときは、第二十二条において準用する民事訴訟法第百条第一項の規定による送達に関する事項を記載した書面の作成及び提出に代えて、当該事項を当該電子情報処理組織を使用して消費者庁の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="25">
             <ArticleCaption>（行政手続法の適用除外）</ArticleCaption>
-            <ArticleTitle>第二十五条</ArticleTitle>
+            <ArticleTitle>第二十一条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -708,9 +677,9 @@
         </Section>
         <Section Num="4">
           <SectionTitle>第四節　景品類の提供及び表示の管理上の措置</SectionTitle>
-          <Article Num="26">
+          <Article Num="22">
             <ArticleCaption>（事業者が講ずべき景品類の提供及び表示の管理上の措置）</ArticleCaption>
-            <ArticleTitle>第二十六条</ArticleTitle>
+            <ArticleTitle>第二十二条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -742,9 +711,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="27">
+          <Article Num="23">
             <ArticleCaption>（指導及び助言）</ArticleCaption>
-            <ArticleTitle>第二十七条</ArticleTitle>
+            <ArticleTitle>第二十三条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -752,13 +721,13 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="28">
+          <Article Num="24">
             <ArticleCaption>（勧告及び公表）</ArticleCaption>
-            <ArticleTitle>第二十八条</ArticleTitle>
+            <ArticleTitle>第二十四条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、事業者が正当な理由がなくて第二十六条第一項の規定に基づき事業者が講ずべき措置を講じていないと認めるときは、当該事業者に対し、景品類の提供又は表示の管理上必要な措置を講ずべき旨の勧告をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、事業者が正当な理由がなくて第二十二条第一項の規定に基づき事業者が講ずべき措置を講じていないと認めるときは、当該事業者に対し、景品類の提供又は表示の管理上必要な措置を講ずべき旨の勧告をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -771,12 +740,12 @@
         </Section>
         <Section Num="5">
           <SectionTitle>第五節　報告の徴収及び立入検査等</SectionTitle>
-          <Article Num="29">
-            <ArticleTitle>第二十九条</ArticleTitle>
+          <Article Num="25">
+            <ArticleTitle>第二十五条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第七条第一項の規定による命令、課徴金納付命令又は前条第一項の規定による勧告を行うため必要があると認めるときは、当該事業者若しくはその者とその事業に関して関係のある事業者に対し、その業務若しくは財産に関して報告をさせ、若しくは帳簿書類その他の物件の提出を命じ、又はその職員に、当該事業者若しくはその者とその事業に関して関係のある事業者の事務所、事業所その他その事業を行う場所に立ち入り、帳簿書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、この法律を施行するため必要があると認めるときは、当該事業者若しくはその者とその事業に関して関係のある事業者に対し、その業務若しくは財産に関して報告をさせ、若しくは帳簿書類その他の物件の提出を命じ、又はその職員に、当該事業者若しくはその者とその事業に関して関係のある事業者の事務所、事業所その他その事業を行う場所に立ち入り、帳簿書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -793,15 +762,377 @@
             </Paragraph>
           </Article>
         </Section>
+        <Section Num="6">
+          <SectionTitle>第六節　是正措置計画の認定等</SectionTitle>
+          <Article Num="26">
+            <ArticleCaption>（継続中の違反被疑行為に係る通知）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第四条の規定による制限若しくは禁止又は第五条の規定に違反する行為があると疑うに足りる事実がある場合において、その疑いの理由となつた行為について、一般消費者による自主的かつ合理的な商品及び役務の選択を確保する上で必要があると認めるときは、当該疑いの理由となつた行為をしている者に対し、次に掲げる事項を書面により通知することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、措置命令に係る行政手続法第三十条の規定による通知又は第十五条第一項の規定による通知をした後は、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該疑いの理由となつた行為の概要</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">違反する疑いのある法令の条項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次条第一項の規定による認定の申請をすることができる旨</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（是正措置計画に係る認定の申請等）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の規定による通知を受けた者は、疑いの理由となつた行為及びその影響を是正するために必要な措置を自ら策定し、実施しようとするときは、内閣府令で定めるところにより、その実施しようとする措置（以下この条及び第二十九条第一項第一号において「是正措置」という。）に関する計画（以下この条及び同号において「是正措置計画」という。）を作成し、これを当該通知を受けた日から六十日以内に内閣総理大臣に提出して、その認定を申請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">是正措置計画には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">是正措置の内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">是正措置の実施期限</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による認定の申請があつた場合において、その是正措置計画が次の各号のいずれにも適合すると認めるときは、その認定をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">是正措置が疑いの理由となつた行為及びその影響を是正するために十分なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">是正措置が確実に実施されると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の認定は、文書によつて行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項の認定は、その名宛人に認定書の謄本を送達することによつて、その効力を生ずる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による認定の申請があつた場合において、その是正措置計画が第三項各号のいずれかに適合しないと認めるときは、これを却下しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四項及び第五項の規定は、前項の規定による処分について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第五項中「認定書」とあるのは、「不認定書」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項の認定を受けた者は、当該認定に係る是正措置計画を変更しようとするときは、内閣府令で定めるところにより、内閣総理大臣の認定を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項から第七項までの規定は、前項の変更の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（是正措置計画に係る認定の効果）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第七条第一項及び第八条第一項の規定は、内閣総理大臣が前条第三項の認定（同条第八項の変更の認定を含む。次条において同じ。）をした場合における当該認定に係る疑いの理由となつた行為については、適用しない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条第一項の規定による当該認定の取消しがあつた場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（是正措置計画に係る認定の取消し等）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次の各号のいずれかに該当するときは、第二十七条第三項の認定を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十七条第三項の認定を受けた是正措置計画に従つて是正措置が実施されていないと認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十七条第三項の認定を受けた者が虚偽又は不正の事実に基づいて当該認定を受けたことが判明したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第四項及び第五項の規定は、前項の規定による同条第三項の認定の取消しについて準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第五項中「認定書」とあるのは、「取消書」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による第二十七条第三項の認定の取消しがあつた場合において、当該取消しが第十二条第七項に規定する期間の満了する日の二年前の日以後にあつたときは、当該認定に係る疑いの理由となつた行為に対する課徴金納付命令は、同項の規定にかかわらず、当該取消しの日から二年間においても、することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleCaption>（既往の違反被疑行為に係る通知）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第四条の規定による制限若しくは禁止又は第五条の規定に違反する行為があると疑うに足りる事実が既になくなつている場合においても、その疑いの理由となつた行為について、一般消費者による自主的かつ合理的な商品及び役務の選択を確保する上で必要があると認めるときは、第一号に掲げる者に対し、第二号に掲げる事項を書面により通知することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、措置命令に係る行政手続法第三十条の規定による通知又は第十五条第一項の規定による通知をした後は、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる者</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該疑いの理由となつた行為をした者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該疑いの理由となつた行為をした者が法人である場合において、当該法人が合併により消滅したときにおける合併後存続し、又は合併により設立された法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該疑いの理由となつた行為をした者が法人である場合において、当該法人から分割により当該疑いの理由となつた行為に係る事業の全部又は一部を承継した法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該疑いの理由となつた行為をした者から当該疑いの理由となつた行為に係る事業の全部又は一部を譲り受けた者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該疑いの理由となつた行為の概要</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">違反する疑いのあつた法令の条項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次条第一項の規定による認定の申請をすることができる旨</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（影響是正措置計画に係る認定の申請等）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の規定による通知を受けた者は、疑いの理由となつた行為による影響を是正するために必要な措置を自ら策定し、実施しようとするときは、内閣府令で定めるところにより、その実施しようとする措置（以下この条及び第三十三条第一項第一号において「影響是正措置」という。）に関する計画（以下この条及び同号において「影響是正措置計画」という。）を作成し、これを当該通知を受けた日から六十日以内に内閣総理大臣に提出して、その認定を申請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">影響是正措置計画には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">影響是正措置の内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">影響是正措置の実施期限</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による認定の申請があつた場合において、その影響是正措置計画が次の各号のいずれにも適合すると認めるときは、その認定をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">影響是正措置が疑いの理由となつた行為による影響を是正するために十分なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">影響是正措置が確実に実施されると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第四項及び第五項の規定は、前項の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による認定の申請があつた場合において、その影響是正措置計画が第三項各号のいずれかに適合しないと認めるときは、これを却下しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第四項及び第五項の規定は、前項の規定による処分について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第五項中「認定書」とあるのは、「不認定書」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項の認定を受けた者は、当該認定に係る影響是正措置計画を変更しようとするときは、内閣府令で定めるところにより、内閣総理大臣の認定を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項から第六項までの規定は、前項の変更の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（影響是正措置計画に係る認定の効果）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第七条第一項及び第八条第一項の規定は、内閣総理大臣が前条第三項の認定（同条第七項の変更の認定を含む。次条において同じ。）をした場合における当該認定に係る疑いの理由となつた行為については、適用しない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条第一項の規定による当該認定の取消しがあつた場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（影響是正措置計画に係る認定の取消し等）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次の各号のいずれかに該当するときは、第三十一条第三項の認定を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十一条第三項の認定を受けた影響是正措置計画に従つて影響是正措置が実施されていないと認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十一条第三項の認定を受けた者が虚偽又は不正の事実に基づいて当該認定を受けたことが判明したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第四項及び第五項の規定は、前項の規定による第三十一条第三項の認定の取消しについて準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第二十七条第五項中「認定書」とあるのは、「取消書」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による第三十一条第三項の認定の取消しがあつた場合において、当該取消しが第十二条第七項に規定する期間の満了する日の二年前の日以後にあつたときは、当該認定に係る疑いの理由となつた行為に対する課徴金納付命令は、同項の規定にかかわらず、当該取消しの日から二年間においても、することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
       </Chapter>
       <Chapter Num="3">
-        <ChapterTitle>第三章　適格消費者団体の差止請求権等</ChapterTitle>
-        <Article Num="30">
-          <ArticleTitle>第三十条</ArticleTitle>
+        <ChapterTitle>第三章　適格消費者団体の差止請求等</ChapterTitle>
+        <Article Num="34">
+          <ArticleCaption>（差止請求権等）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">消費者契約法（平成十二年法律第六十一号）第二条第四項に規定する適格消費者団体（以下この条及び第四十一条において単に「適格消費者団体」という。）は、事業者が、不特定かつ多数の一般消費者に対して次の各号に掲げる行為を現に行い又は行うおそれがあるときは、当該事業者に対し、当該行為の停止若しくは予防又は当該行為が当該各号に規定する表示をしたものである旨の周知その他の当該行為の停止若しくは予防に必要な措置をとることを請求することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">消費者契約法（平成十二年法律第六十一号）第二条第四項に規定する適格消費者団体（以下「適格消費者団体」という。）は、事業者が、不特定かつ多数の一般消費者に対して次の各号に掲げる行為を現に行い又は行うおそれがあるときは、当該事業者に対し、当該行為の停止若しくは予防又は当該行為が当該各号に規定する表示をしたものである旨の周知その他の当該行為の停止若しくは予防に必要な措置をとることを請求することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -829,12 +1160,28 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="35">
+          <ArticleCaption>（資料開示要請等）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">適格消費者団体は、事業者が現にする表示が前条第一項第一号に規定する表示に該当すると疑うに足りる相当な理由があるときは、内閣府令で定めるところにより、当該事業者に対し、その理由を示して、当該事業者のする表示の裏付けとなる合理的な根拠を示す資料を開示するよう要請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、前項の資料に営業秘密（不正競争防止法（平成五年法律第四十七号）第二条第六項に規定する営業秘密をいう。）が含まれる場合その他の正当な理由がある場合を除き、前項の規定による要請に応じるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
       </Chapter>
       <Chapter Num="4">
         <ChapterTitle>第四章　協定又は規約</ChapterTitle>
-        <Article Num="31">
+        <Article Num="36">
           <ArticleCaption>（協定又は規約）</ArticleCaption>
-          <ArticleTitle>第三十一条</ArticleTitle>
+          <ArticleTitle>第三十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -891,9 +1238,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="32">
+        <Article Num="37">
           <ArticleCaption>（協議）</ArticleCaption>
-          <ArticleTitle>第三十二条</ArticleTitle>
+          <ArticleTitle>第三十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -904,9 +1251,9 @@
       </Chapter>
       <Chapter Num="5">
         <ChapterTitle>第五章　雑則</ChapterTitle>
-        <Article Num="33">
+        <Article Num="38">
           <ArticleCaption>（権限の委任等）</ArticleCaption>
-          <ArticleTitle>第三十三条</ArticleTitle>
+          <ArticleTitle>第三十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -922,7 +1269,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">消費者庁長官は、緊急かつ重点的に不当な景品類及び表示に対処する必要があることその他の政令で定める事情があるため、事業者に対し、第七条第一項の規定による命令、課徴金納付命令又は第二十八条第一項の規定による勧告を効果的に行う上で必要があると認めるときは、政令で定めるところにより、第一項の規定により委任された権限（第二十九条第一項の規定による権限に限る。）を当該事業者の事業を所管する大臣又は金融庁長官に委任することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">消費者庁長官は、緊急かつ重点的に不当な景品類及び表示に対処する必要があることその他の政令で定める事情があるため、事業者に対し、措置命令、課徴金納付命令又は第二十四条第一項の規定による勧告を効果的に行う上で必要があると認めるときは、政令で定めるところにより、第一項の規定により委任された権限（第二十五条第一項の規定による権限に限る。）を当該事業者の事業を所管する大臣又は金融庁長官に委任することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -974,9 +1321,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="34">
+        <Article Num="39">
           <ArticleCaption>（内閣府令への委任等）</ArticleCaption>
-          <ArticleTitle>第三十四条</ArticleTitle>
+          <ArticleTitle>第三十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -986,13 +1333,13 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十二条の規定は、内閣総理大臣が前項に規定する内閣府令（第三十一条第一項の協定又は規約について定めるものに限る。）を定めようとする場合について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十七条の規定は、内閣総理大臣が前項に規定する内閣府令（第三十六条第一項の協定又は規約について定めるものに限る。）を定めようとする場合について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="35">
+        <Article Num="40">
           <ArticleCaption>（関係者相互の連携）</ArticleCaption>
-          <ArticleTitle>第三十五条</ArticleTitle>
+          <ArticleTitle>第四十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1000,15 +1347,144 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-      </Chapter>
-      <Chapter Num="6">
-        <ChapterTitle>第六章　罰則</ChapterTitle>
-        <Article Num="36">
-          <ArticleTitle>第三十六条</ArticleTitle>
+        <Article Num="41">
+          <ArticleCaption>（外国執行当局への情報提供）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七条第一項の規定による命令に違反した者は、二年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、この法律に相当する外国の法令を執行する外国の当局（次項及び第三項において「外国執行当局」という。）に対し、その職務（この法律に規定する職務に相当するものに限る。次項において同じ。）の遂行に資すると認める情報の提供を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による情報の提供については、当該情報が当該外国執行当局の職務の遂行以外に使用されず、かつ、次項の同意がなければ外国の刑事事件の捜査（その対象たる犯罪事実が特定された後のものに限る。）又は審判（同項において「捜査等」という。）に使用されないよう適切な措置がとられなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、外国執行当局からの要請があつたときは、次の各号のいずれかに該当する場合を除き、第一項の規定により提供した情報を当該要請に係る外国（第三号において「要請国」という。）の刑事事件の捜査等に使用することについて同意をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該要請に係る刑事事件の捜査等の対象とされている犯罪が政治犯罪であるとき、又は当該要請が政治犯罪について捜査等を行う目的で行われたものと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該要請に係る刑事事件の捜査等の対象とされている犯罪に係る行為が日本国内において行われたとした場合において、その行為が日本国の法令によれば罪に当たるものでないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">日本国が行う同種の要請に応ずる旨の要請国の保証がないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の同意をする場合においては、あらかじめ、同項第一号及び第二号に該当しないことについて法務大臣の確認を、同項第三号に該当しないことについて外務大臣の確認を、それぞれ受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（送達書類）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">送達すべき書類は、この法律に規定するもののほか、内閣府令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleCaption>（送達に関する民事訴訟法の準用）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">書類の送達については、民事訴訟法（平成八年法律第百九号）第百条第一項、第百一条、第百二条の二、第百三条、第百五条、第百六条、第百七条第一項（第一号に係る部分に限る。次条第一項第二号において同じ。）及び第三項並びに第百八条の規定を準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第百条第一項中「裁判所」とあり、及び同法第百八条中「裁判長」とあるのは「内閣総理大臣」と、同法第百一条第一項中「執行官」とあり、及び同法第百七条第一項中「裁判所書記官」とあるのは「消費者庁の職員」と、同項中「最高裁判所規則」とあるのは「内閣府令」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleCaption>（公示送達）</ArticleCaption>
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げる場合には、公示送達をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">送達を受けるべき者の住所、居所その他送達をすべき場所が知れない場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条において読み替えて準用する民事訴訟法第百七条第一項の規定により送達をすることができない場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外国においてすべき送達について、前条において読み替えて準用する民事訴訟法第百八条の規定によることができず、又はこれによつても送達をすることができないと認めるべき場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条において読み替えて準用する民事訴訟法第百八条の規定により外国の管轄官庁に嘱託を発した後六月を経過してもその送達を証する書面の送付がない場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、送達すべき書類を送達を受けるべき者にいつでも交付すべき旨を内閣府令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を消費者庁の掲示場に掲示し、又はその旨を消費者庁の事務所に設置した電子計算機の映像面に表示したものを閲覧することができる状態に置く措置をとることにより行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、前項の規定による措置をとつた日から二週間を経過することによつて、その効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外国においてすべき送達についてした公示送達にあつては、前項の期間は、六週間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleCaption>（電子情報処理組織の使用）</ArticleCaption>
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">消費者庁の職員が、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第九号に規定する処分通知等であつてこの法律又は内閣府令の規定により書類を送達して行うこととしているものに関する事務を、情報通信技術を活用した行政の推進等に関する法律第七条第一項の規定により同法第六条第一項に規定する電子情報処理組織を使用して行つたときは、第四十三条において読み替えて準用する民事訴訟法第百条第一項の規定による送達に関する事項を記載した書面の作成及び提出に代えて、当該事項を当該電子情報処理組織を使用して消費者庁の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="46">
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">措置命令に違反したときは、当該違反行為をした者は、二年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1018,17 +1494,38 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="37">
-          <ArticleTitle>第三十七条</ArticleTitle>
+        <Article Num="47">
+          <ArticleTitle>第四十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十九条第一項の規定による報告若しくは物件の提出をせず、若しくは虚偽の報告若しくは虚偽の物件の提出をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をした者は、一年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二十五条第一項の規定による報告若しくは物件の提出をせず、若しくは虚偽の報告若しくは虚偽の物件の提出をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたときは、当該違反行為をした者は、一年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="38">
-          <ArticleTitle>第三十八条</ArticleTitle>
+        <Article Num="48">
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自己の供給する商品又は役務の取引における当該商品又は役務の品質、規格その他の内容について、実際のもの又は当該事業者と同種若しくは類似の商品若しくは役務を供給している他の事業者に係るものよりも著しく優良であると一般消費者を誤認させるような表示をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自己の供給する商品又は役務の取引における当該商品又は役務の価格その他の取引条件について、実際のもの又は当該事業者と同種若しくは類似の商品若しくは役務を供給している他の事業者に係るものよりも取引の相手方に著しく有利であると一般消費者を誤認させるような表示をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleTitle>第四十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1038,7 +1535,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第三十六条第一項</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十六条第一項</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">三億円以下の罰金刑</Sentence>
@@ -1049,10 +1546,10 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">前条</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前二条</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">同条の罰金刑</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">各本条の罰金刑</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1060,30 +1557,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法人でない団体の代表者、管理人、代理人、使用人その他の従業者がその団体の業務又は財産に関して、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その団体に対しても、当該各号に定める罰金刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法人でない団体の代表者、管理人、代理人、使用人その他の従業者がその団体の業務又は財産に関して、前項各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その団体に対しても、当該各号に定める罰金刑を科する。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第三十六条第一項</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">三億円以下の罰金刑</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">前条</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">同条の罰金刑</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
@@ -1092,21 +1567,21 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39">
-          <ArticleTitle>第三十九条</ArticleTitle>
+        <Article Num="50">
+          <ArticleTitle>第五十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十六条第一項の違反があつた場合においては、その違反の計画を知り、その防止に必要な措置を講ぜず、又はその違反行為を知り、その是正に必要な措置を講じなかつた当該法人（当該法人で事業者団体に該当するものを除く。）の代表者に対しても、同項の罰金刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四十六条第一項の違反があつた場合においては、その違反の計画を知り、その防止に必要な措置を講ぜず、又はその違反行為を知り、その是正に必要な措置を講じなかつた当該法人（当該法人で事業者団体に該当するものを除く。）の代表者に対しても、同項の罰金刑を科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="40">
-          <ArticleTitle>第四十条</ArticleTitle>
+        <Article Num="51">
+          <ArticleTitle>第五十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十六条第一項の違反があつた場合においては、その違反の計画を知り、その防止に必要な措置を講ぜず、又はその違反行為を知り、その是正に必要な措置を講じなかつた当該事業者団体の理事その他の役員若しくは管理人又はその構成事業者（事業者の利益のためにする行為を行う役員、従業員、代理人その他の者が構成事業者である場合には、当該事業者を含む。）に対しても、それぞれ同項の罰金刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四十六条第一項の違反があつた場合においては、その違反の計画を知り、その防止に必要な措置を講ぜず、又はその違反行為を知り、その是正に必要な措置を講じなかつた当該事業者団体の理事その他の役員若しくは管理人又はその構成事業者（事業者の利益のためにする行為を行う役員、従業員、代理人その他の者が構成事業者である場合には、当該事業者を含む。）に対しても、それぞれ同項の罰金刑を科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1116,12 +1591,12 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="41">
-          <ArticleTitle>第四十一条</ArticleTitle>
+        <Article Num="52">
+          <ArticleTitle>第五十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十条第三項の規定に違反して、情報を同項に定める目的以外の目的のために利用し、又は提供した適格消費者団体は、三十万円以下の過料に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十四条第三項の規定に違反して、情報を同項に定める目的以外の目的のために利用し、又は提供した適格消費者団体は、三十万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1809,6 +2284,91 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一七日法律第二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十五条第二項の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後の不当景品類及び不当表示防止法（次条において「新法」という。）第八条第四項から第六項までの規定は、不当景品類及び不当表示防止法第八条第一項に規定する課徴金対象行為（以下この条において「課徴金対象行為」という。）であって、この法律の施行の日（以下この条及び附則第八条において「施行日」という。）前に開始し施行日以後もやめていないもの及び施行日以後に開始するものについての課徴金の額（施行日前に開始し施行日以後もやめていない課徴金対象行為にあっては、施行日以後の課徴金対象行為に対応する部分に限る。）の算定について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第二号に掲げる規定の施行の日の前日までの間における新法第四十四条第二項及び第三項の規定の適用については、同条第二項中「内閣府令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を消費者庁の掲示場に掲示し、又はその旨を消費者庁の事務所に設置した電子計算機の映像面に表示したものを閲覧することができる状態に置く措置をとる」とあるのは「消費者庁の掲示場に掲示する」と、同条第三項中「措置をとつた」とあるのは「掲示を始めた」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日が刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）の施行の日前である場合には、同法第百三十八条第二号中「第三十六条及び第三十七条」とあるのは、「第四十六条及び第四十七条」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

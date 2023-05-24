@@ -100,7 +100,7 @@
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　日本人の出国及び帰国</ChapterTitle>
-        <ArticleRange>（第六十条・第六十一条）</ArticleRange>
+        <ArticleRange>（第六十条―第六十一条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="7_2">
         <ChapterTitle>第七章の二　難民の認定等</ChapterTitle>
@@ -3228,6 +3228,17 @@
                   </Column>
                 </ItemSentence>
               </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第六十三条の二第一項に規定する出国制限対象者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">同項の出国制限対象者条件指定書</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -3238,7 +3249,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前二項の外国人は、入国審査官、入国警備官、警察官、海上保安官その他法務省令で定める国又は地方公共団体の職員が、その職務の執行に当たり、これらの規定に規定する旅券、乗員手帳、特定登録者カード、許可書又は在留カード（以下この条において「旅券等」という。）の提示を求めたときは、これを提示しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の外国人は、入国審査官、入国警備官、警察官、海上保安官その他法務省令で定める国又は地方公共団体の職員が、その職務の執行に当たり、これらの規定に規定する旅券、乗員手帳、特定登録者カード、許可書、出国制限対象者条件指定書又は在留カード（以下この条において「旅券等」という。）の提示を求めたときは、これを提示しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -3656,17 +3667,23 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">死刑若しくは無期若しくは長期三年以上の拘禁刑に当たる罪につき訴追されている者又はこれらの罪を犯した疑いにより逮捕状、勾引状、勾留状若しくは鑑定留置状が発せられている者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">出国の制限（刑事訴訟法（昭和二十三年法律第百三十一号）第三百四十二条の二（同法第四百四条（同法第四百十四条において準用する場合を含む。以下この号において同じ。）において準用する場合を含む。以下この号において同じ。）の規定又は同法第三百四十五条の二（同法第四百四条において準用する場合を含む。以下この号において同じ。）若しくは第四百九十四条の三の規定による決定により、裁判所の許可を受けなければ本邦から出国してはならないとされていることをいう。以下同じ。）を受けている者（裁判所の許可（同法第三百四十二条の二の規定により出国の制限を受けている者については同条の許可、同法第三百四十五条の二の規定による決定により出国の制限を受けている者については同条の許可、同法第四百九十四条の三の規定による決定により出国の制限を受けている者については同条の許可をいう。第六十条の二第一項第一号において同じ。）を受けている者を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、その刑の全部につき執行猶予の言渡しを受けなかつた者で、刑の執行を終わるまで、又は執行を受けることがなくなるまでのもの（当該刑につき仮釈放中の者及びその一部の執行猶予の言渡しを受けて執行猶予中の者を除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">死刑若しくは無期若しくは長期三年以上の拘禁刑に当たる罪につき訴追されている者（当該訴追に係る刑につき出国の制限を受けている者を除く。）又はこれらの罪を犯した疑いにより逮捕状、勾引状、勾留状若しくは鑑定留置状が発せられている者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、その刑の全部につき執行猶予の言渡しを受けなかつた者で、刑の執行を終わるまで、又は執行を受けることがなくなるまでのもの（当該刑につき、出国の制限を受けている者、仮釈放中の者及びその一部の執行猶予の言渡しを受けて執行猶予中の者を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法（昭和二十八年法律第六十八号）の規定により仮拘禁許可状又は拘禁許可状が発せられている者</Sentence>
                 </ItemSentence>
@@ -4765,13 +4782,53 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">本邦外の地域に赴く意図をもつて出国する日本人（乗員を除く。）は、有効な旅券を所持し、その者が出国する出入国港において、法務省令で定める手続により、入国審査官から出国の確認を受けなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本邦外の地域に赴く意図をもつて出国する日本人（乗員を除く。次条第一項において同じ。）は、有効な旅券を所持し、その者が出国する出入国港において、法務省令で定める手続により、入国審査官から出国の確認を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の日本人は、出国の確認を受けなければ出国してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="60_2">
+          <ArticleCaption>（日本人の出国確認の留保）</ArticleCaption>
+          <ArticleTitle>第六十条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">入国審査官は、日本人が本邦外の地域に赴く意図をもつて出国しようとする場合において、関係機関から当該日本人が次の各号のいずれかに該当する者である旨の通知を受けているときは、前条の出国の確認を受けるための手続がされた時から二十四時間を限り、その者について出国の確認を留保することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">出国の制限を受けている者（裁判所の許可を受けている者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">死刑若しくは無期若しくは長期三年以上の拘禁刑に当たる罪につき訴追されている者（当該訴追に係る刑につき出国の制限を受けている者を除く。）又はこれらの罪を犯した疑いにより逮捕状、勾引状、勾留状若しくは鑑定留置状が発せられている者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、その刑の全部につき執行猶予の言渡しを受けなかつた者で、刑の執行を終わるまで、又は執行を受けることがなくなるまでのもの（当該刑につき、出国の制限を受けている者、仮釈放中の者及びその一部の執行猶予の言渡しを受けて執行猶予中の者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法の規定により仮拘禁許可状又は拘禁許可状が発せられている者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">入国審査官は、前項の規定により出国の確認を留保したときは、直ちに同項の通知をした機関にその旨を通報しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5527,6 +5584,12 @@
                 <Sentence Num="1" WritingMode="vertical">第五十五条の三第一項の規定による出国命令をすること。</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二第一項の規定により同項に規定する出国制限対象者に条件を付すこと及び同項の出国制限対象者条件指定書を交付すること。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
@@ -5993,7 +6056,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第十九条の十第一項の規定による届出、第十九条の十一第一項若しくは第二項、第十九条の十二第一項若しくは第十九条の十三第一項若しくは第三項の規定による申請又は第十九条の十第二項（第十九条の十一第三項、第十九条の十二第二項及び第十九条の十三第四項において準用する場合を含む。）の規定により交付される在留カードの受領</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の十第一項の規定による届出、第十九条の十一第一項若しくは第二項、第十九条の十二第一項若しくは第十九条の十三第一項若しくは第三項の規定による申請、第十九条の十第二項（第十九条の十一第三項、第十九条の十二第二項及び第十九条の十三第四項において準用する場合を含む。）の規定により交付される在留カードの受領又は第六十三条の二第二項の規定による届出</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">地方出入国在留管理局</Sentence>
@@ -6170,7 +6233,35 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出国の制限を受けている外国人に係る退去強制令書は、当該出国の制限を受けている間は、その執行を停止するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">入国審査官は、第四十五条又は第五十五条の二第二項の審査に当たつて、容疑者が罪を犯したと信ずるに足りる相当の理由があるときは、検察官に告発するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="63_2">
+          <ArticleCaption>（出国制限対象者）</ArticleCaption>
+          <ArticleTitle>第六十三条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主任審査官は、前条第三項の規定により退去強制令書の執行を停止される外国人（刑事訴訟法の規定により身体を拘束されていない者に限る。以下この条において「出国制限対象者」という。）に対し、法務省令で定めるところにより、住居及び行動範囲の制限、呼出しに対する出頭の義務その他必要と認める条件を付すとともに、出国制限対象者条件指定書（当該条件その他法務省令で規定する事項を記載した書面をいう。）を交付するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出国制限対象者は、法務省令で定めるところにより、生活状況、前項の規定により付された条件の遵守状況その他法務省令で定める事項を主任審査官に対して届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出国制限対象者に対する第七十条の規定の適用については、出国の制限を受けている間は、出国制限対象者は、同条第一項第三号から第三号の三まで、第五号及び第七号から第八号の四までに規定する残留する者又は出国しない者に該当しないものとみなし、その者のその間の在留は、同条第二項に規定する不法に在留することに該当しないものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6196,7 +6287,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">司法警察員は、第七十条の罪に係る被疑者を逮捕し、若しくは受け取り、又はこれらの罪に係る現行犯人を受け取つた場合には、収容令書が発付され、且つ、その者が他に罪を犯した嫌疑のないときに限り、刑事訴訟法（昭和二十三年法律第百三十一号）第二百三条（同法第二百十一条及び第二百十六条の規定により準用する場合を含む。）の規定にかかわらず、書類及び証拠物とともに、当該被疑者を入国警備官に引き渡すことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">司法警察員は、第七十条の罪に係る被疑者を逮捕し、若しくは受け取り、又はこれらの罪に係る現行犯人を受け取つた場合には、収容令書が発付され、且つ、その者が他に罪を犯した嫌疑のないときに限り、刑事訴訟法第二百三条（同法第二百十一条及び第二百十六条の規定により準用する場合を含む。）の規定にかかわらず、書類及び証拠物とともに、当該被疑者を入国警備官に引き渡すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -6434,6 +6525,12 @@
                 <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により難民の認定を受けた者</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二第一項に規定する出国制限対象者で、収入を伴う事業を運営する活動又は報酬を受ける活動を行つたもの</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -6555,6 +6652,12 @@
                 <Sentence Num="1" WritingMode="vertical">第十九条の十第一項、第十九条の十五（第四項を除く。）又は第十九条の十六の規定に違反した者</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二第二項の規定による届出をせず、又は虚偽の届出をした者</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="72">
@@ -6567,49 +6670,49 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">収容令書又は退去強制令書によつて身柄を拘束されている者で逃走したもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">船舶観光上陸の許可を受けた者で、当該許可に係る指定旅客船が寄港する本邦の出入国港において下船した後当該出入国港から当該指定旅客船が出港するまでの間に帰船することなく逃亡したもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">船舶観光上陸の許可を受けた者で、当該許可に係る指定旅客船が寄港する本邦の出入国港において下船した後当該出入国港から当該指定旅客船が出港するまでの間に帰船することなく逃亡したもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一時<Ruby>庇<Rt>ひ</Rt></Ruby>護のための上陸の許可を受けた者で、第十八条の二第四項の規定に基づき付された条件に違反して逃亡したもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">一時<Ruby>庇<Rt>ひ</Rt></Ruby>護のための上陸の許可を受けた者で、第十八条の二第四項の規定に基づき付された条件に違反して逃亡したもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十二条第六項の規定により放免された者で、同項の規定に基づき付された条件に違反して、逃亡し、又は正当な理由がなくて呼出しに応じないもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十二条第六項の規定により放免された者で、同項の規定に基づき付された条件に違反して、逃亡し、又は正当な理由がなくて呼出しに応じないもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十五条の三第一項の規定により出国命令を受けた者で、同条第三項の規定に基づき付された条件に違反して逃亡したもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十五条の三第一項の規定により出国命令を受けた者で、同条第三項の規定に基づき付された条件に違反して逃亡したもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十一条の二の四第一項の許可を受けた者で、同条第三項の規定に基づき付された条件に違反して、逃亡し、又は正当な理由がなくて呼出しに応じないもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十一条の二の四第一項の許可を受けた者で、同条第三項の規定に基づき付された条件に違反して、逃亡し、又は正当な理由がなくて呼出しに応じないもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十一条の二の七第三項又は第六十一条の二の十三の規定に違反して難民認定証明書又は難民旅行証明書を返納しなかつた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十一条の二の七第三項又は第六十一条の二の十三の規定に違反して難民認定証明書又は難民旅行証明書を返納しなかつた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十一条の二の十二第八項の規定により難民旅行証明書の返納を命ぜられた者で、同項の規定により付された期限内にこれを返納しなかつたもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十一条の二の十二第八項の規定により難民旅行証明書の返納を命ぜられた者で、同項の規定により付された期限内にこれを返納しなかつたもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二第一項の規定に基づき付された条件に違反して、逃亡し、又は正当な理由がなくて呼出しに応じない者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6996,7 +7099,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十三条第三項の規定に違反して旅券、乗員手帳、特定登録者カード又は許可書の提示を拒んだ者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第三項の規定に違反して旅券、乗員手帳、特定登録者カード、許可書又は出国制限対象者条件指定書の提示を拒んだ者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -9946,6 +10049,91 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中刑事訴訟法第三百四十四条に一項を加える改正規定、第二条中刑法第九十七条及び第九十八条の改正規定並びに第三条中出入国管理及び難民認定法第七十二条の改正規定（第一号を削り、第二号を第一号とし、第三号から第八号までを一号ずつ繰り上げる部分に限る。第六号において「第七十二条第一号を削る改正規定」という。）並びに附則第五条第一項及び第二項、第八条第四項並びに第二十条の規定、附則第二十四条中国際受刑者移送法（平成十四年法律第六十六号）第四十二条の改正規定、附則第二十七条中刑事収容施設及び被収容者等の処遇に関する法律（平成十七年法律第五十号）第二百九十三条の改正規定、附則第二十八条第二項、第三十条及び第三十一条の規定、附則第三十二条中少年鑑別所法（平成二十六年法律第五十九号）第百三十二条の改正規定、附則第三十五条のうち、刑法等の一部を改正する法律（令和四年法律第六十七号。以下「刑法等一部改正法」という。）第三条中刑事訴訟法第三百四十四条の改正規定の改正規定及び刑法等一部改正法第十一条中少年鑑別所法第百三十二条の改正規定を削る改正規定並びに附則第三十六条及び第四十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3:5">
+            <ItemTitle>三から五まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中刑事訴訟法第三百四十二条の次に七条を加える改正規定、同法第三百四十五条の次に三条を加える改正規定、同法第四百三条の二の次に二条を加える改正規定、同法第四百六十九条に一項を加える改正規定、同法第四百七十九条の次に一条を加える改正規定、同法第四百八十三条の次に一条を加える改正規定、同法第四百八十五条の次に一条を加える改正規定、同法第四百九十二条の次に一条を加える改正規定及び同法第四百九十四条の次に十三条を加える改正規定並びに第三条（第七十二条第一号を削る改正規定を除く。）の規定並びに附則第六条第一項及び第二項、第七条第二項、第八条第三項並びに第十一条第一項及び第二項の規定、附則第十三条中刑事補償法第一条第二項の改正規定、附則第十八条の規定、附則第二十四条中国際受刑者移送法第二十一条の改正規定（「第四百八十四条」を「第四百八十四条から第四百八十五条まで、第四百八十六条」に改める部分に限る。）、附則第二十六条中裁判員の参加する刑事裁判に関する法律第八十三条第三項の改正規定、附則第二十七条中刑事収容施設及び被収容者等の処遇に関する法律第百七十二条第二号の改正規定、附則第二十九条の規定、附則第三十二条中少年鑑別所法第百二十五条第三号の改正規定並びに附則第三十七条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律第四百七十九条の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第五条第三項、第六条第三項、第八条第五項から第七項まで、第十条第二項並びに第十一条第三項及び第四項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">刑法等一部改正法の施行の日（以下「刑法等一部改正法施行日」という。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（出入国管理及び難民認定法の一部改正に伴う調整規定等）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第六号施行日が刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行の日前である場合には、同法第二十一条のうち出入国管理及び難民認定法第二十五条の二第一項の改正規定中「第二十五条の二第一項第一号」とあるのは「第二十五条の二第一項第二号」と、「同項第二号」とあるのは「同項第三号」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第六号施行日が刑法等一部改正法施行日前である場合には、第六号施行日から刑法等一部改正法施行日の前日までの間における第三条の規定による改正後の出入国管理及び難民認定法（次項及び第四項において「新入管法」という。）第六十条の二第一項第二号及び第三号の規定の適用については、同項第二号中「拘禁刑」とあるのは「懲役若しくは禁錮」と、同項第三号中「拘禁刑」とあるのは「禁錮」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
