@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="006" Year="33" PromulgateMonth="03" PromulgateDay="10" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和三十三年法律第六号</LawNum><LawBody><LawTitle Kana="じゅうほうとうけんるいしょじとうとりしまりほう" Abbrev="銃刀法" AbbrevKana="じ">銃砲刀剣類所持等取締法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="006" Year="33" PromulgateMonth="03" PromulgateDay="10"><LawNum>昭和三十三年法律第六号</LawNum><LawBody><LawTitle Kana="じゅうほうとうけんるいしょじとうとりしまりほう" Abbrev="銃刀法" AbbrevKana="じ">銃砲刀剣類所持等取締法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -976,7 +976,7 @@
             <Item Num="16">
               <ItemTitle>十六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">配偶者からの暴力の防止及び被害者の保護等に関する法律（平成十三年法律第三十一号）第十条第一項の規定（同法第二十八条の二において読み替えて準用する場合を含む。）による命令を受けた日から起算して三年を経過していない者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">配偶者からの暴力の防止及び被害者の保護等に関する法律（平成十三年法律第三十一号）第十条第一項又は第十条の二の規定（同法第二十八条の二において読み替えて準用する場合を含む。）による命令を受けた日から起算して三年を経過していない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="17">
@@ -1108,11 +1108,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県公安委員会は、第四条第一項第一号の規定による許可の申請に係る猟銃がライフル銃（銃<Ruby>腔<Rt>こう</Rt>
-                </Ruby>に<Ruby>腔<Rt>こう</Rt>
-                </Ruby>旋を有する猟銃で<Ruby>腔<Rt>こう</Rt>
-                </Ruby>旋を有する部分が銃<Ruby>腔<Rt>こう</Rt>
-                </Ruby>の長さの半分を超えるものをいう。以下同じ。）である場合には、当該ライフル銃の所持の許可を受けようとする者が次の各号のいずれかに該当する者でなければ、許可をしてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県公安委員会は、第四条第一項第一号の規定による許可の申請に係る猟銃がライフル銃（銃<Ruby>腔<Rt>こう</Rt></Ruby>に<Ruby>腔<Rt>こう</Rt></Ruby>旋を有する猟銃で<Ruby>腔<Rt>こう</Rt></Ruby>旋を有する部分が銃<Ruby>腔<Rt>こう</Rt></Ruby>の長さの半分を超えるものをいう。以下同じ。）である場合には、当該ライフル銃の所持の許可を受けようとする者が次の各号のいずれかに該当する者でなければ、許可をしてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -5683,6 +5679,41 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一九日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
