@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="023" Year="19" PromulgateMonth="03" PromulgateDay="31" ScheduledEnforcementDate="2117/12/31">
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="023" Year="19" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>平成十九年法律第二十三号</LawNum>
   <LawBody>
     <LawTitle Kana="とくべつかいけいにかんするほうりつ" Abbrev="特別会計法,特会法" AbbrevKana="と,と">特別会計に関する法律</LawTitle>
@@ -2456,23 +2456,29 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">国立研究開発法人新エネルギー・産業技術総合開発機構法（平成十四年法律第百四十五号）第十五条第一号、第四号及び第五号並びに非化石エネルギーの開発及び導入の促進に関する法律（昭和五十五年法律第七十一号）第十一条第一号の規定に基づき行う事業に係る補助</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造移行推進機構に対する出資金の出資</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">独立行政法人エネルギー・金属鉱物資源機構法第十一条第一項第七号の規定に基づき行う事業（地熱に係るものに限る。）に係る補助</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国立研究開発法人新エネルギー・産業技術総合開発機構法（平成十四年法律第百四十五号）第十五条第一号、第四号及び第五号並びに非化石エネルギーの開発及び導入の促進に関する法律（昭和五十五年法律第七十一号）第十一条第一号の規定に基づき行う事業に係る補助</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">非化石エネルギーを利用する設備の設置又はエネルギーの利用の高度化に資する設備の設置若しくは建築材料の使用を促進するための事業及び非化石エネルギーの流通の合理化又はエネルギーの利用の高度化を図るための調査に係る補助で政令で定めるもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">独立行政法人エネルギー・金属鉱物資源機構法第十一条第一項第七号の規定に基づき行う事業（地熱に係るものに限る。）に係る補助</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">非化石エネルギーを利用する設備の設置又はエネルギーの利用の高度化に資する設備の設置若しくは建築材料の使用を促進するための事業及び非化石エネルギーの流通の合理化又はエネルギーの利用の高度化を図るための調査に係る補助で政令で定めるもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">非化石エネルギーを製造し、若しくは発生させ、若しくは利用するための技術又はエネルギーの利用の高度化のための技術の開発でその円滑な実施が困難なもののために行う事業に係る補助で政令で定めるもの</Sentence>
                   </Subitem1Sentence>
@@ -2516,11 +2522,17 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">発電用施設の設置又は改造に係る補助（交付金、委託費その他の給付金の交付を含む。ニにおいて同じ。）で政令で定めるもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造移行推進機構に対する出資金の出資</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">発電用施設の設置又は改造に係る補助（交付金、委託費その他の給付金の交付を含む。ホにおいて同じ。）で政令で定めるもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">発電用施設の設置又は改造を促進するための技術の開発に係る補助で政令で定めるもの</Sentence>
                   </Subitem1Sentence>
@@ -2535,7 +2547,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前二号に掲げる措置に附帯し、又は密接に関連する措置で政令で定めるもの（第八十八条第二項第二号トにおいて「電源利用対策に係る附帯事務等に関する措置」という。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げる措置に附帯し、又は密接に関連する措置で政令で定めるもの（第八十八条第二項第二号チにおいて「電源利用対策に係る附帯事務等に関する措置」という。）</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -2553,7 +2565,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第九十一条の三第一項の規定による国債整理基金特別会計への繰入れ</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第九十一条の四第一項の規定による国債整理基金特別会計への繰入れ</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -2612,41 +2624,65 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">借入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造への円滑な移行の推進に関する法律（令和五年法律第三十二号）第二条第六項に規定する化石燃料賦課金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">証券の発行収入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造への円滑な移行の推進に関する法律第二条第六項に規定する特定事業者負担金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">国家備蓄石油の譲渡代金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造への円滑な移行の推進に関する法律第七条第一項の規定により発行する公債（以下「脱炭素成長型経済構造移行債」という。）の発行収入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">独立行政法人エネルギー・金属鉱物資源機構法第十三条第二項及び国立研究開発法人新エネルギー・産業技術総合開発機構法第十九条第三項の規定による納付金であって、この勘定に帰属するもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">借入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">燃料安定供給対策に係る附帯事務等に関する措置に基づく収入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">証券の発行収入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
                   <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">エネルギー需給構造高度化対策に係る附帯事務等に関する措置に基づく収入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一時借入金の借換えによる収入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
                   <Subitem1Title>チ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国家備蓄石油の譲渡代金</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="9">
+                  <Subitem1Title>リ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">独立行政法人エネルギー・金属鉱物資源機構法第十三条第二項、国立研究開発法人新エネルギー・産業技術総合開発機構法第十九条第三項及び脱炭素成長型経済構造への円滑な移行の推進に関する法律第六十四条第四項の規定による納付金であって、この勘定に帰属するもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="10">
+                  <Subitem1Title>ヌ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">燃料安定供給対策に係る附帯事務等に関する措置に基づく収入金</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="11">
+                  <Subitem1Title>ル</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">エネルギー需給構造高度化対策に係る附帯事務等に関する措置に基づく収入金</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="12">
+                  <Subitem1Title>ヲ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">附属雑収入</Sentence>
                   </Subitem1Sentence>
@@ -2678,7 +2714,7 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第八十五条第二項第二号ハからトまでの補助金（交付金、補給金、補償金その他の給付金を含む。この号ト及びチにおいて同じ。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十五条第二項第二号ハからトまでの補助金（交付金、補給金、補償金その他の給付金を含む。チにおいて同じ。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
@@ -2696,53 +2732,83 @@
                 <Subitem1 Num="7">
                   <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第八十五条第三項第一号ハからヘまでの補助金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十五条第三項第一号ハの出資金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
                   <Subitem1Title>チ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">燃料安定供給対策に係る附帯事務等に関する措置に要する費用</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十五条第三項第一号ニからトまでの補助金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="9">
                   <Subitem1Title>リ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">エネルギー需給構造高度化対策に係る附帯事務等に関する措置に要する費用</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第九十一条の三第一項の規定による電源開発促進勘定への繰入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="10">
                   <Subitem1Title>ヌ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">借入金の償還金及び利子</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">燃料安定供給対策に係る附帯事務等に関する措置に要する費用</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="11">
                   <Subitem1Title>ル</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">証券の償還金及び利子</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">エネルギー需給構造高度化対策に係る附帯事務等に関する措置に要する費用</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="12">
                   <Subitem1Title>ヲ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">一時借入金及び融通証券の利子</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造移行債及び当該脱炭素成長型経済構造移行債に係る借換国債（第四十六条第一項又は第四十七条第一項の規定により起債される借換国債をいい、当該借換国債につきこれらの規定により順次起債された借換国債を含む。以下この節において同じ。）の償還金及び利子</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="13">
                   <Subitem1Title>ワ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">証券及び融通証券の発行及び償還に関する諸費</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造移行債及び当該脱炭素成長型経済構造移行債に係る借換国債の発行及び償還に関する諸費</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="14">
                   <Subitem1Title>カ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">事務取扱費</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">借入金の償還金及び利子</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="15">
                   <Subitem1Title>ヨ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">証券の償還金及び利子</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="16">
+                  <Subitem1Title>タ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一時借入金及び融通証券の利子</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="17">
+                  <Subitem1Title>レ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">証券及び融通証券の発行及び償還に関する諸費</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="18">
+                  <Subitem1Title>ソ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">借り換えた一時借入金の償還金及び利子</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="19">
+                  <Subitem1Title>ツ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">事務取扱費</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="20">
+                  <Subitem1Title>ネ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">附属諸費</Sentence>
                   </Subitem1Sentence>
@@ -2768,29 +2834,35 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">周辺地域整備資金からの受入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第九十一条の三第一項の規定によるエネルギー需給勘定からの繰入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">周辺地域整備資金から生ずる収入</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">周辺地域整備資金からの受入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">一時借入金の借換えによる収入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">周辺地域整備資金から生ずる収入</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">国立研究開発法人新エネルギー・産業技術総合開発機構法第十九条第三項及び国立研究開発法人日本原子力研究開発機構法（平成十六年法律第百五十五号）第二十一条第二項の規定による納付金であって、この勘定に帰属するもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一時借入金の借換えによる収入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国立研究開発法人新エネルギー・産業技術総合開発機構法第十九条第三項、国立研究開発法人日本原子力研究開発機構法（平成十六年法律第百五十五号）第二十一条第二項及び脱炭素成長型経済構造への円滑な移行の推進に関する法律第六十四条第四項の規定による納付金であって、この勘定に帰属するもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">附属雑収入</Sentence>
                   </Subitem1Sentence>
@@ -2822,53 +2894,59 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第八十五条第五項第一号ハ及びニの補助金（交付金、委託費その他の給付金を含む。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十五条第五項第一号ハの出資金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第八十五条第五項第二号の措置に要する費用</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十五条第五項第一号ニ及びホの補助金（交付金、委託費その他の給付金を含む。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第八十五条第六項の措置に要する費用</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十五条第五項第二号の措置に要する費用</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
                   <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">電源利用対策に係る附帯事務等に関する措置に要する費用</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十五条第六項の措置に要する費用</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
                   <Subitem1Title>チ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">周辺地域整備資金への繰入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電源利用対策に係る附帯事務等に関する措置に要する費用</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="9">
                   <Subitem1Title>リ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">一時借入金の利子</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">周辺地域整備資金への繰入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="10">
                   <Subitem1Title>ヌ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">借り換えた一時借入金の償還金及び利子</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一時借入金の利子</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="11">
                   <Subitem1Title>ル</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">事務取扱費</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">借り換えた一時借入金の償還金及び利子</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="12">
                   <Subitem1Title>ヲ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">事務取扱費</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="13">
+                  <Subitem1Title>ワ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">附属諸費</Sentence>
                   </Subitem1Sentence>
@@ -2948,7 +3026,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第九十一条の三第一項の規定による国債整理基金特別会計への繰入金</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第九十一条の四第一項の規定による国債整理基金特別会計への繰入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
@@ -3012,7 +3090,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">第六条の規定にかかわらず、燃料安定供給対策及びエネルギー需給構造高度化対策に要する費用の財源に充てるため、毎会計年度、当該年度の石油石炭税の収入額の予算額及び当該年度の前年度以前の各年度の石油石炭税（所得税法等の一部を改正する法律（平成十五年法律第八号）第九条の規定による改正前の石油税法（昭和五十三年法律第二十五号）の規定による石油税を含む。）の収入額の決算額（当該年度の前年度については、予算額。以下この条及び次条において同じ。）を合算した額から当該年度の前年度以前の各年度の一般会計からエネルギー需給勘定への繰入金の決算額を合算した額を控除した額に相当する金額（以下この条において「繰入相当額」という。）を、予算で定めるところにより、一般会計から同勘定に繰り入れるものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第六条の規定にかかわらず、燃料安定供給対策及びエネルギー需給構造高度化対策に要する費用の財源に充てるため、毎会計年度、当該年度の石油石炭税の収入額の予算額及び当該年度の前年度以前の各年度の石油石炭税（所得税法等の一部を改正する法律（平成十五年法律第八号）第九条の規定による改正前の石油税法（昭和五十三年法律第二十五号）の規定による石油税を含む。）の収入額の決算額（当該年度の前年度については、予算額。以下この条及び次条において同じ。）を合算した額から当該年度の前年度以前の各年度の一般会計からエネルギー需給勘定への繰入金（脱炭素成長型経済構造への円滑な移行の推進に関する法律附則第三条第二項又は第三項の規定による一般会計からエネルギー需給勘定への繰入金を除く。以下この条において同じ。）の決算額を合算した額を控除した額に相当する金額（以下この条において「繰入相当額」という。）を、予算で定めるところにより、一般会計から同勘定に繰り入れるものとする。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該年度における燃料安定供給対策及びエネルギー需給構造高度化対策に要する費用の額と予算を作成するときにおいて第八条第一項の規定により当該年度の歳入に繰り入れるものとされる額の見込額その他の歳入の見込額（当該年度の一般会計からの繰入金を除く。）との差額に照らして繰入相当額の一部につき繰り入れる必要がないと認められる場合には、当該年度においては、当該一部の金額につき繰り入れないことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -3045,8 +3123,24 @@
             </Paragraph>
           </Article>
           <Article Num="91_3">
-            <ArticleCaption>（原子力損害賠償支援勘定から国債整理基金特別会計等への繰入れ）</ArticleCaption>
+            <ArticleCaption>（エネルギー需給勘定から電源開発促進勘定への繰入れ）</ArticleCaption>
             <ArticleTitle>第九十一条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八十五条第五項第一号及び第三号に掲げる措置に要する費用のうち脱炭素成長型経済構造への円滑な移行の推進に関する法律第七条第二項の規定により国会の議決を経た費用の財源に充てるため、予算で定める金額を限り、エネルギー需給勘定から電源開発促進勘定に繰り入れることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による繰入れが行われる年度における第九十条ただし書の規定の適用については、同条ただし書中「費用の額」とあるのは、「費用の額並びに第九十一条の三第一項の規定による電源開発促進勘定への繰入金に相当する金額」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="91_4">
+            <ArticleCaption>（原子力損害賠償支援勘定から国債整理基金特別会計等への繰入れ）</ArticleCaption>
+            <ArticleTitle>第九十一条の四</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -3124,13 +3218,39 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">原子力損害賠償支援資金は、第九十一条の三第一項の規定による国債整理基金特別会計への繰入れ（第九十四条において「国債整理基金特別会計繰入れ」という。）を円滑に実施するために要する費用を支弁するために必要がある場合には、予算で定める金額を限り、原子力損害賠償支援勘定の歳入に繰り入れることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">原子力損害賠償支援資金は、第九十一条の四第一項の規定による国債整理基金特別会計への繰入れ（第九十四条において「国債整理基金特別会計繰入れ」という。）を円滑に実施するために要する費用を支弁するために必要がある場合には、予算で定める金額を限り、原子力損害賠償支援勘定の歳入に繰り入れることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">原子力損害賠償支援資金の受払いは、財務大臣の定めるところにより、原子力損害賠償支援勘定の歳入歳出外として経理するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="92_3">
+            <ArticleCaption>（脱炭素成長型経済構造移行債の発行）</ArticleCaption>
+            <ArticleTitle>第九十二条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造への円滑な移行の推進に関する法律第七条第一項の規定によりエネルギー対策特別会計の負担において行われる脱炭素成長型経済構造移行債の発行は、エネルギー需給勘定の負担において行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="92_4">
+            <ArticleCaption>（エネルギー需給勘定から国債整理基金特別会計等への繰入れ）</ArticleCaption>
+            <ArticleTitle>第九十二条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">脱炭素成長型経済構造移行債及び当該脱炭素成長型経済構造移行債に係る借換国債の償還金（借換国債を発行した場合においては、当該借換国債の収入をもって充てられる部分を除く。）及び利子並びに発行及び償還に関する諸費の支出に必要な金額（事務取扱費の額に相当する金額を除く。）は、毎会計年度、エネルギー需給勘定から国債整理基金特別会計に繰り入れなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する事務取扱費の額に相当する金額は、毎会計年度、エネルギー需給勘定から一般会計に繰り入れなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3198,7 +3318,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十五条第四項の規定にかかわらず、電源開発促進勘定において、歳入不足のために一時借入金を償還することができない場合には、その償還することができない金額を限り、同勘定の負担において、一時借入金の借換えをすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第四項の規定にかかわらず、エネルギー需給勘定及び電源開発促進勘定において、歳入不足のために一時借入金を償還することができない場合には、その償還することができない金額を限り、これらの勘定の負担において、一時借入金の借換えをすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -6971,7 +7091,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">石油公団法及び金属鉱業事業団法の廃止等に関する法律（平成十四年法律第九十三号。以下この条及び附則第十七条において「石油公団法等廃止法」という。）附則第十条第二項（石油公団法等廃止法附則第十二条第二項において読み替えて準用する場合を含む。）の規定により附則第六十六条第二十七号の規定による廃止前の石油及びエネルギー需給構造高度化対策特別会計法（昭和四十二年法律第十二号。附則第十八条において「旧石油特別会計法」という。）に基づく石油及びエネルギー需給構造高度化対策特別会計（附則第十七条において「旧石油特別会計」という。）において承継した債務であって、附則第二百五十一条第三項の規定によりエネルギー需給勘定に帰属するものの償還に関する政府の経理を同勘定で行う場合における第十六条、第十七条並びに第八十八条第一項第二号ル及びワの規定の適用については、第十六条中「並びに融通証券の発行及び償還」とあるのは「、融通証券の発行及び償還並びに石油公団法及び金属鉱業事業団法の廃止等に関する法律（平成十四年法律第九十三号）附則第十条第二項（同法附則第十二条第二項において読み替えて準用する場合を含む。）の規定により附則第六十六条第二十七号の規定による廃止前の石油及びエネルギー需給構造高度化対策特別会計法（昭和四十二年法律第十二号）に基づく石油及びエネルギー需給構造高度化対策特別会計において承継した債務であって、附則第二百五十一条第三項の規定によりエネルギー需給勘定に帰属するもの（以下「承継債務」という。）の償還」と、第十七条第一項中「借入金の」とあるのは「借入金及び承継債務の」と、「及び償還」とあるのは「及び償還並びに承継債務の償還」と、同号ル中「証券」とあるのは「証券及び承継債務」と、同号ワ中「償還」とあるのは「償還並びに承継債務の償還」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">石油公団法及び金属鉱業事業団法の廃止等に関する法律（平成十四年法律第九十三号。以下この条及び附則第十七条において「石油公団法等廃止法」という。）附則第十条第二項（石油公団法等廃止法附則第十二条第二項において読み替えて準用する場合を含む。）の規定により附則第六十六条第二十七号の規定による廃止前の石油及びエネルギー需給構造高度化対策特別会計法（昭和四十二年法律第十二号。附則第十八条において「旧石油特別会計法」という。）に基づく石油及びエネルギー需給構造高度化対策特別会計（附則第十七条において「旧石油特別会計」という。）において承継した債務であって、附則第二百五十一条第三項の規定によりエネルギー需給勘定に帰属するものの償還に関する政府の経理を同勘定で行う場合における第十六条、第十七条並びに第八十八条第一項第二号ヨ及びレの規定の適用については、第十六条中「並びに融通証券の発行及び償還」とあるのは「、融通証券の発行及び償還並びに石油公団法及び金属鉱業事業団法の廃止等に関する法律（平成十四年法律第九十三号）附則第十条第二項（同法附則第十二条第二項において読み替えて準用する場合を含む。）の規定により附則第六十六条第二十七号の規定による廃止前の石油及びエネルギー需給構造高度化対策特別会計法（昭和四十二年法律第十二号）に基づく石油及びエネルギー需給構造高度化対策特別会計において承継した債務であって、附則第二百五十一条第三項の規定によりエネルギー需給勘定に帰属するもの（以下「承継債務」という。）の償還」と、第十七条第一項中「借入金の」とあるのは「借入金及び承継債務の」と、「及び償還」とあるのは「及び償還並びに承継債務の償還」と、同号ヨ中「証券」とあるのは「証券及び承継債務」と、同号レ中「償還」とあるのは「償還並びに承継債務の償還」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7048,6 +7168,45 @@
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第八十八条第二項の規定によるほか、第一項の規定によるエネルギー対策特別会計のエネルギー需給勘定から電源開発促進勘定への繰入金は、同勘定の歳入とし、第三項の規定による同勘定からエネルギー需給勘定への繰入金は、同会計の電源開発促進勘定の歳出とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18_3">
+        <ArticleTitle>第十八条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和十六年度以前の各年度の第九十一条の三第一項の規定によるエネルギー需給勘定から電源開発促進勘定への繰入金の決算額を合算した額から令和十六年度以前の各年度の電源開発促進勘定における脱炭素成長型経済構造への円滑な移行の推進に関する施策に要する費用（脱炭素成長型経済構造への円滑な移行の推進に関する法律第七条第二項の国会の議決を経たものに限る。以下この項及び次項において同じ。）の決算額を合算した額を控除した額に令和十六年度以前の各年度の電源開発促進勘定における脱炭素成長型経済構造への円滑な移行の推進に関する施策に要する費用について国に返納された金額（返納の際に当該金額に延滞利息又は加算金が付されている場合には、これらの金額を含む。次項において同じ。）を合算した額を加算した額に相当する金額を、令和十八年度までに、予算で定めるところにより、電源開発促進勘定からエネルギー需給勘定に繰り入れるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和十七年度以降の年度に電源開発促進勘定における脱炭素成長型経済構造への円滑な移行の推進に関する施策に要する費用について国に返納された金額がある場合には、当該国に返納された金額があった年度の翌々年度までに、当該国に返納された金額を、予算で定めるところにより、電源開発促進勘定からエネルギー需給勘定に繰り入れるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定による繰入れが行われる年度における第九十一条第一項ただし書の規定の適用については、同項ただし書中「費用の額」とあるのは、「費用の額並びに附則第十八条の三第一項の規定によるエネルギー需給勘定への繰入金に相当する金額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の規定による繰入れが行われる年度における第九十一条第一項ただし書の規定の適用については、同項ただし書中「費用の額」とあるのは、「費用の額並びに附則第十八条の三第二項の規定によるエネルギー需給勘定への繰入金に相当する金額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八十八条第一項の規定によるほか、第一項及び第二項の規定による電源開発促進勘定からエネルギー需給勘定への繰入金は、同勘定の歳入とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八十八条第二項の規定によるほか、第一項及び第二項の規定による電源開発促進勘定からエネルギー需給勘定への繰入金は、電源開発促進勘定の歳出とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -16097,7 +16256,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第八条の規定によりなお従前の例によることとされる場合における納付金に関する経理は、特別会計に関する法律第八十五条第一項の規定にかかわらず、エネルギー対策特別会計において行うものとする。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合における前条の規定による改正後の特別会計に関する法律第八十八条第一項第一号の規定の適用については、同号中「チ　附属雑収入」とあるのは、「／チ　鉱業法の一部を改正する等の法律（平成二十三年法律第八十四号）附則第八条の規定によりなお従前の例によることとされる場合における納付金／リ　附属雑収入／」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合における特別会計に関する法律第八十八条第一項第一号の規定の適用については、同号中「ヲ　附属雑収入」とあるのは、「／ヲ　鉱業法の一部を改正する等の法律（平成二十三年法律第八十四号）附則第八条の規定によりなお従前の例によることとされる場合における納付金／ワ　附属雑収入／」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -18812,6 +18971,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の特別会計に関する法律の規定は、令和五年度の予算から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一九日法律第三二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
