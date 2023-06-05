@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="303" Year="25" PromulgateMonth="12" PromulgateDay="28" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和二十五年法律第三百三号</LawNum><LawBody><LawTitle Kana="どくぶつおよびげきぶつとりしまりほう" Abbrev="毒劇物取締法,毒劇法" AbbrevKana="ど,ど">毒物及び劇物取締法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="303" Year="25" PromulgateMonth="12" PromulgateDay="28"><LawNum>昭和二十五年法律第三百三号</LawNum><LawBody><LawTitle Kana="どくぶつおよびげきぶつとりしまりほう" Abbrev="毒劇物取締法,毒劇法" AbbrevKana="ど,ど">毒物及び劇物取締法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -915,13 +915,13 @@
         </Paragraph>
       </Article>
       <Article Num="23">
-        <ArticleCaption>（薬事・食品衛生審議会への諮問）</ArticleCaption>
+        <ArticleCaption>（薬事審議会への諮問）</ArticleCaption>
         <ArticleTitle>第二十三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、第十六条第一項、別表第一第二十八号、別表第二第九十四号及び別表第三第十号の政令の制定又は改廃の立案をしようとするときは、あらかじめ、薬事・食品衛生審議会の意見を聴かなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、薬事・食品衛生審議会が軽微な事項と認めるものについては、この限りでない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、第十六条第一項、別表第一第二十八号、別表第二第九十四号及び別表第三第十号の政令の制定又は改廃の立案をしようとするときは、あらかじめ、薬事審議会の意見を聴かなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、薬事審議会が軽微な事項と認めるものについては、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2004,6 +2004,19 @@
         </Item>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月二六日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <Item Num="1">
@@ -2015,9 +2028,7 @@
       <Item Num="2">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">黄<Ruby>燐<Rt>りん</Rt>
-            </Ruby>
-          </Sentence>
+          <Sentence Num="1" WritingMode="vertical">黄<Ruby>燐<Rt>りん</Rt></Ruby></Sentence>
         </ItemSentence>
       </Item>
       <Item Num="3">
@@ -2131,17 +2142,13 @@
       <Item Num="21">
         <ItemTitle>二十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <Ruby>砒<Rt>ひ</Rt>
-            </Ruby>素</Sentence>
+          <Sentence Num="1" WritingMode="vertical"><Ruby>砒<Rt>ひ</Rt></Ruby>素</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="22">
         <ItemTitle>二十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <Ruby>弗<Rt>ふつ</Rt>
-            </Ruby>化水素</Sentence>
+          <Sentence Num="1" WritingMode="vertical"><Ruby>弗<Rt>ふつ</Rt></Ruby>化水素</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="23">
@@ -2171,9 +2178,7 @@
       <Item Num="27">
         <ItemTitle>二十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫化<Ruby>燐<Rt>りん</Rt>
-            </Ruby>
-          </Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫化<Ruby>燐<Rt>りん</Rt></Ruby></Sentence>
         </ItemSentence>
       </Item>
       <Item Num="28">
@@ -2308,9 +2313,7 @@
       <Item Num="21">
         <ItemTitle>二十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <Ruby>硅弗<Rt>けいふつ</Rt>
-            </Ruby>化水素酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical"><Ruby>硅弗<Rt>けいふつ</Rt></Ruby>化水素酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="22">
@@ -2478,9 +2481,7 @@
       <Item Num="49">
         <ItemTitle>四十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <Ruby>蓚<Rt>しゆう</Rt>
-            </Ruby>酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical"><Ruby>蓚<Rt>しゆう</Rt></Ruby>酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="50">
@@ -2708,17 +2709,13 @@
       <Item Num="87">
         <ItemTitle>八十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <Ruby>沃<Rt>よう</Rt>
-            </Ruby>化水素</Sentence>
+          <Sentence Num="1" WritingMode="vertical"><Ruby>沃<Rt>よう</Rt></Ruby>化水素</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="88">
         <ItemTitle>八十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <Ruby>沃<Rt>よう</Rt>
-            </Ruby>素</Sentence>
+          <Sentence Num="1" WritingMode="vertical"><Ruby>沃<Rt>よう</Rt></Ruby>素</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="89">
@@ -2736,9 +2733,7 @@
       <Item Num="91">
         <ItemTitle>九十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <Ruby>燐<Rt>りん</Rt>
-            </Ruby>化亜鉛</Sentence>
+          <Sentence Num="1" WritingMode="vertical"><Ruby>燐<Rt>りん</Rt></Ruby>化亜鉛</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="92">

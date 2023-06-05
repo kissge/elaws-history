@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="37" PromulgateMonth="06" PromulgateDay="29" LawType="CabinetOrder" Num="271" ScheduledEnforcementDate="2117/12/31">
+<Law Lang="ja" Era="Showa" Year="37" PromulgateMonth="06" PromulgateDay="29" LawType="CabinetOrder" Num="271">
   <LawNum>昭和三十七年政令第二百七十一号</LawNum>
   <LawBody>
     <LawTitle Kana="のうぎょうきょうどうくみあいほうせこうれい" Abbrev="農協法施行令" AbbrevKana="の">農業協同組合法施行令</LawTitle>
@@ -2283,7 +2283,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">銀行法第二条第十九項に規定する認定電子決済等代行事業者協会</Sentence>
+                <Sentence Num="1" WritingMode="vertical">銀行法第二条第二十三項に規定する認定電子決済等代行事業者協会</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -2376,7 +2376,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">外国法人又は外国に住所を有する個人である特定信用事業電子決済等代行業者（法第九十二条の五の三第一項に規定する特定信用事業電子決済等代行業者をいい、法第九十二条の五の八第六項の規定により当該特定信用事業電子決済等代行業者とみなされる電子決済等代行業者（銀行法第二条第十八項に規定する電子決済等代行業者をいい、金融サービスの提供に関する法律（平成十二年法律第百一号）第十八条第二項の規定により当該電子決済等代行業者とみなされる同法第十一条第六項に規定する金融サービス仲介業者を含む。）を含む。第六十一条において同じ。）に対して法の規定を適用する場合においては、次の表の上欄に掲げる法第九十二条の五の九第一項において準用する銀行法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国法人又は外国に住所を有する個人である特定信用事業電子決済等代行業者（法第九十二条の五の三第一項に規定する特定信用事業電子決済等代行業者をいい、法第九十二条の五の八第六項の規定により当該特定信用事業電子決済等代行業者とみなされる電子決済等代行業者（銀行法第二条第二十二項に規定する電子決済等代行業者をいい、金融サービスの提供に関する法律（平成十二年法律第百一号）第十八条第二項の規定により当該電子決済等代行業者とみなされる同法第十一条第六項に規定する金融サービス仲介業者を含む。）を含む。第六十一条において同じ。）に対して法の規定を適用する場合においては、次の表の上欄に掲げる法第九十二条の五の九第一項において準用する銀行法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
@@ -2403,9 +2403,17 @@
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
                     <Sentence Num="1" WritingMode="vertical">第五十二条の六十一の三第一項第三号</Sentence>
                   </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">営業所</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">国内における営業所</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">所在地</Sentence>
                   </TableColumn>
@@ -2569,59 +2577,65 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">信用金庫法（昭和二十六年法律第二百三十八号）第八十五条の十二第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">協同組合による金融事業に関する法律第六条の五の十二第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">長期信用銀行法第十六条の八第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">信用金庫法（昭和二十六年法律第二百三十八号）第八十五条の十二第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">労働金庫法第八十九条の十三第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">長期信用銀行法第十六条の八第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">銀行法第五十二条の六十二第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">労働金庫法第八十九条の十三第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">貸金業法（昭和五十八年法律第三十二号）第四十一条の三十九第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">銀行法第五十二条の六十二第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">保険業法第三百八条の二第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">貸金業法（昭和五十八年法律第三十二号）第四十一条の三十九第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">金融サービスの提供に関する法律第五十一条第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">保険業法第三百八条の二第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="12">
               <ItemTitle>十二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">農林中央金庫法第九十五条の六第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">金融サービスの提供に関する法律第五十一条第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="13">
               <ItemTitle>十三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">信託業法第八十五条の二第一項の規定による指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">農林中央金庫法第九十五条の六第一項の規定による指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託業法第八十五条の二第一項の規定による指定</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">資金決済に関する法律（平成二十一年法律第五十九号）第九十九条第一項の規定による指定</Sentence>
               </ItemSentence>
@@ -2788,7 +2802,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">法による農林水産大臣の権限のうち法第九十三条第一項及び第二項の規定による報告の徴収及び資料の提出の命令（地方農政局の管轄区域を超えない区域を地区とする組合又は農事組合法人（以下この項において「組合等」という。）に関するものに限る。）は、組合等の主たる事務所の所在地を管轄する地方農政局長に委任する。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法による農林水産大臣の権限のうち、法第九十三条第一項の規定による報告の徴収及び資料の提出の命令並びに同条第二項の規定による報告及び資料の提出の求め（それぞれ地方農政局の管轄区域を超えない区域を地区とする組合又は農事組合法人（以下この項において「組合等」という。）に関するものに限る。）は、組合等の主たる事務所の所在地を管轄する地方農政局長に委任する。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、農林水産大臣が自らその権限を行使することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -2875,7 +2889,7 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第九十三条第一項及び第二項の規定による報告の徴収及び資料の提出の命令</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第九十三条第一項の規定による報告の徴収及び資料の提出の命令並びに同条第二項の規定による報告及び資料の提出の求め</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
@@ -2945,7 +2959,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">準用銀行法第五十二条の五十三の規定による報告及び資料の提出の命令</Sentence>
+                <Sentence Num="1" WritingMode="vertical">準用銀行法第五十二条の五十三の規定による報告及び資料の提出の求め</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -3034,13 +3048,13 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第九十二条の五の八第二項の規定並びに法第九十二条の五の九第一項において準用する銀行法第五十二条の六十一の六第一項及び第三項、第五十二条の六十一の七第一項並びに第五十三条第五項の規定による届出の受理並びに法第九十二条の五の九第一項において準用する銀行法第五十二条の六十一の十三の規定による報告書の受理</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第九十二条の五の八第二項の規定並びに法第九十二条の五の九第一項において準用する銀行法第五十二条の六十一の六第一項及び第三項、第五十二条の六十一の七第一項並びに第五十三条第六項の規定による届出の受理並びに法第九十二条の五の九第一項において準用する銀行法第五十二条の六十一の十三の規定による報告書の受理</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第九十二条の五の九第一項において準用する銀行法第五十二条の六十一の十四第一項及び第二項の規定による報告及び資料の提出の命令</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第九十二条の五の九第一項において準用する銀行法第五十二条の六十一の十四第一項及び第二項の規定による報告及び資料の提出の求め</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -4482,6 +4496,19 @@
           <Sentence Num="1" WritingMode="vertical">この政令は、農業経営基盤強化促進法等の一部を改正する法律の施行の日（令和五年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月二六日政令第一八六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この政令は、安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和五年六月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
