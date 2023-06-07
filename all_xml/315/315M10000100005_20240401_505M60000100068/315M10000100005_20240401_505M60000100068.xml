@@ -316,7 +316,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">被保険者の氏名、生年月日及び住所</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者の氏名（片仮名で振り仮名を付するものとする。）、生年月日及び住所</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -356,6 +356,12 @@
                 <Sentence Num="1" WritingMode="vertical">船舶所有者は、報酬が歩合によって定められる被保険者に関しては、第一項の届書の報酬月額につき法第二十条第一項第五号イ、ロ又はハに掲げる額のいずれを基準としたかの別及び報酬月額の算定基礎の明細を記載した書類を添付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">船舶所有者は、第一項の届出に関し、被保険者に対し、個人番号の提出を求め、又は同項各号に係る事実を確認することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="6_2">
             <ArticleCaption>（法第百四十九条第一項及び第百五十条の規定の適用を受けなくなった場合の届出）</ArticleCaption>
@@ -370,6 +376,16 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前条第二項から第四項までの規定は、前項の届出について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="6_3">
+            <ArticleCaption>（協会による被保険者情報の登録）</ArticleCaption>
+            <ArticleTitle>第六条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">協会は、法第百五十三条の十第一項の規定により同項第二号又は第三号に掲げる事務を委託する場合は、機構が第六条第一項の規定による届出を受け、又は協会が第三十条の規定による申出を受けた日から五日以内に、当該届出又は申出に係る被保険者の資格に係る情報を、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、社会保険診療報酬支払基金又は国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会に提供するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1245,6 +1261,17 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の被保険者が厚生年金保険の被保険者である場合においては、個人番号又は基礎年金番号を付記しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27_3">
+            <ArticleCaption>（協会による被扶養者情報の登録）</ArticleCaption>
+            <ArticleTitle>第二十七条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第六条の三の規定は、厚生労働大臣が第二十六条第一項の規定による届出を受けた場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第六条の三中「機構が第六条第一項の規定による届出を受け、又は協会が第三十条の規定による申出」とあるのは「厚生労働大臣が第二十六条第一項の規定による届出」と、「又は申出に係る被保険者」とあるのは「に係る被扶養者」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3218,7 +3245,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">同一の出産について出産育児一時金（法、健康保険法、国民健康保険法（昭和三十三年法律第百九十二号）、国家公務員共済組合法（昭和三十三年法律第百二十八号）、地方公務員等共済組合法（昭和三十七年法律第百五十二号）及び私立学校教職員共済法（昭和二十八年法律第二百四十五号）の規定によるこれに相当する給付を含む。）の支給を別途申請していないことを示す書類（協会が番号利用法第二十二条第一項の規定により当該書類と同一の内容を含む特定個人情報の提供を受けることができるときは、この限りでない。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同一の出産について出産育児一時金（法、健康保険法、国民健康保険法、国家公務員共済組合法（昭和三十三年法律第百二十八号）、地方公務員等共済組合法（昭和三十七年法律第百五十二号）及び私立学校教職員共済法（昭和二十八年法律第二百四十五号）の規定によるこれに相当する給付を含む。）の支給を別途申請していないことを示す書類（協会が番号利用法第二十二条第一項の規定により当該書類と同一の内容を含む特定個人情報の提供を受けることができるときは、この限りでない。）</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -22367,6 +22394,15 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、困難な問題を抱える女性への支援に関する法律（以下「法」という。）の施行の日（令和六年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月三一日厚生労働省令第八一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和五年六月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
