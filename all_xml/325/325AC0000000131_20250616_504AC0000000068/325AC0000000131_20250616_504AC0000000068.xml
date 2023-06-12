@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="131" Year="25" PromulgateMonth="05" PromulgateDay="02" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和二十五年法律第百三十一号</LawNum><LawBody><LawTitle Kana="でんぱほう" Abbrev="" AbbrevKana="">電波法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="131" Year="25" PromulgateMonth="05" PromulgateDay="02"><LawNum>昭和二十五年法律第百三十一号</LawNum><LawBody><LawTitle Kana="でんぱほう" Abbrev="" AbbrevKana="">電波法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -612,7 +612,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">基幹放送の業務に用いられる電気通信設備（電気通信事業法第二条第二号に規定する電気通信設備をいう。以下同じ。）の概要</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">基幹放送の業務に用いられる電気通信設備（電気通信事業法第二条第二号に規定する電気通信設備をいう。以下同じ。）の概要並びに当該電気通信設備の一部を構成する設備（無線設備を除く。）の運用を他人に委託しようとする場合にあつては、当該設備の概要及び委託先の氏名又は名称</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
@@ -624,7 +624,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">地上基幹放送の業務を行うことについて放送法第九十三条第一項の規定により認定を受けようとする者の当該業務に用いられる無線局の免許を受けようとする者にあつては、当該認定を受けようとする者の氏名又は名称</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">他人の地上基幹放送の業務の用に供する無線局の免許を受けようとする者にあつては、当該他人の氏名又は名称</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
@@ -838,7 +838,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">工事設計が第三章に定める技術基準に適合すること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">工事設計が次章に定める技術基準に適合すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -868,7 +868,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">工事設計が第三章に定める技術基準に適合すること及び基幹放送の業務に用いられる電気通信設備が放送法第百二十一条第一項の総務省令で定める技術基準に適合すること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">工事設計が次章に定める技術基準に適合すること及び基幹放送の業務に用いられる電気通信設備が放送法第百二十一条第一項の総務省令で定める基準に適合すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -891,7 +891,7 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">基幹放送の業務に用いられる電気通信設備が放送法第百十一条第一項の総務省令で定める技術基準に適合すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">基幹放送の業務に用いられる電気通信設備が放送法第百十一条第一項の総務省令で定める基準に適合すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -910,11 +910,29 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">地上基幹放送の業務を行うことについて放送法第九十三条第一項の規定により認定を受けようとする者の当該業務に用いられる無線局にあつては、当該認定を受けようとする者が同項各号（第四号を除く。）に掲げる要件のいずれにも該当すること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">他人の地上基幹放送の業務の用に供する無線局のうち、地上基幹放送の業務を行うことについて放送法第九十三条第一項の規定により認定を受けようとする者の当該業務に用いられる無線局にあつては、当該認定を受けようとする者が同項各号（第四号を除く。）に掲げる要件のいずれにも該当すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">他人の地上基幹放送の業務の用に供する無線局のうち、特定地上基幹放送局の免許を受けて地上基幹放送の業務を行おうとする者の当該業務に用いられる無線局にあつては、次のいずれにも適合すること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該免許を受けようとする者が第五条第四項各号のいずれにも該当しないこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該免許を受けようとする者の提出した申請が第一号から第四号まで、次号及び第八号のいずれにも適合すること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">基幹放送に加えて基幹放送以外の無線通信の送信をする無線局にあつては、次のいずれにも適合すること。</Sentence>
                 </ItemSentence>
@@ -937,8 +955,8 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、総務省令で定める基幹放送局の開設の根本的基準に合致すること。</Sentence>
                 </ItemSentence>
@@ -1040,7 +1058,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">前条の予備免許を受けた者は、無線局の目的、通信の相手方、通信事項、放送事項、放送区域若しくは無線設備の設置場所の変更又は基幹放送の業務に用いられる電気通信設備の変更（総務省令で定める軽微な変更を除く。）をしようとするときは、あらかじめ、総務大臣の許可を受けなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前条の予備免許を受けた者は、無線局の目的、通信の相手方、通信事項、放送事項、放送区域若しくは無線設備の設置場所の変更又は第六条第二項第六号に掲げる事項の変更（総務省令で定める軽微な変更を除く。）をしようとするときは、あらかじめ、総務大臣の許可を受けなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる事項を内容とする無線局の目的の変更は、これを行うことができない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
@@ -1079,7 +1097,7 @@
                     <Sentence Num="1" WritingMode="vertical">基幹放送局</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">第六条第二項第三号、第四号、第六号、第八号又は第九号に掲げる事項の変更（同項第六号に掲げる事項にあつては前項の総務省令で定める軽微な変更に限り、同条第二項第九号に掲げる事項にあつては当該変更によつて第五条第四項第二号又は第三号に該当することとなるおそれが少ないものとして総務省令で定めるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六条第二項第三号、第四号、第六号、第八号又は第九号に掲げる事項の変更（同項第六号に掲げる事項にあつては前項の総務省令で定める軽微な変更（特に軽微なものとして総務省令で定めるものを除く。）に限り、同条第二項第九号に掲げる事項にあつては当該変更によつて第五条第四項第二号又は第三号に該当することとなるおそれが少ないものとして総務省令で定めるものを除く。）</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -1255,7 +1273,13 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">特定地上基幹放送局の免許状にあつては放送事項、認定基幹放送事業者（放送法第二条第二十一号の認定基幹放送事業者をいう。以下同じ。）の地上基幹放送の業務の用に供する無線局にあつてはその無線局に係る認定基幹放送事業者の氏名又は名称</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定地上基幹放送局の免許状にあつては、放送事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">他人の地上基幹放送の業務の用に供する無線局の免許状にあつては、当該他人の氏名又は名称</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1294,7 +1318,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">免許人は、無線局の目的、通信の相手方、通信事項、放送事項、放送区域若しくは無線設備の設置場所の変更若しくは基幹放送の業務に用いられる電気通信設備の変更（総務省令で定める軽微な変更を除く。）をし、又は無線設備の変更の工事をしようとするときは、あらかじめ、総務大臣の許可を受けなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">免許人は、無線局の目的、通信の相手方、通信事項、放送事項、放送区域若しくは無線設備の設置場所の変更若しくは第六条第二項第六号に掲げる事項の変更（総務省令で定める軽微な変更を除く。）をし、又は無線設備の変更の工事をしようとするときは、あらかじめ、総務大臣の許可を受けなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる事項を内容とする無線局の目的の変更は、これを行うことができない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
@@ -1333,7 +1357,7 @@
                     <Sentence Num="1" WritingMode="vertical">基幹放送局</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">第六条第二項第三号、第四号、第六号、第八号又は第九号に掲げる事項の変更（同項第六号に掲げる事項にあつては前項の総務省令で定める軽微な変更に限り、同条第二項第九号に掲げる事項にあつては当該変更によつて第五条第四項第二号又は第三号に該当することとなるおそれが少ないものとして総務省令で定めるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六条第二項第三号、第四号、第六号、第八号又は第九号に掲げる事項の変更（同項第六号に掲げる事項にあつては前項の総務省令で定める軽微な変更（特に軽微なものとして総務省令で定めるものを除く。）に限り、同条第二項第九号に掲げる事項にあつては当該変更によつて第五条第四項第二号又は第三号に該当することとなるおそれが少ないものとして総務省令で定めるものを除く。）</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -1403,8 +1427,8 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">他の地上基幹放送の業務の用に供する基幹放送局の免許人が当該地上基幹放送の業務を行う認定基幹放送事業者と合併をし、又は当該地上基幹放送の業務を行う事業を譲り受けた場合において、合併後存続する法人若しくは合併により設立された法人又は譲受人が総務大臣の許可を受けたときは、当該法人又は譲受人が当該基幹放送局の免許人から特定地上基幹放送局の免許人の地位を承継したものとみなす。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">地上基幹放送の業務を行う認定基幹放送事業者が当該地上基幹放送の業務の用に供する基幹放送局を譲り受けた場合において、総務大臣の許可を受けたときも、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">他人の地上基幹放送の業務の用に供する基幹放送局の免許人が当該地上基幹放送の業務を行う認定基幹放送事業者（放送法第二条第二十一号の認定基幹放送事業者をいう。以下この項及び第七十五条第一項第二号において同じ。）若しくは特定地上基幹放送局の免許人と合併をし、又は当該地上基幹放送の業務を行う事業を譲り受けた場合において、合併後存続する法人若しくは合併により設立された法人又は譲受人が総務大臣の許可を受けたときは、当該法人又は譲受人が当該基幹放送局の免許人から特定地上基幹放送局の免許人の地位を承継したものとみなす。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">地上基幹放送の業務を行う認定基幹放送事業者又は特定地上基幹放送局の免許人が当該地上基幹放送の業務の用に供する基幹放送局を譲り受けた場合において、総務大臣の許可を受けたときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -4378,43 +4402,37 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">認証工事設計に基づく特定無線設備が前章に定める技術基準に適合していない場合において、他の無線局の運用を阻害するような混信その他の妨害又は人体への危害の発生を防止するため特に必要があると認めるとき（第六号に掲げる場合を除く。）。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該特定無線設備の認証工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">認証工事設計に基づく特定無線設備が前章に定める技術基準に適合していない場合において、他の無線局の運用を阻害するような混信その他の妨害又は人体への危害の発生を防止するため特に必要があると認めるとき（第六号に掲げる場合を除く。）。　当該特定無線設備の認証工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">認証取扱業者が第三十八条の二十五第二項の規定に違反したとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該違反に係る特定無線設備の認証工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">認証取扱業者が第三十八条の二十五第二項の規定に違反したとき。　当該違反に係る特定無線設備の認証工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">認証取扱業者が前条の規定による命令に違反したとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該違反に係る特定無線設備の認証工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">認証取扱業者が前条の規定による命令に違反したとき。　当該違反に係る特定無線設備の認証工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">認証取扱業者が不正な手段により登録証明機関による工事設計認証を受けたとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該工事設計認証に係る工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">認証取扱業者が不正な手段により登録証明機関による工事設計認証を受けたとき。　当該工事設計認証に係る工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">登録証明機関が第三十八条の二十四第二項の規定又は同条第三項において準用する第三十八条の八第二項の規定に違反して工事設計認証をしたとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該工事設計認証に係る工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">登録証明機関が第三十八条の二十四第二項の規定又は同条第三項において準用する第三十八条の八第二項の規定に違反して工事設計認証をしたとき。　当該工事設計認証に係る工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前章に定める技術基準が変更された場合において、当該変更前に工事設計認証を受けた工事設計が当該変更後の技術基準に適合しないと認めるとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前章に定める技術基準が変更された場合において、当該変更前に工事設計認証を受けた工事設計が当該変更後の技術基準に適合しないと認めるとき。　当該工事設計</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -4719,36 +4737,31 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">届出工事設計に基づく特別特定無線設備が前章に定める技術基準に適合していない場合において、他の無線局の運用を阻害するような混信その他の妨害又は人体への危害の発生を防止するため特に必要があると認めるとき（第五号に掲げる場合を除く。）。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該特別特定無線設備の届出工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">届出工事設計に基づく特別特定無線設備が前章に定める技術基準に適合していない場合において、他の無線局の運用を阻害するような混信その他の妨害又は人体への危害の発生を防止するため特に必要があると認めるとき（第五号に掲げる場合を除く。）。　当該特別特定無線設備の届出工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">届出業者が第三十八条の三十三第三項の規定による届出をする場合において虚偽の届出をしたとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該虚偽の届出に係る工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">届出業者が第三十八条の三十三第三項の規定による届出をする場合において虚偽の届出をしたとき。　当該虚偽の届出に係る工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">届出業者が第三十八条の三十三第四項又は第三十八条の三十四第二項の規定に違反したとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該違反に係る特別特定無線設備の届出工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">届出業者が第三十八条の三十三第四項又は第三十八条の三十四第二項の規定に違反したとき。　当該違反に係る特別特定無線設備の届出工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">届出業者が第三十八条の三十八において準用する第三十八条の二十七の規定による命令に違反したとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該違反に係る特別特定無線設備の届出工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">届出業者が第三十八条の三十八において準用する第三十八条の二十七の規定による命令に違反したとき。　当該違反に係る特別特定無線設備の届出工事設計</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前章に定める技術基準が変更された場合において、当該変更前に第三十八条の三十三第三項の規定により届け出た工事設計が当該変更後の技術基準に適合しないと認めるとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　当該工事設計</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前章に定める技術基準が変更された場合において、当該変更前に第三十八条の三十三第三項の規定により届け出た工事設計が当該変更後の技術基準に適合しないと認めるとき。　当該工事設計</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -7265,8 +7278,41 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">総務大臣は、免許人が第五条第一項、第二項若しくは第四項の規定により免許を受けることができない者となつたとき、又は地上基幹放送の業務を行う認定基幹放送事業者の認定がその効力を失つたときは、当該免許を受けることができない者となつた免許人の免許又は当該地上基幹放送の業務に用いられる無線局の免許を取り消さなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、次の各号に掲げる場合には、当該各号に定める無線局の免許を取り消さなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">免許人が第五条第一項、第二項又は第四項の規定により免許を受けることができない者となつたとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該免許を受けることができない者となつた免許人の免許</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">地上基幹放送の業務を行う認定基幹放送事業者の認定がその効力を失つたとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該地上基幹放送の業務に用いられる無線局の免許</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定地上基幹放送局の免許人のその地上基幹放送の業務に用いられる全ての特定地上基幹放送局の免許がその効力を失つたとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該地上基幹放送の業務に用いられる無線局であつて特定地上基幹放送局以外のものの免許</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -7646,7 +7692,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第二項第二号の総務省令で定める変更があつた場合には、当該変更の内容</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条第二項第九号に掲げる事項について第十七条第二項第二号の総務省令で定める変更があつた場合には、当該変更の内容</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -8221,7 +8267,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四条第一号から第三号まで（免許等を要しない無線局）、第四条の二第一項、第二項（用途、周波数その他の条件を勘案した無線局の定めに係るものに限る。）及び第三項（適合表示無線設備とみなす条件）、第四条の三（呼出符号又は呼出名称の指定）、第六条第八項（無線局の免許申請期間）、第七条第一項第四号（基幹放送局以外の無線局の開設の根本的基準）、同条第二項第六号ハ（基幹放送に加えて基幹放送以外の無線通信の送信をする無線局の基準）、同項第七号（基幹放送局の開設の根本的基準）、第八条第一項第三号（識別信号）、第九条第一項ただし書（許可を要しない工事設計変更）、同条第四項及び第十七条第一項（基幹放送の業務に用いられる電気通信設備の変更）、第十三条第一項（無線局の免許の有効期間）、第十五条（簡易な免許手続）、第二十四条の二第四項第二号（検査等事業者の登録）、第二十六条の二第一項（電波の利用状況の調査）、第二十六条の三第一項第四号（有効利用評価の評価事項）、第二十七条の二（特定無線局）、第二十七条の四第三号（特定無線局の開設の根本的基準）、第二十七条の五第三項（包括免許の有効期間）、第二十七条の六第三項（特定無線局の開設等の届出）、第二十七条の十二第二項第一号（電波の有効利用の程度に関する基準）、第二十七条の十三第一項ただし書（申出人に関する事項）、同条第二項（開設指針の制定の要否に係る勘案事項）、第二十七条の十四第七項（開設計画の認定の有効期間）、第二十七条の十六第二項第三号（開設計画の認定の取消し猶予に係る勘案事項）、第二十七条の二十一第一項（登録）、第二十七条の二十四（登録の有効期間）、第二十七条の二十六第一項（変更登録を要しない軽微な変更）、第二十七条の三十三第一項（包括登録人に関する変更登録を要しない軽微な変更）、第二十七条の三十四（無線局の開設の届出）、第二十七条の三十八第一項（電気通信紛争処理委員会によるあつせん及び仲裁）、第二十八条（第百条第五項において準用する場合を含む。）（電波の質）、第二十九条（受信設備の条件）、第三十条（第百条第五項において準用する場合を含む。）（安全施設）、第三十一条（周波数測定装置の備付け）、第三十二条（計器及び予備品の備付け）、第三十三条（義務船舶局の無線設備の機器）、第三十五条（義務船舶局等の無線設備の条件）、第三十六条（義務航空機局の条件）、第三十七条（無線設備の機器の検定）、第三十八条（第百条第五項において準用する場合を含む。）（技術基準）、第三十八条の二の二第一項（特定無線設備）、第三十八条の三第一項第二号（登録の基準）、第三十八条の三十三第一項（特別特定無線設備）、第三十九条第一項から第三項まで、第五項及び第七項（無線設備の操作）、第三十九条の十三ただし書（アマチュア無線局の無線設備の操作）、第四十一条第二項第二号から第四号まで（無線従事者の養成課程に関する認定の基準等）、第四十七条（試験事務の実施）、第四十八条の三第一号（船舶局無線従事者証明の失効）、第四十九条（国家試験の細目等）、第五十条（遭難通信責任者の配置等）、第五十二条第一号から第三号まで及び第六号（目的外使用）、第五十五条（運用許容時間外運用）、第六十一条（通信方法等）、第六十五条（聴守義務）、第六十六条第一項（遭難通信）、第六十七条第二項（緊急通信）、第七十条の四（聴守義務）、第七十条の五（航空機局の通信連絡）、第七十条の五の二第二項第一号及び第三項ただし書（無線設備等保守規程の認定等）、第七十条の八第一項（免許人以外の者に簡易な操作による運用を行わせることができる無線局）、第七十一条の三第四項（第七十一条の三の二第十一項において準用する場合を含む。）（給付金の支給基準）、第七十三条第一項（検査）、同条第三項（人の生命又は身体の安全の確保のためその適正な運用の確保が必要な無線局の定めに係るものに限る。）（国の定期検査を必要とする無線局）、第七十五条第二項第三号（無線局の免許の取消し猶予に係る勘案事項）、第七十八条（第四条の二第五項において準用する場合を含む。）（電波の発射を防止するための措置）、第百条第一項第二号（高周波利用設備）、第百二条の十一第四項（適正な運用の確保が必要な無線局）、第百二条の十三第一項（特定の周波数を使用する無線設備の指定）、第百二条の十四第一項（指定無線設備の販売における告知等）、第百二条の十四の二（情報通信の技術を利用する方法）、第百二条の十八第一項（測定器等）、同条第九項（較正の業務の実施）並びに第百三条の二第七項ただし書及び第十一項（電波利用料の徴収等）の規定による総務省令の制定又は改廃</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四条第一号から第三号まで（免許等を要しない無線局）、第四条の二第一項、第二項（用途、周波数その他の条件を勘案した無線局の定めに係るものに限る。）及び第三項（適合表示無線設備とみなす条件）、第四条の三（呼出符号又は呼出名称の指定）、第六条第八項（無線局の免許申請期間）、第七条第一項第四号（基幹放送局以外の無線局の開設の根本的基準）、同条第二項第七号ハ（基幹放送に加えて基幹放送以外の無線通信の送信をする無線局の基準）、同項第八号（基幹放送局の開設の根本的基準）、第八条第一項第三号（識別信号）、第九条第一項ただし書（許可を要しない工事設計変更）、同条第四項及び第十七条第一項（第六条第二項第六号に掲げる事項の変更）、第十三条第一項（無線局の免許の有効期間）、第十五条（簡易な免許手続）、第二十四条の二第四項第二号（検査等事業者の登録）、第二十六条の二第一項（電波の利用状況の調査）、第二十六条の三第一項第四号（有効利用評価の評価事項）、第二十七条の二（特定無線局）、第二十七条の四第三号（特定無線局の開設の根本的基準）、第二十七条の五第三項（包括免許の有効期間）、第二十七条の六第三項（特定無線局の開設等の届出）、第二十七条の十二第二項第一号（電波の有効利用の程度に関する基準）、第二十七条の十三第一項ただし書（申出人に関する事項）、同条第二項（開設指針の制定の要否に係る勘案事項）、第二十七条の十四第七項（開設計画の認定の有効期間）、第二十七条の十六第二項第三号（開設計画の認定の取消し猶予に係る勘案事項）、第二十七条の二十一第一項（登録）、第二十七条の二十四（登録の有効期間）、第二十七条の二十六第一項（変更登録を要しない軽微な変更）、第二十七条の三十三第一項（包括登録人に関する変更登録を要しない軽微な変更）、第二十七条の三十四（無線局の開設の届出）、第二十七条の三十八第一項（電気通信紛争処理委員会によるあつせん及び仲裁）、第二十八条（第百条第五項において準用する場合を含む。）（電波の質）、第二十九条（受信設備の条件）、第三十条（第百条第五項において準用する場合を含む。）（安全施設）、第三十一条（周波数測定装置の備付け）、第三十二条（計器及び予備品の備付け）、第三十三条（義務船舶局の無線設備の機器）、第三十五条（義務船舶局等の無線設備の条件）、第三十六条（義務航空機局の条件）、第三十七条（無線設備の機器の検定）、第三十八条（第百条第五項において準用する場合を含む。）（技術基準）、第三十八条の二の二第一項（特定無線設備）、第三十八条の三第一項第二号（登録の基準）、第三十八条の三十三第一項（特別特定無線設備）、第三十九条第一項から第三項まで、第五項及び第七項（無線設備の操作）、第三十九条の十三ただし書（アマチュア無線局の無線設備の操作）、第四十一条第二項第二号から第四号まで（無線従事者の養成課程に関する認定の基準等）、第四十七条（試験事務の実施）、第四十八条の三第一号（船舶局無線従事者証明の失効）、第四十九条（国家試験の細目等）、第五十条（遭難通信責任者の配置等）、第五十二条第一号から第三号まで及び第六号（目的外使用）、第五十五条（運用許容時間外運用）、第六十一条（通信方法等）、第六十五条（聴守義務）、第六十六条第一項（遭難通信）、第六十七条第二項（緊急通信）、第七十条の四（聴守義務）、第七十条の五（航空機局の通信連絡）、第七十条の五の二第二項第一号及び第三項ただし書（無線設備等保守規程の認定等）、第七十条の八第一項（免許人以外の者に簡易な操作による運用を行わせることができる無線局）、第七十一条の三第四項（第七十一条の三の二第十一項において準用する場合を含む。）（給付金の支給基準）、第七十三条第一項（検査）、同条第三項（人の生命又は身体の安全の確保のためその適正な運用の確保が必要な無線局の定めに係るものに限る。）（国の定期検査を必要とする無線局）、第七十五条第二項第三号（無線局の免許の取消し猶予に係る勘案事項）、第七十八条（第四条の二第五項において準用する場合を含む。）（電波の発射を防止するための措置）、第百条第一項第二号（高周波利用設備）、第百二条の十一第四項（適正な運用の確保が必要な無線局）、第百二条の十三第一項（特定の周波数を使用する無線設備の指定）、第百二条の十四第一項（指定無線設備の販売における告知等）、第百二条の十四の二（情報通信の技術を利用する方法）、第百二条の十八第一項（測定器等）、同条第九項（較正の業務の実施）並びに第百三条の二第七項ただし書及び第十一項（電波利用料の徴収等）の規定による総務省令の制定又は改廃</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -8239,7 +8285,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四条の規定による免許（地上基幹放送をする無線局の再免許であるものに限る。）、第八条の規定による無線局の予備免許、第九条第一項の規定による工事設計変更の許可、同条第四項若しくは第十七条第一項の規定による無線局の目的、放送事項若しくは基幹放送の業務に用いられる電気通信設備の変更の許可、第二十七条の五第一項の規定による包括免許、第二十七条の八第一項の規定による特定無線局の目的の変更の許可、第二十七条の十四第一項の規定による開設計画の認定、第三十九条の二第一項の規定による指定講習機関の指定、第四十六条第一項の規定による指定試験機関の指定、第七十条の五の二第一項の規定による無線設備等保守規程の認定、第七十一条第一項の規定による無線局の周波数等の指定の変更若しくは登録局の周波数等若しくは人工衛星局の無線設備の設置場所の変更の命令、第七十一条の三第一項の規定による指定周波数変更対策機関の指定、第百二条の二第一項の規定による伝搬障害防止区域の指定、第百二条の十七第一項の規定によるセンターの指定又は第百二条の十八第一項の規定による指定較正機関の指定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四条の規定による免許（地上基幹放送をする無線局の再免許であるものに限る。）、第八条の規定による無線局の予備免許、第九条第一項の規定による工事設計変更の許可、同条第四項若しくは第十七条第一項の規定による無線局の目的、放送事項若しくは第六条第二項第六号に掲げる事項の変更の許可、第二十七条の五第一項の規定による包括免許、第二十七条の八第一項の規定による特定無線局の目的の変更の許可、第二十七条の十四第一項の規定による開設計画の認定、第三十九条の二第一項の規定による指定講習機関の指定、第四十六条第一項の規定による指定試験機関の指定、第七十条の五の二第一項の規定による無線設備等保守規程の認定、第七十一条第一項の規定による無線局の周波数等の指定の変更若しくは登録局の周波数等若しくは人工衛星局の無線設備の設置場所の変更の命令、第七十一条の三第一項の規定による指定周波数変更対策機関の指定、第百二条の二第一項の規定による伝搬障害防止区域の指定、第百二条の十七第一項の規定によるセンターの指定又は第百二条の十八第一項の規定による指定較正機関の指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -10166,47 +10212,53 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十八条の七第三項の規定に違反して表示を付したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第九条第四項又は第十七条第一項の規定に違反して第六条第二項第六号に掲げる事項を変更したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十八条の七第四項の規定に違反して表示を除去しなかつたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条の七第三項の規定に違反して表示を付したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十八条の四十四第二項の規定に違反して表示を付したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条の七第四項の規定に違反して表示を除去しなかつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十二条第一項の規定に違反して船舶局を運用したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条の四十四第二項の規定に違反して表示を付したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第七十条の二第一項の規定に違反して航空機局を運用したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条第一項の規定に違反して船舶局を運用したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第七十六条第一項（第七十条の七第四項、第七十条の八第三項、第七十条の九第三項及び第百条第五項において準用する場合を含む。）の規定による運用の制限に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第七十条の二第一項の規定に違反して航空機局を運用したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第百二条の四第一項の規定に基づく命令に違反して、届出をせず、又は虚偽の届出をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第七十六条第一項（第七十条の七第四項、第七十条の八第三項、第七十条の九第三項及び第百条第五項において準用する場合を含む。）の規定による運用の制限に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第百二条の四第一項の規定に基づく命令に違反して、届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第百二条の十八第四項の規定に違反して表示を付したとき。</Sentence>
               </ItemSentence>
@@ -10752,13 +10804,7 @@
         <ParagraphCaption>（電波利用料の特例）</ParagraphCaption>
         <ParagraphNum>１５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">第百三条の二第四項の規定の適用については、当分の間、同項中「十二　電波の能率的な利用を確保し、又は電波の人体等への悪影響を防止するために行う周波数の使用又は人体等の防護に関するリテラシーの向上のための活動に対する必要な援助」とあるのは、「／十二　電波の能率的な利用を確保し、又は電波の人体等への悪影響を防止するために行う周波数の使用又は人体等の防護に関するリテラシーの向上のための活動に対する必要な援助／十二の二　テレビジョン放送（人工衛星局により行われるものを除く。以下この号において同じ。）を受信することのできる受信設備を設置している者（デジタル信号によるテレビジョン放送のうち、静止し、又は移動する事物の瞬間的影像及びこれに伴う音声その他の音響を送る放送（以下この号において「地上デジタル放送」という。）を受信することのできる受信設備を設置している者を除く。）のうち、経済的困難その他の事由により地上デジタル放送の受信が困難な者に対して地上デジタル放送の受信に必要な設備の整備のために行う補助金の交付その他の援助／十二の三　地上基幹放送（音声その他の音響のみを送信するものに限る。）を直接受信することが困難な地域において必要最小の空中線電力による当該地上基幹放送の受信を可能とするために行われる中継局その他の設備（当該設備と一体として設置される総務省令で定める附属設備並びに当該設備及び当該附属設備を設置するために必要な工作物を含む。）の整備のための補助金の交付／十二の四　大規模な自然災害が発生した場合においても、地上基幹放送又は移動受信用地上基幹放送の業務に用いられる電気通信設備の損壊又は故障により当該業務に著しい支障を及ぼさないようにするために行われる当該電気通信設備（当該電気通信設備と一体として設置される総務省令で定める附属設備並びに当該電気通信設備及び当該附属設備を設置するために必要な工作物を含む。）の整備（放送法第百十一条第一項の総務省令で定める技術基準又は同法第百二十一条第一項の総務省令で定める技術基準に適合させるために行われるものを除く。）のための補助金の交付／」とする。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Num="16">
-        <ParagraphNum>１６</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">令和四年三月三十一日までの間における前項の規定により読み替えて適用する第百三条の二第四項の規定の適用については、同項中「十二の四　大規模な自然災害が発生した場合においても、地上基幹放送又は移動受信用地上基幹放送の業務に用いられる電気通信設備の損壊又は故障により当該業務に著しい支障を及ぼさないようにするために行われる当該電気通信設備（当該電気通信設備と一体として設置される総務省令で定める附属設備並びに当該電気通信設備及び当該附属設備を設置するために必要な工作物を含む。）の整備（放送法第百十一条第一項の総務省令で定める技術基準又は同法第百二十一条第一項の総務省令で定める技術基準に適合させるために行われるものを除く。）のための補助金の交付」とあるのは、「／十二の四　大規模な自然災害が発生した場合においても、地上基幹放送又は移動受信用地上基幹放送の業務に用いられる電気通信設備の損壊又は故障により当該業務に著しい支障を及ぼさないようにするために行われる当該電気通信設備（当該電気通信設備と一体として設置される総務省令で定める附属設備並びに当該電気通信設備及び当該附属設備を設置するために必要な工作物を含む。）の整備（放送法第百十一条第一項の総務省令で定める技術基準又は同法第百二十一条第一項の総務省令で定める技術基準に適合させるために行われるものを除く。）のための補助金の交付／十二の五　電波法及び電気通信事業法の一部を改正する法律（平成二十九年法律第二十七号）附則第一条第一号に掲げる規定の施行の日の前日（以下この号において「基準日」という。）において設置されているイに掲げる衛星基幹放送（放送法第二条第十三号の衛星基幹放送をいう。以下この号において同じ。）の受信を目的とする受信設備（基準日において第三章に定める技術基準に適合していないものを除き、増幅器及び配線並びに分配器、接続子その他の配線のために必要な器具に限る。）であつて、ロに掲げる衛星基幹放送の電波を受けるための空中線を接続した場合に当該技術基準に適合しないこととなるものについて、当該技術基準に適合させるために行われる改修のための補助金の交付その他の必要な援助／　イ　基準日において行われている衛星基幹放送であつて、基準日の翌日以後引き続き行われるもの（実験等無線局を用いて行われるものを除く。）／　ロ　基準日の翌日以後にイに掲げる衛星基幹放送と同時に行われる衛星基幹放送であつて、イに掲げる衛星基幹放送に使用される電波と周波数が同一で、かつ、電界の回転の方向が反対である電波を使用して行われるもの／」とする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">第百三条の二第四項の規定の適用については、当分の間、同項中「十二　電波の能率的な利用を確保し、又は電波の人体等への悪影響を防止するために行う周波数の使用又は人体等の防護に関するリテラシーの向上のための活動に対する必要な援助」とあるのは、「／十二　電波の能率的な利用を確保し、又は電波の人体等への悪影響を防止するために行う周波数の使用又は人体等の防護に関するリテラシーの向上のための活動に対する必要な援助／十二の二　テレビジョン放送（人工衛星局により行われるものを除く。以下この号において同じ。）を受信することのできる受信設備を設置している者（デジタル信号によるテレビジョン放送のうち、静止し、又は移動する事物の瞬間的影像及びこれに伴う音声その他の音響を送る放送（以下この号において「地上デジタル放送」という。）を受信することのできる受信設備を設置している者を除く。）のうち、経済的困難その他の事由により地上デジタル放送の受信が困難な者に対して地上デジタル放送の受信に必要な設備の整備のために行う補助金の交付その他の援助／十二の三　地上基幹放送（音声その他の音響のみを送信するものに限る。）を直接受信することが困難な地域において必要最小の空中線電力による当該地上基幹放送の受信を可能とするために行われる中継局その他の設備（当該設備と一体として設置される総務省令で定める附属設備並びに当該設備及び当該附属設備を設置するために必要な工作物を含む。）の整備のための補助金の交付／十二の四　大規模な自然災害が発生した場合においても、地上基幹放送又は移動受信用地上基幹放送の業務に用いられる電気通信設備の損壊又は故障により当該業務に著しい支障を及ぼさないようにするために行われる当該電気通信設備（当該電気通信設備と一体として設置される総務省令で定める附属設備並びに当該電気通信設備及び当該附属設備を設置するために必要な工作物を含む。）の整備（放送法第百十一条第一項の総務省令で定める基準又は同法第百二十一条第一項の総務省令で定める基準に適合させるために行われるものを除く。）のための補助金の交付／」とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -15303,6 +15349,105 @@
           <Sentence Num="1" WritingMode="vertical">前項ただし書に規定する改正規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月二日法律第四〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条及び附則第六条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">総務大臣は、この法律の施行の日（以下「施行日」という。）前においても、次に掲げる規定による総務省令の制定又は改廃のために、電波監理審議会に諮問することができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の電波法（次条第一項第二号において「新電波法」という。）第九条第四項又は第十七条第一項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（現に認定等を受けている者に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に次の各号に掲げる認定又は免許を受けている者は、総務省令で定めるところにより、施行日から起算して六月以内に、当該各号に定める事項を総務大臣に届け出なければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定による改正前の電波法第六条第二項に規定する基幹放送局の免許</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">新電波法第六条第二項第六号に掲げる事項（電波法第五条第四項に規定する基幹放送の業務に用いられる電気通信設備（電気通信事業法（昭和五十九年法律第八十六号）第二条第二号に規定する電気通信設備をいう。）の一部を構成する設備（電波法第二条第四号に規定する無線設備を除く。）の運用を他人に委託し、又は委託しようとする場合における当該設備の概要及び委託先の氏名又は名称に限る。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項（第二号に係る部分に限る。）の規定による届出をせず、又は虚偽の届出をした者は、三十万円以下の過料に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び前条第二項の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
