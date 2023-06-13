@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="072" Year="49" PromulgateMonth="12" PromulgateDay="21"><LawNum>昭和四十九年総理府令第七十二号</LawNum><LawBody><LawTitle Kana="こくどりようけいかくほうせこうきそく" Abbrev="国土法施行規則" AbbrevKana="こ">国土利用計画法施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="072" Year="49" PromulgateMonth="12" PromulgateDay="21"><LawNum>昭和四十九年総理府令第七十二号</LawNum><LawBody><LawTitle Kana="こくどりようけいかくほうしこうきそく" Abbrev="国土法施行規則" AbbrevKana="こ">国土利用計画法施行規則</LawTitle>
     <EnactStatement>国土利用計画法（昭和四十九年法律第九十二号）及び国土利用計画法施行令（昭和四十九年政令第三百八十七号）の規定に基づき、国土利用計画法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -817,92 +817,111 @@
       <Article Num="25">
         <ArticleCaption>（物価の変動に応ずる修正率の算定の方法に係る数値の修正）</ArticleCaption>
         <ArticleTitle>第二十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令付録の備考四の規定による修正は、次に掲げるところによりするものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令付録の備考四の規定による修正は、次に掲げるところによりするものとする。</Sentence>
           </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
+          <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">令付録のＰｃ′／Ｐｃにより算出した数値が次の式により算出する数値を超える場合は、Ｐｃ′／Ｐｃに替えて次の式により算出する数値を用いるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令付録の<ArithFormula>Ｐｃ′／Ｐｃ</ArithFormula>により算出した数値が次の式により算出する数値を超える場合は、<ArithFormula>Ｐｃ′／Ｐｃ</ArithFormula>に替えて次の式により算出する数値を用いるものとする。</Sentence>
             </ItemSentence>
-            <List>
-              <ListSentence>
-                <Sentence WritingMode="vertical">（Ｐｃ′／Ｐｃ″）ｎ／６０</Sentence>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Sentence WritingMode="vertical">この式において、Ｐｃ′、Ｐｃ″及びｎは、それぞれ次の数値を表すものとする。</Sentence>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Sentence WritingMode="vertical">Ｐｃ′令付録の備考一に規定するＰｃ′</Sentence>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">Ｐｃ″</Sentence>
+            <Subitem1 Num="1">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（Ｐｃ′／Ｐｃ″）ｎ／６０</ArithFormula></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">（この式において、<ArithFormula>Ｐｃ′</ArithFormula>、<ArithFormula>Ｐｃ″</ArithFormula>及びｎは、それぞれ次の数値を表すものとする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐｃ′</ArithFormula></Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">Ｐｃ′の数値を算定する基礎となつた三箇月に対応する五年前の三箇月の令第十条に規定する全国総合消費者物価指数の相加平均</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">令付録の備考一に規定する<ArithFormula>Ｐｃ′</ArithFormula></Sentence>
                 </Column>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">ｎ</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐｃ″</ArithFormula></Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">令付録の備考一に規定するＰｃの数値を算定する基礎となつた三箇月の第二月目の月からＰｃ′の数値を算定する基礎となつた三箇月の第二月目の月までの月数</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐｃ′</ArithFormula>の数値を算定する基礎となつた三箇月に対応する五年前の三箇月の令第十条に規定する全国総合消費者物価指数の相加平均</Sentence>
                 </Column>
-              </ListSentence>
-            </List>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">ｎ</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">令付録の備考一に規定するＰｃの数値を算定する基礎となつた三箇月の第二月目の月から<ArithFormula>Ｐｃ′</ArithFormula>の数値を算定する基礎となつた三箇月の第二月目の月までの月数）</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="2">
+          <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">令付録のＰｉ′／Ｐｉにより算出した数値が次の式により算出する数値を超える場合は、Ｐｉ′／Ｐｉに替えて次の式により算出する数値を用いるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令付録の<ArithFormula>Ｐｉ′／Ｐｉ</ArithFormula>により算出した数値が次の式により算出する数値を超える場合は、<ArithFormula>Ｐｉ′／Ｐｉ</ArithFormula>に替えて次の式により算出する数値を用いるものとする。</Sentence>
             </ItemSentence>
-            <List>
-              <ListSentence>
-                <Sentence WritingMode="vertical">（Ｐｉ′／Ｐｉ″）ｎ／６０</Sentence>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Sentence WritingMode="vertical">この式において、Ｐｉ′、Ｐｉ″及びｎは、それぞれ次の数値を表すものとする。</Sentence>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Sentence WritingMode="vertical">Ｐｉ′令付録の備考一に規定するＰｉ′</Sentence>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">Ｐｉ″</Sentence>
+            <Subitem1 Num="1">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（Ｐｉ′／Ｐｉ″）ｎ／６０</ArithFormula></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">（この式において、<ArithFormula>Ｐｉ′</ArithFormula>、<ArithFormula>Ｐｉ″</ArithFormula>及びｎは、それぞれ次の数値を表すものとする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐｉ′</ArithFormula></Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">Ｐｉ′の数値を算定する基礎となつた三箇月に対応する五年前の三箇月の令第十条に規定する投資財指数の相加平均</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">令付録の備考一に規定する<ArithFormula>Ｐｉ′</ArithFormula></Sentence>
                 </Column>
-              </ListSentence>
-            </List>
-            <List>
-              <ListSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">ｎ</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐｉ″</ArithFormula></Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">前号に規定するｎ</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐｉ′</ArithFormula>の数値を算定する基礎となつた三箇月に対応する五年前の三箇月の令第十条に規定する投資財指数の相加平均</Sentence>
                 </Column>
-              </ListSentence>
-            </List>
+              </Subitem1Sentence>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ｎ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">前号に規定するｎ）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+            </Subitem1>
           </Item>
         </Paragraph>
       </Article>
@@ -1204,7 +1223,7 @@
       <RelatedArticleNum>（第２０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000044023.pdf"/>
+          <Fig src="./pict/2FH00000068328.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1213,7 +1232,7 @@
       <RelatedArticleNum>（第２０条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000044024.pdf"/>
+          <Fig src="./pict/2FH00000068329.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1222,7 +1241,7 @@
       <RelatedArticleNum>（第２１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000044025.pdf"/>
+          <Fig src="./pict/2FH00000068330.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
