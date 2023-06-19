@@ -126,6 +126,17 @@
               </Column>
             </ItemSentence>
           </Item>
+          <Item Num="9_2">
+            <ItemTitle>九の二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">ワイヤレス固定ブロードバンドアクセスサービス</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">ワイヤレス固定ブロードバンドアクセスサービス用設備（光信号伝送用の伝送路設備及び無線設備（その一端が利用者の屋内用ルータと接続される無線設備に限る。）により構成される端末系伝送路設備をいう。以下同じ。）を用いてインターネットへの接続点までの間の通信を媒介する電気通信役務（主としてインターネットへの接続点までの間の通信を媒介するものを含む。）であつて、ベストエフォート型であるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           <Item Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
@@ -390,6 +401,17 @@
               </Column>
             </ItemSentence>
           </Item>
+          <Item Num="26">
+            <ItemTitle>二十六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">屋内用ルータ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">電気通信事業者により特定地点以外での利用が契約約款等により制限された電気通信設備であつて、主としてパケット伝送に係る経路制御を行う機能を有するものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="2">
@@ -582,6 +604,17 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">様式第十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">ワイヤレス固定ブロードバンドアクセスサービス（その下り名目速度（電気通信事業法施行規則第十四条の三第一項に規定する下り名目速度をいう。以下この表において同じ。）が毎秒三〇メガビット以上のものに限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">利用者の屋内用ルータと接続される無線設備を設置してワイヤレス固定ブロードバンドアクセスサービス（その下り名目速度が毎秒三〇メガビット以上のものに限る。）を提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">様式第十の二</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1645,12 +1678,12 @@
         </Paragraph>
       </Article>
       <Article Num="9">
-        <ArticleCaption>（基礎的電気通信役務の提供に係る交付金の額及び負担金の額の算定に用いる電気通信番号数等の報告）</ArticleCaption>
+        <ArticleCaption>（第一号基礎的電気通信役務の提供に係る第一種交付金の額及び第一種負担金の額の算定に用いる電気通信番号数等の報告）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">基礎的電気通信役務の提供に係る交付金及び負担金算定等規則（平成十四年総務省令第六十四号。以下この条において「算定規則」という。）別表第十一に掲げる電気通信番号の指定を受けた電気通信事業者（適格電気通信事業者又は接続電気通信事業者等である者に限る。）若しくは分割又は譲渡しにより当該電気通信事業者から電気通信事業の一部を承継した法人若しくは譲り受けた者（当該承継又は譲受けがあつた後遅滞なく、当該電気通信事業者が指定を受けた同表に掲げる電気通信番号の指定を受けた者であつて、適格電気通信事業者又は接続電気通信事業者等以外の者に限る。以下この条において「一部承継事業者等」という。）は、様式第二十九により、当該指定を受けた電気通信番号（一部承継事業者等については、承継した電気通信事業又は譲り受けた電気通信事業に係る電気通信番号に限る。）の毎月末の使用状況等（一部承継事業者等にあつては、承継又は譲受けがあつた月から算定規則第二十七条第一項に規定する最終算定月までの月末の使用状況等に限る。）について、翌々月の二十日（当該日が日曜日、土曜日又は国民の祝日に関する法律（昭和二十三年法律第百七十八号）に規定する休日に当たるときは、これらの日の翌日をもつて当該日とみなす。）までに、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一号基礎的電気通信役務の提供に係る第一種交付金及び第一種負担金算定等規則（平成十四年総務省令第六十四号。以下この条において「第一種算定規則」という。）別表第十一に掲げる電気通信番号の指定を受けた電気通信事業者（第一種適格電気通信事業者又は接続電気通信事業者等である者に限る。）若しくは分割又は譲渡しにより当該電気通信事業者から電気通信事業の一部を承継した法人若しくは譲り受けた者（当該承継又は譲受けがあつた後遅滞なく、当該電気通信事業者が指定を受けた同表に掲げる電気通信番号の指定を受けた者であつて、第一種適格電気通信事業者又は接続電気通信事業者等以外の者に限る。以下この条において「一部承継事業者等」という。）は、様式第二十九により、当該指定を受けた電気通信番号（一部承継事業者等については、承継した電気通信事業又は譲り受けた電気通信事業に係る電気通信番号に限る。）の毎月末の使用状況等（一部承継事業者等にあつては、承継又は譲受けがあつた月から第一種算定規則第二十七条第一項に規定する最終算定月までの月末の使用状況等に限る。）について、翌々月の二十日（当該日が日曜日、土曜日又は国民の祝日に関する法律（昭和二十三年法律第百七十八号）に規定する休日に当たるときは、これらの日の翌日をもつて当該日とみなす。）までに、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2671,7 +2704,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="0">
+    <SupplProvision AmendLawNum="令和五年六月二日総務省令第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、電気通信事業法の一部を改正する法律（次条第五項において「改正法」という。）の施行の日（令和五年六月十六日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の規定による改正後の電気通信事業法施行規則（次条第一項及び第二項において「新施行規則」という。）第十四条の三第三項の規定は令和五年十月一日から適用し、第四条の規定による改正後の電気通信事業報告規則第一条第二項第九号の二及び第二十六号並びに様式十、様式十の二、様式十二、様式十二の二、様式十二の三、様式十三及び様式十三の二の規定は報告期限が同年七月一日以降である報告から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>　電気通信役務の種類（第四条の六関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3014,7 +3061,16 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055988.pdf"/>
+          <Fig src="./pict/2FH00000068261.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle Num="10_2">
+      <AppdxStyleTitle WritingMode="vertical">様式第１０の２</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000068450.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3032,7 +3088,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055990.pdf"/>
+          <Fig src="./pict/2FH00000068263.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3041,7 +3097,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055991.pdf"/>
+          <Fig src="./pict/2FH00000068264.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3050,7 +3106,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055992.pdf"/>
+          <Fig src="./pict/2FH00000068265.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3059,7 +3115,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055993.pdf"/>
+          <Fig src="./pict/2FH00000068266.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3068,7 +3124,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000055994.pdf"/>
+          <Fig src="./pict/2FH00000068267.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

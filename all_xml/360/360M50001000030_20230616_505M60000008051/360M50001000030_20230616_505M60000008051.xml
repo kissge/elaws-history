@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="503M60000008023" AmendmentNum="令和三年総務省令第二十三号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="030" Year="60" PromulgateMonth="04" PromulgateDay="01" ScheduledEnforcementDate=""><LawNum>昭和六十年郵政省令第三十号</LawNum><LawBody><LawTitle Kana="じぎょうようでんきつうしんせつびきそく" Abbrev="" AbbrevKana="">事業用電気通信設備規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="030" Year="60" PromulgateMonth="04" PromulgateDay="01"><LawNum>昭和六十年郵政省令第三十号</LawNum><LawBody><LawTitle Kana="じぎょうようでんきつうしんせつびきそく" Abbrev="" AbbrevKana="">事業用電気通信設備規則</LawTitle>
     <EnactStatement>電気通信事業法（昭和五十九年法律第八十六号）第四十一条第一項の規定に基づき、事業用電気通信設備規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -55,12 +55,23 @@
             <ArticleRange>（第三十六条―第三十六条の九）</ArticleRange>
           </TOCSubsection>
         </TOCSection>
+        <TOCSection Num="6">
+          <SectionTitle>第六節　第二号基礎的電気通信役務の提供の用に供する電気通信設備</SectionTitle>
+          <ArticleRange>（第三十六条の十）</ArticleRange>
+        </TOCSection>
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備</ChapterTitle>
         <TOCSection Num="1">
           <SectionTitle>第一節　電気通信設備の損壊又は故障の対策</SectionTitle>
-          <ArticleRange>（第三十七条―第四十条）</ArticleRange>
+          <TOCSubsection Num="1">
+            <SubsectionTitle>第一款　第一号基礎的電気通信役務の提供の用に供する電気通信設備</SubsectionTitle>
+            <ArticleRange>（第三十六条の十一―第四十条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="2">
+            <SubsectionTitle>第二款　第二号基礎的電気通信役務の提供の用に供する電気通信設備</SubsectionTitle>
+            <ArticleRange>（第四十条の二―第四十条の四）</ArticleRange>
+          </TOCSubsection>
         </TOCSection>
         <TOCSection Num="2">
           <SectionTitle>第二節　秘密の保持</SectionTitle>
@@ -76,11 +87,15 @@
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　音声伝送役務の提供の用に供する電気通信設備</SectionTitle>
-          <ArticleRange>（第四十四条・第四十五条）</ArticleRange>
+          <ArticleRange>（第四十四条・第四十四条の二）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="6">
+          <SectionTitle>第六節　第二号基礎的電気通信役務の提供の用に供する電気通信設備</SectionTitle>
+          <ArticleRange>（第四十五条）</ArticleRange>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Num="4">
-        <ChapterTitle>第四章　適格電気通信事業者の基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備</ChapterTitle>
+        <ChapterTitle>第四章　第一種適格電気通信事業者の第一号基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備</ChapterTitle>
         <TOCSection Num="1">
           <SectionTitle>第一節　電気通信設備の損壊又は故障の対策</SectionTitle>
           <ArticleRange>（第四十五条の二・第四十五条の三）</ArticleRange>
@@ -203,7 +218,7 @@
             <Item Num="4_3">
               <ItemTitle>四の三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">「ワイヤレス固定電話用設備」とは、二線式アナログ電話用設備のうち、適格電気通信事業者が基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備であつて、その伝送路設備の一部に他の電気通信事業者が設置する携帯電話用設備を用いるものをいう。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">「ワイヤレス固定電話用設備」とは、二線式アナログ電話用設備のうち、第一種適格電気通信事業者が第一号基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備であつて、その伝送路設備の一部に他の電気通信事業者が設置する携帯電話用設備を用いるものをいう。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -2017,101 +2032,160 @@
             </Article>
           </Subsection>
         </Section>
+        <Section Num="6">
+          <SectionTitle>第六節　第二号基礎的電気通信役務の提供の用に供する電気通信設備</SectionTitle>
+          <Article Num="36_10">
+            <ArticleCaption>（第二号基礎的電気通信役務の提供の用に供する電気通信設備）</ArticleCaption>
+            <ArticleTitle>第三十六条の十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電気通信事業者は、第二号基礎的電気通信役務の提供の用に供する電気通信設備における名目速度（電気通信事業法施行規則第二十七条の五第一項第五号の二に規定する名目速度をいう。第四十五条において同じ。）に関し、国際的な標準に適合させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
       </Chapter>
       <Chapter Num="3">
         <ChapterTitle>第三章　基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備</ChapterTitle>
         <Section Num="1">
           <SectionTitle>第一節　電気通信設備の損壊又は故障の対策</SectionTitle>
-          <Article Num="37">
-            <ArticleCaption>（予備機器）</ArticleCaption>
-            <ArticleTitle>第三十七条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">通信路の設定に直接係る交換設備の機器は、その機能を代替することができる予備の機器の設置若しくは配備の措置又はこれに準ずる措置が講じられ、かつ、その故障等の発生時に速やかに当該予備の機器に切り替えられるようにしなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる機器については、この限りでない。</Sentence>
-              </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">専ら一の者の通信を取り扱う電気通信回線を当該交換設備に接続するための機器</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該交換設備の故障等の発生時に、他の交換設備によりその疎通が確保できる交換設備の機器</Sentence>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">多重変換装置等の伝送設備において当該伝送設備に接続された電気通信回線に共通に使用される機器は、その機能を代替することができる予備の機器の設置若しくは配備の措置又はこれに準ずる措置が講じられ、かつ、その故障等の発生時に速やかに当該予備の機器と切り替えられるようにしなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">固定電話接続用設備は、その故障等の発生時に他の地域に設置された固定電話接続用設備に速やかに切り替えられるようにしなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="38">
-            <ArticleCaption>（停電対策）</ArticleCaption>
-            <ArticleTitle>第三十八条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業用電気通信設備は、通常受けている電力の供給が停止した場合においてその取り扱う通信が停止することのないよう自家用発電機又は蓄電池の設置その他これに準ずる措置（交換設備にあつては、自家用発電機及び蓄電池の設置その他これに準ずる措置。第四項において同じ。）が講じられていなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定に基づく自家用発電機の設置又は移動式の電源設備の配備を行う場合には、それらに使用される燃料について、十分な量の備蓄又は補給手段の確保に努めなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">防災上必要な通信を確保するため、都道府県庁等に設置されている端末設備と接続されている端末系伝送路設備と接続されている交換設備及びその附属設備に関する前二項の措置は、通常受けている電力の供給が長時間にわたり停止することを考慮したものでなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">電気通信事業者は、固定電話接続用設備について、通常受けている電力の供給が長時間にわたり停止した場合においてその取り扱う通信が停止することのないよう自家用発電機又は蓄電池の設置その他これに準ずる措置を講ずるよう努めなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="39">
-            <ArticleCaption>（準用）</ArticleCaption>
-            <ArticleTitle>第三十九条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第五条から第八条まで、第八条の三、第九条、第十条、第十二条から第十五条まで及び第十五条の三（第一項第三号及び第五号並びに第二項に係る部分に限る。）の規定は、事業用電気通信設備について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第七条第二項中「応急復旧工事、臨時の電気通信回線の設置、電力の供給その他の応急復旧措置」とあるのは「応急復旧措置」と、第十条第二項中「自家用発電機及び蓄電池」とあるのは「蓄電池」と読み替えるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="40">
-            <ArticleCaption>（適用除外）</ArticleCaption>
-            <ArticleTitle>第四十条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十七条及び第三十八条の規定並びに前条において準用する第五条、第八条、第八条の三、第九条、第十条第二項及び第十三条から第十五条までの規定は、利用者の建築物又はこれに類するところに設置する事業用電気通信設備について適用しない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十七条及び前条において準用する第十条第二項の規定は、総務大臣が別に告示する小規模な事業用電気通信設備について適用しない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
+          <Subsection Num="1">
+            <SubsectionTitle>第一款　第一号基礎的電気通信役務の提供の用に供する電気通信設備</SubsectionTitle>
+            <Article Num="36_11">
+              <ArticleCaption>（適用の範囲）</ArticleCaption>
+              <ArticleTitle>第三十六条の十一</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">この款の規定は、第一号基礎的電気通信役務の提供の用に供する電気通信設備について適用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="37">
+              <ArticleCaption>（予備機器）</ArticleCaption>
+              <ArticleTitle>第三十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">通信路の設定に直接係る交換設備の機器は、その機能を代替することができる予備の機器の設置若しくは配備の措置又はこれに準ずる措置が講じられ、かつ、その故障等の発生時に速やかに当該予備の機器に切り替えられるようにしなければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる機器については、この限りでない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">専ら一の者の通信を取り扱う電気通信回線を当該交換設備に接続するための機器</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該交換設備の故障等の発生時に、他の交換設備によりその疎通が確保できる交換設備の機器</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">多重変換装置等の伝送設備において当該伝送設備に接続された電気通信回線に共通に使用される機器は、その機能を代替することができる予備の機器の設置若しくは配備の措置又はこれに準ずる措置が講じられ、かつ、その故障等の発生時に速やかに当該予備の機器と切り替えられるようにしなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">固定電話接続用設備は、その故障等の発生時に他の地域に設置された固定電話接続用設備に速やかに切り替えられるようにしなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="38">
+              <ArticleCaption>（停電対策）</ArticleCaption>
+              <ArticleTitle>第三十八条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">事業用電気通信設備は、通常受けている電力の供給が停止した場合においてその取り扱う通信が停止することのないよう自家用発電機又は蓄電池の設置その他これに準ずる措置（交換設備にあつては、自家用発電機及び蓄電池の設置その他これに準ずる措置。第四項において同じ。）が講じられていなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定に基づく自家用発電機の設置又は移動式の電源設備の配備を行う場合には、それらに使用される燃料について、十分な量の備蓄又は補給手段の確保に努めなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">防災上必要な通信を確保するため、都道府県庁等に設置されている端末設備と接続されている端末系伝送路設備と接続されている交換設備及びその附属設備に関する前二項の措置は、通常受けている電力の供給が長時間にわたり停止することを考慮したものでなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">電気通信事業者は、固定電話接続用設備について、通常受けている電力の供給が長時間にわたり停止した場合においてその取り扱う通信が停止することのないよう自家用発電機又は蓄電池の設置その他これに準ずる措置を講ずるよう努めなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="39">
+              <ArticleCaption>（準用）</ArticleCaption>
+              <ArticleTitle>第三十九条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五条から第八条まで、第八条の三、第九条、第十条、第十二条から第十五条まで及び第十五条の三（第一項第三号及び第五号並びに第二項に係る部分に限る。）の規定は、事業用電気通信設備について準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、第七条第二項中「応急復旧工事、臨時の電気通信回線の設置、電力の供給その他の応急復旧措置」とあるのは「応急復旧措置」と、第十条第二項中「自家用発電機及び蓄電池」とあるのは「蓄電池」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="40">
+              <ArticleCaption>（適用除外）</ArticleCaption>
+              <ArticleTitle>第四十条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十七条及び第三十八条の規定並びに前条において準用する第五条、第八条、第八条の三、第九条、第十条第二項及び第十三条から第十五条までの規定は、利用者の建築物又はこれに類するところに設置する事業用電気通信設備について適用しない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十七条及び前条において準用する第十条第二項の規定は、総務大臣が別に告示する小規模な事業用電気通信設備について適用しない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2">
+            <SubsectionTitle>第二款　第二号基礎的電気通信役務の提供の用に供する電気通信設備</SubsectionTitle>
+            <Article Num="40_2">
+              <ArticleCaption>（適用の範囲）</ArticleCaption>
+              <ArticleTitle>第四十条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">この款の規定は、第二号基礎的電気通信役務の提供の用に供する電気通信設備について適用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="40_3">
+              <ArticleCaption>（準用）</ArticleCaption>
+              <ArticleTitle>第四十条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五条、第六条、第八条、第十条第一項、第十二条、第十四条、第十五条の三（第一項第三号及び第五号に係る部分に限る。）、第十六条の三及び第十六条の四の規定は、事業用電気通信設備について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="40_4">
+              <ArticleCaption>（適用除外）</ArticleCaption>
+              <ArticleTitle>第四十条の四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条において準用する第五条、第八条、第十四条及び第十六条の四の規定は、利用者の建築物又はこれに類するところに設置する事業用電気通信設備について適用しない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
         </Section>
         <Section Num="2">
           <SectionTitle>第二節　秘密の保持</SectionTitle>
@@ -2187,9 +2261,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="45">
+          <Article Num="44_2">
             <ArticleCaption>（準用）</ArticleCaption>
-            <ArticleTitle>第四十五条</ArticleTitle>
+            <ArticleTitle>第四十四条の二</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -2223,9 +2297,22 @@
             </Paragraph>
           </Article>
         </Section>
+        <Section Num="6">
+          <SectionTitle>第六節　第二号基礎的電気通信役務の提供の用に供する電気通信設備</SectionTitle>
+          <Article Num="45">
+            <ArticleCaption>（第二号基礎的電気通信役務の提供の用に供する電気通信設備）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電気通信事業者は、第二号基礎的電気通信役務の提供の用に供する電気通信設備における名目速度に関し、国際的な標準に適合させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
       </Chapter>
       <Chapter Num="4">
-        <ChapterTitle>第四章　適格電気通信事業者の基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備</ChapterTitle>
+        <ChapterTitle>第四章　第一種適格電気通信事業者の第一号基礎的電気通信役務を提供する電気通信事業の用に供する電気通信設備</ChapterTitle>
         <Section Num="1">
           <SectionTitle>第一節　電気通信設備の損壊又は故障の対策</SectionTitle>
           <Article Num="45_2">
@@ -3087,6 +3174,19 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月二日総務省令第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、電気通信事業法の一部を改正する法律（次条第五項において「改正法」という。）の施行の日（令和五年六月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一号</AppdxTableTitle>
       <RelatedArticleNum>　ダイヤルパルス信号の条件（第３０条第２項第２号関係）</RelatedArticleNum>
@@ -3111,7 +3211,7 @@
               <Sentence Num="1" WritingMode="vertical">１０パルス毎秒方式</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">１０±１．０パルス毎秒以内</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>１０±１．０</ArithFormula>パルス毎秒以内</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">３０％以上４２％以下</Sentence>
@@ -3125,7 +3225,7 @@
               <Sentence Num="1" WritingMode="vertical">２０パルス毎秒方式</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">２０±１．６パルス以内</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>２０±１．６</ArithFormula>パルス以内</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">３０％以上３６％以下</Sentence>
@@ -3150,7 +3250,7 @@
             </ItemSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">ダイヤルパルスメーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>ダイヤルパルスメーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</ArithFormula></Sentence>
               </ListSentence>
             </List>
           </Item>
@@ -3466,7 +3566,7 @@
             </ItemSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">メーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>メーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</ArithFormula></Sentence>
               </ListSentence>
             </List>
           </Item>
@@ -3592,7 +3692,7 @@
             </ItemSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">メーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>メーク率＝｛接時間÷（接時間＋断時間）｝×１００（％）</ArithFormula></Sentence>
               </ListSentence>
             </List>
           </Item>
