@@ -76,6 +76,10 @@
           <SectionTitle>第十五節　氏名の変更</SectionTitle>
           <ArticleRange>（第百七条・第百七条の二）</ArticleRange>
         </TOCSection>
+        <TOCSection Num="15_2">
+          <SectionTitle>第十五節の二　氏名の振り仮名の変更</SectionTitle>
+          <ArticleRange>（第百七条の三・第百七条の四）</ArticleRange>
+        </TOCSection>
         <TOCSection Num="16">
           <SectionTitle>第十六節　転籍及び就籍</SectionTitle>
           <ArticleRange>（第百八条―第百十二条）</ArticleRange>
@@ -441,7 +445,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">戸籍には、本籍の外、戸籍内の各人について、左の事項を記載しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">戸籍には、本籍のほか、戸籍内の各人について、次に掲げる事項を記載しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -452,45 +456,63 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">出生の年月日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">氏名の振り仮名（氏に用いられる文字の読み方を示す文字（以下「氏の振り仮名」という。）及び名に用いられる文字の読み方を示す文字（以下「名の振り仮名」という。）をいう。以下同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">戸籍に入つた原因及び年月日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">出生の年月日</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">実父母の氏名及び実父母との続柄</Sentence>
+                <Sentence Num="1" WritingMode="vertical">戸籍に入つた原因及び年月日</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">養子であるときは、養親の氏名及び養親との続柄</Sentence>
+                <Sentence Num="1" WritingMode="vertical">実父母の氏名及び実父母との続柄</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">夫婦については、夫又は妻である旨</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養子であるときは、養親の氏名及び養親との続柄</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">他の戸籍から入つた者については、その戸籍の表示</Sentence>
+                <Sentence Num="1" WritingMode="vertical">夫婦については、夫又は妻である旨</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他の戸籍から入つた者については、その戸籍の表示</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">その他法務省令で定める事項</Sentence>
               </ItemSentence>
             </Item>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第二号の読み方は、氏名として用いられる文字の読み方として一般に認められているものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">氏名の振り仮名に用いることができる仮名及び記号の範囲は、法務省令で定める。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="14">
@@ -501,19 +523,19 @@
               <Sentence Num="1" WritingMode="vertical">氏名を記載するには、左の順序による。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
-              <ItemTitle>第一</ItemTitle>
+                <ItemTitle>第一</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">夫婦が、夫の氏を称するときは夫、妻の氏を称するときは妻</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
-              <ItemTitle>第二</ItemTitle>
+                <ItemTitle>第二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">配偶者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
-              <ItemTitle>第三</ItemTitle>
+                <ItemTitle>第三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">子</Sentence>
               </ItemSentence>
@@ -841,7 +863,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">届書には、次の事項を記載し、届出人が、これに署名しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">届書には、次に掲げる事項を記載し、届出人が、これに署名しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -864,7 +886,13 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">届出人と届出事件の本人と異なるときは、届出事件の本人の氏名、出生の年月日、住所、戸籍の表示及び届出人の資格</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">届出事件の本人の氏名及び氏名の振り仮名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">届出人と届出事件の本人とが異なるときは、届出事件の本人の出生の年月日、住所及び戸籍の表示並びに届出人の資格</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1348,7 +1376,7 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の申出があつたときは、市町村長は、氏名をつけ、本籍を定め、且つ、附属品、発見の場所、年月日時その他の状況並びに氏名、男女の別、出生の推定年月日及び本籍を調書に記載しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の申出があつたときは、市町村長は、氏名及び氏名の振り仮名を付け、本籍を定め、かつ、附属品、発見の場所、年月日時その他の状況並びに氏名、氏名の振り仮名、男女の別、出生の推定年月日及び本籍を調書に記載しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">その調書は、これを届書とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -2202,13 +2230,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">やむを得ない事由によつて氏を変更しようとするときは、戸籍の筆頭に記載した者及びその配偶者は、家庭裁判所の許可を得て、その旨を届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">やむを得ない事由によつて氏を変更しようとするときは、戸籍の筆頭に記載した者及びその配偶者は、氏及び氏の振り仮名を変更することについて家庭裁判所の許可を得て、その許可を得た氏及び氏の振り仮名を届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">外国人と婚姻をした者がその氏を配偶者の称している氏に変更しようとするときは、その者は、その婚姻の日から六箇月以内に限り、家庭裁判所の許可を得ないで、その旨を届け出ることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">外国人と婚姻をした者がその氏を配偶者の称している氏に変更しようとするときは、その者は、その婚姻の日から六箇月以内に限り、家庭裁判所の許可を得ないで、その旨及び変更しようとする氏の振り仮名を届け出ることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -2229,7 +2257,28 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">正当な事由によつて名を変更しようとする者は、家庭裁判所の許可を得て、その旨を届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">正当な事由によつて名を変更しようとする者は、名及び名の振り仮名を変更することについて家庭裁判所の許可を得て、その許可を得た名及び名の振り仮名を届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="15_2">
+          <SectionTitle>第十五節の二　氏名の振り仮名の変更</SectionTitle>
+          <Article Num="107_3">
+            <ArticleTitle>第百七条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">やむを得ない事由によつて氏の振り仮名を変更しようとするときは、戸籍の筆頭に記載した者及びその配偶者は、家庭裁判所の許可を得て、その旨を届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="107_4">
+            <ArticleTitle>第百七条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">正当な事由によつて名の振り仮名を変更しようとする者は、家庭裁判所の許可を得て、その旨を届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2271,7 +2320,7 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">届書には、第十三条に掲げる事項の外、就籍許可の年月日を記載しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">届書には、第十三条第一項に掲げる事項のほか、就籍許可の年月日を記載しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2917,22 +2966,22 @@
           </ParagraphSentence>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">明治五年太政官布告第二百三十五号（改姓名に関する件）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">明治五年太政官布告第二百三十五号（改姓名に関する件）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">明治六年太政官布告第百十八号（御歴代の御諱及び御名の文字の使用に関する件）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">明治六年太政官布告第百十八号（御歴代の御諱及び御名の文字の使用に関する件）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">昭和十五年法律第四号（委託又は郵便による戸籍届出に関する件）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">昭和十五年法律第四号（委託又は郵便による戸籍届出に関する件）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">昭和二十一年司法省令第四十七号（昭和二十年勅令第五百四十二号ポツダム宣言の受諾に伴い発する命令に関する件に基く出生及び死亡の届出等に関する件）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">昭和二十一年司法省令第四十七号（昭和二十年勅令第五百四十二号ポツダム宣言の受諾に伴い発する命令に関する件に基く出生及び死亡の届出等に関する件）</Sentence>
             </ListSentence>
           </List>
         </Paragraph>
@@ -4169,6 +4218,354 @@
             </Column>
             <Column Num="2">
               <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月九日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中行政手続における特定の個人を識別するための番号の利用等に関する法律第三条第二項の改正規定及び同法第九条第二項の改正規定並びに第十三条の規定並びに附則第十七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条中住民基本台帳法第七条の改正規定、同法第十七条の改正規定、同法第二十条第五項の改正規定、同法第二十一条の三第五項の改正規定、同法第三十条の四十一第一項の改正規定、同法第三十条の四十五の改正規定、同法第三十条の五十の改正規定及び同法第三十条の五十一の改正規定並びに第七条の規定並びに附則第四条、第六条から第十四条まで及び第二十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（戸籍法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第三号に掲げる規定の施行の際現に戸籍の筆頭に記載されている者（以下「筆頭者」という。）（既にこの項又は次項の規定による届出をした者を除く。）は、第三号施行日から起算して一年以内に限り、当該筆頭者の戸籍に記載されている氏に係る氏の振り仮名の届出をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の届出をすることができる筆頭者であって、附則第一条第三号に掲げる規定の施行の際現に同項の氏について第七条の規定による改正後の戸籍法（以下「新戸籍法」という。）第十三条第二項の規定による同条第一項第二号の読み方（以下「一般の読み方」という。）以外の氏の読み方を使用しているものは、第三号施行日から起算して一年以内に限り、前項の届出に代えて現に使用している氏の読み方を示す文字を戸籍の記載事項とする旨の届出をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該届出に係る戸籍に記載されている者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条第一項及び第百七条の三の規定その他の法令の規定の適用については、当該届出に係る文字を氏の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第一項の届出をすることができる筆頭者が当該戸籍から除籍されているときは、次に掲げる者は、第三号施行日から起算して一年以内に限り、その順序に従って、前二項の届出をすることができる。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、既に当該戸籍について前二項の届出がされているときは、この限りでない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">配偶者（その戸籍から除かれた者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子（その戸籍から除かれた者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の届出をする者は、現に使用している氏の読み方が通用していることを証する書面を提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第三号に掲げる規定の施行の際現に戸籍に記載されている者（筆頭者を除く。）であって、第三号施行日以後に新たに編製される戸籍（以下この条及び附則第十一条において「新戸籍」という。）の筆頭に記載されるもの（既にこの項又は次項の規定による届出をした者を除く。）は、第三号施行日から起算して一年以内に限り、当該新戸籍に記載されている氏に係る氏の振り仮名の届出をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に規定する者であって、附則第一条第三号に掲げる規定の施行の際現に同項の氏について一般の読み方以外の氏の読み方を使用しているものは、第三号施行日から起算して一年以内に限り、同項の届出に代えて現に使用している氏の読み方を示す文字を当該者に係る新戸籍の記載事項とする旨の届出をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該届出に係る新戸籍に記載されている者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条第一項及び第百七条の三の規定その他の法令の規定の適用については、当該届出に係る文字を氏の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第一項に規定する者が当該者に係る新戸籍から除籍されているときは、次に掲げる者は、第三号施行日から起算して一年以内に限り、その順序に従って、前二項の届出をすることができる。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、既に当該新戸籍について前二項の届出がされているときは、この限りでない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">配偶者（その戸籍から除かれた者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子（その戸籍から除かれた者を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三項の規定は、新戸籍が編製される日前に当該新戸籍に記載される氏について前条第一項又は第二項の届出がされているときは、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の届出をする者は、現に使用している氏の読み方が通用していることを証する書面を提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第三号に掲げる規定の施行の際現に戸籍に記載されている者（既にこの項又は次項の規定による届出をした者を除く。）は、第三号施行日から起算して一年以内に限り、当該者の戸籍に記載されている名に係る名の振り仮名の届出をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に規定する者であって、附則第一条第三号に掲げる規定の施行の際現に同項の名について一般の読み方以外の名の読み方を使用しているものは、第三号施行日から起算して一年以内に限り、同項の届出に代えて現に使用している名の読み方を示す文字を戸籍の記載事項とする旨の届出をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該届出をした者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条の二及び第百七条の四の規定その他の法令の規定の適用については、当該届出に係る文字を名の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の届出をする者は、現に使用している名の読み方が通用していることを証する書面を提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">本籍地の市町村長（特別区の区長を含むものとし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下この項において「指定都市」という。）にあっては、区長又は総合区長とする。以下この条及び附則第十三条において同じ。）は、第三号施行日から起算して一年を経過した日に、市役所（特別区の区役所を含むものとし、指定都市にあっては、区又は総合区の区役所とする。）又は町村役場の所在地を管轄する法務局又は地方法務局の長（次項において「管轄法務局長等」という。）の許可を得て、附則第一条第三号に掲げる規定の施行の際現に戸籍に記載されている者に係る氏の振り仮名を戸籍に記載するものとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同日の前日までに附則第六条第一項若しくは第二項の届出又は附則第七条第一項若しくは第二項の届出があったときは、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本籍地の市町村長は、第三号施行日から起算して一年を経過した日に、管轄法務局長等の許可を得て、附則第一条第三号に掲げる規定の施行の際現に戸籍に記載されている者（同日の前日までに前条第一項又は第二項の届出をした者を除く。）に係る名の振り仮名を戸籍に記載するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本籍地の市町村長は、前二項の場合において、附則第一条第三号に掲げる規定の施行の際現に戸籍に記載されている者に一般の読み方以外の氏の読み方又は名の読み方が使用されていると認めるときは、前二項の規定にかかわらず、氏の振り仮名又は名の振り仮名に代えてその使用されている氏の読み方又は名の読み方を示す文字を当該者の戸籍に記載することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、この項の規定により当該文字を戸籍に記載された者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条第一項及び第百七条の二の規定その他の法令の規定の適用については、当該記載に係る文字を氏の振り仮名又は名の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">本籍地の市町村長は、第三号施行日後遅滞なく、附則第一条第三号に掲げる規定の施行の際現に戸籍に記載されている者に対し、前三項の規定により当該者の戸籍に記載しようとする氏の振り仮名若しくは名の振り仮名又は一般の読み方以外の氏の読み方若しくは名の読み方を示す文字を通知するものとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、あらかじめ通知することが困難である場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第一項の規定により戸籍に氏の振り仮名が記載されたときは、当該戸籍の筆頭者（既にこの項又は次項の規定による届出をした者を除く。同項において同じ。）は、氏の振り仮名を変更する旨の届出をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第一項の規定により戸籍に氏の振り仮名が記載された場合において、当該戸籍の筆頭者が附則第一条第三号に掲げる規定の施行の際現に一般の読み方以外の氏の読み方を使用しているときは、当該戸籍の筆頭者は、戸籍の記載事項を現に使用している氏の読み方を示す文字に変更する旨の届出をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該届出に係る戸籍に記載されている者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条第一項及び第百七条の三の規定その他の法令の規定の適用については、当該届出に係る文字を氏の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三項の規定により戸籍に一般の読み方以外の氏の読み方を示す文字を記載されたときは、当該戸籍の筆頭者（既にこの項又は次項の規定による届出をした者を除く。同項において同じ。）は、戸籍の記載事項を一般の読み方による氏の振り仮名に変更する旨の届出をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三項の規定により戸籍に一般の読み方以外の氏の読み方を示す文字を記載された場合において、当該戸籍の筆頭者が附則第一条第三号に掲げる規定の施行の際現に戸籍に記載された氏の読み方以外の氏の読み方であって一般の読み方以外のものを使用しているときは、当該戸籍の筆頭者は、戸籍の記載事項を現に使用している氏の読み方を示す文字に変更する旨の届出をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該届出に係る戸籍に記載されている者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条第一項及び第百七条の三の規定その他の法令の規定の適用については、当該届出に係る文字を氏の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新戸籍法第百七条の三の規定は、前各項の届出には、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項から第四項までの届出をしようとする者に配偶者があるときは、配偶者とともに当該届出をしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第六条第三項の規定は、第一項から第四項までの筆頭者が当該戸籍から除籍されている場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「第三号施行日から起算して一年以内に限り、その」とあるのは、「その」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項又は第四項の届出をする者は、当該届出に係る現に使用している氏の読み方が通用していることを証する書面を提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前条の規定は、附則第九条第一項又は第三項の規定により氏の振り仮名又は一般の読み方以外の氏の読み方を示す文字が記載された戸籍に記載されている者（筆頭者を除く。）であって、新戸籍の筆頭に記載されるものについて準用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該新戸籍が編製される日前に当該新戸籍に記載される氏について前条第一項から第四項までの届出又はこの条において準用する前条第一項から第四項までの届出がされているときは、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第九条第二項の規定により戸籍に名の振り仮名を記載された者（既にこの項又は次項の規定による届出をした者を除く。同項において同じ。）は、当該名の振り仮名を変更する旨の届出をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第九条第二項の規定により戸籍に名の振り仮名を記載された者であって、附則第一条第三号に掲げる規定の施行の際現に一般の読み方以外の名の読み方を使用しているものは、戸籍の記載事項を現に使用している名の読み方を示す文字に変更する旨の届出をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該届出により戸籍の記載事項を変更した者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条の二及び第百七条の四の規定その他の法令の規定の適用については、当該届出に係る文字を名の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第九条第三項の規定により戸籍に一般の読み方以外の名の読み方を示す文字を記載された者（既にこの項又は次項の規定による届出をした者を除く。同項において同じ。）は、戸籍の記載事項を一般の読み方による名の振り仮名に変更する旨の届出をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第九条第三項の規定により戸籍に一般の読み方以外の名の読み方を示す文字を記載された者であって、附則第一条第三号に掲げる規定の施行の際現に戸籍に記載された名の読み方以外の名の読み方であって一般の読み方以外のものを使用しているものは、戸籍の記載事項を現に使用している名の読み方を示す文字に変更する旨の届出をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該届出により名の読み方を示す文字を変更した者に係る新戸籍法第十三条第一項第二号、第二十九条第四号、第百七条の二及び第百七条の四の規定その他の法令の規定の適用については、当該届出に係る文字を名の振り仮名とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新戸籍法第百七条の四の規定は、前各項の届出には、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項又は第四項の届出をする者は、当該届出に係る現に使用している名の読み方が通用していることを証する書面を提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本籍地の市町村長は、附則第六条から前条までの規定の施行に必要な限度において、関係地方公共団体の長その他の者に対し、附則第一条第三号に掲げる規定の施行の際現に戸籍に記載されている者に係る氏名の振り仮名並びに現に使用されている氏の読み方及び名の読み方を示す文字に関する情報の提供を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">一般の読み方以外の氏の読み方又は名の読み方を示す文字に用いることができる仮名及び記号の範囲は、新戸籍法第十三条第三項の法務省令で定められた仮名及び記号の範囲とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一四日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第三十二章の規定及び第三百八十八条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第一条中民事執行法第二十二条第五号の改正規定、同法第二十五条の改正規定、同法第二十六条の改正規定、同法第二十九条の改正規定（「の謄本」の下に「又は電磁的記録に記録されている事項の全部を記録した電磁的記録」を加える部分を除く。）、同法第九十一条第一項第三号の改正規定、同法第百四十一条第一項第三号の改正規定、同法第百八十一条第一項の改正規定、同条第四項の改正規定、同法第百八十三条の改正規定、同法第百八十九条の改正規定及び同法第百九十三条第一項の改正規定、第十二条、第三十三条、第三十四条、第三十六条及び第三十七条の規定、第四十二条中組織的な犯罪の処罰及び犯罪収益の規制等に関する法律第三十九条第二項の改正規定、第四十五条の規定（民法第九十八条第二項及び第百五十一条第四項の改正規定を除く。）、第四十七条中鉄道抵当法第四十一条の改正規定及び同法第四十三条第三項の改正規定、第四十八条及び第四章の規定、第八十八条中民事訴訟費用等に関する法律第二条の改正規定、第九十一条の規定、第百八十五条中配偶者からの暴力の防止及び被害者の保護等に関する法律第十二条第三項の改正規定、第百九十八条の規定並びに第三百八十七条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年六月を超えない範囲内において政令で定める日</Sentence>
             </Column>
           </ItemSentence>
         </Item>

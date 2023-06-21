@@ -3109,19 +3109,14 @@
               <Sentence Num="1" WritingMode="vertical">学部等連係課程実施基本組織における基幹教員数は、当該学部等連係課程実施基本組織を一学科で組織する学部とみなしてこの表の中欄から算出される基幹教員数とする。</Sentence>
             </ItemSentence>
           </Item>
+          <Item Num="13">
+            <ItemTitle>（２）</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">専門職学科に係るもの</Sentence>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
-          <Item Num="1">
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical"/>
-            </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>（２）</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">専門職学科に係るもの</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-          </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3857,13 +3852,13 @@
               <Sentence Num="1" WritingMode="vertical">２，６４４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3874,13 +3869,13 @@
               <Sentence Num="1" WritingMode="vertical">２，６４４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3891,13 +3886,13 @@
               <Sentence Num="1" WritingMode="vertical">２，６４４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3908,13 +3903,13 @@
               <Sentence Num="1" WritingMode="vertical">２，６４４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3925,13 +3920,13 @@
               <Sentence Num="1" WritingMode="vertical">２，６４４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3942,13 +3937,13 @@
               <Sentence Num="1" WritingMode="vertical">４，６２８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，１５７÷２００＋４，６２８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，１５７÷２００＋４，６２８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×３，１４０÷４００＋５，７８５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×３，１４０÷４００＋５，７８５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×３，１４０÷４００＋８，９２５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×３，１４０÷４００＋８，９２５</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3959,13 +3954,13 @@
               <Sentence Num="1" WritingMode="vertical">５，２８９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，３２２÷２００＋５，２８９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，３２２÷２００＋５，２８９</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×４，６２８÷４００＋６，６１１</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×４，６２８÷４００＋６，６１１</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×４，６２８÷４００＋１１，２３９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×４，６２８÷４００＋１１，２３９</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3976,13 +3971,13 @@
               <Sentence Num="1" WritingMode="vertical">５，０２４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，２５６÷２００＋５，０２４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，２５６÷２００＋５，０２４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×４，６２９÷４００＋６，２８０</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×４，６２９÷４００＋６，２８０</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×４，６２９÷４００＋１０，９０９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×４，６２９÷４００＋１０，９０９</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3993,13 +3988,13 @@
               <Sentence Num="1" WritingMode="vertical">５，０２４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，２５６÷２００＋５，０２４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，２５６÷２００＋５，０２４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×４，６２９÷４００＋６，２８０</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×４，６２９÷４００＋６，２８０</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×４，６２９÷４００＋１０，９０９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×４，６２９÷４００＋１０，９０９</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4010,13 +4005,13 @@
               <Sentence Num="1" WritingMode="vertical">４，６２８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，１５７÷２００＋４，６２８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，１５７÷２００＋４，６２８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８３÷４００＋５，７８５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８３÷４００＋５，７８５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８３÷４００＋７，７６８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８３÷４００＋７，７６８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4027,13 +4022,13 @@
               <Sentence Num="1" WritingMode="vertical">３，９６６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×９９２÷２００＋３，９６６</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×９９２÷２００＋３，９６６</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８４÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８４÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８４÷４００＋６，９４２</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８４÷４００＋６，９４２</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4044,13 +4039,13 @@
               <Sentence Num="1" WritingMode="vertical">３，８３４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×９５９÷２００＋３，８３４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×９５９÷２００＋３，８３４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×３，１４０÷４００＋４，７９３</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×３，１４０÷４００＋４，７９３</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×３，１４０÷４００＋７，９３３</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×３，１４０÷４００＋７，９３３</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4061,13 +4056,13 @@
               <Sentence Num="1" WritingMode="vertical">３，４３８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×８５９÷２００＋３，４３８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×８５９÷２００＋３，４３８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×２，９７５÷４００＋４，２９７</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×２，９７５÷４００＋４，２９７</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×２，９７５÷４００＋７，２７２</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×２，９７５÷４００＋７，２７２</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4078,13 +4073,13 @@
               <Sentence Num="1" WritingMode="vertical">３，４３８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×８５９÷２００＋３，４３８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×８５９÷２００＋３，４３８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８３÷４００＋４，２９７</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８３÷４００＋４，２９７</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８３÷４００＋６，２８０</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８３÷４００＋６，２８０</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4095,13 +4090,13 @@
               <Sentence Num="1" WritingMode="vertical">３，９６６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×９９２÷２００＋３，９６６</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×９９２÷２００＋３，９６６</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８４÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８４÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８４÷４００＋６，９４２</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８４÷４００＋６，９４２</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4112,13 +4107,13 @@
               <Sentence Num="1" WritingMode="vertical">４，６２８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，１５７÷２００＋４，６２８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，１５７÷２００＋４，６２８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×３，１４０÷４００＋５，７８５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×３，１４０÷４００＋５，７８５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×３，１４０÷４００＋８，９２５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×３，１４０÷４００＋８，９２５</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -4160,19 +4155,14 @@
               <Sentence Num="1" WritingMode="vertical">この表に定める面積は、専用部分の面積とする。ただし、当該大学と他の学校、就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律第二条第七項に規定する幼保連携型認定こども園、専修学校又は各種学校（以下この号において「学校等」という。）が同一の敷地内又は隣接地に所在する場合であつて、それぞれの学校等の校舎の専用部分の面積及び共用部分の面積を合算した面積が、それぞれの学校等が設置の認可を受ける場合において基準となる校舎の面積を合算した面積以上のものであるときは、当該大学の教育研究に支障がない限度において、この表に定める面積に当該学校等との共用部分の面積を含めることができる（（２）、ロ並びにハ（１）及び（２）の表において同じ。）。</Sentence>
             </ItemSentence>
           </Item>
+          <Item Num="7">
+            <ItemTitle>（２）</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">専門職学部に係る基準校舎面積</Sentence>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
-          <Item Num="1">
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical"/>
-            </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>（２）</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">専門職学部に係る基準校舎面積</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-          </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4211,16 +4201,16 @@
               <Sentence Num="1" WritingMode="vertical">２，３１４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×３３０÷１００＋２，３１４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×３３０÷１００＋２，３１４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4231,16 +4221,16 @@
               <Sentence Num="1" WritingMode="vertical">２，３１４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×３３０÷１００＋２，３１４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×３３０÷１００＋２，３１４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4251,16 +4241,16 @@
               <Sentence Num="1" WritingMode="vertical">２，３１４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×３３０÷１００＋２，３１４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×３３０÷１００＋２，３１４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4271,16 +4261,16 @@
               <Sentence Num="1" WritingMode="vertical">２，３１４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×３３０÷１００＋２，３１４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×３３０÷１００＋２，３１４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4291,16 +4281,16 @@
               <Sentence Num="1" WritingMode="vertical">２，３１４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×３３０÷１００＋２，３１４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×３３０÷１００＋２，３１４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×６６１÷２００＋２，６４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×６６１÷２００＋２，６４４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，６５３÷４００＋３，３０５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，６５３÷４００＋３，３０５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，３２２÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，３２２÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4311,16 +4301,16 @@
               <Sentence Num="1" WritingMode="vertical">４，０４９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×５７９÷１００＋４，０４９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×５７９÷１００＋４，０４９</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，１５７÷２００＋４，６２８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，１５７÷２００＋４，６２８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×３，１４０÷４００＋５，７８５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×３，１４０÷４００＋５，７８５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×３，１４０÷４００＋８，９２５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×３，１４０÷４００＋８，９２５</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4331,16 +4321,16 @@
               <Sentence Num="1" WritingMode="vertical">４，６２８</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×６６１÷１００＋４，６２８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×６６１÷１００＋４，６２８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，３２２÷２００＋５，２８９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，３２２÷２００＋５，２８９</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×４，６２８÷４００＋６，６１１</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×４，６２８÷４００＋６，６１１</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×４，６２８÷４００＋１１，２３９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×４，６２８÷４００＋１１，２３９</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4351,16 +4341,16 @@
               <Sentence Num="1" WritingMode="vertical">４，３９６</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×６２８÷１００＋４，３９６</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×６２８÷１００＋４，３９６</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，２５６÷２００＋５，０２４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，２５６÷２００＋５，０２４</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×４，６２９÷４００＋６，２８０</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×４，６２９÷４００＋６，２８０</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×４，６２９÷４００＋１０，９０９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×４，６２９÷４００＋１０，９０９</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4371,16 +4361,16 @@
               <Sentence Num="1" WritingMode="vertical">４，０４９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×５７９÷１００＋４，０４９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×５７９÷１００＋４，０４９</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，１５７÷２００＋４，６２８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，１５７÷２００＋４，６２８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８３÷４００＋５，７８５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８３÷４００＋５，７８５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８３÷４００＋７，７６８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８３÷４００＋７，７６８</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4391,16 +4381,16 @@
               <Sentence Num="1" WritingMode="vertical">３，４７０</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×４９６÷１００＋３，４７０</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×４９６÷１００＋３，４７０</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×９９２÷２００＋３，９６６</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×９９２÷２００＋３，９６６</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８４÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８４÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８４÷４００＋６，９４２</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８４÷４００＋６，９４２</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4411,16 +4401,16 @@
               <Sentence Num="1" WritingMode="vertical">３，３５５</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×４７９÷１００＋３，３５５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×４７９÷１００＋３，３５５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×９５９÷２００＋３，８３４</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×９５９÷２００＋３，８３</ArithFormula>４</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×３，１４０÷４００＋４，７９３</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×３，１４０÷４００＋４，７９３</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×３，１４０÷４００＋７，９３３</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×３，１４０÷４００＋７，９３３</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4431,16 +4421,16 @@
               <Sentence Num="1" WritingMode="vertical">３，００９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×４２９÷１００＋３，００９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×４２９÷１００＋３，００９</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×８５９÷２００＋３，４３８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×８５９÷２００＋３，４３８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×２，９７５÷４００＋４，２９７</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×２，９７５÷４００＋４，２９７</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×２，９７５÷４００＋７，２７２</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×２，９７５÷４００＋７，２７２</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4451,16 +4441,16 @@
               <Sentence Num="1" WritingMode="vertical">３，００９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×４２９÷１００＋３，００９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×４２９÷１００＋３，００９</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×８５９÷２００＋３，４３８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×８５９÷２００＋３，４３８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８３÷４００＋４，２９７</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８３÷４００＋４，２９７</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８３÷４００＋６，２８０</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８３÷４００＋６，２８０</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4471,16 +4461,16 @@
               <Sentence Num="1" WritingMode="vertical">３，４７０</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×４９６÷１００＋３，４７０</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×４９６÷１００＋３，４７０</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×９９２÷２００＋３，９６６</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×９９２÷２００＋３，９６６</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×１，９８４÷４００＋４，９５８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×１，９８４÷４００＋４，９５８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×１，９８４÷４００＋６，９４２</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×１，９８４÷４００＋６，９４２</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4491,16 +4481,16 @@
               <Sentence Num="1" WritingMode="vertical">４，０４９</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－１００）×５７９÷１００＋４，０４９</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－１００）×５７９÷１００＋４，０４９</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－２００）×１，１５７÷２００＋４，６２８</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－２００）×１，１５７÷２００＋４，６２８</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－４００）×３，１４０÷４００＋５，７８５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－４００）×３，１４０÷４００＋５，７８５</ArithFormula></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（収容定員－８００）×３，１４０÷４００＋８，９２５</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>（収容定員－８００）×３，１４０÷４００＋８，９２５</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -4665,21 +4655,22 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence Num="1" WritingMode="vertical">この表に定める面積は、医学又は歯学に関する学科のみを置く場合に係る面積とし、その他の学科を置く場合に係る面積については、医学又は歯学に関する学科についてこの表に定める面積と当該医学又は歯学に関する学科以外の学科についてイ（１）又は（２）の表に定める面積の合計とする。</Sentence>
-          </Remarks>
-        </TableStruct>
-      <Item Num="3">
-        <ItemTitle>ハ</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">医学又は歯学に関する学部以外の学部に係る加算校舎面積</Sentence>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>（１）</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">専門職学部以外の学部に係る加算校舎面積</Sentence>
-          </Subitem1Sentence>
-          <TableStruct>
+          <RemarksLabel LineBreak="true">備考　この表に定める面積は、医学又は歯学に関する学科のみを置く場合に係る面積とし、その他の学科を置く場合に係る面積については、医学又は歯学に関する学科についてこの表に定める面積と当該医学又は歯学に関する学科以外の学科についてイ（１）又は（２）の表に定める面積の合計とする。</RemarksLabel>
+          <Item Num="1">
+            <ItemTitle>ハ</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">医学又は歯学に関する学部以外の学部に係る加算校舎面積</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>（１）</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">専門職学部以外の学部に係る加算校舎面積</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Remarks>
+      </TableStruct>
+      <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5287,18 +5278,21 @@
         </Table>
         <Remarks>
           <RemarksLabel>備考</RemarksLabel>
-          <Sentence Num="1" WritingMode="vertical">収容定員が二、〇〇〇人を超える場合は、二〇〇人を増すごとに、この表に定める二、〇〇〇人までの面積から一、八〇〇人までの面積を減じて算出される数を加算するものとする（（２）の表において同じ。）。</Sentence>
-            </Remarks>
-          </TableStruct>
-        </Subitem1>
-        <Subitem1 Num="1">
-          <Subitem1Title>（２）</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">専門職学部に係る加算校舎面積</Sentence>
-          </Subitem1Sentence>
+          <Item Num="1">
+            <ItemTitle/>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">収容定員が二、〇〇〇人を超える場合は、二〇〇人を増すごとに、この表に定める二、〇〇〇人までの面積から一、八〇〇人までの面積を減じて算出される数を加算するものとする（（２）の表において同じ。）。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>（２）</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">専門職学部に係る加算校舎面積</Sentence>
+              </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <TableStruct>
+        </Remarks>
+      </TableStruct>
+      <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
