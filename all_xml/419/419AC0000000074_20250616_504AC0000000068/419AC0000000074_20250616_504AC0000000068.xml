@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="074" Year="19" PromulgateMonth="06" PromulgateDay="01" ScheduledEnforcementDate="2025/06/16"><LawNum>平成十九年法律第七十四号</LawNum><LawBody><LawTitle Kana="かぶしきがいしゃしょうこうくみあいちゅうおうきんこほう" Abbrev="商工中金法" AbbrevKana="し">株式会社商工組合中央金庫法</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="074" Year="19" PromulgateMonth="06" PromulgateDay="01"><LawNum>平成十九年法律第七十四号</LawNum><LawBody><LawTitle Kana="かぶしきがいしゃしょうこうくみあいちゅうおうきんこほう" Abbrev="商工中金法" AbbrevKana="し">株式会社商工組合中央金庫法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -24,7 +24,7 @@
       </TOCChapter>
       <TOCChapter Num="6">
         <ChapterTitle>第六章　子会社等</ChapterTitle>
-        <ArticleRange>（第三十九条・第四十条）</ArticleRange>
+        <ArticleRange>（第三十九条―第四十条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　計算</ChapterTitle>
@@ -37,6 +37,10 @@
       <TOCChapter Num="8_2">
         <ChapterTitle>第八章の二　商工組合中央金庫電子決済等代行業</ChapterTitle>
         <ArticleRange>（第六十条の二―第六十条の三十四）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8_3">
+        <ChapterTitle>第八章の三　指定紛争解決機関</ChapterTitle>
+        <ArticleRange>（第六十条の三十五―第六十条の三十七）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="9">
         <ChapterTitle>第九章　雑則</ChapterTitle>
@@ -196,12 +200,11 @@
           </Paragraph>
         </Article>
         <Article Num="4">
-          <ArticleCaption>（株式）</ArticleCaption>
           <ArticleTitle>第四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、会社法（平成十七年法律第八十六号）第百九十九条第一項に規定するその発行する株式又は同法第二百三十八条第一項に規定する募集新株予約権を引き受ける者の募集をしようとするときは、主務大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -224,78 +227,72 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、商工組合中央金庫の株式（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式を除き、会社法第八百七十九条第三項の規定により議決権を有するものとみなされる株式を含む。以下この条において「商工組合中央金庫の株式」という。）を発行した場合又は同法第百十三条第四項に規定する自己株式（商工組合中央金庫の株式に限る。）を処分した場合において、商工組合中央金庫の株式の株主に係る株主名簿記載事項（同法第百二十一条に規定する株主名簿記載事項をいう。）を株主名簿に記載し、又は記録するときは、次に掲げるもの以外のもの（以下「無資格者」という。）の氏名又は名称及び住所を株主名簿に記載し、又は記録してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、商工組合中央金庫の株式（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式を除き、会社法（平成十七年法律第八十六号）第八百七十九条第三項の規定により議決権を有するものとみなされる株式を含む。以下この条において「商工組合中央金庫の株式」という。）を発行した場合又は同法第百十三条第四項に規定する自己株式（商工組合中央金庫の株式に限る。）を処分した場合において、商工組合中央金庫の株式の株主に係る株主名簿記載事項（同法第百二十一条に規定する株主名簿記載事項をいう。）を株主名簿に記載し、又は記録するときは、次に掲げるもの以外のもの（以下「無資格者」という。）の氏名又は名称及び住所を株主名簿に記載し、又は記録してはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">政府</Sentence>
+                <Sentence Num="1" WritingMode="vertical">中小企業等協同組合</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">中小企業等協同組合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">協業組合、商工組合又は商工組合連合会</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">協業組合、商工組合又は商工組合連合会</Sentence>
+                <Sentence Num="1" WritingMode="vertical">商店街振興組合又は商店街振興組合連合会</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">商店街振興組合又は商店街振興組合連合会</Sentence>
+                <Sentence Num="1" WritingMode="vertical">生活衛生同業組合、生活衛生同業小組合又は生活衛生同業組合連合会（直接又は間接の構成員である事業者の三分の二以上が五千万円（卸売業を主たる事業とする者については、一億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時五十人（卸売業又はサービス業を主たる事業とする者については、百人）以下の従業員を使用する者である場合に限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">生活衛生同業組合、生活衛生同業小組合又は生活衛生同業組合連合会（直接又は間接の構成員である事業者の三分の二以上が五千万円（卸売業を主たる事業とする者については、一億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時五十人（卸売業又はサービス業を主たる事業とする者については、百人）以下の従業員を使用する者である場合に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">酒造組合、酒造組合連合会又は酒造組合中央会（直接又は間接の構成員である事業者の三分の二以上が三億円以下の金額をその資本金の額若しくは出資の総額とする法人又は常時三百人以下の従業員を使用する者である場合に限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">酒造組合、酒造組合連合会又は酒造組合中央会（直接又は間接の構成員である事業者の三分の二以上が三億円以下の金額をその資本金の額若しくは出資の総額とする法人又は常時三百人以下の従業員を使用する者である場合に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">酒販組合、酒販組合連合会又は酒販組合中央会（直接又は間接の構成員である事業者の三分の二以上が五千万円（酒類卸売業者については、一億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時五十人（酒類卸売業者については、百人）以下の従業員を使用する者である場合に限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">酒販組合、酒販組合連合会又は酒販組合中央会（直接又は間接の構成員である事業者の三分の二以上が五千万円（酒類卸売業者については、一億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時五十人（酒類卸売業者については、百人）以下の従業員を使用する者である場合に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内航海運組合又は内航海運組合連合会（直接又は間接の構成員である事業者の三分の二以上が三億円以下の金額をその資本金の額若しくは出資の総額とする法人又は常時三百人以下の従業員を使用する者である場合に限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">内航海運組合又は内航海運組合連合会（直接又は間接の構成員である事業者の三分の二以上が三億円以下の金額をその資本金の額若しくは出資の総額とする法人又は常時三百人以下の従業員を使用する者である場合に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">輸出組合又は輸入組合（直接又は間接の構成員である事業者の三分の二以上が一億円（小売業又はサービス業を主たる事業とする者については五千万円、商業又はサービス業以外の事業を主たる事業とする者については三億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時百人（小売業を主たる事業とする者については五十人、商業又はサービス業以外の事業を主たる事業とする者については三百人）以下の従業員を使用する者である場合に限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">輸出組合又は輸入組合（直接又は間接の構成員である事業者の三分の二以上が一億円（小売業又はサービス業を主たる事業とする者については五千万円、商業又はサービス業以外の事業を主たる事業とする者については三億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時百人（小売業を主たる事業とする者については五十人、商業又はサービス業以外の事業を主たる事業とする者については三百人）以下の従業員を使用する者である場合に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">市街地再開発組合（直接又は間接の構成員の三分の二以上が五千万円（卸売業を主たる事業とする者については一億円、商業又はサービス業以外の事業を主たる事業とする者については三億円）以下の金額をその資本金の額若しくは出資の総額とする法人である事業者又は常時五十人（卸売業又はサービス業を主たる事業とする者については百人、商業又はサービス業以外の事業を主たる事業とする者については三百人）以下の従業員を使用する事業者である場合に限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">市街地再開発組合（直接又は間接の構成員の三分の二以上が五千万円（卸売業を主たる事業とする者については一億円、商業又はサービス業以外の事業を主たる事業とする者については三億円）以下の金額をその資本金の額若しくは出資の総額とする法人である事業者又は常時五十人（卸売業又はサービス業を主たる事業とする者については百人、商業又はサービス業以外の事業を主たる事業とする者については三百人）以下の従業員を使用する事業者である場合に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる者であって商工組合中央金庫の株式の株主であるものの直接又は間接の構成員</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二号から前号までに掲げる者であって商工組合中央金庫の株式の株主であるものの直接又は間接の構成員</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="12">
-              <ItemTitle>十二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二号から前号までに掲げる者のほか、主として中小規模の事業者を構成員とする団体及びその直接又は間接の構成員の健全な発達を図るために必要な事業を行う団体並びに主として中小規模の事業者を構成員とする団体並びにそれらの直接又は間接の構成員であって、政令で定めるもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる者のほか、主として中小規模の事業者を構成員とする団体及びその直接又は間接の構成員の健全な発達を図るために必要な事業を行う団体並びに主として中小規模の事業者を構成員とする団体並びにそれらの直接又は間接の構成員であって、政令で定めるもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -361,13 +358,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">政府以外のものであって、政令で定める取引又は行為により商工組合中央金庫の総株主の議決権（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式についての議決権を除き、会社法第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を含む。以下同じ。）の百分の五（以下「主要株主基準値」という。）以上の数の議決権の保有者（他人（仮設人を含む。）の名義をもって保有する者を含む。以下同じ。）になろうとするものは、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">政令で定める取引又は行為により商工組合中央金庫の総株主の議決権（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式についての議決権を除き、会社法第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を含む。以下同じ。）の百分の五（以下「主要株主基準値」という。）以上の数の議決権の保有者（他人（仮設人を含む。）の名義をもって保有する者を含む。以下同じ。）になろうとするものは、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">前項の政令で定める取引又は行為以外の事由により主要株主基準値以上の数の議決権の保有者になった者（政府以外のものに限る。以下「特定主要株主」という。）は、当該事由の生じた日の属する商工組合中央金庫の事業年度の終了の日から一年を経過する日（以下この項及び第五項において「猶予期限日」という。）までに主要株主基準値以上の数の議決権の保有者でなくなるよう、所要の措置を講じなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の政令で定める取引又は行為以外の事由により主要株主基準値以上の数の議決権の保有者になった者（以下「特定主要株主」という。）は、当該事由の生じた日の属する商工組合中央金庫の事業年度の終了の日から一年を経過する日（以下この項及び第五項において「猶予期限日」という。）までに主要株主基準値以上の数の議決権の保有者でなくなるよう、所要の措置を講じなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該特定主要株主が、猶予期限日後も引き続き主要株主基準値以上の数の議決権の保有者であることについて主務大臣の認可を受けた場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -488,7 +485,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第八条から第十条まで及び前条第二項の規定において、議決権の保有者が保有する議決権には、金銭又は有価証券の信託に係る信託財産として所有する株式に係る議決権（委託者又は受益者が行使し、又はその行使について当該議決権の保有者に指図を行うことができるものに限る。）その他主務省令で定める議決権を含まないものとし、信託財産である株式に係る議決権であって当該議決権の保有者が委託者若しくは受益者として行使し又はその行使について指図を行うことができるもの（主務省令で定める議決権を除く。）を含むものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第八条から第十条まで及び前条第二項の規定において、議決権の保有者が保有する議決権には、金銭又は有価証券の信託に係る信託財産として所有する株式に係る議決権（委託者又は受益者が行使し、又はその行使について当該議決権の保有者に指図を行うことができるものに限る。）その他主務省令で定める議決権を含まないものとし、信託財産である株式に係る議決権であって当該議決権の保有者が委託者若しくは受益者として行使し又はその行使について指図を行うことができるもの（主務省令で定める議決権を除く。）及び社債、株式等の振替に関する法律（平成十三年法律第七十五号）第百四十七条第一項又は第百四十八条第一項の規定により発行者に対抗することができない株式に係る議決権を含むものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -630,8 +627,41 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の常務に従事する取締役（指名委員会等設置会社である場合にあっては、執行役）は、商工組合中央金庫の経営管理を的確、公正かつ効率的に遂行することができる知識及び経験を有し、かつ、十分な社会的信用を有する者でなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号に掲げる者は、当該各号に定める知識及び経験を有し、かつ、十分な社会的信用を有する者でなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の常務に従事する取締役（指名委員会等設置会社である場合にあっては、商工組合中央金庫の常務に従事する取締役及び執行役）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の経営管理を的確、公正かつ効率的に遂行することができる知識及び経験</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の監査役（監査等委員会設置会社である場合にあっては、監査等委員）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の取締役（会計参与設置会社である場合にあっては、取締役及び会計参与）の職務の執行の監査を的確、公正かつ効率的に遂行することができる知識及び経験</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の監査委員</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の執行役及び取締役（会計参与設置会社である場合にあっては、執行役、取締役及び会計参与）の職務の執行の監査を的確、公正かつ効率的に遂行することができる知識及び経験</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -706,7 +736,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六条第一項第二号から第十号まで及び第十二号に掲げるもの（同号に掲げるものにあっては、主として中小規模の事業者を構成員とする団体で政令で定めるものに限る。）であって商工組合中央金庫の株主であるもの並びにその直接又は間接の構成員（以下「融資対象団体等」という。）に対する資金の貸付け又は手形の割引</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条第一項第一号から第九号まで及び第十一号に掲げるもの（同号に掲げるものにあっては、主として中小規模の事業者を構成員とする団体で政令で定めるものに限る。）であって商工組合中央金庫の株主であるもの並びにその直接又は間接の構成員（以下「融資対象団体等」という。）に対する資金の貸付け又は手形の割引</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -730,7 +760,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六条第一項第二号から第十号まで及び第十二号に掲げるもの（同号に掲げるものにあっては、第一項第二号の政令で定めるものに限る。）であって商工組合中央金庫の株主でないもの並びにその直接又は間接の構成員</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条第一項第一号から第九号まで及び第十一号に掲げるもの（同号に掲げるものにあっては、第一項第二号の政令で定めるものに限る。）であって商工組合中央金庫の株主でないもの並びにその直接又は間接の構成員</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -766,7 +796,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">金融商品取引法第二十八条第八項に規定する有価証券関連業を営む者（金融商品仲介業者（同法第二条第十二項に規定する金融商品仲介業者をいう。）又は金融サービス仲介業者（金融サービスの提供に関する法律（平成十二年法律第百一号）第十一条第六項に規定する金融サービス仲介業者をいい、有価証券等仲介業務（同条第四項に規定する有価証券等仲介業務をいう。第三十九条第一項第二号の二において同じ。）を行う者に限る。）のうち主務省令で定めるものに該当する者を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">有価証券関連業（金融商品取引法第二十八条第八項に規定する有価証券関連業をいう。以下同じ。）を営む者（金融商品仲介業者（同法第二条第十二項に規定する金融商品仲介業者をいう。第三十九条第一項第二号において同じ。）又は金融サービス仲介業者（金融サービスの提供に関する法律（平成十二年法律第百一号）第十一条第六項に規定する金融サービス仲介業者をいい、有価証券等仲介業務（同条第四項に規定する有価証券等仲介業務をいう。第三十九条第一項第二号の二において同じ。）を行う者に限る。）のうち主務省令で定めるものに該当する者を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -779,6 +809,12 @@
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">預金者及び定期積金の積金者（商工組合中央金庫が受け入れた顧客の預金又は定期積金を担保として貸付けをする場合に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる者のほか、政令で定める事由により融資対象団体等でなくなった者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -913,6 +949,48 @@
                 <Sentence Num="1" WritingMode="vertical">有価証券関連店頭デリバティブ取引の媒介、取次ぎ又は代理</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="22">
+              <ItemTitle>二十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">機械類その他の物件を使用させる契約であって次に掲げる要件の全てを満たすものに基づき、当該物件を使用させる業務</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">契約の対象とする物件（以下この号において「リース物件」という。）を使用させる期間（以下この号において「使用期間」という。）の中途において契約の解除をすることができないものであること又はこれに準ずるものとして主務省令で定めるものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">使用期間において、リース物件の取得価額から当該リース物件の使用期間の満了の時において譲渡するとした場合に見込まれるその譲渡対価の額に相当する金額を控除した額及び固定資産税に相当する額、保険料その他当該リース物件を使用させるために必要となる付随費用として主務省令で定める費用の合計額を対価として受領することを内容とするものであること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">使用期間が満了した後、リース物件の所有権又はリース物件の使用及び収益を目的とする権利が相手方に移転する旨の定めがないこと。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="23">
+              <ItemTitle>二十三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げる業務の代理又は媒介</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="24">
+              <ItemTitle>二十四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">顧客から取得した当該顧客に関する情報を当該顧客の同意を得て第三者に提供する業務その他商工組合中央金庫の保有する情報を第三者に提供する業務であって、商工組合中央金庫の営む第一項各号に掲げる業務の高度化又は商工組合中央金庫の利用者の利便の向上に資するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="25">
+              <ItemTitle>二十五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の保有する人材、情報通信技術、設備その他の商工組合中央金庫の営む第一項各号に掲げる業務に係る経営資源を主として活用して営む業務であって、地域の活性化、産業の生産性の向上その他の持続可能な社会の構築に資する業務として主務省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
@@ -938,7 +1016,7 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">社債、株式等の振替に関する法律（平成十三年法律第七十五号）第六十六条第一号に規定する短期社債</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">社債、株式等の振替に関する法律第六十六条第一号に規定する短期社債</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
@@ -1126,6 +1204,148 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="22_2">
+          <ArticleCaption>（金融機関との連携）</ArticleCaption>
+          <ArticleTitle>第二十二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、その目的を達成するため、その業務を行うに当たっては、融資対象団体等の事業の再生その他の事業活動の活性化が図られるよう、銀行その他の金融機関と連携するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_3">
+          <ArticleCaption>（危機対応業務の実施の責務）</ArticleCaption>
+          <ArticleTitle>第二十二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、その目的を達成するため、株式会社日本政策金融公庫法（平成十九年法律第五十七号）第二条第四号に規定する特定資金を必要とする者に対し円滑に資金が供給されるよう、同条第五号に規定する危機対応業務（以下「危機対応業務」という。）を行う責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_4">
+          <ArticleCaption>（危機対応業務に関する事業計画の認可）</ArticleCaption>
+          <ArticleTitle>第二十二条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、事業年度ごとに、主務省令で定めるところにより、危機対応業務に関する事業計画（以下「事業計画」という。）を作成し、当該事業年度の開始前に、主務大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業計画には、主務省令で定める危機対応業務の実施方針に関する事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_5">
+          <ArticleCaption>（指定紛争解決機関との契約締結義務等）</ArticleCaption>
+          <ArticleTitle>第二十二条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、次の各号に掲げる場合の区分に応じ、当該各号に定める措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">指定紛争解決機関（第六十条の三十五第一項第八号に規定する指定紛争解決機関をいう。以下この条において同じ。）が存在する場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">一の指定紛争解決機関との間で手続実施基本契約（同号に規定する手続実施基本契約をいう。第三項において同じ。）を締結する措置</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">指定紛争解決機関が存在しない場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第六十条の三十五第二項に規定する商工組合中央金庫業務に関する苦情処理措置及び紛争解決措置</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">苦情処理措置</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">顧客からの苦情の処理の業務に従事する職員その他の従業者に対する助言若しくは指導を消費生活に関する消費者と事業者との間に生じた苦情に係る相談その他の消費生活に関する事項について専門的な知識経験を有する者として主務省令で定める者に行わせること又はこれに準ずるものとして主務省令で定める措置</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">紛争解決措置</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">顧客との紛争の解決を認証紛争解決手続（裁判外紛争解決手続の利用の促進に関する法律（平成十六年法律第百五十一号）第二条第三号に規定する認証紛争解決手続をいう。）により図ること又はこれに準ずるものとして主務省令で定める措置</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、第一項の規定により手続実施基本契約を締結する措置を講じた場合には、当該手続実施基本契約の相手方である指定紛争解決機関の商号又は名称を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定は、次の各号に掲げる場合の区分に応じ、当該各号に定める期間においては、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第一項第一号に掲げる場合に該当していた場合において、同項第二号に掲げる場合に該当することとなったとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の八十三第一項の規定による紛争解決等業務（第六十条の三十五第二項に規定する紛争解決等業務をいう。次号において同じ。）の廃止の認可又は第六十条の三十七第一項において準用する同法第五十二条の八十四第一項の規定による指定の取消しの時に、第一項第二号に定める措置を講ずるために必要な期間として主務大臣が定める期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第一項第一号に掲げる場合に該当していた場合において、同号の一の指定紛争解決機関の紛争解決等業務の廃止が第六十条の三十七第一項において準用する銀行法第五十二条の八十三第一項の規定により認可されたとき、又は同号の一の指定紛争解決機関の第六十条の三十五第一項の規定による指定が第六十条の三十七第一項において準用する同法第五十二条の八十四第一項の規定により取り消されたとき（前号に掲げる場合を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その認可又は取消しの時に、第一項第一号に定める措置を講ずるために必要な期間として主務大臣が定める期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第一項第二号に掲げる場合に該当していた場合において、同項第一号に掲げる場合に該当することとなったとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第六十条の三十五第一項の規定による指定の時に、同号に定める措置を講ずるために必要な期間として主務大臣が定める期間</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
         <Article Num="23">
           <ArticleCaption>（経営の健全性の確保）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
@@ -1152,6 +1372,13 @@
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の「子会社」とは、商工組合中央金庫がその総株主等の議決権の百分の五十を超える議決権を有する会社をいう。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、商工組合中央金庫及びその一若しくは二以上の子会社又は商工組合中央金庫の一若しくは二以上の子会社がその総株主等の議決権の百分の五十を超える議決権を有する他の会社は、商工組合中央金庫の子会社とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十四条の規定は、前項の規定を適用する場合における商工組合中央金庫又はその子会社（同項に規定する子会社をいう。以下同じ。）が有する議決権について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条中「所有する株式」とあるのは「所有する株式又は持分」と、「である株式」とあるのは「である株式又は持分」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1187,22 +1414,34 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">商工組合中央金庫の同一人（当該同一人と政令で定める特殊の関係のある者を含む。以下この条において同じ。）に対する信用の供与等（信用の供与又は出資として政令で定めるものをいう。以下この条において同じ。）の額は、政令で定める区分ごとに、商工組合中央金庫の自己資本の額に政令で定める率を乗じて得た額（以下この条において「信用供与等限度額」という。）を超えてはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">商工組合中央金庫の同一人（当該同一人と政令で定める特殊の関係のある者を含む。以下この条において同じ。）に対する信用の供与等（信用の供与又は出資（信用の供与又は出資に相当するものを含む。）として政令で定めるものをいう。以下この条において同じ。）の額は、政令で定める区分ごとに、商工組合中央金庫の自己資本の額に政令で定める率を乗じて得た額（以下この条において「信用供与等限度額」という。）を超えてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、信用の供与等を受けている者が合併をし、共同新設分割（二以上の株式会社又は合同会社が共同してする新設分割をいう。）若しくは吸収分割をし、又は事業を譲り受けたことにより商工組合中央金庫の同一人に対する信用の供与等の額が信用供与等限度額を超えることとなる場合その他政令で定めるやむを得ない理由がある場合において、主務大臣の承認を受けたときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫が第二十三条第二項に規定する子会社（主務省令で定める会社を除く。）その他の商工組合中央金庫と主務省令で定める特殊の関係のある者（以下この条において「子会社等」という。）を有する場合には、商工組合中央金庫及び当該子会社等又は当該子会社等の同一人に対する信用の供与等の額は、政令で定める区分ごとに、合算して、商工組合中央金庫及び当該子会社等の自己資本の純合計額に政令で定める率を乗じて得た額（以下この条において「合算信用供与等限度額」という。）を超えてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫が子会社（主務省令で定める会社を除く。）その他の商工組合中央金庫と主務省令で定める特殊の関係のある者（以下この条において「子会社等」という。）を有する場合には、商工組合中央金庫及び当該子会社等又は当該子会社等の同一人に対する信用の供与等の額は、政令で定める区分ごとに、合算して、商工組合中央金庫及び当該子会社等の自己資本の純合計額に政令で定める率を乗じて得た額（以下この条において「合算信用供与等限度額」という。）を超えてはならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、前項ただし書の規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項の規定は、国及び地方公共団体に対する信用の供与、政府が元本の返済及び利息の支払について保証している信用の供与その他これらに準ずるものとして政令で定める信用の供与等については、適用しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、次に掲げる信用の供与等については、適用しない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体に対する信用の供与、政府が元本の返済及び利息の支払について保証している信用の供与その他これらに準ずるものとして政令で定める信用の供与等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信用の供与等を行う商工組合中央金庫又はその子会社等と実質的に同一と認められる者に対する信用の供与等その他の政令で定める信用の供与等</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
@@ -1212,6 +1451,12 @@
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">いかなる名義をもってするかを問わず、又はいかなる方法をもってするかを問わず、商工組合中央金庫又はその子会社等が第一項本文又は第二項前段の規定の適用を免れる目的で信用の供与等を行った場合であって、名義人以外の者が実質的に当該信用の供与等を受けるときは、当該信用の供与等は、商工組合中央金庫又はその子会社等の実質的に当該信用の供与等を受ける者に対する信用の供与等として、これらの規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、信用の供与等の額、第一項に規定する自己資本の額、信用供与等限度額、第二項に規定する自己資本の純合計額及び合算信用供与等限度額の計算方法その他第一項及び第二項の規定の適用に関し必要な事項は、主務省令で定める。</Sentence>
             </ParagraphSentence>
@@ -1223,7 +1468,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">商工組合中央金庫は、その特定関係者（商工組合中央金庫の子会社（第二十三条第二項に規定する子会社をいう。以下同じ。）、代理組合等（第二条第三項の代理又は媒介を行う者をいう。以下同じ。）その他の商工組合中央金庫と政令で定める特殊の関係のある者をいう。以下この条及び次条において同じ。）又はその特定関係者の顧客との間で、次に掲げる取引又は行為をしてはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">商工組合中央金庫は、その特定関係者（商工組合中央金庫の子会社、代理組合等（第二条第三項の代理又は媒介を行う者をいう。以下同じ。）その他の商工組合中央金庫と政令で定める特殊の関係のある者をいう。以下この条及び次条において同じ。）又はその特定関係者の顧客との間で、次に掲げる取引又は行為をしてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該取引又は行為をすることにつき主務省令で定めるやむを得ない理由がある場合において、主務大臣の承認を受けたときは、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -1286,7 +1531,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の「子金融機関等」とは、商工組合中央金庫が総株主等の議決権の過半数を保有している者その他の商工組合中央金庫と密接な関係を有する者として政令で定める者のうち、銀行、金融商品取引法第二条第九項に規定する金融商品取引業者（以下「金融商品取引業者」という。）、保険業法第二条第二項に規定する保険会社（以下「保険会社」という。）その他政令で定める金融業を行う者をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の「子金融機関等」とは、商工組合中央金庫が総株主等の議決権の過半数を保有している者その他の商工組合中央金庫と密接な関係を有する者として政令で定める者のうち、銀行、金融商品取引法第二条第九項に規定する金融商品取引業者（以下「金融商品取引業者」という。）、保険業法第二条第二項に規定する保険会社（第三十九条第一項第三号及び第六号ロにおいて「保険会社」という。）その他政令で定める金融業を行う者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1347,6 +1592,12 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、商工組合中央金庫の無人の営業所において臨時にその業務の全部又は一部を休止する場合その他の主務省令で定める場合については、同項の規定による公告は、することを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定にかかわらず、商工組合中央金庫の無人の営業所において臨時にその業務の一部を休止する場合その他の主務省令で定める場合については、同項の規定による店頭の掲示は、することを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1508,7 +1759,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、次に掲げる会社（以下この条において「子会社対象会社」という。）以外の会社を子会社としてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、次に掲げる会社（以下この章において「子会社対象会社」という。）以外の会社を子会社としてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1519,13 +1770,13 @@
             <Item Num="1_2">
               <ItemTitle>一の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">金融商品取引業者のうち、有価証券関連業（金融商品取引法第二十八条第八項に規定する有価証券関連業をいう。以下同じ。）のほか、同法第三十五条第一項第一号から第八号までに掲げる行為を行う業務その他の主務省令で定める業務を専ら営むもの（以下「証券専門会社」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">金融商品取引業者のうち、有価証券関連業のほか、金融商品取引法第三十五条第一項第一号から第八号までに掲げる行為を行う業務その他の主務省令で定める業務を専ら営むもの（第六号ロにおいて「証券専門会社」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">金融商品取引法第二条第十二項に規定する金融商品仲介業者のうち、金融商品仲介業（同条第十一項に規定する金融商品仲介業をいい、次に掲げる行為のいずれかを業として行うものに限る。以下同じ。）のほか、金融商品仲介業に付随する業務その他の主務省令で定める業務を専ら営むもの（以下「証券仲介専門会社」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">金融商品仲介業者のうち、金融商品仲介業（金融商品取引法第二条第十一項に規定する金融商品仲介業をいい、次に掲げる行為のいずれかを業として行うものに限る。以下この号において同じ。）のほか、金融商品仲介業に付随する業務その他の主務省令で定める業務を専ら営むもの（第六号ロにおいて「証券仲介専門会社」という。）</Sentence>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -1585,108 +1836,61 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">保険業法第二条第十八項に規定する少額短期保険業者（以下「少額短期保険業者」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">保険業法第二条第十八項に規定する少額短期保険業者（第六号ロにおいて「少額短期保険業者」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">信託業法（平成十六年法律第百五十四号）第二条第二項に規定する信託会社のうち、信託業務を専ら営むもの（以下「信託専門会社」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">信託業法（平成十六年法律第百五十四号）第二条第二項に規定する信託会社のうち、信託業務を専ら営むもの（次号ロにおいて「信託専門会社」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">従属業務又は金融関連業務を専ら営む会社（従属業務を営む会社にあっては主として商工組合中央金庫、その子会社（第一号に掲げる会社に限る。第八項において同じ。）その他これらに類する者として主務省令で定めるものの営む業務のためにその業務を営んでいるものに限るものとし、金融関連業務を営む会社（以下「金融関連業務会社」という。）であって次に掲げる業務の区分に該当する場合には、当該区分に定めるものに、それぞれ限るものとする。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる業務を専ら営む会社（イに掲げる業務を営む会社にあっては、商工組合中央金庫、その子会社（第一号に掲げる会社に限る。）その他これらに類する者として主務省令で定めるものの営む業務のためにその業務を営んでいるものに限る。）</Sentence>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">証券専門関連業務、保険専門関連業務及び信託専門関連業務のいずれも営むもの</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該金融関連業務会社の議決権について、商工組合中央金庫の証券子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等、保険子会社等及び信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有し、かつ、商工組合中央金庫の保険子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等、保険子会社等及び信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有し、かつ、商工組合中央金庫の信託子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等、保険子会社等及び信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有しているもの</Sentence>
-                  </Column>
+                  <Sentence Num="1" WritingMode="vertical">従属業務</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">証券専門関連業務及び保険専門関連業務のいずれも営むもの（イに掲げるものを除く。）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該金融関連業務会社の議決権について、商工組合中央金庫の証券子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等及び保険子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有し、かつ、商工組合中央金庫の保険子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等及び保険子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有しているもの</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">証券専門関連業務及び信託専門関連業務のいずれも営むもの（イに掲げるものを除く。）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該金融関連業務会社の議決権について、商工組合中央金庫の証券子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等及び信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有し、かつ、商工組合中央金庫の信託子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等及び信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有しているもの</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="4">
-                <Subitem1Title>ニ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">保険専門関連業務及び信託専門関連業務のいずれも営むもの（イに掲げるものを除く。）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該金融関連業務会社の議決権について、商工組合中央金庫の保険子会社等が合算して、商工組合中央金庫又はその子会社（保険子会社等及び信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有し、かつ、商工組合中央金庫の信託子会社等が合算して、商工組合中央金庫又はその子会社（保険子会社等及び信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有しているもの</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="5">
-                <Subitem1Title>ホ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">証券専門関連業務を営むもの（イからハまでに掲げるものを除く。）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該金融関連業務会社の議決権について、商工組合中央金庫の証券子会社等が合算して、商工組合中央金庫又はその子会社（証券子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有しているもの</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="6">
-                <Subitem1Title>ヘ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">保険専門関連業務を営むもの（イ、ロ及びニに掲げるものを除く。）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該金融関連業務会社の議決権について、商工組合中央金庫の保険子会社等が合算して、商工組合中央金庫又はその子会社（保険子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有しているもの</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="7">
-                <Subitem1Title>ト</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">信託専門関連業務を営むもの（イ、ハ及びニに掲げるものを除く。）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該金融関連業務会社の議決権について、商工組合中央金庫の信託子会社等が合算して、商工組合中央金庫又はその子会社（信託子会社等を除く。）が合算して保有する当該金融関連業務会社の議決権の数を超えて保有しているもの</Sentence>
-                  </Column>
+                  <Sentence Num="1" WritingMode="vertical">金融関連業務（商工組合中央金庫が証券専門会社及び証券仲介専門会社のいずれをも子会社としていない場合にあっては証券専門関連業務を、商工組合中央金庫が保険会社及び少額短期保険業者のいずれをも子会社としていない場合にあっては保険専門関連業務を、商工組合中央金庫が信託専門会社を子会社としていない場合（商工組合中央金庫が第二十一条第七項の規定により信託業務を行う場合を除く。）にあっては信託専門関連業務を、それぞれ除く。）</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">新たな事業分野を開拓する会社又は経営の向上に相当程度寄与すると認められる新たな事業活動を行う会社として主務省令で定める会社（当該会社の議決権を、商工組合中央金庫の子会社のうち前号に掲げる会社で主務省令で定めるもの（次条第七項において「特定子会社」という。）以外の子会社又は商工組合中央金庫が、合算して、同条第一項に規定する基準議決権数を超えて保有していないものに限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">新たな事業分野を開拓する会社として主務省令で定める会社（商工組合中央金庫の子会社のうち前号に掲げる会社で主務省令で定めるもの（以下この項並びに第四十条第七項及び第八項において「特定子会社」という。）以外の子会社又は商工組合中央金庫が、合算してその基準議決権数（同条第一項に規定する基準議決権数をいう。以下この条において同じ。）を超える議決権を保有していないものに限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前各号に掲げる会社のみを子会社とする持株会社（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第九条第四項第一号に規定する持株会社をいう。次項において同じ。）で主務省令で定めるもの（当該持株会社になることを予定している会社を含む。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">経営の向上に相当程度寄与すると認められる新たな事業活動を行う会社として主務省令で定める会社（その事業に係る計画又は当該計画に基づく措置について主務省令で定める要件に該当しない会社（第四十条第一項及び第七項において「特別事業再生会社」という。）にあっては、商工組合中央金庫の特定子会社以外の子会社又は商工組合中央金庫が、合算してその基準議決権数を超える議決権を保有していないものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域の活性化に資すると認められる事業活動を行う会社として主務省令で定める会社（商工組合中央金庫の特定子会社以外の子会社又は商工組合中央金庫が、合算してその基準議決権数を超える議決権を保有していないものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる会社のほか、情報通信技術その他の技術を活用した商工組合中央金庫の営む第二十一条第一項各号に掲げる業務の高度化若しくは商工組合中央金庫の利用者の利便の向上に資する業務若しくは地域の活性化、産業の生産性の向上その他の持続可能な社会の構築に資する業務又はこれらに資すると見込まれる業務を営む会社</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">子会社対象会社のみを子会社とする持株会社（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第九条第四項第一号に規定する持株会社をいう。第四十条第一項において同じ。）で主務省令で定めるもの（当該持株会社になることを予定している会社を含む。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1750,118 +1954,31 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">証券子会社等</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の子会社である次に掲げる会社</Sentence>
-                </Column>
-              </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">証券専門会社又は証券仲介専門会社</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">イに掲げる会社を子会社とする前項第八号に掲げる持株会社</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">その他の会社であって、商工組合中央金庫の子会社である証券専門会社又は証券仲介専門会社の子会社のうち主務省令で定めるもの</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Num="7">
-              <ItemTitle>七</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">保険子会社等</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の子会社である次に掲げる会社</Sentence>
-                </Column>
-              </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">保険会社又は少額短期保険業者</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">イに掲げる会社を子会社とする前項第八号に掲げる持株会社</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">その他の会社であって、商工組合中央金庫の子会社である保険会社又は少額短期保険業者の子会社のうち主務省令で定めるもの</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Num="8">
-              <ItemTitle>八</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">信託子会社等</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の子会社である次に掲げる会社</Sentence>
-                </Column>
-              </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">信託専門会社</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">イに掲げる会社を子会社とする前項第八号に掲げる持株会社</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">その他の会社であって、商工組合中央金庫の子会社である信託専門会社の子会社のうち主務省令で定めるもの</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定は、子会社対象会社以外の会社が、商工組合中央金庫又はその子会社の担保権の実行による株式又は持分の取得その他の主務省令で定める事由により商工組合中央金庫の子会社となる場合には、適用しない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、商工組合中央金庫は、その子会社となった会社が当該事由の生じた日から一年を経過する日までに子会社でなくなるよう、所要の措置を講じなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定は、子会社対象会社以外の会社が、商工組合中央金庫又はその子会社の担保権の実行による株式又は持分の取得、商工組合中央金庫又はその子会社による同項第七号から第九号までに掲げる会社の株式又は持分の取得その他主務省令で定める事由により商工組合中央金庫の子会社となる場合には、適用しない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、商工組合中央金庫は、その子会社となった会社が当該事由（商工組合中央金庫又はその子会社による同項第七号から第九号までに掲げる会社の株式又は持分の取得その他主務省令で定める事由を除く。）の生じた日から一年を経過する日までに子会社でなくなるよう、所要の措置を講じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、子会社対象会社のうち、第一項第一号から第六号まで又は第八号に掲げる会社（従属業務（第二項第一号に掲げる従属業務をいう。以下この項、第七項第一号及び第八項において同じ。）又は第二十一条第一項各号に掲げる業務に付随し、若しくは関連する業務として主務省令で定めるものを専ら営む会社（従属業務を営む会社にあっては、主として商工組合中央金庫の営む業務のためにその業務を営んでいる会社に限る。）を除く。以下この条及び次条第四項において「認可対象会社」という。）を子会社としようとするときは、第六十一条の規定により合併、会社分割又は事業の譲受けの認可を受ける場合を除き、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、子会社対象会社のうち、第一項第一号から第六号まで、第十号又は第十一号に掲げる会社（第二項第一号に規定する従属業務又は第二十一条第一項各号に掲げる業務に付随し、若しくは関連する業務として主務省令で定めるものを専ら営む会社を除く。以下「認可対象会社」という。）を子会社としようとするとき（第一項第十号に掲げる会社（主務省令で定める会社を除く。）にあっては、商工組合中央金庫又はその子会社が、合算してその基準議決権数を超える議決権を取得し、又は保有しようとするとき）は、第六十一条の規定により合併、会社分割又は事業の譲受けの認可を受ける場合を除き、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定は、認可対象会社が、商工組合中央金庫又はその子会社の担保権の実行による株式又は持分の取得その他の主務省令で定める事由により商工組合中央金庫の子会社となる場合には、適用しない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定は、認可対象会社が、商工組合中央金庫又はその子会社の担保権の実行による株式又は持分の取得その他の主務省令で定める事由により商工組合中央金庫の子会社（第一項第十号に掲げる会社（前項の主務省令で定める会社を除く。）にあっては、商工組合中央金庫又はその子会社が、合算してその基準議決権数を超える議決権を保有する会社。以下この項において同じ。）となる場合には、適用しない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、商工組合中央金庫は、その子会社となった認可対象会社を引き続き子会社とすることについて主務大臣の認可を受けた場合を除き、当該認可対象会社が当該事由の生じた日から一年を経過する日までに子会社でなくなるよう、所要の措置を講じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四項の規定は、商工組合中央金庫が、その子会社としている第一項各号に掲げる会社を当該各号のうち他の号に掲げる会社（認可対象会社に限る。）に該当する子会社としようとするときについて準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四項の規定は、商工組合中央金庫が、現に子会社としている第一項各号に掲げる会社を当該各号のうち他の号に掲げる会社（認可対象会社に限る。）に該当する子会社としようとするとき及び現に子会社としている同項第十号に掲げる会社（その業務により商工組合中央金庫又は当該同号に掲げる会社の業務に係る顧客の利益が不当に害される著しいおそれがあると認められないことその他の要件を満たす会社として主務省令で定める会社に限る。）を同号に掲げる会社（当該主務省令で定める会社を除く。）に該当する子会社としようとするときについて準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
@@ -1872,7 +1989,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項第六号又は第七号に掲げる会社（同項第六号の会社にあっては、主として商工組合中央金庫の営む業務のために従属業務を営む会社に限る。）を子会社としようとするとき（第六十一条の規定により合併、会社分割又は事業の譲受けの認可を受ける場合を除く。）。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項第六号に掲げる会社（第四項の規定により子会社とすることについて認可を受けなければならないとされるものを除く。）又は第一項第七号から第九号までに掲げる会社を子会社としようとするとき（第六十一条の規定により合併、会社分割又は事業の譲受けの認可を受ける場合を除く。）。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1885,14 +2002,48 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項第六号又は第四項の場合において、会社が主として商工組合中央金庫、その子会社その他これらに類する者として主務省令で定めるもの又は商工組合中央金庫の営む業務のために従属業務を営んでいるかどうかの基準は、主務大臣が定める。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、商工組合中央金庫又はその子会社が合算してその基準議決権数を超える議決権を保有している子会社対象会社（商工組合中央金庫の子会社を除く。）について、当該子会社対象会社（第一項第十号に掲げる会社（第四項の主務省令で定める会社を除く。以下この項において同じ。）を除く。）が同号に掲げる会社となったことその他主務省令で定める事実を知ったときは、引き続きその基準議決権数を超える議決権を保有することについて主務大臣の認可を受けた場合を除き、これを知った日から一年を経過する日までに当該同号に掲げる会社が商工組合中央金庫又はその子会社が合算してその基準議決権数を超える議決権を保有する会社でなくなるよう、所要の措置を講じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="9">
-            <ParagraphNum>９</ParagraphNum>
+        </Article>
+        <Article Num="39_2">
+          <ArticleCaption>（商工組合中央金庫による商工組合中央金庫グループの経営管理）</ArticleCaption>
+          <ArticleTitle>第三十九条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫が第二十一条第七項の規定により同項第三号に掲げる業務を行う場合における第一項第六号の規定の適用については、同号イ、ハ、ニ及びト中「商工組合中央金庫の信託子会社等が合算して、商工組合中央金庫又はその子会社」とあるのは、「商工組合中央金庫又はその信託子会社等が合算して、商工組合中央金庫の子会社」とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫（子会社対象会社を子会社としている場合に限る。）は、商工組合中央金庫グループ（商工組合中央金庫及びその子会社の集団をいう。次項において同じ。）の経営管理を行わなければならない。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の「経営管理」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">商工組合中央金庫グループの経営の基本方針その他これに準ずる方針として主務省令で定めるものの策定及びその適正な実施の確保</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">商工組合中央金庫グループに属する会社相互の利益が相反する場合における必要な調整</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">商工組合中央金庫グループの業務の執行が法令に適合することを確保するために必要なものとして主務省令で定める体制の整備</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、商工組合中央金庫グループの業務の健全かつ適切な運営の確保に資するものとして主務省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="40">
@@ -1901,7 +2052,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫又はその子会社は、国内の会社（前条第一項第一号から第六号まで及び第八号に掲げる会社を除く。以下この条において同じ。）の議決権については、合算して、その基準議決権数（当該国内の会社の総株主等の議決権に百分の十を乗じて得た議決権の数をいう。以下この条において同じ。）を超える議決権を取得し、又は保有してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫又はその子会社は、国内の会社（第三十九条第一項第一号から第六号まで、第八号、第十号及び第十一号に掲げる会社（同項第八号に掲げる会社にあっては、特別事業再生会社を除く。）、子会社対象会社を子会社としている持株会社（商工組合中央金庫が子会社としているものに限る。）並びに特例対象会社を除く。次項から第六項までにおいて同じ。）の議決権については、合算して、その基準議決権数（当該国内の会社の総株主等の議決権に百分の十を乗じて得た議決権の数をいう。以下この条及び第七十六条第十三号において同じ。）を超える議決権を取得し、又は保有してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1920,7 +2071,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">商工組合中央金庫又はその子会社は、前条第四項の認可を受けて商工組合中央金庫が認可対象会社を子会社とした場合（主務省令で定める場合に限る。）には、第一項の規定にかかわらず、当該認可対象会社を子会社とした日に保有することとなる国内の会社の議決権がその基準議決権数を超える場合であっても、同日以後、当該議決権をその基準議決権数を超えて保有することができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">商工組合中央金庫又はその子会社は、第三十九条第四項の認可を受けて商工組合中央金庫が認可対象会社を子会社とした場合（主務省令で定める場合に限る。）には、第一項の規定にかかわらず、当該認可対象会社を子会社とした日に保有することとなる国内の会社の議決権がその基準議決権数を超える場合であっても、同日以後、当該議決権をその基準議決権数を超えて保有することができる。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、主務大臣は、商工組合中央金庫又はその子会社が、当該認可対象子会社を子会社とした場合に国内の会社の議決権を合算してその総株主等の議決権の百分の五十を超えて保有することとなるときは、認可をしてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -1939,13 +2090,20 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前各項の場合において、新たな事業分野を開拓する会社又は経営の向上に相当程度寄与すると認められる新たな事業活動を行う会社として主務省令で定める会社の議決権の取得又は保有については、特定子会社は、商工組合中央金庫の子会社に該当しないものとみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の場合において、第三十九条第一項第七号に掲げる会社、特別事業再生会社又は同項第九号に掲げる会社の議決権の取得又は保有については、特定子会社は、商工組合中央金庫の子会社に該当しないものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前各項の場合において、商工組合中央金庫又はその子会社が取得し、又は保有する議決権には、金銭又は有価証券の信託に係る信託財産として所有する株式又は持分に係る議決権（委託者又は受益者が行使し、又はその行使について商工組合中央金庫若しくはその子会社に指図を行うことができるものに限る。）その他主務省令で定める議決権を含まないものとし、信託財産である株式又は持分に係る議決権で、商工組合中央金庫又はその子会社が委託者若しくは受益者として行使し、又はその行使について指図を行うことができるもの（主務省令で定める議決権を除く。）を含むものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の「特例対象会社」とは、地域の活性化に資すると認められる事業活動を行う会社として主務省令で定める会社（第三十九条第一項第九号に掲げる会社に該当しないものであって、商工組合中央金庫の特定子会社以外の子会社又は商工組合中央金庫が、合算してその基準議決権数を超える議決権を保有していないものに限る。）及び同条第一項第七号から第九号までに掲げる会社（商工組合中央金庫の子会社であるものに限る。）と主務省令で定める特殊の関係のある会社をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十四条の規定は、前各項の規定を適用する場合における商工組合中央金庫又はその子会社が取得し、又は保有する議決権について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条中「所有する株式」とあるのは「所有する株式又は持分」と、「である株式」とあるのは「である株式又は持分」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2023,7 +2181,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、その自己資本の充実の状況その他財務内容の健全性が向上し、その健全性が確保されるに至ったと認められる場合には、特別準備金の額の全部又は一部に相当する金額を国庫に納付することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、その自己資本の充実の状況その他財務内容の健全性が向上し、その健全性が確保されるに至ったと認める場合には、特別準備金の額の全部又は一部に相当する金額を国庫に納付するものとする。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、当該国庫に納付する金額に相当する額を、特別準備金の額から減額するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -2119,12 +2277,11 @@
           </Paragraph>
         </Article>
         <Article Num="50">
-          <ArticleCaption>（剰余金の配当の特例）</ArticleCaption>
           <ArticleTitle>第五十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、政府の所有する株式に対し剰余金の配当をする場合には、法人に対する政府の財政援助の制限に関する法律（昭和二十一年法律第二十四号）第一条の規定にかかわらず、政府以外の者の所有する株式一株に対して配当する剰余金の額に一を超えない範囲内で政令で定める割合を乗じて得た額を政府の所有する株式一株に対して配当しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2146,7 +2303,13 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項の報告書の記載事項、提出期日その他これらの報告書に関し必要な事項は、主務省令で定める。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫は、第一項に規定する中間業務報告書及び業務報告書に事業計画の実施の状況（中小企業信用保険法（昭和二十五年法律第二百六十四号）第十九条の規定の遵守の状況を含む。）を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項及び第二項の報告書の記載事項、提出期日その他これらの報告書に関し必要な事項は、前項に定めるもののほか、主務省令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2190,6 +2353,12 @@
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">商工組合中央金庫の公告方法が第六十三条第一項第一号に掲げる方法であるときは、主務省令で定めるところにより、その中間事業年度経過後三月以内に中間貸借対照表等及び中間連結貸借対照表等の内容である情報を、その事業年度経過後三月以内に貸借対照表等及び連結貸借対照表等の内容である情報を、五年間継続して電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって主務省令で定めるものをいう。以下同じ。）により不特定多数の者が提供を受けることができる状態に置く措置をとることができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、第四項の規定による公告をしたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">商工組合中央金庫が金融商品取引法第二十四条第一項の規定により有価証券報告書を内閣総理大臣に提出しなければならない場合については、前各項の規定は、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2271,20 +2440,20 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">主務大臣は、商工組合中央金庫、代理組合等、第六十条の二第二項に規定する商工組合中央金庫電子決済等代行業者、同条第三項に規定する認定商工組合中央金庫電子決済等代行事業者協会及び第六十条の三十二第一項に規定する電子決済等代行業者の業務を監督する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、商工組合中央金庫、代理組合等、第六十条の二第二項に規定する商工組合中央金庫電子決済等代行業者、同条第三項に規定する認定商工組合中央金庫電子決済等代行事業者協会、第六十条の三十二第一項に規定する電子決済等代行業者及び第六十条の三十五第一項第八号に規定する指定紛争解決機関の業務を監督する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">この法律における主務大臣は、経済産業大臣及び財務大臣とする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条第一項、第二項及び第四項、第三条第三項及び第四項、第二十一条第四項、第二十三条第一項、第二十六条第一項、第二十七条、第三十二条第一項、第三十五条第一項、第三十九条第四項、第五項、第七項及び第八項、第四十条第二項から第五項まで、第五十一条第一項及び第二項、第五十二条第四項、次条第一項及び第二項、第五十八条第一項及び第二項、第五十九条、第六十条、第六十条の三、第六十条の四第一項、第六十条の五から第六十条の八まで、第六十条の九第一項、第六十条の十五、第六十条の十六第一項及び第二項、第六十条の十七第一項及び第二項、第六十条の十八、第六十条の十九第一項及び第二項、第六十条の二十、第六十条の二十一、第六十条の二十四、第六十条の二十九第一項、第六十条の三十、第六十条の三十一、第六十条の三十二第二項から第四項まで、第六十条の三十三、第六十一条並びに第六十二条第一項に規定する主務大臣は、経済産業大臣、財務大臣及び内閣総理大臣とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条第一項、第二項及び第四項、第三条第三項及び第四項、第二十一条第四項、第二十二条の五第四項、第二十三条第一項、第二十六条第一項、第二十七条、第三十二条第一項、第三十五条第一項、第三十九条第四項、第五項、第七項及び第八項、第四十条第二項から第五項まで、第五十一条第一項及び第二項、第五十二条第四項、次条第一項及び第二項、第五十八条第一項及び第二項、第五十九条、第六十条、第六十条の三、第六十条の四第一項、第六十条の五から第六十条の八まで、第六十条の九第一項、第六十条の十五、第六十条の十六第一項及び第二項、第六十条の十七第一項及び第二項、第六十条の十八、第六十条の十九第一項及び第二項、第六十条の二十、第六十条の二十一、第六十条の二十四、第六十条の二十九第一項、第六十条の三十、第六十条の三十一、第六十条の三十二第二項から第四項まで、第六十条の三十三、第六十条の三十五第一項、第四項及び第五項、第六十条の三十七において読み替えて準用する銀行法第五十二条の六十三第一項、第五十二条の六十七第七項及び第八項、第五十二条の六十八第一項、第五十二条の七十八、第五十二条の七十九、第五十二条の八十第一項、第五十二条の八十一第一項及び第二項、第五十二条の八十二、第五十二条の八十三第一項及び第二項、第五十二条の八十四第一項及び第二項並びに第五十六条（第二十六号に係る部分に限る。）、第六十一条並びに第六十二条第一項に規定する主務大臣は、経済産業大臣、財務大臣及び内閣総理大臣とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次条、第五十八条、第六十条の十七及び第六十条の二十九に規定する主務大臣の権限は、経済産業大臣、財務大臣又は内閣総理大臣がそれぞれ単独に行使することを妨げない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次条、第五十八条、第六十条の十七、第六十条の二十九並びに第六十条の三十七において読み替えて準用する銀行法第五十二条の八十一第一項及び第二項に規定する主務大臣の権限は、経済産業大臣、財務大臣又は内閣総理大臣がそれぞれ単独に行使することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -2297,7 +2466,7 @@
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">この法律における主務省令は、経済産業省令・財務省令とする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条第一項、第二項及び第四項、第二十一条第四項及び第七項、第二十三条第一項、第二十四条、第二十六条第二項及び第五項、第二十七条、第二十八条、第二十八条の二第一項、第二十九条、同条において読み替えて準用する金融商品取引法第三十四条、第三十四条の二第三項、第四項（同法第三十四条の三第十二項（同法第三十四条の四第六項において準用する場合を含む。）、第三十四条の四第三項、第三十七条の三第二項及び第三十七条の四第二項において準用する場合を含む。）、第十一項及び第十二項（同法第三十四条の三第三項（同法第三十四条の四第六項において準用する場合を含む。）において準用する場合を含む。）、第三十四条の三第二項（同法第三十四条の四第六項において読み替えて準用する場合を含む。）、第七項（同法第三十四条の四第六項において読み替えて準用する場合を含む。）及び第十一項（同法第三十四条の四第六項において読み替えて準用する場合を含む。）、第三十四条の四第一項、第三十七条、第三十七条の三第一項、第三十七条の四第一項、第三十七条の六第一項、第三項及び第四項、第三十八条、第四十条並びに第四十五条、第三十一条第二項、第三十二条、第三十九条第一項から第五項まで、第七項及び第八項、第四十条第二項、第四項、第七項及び第八項、第四十二条、第五十一条第三項、第五十二条、第五十三条第一項、第二項、第四項及び第六項、第五十四条、次条第二項、第六十条の二第一項、第六十条の四、第六十条の六第一項、第六十条の七第一項及び第三項、第六十条の八、第六十条の十、第六十条の十二、第六十条の十三第一項及び第二項、第六十条の十四、第六十条の十五、第六十条の十九第二項、第六十条の二十六第一項、第六十条の三十一、第六十四条並びに第六十五条に規定する主務省令は、経済産業省令・財務省令・内閣府令とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条第一項、第二項及び第四項、第二十一条第四項及び第七項、第二十二条の五第二項、第二十三条第一項、同条第三項において準用する第十四条、第二十四条、第二十六条第二項及び第六項、第二十七条、第二十八条、第二十八条の二第一項、第二十九条、同条において読み替えて準用する金融商品取引法第三十四条、第三十四条の二第三項、第四項（同法第三十四条の三第十二項（同法第三十四条の四第六項において準用する場合を含む。）、第三十四条の四第三項、第三十七条の三第二項及び第三十七条の四第二項において準用する場合を含む。）、第十一項及び第十二項（同法第三十四条の三第三項（同法第三十四条の四第六項において準用する場合を含む。）において準用する場合を含む。）、第三十四条の三第二項（同法第三十四条の四第六項において読み替えて準用する場合を含む。）、第七項（同法第三十四条の四第六項において読み替えて準用する場合を含む。）及び第十一項（同法第三十四条の四第六項において読み替えて準用する場合を含む。）、第三十四条の四第一項、第三十七条、第三十七条の三第一項、第三十七条の四第一項、第三十七条の六第一項、第三項及び第四項、第三十八条、第四十条並びに第四十五条、第三十一条第二項、第三十二条、第三十九条、第三十九条の二第二項、第四十条第二項、第四項及び第八項、同条第九項において準用する第十四条、第四十二条、第五十一条第四項、第五十二条第一項から第六項まで、第五十三条第一項、第二項、第四項及び第六項、第五十四条、次条第二項、第六十条の二第一項、第六十条の四、第六十条の六第一項、第六十条の七第一項及び第三項、第六十条の八、第六十条の十、第六十条の十二、第六十条の十三第一項及び第二項、第六十条の十四、第六十条の十五、第六十条の十九第二項、第六十条の二十六第一項、第六十条の三十一、第六十条の三十五第一項及び第三項、第六十条の三十六、第六十条の三十七において読み替えて準用する銀行法第五十二条の六十三第二項、第五十二条の六十七第二項及び第四項、第五十二条の七十一、第五十二条の七十三第三項、第八項及び第九項、第五十二条の七十九並びに第五十二条の八十第二項、第六十四条並びに第六十五条に規定する主務省令は、経済産業省令・財務省令・内閣府令とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
@@ -2325,7 +2494,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">主務大臣は、商工組合中央金庫の業務の健全かつ適切な運営を確保するため特に必要があると認めるときは、その必要の限度において、商工組合中央金庫の子法人等（子会社その他商工組合中央金庫がその経営を支配している法人として主務省令で定めるものをいう。次項並びに次条第二項及び第五項において同じ。）又は商工組合中央金庫から業務の委託を受けた者（代理組合等を除く。次項並びに同条第二項及び第五項において同じ。）に対し、商工組合中央金庫の業務又は財産の状況に関し参考となるべき報告又は資料の提出を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、商工組合中央金庫の業務の健全かつ適切な運営を確保するため特に必要があると認めるときは、その必要の限度において、商工組合中央金庫の子法人等（子会社その他商工組合中央金庫がその経営を支配している法人として主務省令で定めるものをいう。次項並びに次条第二項及び第五項において同じ。）又は商工組合中央金庫から業務の委託を受けた者（その者から委託（二以上の段階にわたる委託を含む。）を受けた者を含み、代理組合等を除く。次項並びに同条第二項及び第五項において同じ。）に対し、商工組合中央金庫の業務又は財産の状況に関し参考となるべき報告又は資料の提出を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -2384,7 +2553,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">主務大臣は、商工組合中央金庫が法令、定款若しくは法令に基づいてする主務大臣の処分に違反したとき、又は公益を害する行為をしたときは、商工組合中央金庫に対し、その業務の全部若しくは一部の停止又は取締役、執行役、会計参与若しくは監査役の解任を命ずることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、商工組合中央金庫が法令、定款若しくは法令に基づいてする主務大臣の処分に違反したとき、又は公益を害する行為をしたときは、商工組合中央金庫に対し、その業務の全部若しくは一部の停止又は取締役、執行役、会計参与、監査役若しくは会計監査人の解任を命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3049,7 +3218,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">商工組合中央金庫電子決済等代行業者を社員（以下この章及び第七十四条の二第二号において「会員」という。）に含む旨の定款の定めがあること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">商工組合中央金庫電子決済等代行業者を社員（以下この章及び第七十四条の四第二号において「会員」という。）に含む旨の定款の定めがあること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -3372,6 +3541,195 @@
           </Paragraph>
         </Article>
       </Chapter>
+      <Chapter Num="8_3">
+        <ChapterTitle>第八章の三　指定紛争解決機関</ChapterTitle>
+        <Article Num="60_35">
+          <ArticleCaption>（紛争解決等業務を行う者の指定）</ArticleCaption>
+          <ArticleTitle>第六十条の三十五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、次に掲げる要件を備える者を、その申請により、紛争解決等業務を行う者として、指定することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法人（人格のない社団又は財団で代表者又は管理人の定めのあるものを含み、外国の法令に準拠して設立された法人その他の外国の団体を除く。第四号ニにおいて同じ。）であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七において読み替えて準用する銀行法第五十二条の八十四第一項の規定によりこの項の規定による指定を取り消され、その取消しの日から五年を経過しない者又は他の法律の規定による指定であって紛争解決等業務に相当する業務に係るものとして政令で定めるものを取り消され、その取消しの日から五年を経過しない者でないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律若しくは弁護士法（昭和二十四年法律第二百五号）又はこれらに相当する外国の法令の規定に違反し、罰金の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者でないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">役員のうちに、次のいずれかに該当する者がないこと。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">心身の故障のため紛争解決等業務に係る職務を適正に執行することができない者として主務省令で定める者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者又は外国の法令上これと同様に取り扱われている者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十条の三十七において読み替えて準用する銀行法第五十二条の八十四第一項の規定によりこの項の規定による指定を取り消された場合若しくはこの法律に相当する外国の法令の規定により当該外国において受けている当該指定に類する行政処分を取り消された場合において、その取消しの日前一月以内にその法人の役員（外国の法令上これと同様に取り扱われている者を含む。以下このニにおいて同じ。）であった者でその取消しの日から五年を経過しない者又は他の法律の規定による指定であって紛争解決等業務に相当する業務に係るものとして政令で定めるもの若しくは当該他の法律に相当する外国の法令の規定により当該外国において受けている当該政令で定める指定に類する行政処分を取り消された場合において、その取消しの日前一月以内にその法人の役員であった者でその取消しの日から五年を経過しない者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律若しくは弁護士法又はこれらに相当する外国の法令の規定に違反し、罰金の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">紛争解決等業務を的確に実施するに足りる経理的及び技術的な基礎を有すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">役員又は職員の構成が紛争解決等業務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">紛争解決等業務の実施に関する規程（以下この条及び次条において「業務規程」という。）が法令に適合し、かつ、この法律の定めるところにより紛争解決等業務を公正かつ的確に実施するために十分であると認められること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項の規定により意見を聴取した結果、手続実施基本契約（紛争解決等業務の実施に関し指定紛争解決機関（この項の規定による指定を受けた者をいう。以下同じ。）と商工組合中央金庫との間で締結される契約をいう。以下この号及び次条において同じ。）の解除に関する事項その他の手続実施基本契約の内容（第六十条の三十七第一項において準用する銀行法第五十二条の六十七第二項各号に掲げる事項を除く。）その他の業務規程の内容（同条第三項の規定によりその内容とするものでなければならないこととされる事項並びに同条第四項各号及び第五項第一号に掲げる基準に適合するために必要な事項を除く。）について商工組合中央金庫が異議（合理的な理由が付されたものに限る。）を述べなかったこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する「紛争解決等業務」とは、苦情処理手続（商工組合中央金庫業務（商工組合中央金庫が第二十一条の規定により営む業務及び他の法律により営む業務並びに代理組合等が行う第二条第三項の代理又は媒介をいう。以下この項において同じ。）に関する苦情を処理する手続をいう。）及び紛争解決手続（商工組合中央金庫業務に関する紛争で当事者が和解をすることができるものについて訴訟手続によらずに解決を図る手続をいう。第四項において同じ。）に係る業務並びにこれに付随する業務をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の申請をしようとする者は、あらかじめ、主務省令で定めるところにより、商工組合中央金庫に対し、業務規程の内容を説明し、これについて異議がないかどうかの意見（異議がある場合には、その理由を含む。）を聴取し、及びその結果を記載した書類を作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の規定による指定をしようとするときは、同項第五号から第七号までに掲げる要件（紛争解決手続の業務に係る部分に限り、同号に掲げる要件にあっては、第六十条の三十七第一項において準用する銀行法第五十二条の六十七第四項各号及び第五項各号に掲げる基準に係るものに限る。）に該当していることについて、あらかじめ、法務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の規定による指定をしたときは、指定紛争解決機関の商号又は名称及び主たる営業所又は事務所の所在地並びに当該指定をした日を官報で告示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="60_36">
+          <ArticleCaption>（業務規程）</ArticleCaption>
+          <ArticleTitle>第六十条の三十六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定紛争解決機関は、次に掲げる事項に関する業務規程を定めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">手続実施基本契約の内容に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">手続実施基本契約の締結に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">紛争解決等業務（前条第二項に規定する紛争解決等業務をいう。以下この条及び第七十四条の三において同じ。）の実施に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">紛争解決等業務に要する費用について加入商工組合中央金庫（手続実施基本契約を締結した相手方である商工組合中央金庫をいう。次号において同じ。）が負担する負担金に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当事者である加入商工組合中央金庫又はその顧客から紛争解決等業務の実施に関する料金を徴収する場合にあっては、当該料金に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他の指定紛争解決機関その他相談、苦情の処理又は紛争の解決を実施する国の機関、地方公共団体、民間事業者その他の者との連携に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">紛争解決等業務に関する苦情の処理に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、紛争解決等業務の実施に必要な事項として主務省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="60_37">
+          <ArticleCaption>（指定紛争解決機関に関する銀行法の準用）</ArticleCaption>
+          <ArticleTitle>第六十条の三十七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">銀行法第七章の七（第五十二条の六十二及び第五十二条の六十七第一項を除く。）及び第五十六条（第二十六号に係る部分に限る。）の規定は、指定紛争解決機関について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、同項に規定する規定中「内閣総理大臣」とあるのは「主務大臣」と、「内閣府令」とあるのは「主務省令」と、同項に規定する規定（銀行法第五十二条の六十五第二項を除く。）中「加入銀行業関係業者」とあるのは「加入商工組合中央金庫」と、前項に規定する規定（同法第五十二条の六十七第二項第四号を除く。）中「銀行業務等関連紛争」とあるのは「商工組合中央金庫業務関連紛争」と、前項に規定する規定（同条第二項第一号を除く。）中「銀行業務等関連苦情」とあるのは「商工組合中央金庫業務関連苦情」と、同法第五十二条の六十三第一項中「前条第一項」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項」と、「次に」とあるのは「第二号から第四号までに」と、同項第三号中「紛争解決等業務」とあるのは「紛争解決等業務（株式会社商工組合中央金庫法第六十条の三十五第二項に規定する紛争解決等業務をいう。以下同じ。）」と、同条第二項第一号中「前条第一項第三号」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項第三号」と、同項第六号中「前条第二項」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第三項」と、同法第五十二条の六十五第一項中「この法律」とあるのは「株式会社商工組合中央金庫法」と、同条第二項中「加入銀行業関係業者（手続実施基本契約を締結した相手方である銀行業関係業者」とあるのは「加入商工組合中央金庫（株式会社商工組合中央金庫法第六十条の三十六第四号に規定する加入商工組合中央金庫」と、「手続実施基本契約その他の」とあるのは「手続実施基本契約（同法第六十条の三十五第一項第八号に規定する手続実施基本契約をいう。以下同じ。）その他の」と、同法第五十二条の六十六中「他の法律」とあるのは「株式会社商工組合中央金庫法以外の法律」と、「苦情処理手続」とあるのは「苦情処理手続（株式会社商工組合中央金庫法第六十条の三十五第二項に規定する苦情処理手続をいう。以下同じ。）」と、「紛争解決手続」とあるのは「紛争解決手続（同項に規定する紛争解決手続をいう。以下同じ。）」と、同法第五十二条の六十七第二項中「前項第一号」とあるのは「株式会社商工組合中央金庫法第六十条の三十六第一号」と、同項第一号中「銀行業務等関連苦情」とあるのは「商工組合中央金庫業務関連苦情（商工組合中央金庫業務（株式会社商工組合中央金庫法第六十条の三十五第二項に規定する商工組合中央金庫業務をいう。以下同じ。）に関する苦情をいう。以下同じ。）」と、同項第四号中「銀行業務等関連紛争」とあるのは「商工組合中央金庫業務関連紛争（商工組合中央金庫業務に関する紛争で当事者が和解をすることができるものをいう。以下同じ。）」と、同条第三項中「第一項第二号」とあるのは「株式会社商工組合中央金庫法第六十条の三十六第二号」と、「銀行業関係業者」とあるのは「株式会社商工組合中央金庫」と、同条第四項中「第一項第三号」とあるのは「株式会社商工組合中央金庫法第六十条の三十六第三号」と、同条第五項中「第一項第四号」とあるのは「株式会社商工組合中央金庫法第六十条の三十六第四号」と、同項第一号中「同項第五号」とあるのは「同条第五号」と、同法第五十二条の七十三第三項第二号中「紛争解決等業務の種別が銀行業務である場合にあつては銀行業務、紛争解決等業務の種別が電子決済等取扱業務である場合にあつては電子決済等取扱業務」とあるのは「商工組合中央金庫業務」と、同法第五十二条の七十四第二項中「第五十二条の六十二第一項」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項」と、同法第五十二条の七十九第一号中「銀行業関係業者」とあるのは「株式会社商工組合中央金庫」と、同法第五十二条の八十二第二項第一号中「第五十二条の六十二第一項第五号から第七号までに掲げる要件（」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項第五号から第七号までに掲げる要件（」と、「又は第五十二条の六十二第一項第五号」とあるのは「又は同法第六十条の三十五第一項第五号」と、同法第五十二条の八十三第三項中「他の法律」とあるのは「株式会社商工組合中央金庫法以外の法律」と、同法第五十二条の八十四第一項中「、第五十二条の六十二第一項」とあるのは「、株式会社商工組合中央金庫法第六十条の三十五第一項」と、同項第一号中「第五十二条の六十二第一項第二号」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項第二号」と、同項第二号中「第五十二条の六十二第一項」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項」と、同条第二項第一号中「第五十二条の六十二第一項第五号」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項第五号」と、「第五十二条の六十二第一項の」とあるのは「同法第六十条の三十五第一項の」と、同条第三項及び同法第五十六条第二十六号中「第五十二条の六十二第一項」とあるのは「株式会社商工組合中央金庫法第六十条の三十五第一項」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
       <Chapter Num="9">
         <ChapterTitle>第九章　雑則</ChapterTitle>
         <Article Num="61">
@@ -3512,7 +3870,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の規定による認可、承認、登録又は認定に関する申請の手続、書類の提出の手続その他この法律を実施するため必要な事項は、主務省令で定める。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の規定による認可、承認、登録、認定又は指定に関する申請の手続、書類の提出の手続その他この法律を実施するため必要な事項は、主務省令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3636,6 +3994,45 @@
             </Item>
           </Paragraph>
         </Article>
+        <Article Num="71_2">
+          <ArticleTitle>第七十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の六十三第一項の規定による指定申請書又は同条第二項の規定によりこれに添付すべき書類若しくは電磁的記録に虚偽の記載又は記録をしてこれらを提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の六十九の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の八十第一項の規定による報告書を提出せず、又は虚偽の記載をした報告書を提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の八十一第一項若しくは第二項の規定による報告若しくは資料の提出をせず、若しくは虚偽の報告若しくは資料の提出をし、又はこれらの規定による職員の質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくはこれらの規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の八十二第一項の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
         <Article Num="72">
           <ArticleTitle>第七十二条</ArticleTitle>
           <Paragraph Num="1">
@@ -3658,7 +4055,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十一条若しくは第六十条の十五の規定に違反して、これらに規定する書類の提出をせず、又はこれらの書類に記載すべき事項を記載せず、若しくは虚偽の記載をしてこれらの書類の提出をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十一条（第三項を除く。）若しくは第六十条の十五の規定に違反して、これらに規定する書類の提出をせず、又はこれらの書類に記載すべき事項を記載せず、若しくは虚偽の記載をしてこれらの書類の提出をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -3686,18 +4083,24 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、一年以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十八条（第一号に係る部分に限る。）の規定の違反があった場合において、顧客以外の者（商工組合中央金庫又は代理組合等を含む。）の利益を図り、又は顧客に損害を与える目的で当該違反行為をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条（第一号に係る部分に限る。）の規定の違反があった場合において、顧客以外の者（商工組合中央金庫又は代理組合等を含む。）の利益を図り、又は顧客に損害を与える目的で当該違反行為をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">準用金融商品取引法第三十九条第二項の規定の違反があった場合において、当該違反行為をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">準用金融商品取引法第三十九条第二項の規定の違反があった場合において、当該違反行為をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の六十四第一項の規定に違反して、その職務に関して知り得た秘密を漏らし、又は自己の利益のために使用したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3769,18 +4172,48 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の七十一若しくは第五十二条の七十三第九項の規定による記録の作成若しくは保存をせず、又は虚偽の記録を作成したときは、当該違反行為をした者は、百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="74_3">
+          <ArticleTitle>第七十四条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の八十三第一項の認可を受けないで紛争解決等業務の全部若しくは一部の休止又は廃止をしたときは、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="74_4">
+          <ArticleTitle>第七十四条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十条の七第三項若しくは第六十条の九第一項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の七第三項、第六十条の九第一項若しくは第六十条の三十七第一項において準用する銀行法第五十二条の七十八第一項、第五十二条の七十九若しくは第五十二条の八十三第二項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第六十条の二十三第三項の規定に違反してその名称中に認定商工組合中央金庫電子決済等代行事業者協会（第六十条の二第三項に規定する認定商工組合中央金庫電子決済等代行事業者協会をいう。第七十六条及び第七十七条第二号において同じ。）の会員と誤認されるおそれのある文字を使用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の六十八第一項の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の八十三第三項若しくは第五十二条の八十四第三項の規定による通知をせず、又は虚偽の通知をしたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3807,7 +4240,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第七十二条又は第七十三条第一項第一号</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第七十一条の二（第二号を除く。）、第七十二条又は第七十三条第一項第一号</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">二億円以下の罰金刑</Sentence>
@@ -3829,7 +4262,7 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第七十条（第二号を除く。）、第七十一条第二号又は前二条</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第七十条（第二号を除く。）、第七十一条第二号、第七十一条の二第二号、第七十三条第一項第三号又は第七十四条から前条まで</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">各本条の罰金刑</Sentence>
@@ -3854,7 +4287,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二条第二項、第三条第三項又は第四条の規定による主務大臣の認可を受けないでこれらの規定に規定する行為をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条第二項又は第三条第三項の規定による主務大臣の認可を受けないでこれらの規定に規定する行為をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -3914,53 +4347,59 @@
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条第一項の規定に違反して同項に規定する子会社対象会社以外の会社（第四十条第一項に規定する国内の会社を除く。）を子会社としたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条の四第一項の規定に違反して、事業計画の認可を受けなかったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="12">
               <ItemTitle>十二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条第四項の規定による主務大臣の認可を受けないで同項に規定する認可対象会社を子会社としたとき、又は同条第六項において準用する同条第四項の規定による主務大臣の認可を受けないで同条第一項各号に掲げる会社を当該各号のうち他の号に掲げる会社（同条第四項に規定する認可対象会社に限る。）に該当する子会社としたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条第一項の規定に違反して同項に規定する子会社対象会社以外の会社（第四十条第一項に規定する国内の会社を除く。）を子会社としたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="13">
               <ItemTitle>十三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十条第一項又は第二項ただし書の規定に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条第四項の規定による主務大臣の認可を受けないで認可対象会社を子会社としたとき（同条第一項第十号に掲げる会社（同条第四項に規定する主務省令で定める会社を除く。）にあっては、商工組合中央金庫又はその子会社が、合算してその基準議決権数を超える議決権を取得し、又は保有したとき）、同条第六項において準用する同条第四項の規定による主務大臣の認可を受けないで同条第一項各号に掲げる会社を当該各号のうち他の号に掲げる会社（認可対象会社に限る。）に該当する子会社としたとき、若しくは同項第十号に掲げる会社（同条第六項に規定する主務省令で定める会社に限る。）を同号に掲げる会社（当該主務省令で定める会社を除く。）に該当する子会社としたとき、又は同条第八項の規定による主務大臣の認可を受けないで同項に規定する子会社対象会社について、同号に掲げる会社（同項に規定する主務省令で定める会社を除く。）となったことその他同項に規定する主務省令で定める事実を知った日から一年を超えて商工組合中央金庫又はその子会社が当該同号に掲げる会社の議決権を合算してその基準議決権数を超えて保有したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十条第三項又は第五項の規定により付した条件に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十条第一項又は第二項ただし書の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="15">
               <ItemTitle>十五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十二条の規定に違反して資本準備金又は利益準備金を計上しなかったとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十条第三項又は第五項の規定により付した条件に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="16">
               <ItemTitle>十六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十九条の規定に違反して改善計画の提出をせず、又は同条の規定による命令（業務の全部又は一部の停止の命令を除く。）に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十二条の規定に違反して資本準備金又は利益準備金を計上しなかったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="17">
               <ItemTitle>十七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十条の十四の規定による帳簿書類の作成若しくは保存をせず、又は虚偽の帳簿書類を作成したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十九条の規定に違反して改善計画の提出をせず、又は同条の規定による命令（業務の全部又は一部の停止の命令を除く。）に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="18">
               <ItemTitle>十八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十二条第一項の規定により付した条件（第二条第二項、第三十九条第四項（同条第六項において準用する場合を含む。）及び第六十一条の規定による認可に係るものに限る。）に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の十四の規定による帳簿書類の作成若しくは保存をせず、又は虚偽の帳簿書類を作成したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="19">
               <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条第一項の規定により付した条件（第二条第二項、第三十九条第四項（同条第六項において準用する場合を含む。）及び第六十一条の規定による認可に係るものに限る。）に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第六十四条の規定による登記をしなかったとき。</Sentence>
               </ItemSentence>
@@ -3969,6 +4408,15 @@
         </Article>
         <Article Num="76_2">
           <ArticleTitle>第七十六条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の七十六の規定に違反した者は、百万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="76_3">
+          <ArticleTitle>第七十六条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -3993,6 +4441,12 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第六十条の二十三第二項の規定に違反してその名称中に認定商工組合中央金庫電子決済等代行事業者協会と誤認されるおそれのある文字を使用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条の三十七第一項において準用する銀行法第五十二条の七十七の規定に違反してその名称又は商号中に指定紛争解決機関と誤認されるおそれのある文字を使用したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4081,70 +4535,33 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">政府は、簡素で効率的な政府を実現するための行政改革の推進に関する法律（平成十八年法律第四十七号）第六条第二項の規定に基づき、その保有する株式会社商工組合中央金庫の株式（以下「政府保有株式」という。）について、株式会社商工組合中央金庫の目的の達成に与える影響及び市場の動向を踏まえつつその処分を図り、できる限り早期にその全部を処分するものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">政府は、政府保有株式の全部を処分したときは、直ちにこの法律を廃止するための措置を講ずるとともに、株式会社商工組合中央金庫の有する中小企業等協同組合その他の中小企業者を構成員とする団体及びその構成員に対する金融機能の根幹が維持されることとなるよう、株主資格を制限するための措置その他必要な措置を講ずるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、その保有する株式会社商工組合中央金庫の株式の全部を処分した後における株式会社商工組合中央金庫の特別準備金を含む自己資本の充実の状況、株式会社商工組合中央金庫の危機対応業務を含む事業の状況、社会経済情勢の変化等を勘案し、株式会社商工組合中央金庫に対する国の関与の在り方について検討を加え、この法律を廃止するための措置を講ずることができると認めるときは、直ちに当該措置を講ずるとともに、株式会社商工組合中央金庫の有する中小企業等協同組合その他の中小企業者を構成員とする団体及びその構成員に対する金融機能の根幹が維持されることとなるよう、株主資格を制限するための措置その他必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="2_2">
-        <ArticleCaption>（危機対応業務の実施の責務）</ArticleCaption>
-        <ArticleTitle>第二条の二</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫は、その目的を達成するため、当分の間、株式会社日本政策金融公庫法（平成十九年法律第五十七号）第二条第四号に規定する特定資金を必要とする者に対し円滑に資金が供給されるよう、同条第五号に規定する危機対応業務（以下「危機対応業務」という。）を行う責務を有する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="2_3">
-        <ArticleCaption>（株式の政府保有）</ArticleCaption>
-        <ArticleTitle>第二条の三</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">政府は、当分の間、指定金融機関（株式会社日本政策金融公庫法第十一条第二項に規定する指定金融機関をいう。附則第二条の六第一項において同じ。）に係る制度の運用の状況、同項の危機対応準備金に係る株式会社商工組合中央金庫に対する出資の状況、株式会社商工組合中央金庫による危機対応業務の実施の状況、株式会社商工組合中央金庫の財政基盤、株主となる中小企業団体及びその構成員の資金の余力、社会経済情勢の変化等を勘案し、株式会社商工組合中央金庫が危機対応業務を的確に実施するために必要な株式を保有していなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="2_4">
-        <ArticleCaption>（危機対応業務に関する事業計画の認可）</ArticleCaption>
-        <ArticleTitle>第二条の四</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫は、当分の間、事業年度ごとに、主務省令で定めるところにより、危機対応業務に関する事業計画（以下「事業計画」という。）を作成し、当該事業年度の開始前に、主務大臣の認可を受けなければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">事業計画には、主務省令で定める危機対応業務の実施方針に関する事項及び他の事業者との間の適正な競争関係を確保するために講じようとする措置に関する事項を記載しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="2_5">
         <ArticleCaption>（適正な競争関係の確保）</ArticleCaption>
-        <ArticleTitle>第二条の五</ArticleTitle>
+        <ArticleTitle>第二条の二</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫は、当分の間、その業務を行うに当たっては、他の事業者との間の適正な競争関係を阻害することのないよう特に配慮しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫は、当分の間、事業計画に、主務省令で定める他の事業者との間の適正な競争関係を確保するために講じようとする措置に関する事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
       </Article>
-      <Article Num="2_6">
+      <Article Num="2_3">
         <ArticleCaption>（危機対応準備金）</ArticleCaption>
-        <ArticleTitle>第二条の六</ArticleTitle>
+        <ArticleTitle>第二条の三</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫は、指定金融機関として危機対応業務の円滑な実施のために必要な株式会社商工組合中央金庫の財政基盤の確保に資するものとして、危機対応準備金を設け、次項の規定により政府が出資した金額をもってこれに充てるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫は、株式会社日本政策金融公庫法第十一条第二項に規定する指定金融機関として危機対応業務の円滑な実施のために必要な株式会社商工組合中央金庫の財政基盤の確保に資するものとして、危機対応準備金を設け、次項の規定により政府が出資した金額をもってこれに充てるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -4161,9 +4578,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="2_7">
+      <Article Num="2_4">
         <ArticleCaption>（欠損の塡補を行う場合の危機対応準備金の額の減少）</ArticleCaption>
-        <ArticleTitle>第二条の七</ArticleTitle>
+        <ArticleTitle>第二条の四</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -4184,9 +4601,9 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="2_8">
+      <Article Num="2_5">
         <ArticleCaption>（国庫納付金）</ArticleCaption>
-        <ArticleTitle>第二条の八</ArticleTitle>
+        <ArticleTitle>第二条の五</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -4195,13 +4612,13 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="2_9">
+      <Article Num="2_6">
         <ArticleCaption>（危機対応準備金の額の計算の方法等）</ArticleCaption>
-        <ArticleTitle>第二条の九</ArticleTitle>
+        <ArticleTitle>第二条の六</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">危機対応準備金の額が計上されている場合における第四十三条、第四十四条第二項及び第三項、第四十五条第二項及び第三項、第四十六条第一項及び第三項並びに第四十八条第一項の規定の適用については、第四十三条中「同じ。）の額」とあるのは「同じ。）及び危機対応準備金（附則第二条の六第一項に規定する危機対応準備金をいう。以下同じ。）の額の合計額」と、第四十四条第二項中「前項第一号の額」とあるのは「前項第一号及び附則第二条の七第一号の額の合計額」と、「同項」とあるのは「同項又は同条」と、同条第三項中「第一項」とあるのは「第一項又は附則第二条の七」と、「特別準備金の額を」とあるのは「特別準備金の額又は危機対応準備金の額を」と、「特別準備金の額が」とあるのは「特別準備金の額又は危機対応準備金の額がそれぞれ」と、第四十五条第二項中「前項」とあるのは「前項又は附則第二条の八」と、同項各号中「特別準備金の額」とあるのは「特別準備金の額又は危機対応準備金の額」と、同条第三項中「の規定により納付する金額」とあるのは「及び附則第二条の八の規定により納付する金額の合計額」と、「前項第二号」とあるのは「附則第二条の九第一項の規定により読み替えられた前項第二号」と、第四十六条第一項中「額）」とあるのは「額）及び同日における危機対応準備金の額（附則第二条の七の規定により危機対応準備金の額が減少している場合は、当該減少する前の危機対応準備金の額）」と、「当該特別準備金の額」とあるのは「当該特別準備金の額及び当該危機対応準備金の額」と、同条第三項中「及び第一項」とあるのは「及び附則第二条の八並びに附則第二条の九第一項の規定により読み替えられた第一項」と、第四十八条第一項中「特別準備金の額」とあるのは「特別準備金の額又は危機対応準備金の額」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">危機対応準備金の額が計上されている場合における第四十三条、第四十四条第二項及び第三項、第四十五条第二項及び第三項、第四十六条第一項及び第三項並びに第四十八条第一項の規定の適用については、第四十三条中「同じ。）の額」とあるのは「同じ。）及び危機対応準備金（附則第二条の三第一項に規定する危機対応準備金をいう。以下同じ。）の額の合計額」と、第四十四条第二項中「前項第一号の額」とあるのは「前項第一号及び附則第二条の四第一号の額の合計額」と、「同項」とあるのは「同項又は同条」と、同条第三項中「第一項」とあるのは「第一項又は附則第二条の四」と、「特別準備金の額を」とあるのは「特別準備金の額又は危機対応準備金の額を」と、「特別準備金の額が」とあるのは「特別準備金の額又は危機対応準備金の額がそれぞれ」と、第四十五条第二項中「前項」とあるのは「前項又は附則第二条の五」と、同項各号中「特別準備金の額」とあるのは「特別準備金の額又は危機対応準備金の額」と、同条第三項中「の規定により納付する金額」とあるのは「及び附則第二条の五の規定により納付する金額の合計額」と、「前項第二号」とあるのは「附則第二条の六第一項の規定により読み替えられた前項第二号」と、第四十六条第一項中「額）」とあるのは「額）及び同日における危機対応準備金の額（附則第二条の四の規定により危機対応準備金の額が減少している場合は、当該減少する前の危機対応準備金の額）」と、「当該特別準備金の額」とあるのは「当該特別準備金の額及び当該危機対応準備金の額」と、同条第三項中「及び第一項」とあるのは「及び附則第二条の五並びに附則第二条の六第一項の規定により読み替えられた第一項」と、第四十八条第一項中「特別準備金の額」とあるのは「特別準備金の額又は危機対応準備金の額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -4217,41 +4634,31 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="2_10">
+      <Article Num="2_7">
         <ArticleCaption>（危機対応準備金の額の減少に関する会社法の準用）</ArticleCaption>
-        <ArticleTitle>第二条の十</ArticleTitle>
+        <ArticleTitle>第二条の七</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">会社法第四百四十九条第六項（第一号に係る部分に限る。）及び第七項並びに第八百二十八条（第一項第五号及び第二項第五号に係る部分に限る。）の規定は、附則第二条の七の規定により危機対応準備金の額を減少する場合について準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同法第四百四十九条第六項第一号中「資本金」とあるのは「株式会社商工組合中央金庫法（平成十九年法律第七十四号）附則第二条の七の規定による危機対応準備金」と、「第四百四十七条第一項第三号」とあるのは「同項第二号」と、同法第八百二十八条第一項第五号及び第二項第五号中「資本金」とあるのは「危機対応準備金」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">会社法第四百四十九条第六項（第一号に係る部分に限る。）及び第七項並びに第八百二十八条（第一項第五号及び第二項第五号に係る部分に限る。）の規定は、附則第二条の四の規定により危機対応準備金の額を減少する場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第四百四十九条第六項第一号中「資本金」とあるのは「株式会社商工組合中央金庫法（平成十九年法律第七十四号）附則第二条の四の規定による危機対応準備金」と、「第四百四十七条第一項第三号」とあるのは「同項第二号」と、同法第八百二十八条第一項第五号及び第二項第五号中「資本金」とあるのは「危機対応準備金」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">会社法第四百四十九条（第一項ただし書及び第六項第二号を除く。）及び第八百二十八条（第一項第五号及び第二項第五号に係る部分に限る。）の規定は、附則第二条の八の規定により危機対応準備金の額を減少する場合について準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同法第四百四十九条第一項本文中「資本金又は準備金（以下この条において「資本金等」という。）」とあるのは「危機対応準備金」と、「減少する場合（減少する準備金の額の全部を資本金とする場合を除く。）」とあるのは「減少する場合」と、「資本金等の」とあるのは「危機対応準備金の」と、同条第二項第一号中「資本金等」とあるのは「株式会社商工組合中央金庫法（平成十九年法律第七十四号）附則第二条の八の規定による危機対応準備金」と、同項第二号中「法務省令」とあるのは「主務省令」と、同条第四項及び第五項中「資本金等」とあるのは「危機対応準備金」と、同条第六項第一号中「資本金」とあるのは「株式会社商工組合中央金庫法附則第二条の八の規定による危機対応準備金」と、「第四百四十七条第一項第三号」とあるのは「附則第二条の九第一項の規定により読み替えられた同法第四十五条第二項第二号」と、同法第八百二十八条第一項第五号及び第二項第五号中「資本金」とあるのは「危機対応準備金」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">会社法第四百四十九条（第一項ただし書及び第六項第二号を除く。）及び第八百二十八条（第一項第五号及び第二項第五号に係る部分に限る。）の規定は、附則第二条の五の規定により危機対応準備金の額を減少する場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第四百四十九条第一項本文中「資本金又は準備金（以下この条において「資本金等」という。）」とあるのは「危機対応準備金」と、「減少する場合（減少する準備金の額の全部を資本金とする場合を除く。）」とあるのは「減少する場合」と、「資本金等の」とあるのは「危機対応準備金の」と、同条第二項第一号中「資本金等」とあるのは「株式会社商工組合中央金庫法（平成十九年法律第七十四号）附則第二条の五の規定による危機対応準備金」と、同項第二号中「法務省令」とあるのは「主務省令」と、同条第四項及び第五項中「資本金等」とあるのは「危機対応準備金」と、同条第六項第一号中「資本金」とあるのは「株式会社商工組合中央金庫法附則第二条の五の規定による危機対応準備金」と、「第四百四十七条第一項第三号」とあるのは「附則第二条の六第一項の規定により読み替えられた同法第四十五条第二項第二号」と、同法第八百二十八条第一項第五号及び第二項第五号中「資本金」とあるのは「危機対応準備金」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="2_11">
-        <ArticleCaption>（業務報告書等）</ArticleCaption>
-        <ArticleTitle>第二条の十一</ArticleTitle>
+      <Article Num="2_8">
+        <ArticleCaption>（総務省設置法の適用除外）</ArticleCaption>
+        <ArticleTitle>第二条の八</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫は、当分の間、第五十一条第一項に規定する中間業務報告書及び業務報告書に事業計画の実施の状況（中小企業信用保険法（昭和二十五年法律第二百六十四号）附則第六項の規定の遵守の状況を含む。）を記載しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="2_12">
-        <ArticleCaption>（過料）</ArticleCaption>
-        <ArticleTitle>第二条の十二</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第二条の四の規定に違反して、事業計画の認可を受けなかった場合には、その行為をした株式会社商工組合中央金庫の取締役、執行役、会計参与（会計参与が法人であるときは、その職務を行うべき社員）又は監査役は、百万円以下の過料に処する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">中小企業信用保険法及び株式会社商工組合中央金庫法の一部を改正する法律（令和五年法律第六十一号）第二条の規定（同法附則第一条第二号に掲げる改正規定に限る。）の施行後においては、株式会社商工組合中央金庫については、総務省設置法（平成十一年法律第九十一号）第四条第一項第八号の規定並びに同項第十二号及び第十四号の規定（同項第十二号ニに掲げる業務に関する事務に係る部分を除く。）は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6007,6 +6414,170 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第八条及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中中小企業信用保険法本則に一条を加える改正規定及び同法附則第六項を削る改正規定、第二条の規定（株式会社商工組合中央金庫法第十八条の改正規定を除く。）並びに附則第三条から第七条まで及び第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中株式会社商工組合中央金庫法第十八条の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して四年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（株式会社商工組合中央金庫法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定（附則第一条第二号に掲げる改正規定に限る。以下この項において同じ。）による改正後の株式会社商工組合中央金庫法（以下「新金庫法」という。）第二十六条第一項の規定は、同号に掲げる規定の施行の日（以下「第二号施行日」という。）において現に同項本文に規定する同一人に対する信用の供与等（同項本文に規定する信用の供与等をいう。以下この条において同じ。）の額が信用供与等限度額（同項本文に規定する信用供与等限度額をいう。以下この項において同じ。）を超えている場合（当該同一人に対する旧信用の供与等（第二条の規定による改正前の株式会社商工組合中央金庫法（以下この条及び附則第五条において「旧金庫法」という。）第二十六条第一項本文に規定する信用の供与等をいう。次項において同じ。）について、第二号施行日前に旧金庫法第二十六条第一項ただし書の規定による承認を受けた場合を除く。）の当該同一人に対する信用の供与等については、株式会社商工組合中央金庫が第二号施行日から起算して三月を経過する日までにその旨を主務大臣に届け出たときは、第二号施行日から起算して一年を経過する日までの間は、適用しない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、株式会社商工組合中央金庫が、当該同一人に対して同日後も引き続き信用供与等限度額を超えて当該信用の供与等をしないこととすれば当該同一人の事業の継続に著しい支障を生ずるおそれがある場合その他のやむを得ない理由がある場合において同日までに主務大臣の承認を受けたときは、株式会社商工組合中央金庫は、同日の翌日において新金庫法第二十六条第一項ただし書の規定による承認を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新金庫法第二十六条第二項の規定は、第二号施行日において現に同条第一項本文に規定する同一人に対する信用の供与等の額が合算して合算信用供与等限度額（同条第二項に規定する合算信用供与等限度額をいう。以下この項において同じ。）を超えている場合（当該同一人に対する旧信用の供与等について、第二号施行日前に旧金庫法第二十六条第二項において準用する同条第一項ただし書の規定による承認を受けた場合を除く。）は、株式会社商工組合中央金庫及びその子会社等（新金庫法第二十六条第二項に規定する子会社等をいう。以下この項において同じ。）又は株式会社商工組合中央金庫の子会社等の当該同一人に対する信用の供与等については、株式会社商工組合中央金庫が第二号施行日から起算して三月を経過する日までにその旨を主務大臣に届け出たときは、第二号施行日から起算して一年を経過する日までの間は、適用しない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、株式会社商工組合中央金庫が、株式会社商工組合中央金庫及びその子会社等又は株式会社商工組合中央金庫の子会社等が合算して当該同一人に対して同日後も引き続き合算信用供与等限度額を超えて当該信用の供与等をしないこととすれば当該同一人の事業の継続に著しい支障を生ずるおそれがある場合その他のやむを得ない理由がある場合において同日までに主務大臣の承認を受けたときは、株式会社商工組合中央金庫は、同日の翌日において同条第二項において準用する同条第一項ただし書の規定による承認を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二項に規定する主務大臣は、経済産業大臣、財務大臣及び内閣総理大臣とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による権限を金融庁長官に委任する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新金庫法第五十二条第七項（同条第一項、第二項及び第四項に係る部分に限る。）の規定は、第二号施行日以後に終了する事業年度に係る同条第一項及び第二項の規定による計算書類の作成並びに同条第四項の規定による公告について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前に旧金庫法附則第二条の四第一項の規定による認可を受けた同項に規定する事業計画は、新金庫法第二十二条の四第一項の規定による認可を受けた同項に規定する事業計画とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日が刑法等の一部を改正する法律（令和四年法律第六十七号）の施行の日（以下この条において「刑法施行日」という。）前である場合には、刑法施行日の前日までの間における新金庫法第六十条の三十五第一項第四号ハの規定の適用については、同号ハ中「拘禁刑」とあるのは、「禁錮」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日が刑法施行日前である場合には、刑法施行日の前日までの間における新金庫法第七十一条の二の規定の適用については、同条中「拘禁刑」とあるのは、「懲役」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">刑法施行日以後における刑法施行日前にした行為に対する同条の規定の適用についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（政府保有株式の処分）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布の日から第二号施行日の前日までの間において、できる限り速やかに、その保有する株式会社商工組合中央金庫の株式（次項において「政府保有株式」という。）の全部を処分するよう努めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、政府保有株式の処分の状況を勘案し、公正な価格及び方法で政府保有株式の処分を行うため必要があると認めるときは、法制上の措置その他の所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、第二号施行日から二年を経過する日までの間の適当な時期において、社会経済情勢の変化等を勘案し、株式会社商工組合中央金庫の事業の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、第二号施行日後適当な時期において、株式会社日本政策金融公庫法（平成十九年法律第五十七号）第十一条第二項に規定する指定金融機関に係る制度の運用の状況、株式会社商工組合中央金庫による危機対応業務（新金庫法第二十二条の三に規定する危機対応業務をいう。）の実施の状況、社会経済情勢の変化等を勘案し、当該危機対応業務の在り方について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
