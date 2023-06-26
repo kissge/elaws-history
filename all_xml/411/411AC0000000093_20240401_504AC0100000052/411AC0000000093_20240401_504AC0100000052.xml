@@ -362,7 +362,7 @@
               <Item Num="34">
                 <ItemTitle>三十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">難民の認定に関すること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">難民の認定及び補完的保護対象者の認定に関すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="35">
@@ -419,22 +419,22 @@
               </ParagraphSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">司法試験委員会</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">司法試験委員会</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">検察官適格審査会</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">検察官適格審査会</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">中央更生保護審査会</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">中央更生保護審査会</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">日本司法支援センター評価委員会</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">日本司法支援センター評価委員会</Sentence>
                 </ListSentence>
               </List>
             </Paragraph>
@@ -492,17 +492,17 @@
               </ParagraphSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">刑務所、少年刑務所及び拘置所</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">刑務所、少年刑務所及び拘置所</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">少年院</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">少年院</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">少年鑑別所</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">少年鑑別所</Sentence>
                 </ListSentence>
               </List>
             </Paragraph>
@@ -662,22 +662,22 @@
               </ParagraphSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">矯正管区</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">矯正管区</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">地方更生保護委員会</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方更生保護委員会</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">法務局及び地方法務局</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法務局及び地方法務局</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">保護観察所</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保護観察所</Sentence>
                 </ListSentence>
               </List>
             </Paragraph>
@@ -854,12 +854,12 @@
               </ParagraphSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">公安審査委員会</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公安審査委員会</Sentence>
                 </ListSentence>
               </List>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">公安調査庁</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公安調査庁</Sentence>
                 </ListSentence>
               </List>
             </Paragraph>
@@ -1390,6 +1390,37 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条（入管法第十九条の五及び第十九条の十一の改正規定を除く。）並びに附則第三条、第二十六条及び第二十九条の規定、附則第三十一条中自動車の運転により人を死傷させる行為等の処罰に関する法律（平成二十五年法律第八十六号）附則第十六条の改正規定並びに附則第三十二条から第三十四条まで及び第三十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して九月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="060" Year="18" PromulgateMonth="06" PromulgateDay="08" ScheduledEnforcementDate="2025/06/16"><LawNum>平成十八年法律第六十号</LawNum><LawBody><LawTitle Kana="たんていぎょうのぎょうむのてきせいかにかんするほうりつ" Abbrev="探偵業務適正化法,探偵業法" AbbrevKana="た,た">探偵業の業務の適正化に関する法律</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="060" Year="18" PromulgateMonth="06" PromulgateDay="08"><LawNum>平成十八年法律第六十号</LawNum><LawBody><LawTitle Kana="たんていぎょうのぎょうむのてきせいかにかんするほうりつ" Abbrev="探偵業務適正化法,探偵業法" AbbrevKana="た,た">探偵業の業務の適正化に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -127,12 +127,6 @@
             <Sentence Num="2" WritingMode="vertical">この場合において、当該届出書には、内閣府令で定める書類を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">公安委員会は、第一項又は前項の規定による届出（同項の規定による届出にあっては、廃止に係るものを除く。）があったときは、内閣府令で定めるところにより、当該届出をした者に対し、届出があったことを証する書面を交付しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
       </Article>
       <Article Num="5">
         <ArticleCaption>（名義貸しの禁止）</ArticleCaption>
@@ -181,7 +175,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第四条第三項の書面に記載されている事項</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第一項の規定による届出をした公安委員会の名称</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
@@ -337,7 +331,13 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">探偵業者は、第四条第三項の書面を営業所の見やすい場所に掲示しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">探偵業者は、第四条第一項の規定による届出をしたことを示す内閣府令で定める様式の標識について、営業所の見やすい場所に掲示するとともに、その事業の規模が著しく小さい場合その他の内閣府令で定める場合を除き、内閣府令で定めるところにより、電気通信回線に接続して行う自動公衆送信（公衆によって直接受信されることを目的として公衆からの求めに応じ自動的に送信を行うことをいい、放送又は有線放送に該当するものを除く。次項において同じ。）により公衆の閲覧に供しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">探偵業者以外の者は、前項の標識又はこれに類似する標識を掲示し、又は電気通信回線に接続して行う自動公衆送信により公衆の閲覧に供してはならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -480,7 +480,16 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前三条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第十二条第三項の規定に違反したときは、当該違反行為をした者は、二十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第十七条から前条までの違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -618,6 +627,61 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第二条の規定並びに附則第七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（探偵業の業務の適正化に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為を理由とする探偵業の業務の適正化に関する法律第十五条第一項の規定による探偵業の停止の命令については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

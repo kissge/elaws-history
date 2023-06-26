@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="043" Year="58" PromulgateMonth="05" PromulgateDay="18" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和五十八年法律第四十三号</LawNum><LawBody><LawTitle Kana="じょうかそうほう" Abbrev="" AbbrevKana="">浄化槽法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="043" Year="58" PromulgateMonth="05" PromulgateDay="18"><LawNum>昭和五十八年法律第四十三号</LawNum><LawBody><LawTitle Kana="じょうかそうほう" Abbrev="" AbbrevKana="">浄化槽法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -222,7 +222,7 @@
                 </Column>
                 <Column Num="2">
                   <Sentence Function="main" Num="1" WritingMode="vertical">建築基準法（昭和二十五年法律第二百一号）第二条第三十五号本文に規定する特定行政庁をいう。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同法第九十七条の二第一項の市町村又は特別区の区域については、当該浄化槽に係る建築物の審査を行うべき建築主事を置く市町村若しくは特別区の長又は都道府県知事をいう。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同法第九十七条の二第一項若しくは第二項の市町村又は特別区の区域については、当該浄化槽に係る建築物の審査を行うべき建築主事若しくは建築副主事を置く市町村若しくは特別区の長又は都道府県知事をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -328,7 +328,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">浄化槽を設置し、又はその構造若しくは規模の変更（国土交通省令・環境省令で定める軽微な変更を除く。第七条第一項、第十二条の四第二項において同じ。）をしようとする者は、国土交通省令・環境省令で定めるところにより、その旨を都道府県知事（保健所を設置する市又は特別区にあつては、市長又は区長とする。第五項、第七条第一項、第十二条の四第二項、第五章、第四十八条第四項、第四十九条第一項及び第五十七条を除き、以下同じ。）及び当該都道府県知事を経由して特定行政庁に届け出なければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該浄化槽に関し、建築基準法第六条第一項（同法第八十七条第一項において準用する場合を含む。）の規定による建築主事の確認を申請すべきとき、又は同法第十八条第二項（同法第八十七条第一項において準用する場合を含む。）の規定により建築主事に通知すべきときは、この限りでない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該浄化槽に関し、建築基準法第六条第一項（同法第八十七条第一項において準用する場合を含む。）の規定による建築主事若しくは建築副主事の確認を申請すべきとき、又は同法第十八条第二項（同法第八十七条第一項において準用する場合を含む。）の規定により建築主事若しくは建築副主事に通知すべきときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -4480,6 +4480,37 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条の規定並びに附則第四条、第六条、第八条から第十四条まで、第十六条から第十九条まで及び第二十一条から第二十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

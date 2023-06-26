@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="072" Year="48" PromulgateMonth="09" PromulgateDay="01" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和四十八年法律第七十二号</LawNum><LawBody><LawTitle Kana="としりょくちほう" Abbrev="" AbbrevKana="">都市緑地法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="072" Year="48" PromulgateMonth="09" PromulgateDay="01"><LawNum>昭和四十八年法律第七十二号</LawNum><LawBody><LawTitle Kana="としりょくちほう" Abbrev="" AbbrevKana="">都市緑地法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1374,7 +1374,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">建築基準法第七条第四項に規定する建築主事等又は同法第七条の二第一項の規定による指定を受けた者は、前項の認定を受けた者に対し、その検査に係る建築物及びその敷地が、緑化施設に関する工事が完了していないことを除き、建築基準関係規定に適合していることを認めた場合においては、同法第七条第五項又は第七条の二第五項の規定にかかわらず、これらの規定による検査済証を交付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">建築基準法第七条第四項に規定する検査実施者又は同法第七条の二第一項の規定による指定を受けた者は、前項の認定を受けた者に対し、その検査に係る建築物及びその敷地が、緑化施設に関する工事が完了していないことを除き、建築基準関係規定に適合していることを認めた場合においては、同法第七条第五項又は第七条の二第五項の規定にかかわらず、これらの規定による検査済証を交付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3382,6 +3382,37 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条の規定並びに附則第四条、第六条、第八条から第十四条まで、第十六条から第十九条まで及び第二十一条から第二十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

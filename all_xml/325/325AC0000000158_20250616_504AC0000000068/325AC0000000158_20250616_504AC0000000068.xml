@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="430AC0000000021" AmendmentNum="平成三十年法律第二十一号" Era="Showa" Lang="ja" LawType="Act" Num="158" Year="25" PromulgateMonth="05" PromulgateDay="08" ScheduledEnforcementDate="2025/06/16"><LawNum>昭和二十五年法律第百五十八号</LawNum><LawBody><LawTitle Kana="しちやえいぎょうほう" Abbrev="" AbbrevKana="">質屋営業法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="158" Year="25" PromulgateMonth="05" PromulgateDay="08"><LawNum>昭和二十五年法律第百五十八号</LawNum><LawBody><LawTitle Kana="しちやえいぎょうほう" Abbrev="" AbbrevKana="">質屋営業法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（定義）</ArticleCaption>
@@ -267,12 +267,12 @@
         </Paragraph>
       </Article>
       <Article Num="10">
-        <ArticleCaption>（許可の表示）</ArticleCaption>
+        <ArticleCaption>（標識の掲示等）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二条第一項の許可を受けた者は、営業所の見易い場所に、内閣府令で定めるところにより、許可を受けたことを証する表示をしなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二条第一項の許可を受けた者は、許可を受けたことを示す内閣府令で定める様式の標識を営業所の見やすい場所に掲示するとともに、その事業の規模が著しく小さい場合その他の内閣府令で定める場合を除き、内閣府令で定めるところにより、その氏名又は名称、許可をした公安委員会の名称及び許可証の番号を電気通信回線に接続して行う自動公衆送信（公衆によつて直接受信されることを目的として公衆からの求めに応じ自動的に送信を行うことをいい、放送又は有線放送に該当するものを除く。）により公衆の閲覧に供しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1572,6 +1572,51 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第二条の規定並びに附則第七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

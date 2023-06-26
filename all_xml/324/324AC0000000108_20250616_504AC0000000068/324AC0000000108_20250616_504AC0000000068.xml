@@ -411,7 +411,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">公安委員会は、第五条第一項第六号に規定する方法を用いる古物商について、次に掲げる事項を電気通信回線に接続して行う自動公衆送信により公衆の閲覧に供するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">公安委員会は、第五条第一項第六号に規定する方法を用いる古物商（第十二条第二項及び第三項において「特定古物商」という。）について、次に掲げる事項を電気通信回線に接続して行う自動公衆送信により公衆の閲覧に供するものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -560,7 +560,13 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">古物商は、第五条第一項第六号に規定する方法を用いて取引をしようとするときは、その取り扱う古物に関する事項と共に、その氏名又は名称、許可をした公安委員会の名称及び許可証の番号を電気通信回線に接続して行う自動公衆送信により公衆の閲覧に供しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">古物商又は古物市場主は、その事業の規模が著しく小さい場合その他の国家公安委員会規則で定める場合（その者が特定古物商である場合を除く。）を除き、国家公安委員会規則で定めるところにより、その氏名又は名称、許可をした公安委員会の名称及び許可証の番号（次項において「氏名等」という。）を電気通信回線に接続して行う自動公衆送信により公衆の閲覧に供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定古物商は、前項の規定により氏名等を公衆の閲覧に供するときは、氏名等と共に、その取り扱う古物に関する事項を公衆の閲覧に供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2225,6 +2231,51 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第二条の規定並びに附則第七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

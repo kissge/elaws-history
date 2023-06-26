@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="087" Year="14" PromulgateMonth="07" PromulgateDay="12" ScheduledEnforcementDate="2025/06/16"><LawNum>平成十四年法律第八十七号</LawNum><LawBody><LawTitle Kana="しようずみじどうしゃのさいしげんかとうにかんするほうりつ" Abbrev="自動車リサイクル法" AbbrevKana="じ">使用済自動車の再資源化等に関する法律</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="087" Year="14" PromulgateMonth="07" PromulgateDay="12"><LawNum>平成十四年法律第八十七号</LawNum><LawBody><LawTitle Kana="しようずみじどうしゃのさいしげんかとうにかんするほうりつ" Abbrev="自動車リサイクル法" AbbrevKana="じ">使用済自動車の再資源化等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1342,12 +1342,12 @@
             </Paragraph>
           </Article>
           <Article Num="50">
-            <ArticleCaption>（標識の掲示）</ArticleCaption>
+            <ArticleCaption>（標識の掲示等）</ArticleCaption>
             <ArticleTitle>第五十条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">引取業者は、主務省令で定めるところにより、その事業所ごとに、公衆の見やすい場所に、氏名又は名称、登録番号その他の主務省令で定める事項を記載した標識を掲げなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">引取業者は、主務省令で定めるところにより、その事業所ごとに、公衆の見やすい場所に、氏名又は名称、登録番号その他の主務省令で定める事項を記載した標識を掲げるとともに、その事業の規模が著しく小さい場合その他の主務省令で定める場合を除き、当該事項を電気通信回線に接続して行う自動公衆送信（公衆によって直接受信されることを目的として公衆からの求めに応じ自動的に送信を行うことをいい、放送又は有線放送に該当するものを除く。第六十五条において同じ。）により公衆の閲覧に供しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1903,12 +1903,12 @@
             </Paragraph>
           </Article>
           <Article Num="65">
-            <ArticleCaption>（標識の掲示）</ArticleCaption>
+            <ArticleCaption>（標識の掲示等）</ArticleCaption>
             <ArticleTitle>第六十五条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">解体業者は、主務省令で定めるところにより、その事業所ごとに、公衆の見やすい場所に、氏名又は名称その他の主務省令で定める事項を記載した標識を掲げなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">解体業者は、主務省令で定めるところにより、その事業所ごとに、公衆の見やすい場所に、氏名又は名称その他の主務省令で定める事項を記載した標識を掲げるとともに、その事業の規模が著しく小さい場合その他の主務省令で定める場合を除き、当該事項を電気通信回線に接続して行う自動公衆送信により公衆の閲覧に供しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4066,7 +4066,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十条（第五十九条において準用する場合を含む。）又は第六十五条（第七十二条において準用する場合を含む。）の規定による標識を掲げない者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十条（第五十九条において準用する場合を含む。）又は第六十五条（第七十二条において準用する場合を含む。）の規定に違反した者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4851,6 +4851,51 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第二条の規定並びに附則第七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
