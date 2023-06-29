@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000400092" AmendmentNum="令和二年経済産業省令第九十二号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="46" PromulgateMonth="04" PromulgateDay="01" ScheduledEnforcementDate=""><LawNum>昭和四十六年通商産業省令第二十七号</LawNum><LawBody><LawTitle Kana="がすようひんのぎじゅつじょうのきじゅんとうにかんするしょうれい" Abbrev="" AbbrevKana="">ガス用品の技術上の基準等に関する省令</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="46" PromulgateMonth="04" PromulgateDay="01"><LawNum>昭和四十六年通商産業省令第二十七号</LawNum><LawBody><LawTitle Kana="がすようひんのぎじゅつじょうのきじゅんとうにかんするしょうれい" Abbrev="" AbbrevKana="">ガス用品の技術上の基準等に関する省令</LawTitle>
     <EnactStatement>ガス事業法（昭和二十九年法律第五十一号）の規定に基づき、および同法を実施するため、ガス用品の検定等に関する省令を次のように制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -3470,7 +3470,7 @@
       </Item>
       <Remarks>
         <RemarksLabel LineBreak="true">（備考）</RemarksLabel>
-        <Item Delete="false" Hide="false" Num="1">
+        <Item Num="1">
           <ItemTitle>１</ItemTitle>
           <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">適用すべきガスグループ</Sentence>
@@ -3481,42 +3481,42 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="7">
                   <Sentence Num="1" WritingMode="vertical">適用すべきガスグループ</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">１３Ａ（燃焼速度が３５以上４７以下であつてウォッベ指数が５２．７を超え５７．８以下のガスをいう。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">１２Ａ（燃焼速度が３４以上４７以下であつてウォッベ指数が４９．２を超え５３．８以下のガスをいう。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">６Ａ（燃焼速度が３４以上４５以下であつてウォッベ指数が２４．５を超え２８．２以下のガスをいう。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">５Ｃ（燃焼速度が４２以上６８以下であつてウォッベ指数が２１．４を超え２４．７以下のガスをいう。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">Ｌ１（燃焼速度が４２．５以上７８以下であつてウォッベ指数が２３．７を超え２８．９以下のガスをいう。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">Ｌ２（燃焼速度が２９以上５４以下であつてウォッベ指数が１９．０を超え２２．６以下のガスをいう。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">Ｌ３（燃焼速度が３５以上６４以下であつてウォッベ指数が１６．２を超え１８．６以下のガスをいう。）</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
-          </TableStruct>
+      </TableStruct>
           <List>
             <ListSentence>
               <Sentence Num="1" WritingMode="vertical">（１）　この表の燃焼速度は、次の式により算出するものとする。</Sentence>
@@ -3560,164 +3560,163 @@
           </List>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical">ＣＯ２は、ガス中の二酸化炭素の含有率（体積百分率）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ＣＯ<Sub>２</Sub>は、ガス中の二酸化炭素の含有率（体積百分率）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical">Ｎ２は、ガス中の窒素の含有率（体積百分率）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ｎ<Sub>２</Sub>は、ガス中の窒素の含有率（体積百分率）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical">Ｏ２は、ガス中の酸素の含有率（体積百分率）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ｏ<Sub>２</Sub>は、ガス中の酸素の含有率（体積百分率）</Sentence>
             </ListSentence>
           </List>
           <TableStruct>
-            <Table WritingMode="vertical">
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">
-                  </Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">水素</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">一酸化炭素</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">メタン</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">エタン</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">エチレン</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">プロパン</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">プロピレン</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">ブタン</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">ブテン</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他の炭化水素</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">Ｓｉ</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">２８２</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">１００</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">３６</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４１</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">６６</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４１</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４７</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">３８</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４７</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４０</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">ｆｉ</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">１．００</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">０．７８１</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">８．７２</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">１６．６</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">１１．０</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">２４．６</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">２１．８</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">３２．７</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">２８．５</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">３８．３</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">αｉ</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">１．３３</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">１．００</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">２．００</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４．００</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">５．５６</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">水素</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一酸化炭素</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">メタン</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">エタン</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">エチレン</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">プロパン</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">プロピレン</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">ブタン</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">ブテン</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">その他の炭化水素</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">Ｓｉ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">２８２</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">３６</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４１</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">６６</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４１</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４７</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">３８</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４７</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">ｆｉ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１．００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．７８１</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">８．７２</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１６．６</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１１．０</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">２４．６</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">２１．８</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">３２．７</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">２８．５</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">３８．３</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">αｉ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１．３３</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１．００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">２．００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４．００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">５．５６</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４．５５</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
           <List>
             <ListSentence>
               <Sentence Num="1" WritingMode="vertical">（２）　この表のウォッベ指数は、次の式により算出するものとする。</Sentence>
@@ -3744,7 +3743,7 @@
             </ListSentence>
           </List>
         </Item>
-        <Item Delete="false" Hide="false" Num="2">
+        <Item Num="2">
           <ItemTitle>２</ItemTitle>
           <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">表示事項として適用すべきガスグループが２以上ある場合には、その適用すべきガスグループに応じてそれぞれ必要な技術上の基準に適合することを確認すること。</Sentence>
@@ -3752,7 +3751,7 @@
         </Item>
       </Remarks>
     </AppdxTable>
-    <AppdxTable>
+    <AppdxTable Num="4">
       <AppdxTableTitle WritingMode="vertical">別表第４</AppdxTableTitle>
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <TableStruct>
