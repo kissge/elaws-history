@@ -155,7 +155,7 @@
           <ArticleRange>（第百七十二条・第百七十三条）</ArticleRange>
         </TOCChapter>
         <TOCChapter Num="22">
-          <ChapterTitle>第二十二章　わいせつ、強制性交等及び重婚の罪</ChapterTitle>
+          <ChapterTitle>第二十二章　わいせつ、不同意性交等及び重婚の罪</ChapterTitle>
           <ArticleRange>（第百七十四条―第百八十四条）</ArticleRange>
         </TOCChapter>
         <TOCChapter Num="23">
@@ -346,7 +346,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第百七十六条から第百八十一条まで（強制わいせつ、強制性交等、準強制わいせつ及び準強制性交等、監護者わいせつ及び監護者性交等、未遂罪、強制わいせつ等致死傷）及び第百八十四条（重婚）の罪</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第百七十六条、第百七十七条及び第百七十九条から第百八十一条まで（不同意わいせつ、不同意性交等、監護者わいせつ及び監護者性交等、未遂罪、不同意わいせつ等致死傷）並びに第百八十四条（重婚）の罪</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
@@ -400,7 +400,7 @@
               <Item Num="14">
                 <ItemTitle>十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第二百三十五条から第二百三十六条まで（窃盗、不動産侵奪、強盗）、第二百三十八条から第二百四十条まで（事後強盗、<Ruby>昏<Rt>こん</Rt></Ruby>酔強盗、強盗致死傷）、第二百四十一条第一項及び第三項（強盗・強制性交等及び同致死）並びに第二百四十三条（未遂罪）の罪</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二百三十五条から第二百三十六条まで（窃盗、不動産侵奪、強盗）、第二百三十八条から第二百四十条まで（事後強盗、<Ruby>昏<Rt>こん</Rt></Ruby>酔強盗、強盗致死傷）、第二百四十一条第一項及び第三項（強盗・不同意性交等及び同致死）並びに第二百四十三条（未遂罪）の罪</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="15">
@@ -434,7 +434,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第百七十六条から第百八十一条まで（強制わいせつ、強制性交等、準強制わいせつ及び準強制性交等、監護者わいせつ及び監護者性交等、未遂罪、強制わいせつ等致死傷）の罪</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第百七十六条、第百七十七条及び第百七十九条から第百八十一条まで（不同意わいせつ、不同意性交等、監護者わいせつ及び監護者性交等、未遂罪、不同意わいせつ等致死傷）の罪</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -464,7 +464,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第二百三十六条（強盗）、第二百三十八条から第二百四十条まで（事後強盗、昏酔強盗、強盗致死傷）並びに第二百四十一条第一項及び第三項（強盗・強制性交等及び同致死）の罪並びにこれらの罪（同条第一項の罪を除く。）の未遂罪</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二百三十六条（強盗）、第二百三十八条から第二百四十条まで（事後強盗、昏酔強盗、強盗致死傷）並びに第二百四十一条第一項及び第三項（強盗・不同意性交等及び同致死）の罪並びにこれらの罪（同条第一項の罪を除く。）の未遂罪</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -3460,7 +3460,7 @@
           </Article>
         </Chapter>
         <Chapter Num="22">
-          <ChapterTitle>第二十二章　わいせつ、強制性交等及び重婚の罪</ChapterTitle>
+          <ChapterTitle>第二十二章　わいせつ、不同意性交等及び重婚の罪</ChapterTitle>
           <Article Num="174">
             <ArticleCaption>（公然わいせつ）</ArticleCaption>
             <ArticleTitle>第百七十四条</ArticleTitle>
@@ -3489,40 +3489,103 @@
             </Paragraph>
           </Article>
           <Article Num="176">
-            <ArticleCaption>（強制わいせつ）</ArticleCaption>
+            <ArticleCaption>（不同意わいせつ）</ArticleCaption>
             <ArticleTitle>第百七十六条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">十三歳以上の者に対し、暴行又は脅迫を用いてわいせつな行為をした者は、六月以上十年以下の拘禁刑に処する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">十三歳未満の者に対し、わいせつな行為をした者も、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる行為又は事由その他これらに類する行為又は事由により、同意しない意思を形成し、表明し若しくは全うすることが困難な状態にさせ又はその状態にあることに乗じて、わいせつな行為をした者は、婚姻関係の有無にかかわらず、六月以上十年以下の拘禁刑に処する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">暴行若しくは脅迫を用いること又はそれらを受けたこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">心身の障害を生じさせること又はそれがあること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">アルコール若しくは薬物を摂取させること又はそれらの影響があること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">睡眠その他の意識が明瞭でない状態にさせること又はその状態にあること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同意しない意思を形成し、表明し又は全うするいとまがないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">予想と異なる事態に直面させて恐怖させ、若しくは驚<Ruby>愕<Rt>がく</Rt></Ruby>させること又はその事態に直面して恐怖し、若しくは驚愕していること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">虐待に起因する心理的反応を生じさせること又はそれがあること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済的又は社会的関係上の地位に基づく影響力によって受ける不利益を憂慮させること又はそれを憂慮していること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行為がわいせつなものではないとの誤信をさせ、若しくは行為をする者について人違いをさせ、又はそれらの誤信若しくは人違いをしていることに乗じて、わいせつな行為をした者も、前項と同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">十六歳未満の者に対し、わいせつな行為をした者（当該十六歳未満の者が十三歳以上である場合については、その者が生まれた日より五年以上前の日に生まれた者に限る。）も、第一項と同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="177">
-            <ArticleCaption>（強制性交等）</ArticleCaption>
+            <ArticleCaption>（不同意性交等）</ArticleCaption>
             <ArticleTitle>第百七十七条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">十三歳以上の者に対し、暴行又は脅迫を用いて性交、<Ruby>肛<Rt>こう</Rt></Ruby>門性交又は口<Ruby>腔<Rt>くう</Rt></Ruby>性交（以下「性交等」という。）をした者は、強制性交等の罪とし、五年以上の有期拘禁刑に処する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">十三歳未満の者に対し、性交等をした者も、同様とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="178">
-            <ArticleCaption>（準強制わいせつ及び準強制性交等）</ArticleCaption>
-            <ArticleTitle>第百七十八条</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">人の心神喪失若しくは抗拒不能に乗じ、又は心神を喪失させ、若しくは抗拒不能にさせて、わいせつな行為をした者は、第百七十六条の例による。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項各号に掲げる行為又は事由その他これらに類する行為又は事由により、同意しない意思を形成し、表明し若しくは全うすることが困難な状態にさせ又はその状態にあることに乗じて、性交、<Ruby>肛<Rt>こう</Rt></Ruby>門性交、口<Ruby>腔<Rt>くう</Rt></Ruby>性交又は<Ruby>膣<Rt>ちつ</Rt></Ruby>若しくは肛門に身体の一部（陰茎を除く。）若しくは物を挿入する行為であってわいせつなもの（以下この条及び第百七十九条第二項において「性交等」という。）をした者は、婚姻関係の有無にかかわらず、五年以上の有期拘禁刑に処する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">人の心神喪失若しくは抗拒不能に乗じ、又は心神を喪失させ、若しくは抗拒不能にさせて、性交等をした者は、前条の例による。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">行為がわいせつなものではないとの誤信をさせ、若しくは行為をする者について人違いをさせ、又はそれらの誤信若しくは人違いをしていることに乗じて、性交等をした者も、前項と同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">十六歳未満の者に対し、性交等をした者（当該十六歳未満の者が十三歳以上である場合については、その者が生まれた日より五年以上前の日に生まれた者に限る。）も、第一項と同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="178">
+            <ArticleTitle>第百七十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3532,13 +3595,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">十八歳未満の者に対し、その者を現に監護する者であることによる影響力があることに乗じてわいせつな行為をした者は、第百七十六条の例による。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">十八歳未満の者に対し、その者を現に監護する者であることによる影響力があることに乗じてわいせつな行為をした者は、第百七十六条第一項の例による。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">十八歳未満の者に対し、その者を現に監護する者であることによる影響力があることに乗じて性交等をした者は、第百七十七条の例による。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">十八歳未満の者に対し、その者を現に監護する者であることによる影響力があることに乗じて性交等をした者は、第百七十七条第一項の例による。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3548,42 +3611,85 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百七十六条から前条までの罪の未遂は、罰する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百七十六条、第百七十七条及び前条の罪の未遂は、罰する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="181">
-            <ArticleCaption>（強制わいせつ等致死傷）</ArticleCaption>
+            <ArticleCaption>（不同意わいせつ等致死傷）</ArticleCaption>
             <ArticleTitle>第百八十一条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百七十六条、第百七十八条第一項若しくは第百七十九条第一項の罪又はこれらの罪の未遂罪を犯し、よって人を死傷させた者は、無期又は三年以上の拘禁刑に処する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百七十六条若しくは第百七十九条第一項の罪又はこれらの罪の未遂罪を犯し、よって人を死傷させた者は、無期又は三年以上の拘禁刑に処する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百七十七条、第百七十八条第二項若しくは第百七十九条第二項の罪又はこれらの罪の未遂罪を犯し、よって人を死傷させた者は、無期又は六年以上の拘禁刑に処する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百七十七条若しくは第百七十九条第二項の罪又はこれらの罪の未遂罪を犯し、よって人を死傷させた者は、無期又は六年以上の拘禁刑に処する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="182">
-            <ArticleCaption>（淫行勧誘）</ArticleCaption>
+            <ArticleCaption>（十六歳未満の者に対する面会要求等）</ArticleCaption>
             <ArticleTitle>第百八十二条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">営利の目的で、淫行の常習のない女子を勧誘して<Ruby>姦<Rt>かん</Rt></Ruby>淫させた者は、三年以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">わいせつの目的で、十六歳未満の者に対し、次の各号に掲げるいずれかの行為をした者（当該十六歳未満の者が十三歳以上である場合については、その者が生まれた日より五年以上前の日に生まれた者に限る。）は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">威迫し、偽計を用い又は誘惑して面会を要求すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">拒まれたにもかかわらず、反復して面会を要求すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">金銭その他の利益を供与し、又はその申込み若しくは約束をして面会を要求すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の罪を犯し、よってわいせつの目的で当該十六歳未満の者と面会をした者は、二年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">十六歳未満の者に対し、次の各号に掲げるいずれかの行為（第二号に掲げる行為については、当該行為をさせることがわいせつなものであるものに限る。）を要求した者（当該十六歳未満の者が十三歳以上である場合については、その者が生まれた日より五年以上前の日に生まれた者に限る。）は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">性交、肛門性交又は口腔性交をする姿態をとってその映像を送信すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げるもののほか、膣又は肛門に身体の一部（陰茎を除く。）又は物を挿入し又は挿入される姿態、性的な部位（性器若しくは肛門若しくはこれらの周辺部、<Ruby>臀<Rt>でん</Rt></Ruby>部又は胸部をいう。以下この号において同じ。）を触り又は触られる姿態、性的な部位を露出した姿態その他の姿態をとってその映像を送信すること。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="183">
+            <ArticleCaption>（淫行勧誘）</ArticleCaption>
             <ArticleTitle>第百八十三条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+                <Sentence Num="1" WritingMode="vertical">営利の目的で、淫行の常習のない女子を勧誘して<Ruby>姦<Rt>かん</Rt></Ruby>淫させた者は、三年以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4507,12 +4613,12 @@
             </Paragraph>
           </Article>
           <Article Num="241">
-            <ArticleCaption>（強盗・強制性交等及び同致死）</ArticleCaption>
+            <ArticleCaption>（強盗・不同意性交等及び同致死）</ArticleCaption>
             <ArticleTitle>第二百四十一条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">強盗の罪若しくはその未遂罪を犯した者が強制性交等の罪（第百七十九条第二項の罪を除く。以下この項において同じ。）若しくはその未遂罪をも犯したとき、又は強制性交等の罪若しくはその未遂罪を犯した者が強盗の罪若しくはその未遂罪をも犯したときは、無期又は七年以上の拘禁刑に処する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">強盗の罪若しくはその未遂罪を犯した者が第百七十七条の罪若しくはその未遂罪をも犯したとき、又は同条の罪若しくはその未遂罪を犯した者が強盗の罪若しくはその未遂罪をも犯したときは、無期又は七年以上の拘禁刑に処する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -5744,6 +5850,83 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第二号施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月二三日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為の処罰については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定によりなお従前の例によることとされる場合における第一条の規定による改正前の刑法（以下「旧刑法」という。）第百七十六条から第百七十八条までの罪又はこれらの罪の未遂罪の被害者は、第三条の規定による改正後の刑事訴訟法（以下「新刑事訴訟法」という。）第百五十七条の六第一項の規定の適用については、同項第一号に掲げる者とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定によりなお従前の例によることとされる場合における旧刑法第百七十六条から第百七十八条までの罪又はこれらの罪の未遂罪に係る事件は、新刑事訴訟法第二百九十条の二第一項の規定の適用については、同項第一号に掲げる事件とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定によりなお従前の例によることとされる場合における旧刑法第百七十六条から第百七十八条までの罪は、新刑事訴訟法第三百十六条の三十三第一項の規定の適用については、同項第二号に掲げる罪とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法等の一部を改正する法律（令和四年法律第六十七号）の施行の日（以下この条において「刑法施行日」という。）の前日までの間における第一条の規定による改正後の刑法第百七十六条、第百七十七条及び第百八十二条の規定の適用については、同法第百七十六条第一項及び第百八十二条中「拘禁刑」とあるのは「懲役」と、同法第百七十七条第一項中「有期拘禁刑」とあるのは「有期懲役」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">刑法施行日以後における刑法施行日前にした行為に対する同法第百七十六条、第百七十七条及び第百八十二条の規定の適用についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（検討等）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、性的な被害に係る犯罪規定が社会の受け止め方を踏まえて処罰対象を適切に決すべきものであるという特質を有し、また、その改正がそれぞれの時代の性的な被害の実態及びこれに対する社会の意識の変化に対応していること等に鑑み、この法律の施行後五年を経過した場合において、この法律による改正後のそれぞれの法律の規定及び性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律（令和五年法律第六十七号）の規定（以下「新刑法等の規定」という。）の施行の状況を勘案し、新刑法等の規定の施行後の性的な被害の実態及びこれに対する社会の受け止め方や社会の意識、とりわけ性的同意についての意識も踏まえつつ、速やかに性犯罪に係る事案の実態に即した対処を行うための施策の在り方について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、前項の検討がより実証的なものとなるよう、性的な被害を申告することの困難さその他性的な被害の実態について、必要な調査を行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（周知）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、新刑法等の規定が、性的な被害の実態及びこれに対する社会の意識の変化に対応して、刑罰を伴う新たな行為規範を定めるものであることに鑑み、その趣旨及び内容について国民に周知を図るものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

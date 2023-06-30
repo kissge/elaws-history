@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="430M60000002030" AmendmentNum="平成三十年内閣府令第三十号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="060" Year="35" PromulgateMonth="12" PromulgateDay="03" ScheduledEnforcementDate=""><LawNum>昭和三十五年総理府令第六十号</LawNum><LawBody><LawTitle Kana="どうろこうつうほうせこうきそく" Abbrev="道交法施行規則" AbbrevKana="ど">道路交通法施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="060" Year="35" PromulgateMonth="12" PromulgateDay="03"><LawNum>昭和三十五年総理府令第六十号</LawNum><LawBody><LawTitle Kana="どうろこうつうほうしこうきそく" Abbrev="道交法施行規則" AbbrevKana="ど">道路交通法施行規則</LawTitle>
     <EnactStatement>道路交通法及び道路交通法施行令の規定に基づき、並びにこれらを実施するため、道路交通法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -5732,7 +5732,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">１．３３６×Ａ＋２．４９９×Ｂ</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>１．３３６×Ａ＋２．４９９×Ｂ</ArithFormula></Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -10006,12 +10006,7 @@
       <Paragraph Num="3">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">この府令の施行の日から起算して四年を経過するまでの間は、改正後の道路交通法施行規則別表第二中「<QuoteStruct>
-              <TableStruct>
-                <Table WritingMode="vertical">
-                  <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">軽車（三六〇）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この府令の施行の日から起算して四年を経過するまでの間は、改正後の道路交通法施行規則別表第二中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid"><Sentence Num="1" WritingMode="vertical">軽車（三六〇）</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">長さが三・〇〇メートル以下、幅が一・三〇メートル以下、高さが二・〇〇メートル以下の普通自動車（内燃機関を原動機とする自動車にあつては、総排気量が〇・三六〇リツトル以下のものに限る。）</Sentence>
@@ -11484,7 +11479,7 @@
         </ParagraphSentence>
         <List>
           <ListSentence>
-            <Sentence Num="1" WritingMode="vertical">（Ａ＋Ｂ＋Ｃ）／（Ｄ＋Ｂ＋Ｅ）</Sentence>
+            <Sentence Num="1" WritingMode="vertical"><ArithFormula>（Ａ＋Ｂ＋Ｃ）／（Ｄ＋Ｂ＋Ｅ）</ArithFormula></Sentence>
           </ListSentence>
         </List>
         <List>
@@ -12202,11 +12197,7 @@
           </ParagraphSentence>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000020850.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000020850.jpg"/></QuoteStruct></Sentence>
             </ListSentence>
           </List>
           <List>
@@ -12749,7 +12740,7 @@
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">この府令の施行の日前に製作された道路運送車両の保安基準（昭和二十六年運輸省令第六十七号）第一条第一項第十三号の六に規定する特定小型原動機付自転車に対するこの府令による改正後の道路交通法施行規則第一条の二の二の規定の適用については、令和六年十二月二十三日までの間、同条第二号ホ中「こと」とあるのは、「こと又は道路運送車両法施行規則（昭和二十六年運輸省令第七十四号）第六十二条の三第一項の認定を受けた者が同条第五項の規定により道路運送車両の保安基準第三章第二節（第六十六条の十七を除く。）の基準に適合するものとして特定小型原動機付自転車に表示しなければならないこととされている型式認定番号標（これに準ずるものとして国家公安委員会が定めるものを含む。）若しくは市町村（特別区を含む。）の条例で定めるところにより特定小型原動機付自転車に取り付けることとされている標識（地方税法（昭和二十五年法律第二百二十六号）第四百六十三条の十八第三項（同法第一条第二項において準用する場合を含む。）に規定する標識をいう。）を見やすいように表示していること」とする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この府令の施行の日前に製作された道路運送車両の保安基準（昭和二十六年運輸省令第六十七号）第一条第一項第十三号の六に規定する特定小型原動機付自転車に対するこの府令による改正後の道路交通法施行規則第一条の二の二の規定の適用については、令和六年十二月二十二日までの間、同条第二号ホ中「こと」とあるのは、「こと又は道路運送車両法施行規則（昭和二十六年運輸省令第七十四号）第六十二条の三第一項の認定を受けた者が同条第五項の規定により道路運送車両の保安基準第三章第二節（第六十六条の十七を除く。）の基準に適合するものとして特定小型原動機付自転車に表示しなければならないこととされている型式認定番号標（これに準ずるものとして国家公安委員会が定めるものを含む。）若しくは市町村（特別区を含む。）の条例で定めるところにより特定小型原動機付自転車に取り付けることとされている標識（地方税法（昭和二十五年法律第二百二十六号）第四百六十三条の十八第三項（同法第一条第二項において準用する場合を含む。）に規定する標識をいう。）を見やすいように表示していること」とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="3">
@@ -14036,11 +14027,7 @@
               <Sentence Num="1" WritingMode="vertical">中央柱式</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000014587.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000014587.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
               <Sentence Num="1" WritingMode="vertical">備考</Sentence>
@@ -14056,11 +14043,7 @@
               <Sentence Num="1" WritingMode="vertical">側柱式</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000014588.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000014588.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14071,11 +14054,7 @@
               <Sentence Num="1" WritingMode="vertical">懸垂式</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000014589.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000014589.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14083,11 +14062,7 @@
               <Sentence Num="1" WritingMode="vertical">横型</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000014590.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000014590.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14101,11 +14076,7 @@
               <Sentence Num="1" WritingMode="vertical">赤、黄及び青の三色を備えるもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217777.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217777.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
               <Sentence Num="1" WritingMode="vertical">備考</Sentence>
@@ -14119,11 +14090,7 @@
               <Sentence Num="1" WritingMode="vertical">赤及び青の二色を備えるもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217778.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217778.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14134,11 +14101,7 @@
               <Sentence Num="1" WritingMode="vertical">赤、黄及び青の三色を備えるもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217779.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217779.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14146,11 +14109,7 @@
               <Sentence Num="1" WritingMode="vertical">赤及び青の二色を備えるもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217780.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217780.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14158,11 +14117,7 @@
               <Sentence Num="1" WritingMode="vertical">点滅型</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217781.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217781.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -14186,11 +14141,7 @@
               <Sentence Num="1" WritingMode="vertical">車両等が直進（令第二条第一項の多通行帯道路等通行一般原動機付自転車、特定小型原動機付自転車又は軽車両が右折しようとして右折する地点まで直進し、その地点において右折することを含む。）をすることができることとなるもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000000497.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000000497.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14198,11 +14149,7 @@
               <Sentence Num="1" WritingMode="vertical">車両等が左折することができることとなるもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000000498.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000000498.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14210,11 +14157,7 @@
               <Sentence Num="1" WritingMode="vertical">車両等（令第二条第一項の多通行帯道路等通行一般原動機付自転車、特定小型原動機付自転車及び軽車両を除く。）が右折し、又は転回することができることとなるもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/2JH00000000499.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000000499.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15024,11 +14967,7 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="7">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217782.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217782.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -15197,11 +15136,7 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217783.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217783.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -15332,11 +15267,7 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="8">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217784.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217784.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -15507,11 +15438,7 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217785.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217785.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
               <Sentence Num="1" WritingMode="vertical">区分</Sentence>
@@ -15603,11 +15530,7 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217786.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217786.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
               <Sentence Num="1" WritingMode="vertical">区分</Sentence>
@@ -15689,16 +15612,8 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="11">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217787.jpg"/>
-                </QuoteStruct>
-              </Sentence>
-              <Sentence Num="2" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217788.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217787.jpg"/></QuoteStruct></Sentence>
+              <Sentence Num="2" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217788.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
               <Sentence Num="1" WritingMode="vertical">区分</Sentence>
@@ -15857,11 +15772,7 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
-              <Sentence Num="1" WritingMode="vertical">
-                <QuoteStruct>
-                  <Fig src="./pict/3JH00000217789.jpg"/>
-                </QuoteStruct>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/3JH00000217789.jpg"/></QuoteStruct></Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -19703,7 +19614,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxFig Num="0">
+    <AppdxFig Num="1">
       <AppdxFigTitle WritingMode="vertical">別図</AppdxFigTitle>
       <RelatedArticleNum>（第五条の二関係）</RelatedArticleNum>
       <FigStruct>
