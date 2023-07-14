@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="038" Year="51" PromulgateMonth="09" PromulgateDay="30"><LawNum>昭和五十一年労働省令第三十八号</LawNum><LawBody><LawTitle Kana="しょうがいしゃのこようのそくしんとうにかんするほうりつせこうきそく" Abbrev="障害者雇用促進法施行規則" AbbrevKana="し">障害者の雇用の促進等に関する法律施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="038" Year="51" PromulgateMonth="09" PromulgateDay="30"><LawNum>昭和五十一年労働省令第三十八号</LawNum><LawBody><LawTitle Kana="しょうがいしゃのこようのそくしんとうにかんするほうりつしこうきそく" Abbrev="障害者雇用促進法施行規則" AbbrevKana="し">障害者の雇用の促進等に関する法律施行規則</LawTitle>
     <EnactStatement>身体障害者雇用促進法（昭和三十五年法律第百二十三号）及び身体障害者雇用促進法施行令（昭和三十五年政令第二百九十二号）の規定に基づき、並びに同法を実施するため、身体障害者雇用促進法施行規則（昭和三十五年労働省令第二十七号）の全部を改正する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -32,7 +32,7 @@
           <SectionTitle>第二節　障害者雇用調整金の支給等及び障害者雇用納付金の徴収</SectionTitle>
           <TOCSubsection Num="1">
             <SubsectionTitle>第一款　障害者雇用調整金の支給等</SubsectionTitle>
-            <ArticleRange>（第十五条―第二十五条の二）</ArticleRange>
+            <ArticleRange>（第十五条―第二十五条の七）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Num="2">
             <SubsectionTitle>第二款　障害者雇用納付金の徴収</SubsectionTitle>
@@ -40,7 +40,8 @@
           </TOCSubsection>
         </TOCSection>
         <TOCSection Num="3">
-          <SectionTitle>第三節　削除</SectionTitle>
+          <SectionTitle>第三節　特定短時間労働者等に関する特例</SectionTitle>
+          <ArticleRange>（第三十三条・第三十三条の二）</ArticleRange>
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　対象障害者以外の障害者に関する特例</SectionTitle>
@@ -999,46 +1000,42 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="16_2">
-              <ArticleCaption>（特例給付金）</ArticleCaption>
-              <ArticleTitle>第十六条の二</ArticleTitle>
+            <Article Num="17">
+              <ArticleCaption>（法第四十九条第一項第二号及び第四号の助成金）</ArticleCaption>
+              <ArticleTitle>第十七条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第一号の二の特例給付金（第三項において「特例給付金」という。）は、対象障害者である特定短時間労働者（同号に規定する特定短時間労働者をいう。）を雇用する事業主に支給するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第二号及び第四号（同号ロに係る部分に限る。次項において同じ。）の助成金は、障害者作業施設設置等助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第一号の二の厚生労働省令で定める時間は、十時間以上二十時間未満とする。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">特例給付金の額その他必要な事項については、厚生労働大臣の定めるところによる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者作業施設設置等助成金は、法第七十三条の規定により、法第四十九条第一項第二号及び第四号の業務に相当する業務として、精神障害者（精神保健福祉法第四十五条第二項の規定により精神障害者保健福祉手帳の交付を受けているものを除く。第十八条第二項、第十九条第二項、第二十条第二項、第二十一条第二項、第二十二条第二項及び第二十三条第二項において同じ。）に関しても、支給する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="17">
-              <ArticleCaption>（法第四十九条第一項第二号の助成金）</ArticleCaption>
-              <ArticleTitle>第十七条</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第二号の助成金は、障害者作業施設設置等助成金とする。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="18">
+            <Article Num="17_2">
               <ArticleCaption>（障害者作業施設設置等助成金）</ArticleCaption>
-              <ArticleTitle>第十八条</ArticleTitle>
+              <ArticleTitle>第十七条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">障害者作業施設設置等助成金は、障害者（身体障害者、知的障害者及び精神障害者（第一条の四第二号に掲げる者にあつては、公共職業安定所の紹介に係る者及び法第十九条の障害者職業センターにおける職場復帰（労働者が身体障害者又は精神障害者となつた後当該労働者が身体障害者又は精神障害者となつた時に雇用している事業主の事業所において就労することをいう。）のための職業リハビリテーションの措置を受けている者に限る。第二十条の二第一項第二号、第二十条の四第一項第一号及び第二十二条第一項第一号において同じ。）に限る。第二十条の二の三を除き、以下第二十二条の三までにおいて同じ。）を労働者として雇い入れる事業主又は障害者である労働者を継続して雇用する事業主であつて、その雇入れ又は継続雇用に係る障害者である労働者の作業を容易にするために必要な施設又は設備（以下この項において「作業施設等」という。）の設置又は整備を行うもの（当該作業施設等の設置又は整備を行わなければ当該障害者の雇入れ又は雇用の継続が困難であると機構が認める事業主に限る。）に対して、機構の予算の範囲内において、支給するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者作業施設設置等助成金は、次に掲げる事業主に対して、機構の予算の範囲内において、支給するものとする。</Sentence>
                 </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">障害者（身体障害者、知的障害者及び精神障害者に限る。第十九条の二（第一項第一号の二ロ及び第二号ホからトまでを除く。）及び第二十条の二を除き、以下第二十三条の二までにおいて同じ。）を労働者として雇い入れる事業主又は障害者である労働者を継続して雇用する事業主であつて、その雇入れ又は継続雇用に係る障害者である労働者の作業を容易にするために必要な施設又は設備の設置又は整備を行うもの（当該障害者の雇入れ又は継続雇用のため、当該設置又は整備が必要であると機構が認めるものに限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その雇用する障害者である労働者（三十五歳以上の者に限る。以下この号において同じ。）の業務の遂行のために必要な施設又は設備（以下この号において「中高年齢等障害者作業施設等」という。）の設置又は整備を行う事業主（加齢に伴つて生ずる心身の変化により職場への適応が困難となつた障害者である労働者の継続雇用のため、当該中高年齢等障害者作業施設等の設置又は整備が必要であると機構が認めるものに限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
@@ -1047,23 +1044,29 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="18_2">
+            <Article Num="18">
               <ArticleCaption>（法第四十九条第一項第三号の助成金）</ArticleCaption>
-              <ArticleTitle>第十八条の二</ArticleTitle>
+              <ArticleTitle>第十八条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第三号の助成金は、障害者福祉施設設置等助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者福祉施設設置等助成金は、法第七十三条の規定により、法第四十九条第一項第三号の業務に相当する業務として、精神障害者に関しても、支給する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
-            <Article Num="18_3">
+            <Article Num="18_2">
               <ArticleCaption>（障害者福祉施設設置等助成金）</ArticleCaption>
-              <ArticleTitle>第十八条の三</ArticleTitle>
+              <ArticleTitle>第十八条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">障害者福祉施設設置等助成金は、次に掲げる事業主又は事業主の団体（法人でない団体で代表者又は管理人の定めのないものを除く。以下この条及び第二十条の四において同じ。）に対して、機構の予算の範囲内において、支給するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者福祉施設設置等助成金は、次に掲げる事業主又は事業主の団体（法人でない団体で代表者又は管理人の定めのないものを除く。以下この条及び第二十一条の二において同じ。）に対して、機構の予算の範囲内において、支給するものとする。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -1086,66 +1089,69 @@
               </Paragraph>
             </Article>
             <Article Num="19">
+              <ArticleCaption>（法第四十九条第一項第四号の助成金）</ArticleCaption>
               <ArticleTitle>第十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第四号の助成金は、第十七条に規定するもののほか、障害者介助等助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-            </Article>
-            <Article Num="20">
-              <ArticleCaption>（法第四十九条第一項第四号の助成金）</ArticleCaption>
-              <ArticleTitle>第二十条</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第四号の助成金は、障害者介助等助成金とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者介助等助成金は、法第七十三条及び法第七十四条第一項の規定により、法第四十九条第一項第四号の業務に相当する業務として、精神障害者及び第三十四条の発達障害者等に関しても、支給する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="20_2">
+            <Article Num="19_2">
               <ArticleCaption>（障害者介助等助成金）</ArticleCaption>
-              <ArticleTitle>第二十条の二</ArticleTitle>
+              <ArticleTitle>第十九条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">障害者介助等助成金は、次に掲げる事業主に対して、機構の予算の範囲内において、支給するものとする。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事業主が第二号に掲げる事業主（同号イからハまでに係るものに限る。）に該当することにより当該助成金の支給を受ける場合においては、第三号の事業主に該当することによる当該助成金は支給しないものとする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事業主が第二号に掲げる事業主（同号イに掲げる事業主又は同号ハに掲げる事業主（同号イに掲げる措置を行つたことにより同号ハに該当するものに限る。）に限る。）に該当することにより当該助成金の支給を受ける場合においては、第三号の事業主に該当することによる当該助成金は支給しないものとする。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その雇用する労働者のうち、その雇入れ後に、障害により、一箇月以上の療養及びその職務開発その他職場への適応を促進するための措置（以下この号及び第二号ニにおいて「職場適応措置」という。）が必要とされた障害者（障害者のうち、身体障害者若しくは精神障害者（発達障害（発達障害者支援法（平成十六年法律第百六十七号）第二条第一項に規定する発達障害をいう。）のみを有するものを除く。）又は高次脳機能障害を有するもの若しくは難治性疾患を有するもの（当該職場適応措置が特に必要であると機構が認める者に限る。第二号ニにおいて同じ。）に限る。以下この号及び次号イにおいて同じ。）の休職期間中又は復職の日から三箇月以内に当該障害者に対する職場適応措置を実施する事業主（当該障害者の継続雇用のため、当該職場適応措置を実施することが必要であると機構が認めるものに限る。）であつて、当該職場適応措置に係る障害者を継続して雇用するもの</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="1_2">
+                  <ItemTitle>一の二</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する事業主</Sentence>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する労働者のうち、その雇入れ後に、その障害により、一箇月以上の療養及びその職務開発その他職場への適応を促進するための措置（以下この号及び次号ホにおいて「職場適応措置」という。）が必要とされた障害者（障害者のうち、身体障害者若しくは精神障害者（発達障害のみを有するものを除く。）又は高次脳機能障害を有するもの若しくは難治性疾患を有するもの（当該職場適応措置が特に必要であると機構が認める者に限る。次号ホにおいて同じ。）（身体障害者又は精神障害者を除く。）に限る。）の休職期間中又は復職の日から三箇月以内に当該障害者に対する職場適応措置を実施する事業主（当該職場適応措置を実施しなければ当該障害者の雇用を継続することが困難であると機構が認めるものに限る。）であつて、当該職場適応措置に係る障害者を継続して雇用するもの</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その継続して雇用している障害者の休職期間中又は復職の日から三箇月以内に職務転換後の職務の遂行に必要となる基本的な知識及び技能を習得させるための研修を実施したもの</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">職場適応措置を講じた事業主であつて、イに規定するその継続して雇用している障害者に対し、職務転換後の職務遂行に必要となる基本的な知識及び技能を習得させるための研修を実施したもの</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する障害者である労働者の職務の遂行に必要となる基本的な知識及び技能を習得させるための研修を実施するもの（加齢に伴つて生ずる心身の変化により職場への適応が困難となつたその継続して雇用している障害者（三十五歳以上の者に限る。）の継続雇用のため、当該措置を行うことが必要であると機構が認めるものに限る。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">次のイからヘまでのいずれかに該当する措置を行う事業主（当該措置を行わなければ、障害によりその雇用するイからヘまでの障害者である労働者の適当な雇用を継続することが困難であると機構が認める事業主に限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイからチまでのいずれかに該当する措置を行う事業主（障害によりその雇用するイからチまでの障害者である労働者の継続雇用のため、当該措置を行うことが必要であると機構が認めるものに限る。）</Sentence>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する別表第一第一号に掲げる身体障害がある者である労働者の業務の遂行のために必要な介助の業務を担当する者の委嘱（当該労働者が機構の定める企画、立案、会計、管理等の事務的業務に従事する場合にあつては、配置又は委嘱）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する別表第一第一号又は別表第三第六号若しくは第七号に掲げる身体障害がある者である労働者の業務の遂行のために必要な介助の業務を担当する者の配置又は委嘱</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する別表第三第六号又は第七号に掲げる身体障害がある者である労働者の業務の遂行のために必要な介助の業務を担当する者の配置又は委嘱</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する別表第一第二号又は別表第三第三号に掲げる身体障害がある者である労働者の雇用管理のために必要な手話通訳、要約筆記等を担当する者（手話通訳、要約筆記等について相当程度の能力を有すると機構が認める者に限る。）の配置又は委嘱</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
@@ -1157,43 +1163,79 @@
                   <Subitem1 Num="4">
                     <Subitem1Title>ニ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する別表第一第二号又は別表第三第三号に掲げる身体障害がある者である労働者の雇用管理のために必要な手話通訳、要約筆記等を担当する者（手話通訳、要約筆記等について相当程度の能力を有すると機構が認める者に限る。）の委嘱</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する障害者（障害者のうち、身体障害者、知的障害者若しくは精神障害者又は発達障害者支援法第二条第二項に規定する発達障害者（第二十条の二第一項第一号及び第三十四条において「発達障害者」という。）、高次脳機能障害を有するもの若しくは難治性疾患を有するものに限る。第四号ハにおいて同じ。）である労働者の雇入れの日若しくは所定労働時間の延長、配置転換、業務内容の変更若しくは職場復帰（その障害により、一箇月以上の療養及び職場適応措置が必要とされた障害者が休職から復職することをいう。）の日の前日又は第二十条の二第一項第二号の計画に基づく援助が終了した日から起算して六箇月を経過する日までの間における、職場支援員（当該雇用する障害者である労働者の業務の遂行に関する必要な援助又は指導の業務を行う者であつて、当該業務について相当程度の経験又は能力を有すると機構が認めるものをいう。第四号ハにおいて同じ。）の配置又は委嘱</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="5">
                     <Subitem1Title>ホ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する障害者（障害者のうち、身体障害者、知的障害者若しくは精神障害者又は発達障害者支援法（平成十六年法律第百六十七号）第二条第二項に規定する発達障害者（第二十条の二の三第一項及び第三十四条において「発達障害者」という。）、高次脳機能障害を有するもの若しくは難治性疾患を有するもの（身体障害者、知的障害者又は精神障害者を除く。）に限る。）の雇入れの日又は所定労働時間の延長、配置転換、業務内容の変更若しくは職場復帰（その障害により、一箇月以上の療養及び職場適応措置が必要とされた障害者が休職から復職することをいう。）の日の前日又は第二十条の二の三第一項第二号の計画に基づく援助が終了した日から起算して六箇月を経過する日までの間における、職場支援員（当該雇用する障害者の業務の遂行に関する必要な援助又は指導の業務を行う者であつて、当該業務について相当程度の経験又は能力を有すると機構が認めるものをいう。）の配置又は委嘱</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する五人以上の障害者である労働者のために必要な健康相談を行う医師の委嘱</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="6">
                     <Subitem1Title>ヘ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する障害者（身体障害者、知的障害者又は精神障害者に限る。）である労働者とその雇用する障害者でない労働者との均等な待遇の確保又はその雇用する障害者（身体障害者、知的障害者又は精神障害者に限る。）である労働者の有する能力の有効な発揮の支障となっている事情の改善を図るための業務を担当する者（雇用の分野における障害者と障害者でない者との均等な待遇の確保又は障害者である労働者の有する能力の有効な発揮の支障となっている事情の改善を図るための業務についての経験及び能力を有すると機構が認める者に限る。）の新たな配置又は委嘱</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する五人以上の障害者である労働者の雇用管理のために必要な職業生活に関する相談及び支援の業務を専門に担当する者（職業生活に関する特別な相談及び支援の業務について相当程度の経験及び能力を有すると機構が認める者に限る。）の配置又は委嘱</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="7">
+                    <Subitem1Title>ト</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する五人以上の障害者である労働者の職業能力の開発及び向上のために必要な業務を専門に担当する者（職業能力の開発及び向上のために必要な業務について相当程度の経験及び能力を有すると機構が認める者に限る。）の配置又は委嘱</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="8">
+                    <Subitem1Title>チ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する障害者である労働者の介助等の業務を行う者（イ、ロ、ニ、ヘ及びトに掲げる者であつて、当該事業主の事業所に配置されているものに限る。）の資質の向上のための措置</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">次のイからハまでのいずれかに該当する措置を行う事業主（当該措置を行わなければ、対象障害者である労働者（当該措置を行うことにより、雇用の促進及び継続を図ることが適当であると機構が認める者に限る。以下この号及び第二十条の四第一項第一号の二において同じ。）の雇入れ又は雇用の継続が困難であると機構が認める事業主に限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイからハまでのいずれかに該当する措置を行う事業主（対象障害者である労働者の雇入れ又は継続雇用のため、当該措置が必要であると機構が認めるものに限る。）</Sentence>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する対象障害者である労働者が、障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号。以下この号及び第三十六条の十七第一号において「障害者総合支援法」という。）第五条第三項に規定する重度訪問介護に係る障害者総合支援法第二十九条第一項に規定する指定障害福祉サービス又は障害者総合支援法第三十条第一項第二号に規定する基準該当障害福祉サービス（ロ及びハにおいて「指定障害福祉サービス等」という。）（以下このイ及び第二十条の四第一項第一号の二イにおいて「指定重度訪問介護等」という。）を受ける者である場合におけるその業務の遂行のために必要な介助の業務を担当する者（ロ及びハにおいて「第三号職場介助者」という。）の委嘱（指定重度訪問介護等を行う障害者総合支援法第二十九条第一項に規定する指定障害福祉サービス事業者又は障害者総合支援法第三十条第一項第二号イに規定する基準該当事業所（以下この号及び第二十条の四第一項第一号の二において「指定障害福祉サービス事業者等」という。）に委嘱した場合に限る。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する対象障害者である労働者が、障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号。以下この号及び第三十六条の十七第一号において「障害者総合支援法」という。）第五条第三項に規定する重度訪問介護に係る障害者総合支援法第二十九条第一項に規定する指定障害福祉サービス又は障害者総合支援法第三十条第一項第二号に規定する基準該当障害福祉サービス（ロ及びハにおいて「指定障害福祉サービス等」という。）（以下このイ及び第二十一条の二第一項第一号の二イにおいて「指定重度訪問介護等」という。）を受ける者である場合におけるその業務の遂行のために必要な介助の業務を担当する者（ロ及びハにおいて「第三号職場介助者」という。）の委嘱（指定重度訪問介護等を行う障害者総合支援法第二十九条第一項に規定する指定障害福祉サービス事業者又は障害者総合支援法第三十条第一項第二号イに規定する基準該当事業所（以下この号及び第二十一条の二第一項第一号の二において「指定障害福祉サービス事業者等」という。）に委嘱した場合に限る。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する対象障害者である労働者が、障害者総合支援法第五条第四項に規定する同行援護に係る指定障害福祉サービス等（以下このロ及び第二十条の四第一項第一号の二ロにおいて「指定同行援護等」という。）を受ける者である場合における第三号職場介助者の委嘱（指定同行援護等を行う指定障害福祉サービス事業者等に委嘱した場合に限る。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する対象障害者である労働者が、障害者総合支援法第五条第四項に規定する同行援護に係る指定障害福祉サービス等（以下このロ及び第二十一条の二第一項第一号の二ロにおいて「指定同行援護等」という。）を受ける者である場合における第三号職場介助者の委嘱（指定同行援護等を行う指定障害福祉サービス事業者等に委嘱した場合に限る。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
                     <Subitem1Title>ハ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その雇用する対象障害者である労働者が、障害者総合支援法第五条第五項に規定する行動援護に係る指定障害福祉サービス等（以下このハ及び第二十条の四第一項第一号の二ハにおいて「指定行動援護等」という。）を受ける者である場合における第三号職場介助者の委嘱（指定行動援護等を行う指定障害福祉サービス事業者等に委嘱した場合に限る。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する対象障害者である労働者が、障害者総合支援法第五条第五項に規定する行動援護に係る指定障害福祉サービス等（以下このハ及び第二十一条の二第一項第一号の二ハにおいて「指定行動援護等」という。）を受ける者である場合における第三号職場介助者の委嘱（指定行動援護等を行う指定障害福祉サービス事業者等に委嘱した場合に限る。）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイからハまでのいずれかに該当する措置を行う事業主（加齢に伴つて生ずる心身の変化により職場への適応が困難となつた当該措置に係る者（三十五歳以上の者に限る。）の継続雇用のため、当該措置を行うことが必要であると機構が認めるものに限る。）</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第二号イに規定する措置</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第二号ロに規定する措置</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その雇用する障害者である労働者の業務の遂行に必要な職場支援員の配置又は委嘱</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
@@ -1205,19 +1247,25 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="20_2_2">
+            <Article Num="20">
               <ArticleCaption>（法第四十九条第一項第四号の二の助成金）</ArticleCaption>
-              <ArticleTitle>第二十条の二の二</ArticleTitle>
+              <ArticleTitle>第二十条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第四号の二の助成金は、職場適応援助者助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">職場適応援助者助成金は、法第七十三条及び七十四条第一項の規定により、法第四十九条第一項第四号の二の業務に相当する業務として、精神障害者及び第三十四条の発達障害者等その他職場適応援助者による援助が特に必要であると認められる障害者に関しても、支給する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
-            <Article Num="20_2_3">
+            <Article Num="20_2">
               <ArticleCaption>（職場適応援助者助成金）</ArticleCaption>
-              <ArticleTitle>第二十条の二の三</ArticleTitle>
+              <ArticleTitle>第二十条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -1226,20 +1274,38 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第四号の二イに規定する社会福祉法（昭和二十六年法律第四十五号）第二十二条に規定する社会福祉法人その他対象障害者の雇用の促進に係る事業を行う法人（この号において「社会福祉法人等」という。）であつて、障害者（身体障害者、知的障害者若しくは精神障害者又は発達障害者、高次脳機能障害を有するもの若しくは難治性疾患を有するもの（職場適応援助者（法第二十条第三号に規定する職場適応援助者をいう。以下この項及び第三十四条において同じ。）による援助が特に必要であると認められるものに限る。）（身体障害者、知的障害者又は精神障害者を除く。）その他職場適応援助者による援助が特に必要であると認められるものに限る。次号において同じ。）が職場に適応することを容易にするための援助に関する計画（法第十九条第一項第三号の地域障害者職業センター（以下この条において「地域障害者職業センター」という。）が作成し、又は社会福祉法人等が作成し地域障害者職業センターの長が承認した計画に限る。）に基づき、訪問型職場適応援助者（職場適応援助者のうち、研修を修了した者であつて、訪問等による援助の実施に関し必要な相当程度の経験及び能力を有すると機構が認めるものをいう。次項において同じ。）による援助の事業を行うもの（当該援助を適切に行うことができると機構が認めるものに限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第四号の二イの社会福祉法（昭和二十六年法律第四十五号）第二十二条に規定する社会福祉法人その他対象障害者の雇用の促進に係る事業を行う法人（以下この項及び第二十五条の二第一項において「社会福祉法人等」という。）であつて、障害者（身体障害者、知的障害者若しくは精神障害者又は発達障害者、高次脳機能障害を有するもの若しくは難治性疾患を有するもの（職場適応援助者（法第二十条第三号に規定する職場適応援助者をいう。以下この項及び第三十四条において同じ。）による援助が特に必要であると認められるものに限る。）その他職場適応援助者による援助が特に必要であると認められるものに限る。以下この項において同じ。）である労働者が職場に適応することを容易にするための援助に関する計画（法第十九条第一項第三号の地域障害者職業センター（以下この条において「地域障害者職業センター」という。）が作成した計画、社会福祉法人等が作成し地域障害者職業センターの長が承認した計画又は一定の実務の経験を有する社会福祉法人等が作成した計画に限る。第三号イにおいて同じ。）に基づき、訪問型職場適応援助者（職場適応援助者のうち、研修を修了した者であつて、訪問等による援助の実施に関し必要な相当程度の経験及び能力を有すると機構が認めるものをいう。同号イ及び次項において同じ。）による援助の事業を行うもの（当該援助を適切に行うことができると機構が認めるものに限る。）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">障害者の雇用に伴い必要となる援助に関する計画（地域障害者職業センターが作成し、又は事業主が作成し地域障害者職業センターの長が承認した計画に限る。）に基づき援助を行う企業在籍型職場適応援助者（職場適応援助者のうち、研修を修了した者であつて、事業主が行う職場適応援助者を配置することによる援助の実施に関し必要な相当程度の経験及び能力を有すると機構が認めるものをいう。第三項において同じ。）の配置を行う事業主（当該援助を適切に行うことができると機構が認めるものに限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">障害者である労働者の雇用に伴い必要となる援助に関する計画（地域障害者職業センターが作成した計画又は事業主が作成し地域障害者職業センターの長が承認した計画に限る。次号ロにおいて同じ。）に基づき援助を行う企業在籍型職場適応援助者（職場適応援助者のうち、研修を修了した者であつて、事業主が行う職場適応援助者を配置することによる援助の実施に関し必要な相当程度の経験及び能力を有すると機構が認めるものをいう。同号ロ及び第三項において同じ。）の配置を行う事業主（当該援助を適切に行うことができると機構が認めるものに限る。）</Sentence>
                   </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のいずれかの措置を行うもの（加齢に伴つて生ずる心身の変化により職場への適応が困難となつた障害者である労働者（三十五歳以上の者に限る。以下この号において同じ。）の継続雇用のため、当該措置を行うことが必要であると機構が認めるものに限る。）</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">社会福祉法人等であつて、障害者である労働者が職場に適応することを容易にするための援助に関する計画に基づき、訪問型職場適応援助者による援助の事業を行うもの</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">障害者である労働者の雇用に伴い必要となる援助に関する計画に基づき援助を行う企業在籍型職場適応援助者の配置を行う事業主</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
                 </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項第一号に規定する研修は、次に掲げるいずれかに該当するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第一号の研修は、次のいずれかに該当するものとする。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -1257,7 +1323,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項第二号に規定する研修は、次に掲げるいずれかに該当するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項第二号の研修は、次のいずれかに該当するものとする。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -1279,9 +1345,9 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="20_2_4">
+            <Article Num="20_3">
               <ArticleCaption>（法第四十九条第一項第五号の厚生労働省令で定める身体障害者）</ArticleCaption>
-              <ArticleTitle>第二十条の二の四</ArticleTitle>
+              <ArticleTitle>第二十条の三</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -1289,19 +1355,25 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="20_3">
+            <Article Num="21">
               <ArticleCaption>（法第四十九条第一項第五号の助成金）</ArticleCaption>
-              <ArticleTitle>第二十条の三</ArticleTitle>
+              <ArticleTitle>第二十一条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第五号の助成金は、重度障害者等通勤対策助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">重度障害者等通勤対策助成金は、法第七十三条の規定により、法第四十九条第一項第五号の業務に相当する業務として、精神障害者に関しても、支給する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
-            <Article Num="20_4">
+            <Article Num="21_2">
               <ArticleCaption>（重度障害者等通勤対策助成金）</ArticleCaption>
-              <ArticleTitle>第二十条の四</ArticleTitle>
+              <ArticleTitle>第二十一条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -1311,7 +1383,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">次のイからチまでのいずれかに該当する措置を行う事業主（当該措置を行わなければ、障害により通勤することが容易でないため、その雇用する別表第一若しくは別表第三第一号、第二号、第四号若しくは第五号に掲げる身体障害がある者、知的障害者又は精神障害者である労働者の適当な雇用を継続することが困難であると機構が認める事業主に限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイからチまでのいずれかに該当する措置を行う事業主（障害により通勤することが容易でないため、その雇用する別表第一若しくは別表第三第一号、第二号、第四号若しくは第五号に掲げる身体障害がある者、知的障害者又は精神障害者である労働者の継続雇用のため、当該措置を行うことが必要であると機構が認めるものに限る。）</Sentence>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
@@ -1365,7 +1437,7 @@
                 <Item Num="1_2">
                   <ItemTitle>一の二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">次のイからハまでのいずれかに該当する措置を行う事業主（当該措置を行わなければ、障害により通勤することが容易でないため、対象障害者である労働者の雇入れ又は雇用の継続が困難であると機構が認める事業主に限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次のイからハまでのいずれかに該当する措置を行う事業主（障害により通勤することが容易でないため、対象障害者である労働者の雇入れ又は継続雇用のため、当該措置を行うことが必要であると機構が認めるものに限る。）</Sentence>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
@@ -1424,19 +1496,25 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="21">
+            <Article Num="22">
               <ArticleCaption>（法第四十九条第一項第六号の助成金）</ArticleCaption>
-              <ArticleTitle>第二十一条</ArticleTitle>
+              <ArticleTitle>第二十二条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第六号の助成金は、重度障害者多数雇用事業所施設設置等助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">重度障害者多数雇用事業所施設設置等助成金は、法第七十三条の規定により、法第四十九条第一項第六号の業務に相当する業務として、精神障害者に関しても、支給する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
-            <Article Num="22">
+            <Article Num="22_2">
               <ArticleCaption>（重度障害者多数雇用事業所施設設置等助成金）</ArticleCaption>
-              <ArticleTitle>第二十二条</ArticleTitle>
+              <ArticleTitle>第二十二条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -1445,13 +1523,13 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">現に雇用している重度身体障害者（法第二条第三号に規定する重度身体障害者をいう。以下この号において同じ。）、知的障害者又は精神障害者（以下この項において「重度障害者等」という。）である労働者（法第四十三条第三項に規定する短時間労働者（重度身体障害者、法第二条第五号に規定する重度知的障害者又は精神障害者である者を除く。）を除く。以下この項において同じ。）の数が十人以上であり、かつ、当該重度障害者等である労働者の数の現に雇用している労働者の数のうちに占める割合が十分の二以上である事業所であること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該事業所において、現に雇用されている重度身体障害者（法第二条第三号に規定する重度身体障害者をいう。以下この号において同じ。）、知的障害者又は精神障害者（以下この項において「重度身体障害者等」という。）である労働者（法第四十三条第三項に規定する短時間労働者（重度身体障害者、法第二条第五号に規定する重度知的障害者又は精神障害者である者を除く。）及び重度身体障害者、重度知的障害者又は精神障害者である法第七十条に規定する特定短時間労働者を除く。以下この項において同じ。）の数が十人以上であり、かつ、当該重度身体障害者等である労働者の数の現に雇用されている労働者の数のうちに占める割合が十分の二以上である事業所であること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">事業所の事業の用に供する施設又は設備の設置（賃借による設置を除く。以下この号及び第二十二条の三において同じ。）又は整備（重度障害者等の雇用に適当であると認められる設置又は整備に限る。）が行われる事業所であつて、現に雇用している重度障害者等である労働者の適当な雇用を継続することができると認められるものであること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">事業所の事業の用に供する施設又は設備の設置（賃借による設置を除く。以下この号及び第二十三条の二第一項第一号において同じ。）又は整備（重度身体障害者等の雇用に適当であると機構が認める設置又は整備に限る。）が行われる事業所であつて、当該事業所において、現に雇用されている重度身体障害者等である労働者の雇用を継続することができると認められるものであること。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1462,19 +1540,25 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="22_2">
+            <Article Num="23">
               <ArticleCaption>（法第四十九条第一項第七号の助成金）</ArticleCaption>
-              <ArticleTitle>第二十二条の二</ArticleTitle>
+              <ArticleTitle>第二十三条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第七号の助成金は、障害者能力開発助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者能力開発助成金は、法第七十三条の規定により、法第四十九条第一項第七号の業務に相当する業務として、精神障害者に関しても、支給する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
-            <Article Num="22_3">
+            <Article Num="23_2">
               <ArticleCaption>（障害者能力開発助成金）</ArticleCaption>
-              <ArticleTitle>第二十二条の三</ArticleTitle>
+              <ArticleTitle>第二十三条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -1495,7 +1579,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その雇用する障害者である労働者に障害者能力開発訓練を受講させる事業主（当該障害者能力開発訓練を受講させなければ当該障害者の適正な配置が困難であると機構が認める事業主に限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その雇用する障害者である労働者に障害者能力開発訓練を受講させる事業主（当該障害者の適正な配置のため、当該障害者能力開発訓練を受講させることが必要であると機構が認めるものに限る。）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -1512,19 +1596,415 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="22_4">
-              <ArticleCaption>（助成金に係る書類の提出）</ArticleCaption>
-              <ArticleTitle>第二十二条の四</ArticleTitle>
+            <Article Num="24">
+              <ArticleCaption>（法第四十九条第一項第七号の二の助成金）</ArticleCaption>
+              <ArticleTitle>第二十四条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第二号から第七号までの助成金の支給を受けようとする事業主は、登記事項証明書その他の申請に必要な書類を機構に提出しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第七号の二の助成金は、障害者雇用相談援助助成金とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="23">
+            <Article Num="24_2">
+              <ArticleCaption>（障害者雇用相談援助助成金）</ArticleCaption>
+              <ArticleTitle>第二十四条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者雇用相談援助助成金は、次のいずれにも該当する事業主又は団体に対して、機構の予算の範囲内において支給するものとする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">社会福祉法第二十二条に規定する社会福祉法人その他の対象障害者の雇入れ及びその雇用の継続を図るために必要な一連の雇用管理に関する援助の事業（以下この条及び第二十五条の二において「障害者雇用相談援助事業」という。）を行うもの（ただし、法第四十四条第一項又は第四十五条第一項の厚生労働大臣の認定に係る子会社（以下「特例子会社」という。）が法第四十四条第一項又は第四十五条第一項の認定を受けた親事業主又は同項に規定する関係会社（以下この号において「親事業主等」という。）を対象に障害者雇用相談援助事業を実施する場合においては、当該障害者雇用相談援助事業の実施により、当該特例子会社において就労する対象障害者の当該親事業主等における雇入れ、又は当該親事業主への出向（以下この号及び次号ロにおいて「対象障害者の雇用等」という。）を実施し、かつ、今後の対象障害者の雇用等を予定しているときに限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のいずれかに該当するもの</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その事業所において対象障害者の雇入れ及びその雇用の継続のための措置を行つた事業主に対して、障害者雇用相談援助事業（当該障害者雇用相談援助事業により当該措置が行われたと機構が認める場合に限る。）を行つたもの</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その事業所において対象障害者を雇い入れ、及び六箇月以上その雇用を継続した事業主に対して、障害者雇用相談援助事業（当該障害者雇用相談援助事業により、当該事業主が対象障害者を雇い入れ、及び六箇月以上その雇用を継続したと機構が認める場合に限る。）を行つたもの（ただし、特例子会社が障害者雇用相談援助事業を実施する場合は、対象障害者の雇用等が行われたときを除く。）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者雇用相談援助事業を行う者は、次のいずれにも該当することについて、都道府県労働局長の認定を受けなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する法人であること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">障害者雇用相談援助事業の実施に必要な対象障害者の一連の雇用管理に関する援助の業務についての実績を有する法人</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">特例子会社又は法第七十七条第一項の認定を受けた事業主その他これに類する法人であつて、障害者雇用相談援助事業の実施に必要な対象障害者の一連の雇用管理に関する実務についての実績を有するもの</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">法定雇用障害者数（法第四十三条第一項（法第四十四条第一項又は第四十五条第一項の規定によりみなして適用する場合を含む。）に規定する法定雇用障害者数をいう。）以上の対象障害者を雇用していること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次のいずれにも該当しない者であること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第七項の規定により認定の取消しを受け、当該取消しの日から起算して五年を経過しない者（ただし、前号に掲げる要件に該当しなくなつたこと又は同項第六号に該当することにより認定の取消しを受けた者を除く。）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">法その他労働関係法令の規定により、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第二条第六号に規定する暴力団員若しくは暴力団員でなくなつた日から五年を経過しない者（以下このハ及び第三十六条の十七第六号ロにおいて「暴力団員等」という。）、暴力団員等がその事業活動を支配する者又は暴力団員等をその業務に従事させ、若しくは当該業務の補助者として使用するおそれのある者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="4">
+                    <Subitem1Title>ニ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">風俗営業等の規制及び業務の適正化等に関する法律（昭和二十三年法律第百二十二号）第二条第一項に規定する風俗営業又は同条第五項に規定する性風俗関連特殊営業（第三十六条の十七第六号ハにおいて「風俗営業等」という。）に該当する事業を行う者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="5">
+                    <Subitem1Title>ホ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為により雇用に係る国の助成金、補助金又は給付金（以下このホ及び第三十六条の十七第六号ニにおいて「雇用関係助成金等」という。）の支給を受け、又は受けようとしたこと等により、当該雇用関係助成金等の支給要件を満たさなくなつた者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="6">
+                    <Subitem1Title>ヘ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">法又は法に基づく命令その他関係法令に違反する重大な事実があると認められる者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="7">
+                    <Subitem1Title>ト</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">破産者で復権を得ない者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="8">
+                    <Subitem1Title>チ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">会社更生法（平成十四年法律第百五十四号）第十七条の規定に基づく更生手続開始の申立てが行われている者又は民事再生法（平成十一年法律第二百二十五号）第二十一条第一項の規定に基づく再生手続開始の申立てが行われている者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="9">
+                    <Subitem1Title>リ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">役員のうちにロからチまでのいずれかに該当する者がある者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="10">
+                    <Subitem1Title>ヌ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">イからリまでに掲げる者のほか、障害者雇用相談援助事業を実施する者として著しく不適当であると認められる者</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">障害者雇用相談援助事業を適正に実施する能力を有する者として、次のいずれにも該当すること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する事業運営責任者を配置していること。</Sentence>
+                    </Subitem1Sentence>
+                    <Subitem2 Num="1">
+                      <Subitem2Title>（１）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">対象障害者の一連の雇用管理に関する援助の業務に五年以上従事し、かつ、当該業務の総括的な指導監督の業務に二年以上従事した経験を有する者</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="2">
+                      <Subitem2Title>（２）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">対象障害者の一連の雇用管理についての実務に五年以上従事し、かつ、当該実務の総括的な指導監督の実務に二年以上従事した経験を有する者</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該事業運営責任者のほか、次のいずれかに該当する事業実施者を配置していること。</Sentence>
+                    </Subitem1Sentence>
+                    <Subitem2 Num="1">
+                      <Subitem2Title>（１）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">対象障害者の一連の雇用管理に関する援助の業務に三年以上従事した経験を有する者</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                    <Subitem2 Num="2">
+                      <Subitem2Title>（２）</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical">対象障害者の一連の雇用管理の実務に三年以上従事した経験を有する者</Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                  </Subitem1>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">障害者雇用相談援助事業の実施状況等について、都道府県労働局長又は機構が行う調査その他の障害者雇用相談援助事業の適正な実施に関する要請に応じることとしていること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">個人情報を適正に管理し、並びに事業主及び障害者の秘密を守るために必要な措置を講じていること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の認定の申請は、厚生労働大臣の定める様式による申請書に対象障害者の一連の雇用管理に関する援助の業務又は実務の実績の内容を記載した書面その他必要な書面を添付して、当該認定を受けようとする者の住所地を管轄する都道府県労働局長に提出してしなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">都道府県労働局長は、前項の申請があつた場合において、当該申請に係る者が第二項各号に掲げる要件のいずれにも該当し、適正に障害者雇用相談援助事業を実施する能力を有すると認めるときは、その認定をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項の認定を受けた事業者（以下この条において「認定事業者」という。）は、第三項の申請書及び添付した書面に記載された事項に変更（軽微なものを除く。）を生じたときは、変更の日から一月以内に、その旨を都道府県労働局長に文書で報告しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">認定事業者が、障害者雇用相談援助事業を廃止し、若しくは休止し、又は休止した障害者雇用相談援助事業を再開しようとするときは、その廃止若しくは休止又は再開の日の一月前までに、その旨を都道府県労働局長に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">都道府県労働局長は、認定事業者が、次の各号のいずれかに該当すると認めたときは、当該認定を取り消すことができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第二項に掲げる要件のいずれかに該当しなくなつたとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その行う障害者雇用相談援助事業の実施状況等を勘案し、適正に障害者雇用相談援助事業を実施する能力を有すると認められなくなつたとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">正当な理由がないのに第二項第五号の規定による調査その他の障害者雇用相談援助事業の適正な実施に関する要請に応じなかつたとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段で第二項の認定を受けたとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">正当な理由がないのに第五項の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">障害者雇用相談援助事業を廃止したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者雇用相談援助助成金の額その他必要な事項については、厚生労働大臣の定めるところによる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="25">
+              <ArticleCaption>（助成金に係る書類の提出）</ArticleCaption>
+              <ArticleTitle>第二十五条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第四十九条第一項第二号から第七号の二までの助成金の支給を受けようとする事業主は、登記事項証明書その他の申請に必要な書類を機構に提出しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="25_2">
+              <ArticleCaption>（納付金滞納事業主等に対する不支給）</ArticleCaption>
+              <ArticleTitle>第二十五条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十七条の二、第十八条の二、第十九条の二、第二十条の二、第二十一条の二、第二十二条の二、第二十三条の二及び第二十四条の二の規定（以下この条において「障害者雇用関係助成金関係規定」という。）にかかわらず、障害者作業施設設置等助成金、障害者福祉施設設置等助成金、障害者介助等助成金、職場適応援助者助成金、重度障害者等通勤対策助成金、重度障害者多数雇用事業所施設設置等助成金、障害者能力開発助成金及び障害者雇用相談援助助成金（以下この条から第二十五条の四までにおいて「障害者雇用関係助成金」という。）は、法第五十三条第一項の障害者雇用納付金（以下「納付金」という。）の納付の状況が著しく不適切である、又は過去五年以内に偽りその他不正の行為により、障害者雇用関係助成金の支給を受け、若しくは受けようとした事業主、事業主団体、第二十三条の二第一項各号のいずれかに該当するもの又は社会福祉法人等若しくは障害者雇用相談援助事業を行うもの（これらの者の偽りその他不正の行為に関与した事業主を含む。以下この条から第二十五条の四までにおいて「事業主等」という。）に対しては、支給しないものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者雇用関係助成金関係規定にかかわらず、過去五年以内に偽りその他不正の行為により、障害者雇用関係助成金の支給を受け、又は受けようとした事業主等の役員等（偽りその他不正の行為に関与した者に限る。）が、事業主等の役員等である場合は、障害者雇用関係助成金は、当該事業主等に対しては、支給しないものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">障害者雇用関係助成金関係規定にかかわらず、過去五年以内に障害者雇用関係助成金の支給に関する手続を代理して行う者（以下この条から第二十五条の四までにおいて「代理人等」という。）が偽りの届出、報告、証明等を行い事業主等が障害者雇用関係助成金の支給を受け、又は受けようとしたことがある場合は、当該代理人等による届出、報告、証明その他の行為に係る障害者雇用関係助成金は、事業主等に対しては、支給しないものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="25_3">
+              <ArticleCaption>（返還命令等）</ArticleCaption>
+              <ArticleTitle>第二十五条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、偽りその他不正の行為により障害者雇用関係助成金の支給を受けた事業主等に対して、支給した障害者雇用関係助成金の全部又は一部を返還することを命ずることができ、また、当該偽りその他不正の行為により支給を受けた障害者雇用関係助成金について、当該返還を命ずる額の二割に相当する額以下の金額を納付することを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の場合において、代理人等が偽りの届出、報告、証明等をしたため障害者雇用関係助成金が支給されたものであるときは、機構は、当該代理人等に対し、その支給を受けた者と連帯して、同項の規定による障害者雇用関係助成金の返還又は納付を命ぜられた金額を納付することを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="25_4">
+              <ArticleCaption>（事業主名等の公表）</ArticleCaption>
+              <ArticleTitle>第二十五条の四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、次に該当する場合は、次項各号に定める事項を公表することができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">事業主等が偽りその他不正の行為により、障害者雇用関係助成金の支給を受け、又は受けようとした場合</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">代理人等が偽りの届出、報告、証明等を行い事業主等が障害者雇用関係助成金の支給を受け、又は受けようとしたことがある場合</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定により公表することができる事項は、次の各号に掲げる場合の区分に応じ、当該各号に定める事項とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">前項第一号に該当する場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                    </Column>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為を行つた事業主等の氏名並びに事業所の名称及び所在地</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為を行つた事業主等の事業の概要</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為により事業主等が支給を受け、又は受けようとした当該障害者雇用関係助成金の名称、支給を取り消した日、返還を命じた額及び当該返還の状況</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="4">
+                    <Subitem1Title>ニ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為の内容</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">前項第二号に該当する場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                    </Column>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りの届出、報告、証明等を行つた代理人等の氏名並びに事業所の名称及び所在地</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りの届出、報告、証明等により事業主等が支給を受け、又は受けようとした当該障害者雇用関係助成金の名称、支給を取り消した日、返還を命じた額及び当該返還の状況</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">偽りの届出、報告、証明等の内容</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="25_5">
               <ArticleCaption>（法第四十九条第一項第九号の業務）</ArticleCaption>
-              <ArticleTitle>第二十三条</ArticleTitle>
+              <ArticleTitle>第二十五条の五</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -1532,32 +2012,29 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="24">
-              <ArticleTitle>第二十四条</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="25">
-              <ArticleCaption>（障害者雇用管理等講習）</ArticleCaption>
-              <ArticleTitle>第二十五条</ArticleTitle>
+            <Article Num="25_6">
+              <ArticleCaption>（障害者雇用管理等講習及び障害者雇用啓発活動）</ArticleCaption>
+              <ArticleTitle>第二十五条の六</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">機構は、障害者雇用管理等講習として障害者の雇用に関する技術的事項についての講習（障害者の雇用の促進に必要であると認められる講習に限る。）を行う。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、障害者雇用啓発活動として障害者の雇用について事業主その他国民一般の理解を高めるための啓発活動（障害者の雇用の促進に必要であると認められる啓発活動に限る。）を行う。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
-            <Article Num="25_2">
-              <ArticleCaption>（障害者雇用啓発活動）</ArticleCaption>
-              <ArticleTitle>第二十五条の二</ArticleTitle>
+            <Article Num="25_7">
+              <ArticleCaption>（法第五十条第一項の厚生労働省令で定める金額）</ArticleCaption>
+              <ArticleTitle>第二十五条の七</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">機構は、障害者雇用啓発活動として障害者の雇用について事業主その他国民一般の理解を高めるための啓発活動（障害者の雇用の促進に必要であると認められる啓発活動に限る。）を行う。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第五十条第一項の厚生労働省令で定める金額は、二万三千円とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1587,7 +2064,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">当該年度に係る法第五十三条第一項の障害者雇用納付金（以下「納付金」という。）の額</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該年度に係る納付金の額</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1728,13 +2205,24 @@
           </Subsection>
         </Section>
         <Section Num="3">
-          <SectionTitle>第三節　削除</SectionTitle>
+          <SectionTitle>第三節　特定短時間労働者等に関する特例</SectionTitle>
           <Article Num="33">
+            <ArticleCaption>（法第六十九条から第七十一条まで及び第七十四条の二第十一項の厚生労働省令で定める数）</ArticleCaption>
             <ArticleTitle>第三十三条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第六十九条から第七十一条まで及び第七十四条の二第十一項の法第四十三条第五項の厚生労働省令で定める数に満たない範囲内において厚生労働省令で定める数は、〇・五人とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33_2">
+            <ArticleCaption>（法第七十条の厚生労働省令で定める便宜）</ArticleCaption>
+            <ArticleTitle>第三十三条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第七十条の厚生労働省令で定める便宜は、障害者の日常生活及び社会生活を総合的に支援するための法律施行規則（平成十八年厚生労働省令第十九号）第六条の十第一号に定める便宜とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2591,7 +3079,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">次のイからハまでに掲げる障害者の雇用の促進及び雇用の安定に関する取組（障害者の日常生活及び社会生活を総合的に支援するための法律施行規則（平成十八年厚生労働省令第十九号）第六条の十第一号に規定する就労継続支援Ａ型に係る障害者総合支援法第二十九条第一項に規定する指定障害福祉サービス（以下この条において「指定就労継続支援Ａ型」という。）を受ける者に関する取組を除く。）に係る事項について、次のイからハまでに掲げる表の上欄に掲げる項目及び中欄に掲げる評価の区分に応じ、当該項目について同表の下欄に掲げるところにより付した点数の合計（第四号において「取組に係る合計点数」という。）が、五点以上であること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次のイからハまでに掲げる障害者の雇用の促進及び雇用の安定に関する取組（障害者の日常生活及び社会生活を総合的に支援するための法律施行規則第六条の十第一号に規定する就労継続支援Ａ型に係る障害者総合支援法第二十九条第一項に規定する指定障害福祉サービス（以下この条において「指定就労継続支援Ａ型」という。）を受ける者に関する取組を除く。）に係る事項について、次のイからハまでに掲げる表の上欄に掲げる項目及び中欄に掲げる評価の区分に応じ、当該項目について同表の下欄に掲げるところにより付した点数の合計（第四号において「取組に係る合計点数」という。）が、五点以上であること。</Sentence>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -3174,7 +3662,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">取組に係る合計点数、取組の成果に係る合計点数及び情報開示に係る合計点数の合計が二十点以上（ただし、法第四十四条第一項及び第四十五条第一項の厚生労働大臣の認定を受けた子会社（以下「特例子会社」という。）にあつては、三十五点以上）であること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">取組に係る合計点数、取組の成果に係る合計点数及び情報開示に係る合計点数の合計が二十点以上（ただし、特例子会社にあつては、三十五点以上）であること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -3210,19 +3698,19 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第二条第六号に規定する暴力団員若しくは暴力団員でなくなった日から五年を経過しない者（以下このロにおいて「暴力団員等」という。）、暴力団員等がその事業活動を支配する者又は暴力団員等をその業務に従事させ、若しくは当該業務の補助者として使用するおそれのある者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">暴力団員等、暴力団員等がその事業活動を支配する者又は暴力団員等をその業務に従事させ、若しくは当該業務の補助者として使用するおそれのある者</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="3">
                 <Subitem1Title>ハ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">風俗営業等の規制及び業務の適正化等に関する法律（昭和二十三年法律第百二十二号）第二条第一項に規定する風俗営業又は同条第五項に規定する性風俗関連特殊営業に該当する事業を行う者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">風俗営業等に該当する事業を行う者</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="4">
                 <Subitem1Title>ニ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為により雇用に係る国の助成金、補助金又は給付金（以下このニにおいて「雇用関係助成金等」という。）の支給を受け、又は受けようとしたこと等により、当該雇用関係助成金等の支給要件を満たさなくなった者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為により雇用関係助成金等の支給を受け、又は受けようとしたこと等により、当該雇用関係助成金等の支給要件を満たさなくなつた者</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="5">
@@ -3682,7 +4170,19 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法附則第四条第三項の法第五十条第一項の政令で定める数以上の数で厚生労働省令で定める数は、四百二十人とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法附則第四条第三項の厚生労働省令で定める額は、二万一千円とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法附則第四条第三項の法第五十条第一項の政令で定める数以上の数で厚生労働省令で定める額に満たない範囲内において厚生労働省令で定める額は、一万六千円とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3727,18 +4227,28 @@
         </Paragraph>
       </Article>
       <Article Num="3_4">
-        <ArticleCaption>（平成二十七年四月一日以後の重度障害者等通勤対策助成金等の支給に関する措置）</ArticleCaption>
+        <ArticleCaption>（法附則第四条第九項の厚生労働省令で定める数）</ArticleCaption>
         <ArticleTitle>第三条の四</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二十条の三の重度障害者等通勤対策助成金（第二十条の四第一項第一号イ（住宅の賃借に係るものを除く。）又は同項第二号イに係るものに限る。以下この項において同じ。）については、平成二十七年四月一日以後に同項第一号イの規定により重度障害者等通勤対策助成金の支給を受けることができることとなった事業主又は同項第二号イの規定により重度障害者等通勤対策助成金の支給を受けることができることとなった事業主の団体に対しては、当分の間、機構において支給しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法附則第四条第九項の法第四十三条第五項の厚生労働省令で定める数に満たない範囲内において厚生労働省令で定める数は、〇・五人とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3_5">
+        <ArticleCaption>（平成二十七年四月一日以後の重度障害者等通勤対策助成金等の支給に関する措置）</ArticleCaption>
+        <ArticleTitle>第三条の五</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二十一条第一項の重度障害者等通勤対策助成金（第二十一条の二第一項第一号イ（住宅の賃借に係るものを除く。）又は同項第二号イに係るものに限る。以下この項において同じ。）については、平成二十七年四月一日以後に同条第一項第一号イの規定により重度障害者等通勤対策助成金の支給を受けることができることとなつた事業主又は同項第二号イの規定により重度障害者等通勤対策助成金の支給を受けることができることとなつた事業主の団体に対しては、当分の間、機構において支給しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二十二条の二の障害者能力開発助成金は、平成二十七年四月一日以後に第二十二条の三第一項の規定により障害者能力開発助成金の支給を受けることができることとなった事業主等に対しては、当分の間、機構において支給しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二十三条第一項の障害者能力開発助成金は、平成二十七年四月一日以後に第二十三条の二第一項の規定により障害者能力開発助成金の支給を受けることができることとなつた事業主等に対しては、当分の間、機構において支給しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5313,16 +5823,55 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年七月七日厚生労働省令第九四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和六年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令による改正後の障害者の雇用の促進に関する法律施行規則（以下「新施行規則」という。）第二十五条の二から新施行規則第二十五条の四までの規定は、この省令の施行の日以降に支給される障害者雇用関係助成金（新施行規則第二十五条の二第一項に規定する「障害者雇用関係助成金」をいう。）の支給について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新施行規則第二十四条の二第二項の認定を受けようとする法人は、この省令の施行の日前においても、同条第三項の規定の例により申請を行うことができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該申請は、この省令の施行の日において、当該法人がした同項の規定による申請とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県労働局長は、新施行規則第二十四条の二第二項の認定をするため、この省令の施行の日前においても、同条第三項の例により申請の受理その他の必要な準備行為をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
-      <RelatedArticleNum>（第一条、第二十条の二、第二十条の二の四、第二十条の四関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第一条、第十九条の二、第二十条の三、第二十一条の二関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一　次に掲げる視覚障害で永続するもの</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　視力の良い方の眼の視力（万国式試視力表によつて測つたものをいい、屈折異常がある者については、矯正視力によつて測つたものをいう。）が〇・〇三以下のもの又は視力の良い方の眼の視力が〇・〇四かつ他方の眼の視力が手動弁以下のもの</Sentence>
-              <Sentence Num="3" WritingMode="vertical">ロ　周辺視野角度（Ⅰ／四視標による。）の総和が左右眼それぞれ八〇度以下かつ両眼中心視野角度（Ⅰ／二視標による。）が二八度以下のもの</Sentence>
+              <Sentence Num="3" WritingMode="vertical">ロ　周辺視野角度（Ｉ／四視標による。）の総和が左右眼それぞれ八〇度以下かつ両眼中心視野角度（Ｉ／二視標による。）が二八度以下のもの</Sentence>
               <Sentence Num="4" WritingMode="vertical">ハ　両眼開放視認点数が七〇点以下かつ両眼中心視野視認点数が二〇点以下のもの</Sentence>
               <Sentence Num="5" WritingMode="vertical">二　次に掲げる聴覚の障害で永続するもの</Sentence>
               <Sentence Num="6" WritingMode="vertical">両耳の聴力レベルがそれぞれ一〇〇デシベル以上のもの</Sentence>
@@ -5350,7 +5899,7 @@
     </AppdxTable>
     <AppdxTable Num="3">
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
-      <RelatedArticleNum>（第二十条の二、第二十条の二の四、第二十条の四関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第十九条の二、第二十条の三、第二十一条の二関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -5358,7 +5907,7 @@
               <Sentence Num="1" WritingMode="vertical">一　次に掲げる視覚障害で永続するもの</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　視力の良い方の眼の視力（万国式試視力表によつて測つたものをいい、屈折異常がある者については、矯正視力によつて測つたものをいう。）が〇・〇四以上〇・〇七以下のもの（視力の良い方の眼の視力が〇・〇四かつ他方の眼の視力が手動弁以下のものを除く。）</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　視力の良い方の眼の視力が〇・〇八かつ他方の眼の視力が手動弁以下のもの</Sentence>
-              <Sentence Num="4" WritingMode="vertical">ハ　周辺視野角度（Ⅰ／四視標による。）の総和が左右眼それぞれ八〇度以下かつ両眼中心視野角度（Ⅰ／二視標による。）が五六度以下のもの</Sentence>
+              <Sentence Num="4" WritingMode="vertical">ハ　周辺視野角度（Ｉ／四視標による。）の総和が左右眼それぞれ八〇度以下かつ両眼中心視野角度（Ｉ／二視標による。）が五六度以下のもの</Sentence>
               <Sentence Num="5" WritingMode="vertical">ニ　両眼開放視認点数が七〇点以下かつ両眼中心視野視認点数が四〇点以下のもの</Sentence>
               <Sentence Num="6" WritingMode="vertical">二　次に掲げる肢体不自由</Sentence>
               <Sentence Num="7" WritingMode="vertical">イ　両下肢をショパー関節以上で欠くもの</Sentence>
