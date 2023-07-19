@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="503M60000400005" AmendmentNum="令和三年経済産業省令第五号" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="088" Year="61" PromulgateMonth="12" PromulgateDay="13"><LawNum>昭和六十一年通商産業省令第八十八号</LawNum><LawBody><LawTitle Kana="こんびなーととうほあんきそく" Abbrev="" AbbrevKana="">コンビナート等保安規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="088" Year="61" PromulgateMonth="12" PromulgateDay="13"><LawNum>昭和六十一年通商産業省令第八十八号</LawNum><LawBody><LawTitle Kana="こんびなーととうほあんきそく" Abbrev="" AbbrevKana="">コンビナート等保安規則</LawTitle>
     <EnactStatement>高圧ガス取締法（昭和二十六年法律第二百四号）の規定に基づき、及び同法を実施するため、コンビナート等保安規則（昭和五十年通商産業省令第三十八号）の全部を改正する省令を次のように制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -291,34 +291,26 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">
-                    <ArithFormula>Ｑ＝（１０Ｐ＋１）Ｖ<Sub>１</Sub>
-                    </ArithFormula>
-                  </Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ＝（１０Ｐ＋１）Ｖ<Sub>１</Sub></ArithFormula></Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">
-                    <ArithFormula>W＝Ｃ<Sub>１</Sub>ｗＶ<Sub>２</Sub>
-                    </ArithFormula>
-                  </Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｗ＝Ｃ<Sub>１</Sub>ｗＶ<Sub>２</Sub></ArithFormula></Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="3">
                 <Subitem1Title>ハ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">
-                    <ArithFormula>W＝Ｖ<Sub>２</Sub>／Ｃ<Sub>２</Sub>
-                    </ArithFormula>
-                  </Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｗ＝Ｖ<Sub>２</Sub>／Ｃ<Sub>２</Sub></ArithFormula></Sentence>
                 </Subitem1Sentence>
-                <List>
-                  <ListSentence>
-                    <Sentence Num="1" WritingMode="vertical">これらの式において、Ｑ、Ｐ、Ｖ<Sub>１</Sub>、W、Ｃ<Sub>１</Sub>、ｗ、Ｖ<Sub>２</Sub>及びＣ<Sub>２</Sub>は、それぞれ次の数値を表すものとする。</Sentence>
-                  </ListSentence>
-                </List>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title/>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">これらの式において、Ｑ、Ｐ、Ｖ<Sub>１</Sub>、Ｗ、Ｃ<Sub>１</Sub>、ｗ、Ｖ<Sub>２</Sub>及びＣ<Sub>２</Sub>は、それぞれ次の数値を表すものとする。</Sentence>
+                </Subitem1Sentence>
                 <List>
                   <ListSentence>
                     <Column Num="1">
@@ -352,7 +344,7 @@
                 <List>
                   <ListSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">W</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">Ｗ</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">貯蔵設備の貯蔵能力（単位　キログラム）の数値</Sentence>
@@ -539,9 +531,7 @@
                     <Sentence Num="1" WritingMode="vertical">ポンプ</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <ArithFormula>Ｑ<Sub>１</Sub>＝W<Sub>１</Sub>×２４×ρ×２２．４／Ｍ</ArithFormula>
-                    </Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１</Sub>＝Ｗ<Sub>１</Sub>×２４×ρ×２２．４／Ｍ</ArithFormula></Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -552,9 +542,7 @@
                     <Sentence Num="1" WritingMode="vertical">圧縮機</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <ArithFormula>Ｑ<Sub>２</Sub>＝W<Sub>２</Sub>×２４</ArithFormula>
-                    </Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>２</Sub>＝Ｗ<Sub>２</Sub>×２４</ArithFormula></Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -565,9 +553,7 @@
                     <Sentence Num="1" WritingMode="vertical">蒸発器</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <ArithFormula>Ｑ<Sub>３</Sub>＝W<Sub>３</Sub>×２４×２２．４／Ｍ</ArithFormula>
-                    </Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>３</Sub>＝Ｗ<Sub>３</Sub>×２４×２２．４／Ｍ</ArithFormula></Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -578,9 +564,7 @@
                     <Sentence Num="1" WritingMode="vertical">凝縮器</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <ArithFormula>Ｑ<Sub>４</Sub>＝W<Sub>４</Sub>×２４×２２．４／Ｍ</ArithFormula>
-                    </Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>４</Sub>＝Ｗ<Sub>４</Sub>×２４×２２．４／Ｍ</ArithFormula></Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -596,10 +580,7 @@
                       <Sentence Num="1" WritingMode="vertical">反応器において高圧ガスが消費される場合</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>５</Sub>＝ｑ<Sub>５</Sub>
-                        </ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>５</Sub>＝ｑ<Sub>５</Sub></ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -610,10 +591,7 @@
                       <Sentence Num="1" WritingMode="vertical">（イ）に該当する場合を除き、反応器の出口側に処理設備（減圧弁を除く。）が接続される場合</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>６</Sub>＝ｑ<Sub>６</Sub>
-                        </ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>６</Sub>＝ｑ<Sub>６</Sub></ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -624,10 +602,7 @@
                       <Sentence Num="1" WritingMode="vertical">（イ）に該当する場合を除き、反応器の出口側に減圧設備（処理設備である減圧弁を含む。）が接続される場合</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>７</Sub>＝ｑ<Sub>７</Sub>
-                        </ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>７</Sub>＝ｑ<Sub>７</Sub></ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -639,10 +614,7 @@
                     <Sentence Num="1" WritingMode="vertical">精留塔又は分留塔</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <ArithFormula>Ｑ<Sub>８</Sub>＝Ｑ<Sub>３</Sub>＋Ｑ<Sub>４</Sub>
-                      </ArithFormula>
-                    </Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>８</Sub>＝Ｑ<Sub>３</Sub>＋Ｑ<Sub>４</Sub></ArithFormula></Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -658,10 +630,7 @@
                       <Sentence Num="1" WritingMode="vertical">アキュムレータ</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>９</Sub>＝Ｖ<Sub>９</Sub>×１０Ｐ<Sub>９</Sub>
-                        </ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>９</Sub>＝Ｖ<Sub>９</Sub>×１０Ｐ<Sub>９</Sub></ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -672,9 +641,7 @@
                       <Sentence Num="1" WritingMode="vertical">バッチ処理釜</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>１０</Sub>＝Ｖ<Sub>１０</Sub>×１０Ｐ<Sub>１０</Sub>×ｎ</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１０</Sub>＝Ｖ<Sub>１０</Sub>×１０Ｐ<Sub>１０</Sub>×ｎ</ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -685,10 +652,7 @@
                       <Sentence Num="1" WritingMode="vertical">内部冷却器付貯槽</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>１１</Sub>＝Ｖ<Sub>１１</Sub>×１０Ｐ<Sub>１１</Sub>
-                        </ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１１</Sub>＝Ｖ<Sub>１１</Sub>×１０Ｐ<Sub>１１</Sub></ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -699,10 +663,7 @@
                       <Sentence Num="1" WritingMode="vertical">加圧蒸発器付貯槽</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>１２</Sub>＝（１０Ｐ<Sub>１２</Sub>＋１）×０．９Ｖ<Sub>１２</Sub>
-                        </ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１２</Sub>＝（１０Ｐ<Sub>１２</Sub>＋１）×０．９Ｖ<Sub>１２</Sub></ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -718,9 +679,7 @@
                         <Sentence Num="1" WritingMode="vertical">気化ガスを取り出す場合</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>Ｑ<Sub>１３</Sub>＝W<Sub>１３</Sub>／（２２．４／Ｍ×ρ×１０００）×（１０Ｐ<Sub>１３</Sub>＋１）×２４</ArithFormula>
-                        </Sentence>
+                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１３</Sub>＝Ｗ<Sub>１３</Sub>／（２２．４／Ｍ×ρ×１０００）×（１０Ｐ<Sub>１３</Sub>＋１）×２４</ArithFormula></Sentence>
                       </Column>
                     </Subitem3Sentence>
                   </Subitem3>
@@ -731,10 +690,7 @@
                         <Sentence Num="1" WritingMode="vertical">液化ガスを取り出す場合</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">
-                          <ArithFormula>Ｑ<Sub>１３</Sub>＝（１０Ｐ<Sub>１３</Sub>＋１）×０．９Ｖ<Sub>１３</Sub>
-                          </ArithFormula>
-                        </Sentence>
+                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１３</Sub>＝（１０Ｐ<Sub>１３</Sub>＋１）×０．９Ｖ<Sub>１３</Sub></ArithFormula></Sentence>
                       </Column>
                     </Subitem3Sentence>
                   </Subitem3>
@@ -746,9 +702,7 @@
                       <Sentence Num="1" WritingMode="vertical">処理設備である減圧弁</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>Ｑ<Sub>１４</Sub>＝０</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１４</Sub>＝０</ArithFormula></Sentence>
                     </Column>
                   </Subitem2Sentence>
                 </Subitem2>
@@ -760,9 +714,7 @@
                     <Sentence Num="1" WritingMode="vertical">水電解水素発生昇圧装置（水の電気分解により水素及び酸素を発生し、かつ、発生した水素のみの圧力を上昇する装置をいう。以下同じ。）</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">
-                      <ArithFormula>Ｑ<Sub>１５</Sub>＝W<Sub>１５</Sub>×２４</ArithFormula>
-                    </Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｑ<Sub>１５</Sub>＝Ｗ<Sub>１５</Sub>×２４</ArithFormula></Sentence>
                   </Column>
                 </Subitem1Sentence>
                 <List>
@@ -771,380 +723,380 @@
                       <Sentence Num="1" WritingMode="vertical">備考</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">これらの式において、Ｑ<Sub>１</Sub>、W<Sub>１</Sub>、ρ、Ｍ、Ｑ<Sub>２</Sub>、W<Sub>２</Sub>、Ｑ<Sub>３</Sub>、W<Sub>３</Sub>、Ｑ<Sub>４</Sub>、W<Sub>４</Sub>、Ｑ<Sub>５</Sub>、ｑ<Sub>５</Sub>、Ｑ<Sub>６</Sub>、ｑ<Sub>６</Sub>、Ｑ<Sub>７</Sub>、ｑ<Sub>７</Sub>、Ｑ<Sub>８</Sub>、Ｑ<Sub>９</Sub>、Ｖ<Sub>９</Sub>、Ｐ<Sub>９</Sub>、Ｑ<Sub>１０</Sub>、Ｖ<Sub>１０</Sub>、Ｐ<Sub>１０</Sub>、ｎ、Ｑ<Sub>１１</Sub>、Ｖ<Sub>１１</Sub>、Ｐ<Sub>１１</Sub>、Ｑ<Sub>１２</Sub>、Ｐ<Sub>１２</Sub>、Ｖ<Sub>１２</Sub>、Ｑ<Sub>１３</Sub>、W<Sub>１３</Sub>、Ｐ<Sub>１３</Sub>、Ｖ<Sub>１３</Sub>、Ｑ<Sub>１４</Sub>、Ｑ<Sub>１５</Sub>及びW<Sub>１５</Sub>は、それぞれ次の数値を表すものとする。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">これらの式において、Ｑ<Sub>１</Sub>、Ｗ<Sub>１</Sub>、ρ、Ｍ、Ｑ<Sub>２</Sub>、Ｗ<Sub>２</Sub>、Ｑ<Sub>３</Sub>、Ｗ<Sub>３</Sub>、Ｑ<Sub>４</Sub>、Ｗ<Sub>４</Sub>、Ｑ<Sub>５</Sub>、ｑ<Sub>５</Sub>、Ｑ<Sub>６</Sub>、ｑ<Sub>６</Sub>、Ｑ<Sub>７</Sub>、ｑ<Sub>７</Sub>、Ｑ<Sub>８</Sub>、Ｑ<Sub>９</Sub>、Ｖ<Sub>９</Sub>、Ｐ<Sub>９</Sub>、Ｑ<Sub>１０</Sub>、Ｖ<Sub>１０</Sub>、Ｐ<Sub>１０</Sub>、ｎ、Ｑ<Sub>１１</Sub>、Ｖ<Sub>１１</Sub>、Ｐ<Sub>１１</Sub>、Ｑ<Sub>１２</Sub>、Ｐ<Sub>１２</Sub>、Ｖ<Sub>１２</Sub>、Ｑ<Sub>１３</Sub>、Ｗ<Sub>１３</Sub>、Ｐ<Sub>１３</Sub>、Ｖ<Sub>１３</Sub>、Ｑ<Sub>１４</Sub>、Ｑ<Sub>１５</Sub>及びＷ<Sub>１５</Sub>は、それぞれ次の数値を表すものとする。</Sentence>
                     </Column>
                   </ListSentence>
                 </List>
                 <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">ポンプの処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">W<Sub>１</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">ポンプの能力の数値（ポンプの能力は、ポンプの性能曲線における最大稼働した場合の吐出量の値とする。）（単位　リットル毎時）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">ρ</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">液密度の数値（液密度は、常用の温度の範囲において最大となる値とする。）（単位　キログラム毎リットル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｍ</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">分子量の数値</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>２</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">圧縮機の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">W<Sub>２</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">圧縮機の能力の数値（圧縮機の能力は、圧縮機の性能曲線における最大稼働した場合の吐出量の値とする。）（単位　立方メートル毎時）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>３</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">蒸発器の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">W<Sub>３</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">蒸発器の公称能力の数値（単位　キログラム毎時）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>４</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">凝縮器の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">W<Sub>４</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">凝縮器の公称能力の数値（単位　キログラム毎時）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>５</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">反応器の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">ｑ<Sub>５</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">当該反応器に係る高圧ガスの流入量の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>６</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">反応器の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">ｑ<Sub>６</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">反応器の出口側に接続される処理設備（減圧弁を除く。）の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>７</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">反応器の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">ｑ<Sub>７</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">反応器の出口側に接続される減圧設備（処理設備である減圧弁を含む。）に係る高圧ガスの流入量の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>８</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">精留塔又は分留塔の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>９</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">アキュムレータの処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>９</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">アキュムレータの内容積の数値（単位　立方メートル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>９</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">アキュムレータの最高圧縮圧力の数値（単位　メガパスカル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１０</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">バッチ処理釜の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１０</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">バッチ処理釜の内容積の数値（単位　立方メートル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１０</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">バッチ処理釜の最高圧縮圧力の数値（単位　メガパスカル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">ｎ</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">最高圧縮圧力による処理で一日に可能な最高処理回数（単位　回）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１１</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">内部冷却器付貯槽の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１１</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">内部冷却器付貯槽の内容積の数値（単位　立方メートル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１１</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">内部冷却器付貯槽の常用の圧力の数値（単位　メガパスカル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１２</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">加圧蒸発器付貯槽の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１２</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">加圧蒸発器付貯槽の常用の圧力の数値（単位　メガパスカル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１２</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">加圧蒸発器付貯槽の内容積の数値（単位　立方メートル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１３</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">加圧蒸発器付低温貯槽の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">W<Sub>１３</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">高圧ガスの取り出し部に接続される送ガス用蒸発器の公称能力の数値（単位　立方メートル毎時）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１３</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">加圧蒸発器付低温貯槽の常用の圧力の数値（単位　メガパスカル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１３</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">加圧蒸発器付低温貯槽の内容積の数値（単位　立方メートル）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１４</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">処理設備である減圧弁の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１５</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">水電解水素発生昇圧装置の処理能力の数値（単位　立方メートル毎日）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">W<Sub>１５</Sub></Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">水電解水素発生昇圧装置の能力の数値（水電解水素発生昇圧装置の能力は、水電解水素発生昇圧装置の性能曲線における最大稼働した場合の水素製造量の値とする。）（単位　立方メートル毎時）</Sentence>
-                    </Column>
-                  </ListSentence>
-                </List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">ポンプの処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｗ<Sub>１</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">ポンプの能力の数値（ポンプの能力は、ポンプの性能曲線における最大稼働した場合の吐出量の値とする。）（単位　リットル毎時）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ρ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">液密度の数値（液密度は、常用の温度の範囲において最大となる値とする。）（単位　キログラム毎リットル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｍ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">分子量の数値</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>２</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">圧縮機の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｗ<Sub>２</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">圧縮機の能力の数値（圧縮機の能力は、圧縮機の性能曲線における最大稼働した場合の吐出量の値とする。）（単位　立方メートル毎時）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>３</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">蒸発器の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｗ<Sub>３</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">蒸発器の公称能力の数値（単位　キログラム毎時）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>４</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">凝縮器の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｗ<Sub>４</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">凝縮器の公称能力の数値（単位　キログラム毎時）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>５</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">反応器の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ｑ<Sub>５</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該反応器に係る高圧ガスの流入量の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>６</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">反応器の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ｑ<Sub>６</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">反応器の出口側に接続される処理設備（減圧弁を除く。）の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>７</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">反応器の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ｑ<Sub>７</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">反応器の出口側に接続される減圧設備（処理設備である減圧弁を含む。）に係る高圧ガスの流入量の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>８</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">精留塔又は分留塔の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>９</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">アキュムレータの処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>９</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">アキュムレータの内容積の数値（単位　立方メートル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>９</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">アキュムレータの最高圧縮圧力の数値（単位　メガパスカル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１０</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">バッチ処理釜の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１０</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">バッチ処理釜の内容積の数値（単位　立方メートル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１０</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">バッチ処理釜の最高圧縮圧力の数値（単位　メガパスカル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ｎ</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">最高圧縮圧力による処理で一日に可能な最高処理回数（単位　回）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１１</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">内部冷却器付貯槽の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１１</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">内部冷却器付貯槽の内容積の数値（単位　立方メートル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１１</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">内部冷却器付貯槽の常用の圧力の数値（単位　メガパスカル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１２</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">加圧蒸発器付貯槽の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１２</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">加圧蒸発器付貯槽の常用の圧力の数値（単位　メガパスカル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１２</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">加圧蒸発器付貯槽の内容積の数値（単位　立方メートル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１３</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">加圧蒸発器付低温貯槽の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｗ<Sub>１３</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">高圧ガスの取り出し部に接続される送ガス用蒸発器の公称能力の数値（単位　立方メートル毎時）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｐ<Sub>１３</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">加圧蒸発器付低温貯槽の常用の圧力の数値（単位　メガパスカル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｖ<Sub>１３</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">加圧蒸発器付低温貯槽の内容積の数値（単位　立方メートル）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１４</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">処理設備である減圧弁の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｑ<Sub>１５</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">水電解水素発生昇圧装置の処理能力の数値（単位　立方メートル毎日）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">Ｗ<Sub>１５</Sub></Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">水電解水素発生昇圧装置の能力の数値（水電解水素発生昇圧装置の能力は、水電解水素発生昇圧装置の性能曲線における最大稼働した場合の水素製造量の値とする。）（単位　立方メートル毎時）</Sentence>
+                  </Column>
+                </ListSentence>
+              </List>
               </Subitem1>
             </Item>
             <Item Num="20">
@@ -1227,10 +1179,7 @@
                   <Sentence Num="1" WritingMode="vertical">第一種置場距離</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">次の図における容器置場の面積（単位　平方メートル）に対応する距離（単位</Sentence>
-                </Column>
-                <Column Num="4">
-                  <Sentence Num="1" WritingMode="vertical">メートル）であつて、ｌ<Sub>１</Sub>によつて表されるもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次の図における容器置場の面積（単位　平方メートル）に対応する距離（単位　メートル）であつて、ｌ<Sub>１</Sub>によつて表されるもの</Sentence>
                 </Column>
               </ItemSentence>
               <FigStruct>
@@ -1258,19 +1207,13 @@
                       <Sentence Num="1" WritingMode="vertical">ｘ</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>０≦ｘ＜８</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>０≦ｘ＜８</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>８≦ｘ＜２５</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>８≦ｘ＜２５</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>２５≦ｘ</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>２５≦ｘ</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -1280,18 +1223,13 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>１</Sub>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>１</Sub></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>９√２</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>９√２</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>４．５√ｘ</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>４．５√ｘ</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">２２．５</Sentence>
@@ -1299,18 +1237,13 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>２</Sub>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>２</Sub></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>６√２</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>６√２</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>３√ｘ</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>３√ｘ</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">１５</Sentence>
@@ -1318,16 +1251,13 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>３</Sub>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>３</Sub></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">０</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>２．２５√ｘ</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>２．２５√ｘ</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">１１．２５</Sentence>
@@ -1335,16 +1265,13 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>４</Sub>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical">ｌ<Sub>４</Sub></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">０</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">
-                        <ArithFormula>１．５√ｘ</ArithFormula>
-                      </Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>１．５√ｘ</ArithFormula></Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">７．５</Sentence>
@@ -1363,10 +1290,7 @@
                   <Sentence Num="1" WritingMode="vertical">第二種置場距離</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">前号の図における容器置場の面積（単位　平方メートル）に対応する距離（単位</Sentence>
-                </Column>
-                <Column Num="4">
-                  <Sentence Num="1" WritingMode="vertical">メートル）であつて、ｌ<Sub>２</Sub>によつて表されるもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の図における容器置場の面積（単位　平方メートル）に対応する距離（単位　メートル）であつて、ｌ<Sub>２</Sub>によつて表されるもの</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1495,89 +1419,91 @@
                     <Sentence Function="main" Num="1" WritingMode="vertical">可燃性ガスの製造施設は、その貯蔵設備（地盤面下に埋設されたジメチルエーテルの貯蔵設備であつて、経済産業大臣が保安距離（保安物件に対し、五十メートル又は次に掲げる算式により得られた距離（可燃性ガス低温貯槽について当該得られた距離が液化石油ガス保安規則（昭和四十一年通商産業省令第五十二号）第六条第一項第二号若しくは第八条第一項第一号又は一般高圧ガス保安規則（昭和四十一年通商産業省令第五十三号）第六条第一項第二号の規定の例による距離（第一種保安物件に対するものに限る。）に満たない場合にあつては、当該規定の例による距離）のいずれか大なるものに等しい距離以上の距離をいう。以下この号において同じ。）を有することと同等の安全性を有するものとして認めた措置を講じているものを除く。）及び処理設備（経済産業大臣が定めるものを除く。）の外面から、保安距離（液化石油ガス岩盤貯槽にあつては、水封機能により気密性を有する部分に囲まれた空間に通じる金属製の配管（以下「金属管」という。）を設けた坑（以下「配管竪坑」という。）の内面から保安物件に対し五十メートル以上の距離）を有すること。</Sentence>
                     <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、経済産業大臣がこれと同等の安全性を有するものと認めた措置を講じている場合は、この限りでない。</Sentence>
                   </ItemSentence>
-                  <StyleStruct>
-                    <Style>
-                      <List>
-                        <ListSentence>
-                          <Sentence Num="1" WritingMode="vertical">
-                            <ArithFormula>Ｘ＝０．４８０<Sup>３</Sup>√（Ｋ・W）</ArithFormula>
-                          </Sentence>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Sentence Num="1" WritingMode="vertical">この式において、Ｘ、Ｋ及びWは、それぞれ次の数値を表すものとする。</Sentence>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column Num="1">
-                            <Sentence Num="1" WritingMode="vertical">Ｘ</Sentence>
-                          </Column>
-                          <Column Num="2">
-                            <Sentence Num="1" WritingMode="vertical">有しなければならない距離（単位　メートル）の数値</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column Num="1">
-                            <Sentence Num="1" WritingMode="vertical">Ｋ</Sentence>
-                          </Column>
-                          <Column Num="2">
-                            <Sentence Num="1" WritingMode="vertical">ガスの種類及び常用の温度の区分に応じて別表第二に掲げる数値</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column Num="1">
-                            <Sentence Num="1" WritingMode="vertical">W</Sentence>
-                          </Column>
-                          <Column Num="2">
-                            <Sentence Num="1" WritingMode="vertical">貯蔵設備又は処理設備の区分に応じて次に掲げる数値</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column Num="1">
-                            <Sentence Num="1" WritingMode="vertical">貯蔵設備</Sentence>
-                          </Column>
-                          <Column Num="2">
-                            <Sentence Num="1" WritingMode="vertical">液化ガスの貯蔵設備にあつては貯蔵能力（単位　トン）の数値の平方根の数値（貯蔵能力が一トン未満のものにあつては、貯蔵能力（単位　トン）の数値）、圧縮ガスの貯蔵設備にあつては貯蔵能力（単位　立方メートル）を当該ガスの常用の温度及び圧力におけるガスの質量（単位　トン）に換算して得られた数値の平方根の数値（換算して得られた数値が一未満のものにあつては、当該換算して得られた数値）</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column Num="1">
-                            <Sentence Num="1" WritingMode="vertical">処理設備</Sentence>
-                          </Column>
-                          <Column Num="2">
-                            <Sentence Num="1" WritingMode="vertical">処理設備内にあるガスの質量（単位　トン）の数値</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                    </Style>
-                    <Remarks>
-                      <RemarksLabel LineBreak="true">備考</RemarksLabel>
-                      <Item Num="1">
-                        <ItemTitle>１</ItemTitle>
-                        <ItemSentence>
-                          <Column Num="1">
-                            <Sentence Num="1" WritingMode="vertical">貯蔵設備内に二以上のガスがある場合においては、それぞれのガスの量（単位　トン）の合計量の平方根の数値にそれぞれのガスの量の当該合計量に対する割合を乗じて得た数値に、それぞれのガスに係るＫを乗じて得た数値の合計により、Ｘを算出するものとする。</Sentence>
-                          </Column>
-                        </ItemSentence>
-                      </Item>
-                      <Item Num="2">
-                        <ItemTitle>２</ItemTitle>
-                        <ItemSentence>
-                          <Sentence Num="1" WritingMode="vertical">処理設備内に二以上のガスがある場合においては、それぞれのガスについてＫ・Wを算出し、その数値の合計により、Ｘを算出するものとする。</Sentence>
-                        </ItemSentence>
-                      </Item>
-                    </Remarks>
-                  </StyleStruct>
+                  <List>
+                    <ListSentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｘ＝０．４８０<Sup>３</Sup>√（Ｋ・Ｗ）</ArithFormula></Sentence>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">この式において、Ｘ、Ｋ及びＷは、それぞれ次の数値を表すものとする。</Sentence>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">Ｘ</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">有しなければならない距離（単位　メートル）の数値</Sentence>
+                      </Column>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">Ｋ</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">ガスの種類及び常用の温度の区分に応じて別表第二に掲げる数値</Sentence>
+                      </Column>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">Ｗ</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">貯蔵設備又は処理設備の区分に応じて次に掲げる数値</Sentence>
+                      </Column>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">貯蔵設備</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">液化ガスの貯蔵設備にあつては貯蔵能力（単位　トン）の数値の平方根の数値（貯蔵能力が一トン未満のものにあつては、貯蔵能力（単位　トン）の数値）、圧縮ガスの貯蔵設備にあつては貯蔵能力（単位　立方メートル）を当該ガスの常用の温度及び圧力におけるガスの質量（単位　トン）に換算して得られた数値の平方根の数値（換算して得られた数値が一未満のものにあつては、当該換算して得られた数値）</Sentence>
+                      </Column>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">処理設備</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">処理設備内にあるガスの質量（単位　トン）の数値</Sentence>
+                      </Column>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Sentence Num="1" WritingMode="vertical">備考</Sentence>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">１</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">貯蔵設備内に二以上のガスがある場合においては、それぞれのガスの量（単位　トン）の合計量の平方根の数値にそれぞれのガスの量の当該合計量に対する割合を乗じて得た数値に、それぞれのガスに係るＫを乗じて得た数値の合計により、Ｘを算出するものとする。</Sentence>
+                      </Column>
+                    </ListSentence>
+                  </List>
+                  <List>
+                    <ListSentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">２</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">処理設備内に二以上のガスがある場合においては、それぞれのガスについてＫ・Ｗを算出し、その数値の合計により、Ｘを算出するものとする。</Sentence>
+                      </Column>
+                    </ListSentence>
+                  </List>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
@@ -1720,62 +1646,48 @@
                         <List>
                           <ListSentence>
                             <Column Num="1">
-                              <Sentence Num="1" WritingMode="vertical">（イ）　０≦Ｘ＜１，０００の場合</Sentence>
-                            </Column>
-                          </ListSentence>
-                        </List>
-                        <FigStruct>
-                          <Fig src="./pict/2JH00000021504.jpg"/>
-                        </FigStruct>
-                        <List>
-                          <ListSentence>
-                            <Column Num="1">
-                              <Sentence Num="1" WritingMode="vertical">（ロ）　１，０００≦Ｘ＜１０，０００の場合</Sentence>
+                              <Sentence Num="1" WritingMode="vertical">（イ）</Sentence>
                             </Column>
                             <Column Num="2">
-                              <Sentence Num="1" WritingMode="vertical">Ｌ＝７０＋２／５√Ｘ</Sentence>
+                              <Sentence Num="1" WritingMode="vertical"><ArithFormula>０≦Ｘ＜１，０００の場合</ArithFormula>　<QuoteStruct><Fig src="./pict/2JH00000021504.jpg"/></QuoteStruct></Sentence>
                             </Column>
                           </ListSentence>
                         </List>
                         <List>
                           <ListSentence>
                             <Column Num="1">
-                              <Sentence Num="1" WritingMode="vertical">（ハ）　１０，０００≦Ｘの場合</Sentence>
+                              <Sentence Num="1" WritingMode="vertical">（ロ）</Sentence>
                             </Column>
                             <Column Num="2">
-                              <Sentence Num="1" WritingMode="vertical">Ｌ＝１１０</Sentence>
+                              <Sentence Num="1" WritingMode="vertical"><ArithFormula>１，０００≦Ｘ＜１０，０００の場合　Ｌ＝７０＋２／５√Ｘ</ArithFormula></Sentence>
+                            </Column>
+                          </ListSentence>
+                        </List>
+                        <List>
+                          <ListSentence>
+                            <Column Num="1">
+                              <Sentence Num="1" WritingMode="vertical">（ハ）</Sentence>
+                            </Column>
+                            <Column Num="2">
+                              <Sentence Num="1" WritingMode="vertical"><ArithFormula>１０，０００≦Ｘの場合　Ｌ＝１１０</ArithFormula></Sentence>
                             </Column>
                           </ListSentence>
                         </List>
                       </Style>
                       <Remarks>
-                        <RemarksLabel>備考</RemarksLabel>
-                        <Item Num="1">
-                          <ItemTitle/>
-                          <ItemSentence>
-                            <Sentence Num="1" WritingMode="vertical">これらの式において、Ｌ及びＸは、それぞれ次の数値を表すものとする。</Sentence>
-                          </ItemSentence>
-                          <List>
-                            <ListSentence>
-                              <Column Num="1">
-                                <Sentence Num="1" WritingMode="vertical">Ｌ</Sentence>
-                              </Column>
-                              <Column Num="2">
-                                <Sentence Num="1" WritingMode="vertical">ガス設備の外面から保安物件までの距離（単位　メートル）</Sentence>
-                              </Column>
-                            </ListSentence>
-                          </List>
-                          <List>
-                            <ListSentence>
-                              <Column Num="1">
-                                <Sentence Num="1" WritingMode="vertical">Ｘ</Sentence>
-                              </Column>
-                              <Column Num="2">
-                                <Sentence Num="1" WritingMode="vertical">貯蔵能力（単位　圧縮ガスにあつては立方メートル、液化ガスにあつてはキログラム）又は処理能力（単位　立方メートル）</Sentence>
-                              </Column>
-                            </ListSentence>
-                          </List>
-                        </Item>
+                        <RemarksLabel LineBreak="true">備考　これらの式において、Ｌ及びＸは、それぞれ次の数値を表すものとする。</RemarksLabel>
+                          <Item Num="1">
+                            <ItemTitle>Ｌ</ItemTitle>
+                            <ItemSentence>
+                              <Sentence Num="1" WritingMode="vertical">ガス設備の外面から保安物件までの距離（単位　メートル）</Sentence>
+                            </ItemSentence>
+                          </Item>
+                          <Item Num="2">
+                            <ItemTitle>Ｘ</ItemTitle>
+                            <ItemSentence>
+                              <Sentence Num="1" WritingMode="vertical">貯蔵能力（単位　圧縮ガスにあつては立方メートル、液化ガスにあつてはキログラム）又は処理能力（単位　立方メートル）</Sentence>
+                            </ItemSentence>
+                          </Item>
                       </Remarks>
                     </StyleStruct>
                   </Subitem1>
@@ -1827,8 +1739,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">その燃焼熱量の数値（当該高圧ガス設備に係る貯蔵設備及び処理設備についての第二号の算式中のＫ・Wの合計に<ArithFormula>４．１８６０５×１０<Sup>３</Sup>
-                        </ArithFormula>を乗じて得られた値をいう。以下この条において同じ。）は、二・五テラジュール以下であること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その燃焼熱量の数値（当該高圧ガス設備に係る貯蔵設備及び処理設備についての第二号の算式中のＫ・Ｗの合計に<ArithFormula>４．１８６０５×１０<Sup>３</Sup></ArithFormula>を乗じて得られた値をいう。以下この条において同じ。）は、二・五テラジュール以下であること。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
@@ -2300,62 +2211,48 @@
                         <List>
                           <ListSentence>
                             <Column Num="1">
-                              <Sentence Num="1" WritingMode="vertical">（イ）　０≦Ｘ＜９の場合</Sentence>
+                              <Sentence Num="1" WritingMode="vertical">（イ）</Sentence>
                             </Column>
                             <Column Num="2">
-                              <Sentence Num="1" WritingMode="vertical">ｍ＝５４</Sentence>
+                              <Sentence Num="1" WritingMode="vertical"><ArithFormula>０≦Ｘ＜９の場合　ｍ＝５４</ArithFormula></Sentence>
                             </Column>
                           </ListSentence>
                         </List>
                         <List>
                           <ListSentence>
                             <Column Num="1">
-                              <Sentence Num="1" WritingMode="vertical">（ロ）　９≦Ｘ＜２５の場合</Sentence>
+                              <Sentence Num="1" WritingMode="vertical">（ロ）</Sentence>
                             </Column>
                             <Column Num="2">
-                              <Sentence Num="1" WritingMode="vertical">ｍ＝１８√Ｘ</Sentence>
+                              <Sentence Num="1" WritingMode="vertical"><ArithFormula>９≦Ｘ＜２５の場合　ｍ＝１８√Ｘ</ArithFormula></Sentence>
                             </Column>
                           </ListSentence>
                         </List>
                         <List>
                           <ListSentence>
                             <Column Num="1">
-                              <Sentence Num="1" WritingMode="vertical">（ハ）　２５≦Ｘの場合</Sentence>
+                              <Sentence Num="1" WritingMode="vertical">（ハ）</Sentence>
                             </Column>
                             <Column Num="2">
-                              <Sentence Num="1" WritingMode="vertical">ｍ＝９０</Sentence>
+                              <Sentence Num="1" WritingMode="vertical"><ArithFormula>２５≦Ｘの場合　ｍ＝９０</ArithFormula></Sentence>
                             </Column>
                           </ListSentence>
                         </List>
                       </Style>
                       <Remarks>
-                        <RemarksLabel>備考</RemarksLabel>
-                        <Item Num="1">
-                          <ItemTitle/>
-                          <ItemSentence>
-                            <Sentence Num="1" WritingMode="vertical">これらの式において、ｍ及びＸは、それぞれ次の数値を表すものとする。</Sentence>
-                          </ItemSentence>
-                          <List>
-                            <ListSentence>
-                              <Column Num="1">
-                                <Sentence Num="1" WritingMode="vertical">ｍ</Sentence>
-                              </Column>
-                              <Column Num="2">
-                                <Sentence Num="1" WritingMode="vertical">容器置場の外面から保安物件までの距離（単位　メートル）</Sentence>
-                              </Column>
-                            </ListSentence>
-                          </List>
-                          <List>
-                            <ListSentence>
-                              <Column Num="1">
-                                <Sentence Num="1" WritingMode="vertical">Ｘ</Sentence>
-                              </Column>
-                              <Column Num="2">
-                                <Sentence Num="1" WritingMode="vertical">容器置場の面積（単位　平方メートル）</Sentence>
-                              </Column>
-                            </ListSentence>
-                          </List>
-                        </Item>
+                        <RemarksLabel LineBreak="true">備考　これらの式において、ｍ及びＸは、それぞれ次の数値を表すものとする。</RemarksLabel>
+                          <Item Num="1">
+                            <ItemTitle>ｍ</ItemTitle>
+                            <ItemSentence>
+                              <Sentence Num="1" WritingMode="vertical">容器置場の外面から保安物件までの距離（単位　メートル）</Sentence>
+                            </ItemSentence>
+                          </Item>
+                          <Item Num="2">
+                            <ItemTitle>Ｘ</ItemTitle>
+                            <ItemSentence>
+                              <Sentence Num="1" WritingMode="vertical">容器置場の面積（単位　平方メートル）</Sentence>
+                            </ItemSentence>
+                          </Item>
                       </Remarks>
                     </StyleStruct>
                   </Subitem1>
@@ -4178,8 +4075,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">下水道法（昭和三十三年法律第七十九号）による排水施設のうち開<Ruby>渠<Rt>きよ</Rt>
-                      </Ruby>構造のもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">下水道法（昭和三十三年法律第七十九号）による排水施設のうち開<Ruby>渠<Rt>きよ</Rt></Ruby>構造のもの</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -4331,8 +4227,7 @@
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">導管等の構造は、輸送される高圧ガスの重量、導管等の内圧、導管等及びその付属設備の自重、土圧、水圧、列車荷重、自動車荷重、浮力その他の主荷重並びに風荷重、雪荷重、温度変化の影響、振動の影響、地震の影響、投<Ruby>錨<Rt>びよう</Rt>
-                      </Ruby>による衝撃の影響、波浪及び潮流の影響、設置時における荷重の影響、工事による影響その他の従荷重によつて生じる応力に対して安全なものであること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">導管等の構造は、輸送される高圧ガスの重量、導管等の内圧、導管等及びその付属設備の自重、土圧、水圧、列車荷重、自動車荷重、浮力その他の主荷重並びに風荷重、雪荷重、温度変化の影響、振動の影響、地震の影響、投<Ruby>錨<Rt>びよう</Rt></Ruby>による衝撃の影響、波浪及び潮流の影響、設置時における荷重の影響、工事による影響その他の従荷重によつて生じる応力に対して安全なものであること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
@@ -4503,9 +4398,7 @@
                 <Item Num="13">
                   <ItemTitle>十三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">導管を河川に沿つて河川保全区域（河川法第五十四条に規定する河川保全区域をいう。）内に埋設する場合は、前三号の基準によるほか、堤防<Ruby>法<Rt>のり</Rt>
-                      </Ruby>尻又は護岸<Ruby>法<Rt>のり</Rt>
-                      </Ruby>肩に対し、河川管理上必要な距離を有すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">導管を河川に沿つて河川保全区域（河川法第五十四条に規定する河川保全区域をいう。）内に埋設する場合は、前三号の基準によるほか、堤防<Ruby>法<Rt>のり</Rt></Ruby>尻又は護岸<Ruby>法<Rt>のり</Rt></Ruby>肩に対し、河川管理上必要な距離を有すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="14">
@@ -4582,15 +4475,13 @@
                   <ItemTitle>十九</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">河川又は水路を横断して導管を埋設する場合であつて、塩素、ホスゲン、ふつ素、アクロレイン、亜硫酸ガス、シアン化水素又は硫化水素に係るものについては二重管とし、その他の毒性ガス及び可燃性ガスに係るものについては、二重管又は防護構造物の中に設置すること。</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">この場合において、当該二重管若しくは防護構造物の浮揚又は船舶の投<Ruby>錨<Rt>びよう</Rt>
-                      </Ruby>による損傷を防止するための措置を講ずること。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">この場合において、当該二重管若しくは防護構造物の浮揚又は船舶の投<Ruby>錨<Rt>びよう</Rt></Ruby>による損傷を防止するための措置を講ずること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="20">
                   <ItemTitle>二十</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第十八号ただし書の場合にあつては導管の外面と計画河床高（計画河床高が最深河床高より高いときは、最深河床高。以下この号において同じ。）との距離は原則として四・〇メートル以上、水路を横断して導管を埋設する場合にあつては導管の外面と計画河床高との距離は原則として二・五メートル以上、その他の小水路（第八条第三項に規定する水路以外の小水路で、用水路、側溝又はこれらに類するものを除く。）を横断して導管を埋設する場合にあつては導管の外面と計画河床高との距離は原則として一・二メートル以上とするほか、護岸その他河川管理施設の既設又は計画中の基礎工に支障を与えず、かつ、河床変動、洗掘、投<Ruby>錨<Rt>びよう</Rt>
-                      </Ruby>等の影響を受けない深さに埋設すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十八号ただし書の場合にあつては導管の外面と計画河床高（計画河床高が最深河床高より高いときは、最深河床高。以下この号において同じ。）との距離は原則として四・〇メートル以上、水路を横断して導管を埋設する場合にあつては導管の外面と計画河床高との距離は原則として二・五メートル以上、その他の小水路（第八条第三項に規定する水路以外の小水路で、用水路、側溝又はこれらに類するものを除く。）を横断して導管を埋設する場合にあつては導管の外面と計画河床高との距離は原則として一・二メートル以上とするほか、護岸その他河川管理施設の既設又は計画中の基礎工に支障を与えず、かつ、河床変動、洗掘、投<Ruby>錨<Rt>びよう</Rt></Ruby>等の影響を受けない深さに埋設すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="21">
@@ -4608,8 +4499,7 @@
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
                       <Sentence Function="main" Num="1" WritingMode="vertical">導管は、埋設すること。</Sentence>
-                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、投<Ruby>錨<Rt>びよう</Rt>
-                        </Ruby>等により導管が損傷を受けるおそれのない場合その他やむを得ない場合は、この限りでない。</Sentence>
+                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、投<Ruby>錨<Rt>びよう</Rt></Ruby>等により導管が損傷を受けるおそれのない場合その他やむを得ない場合は、この限りでない。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
@@ -4639,8 +4529,7 @@
                   <Subitem1 Num="6">
                     <Subitem1Title>ヘ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">導管を埋設する場合は、導管の外面と海底面との距離は、投<Ruby>錨<Rt>びよう</Rt>
-                        </Ruby>試験の結果、土質、埋め戻しの材料、船舶交通事情等を勘案して安全な距離とすること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">導管を埋設する場合は、導管の外面と海底面との距離は、投<Ruby>錨<Rt>びよう</Rt></Ruby>試験の結果、土質、埋め戻しの材料、船舶交通事情等を勘案して安全な距離とすること。</Sentence>
                       <Sentence Num="2" WritingMode="vertical">この場合において、当該導管を埋設する海底についてしゆんせつ計画がある場合は、しゆんせつ計画面（当該しゆんせつ計画において計画されているしゆんせつ後の海底面をいう。）下〇・六メートルを海底面とみなすものとする。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
@@ -9953,12 +9842,10 @@
               <Sentence Num="1" WritingMode="vertical">常用の温度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>－</ArithFormula>２０未満</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>－</ArithFormula>２０未満</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>－</ArithFormula>２０以上１０未満</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>－</ArithFormula>２０以上１０未満</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１０以上４０未満</Sentence>
@@ -10305,12 +10192,10 @@
               <Sentence Num="1" WritingMode="vertical">常用の温度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>－</ArithFormula>２０未満</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>－</ArithFormula>２０未満</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>－</ArithFormula>２０以上１０未満</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>－</ArithFormula>２０以上１０未満</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１０以上</Sentence>
@@ -12757,16 +12642,13 @@
               <Sentence Num="1" WritingMode="vertical">常用の温度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>－</ArithFormula>１１０未満</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>－</ArithFormula>１１０未満</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>－</ArithFormula>１１０以上<ArithFormula>－</ArithFormula>８０未満</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>－</ArithFormula>１１０以上<ArithFormula>－</ArithFormula>８０未満</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>－</ArithFormula>８０以上</Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>－</ArithFormula>８０以上</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -13241,23 +13123,85 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">１　表中の常用の温度の単位は、℃とする。</Sentence>
-          <Sentence WritingMode="vertical">２　上表に掲げるガス以外のガスに係るＫは、次に掲げる算式により得られた数値による。</Sentence>
-          <Sentence WritingMode="vertical">
-            <ArithFormula>Ｋ＝４．１（Ｔ－Ｔ<Sub>０</Sub>）×１０<Sup>３</Sup>
-            </ArithFormula>
-          </Sentence>
-          <Sentence WritingMode="vertical">この式において、</Sentence>
-          <Sentence WritingMode="vertical">Ｔは、当該ガスのある貯蔵設備又は処理設備内における当該ガスの常用の温度（単位　℃）の数値</Sentence>
-          <Sentence WritingMode="vertical">Ｔ<Sub>０</Sub>は、当該ガスの圧力零パスカルにおける沸点（単位　℃）の数値を表すものとする。</Sentence>
-          <Sentence WritingMode="vertical">ただし、</Sentence>
-          <Sentence WritingMode="vertical">①　<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が１１１以上の場合には、１１１とする。</Sentence>
-          <Sentence WritingMode="vertical">②　<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が１１．０以下の場合には、１１．０とする。</Sentence>
-          <Sentence WritingMode="vertical">③　当該ガスに係るＴ<Sub>０</Sub>が０未満<ArithFormula>－５０</ArithFormula>以上であるガスであつて、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が２２．２以下の場合には、②にかかわらず、当該ガスに係る<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、２２．２とする。</Sentence>
-          <Sentence WritingMode="vertical">④　当該ガスに係るＴ<Sub>０</Sub>が<ArithFormula>－５０</ArithFormula>未満<ArithFormula>－１００</ArithFormula>以上であるガスであつて、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が３３．３以下の場合には、②にかかわらず、当該ガスに係る<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、３３．３とする。</Sentence>
-          <Sentence WritingMode="vertical">⑤　当該ガスに係るＴ<Sub>０</Sub>が<ArithFormula>－１００</ArithFormula>未満<ArithFormula>－２００</ArithFormula>以上であるガスであつて、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が５５．５以下の場合には、②にかかわらず、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、５５．５とする。</Sentence>
-          <Sentence WritingMode="vertical">⑥　当該ガスに係るＴ<Sub>０</Sub>が<ArithFormula>－２００</ArithFormula>未満であるガスにあつては、②にかかわらず、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、１１１とする。</Sentence>
+          <RemarksLabel LineBreak="true">備考</RemarksLabel>
+          <Item Num="1">
+            <ItemTitle>１</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">表中の常用の温度の単位は、℃とする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>２</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">上表に掲げるガス以外のガスに係るＫは、次に掲げる算式により得られた数値による。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｋ＝４．１（Ｔ－Ｔ<Sub>０</Sub>）×１０<Sup>３</Sup></ArithFormula></Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">この式において、</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>Ｔは、当該ガスのある貯蔵設備又は処理設備内における当該ガスの常用の温度（単位</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">℃）の数値</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>Ｔ<Sub>０</Sub>は、当該ガスの圧力零パスカルにおける沸点（単位</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">℃）の数値を表すものとする。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title/>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">ただし、</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>①</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が１１１以上の場合には、１１１とする。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>②</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が１１．０以下の場合には、１１．０とする。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="3">
+                <Subitem2Title>③</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該ガスに係るＴ<Sub>０</Sub>が０未満<ArithFormula>－５０</ArithFormula>以上であるガスであつて、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が２２．２以下の場合には、②にかかわらず、当該ガスに係る<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、２２．２とする。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="4">
+                <Subitem2Title>④</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該ガスに係るＴ<Sub>０</Sub>が<ArithFormula>－５０</ArithFormula>未満<ArithFormula>－１００</ArithFormula>以上であるガスであつて、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が３３．３以下の場合には、②にかかわらず、当該ガスに係る<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、３３．３とする。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="5">
+                <Subitem2Title>⑤</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該ガスに係るＴ<Sub>０</Sub>が<ArithFormula>－１００</ArithFormula>未満<ArithFormula>－２００</ArithFormula>以上であるガスであつて、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値が５５．５以下の場合には、②にかかわらず、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、５５．５とする。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="6">
+                <Subitem2Title>⑥</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該ガスに係るＴ<Sub>０</Sub>が<ArithFormula>－２００</ArithFormula>未満であるガスにあつては、②にかかわらず、<ArithFormula>（Ｔ－Ｔ<Sub>０</Sub>）</ArithFormula>の数値は、１１１とする。</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
         </Remarks>
       </TableStruct>
     </AppdxTable>
