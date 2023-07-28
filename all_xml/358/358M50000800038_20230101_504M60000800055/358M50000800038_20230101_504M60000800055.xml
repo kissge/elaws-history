@@ -1294,7 +1294,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">０．０２Ｌ＋２．０（メートル）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．０２Ｌ＋２．０</ArithFormula>（メートル）</Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -1478,7 +1478,7 @@
                       <Sentence Num="1" WritingMode="vertical">二十万立方メートル以上四十万立方メートル未満</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">０．０１２Ｃ＋（０．００３／２００，０００）（４００，０００－Ｃ）Ｃ</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．０１２Ｃ＋（０．００３／２００，０００）（４００，０００－Ｃ）Ｃ</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -1527,12 +1527,12 @@
                       <Sentence Num="1" WritingMode="vertical">一の縦通隔壁がある場合</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">（０．２５（ｂｉ／Ｂ）＋０．１５）Ｌ</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>（０．２５（ｂｉ／Ｂ）＋０．１５）Ｌ</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">ｂｉ／Ｂが五分の一以上であつて縦通隔壁がない場合</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｂｉ／Ｂ</ArithFormula>が五分の一以上であつて縦通隔壁がない場合</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">０．２Ｌ</Sentence>
@@ -1540,10 +1540,10 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">ｂｉ／Ｂが五分の一未満であつて縦通隔壁がない場合</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｂｉ／Ｂ</ArithFormula>が五分の一未満であつて縦通隔壁がない場合</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">（０．５（ｂｉ／Ｂ）＋０．１）Ｌ</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>（０．５（ｂｉ／Ｂ）＋０．１）Ｌ</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -1551,7 +1551,7 @@
                       <Sentence Num="1" WritingMode="vertical">船側貨物艙以外の貨物艙（以下「中央部貨物艙」という。）</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">ｂｉ／Ｂが五分の一以上の場合</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｂｉ／Ｂ</ArithFormula>が五分の一以上の場合</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">０．２Ｌ</Sentence>
@@ -1559,18 +1559,18 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">ｂｉ／Ｂが五分の一未満であつて、中心線縦通隔壁がある場合</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｂｉ／Ｂ</ArithFormula>が五分の一未満であつて、中心線縦通隔壁がある場合</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">（０．２５（ｂｉ／Ｂ）＋０．１５）Ｌ</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>（０．２５（ｂｉ／Ｂ）＋０．１５）Ｌ</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">ｂｉ／Ｂが五分の一未満であつて、中心線縦通隔壁がない場合</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｂｉ／Ｂ</ArithFormula>が五分の一未満であつて、中心線縦通隔壁がない場合</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">（０．５（ｂｉ／Ｂ）＋０．１）Ｌ</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>（０．５（ｂｉ／Ｂ）＋０．１）Ｌ</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -1597,12 +1597,12 @@
                 </Subitem1Sentence>
                 <List>
                   <ListSentence>
-                    <Sentence Num="3" WritingMode="vertical">０．４＋２．４（Ｄ<Sub>W</Sub>／２０，０００）（メートル）</Sentence>
+                    <Sentence Num="3" WritingMode="vertical"><ArithFormula>０．４＋２．４（Ｄ<Sub>Ｗ</Sub>／２０，０００）</ArithFormula>（メートル）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence Num="4" WritingMode="vertical">Ｄ<Sub>W</Sub>は、載貨重量トン数</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">Ｄ<Sub>Ｗ</Sub>は、載貨重量トン数</Sentence>
                   </ListSentence>
                 </List>
               </Subitem1>
@@ -1631,12 +1631,12 @@
                 </Subitem1Sentence>
                 <List>
                   <ListSentence>
-                    <Sentence Num="2" WritingMode="vertical">０．４＋２．４（Ｄ<Sub>W</Sub>／２０，０００）（メートル）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical"><ArithFormula>０．４＋２．４（Ｄ<Sub>Ｗ</Sub>／２０，０００）</ArithFormula>（メートル）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence Num="3" WritingMode="vertical">Ｄ<Sub>W</Sub>は、載貨重量トン数</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">Ｄ<Sub>Ｗ</Sub>は、載貨重量トン数</Sentence>
                   </ListSentence>
                 </List>
               </Subitem1>
@@ -1659,12 +1659,12 @@
                 </Subitem1Sentence>
                 <List>
                   <ListSentence>
-                    <Sentence Num="2" WritingMode="vertical">０．５＋（Ｄ<Sub>W</Sub>／２０，０００）（メートル）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical"><ArithFormula>０．５＋（Ｄ<Sub>Ｗ</Sub>／２０，０００）</ArithFormula>（メートル）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence Num="3" WritingMode="vertical">Ｄ<Sub>W</Sub>は、載貨重量トン数</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">Ｄ<Sub>Ｗ</Sub>は、載貨重量トン数</Sentence>
                   </ListSentence>
                 </List>
               </Subitem1>
@@ -1687,7 +1687,7 @@
                   </Subitem2Sentence>
                   <List>
                     <ListSentence>
-                      <Sentence Num="2" WritingMode="vertical">（（ｄ<Sub>ｎ</Sub>・ρ<Sub>ｓ</Sub>・ｇ－Δｐ）／（１．１ρ<Sub>ｃ</Sub>・ｇ））（メートル）</Sentence>
+                      <Sentence Num="2" WritingMode="vertical">（<ArithFormula>（ｄ<Sub>ｎ</Sub>・ρ<Sub>ｓ</Sub>・ｇ－Δｐ）／（１．１ρ<Sub>ｃ</Sub>・ｇ）</ArithFormula>）（メートル）</Sentence>
                     </ListSentence>
                   </List>
                   <List>
@@ -1780,7 +1780,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="2" WritingMode="vertical">ＯＭ＝０．４ＯＭＳ＋０．６ＯＭＢ</Sentence>
+                <Sentence Num="2" WritingMode="vertical"><ArithFormula>ＯＭ＝０．４ＯＭＳ＋０．６ＯＭＢ</ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1790,7 +1790,7 @@
             </List>
             <List>
               <ListSentence>
-                <Sentence Num="4" WritingMode="vertical">ＯＭＳ＝Ｃ３ΣＰＳ（ｉ）ＯＳ（ｉ）</Sentence>
+                <Sentence Num="4" WritingMode="vertical"><ArithFormula>ＯＭＳ＝Ｃ３ΣＰＳ（ｉ）ＯＳ（ｉ）</ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1820,7 +1820,7 @@
             </List>
             <List>
               <ListSentence>
-                <Sentence Num="10" WritingMode="vertical">ＯＭＢ＝０．７ＯＭＢ（０）＋０．３ＯＭＢ（２．５）</Sentence>
+                <Sentence Num="10" WritingMode="vertical"><ArithFormula>ＯＭＢ＝０．７ＯＭＢ（０）＋０．３ＯＭＢ（２．５）</ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1830,7 +1830,7 @@
             </List>
             <List>
               <ListSentence>
-                <Sentence Num="12" WritingMode="vertical">ＯＭＢ（０）＝ΣＰＢ（ｉ）ＯＢ（ｉ）ＣＤＢ</Sentence>
+                <Sentence Num="12" WritingMode="vertical"><ArithFormula>ＯＭＢ（０）＝ΣＰＢ（ｉ）ＯＢ（ｉ）ＣＤＢ</ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1840,7 +1840,7 @@
             </List>
             <List>
               <ListSentence>
-                <Sentence Num="14" WritingMode="vertical">ＯＭＢ（２．５）＝ΣＰＢ（ｉ）ＯＢ（ｉ）ＣＤＢ（ｉ）</Sentence>
+                <Sentence Num="14" WritingMode="vertical"><ArithFormula>ＯＭＢ（２．５）＝ΣＰＢ（ｉ）ＯＢ（ｉ）ＣＤＢ（ｉ）</ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1855,7 +1855,7 @@
             </List>
             <List>
               <ListSentence>
-                <Sentence Num="17" WritingMode="vertical">｛（ｄｓ＋ｔｃ－Ｚ１）ρｓ－（１０００ｐ／ｇ）｝１／ρｎ</Sentence>
+                <Sentence Num="17" WritingMode="vertical"><ArithFormula>｛（ｄｓ＋ｔｃ－Ｚ１）ρｓ－（１０００ｐ／ｇ）｝１／ρｎ</ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1916,7 +1916,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">（１－ＰＳｆ－ＰＳａ）×（１－ＰＳｕ－ＰＳｌ）×（１－ＰＳｙ）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>（１－ＰＳｆ－ＰＳａ）×（１－ＰＳｕ－ＰＳｌ）×（１－ＰＳｙ）</ArithFormula></Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -2704,7 +2704,7 @@
                       <Sentence Num="1" WritingMode="vertical">〇・〇五未満</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">（２４．９６－１９９．６（ｙ／ＢＳ））（ｙ／ＢＳ）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>（２４．９６－１９９．６（ｙ／ＢＳ））（ｙ／ＢＳ）</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -2712,7 +2712,7 @@
                       <Sentence Num="1" WritingMode="vertical">〇・〇五以上〇・一〇未満</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">０．７４９＋｛５－４４．４（（ｙ／ＢＳ）－０．０５）｝（（ｙ／ＢＳ）－０．０５）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．７４９＋｛５－４４．４（（ｙ／ＢＳ）－０．０５）｝（（ｙ／ＢＳ）－０．０５）</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -2720,7 +2720,7 @@
                       <Sentence Num="1" WritingMode="vertical">〇・一〇以上</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">０．８８８＋０．５６（（ｙ／ＢＳ）－０．１）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．８８８＋０．５６（（ｙ／ＢＳ）－０．１）</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -2740,7 +2740,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">（１－ＰＢｆ－ＰＢａ）×（１－ＰＢｐ－ＰＢｓ）×（１－ＰＢｚ）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>（１－ＰＢｆ－ＰＢａ）×（１－ＰＢｐ－ＰＢｓ）×（１－ＰＢｚ）</ArithFormula></Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -3531,7 +3531,7 @@
                       <Sentence Num="1" WritingMode="vertical">〇・一以下</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">（１４．５－６７（ｚ／Ｄｓ））（ｚ／Ｄｓ）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>（１４．５－６７（ｚ／Ｄｓ））（ｚ／Ｄｓ）</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3539,7 +3539,7 @@
                       <Sentence Num="1" WritingMode="vertical">〇・一を超える</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">０．７８＋１．１（（ｚ／Ｄｓ）－０．１）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．７８＋１．１（（ｚ／Ｄｓ）－０．１）</ArithFormula></Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3791,7 +3791,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">Ｄ＝Ｑｄｓｉｎθ／５ｌ</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｄ＝Ｑｄｓｉｎθ／５ｌ</ArithFormula></Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -3961,7 +3961,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">０．０２３Ｌ＋１．５５０（メートル）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．０２３Ｌ＋１．５５０</ArithFormula>（メートル）</Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -3977,7 +3977,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">０．０１３Ｌ＋１．６００（メートル）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．０１３Ｌ＋１．６００</ArithFormula>（メートル）</Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -5750,7 +5750,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000008202.jpg"/></QuoteStruct></Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/2JH00000008202.jpg"/></QuoteStruct></ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
