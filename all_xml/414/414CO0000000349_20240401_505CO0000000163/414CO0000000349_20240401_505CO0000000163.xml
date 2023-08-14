@@ -291,7 +291,7 @@
                   <Sentence Num="1" WritingMode="vertical">第六十三条第九項</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第七十一条の規定による申請、第七十三条の二第一項の決定、第七十五条第一項の決定又は第八十一条第五項の決定</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第七十一条の規定による申請、第七十三条の二第一項の決定又は第七十五条第一項の決定</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">第七十五条第一項の決定</Sentence>
@@ -305,7 +305,7 @@
                   <Sentence Num="1" WritingMode="vertical">第八十四条</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第八十二条第一項及び前条</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第八十二条第一項、第八十三条及び前条第一項</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">第八十二条第一項</Sentence>
@@ -341,10 +341,38 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第八十六条第一項</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第八十六条第一項及び第二項</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項各号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">前条第一項第一号又は第二号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">同項第一号、第二号、第五号又は第九号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">同項第一号又は第二号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第八十六条第二項</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">前条第一項各号</Sentence>
@@ -460,6 +488,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年八月四日政令第二五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、刑法等の一部を改正する法律附則第一項第二号に掲げる規定の施行の日（令和五年十二月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
