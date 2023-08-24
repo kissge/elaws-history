@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Taisho" Year="04" Num="154" LawType="ImperialOrder" Lang="ja">
+<Law Era="Taisho" Year="04" Num="154" LawType="ImperialOrder" Lang="ja" PromulgateMonth="08" PromulgateDay="12">
   <LawNum>大正四年勅令第百五十四号</LawNum>
   <LawBody>
-    <LawTitle>大正四年勅令第百五十四号（大礼記念章制定ノ件）</LawTitle>
+    <LawTitle Kana="たいれいきねんしょうせいていのけん" Abbrev="" AbbrevKana="">大正四年勅令第百五十四号（大礼記念章制定ノ件）</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -51,8 +51,8 @@
             </ListSentence>
           </List>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>記念章ハ綬ヲ以テ左肋ニ佩フ</Sentence>
           </ParagraphSentence>

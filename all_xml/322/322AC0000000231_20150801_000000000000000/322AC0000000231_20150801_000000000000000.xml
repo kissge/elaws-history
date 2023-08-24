@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="231" Year="22">
+<Law Era="Showa" Lang="ja" LawType="Act" Num="231" Year="22" PromulgateMonth="12" PromulgateDay="23">
   <LawNum>昭和二十二年法律第二百三十一号</LawNum>
   <LawBody>
-    <LawTitle>昭和二十二年法律第二百三十一号（国が施行する内国貿易設備に関する港湾工事に因り生ずる土地又は工作物の譲与又は貸付及び使用料の徴収に関する法律）</LawTitle>
+    <LawTitle Kana="くにがせこうするないこくぼうえきせつびにかんするこうわんこうじによりしょうずるとちまたはこうさくもののじょうよまたはかしつけおよびしようりょうのちょうしゅうにかんするほうりつ" Abbrev="" AbbrevKana="">昭和二十二年法律第二百三十一号（国が施行する内国貿易設備に関する港湾工事に因り生ずる土地又は工作物の譲与又は貸付及び使用料の徴収に関する法律）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -12,8 +12,8 @@
             <Sentence WritingMode="vertical">国が施行する内国貿易設備に関する港湾工事により生ずる土地又は工作物は、公用又は公共の用に供するため国有として存置する必要のあるものを除くほか、国土交通大臣において、その工事の費用の一部を負担した公共団体にこれを譲与することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項の規定により譲与する土地又は工作物は、同項の公共団体の負担した工事の費用の額に相当する価額の範囲内のものでなければならない。</Sentence>
           </ParagraphSentence>
@@ -38,7 +38,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="411160" AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Id="7dc3ae8c-d3b5-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

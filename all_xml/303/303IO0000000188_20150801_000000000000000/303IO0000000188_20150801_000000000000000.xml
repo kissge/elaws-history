@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Year="03" Num="188" LawType="ImperialOrder" Lang="ja">
+<Law Era="Showa" Year="03" Num="188" LawType="ImperialOrder" Lang="ja" PromulgateMonth="08" PromulgateDay="01">
   <LawNum>昭和三年勅令第百八十八号</LawNum>
   <LawBody>
-    <LawTitle>昭和三年勅令第百八十八号（大礼記念章制定ノ件）</LawTitle>
+    <LawTitle Kana="たいれいきねんしょうせいていのけん" Abbrev="" AbbrevKana="">昭和三年勅令第百八十八号（大礼記念章制定ノ件）</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -61,8 +61,8 @@
             </ListSentence>
           </List>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>記念章ハ綬ヲ以テ左肋ニ佩ブ</Sentence>
           </ParagraphSentence>

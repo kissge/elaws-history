@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="182" Year="36">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="182" Year="36" PromulgateMonth="06" PromulgateDay="08">
   <LawNum>昭和三十六年政令第百八十二号</LawNum>
   <LawBody>
-    <LawTitle>選挙制度審議会令</LawTitle>
+    <LawTitle Kana="せんきょせいどしんぎかいれい" Abbrev="" AbbrevKana="">選挙制度審議会令</LawTitle>
     <EnactStatement>内閣は、選挙制度審議会設置法（昭和三十六年法律第百十九号）第十条の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -60,7 +60,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="359210" AmendLawNum="昭和五九年六月二一日政令第二一〇号" Id="04a5d230-149e-4f86-b4be-b97b6e2eb2fb">
+    <SupplProvision AmendLawNum="昭和五九年六月二一日政令第二一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -69,7 +69,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412303" AmendLawNum="平成一二年六月七日政令第三〇三号" Extract="true" Id="edc76c46-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

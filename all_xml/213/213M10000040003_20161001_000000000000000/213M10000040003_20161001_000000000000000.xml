@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Taisho" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="13">
+<Law Era="Taisho" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="13" PromulgateMonth="02" PromulgateDay="13">
   <LawNum>大正十三年大蔵省令第三号</LawNum>
   <LawBody>
-    <LawTitle>六分半利付米貨公債発行規程</LawTitle>
+    <LawTitle Kana="ろくぶはんりつきべいかこうさいはっこうきてい" Abbrev="" AbbrevKana="">六分半利付米貨公債発行規程</LawTitle>
     <Preamble>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -47,8 +47,8 @@
             <Sentence>本公債ノ元金ハ昭和三十九年二月一日ニ於テ額面金額ヲ以テ之ヲ償還ス但シ昭和十四年二月一日以後ハ政府ノ都合ニ依リ何時ニテモ九十日前ニ新聞紙ヲ以テ広告シ其ノ全部又ハ一部ヲ償還スルコトヲ得</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前項但書ニ依ル一部償還ノ場合ハ北米合衆国紐育ザ・バンク・オブ・トウキヨウ・トラスト・カムパニイニ於テ慣例ニ従ヒ抽籖ヲ執行シ当籤シタル国債証券ノ番号ハ元金支払ノ期日ヨリ一箇月前ニ新聞紙ヲ以テ広告スヘシ</Sentence>
           </ParagraphSentence>
@@ -145,14 +145,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前項ノ償還ハ昭和十四年二月一日前ニ於テハ買入銷却ノ方法ニ依リ同日以後ニ於テハ買入銷却又ハ抽籖償還ノ方法ニ依ル</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>第一項ノ金額ハ毎月分割シテ之ヲ支出シ其ノ支出金額ニ使用残額アルトキハ逓次之ヲ爾後ノ月割支出額ニ充当ス</Sentence>
           </ParagraphSentence>
@@ -170,20 +170,20 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>本令ハ公布ノ日ヨリ之ヲ施行ス</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Num="2" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>本公債ノ昭和十七年八月一日迄ニ券面記載ノ支払期日到来シ昭和二十七年十二月二十一日迄ニ支払ハレザリシ利子ノ支払期日ハ第五条ノ規定ニ拘ラズ同年十二月二十二日トシ本公債ノ昭和十八年二月一日以後昭和二十七年八月一日迄ニ券面記載ノ支払期日到来シ同年十二月二十一日迄ニ支払ハレザリシ利子ノ支払期日ハ第五条ノ規定ニ拘ラズ当該支払期日ヲ十箇年繰延ベタル日トス</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="327139" AmendLawNum="昭和二七年一一月二四日大蔵省令第一三九号" Id="2ce0e214-18c7-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二七年一一月二四日大蔵省令第一三九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -192,7 +192,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="330060" AmendLawNum="昭和三〇年一〇月一日大蔵省令第六〇号" Id="2d074eb8-18c7-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和三〇年一〇月一日大蔵省令第六〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

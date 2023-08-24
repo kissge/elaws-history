@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="ImperialOrder" Num="261" Year="26">
+<Law Era="Meiji" Lang="ja" LawType="ImperialOrder" Num="261" Year="26" PromulgateMonth="12" PromulgateDay="27">
   <LawNum>明治二十六年勅令第二百六十一号</LawNum>
   <LawBody>
-    <LawTitle>明治二十六年勅令第二百六十一号（政府ノ債務ニ対シ差押命令ヲ受クル場合ニ於ケル会計上ノ規程）</LawTitle>
+    <LawTitle Kana="せいふのさいむにたいしさしおさえめいれいをうくるばあいにおけるかいけいじょうのきてい" Abbrev="" AbbrevKana="">明治二十六年勅令第二百六十一号（政府ノ債務ニ対シ差押命令ヲ受クル場合ニ於ケル会計上ノ規程）</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -12,20 +12,20 @@
             <Sentence WritingMode="vertical">政府ヲ第三債務者トシテ発スル差押命令又ハ差押処分（以下「差押命令等」ト謂フ）ハ左ノ三項ニ掲クルモノノ外仕払命令官ニ宛之ヲ発スルモノトス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">仕払命令官既ニ現金前渡ノ仕払命令又ハ仕払請求書ヲ発シタル場合ニ於テハ現金前渡ヲ受ケタル官吏ニ向テ差押命令等ヲ発スルモノトス但シ記名公債元利ニ対スル差押命令等ハ公債元利ノ仕払ヲ取扱フ銀行ニ向テ発スルモノトス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">出納官吏カ繰替払ヲ為ス歳出金ニ対スル差押命令等ハ其ノ繰替払ヲ命令スル官吏ニ向テ発スルモノトス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4" OldStyle="false">
-          <ParagraphNum>○４</ParagraphNum>
+        <Paragraph Hide="false" Num="4" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">預金、保管金、供託金ニ対スル差押命令等ハ中央金庫ニ係ルモノハ金庫出納役ニ、本支金庫ニ係ルモノハ関係ノ金庫出納役代理人ニ向テ発スルモノトス但シ出納官吏ノ保管ニ係ル歳入歳出外現金ニ対スル差押命令等ハ当該出納官吏ニ向テ発スルモノトス</Sentence>
           </ParagraphSentence>
@@ -57,8 +57,8 @@
             <Sentence WritingMode="vertical">仕払命令、仕払請求書、集合仕払命令、集合仕払請求書及現金引出切符ヲ政府ノ債権者ニ交付シタル後差押命令等ヲ受ケタルトキハ当該仕払命令官又ハ出納官吏ハ速カニ金庫ニ向テ差押金額ノ仕払ヲ停止スヘシ</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">繰替払ヲ命令スル官吏カ繰替払ノ命令ヲ発シタル後差押命令等ヲ受ケタルトキハ速ニ出納官吏ニ向テ差押金額ノ仕払ヲ停止スヘシ</Sentence>
           </ParagraphSentence>
@@ -113,7 +113,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="140337" AmendLawNum="明治四〇年一一月二五日勅令第三三七号" Id="d8a18b7c-193e-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="明治四〇年一一月二五日勅令第三三七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -122,7 +122,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355231" AmendLawNum="昭和五五年八月三〇日政令第二三一号" Extract="true" Id="85dddd94-1887-11e8-a242-005056b30d52">
+    <SupplProvision AmendLawNum="昭和五五年八月三〇日政令第二三一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -132,7 +132,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="355239" AmendLawNum="昭和五五年九月一七日政令第二三九号" Extract="true" Id="aa674112-8ad0-4732-8618-4f6be33e49d4">
+    <SupplProvision AmendLawNum="昭和五五年九月一七日政令第二三九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -142,7 +142,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412307" AmendLawNum="平成一二年六月七日政令第三〇七号" Extract="true" Id="1b8b52d6-d3b7-11e9-a719-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -155,7 +155,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="414385" AmendLawNum="平成一四年一二月一八日政令第三八五号" Extract="true" Id="ede54acc-d3b5-11e9-ab6a-005056b30d52">
+    <SupplProvision AmendLawNum="平成一四年一二月一八日政令第三八五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -168,7 +168,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="416419" AmendLawNum="平成一六年一二月二七日政令第四一九号" Id="29c720de-7074-4fbf-8ab7-bbee4f6c4db5">
+    <SupplProvision AmendLawNum="平成一六年一二月二七日政令第四一九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>

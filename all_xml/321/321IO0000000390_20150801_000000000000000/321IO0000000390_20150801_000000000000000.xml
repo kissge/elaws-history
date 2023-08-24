@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="ImperialOrder" Num="390" Year="21">
+<Law Era="Showa" Lang="ja" LawType="ImperialOrder" Num="390" Year="21" PromulgateMonth="08" PromulgateDay="15">
   <LawNum>昭和二十一年勅令第三百九十号</LawNum>
   <LawBody>
-    <LawTitle>金融機関経理応急措置法施行令</LawTitle>
+    <LawTitle Kana="きんゆうきかんけいりおうきゅうそちほうせこうれい" Abbrev="" AbbrevKana="">金融機関経理応急措置法施行令</LawTitle>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -51,14 +51,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項各号の責任準備金は、主務大臣の定めるところにより、これを計算する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">保険会社等の指定時における負債のうち、第一項に掲げるもの以外の責任準備金及び支払備金は、法第二条及び第五条の規定にかかはらず、旧勘定に属する。</Sentence>
           </ParagraphSentence>
@@ -138,14 +138,14 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定する資産及び負債のうち、主務大臣の指定するものは、同項の規定にかかはらず、新勘定に属する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3" OldStyle="false">
-          <ParagraphNum>○３</ParagraphNum>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">農業会等の指定時における資産及び負債のうち、前二項の規定により旧勘定に属するもの以外のものは、新勘定に属する。</Sentence>
           </ParagraphSentence>
@@ -173,20 +173,20 @@
     </MainProvision>
     <SupplProvision Extract="false" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
-          <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この勅令は、公布の日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Hide="false" Num="2" OldStyle="false">
-          <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">第四条本文の規定は、法第二十一条の規定の適用に関する範囲内においては、指定時後の行為について、これを適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="322124" AmendLawNum="昭和二二年四月一五日勅令第一二四号" Extract="false" Id="5690b417-5dc8-4f70-8048-c6db3c2d685b" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二二年四月一五日勅令第一二四号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -195,7 +195,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="323110" AmendLawNum="昭和二三年五月一〇日政令第一一〇号" Extract="false" Id="f9a6d747-45cf-45d3-acb4-a624fba1958f" Type="Amend">
+    <SupplProvision AmendLawNum="昭和二三年五月一〇日政令第一一〇号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphNum/>
@@ -204,7 +204,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412244" AmendLawNum="平成一二年六月七日政令第二四四号" Extract="true" Id="edc5a7da-d3b5-11e9-ab6a-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第二四四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -217,7 +217,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="412303" AmendLawNum="平成一二年六月七日政令第三〇三号" Extract="true" Id="edc76c46-d3b5-11e9-ab6a-005056b30d52" Type="Amend">
+    <SupplProvision AmendLawNum="平成一二年六月七日政令第三〇三号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

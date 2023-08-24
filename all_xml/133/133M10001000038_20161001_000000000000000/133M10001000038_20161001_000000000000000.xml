@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Meiji" Lang="ja" LawType="MinisterialOrdinance" Num="038" Year="33">
+<Law Era="Meiji" Lang="ja" LawType="MinisterialOrdinance" Num="038" Year="33" PromulgateMonth="08" PromulgateDay="10">
   <LawNum>明治三十三年逓信省令第三十八号</LawNum>
   <LawBody>
-    <LawTitle>伝染病患者鉄道乗車規程</LawTitle>
+    <LawTitle Kana="でんせんびょうかんじゃてつどうじょうしゃきてい" Abbrev="" AbbrevKana="">伝染病患者鉄道乗車規程</LawTitle>
     <Preamble>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -38,8 +38,8 @@
             <Sentence>伝染病患者ニハ少クトモ一人ノ附添人ヲ附スルコトヲ要ス</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>鉄道ノ請求アルトキハ前項附添人ノ外医師ヲ附スルコトヲ要ス</Sentence>
           </ParagraphSentence>
@@ -103,7 +103,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawId="411015" AmendLawNum="平成一一年三月三〇日運輸省令第一五号" Id="bb907912-18c6-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一一年三月三〇日運輸省令第一五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

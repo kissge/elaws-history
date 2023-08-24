@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="22">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="22" PromulgateMonth="08" PromulgateDay="08">
   <LawNum>昭和二十二年総理庁・商工省令第三号</LawNum>
   <LawBody>
-    <LawTitle>経済産業省職員受託出張規則</LawTitle>
+    <LawTitle Kana="けいざいさんぎょうしょうしょくいんじゅたくしゅっちょうきそく" Abbrev="" AbbrevKana="">経済産業省職員受託出張規則</LawTitle>
     <EnactStatement>商工部内職員受託出張規則を次のように制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -92,8 +92,8 @@
             <Sentence Function="proviso" Num="2">但し、当該官庁においてその必要がないと認める場合はこの限りではない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>○２</ParagraphNum>
+        <Paragraph Num="2" OldNum="true">
+          <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前項の規定によつて納めた概算額につき、精算をなした場合において、不足額があるときは申請者にこれを納めしめ、過剰額があるときは申請者に払戻請求書を差し出させる。</Sentence>
           </ParagraphSentence>
@@ -102,29 +102,29 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この命令は、公布の日から、これを施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphNum>○２</ParagraphNum>
+      <Paragraph Num="2" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>軍需部内職員受託出張規則は、これを廃止する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="324003" AmendLawNum="昭和二四年五月二五日通商産業省令第三号" Extract="true" Id="a2e629e2-1935-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和二四年五月二五日通商産業省令第三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>○１</ParagraphNum>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="347103" AmendLawNum="昭和四七年九月一八日通商産業省令第一〇三号" Id="cc6c3d62-1965-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="昭和四七年九月一八日通商産業省令第一〇三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -133,7 +133,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="412367" AmendLawNum="平成一二年一一月二九日通商産業省令第三六七号" Id="cca01f4c-1965-11e8-a136-005056b30d52">
+    <SupplProvision AmendLawNum="平成一二年一一月二九日通商産業省令第三六七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -142,7 +142,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420082" AmendLawNum="平成二〇年一二月一日経済産業省令第八二号" Id="97b754ec-f352-11e6-941f-005056b30d52">
+    <SupplProvision AmendLawNum="平成二〇年一二月一日経済産業省令第八二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
