@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="280" Year="16">
+<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="280" Year="16" PromulgateMonth="09" PromulgateDay="15">
   <LawNum>平成十六年政令第二百八十号</LawNum>
   <LawBody>
-    <LawTitle>武力攻撃事態等における特定公共施設等の利用に関する法律施行令</LawTitle>
+    <LawTitle Kana="ぶりょくこうげきじたいとうにおけるとくていこうきょうしせつとうのりようにかんするほうりつせこうれい" Abbrev="特定公共施設利用法施行令" AbbrevKana="と">武力攻撃事態等における特定公共施設等の利用に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、武力攻撃事態等における特定公共施設等の利用に関する法律（平成十六年法律第百十四号）第二条第五項及び第十九条第二項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -90,7 +90,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawId="420197" AmendLawNum="平成二〇年六月一八日政令第一九七号" Extract="true" Id="2d609d7f-03a3-44f6-bfc6-93f87445361a">
+    <SupplProvision AmendLawNum="平成二〇年六月一八日政令第一九七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1" OldStyle="false">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
