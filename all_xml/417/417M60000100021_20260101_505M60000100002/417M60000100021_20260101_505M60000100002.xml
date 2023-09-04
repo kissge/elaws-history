@@ -640,7 +640,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該作業中は、当該石綿含有成形品を常時湿潤な状態に保つこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該作業中は、当該石綿含有成形品を常時湿潤な状態に保つこと、除じん性能を有する電動工具を使用することその他の石綿等の粉じんの発散を防止する措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -786,8 +786,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、次の各号のいずれかに掲げる作業に労働者を従事させるときは、石綿等を湿潤な状態のものとしなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、石綿等を湿潤な状態のものとすることが著しく困難なときは、除じん性能を有する電動工具の使用その他の石綿等の粉じんの発散を防止する措置を講ずるように努めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、次の各号のいずれかに掲げる作業に労働者を従事させるときは、石綿等を湿潤な状態のものとすること、除じん性能を有する電動工具を使用することその他の石綿等の粉じんの発散を防止する措置を講じなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -829,8 +828,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、第一項各号のいずれかに掲げる作業の一部を請負人に請け負わせるときは、当該請負人に対し、石綿等を湿潤な状態のものとする必要がある旨を周知させなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項ただし書の場合は、除じん性能を有する電動工具の使用その他の石綿等の粉じんの発散を防止する措置を講ずるように努めなければならない旨を周知させなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者は、第一項各号のいずれかに掲げる作業の一部を請負人に請け負わせるときは、当該請負人に対し、石綿等を湿潤な状態のものとすること、除じん性能を有する電動工具を使用することその他の石綿等の粉じんの発散を防止する措置を講ずる必要がある旨を周知させなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3251,7 +3249,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和五年八月二九日厚生労働省令第一〇五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条の２関係）（表面）</RelatedArticleNum>
       <StyleStruct>
@@ -3260,7 +3267,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条の２関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
@@ -3269,7 +3276,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3278,7 +3285,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２号</AppdxStyleTitle>
       <RelatedArticleNum>（第４１条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
@@ -3287,7 +3294,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２号</AppdxStyleTitle>
       <RelatedArticleNum>（第４１条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
@@ -3296,7 +3303,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（第４３条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
@@ -3305,7 +3312,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（第４３条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
@@ -3314,7 +3321,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第４６条の３関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3323,7 +3330,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４号</AppdxStyleTitle>
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3332,7 +3339,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５号</AppdxStyleTitle>
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3341,7 +3348,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3350,7 +3357,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５号の３</AppdxStyleTitle>
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3359,7 +3366,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５号の４</AppdxStyleTitle>
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3368,7 +3375,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第６号</AppdxStyleTitle>
       <RelatedArticleNum>（第４９条関係）</RelatedArticleNum>
       <StyleStruct>
