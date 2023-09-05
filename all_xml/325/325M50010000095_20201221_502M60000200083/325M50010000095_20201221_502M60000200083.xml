@@ -4007,20 +4007,19 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">漁船の登録番号は、当該登録に係る都道府県の識別標、漁船の等級標、横線及び漁船の番号を組み合せたものとし、その組み合せ例は、左の通りとする。</Sentence>
         </ItemSentence>
+        <List>
+          <ListSentence>
+            <Sentence><ArithFormula>ＴＫ３―１２３４</ArithFormula></Sentence>
+          </ListSentence>
+        </List>
       </Item>
       <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"><ArithFormula>ＴＫ３―１２３４</ArithFormula></Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="3">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">前号の例において頭書のローマ字は、当該登録に係る都道府県の識別標であつて左の甲表に掲げる通りとし、ローマ字のつぎの数字は、漁船の等級標であつて左の乙表に掲げる通りとし、横線のつぎの数字は漁船の番号であつて当該登録に係る都道府県ごと及び漁船の等級ごとに一貫番号で定められるものとする。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="4">
+      <Item Num="3">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">甲表</Sentence>
@@ -4380,7 +4379,7 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+      <Item Num="4">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">乙表</Sentence>
