@@ -16067,13 +16067,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">七一八ＭＨｚを超え七四八ＭＨｚ以下、七七三ＭＨｚを超え八〇三ＭＨｚ以下、八一五ＭＨｚを超え八四五ＭＨｚ以下、八六〇ＭＨｚを超え八九〇ＭＨｚ以下、九〇〇ＭＨｚを超え九一五ＭＨｚ以下、九四五ＭＨｚを超え九六〇ＭＨｚ以下、一、四二七・九ＭＨｚを超え一、四六二・九ＭＨｚ以下、一、四七五・九ＭＨｚを超え一、五一〇・九ＭＨｚ以下、一、七一〇ＭＨｚを超え一、七八五ＭＨｚ以下、一、八〇五ＭＨｚを超え一、八八〇ＭＨｚ以下、一、九二〇ＭＨｚを超え一、九八〇ＭＨｚ以下又は二、一一〇ＭＨｚを超え二、一七〇ＭＨｚ以下の周波数の電波を使用する無線設備であつて、これらの周波数の電波を受信し、当該電波を増幅して送信するもの</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">八八九ＭＨｚを超え九一一ＭＨｚ未満の周波数の電波を送信に使用する無線電話の無線設備であつて、基地局又は陸上移動中継局に使用される無線設備が送信する電波を受信することにより送信が制御される無線設備以外のもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">七一五ＭＨｚを超え七四八ＭＨｚ以下、七七〇ＭＨｚを超え八〇三ＭＨｚ以下、八一五ＭＨｚを超え八四五ＭＨｚ以下、八六〇ＭＨｚを超え八九〇ＭＨｚ以下、九〇〇ＭＨｚを超え九一五ＭＨｚ以下、九四五ＭＨｚを超え九六〇ＭＨｚ以下、一、四二七・九ＭＨｚを超え一、四六二・九ＭＨｚ以下、一、四七五・九ＭＨｚを超え一、五一〇・九ＭＨｚ以下、一、七一〇ＭＨｚを超え一、七八五ＭＨｚ以下、一、八〇五ＭＨｚを超え一、八八〇ＭＨｚ以下、一、九二〇ＭＨｚを超え一、九八〇ＭＨｚ以下又は二、一一〇ＭＨｚを超え二、一七〇ＭＨｚ以下の周波数の電波を使用する無線設備であつて、これらの周波数の電波を受信し、当該電波を増幅して送信するもの</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -21714,12 +21708,12 @@
               </TableColumn>
             </TableRow>
           </Table>
-          <Remarks>
-            <RemarksLabel>注</RemarksLabel>
-            <Sentence Num="1" WritingMode="vertical">※を付した値は、周波数の対数に対して直線的に減少した値とする。</Sentence>
-          </Remarks>
-        </TableStruct>
-      </Paragraph>
+              <Remarks>
+                <RemarksLabel>注</RemarksLabel>
+                <Sentence Num="1" WritingMode="vertical">※を付した値は、周波数の対数に対して直線的に減少した値とする。</Sentence>
+              </Remarks>
+            </TableStruct>
+          </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一八年五月三一日総務省令第九一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -23800,7 +23794,17 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和五年八月二九日総務省令第六七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第一号</AppdxStyleTitle>
       <RelatedArticleNum>　呼出符号又は呼出名称指定申請書の様式（第６条の２の２第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23809,7 +23813,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第一号の二</AppdxStyleTitle>
       <RelatedArticleNum>　呼出符号又は呼出名称指定書の様式（第６条の２の２第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23818,7 +23822,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="1_3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一号の三</AppdxTableTitle>
       <RelatedArticleNum>　許可を要しない工事設計の軽微な事項（第１０条第１項関係）</RelatedArticleNum>
       <TableStruct>
@@ -24217,7 +24221,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="1_4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一号の四</AppdxTableTitle>
       <RelatedArticleNum>　許可を要しない電気通信設備の軽微な事項（第１０条第３項関係）</RelatedArticleNum>
       <TableStruct>
@@ -24242,7 +24246,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号</AppdxTableTitle>
       <RelatedArticleNum>　変更検査を要しない場合（第十条の四関係）</RelatedArticleNum>
       <Item Num="1">
@@ -24480,7 +24484,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号の二</AppdxTableTitle>
       <RelatedArticleNum>　免許状記載事項等の一部を公表する無線局（第１１条第５項関係）</RelatedArticleNum>
       <Item Num="1">
@@ -24652,7 +24656,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2_2_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号の二の二</AppdxTableTitle>
       <RelatedArticleNum>（第１１条の２の３関係）</RelatedArticleNum>
       <TableStruct>
@@ -24959,7 +24963,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2_2_3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号の二の三</AppdxTableTitle>
       <RelatedArticleNum>（第１１条の２の３関係）</RelatedArticleNum>
       <TableStruct>
@@ -25042,7 +25046,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="2_2_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二号の二の四</AppdxStyleTitle>
       <RelatedArticleNum>（第１１条の２の４第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -25051,7 +25055,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_2_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二号の二の五</AppdxStyleTitle>
       <RelatedArticleNum>（第１１条の２の４第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -25060,7 +25064,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="2_3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号の三</AppdxTableTitle>
       <RelatedArticleNum>　ＡＣＡＳ、航空用ＤＭＥ、タカン又はＶＯＲを使用する無線局及びＩＬＳ、ＭＬＳ、ＡＴＣＲＢＳ又はＧＢＡＳの無線局の周波数（第１３条第３項関係）</RelatedArticleNum>
       <TableStruct>
@@ -32204,7 +32208,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="2_3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二号の三の二</AppdxStyleTitle>
       <RelatedArticleNum>　開設指針の制定の申出の様式（第２１条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -32213,7 +32217,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="2_3_3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号の三の三</AppdxTableTitle>
       <RelatedArticleNum>　電波の強度の値の表（第２１条の４関係）</RelatedArticleNum>
       <TableStruct>
@@ -32390,7 +32394,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2_4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号の四</AppdxTableTitle>
       <RelatedArticleNum>　地球局の等価等方輻射電力の許容値（第３２条の２関係）</RelatedArticleNum>
       <TableStruct>
@@ -32509,7 +32513,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2_5">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号の五</AppdxTableTitle>
       <RelatedArticleNum>　人工衛星局の電力束密度の許容値（第３２条の６関係）</RelatedArticleNum>
       <TableStruct>
@@ -33217,48 +33221,48 @@
                 <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐ＋１０ｌｏｇ<Sub>１０</Sub>（τ）＋１０ｌｏｇ<Sub>１０</Sub>（ＰＲＦ）－３０－１０ｌｏｇ<Sub>１０</Sub>（Ｂｃ）＋Ｇ<Sub>ｔ</Sub>（δ）－１０ｌｏｇ<Sub>１０</Sub>（４πｄ<Sup>２</Sup>（δ））</ArithFormula></Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="2">
+            <Subitem2 Num="1">
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">なお、</Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="3">
+            <Subitem2 Num="1">
               <Subitem2Title/>
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">Ｐ：尖頭電力（デシベル）（１ワットを０デシベルとする。）</Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="4">
+            <Subitem2 Num="2">
               <Subitem2Title/>
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">τ：パルス長（マイクロ秒）</Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="5">
+            <Subitem2 Num="3">
               <Subitem2Title/>
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">ＰＲＦ：パルス繰り返し周波数（ｋＨｚ）</Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="6">
+            <Subitem2 Num="4">
               <Subitem2Title/>
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">δ：人工衛星局の軌道に直交する垂直面を基準とした地上からの人工衛星局の仰角（度）</Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="7">
+            <Subitem2 Num="5">
               <Subitem2Title/>
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">Ｂｃ：人工衛星局が発射する電波の周波数帯域幅（ＭＨｚ）</Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="8">
+            <Subitem2 Num="6">
               <Subitem2Title/>
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">Ｇ<Sub>ｔ</Sub>（δ）：仰角δにおける人工衛星局の軌道に直交する垂直面を基準とした人工衛星局の空中線の絶対利得（デシベル）</Sentence>
               </Subitem2Sentence>
             </Subitem2>
-            <Subitem2 Num="9">
+            <Subitem2 Num="7">
               <Subitem2Title/>
               <Subitem2Sentence>
                 <Sentence Num="1" WritingMode="vertical">ｄ（δ）：仰角δにおける人工衛星局と地上との距離（メートル）</Sentence>
@@ -33355,7 +33359,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="2_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二号の六</AppdxStyleTitle>
       <RelatedArticleNum>　無線設備の技術基準の策定等の申出の様式（第３２条の９の２及び第４５条の２の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -33364,7 +33368,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第三号</AppdxStyleTitle>
       <RelatedArticleNum>　無線従事者選解任届の様式（第３４条の４関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -33373,7 +33377,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第四号</AppdxStyleTitle>
       <RelatedArticleNum>（第３９条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -33382,7 +33386,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第四号の二</AppdxStyleTitle>
       <RelatedArticleNum>　法第７３条第３項の規定による無線局検査の省略通知の様式（第３９条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -33391,7 +33395,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="4_3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四号の三</AppdxTableTitle>
       <RelatedArticleNum>　変更認定を要しない軽微な変更事項（第四十条の三関係）</RelatedArticleNum>
       <Item Num="1">
@@ -33425,7 +33429,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxStyle Num="4_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第四号の四</AppdxStyleTitle>
       <RelatedArticleNum>　航空機局等の無線設備等の点検その他の保守の実施状況報告書の様式（第４０条の４関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -33434,7 +33438,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="5">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五号</AppdxTableTitle>
       <RelatedArticleNum>　定期検査の実施時期（第四十一条の四関係）</RelatedArticleNum>
       <Item Num="1">
@@ -34071,7 +34075,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxStyle Num="5_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の二</AppdxStyleTitle>
       <RelatedArticleNum>　免許人が総合通信局長に提出する無線設備等の検査実施報告書の様式（第４１条の５関係）</RelatedArticleNum>
       <StyleStruct>
@@ -34080,7 +34084,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の三</AppdxStyleTitle>
       <RelatedArticleNum>　免許人が総合通信局長に提出する無線設備等の点検実施報告書の様式（第４１条の６関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34089,7 +34093,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の四</AppdxStyleTitle>
       <RelatedArticleNum>（第４２条の７関係）</RelatedArticleNum>
       <StyleStruct>
@@ -34098,7 +34102,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の五</AppdxStyleTitle>
       <RelatedArticleNum>　記載事項等の変更届出書の様式（第４３条第５項関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34107,7 +34111,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の六</AppdxStyleTitle>
       <RelatedArticleNum>　基幹放送局事業計画変更届出書の様式（第４３条の２第３項関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34116,7 +34120,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の七</AppdxStyleTitle>
       <RelatedArticleNum>　基幹放送局事業収支結果報告書の様式（第４３条の２第３項関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34125,7 +34129,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の八</AppdxStyleTitle>
       <RelatedArticleNum>　非常局の無線設備の機能試験の免除申請書の様式（第４３条の３第１項関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34134,7 +34138,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第五号の九</AppdxStyleTitle>
       <RelatedArticleNum>　監視制御機能・保守運用体制確認申請書の様式（第４３条の６第２項関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34143,7 +34147,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="6">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第六号</AppdxTableTitle>
       <RelatedArticleNum>　許可を要しない高周波利用設備の変更の工事（第４５条の２関係）</RelatedArticleNum>
       <TableStruct>
@@ -34254,7 +34258,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第七号</AppdxStyleTitle>
       <RelatedArticleNum>（第４６条の４関係）</RelatedArticleNum>
       <StyleStruct>
@@ -34263,7 +34267,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="8">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第八号</AppdxTableTitle>
       <RelatedArticleNum>　型式確認に係る試験方法（第４６条の７関係）</RelatedArticleNum>
       <Item Num="1">
@@ -34442,7 +34446,7 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="2">
+      <Item Num="1">
         <ItemTitle>第２</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">電磁誘導加熱式調理器</Sentence>
@@ -34624,7 +34628,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第九号</AppdxStyleTitle>
       <RelatedArticleNum>　試験成績書の様式（第４６条の８関係）</RelatedArticleNum>
       <StyleStruct>
@@ -34633,7 +34637,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十号</AppdxStyleTitle>
       <RelatedArticleNum>（第４６条の８関係）</RelatedArticleNum>
       <StyleStruct>
@@ -34642,7 +34646,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十一号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１０関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34651,7 +34655,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十一号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１０の２の４、第５１条の１０の２の８関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34660,7 +34664,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十一号の三</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１０の３関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34669,7 +34673,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十一号の四</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１０の４関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34678,7 +34682,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十二号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34687,7 +34691,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十二号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１の２関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34696,7 +34700,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十二号の三</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１の２の８関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34705,7 +34709,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十二号の四</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１の２の９関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34714,7 +34718,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十三号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１の２の１０第１項関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34723,7 +34727,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十三号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１の２の１０第１項及び第２項関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34732,7 +34736,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十四号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１の２の１０第２項関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34741,7 +34745,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十四号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１１の２の１０第３項関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34750,7 +34754,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十五号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１２関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
@@ -34759,7 +34763,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第十六号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条の１３第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -34768,84 +34772,84 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxFig Num="1">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第一号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第１項第１号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034629.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="2">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第二号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第１項第２号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/2FH00000040684.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="3">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第三号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第１項第３号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034631.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="4">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第四号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第１項第４号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034632.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="5">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第五号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第１項第５号及び第６号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034633.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="6">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第六号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第１項第６号及び第８号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/2FH00000062866.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="7">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第七号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第２項第１号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034634.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="8">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第八号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第２項第２号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/2FH00000040685.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="9">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第九号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第２項第３号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034635.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="10">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第十号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第３項第１号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034636.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="11">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第十一号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第３項第２号関係）</RelatedArticleNum>
       <FigStruct>
         <Fig src="./pict/3FH00000034637.pdf"/>
       </FigStruct>
     </AppdxFig>
-    <AppdxFig Num="12">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第十二号</AppdxFigTitle>
       <RelatedArticleNum>（第３６条の２第３項第３号関係）</RelatedArticleNum>
       <FigStruct>
