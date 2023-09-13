@@ -797,14 +797,9 @@
           <Sentence Num="1" WritingMode="vertical">第１表</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">収入上限を構成する項目分類表</Sentence>
-        </ItemSentence>
-      </Item>
       <TableStruct>
-        <Table WritingMode="vertical">
+        <TableStructTitle WritingMode="vertical">収入上限を構成する項目分類表</TableStructTitle>        
+<Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">費用及び収益の区分</Sentence>
@@ -3657,19 +3652,14 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+      <Item Num="2">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第２表</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">レートべース分類表</Sentence>
-        </ItemSentence>
-      </Item>
       <TableStruct>
+        <TableStructTitle WritingMode="vertical">レートベース分類表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
