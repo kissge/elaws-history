@@ -145,19 +145,18 @@
         </Paragraph>
       </Article>
     </MainProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第１</AppdxTableTitle>
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
+      <TableStruct>
+        <TableStructTitle WritingMode="vertical">託送供給収支の算定方法</TableStructTitle>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
-        <ItemTitle/>
+        <ItemTitle>１．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">託送供給収支の算定方法</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">１．ガス事業に係る収益のうち、次に掲げるものを、託送収益として整理すること。なお、託送料金算定規則第２２条第１項の規定により複数の地域（託送収支計算書を公表する日の属する事業年度の翌事業年度の開始の日までに、ガス事業法第４８条第２項又は第５項の規定により託送供給約款が適用される地域を異なる託送供給約款が適用される地域と併合する変更を行う場合には、当該併合後の地域。以下同じ。）ごとの託送供給約款料金（以下「地域別託送供給約款料金」という。）を定めている一般ガス導管事業者にあっては、当該複数の地域ごとに、託送料金算定規則第３９条第１項又は第２項の規定により特定導管又は特定導管の一部（託送収支計算書を公表する日の属する事業年度の翌事業年度の開始の日までに、ガス事業法第７６条第２項の規定により託送供給約款が適用される特定導管又は特定導管の一部を異なる託送供給約款が適用される特定導管又は特定導管の一部と併合する変更を行う場合には、当該併合後の特定導管又は特定導管の一部。以下「特定導管等」という。）ごとの託送供給約款料金（以下「特定導管別託送供給約款料金」という。）を定めている特定ガス導管事業者にあっては、当該特定導管等ごとに整理すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ガス事業に係る収益のうち、次に掲げるものを、託送収益として整理すること。なお、託送料金算定規則第２２条第１項の規定により複数の地域（託送収支計算書を公表する日の属する事業年度の翌事業年度の開始の日までに、ガス事業法第４８条第２項又は第５項の規定により託送供給約款が適用される地域を異なる託送供給約款が適用される地域と併合する変更を行う場合には、当該併合後の地域。以下同じ。）ごとの託送供給約款料金（以下「地域別託送供給約款料金」という。）を定めている一般ガス導管事業者にあっては、当該複数の地域ごとに、託送料金算定規則第３９条第１項又は第２項の規定により特定導管又は特定導管の一部（託送収支計算書を公表する日の属する事業年度の翌事業年度の開始の日までに、ガス事業法第７６条第２項の規定により託送供給約款が適用される特定導管又は特定導管の一部を異なる託送供給約款が適用される特定導管又は特定導管の一部と併合する変更を行う場合には、当該併合後の特定導管又は特定導管の一部。以下「特定導管等」という。）ごとの託送供給約款料金（以下「特定導管別託送供給約款料金」という。）を定めている特定ガス導管事業者にあっては、当該特定導管等ごとに整理すること。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>（１）</Subitem1Title>
@@ -208,10 +207,10 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="3">
-        <ItemTitle/>
+      <Item Num="2">
+        <ItemTitle>２．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２．ガス事業に係る費用のうち、次に掲げるものを、託送費用として整理すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに整理し、社内取引項目の自社小売事業者への需給調整費、バイオガス調達費及び需要調査・開拓費は、当該事業者に直近の託送料金算定時の方法を適用した場合の託送費用に相当する額として整理すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ガス事業に係る費用のうち、次に掲げるものを、託送費用として整理すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに整理し、社内取引項目の自社小売事業者への需給調整費、バイオガス調達費及び需要調査・開拓費は、当該事業者に直近の託送料金算定時の方法を適用した場合の託送費用に相当する額として整理すること。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>（１）</Subitem1Title>
@@ -262,10 +261,10 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="4">
-        <ItemTitle/>
+      <Item Num="3">
+        <ItemTitle>３．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">３．ガス事業に係る次に掲げる収益又は費用を、それぞれ次の比率又は方法により、託送供給関連部門の収益又は費用に整理すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに整理すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ガス事業に係る次に掲げる収益又は費用を、それぞれ次の比率又は方法により、託送供給関連部門の収益又は費用に整理すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに整理すること。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>（１）</Subitem1Title>
@@ -367,20 +366,25 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="5">
-        <ItemTitle/>
+      <Item Num="4">
+        <ItemTitle>４．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">４．１．から３．により整理した託送収益及び託送費用を基に、様式第１の託送収支計算書を作成すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">１．から３．により整理した託送収益及び託送費用を基に、様式第１の託送収支計算書を作成すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="6">
-        <ItemTitle/>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <Item Num="1">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第１表</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">託送費用関連配賦基準表</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">託送費用関連配賦基準表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
@@ -532,14 +536,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+        </Subitem1>
+      </Item>
+      <Item Num="2">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第２表</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">託送費用関連配賦項目表</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">託送費用関連配賦項目表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -647,24 +654,34 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第２</AppdxTableTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
+      <TableStruct>
+        <TableStructTitle WritingMode="vertical">託送資産の算定方法</TableStructTitle>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
-        <ItemTitle/>
+        <ItemTitle>１．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">託送資産の算定方法</Sentence>
+          <Sentence Num="1" WritingMode="vertical">託送資産として特定できるものは直課し、それ以外は直課した固定資産金額比で配賦すること。ただし、特定ガス導管事業者にあっては、工具器具備品等の少額資産等については人員比によって配賦することができる。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに整理すること。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="2">
-        <ItemTitle/>
+        <ItemTitle>２．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">１．託送資産として特定できるものは直課し、それ以外は直課した固定資産金額比で配賦すること。ただし、特定ガス導管事業者にあっては、工具器具備品等の少額資産等については人員比によって配賦することができる。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに整理すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">毎事業年度決算確定値をもとに次表の方法によって算定すること。ただし、金融商品取引法（昭和２３年法律第２５号）の規定により、貸借対照表、損益計算書その他の財務計算に関する書類の提出を要しない会社（以下「金商法適用外会社」という。）、地方公共団体及び法人たる組合にあっては、直近の託送供給料金算定時のレートベースにより算定することができる。</Sentence>
         </ItemSentence>
       </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">２．毎事業年度決算確定値をもとに次表の方法によって算定すること。ただし、金融商品取引法（昭和２３年法律第２５号）の規定により、貸借対照表、損益計算書その他の財務計算に関する書類の提出を要しない会社（以下「金商法適用外会社」という。）、地方公共団体及び法人たる組合にあっては、直近の託送供給料金算定時のレートベースにより算定することができる。</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -724,32 +741,34 @@
           </TableRow>
         </Table>
       </TableStruct>
+      <TableStruct>
+        <TableStructTitle WritingMode="vertical">本支管投資額の算定方法</TableStructTitle>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">本支管投資額の算定方法</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="2">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">ガス事業法施行規則様式第６０第６表に掲げる「主要導管」及び「本支管（主要導管以外）」に係る投資額について、直近５年間の実績額を記載すること。ただし、特定ガス導管事業者にあっては、特定導管（ガス事業法施行規則第１条第２項第８号ニに該当するものを除く。）に係る投資額について、直近５年間の実績額を記載すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに整理すること。</Sentence>
         </ItemSentence>
       </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第３</AppdxTableTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
+      <TableStruct>
+        <TableStructTitle WritingMode="vertical">超過利潤額等の算定方法</TableStructTitle>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
-        <ItemTitle/>
+        <ItemTitle>１．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">超過利潤額等の算定方法</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">１．別表第１により作成した様式第１の託送収支計算書を基に、次の方法により様式第３第１表の超過利潤計算書を作成すること。ただし、法第４８条第１項ただし書の承認を受けた事業者であって法第４９条第１項に規定する届出を行っている事業者及び法第７６条第１項ただし書の承認を受けた事業者であって法第７７条第１項に規定する届出を行っている事業者（以下「承認事業者」という。）については、（２）、（６）及び（７）は整理することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">別表第１により作成した様式第１の託送収支計算書を基に、次の方法により様式第３第１表の超過利潤計算書を作成すること。ただし、法第４８条第１項ただし書の承認を受けた事業者であって法第４９条第１項に規定する届出を行っている事業者及び法第７６条第１項ただし書の承認を受けた事業者であって法第７７条第１項に規定する届出を行っている事業者（以下「承認事業者」という。）については、（２）、（６）及び（７）は整理することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>（１）</Subitem1Title>
@@ -794,10 +813,10 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="3">
-        <ItemTitle/>
+      <Item Num="2">
+        <ItemTitle>２．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２．別表第２により作成した様式第２の託送資産明細書及び１．の規定により作成した様式第３第１表の超過利潤計算書を基に、次の方法により様式第３第２表の超過利潤累積額管理表を作成すること。ただし、承認事業者については、（５）から（８）までは整理することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">別表第２により作成した様式第２の託送資産明細書及び１．の規定により作成した様式第３第１表の超過利潤計算書を基に、次の方法により様式第３第２表の超過利潤累積額管理表を作成すること。ただし、承認事業者については、（５）から（８）までは整理することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>（１）</Subitem1Title>
@@ -884,16 +903,16 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="4">
-        <ItemTitle/>
+      <Item Num="3">
+        <ItemTitle>３．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">３．ガス事業法施行規則様式第６０第６表に掲げる導管（供給管を除く。）に係る投資額（高圧及び中圧のものに限る。）について、様式第３第３表の導管投資額明細表を作成すること。ただし、特定ガス導管事業者にあっては、特定導管（ガス事業法施行規則第１条第２項第８号ニに該当するものを除く。）に係る投資額について、様式第３第３表の特定導管投資額明細表を作成すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ガス事業法施行規則様式第６０第６表に掲げる導管（供給管を除く。）に係る投資額（高圧及び中圧のものに限る。）について、様式第３第３表の導管投資額明細表を作成すること。ただし、特定ガス導管事業者にあっては、特定導管（ガス事業法施行規則第１条第２項第８号ニに該当するものを除く。）に係る投資額について、様式第３第３表の特定導管投資額明細表を作成すること。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="5">
-        <ItemTitle/>
+      <Item Num="4">
+        <ItemTitle>４．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">４．１．の規定により作成した様式第３第１表の超過利潤計算書及び３．の規定により作成した導管投資額明細表（ただし、特定ガス導管事業者にあっては、特定導管投資額明細表）を基に、次の方法により様式第３第４表の内部留保相当額管理表を作成すること。ただし、承認事業者については、（２）及び（３）は整理することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">１．の規定により作成した様式第３第１表の超過利潤計算書及び３．の規定により作成した導管投資額明細表（ただし、特定ガス導管事業者にあっては、特定導管投資額明細表）を基に、次の方法により様式第３第４表の内部留保相当額管理表を作成すること。ただし、承認事業者については、（２）及び（３）は整理することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>（１）</Subitem1Title>
@@ -914,10 +933,10 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="6">
-        <ItemTitle/>
+      <Item Num="5">
+        <ItemTitle>５．</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">５．託送供給約款の料金を設定した際に定めた原価算定期間又は原資算定期間が終了した事業者は、１．の規定により作成された様式第３第１表の超過利潤計算書を基に、様式第３第５表の乖離率計算書を作成すること。ただし、承認事業者については、作成することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">託送供給約款の料金を設定した際に定めた原価算定期間又は原資算定期間が終了した事業者は、１．の規定により作成された様式第３第１表の超過利潤計算書を基に、様式第３第５表の乖離率計算書を作成すること。ただし、承認事業者については、作成することを要しない。なお、地域別託送供給約款料金を設定している一般ガス導管事業者にあっては、複数の地域ごとに、特定導管別託送供給約款料金を設定している特定ガス導管事業者にあっては、特定導管等ごとに作成すること。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>（１）</Subitem1Title>
@@ -956,8 +975,12 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -966,7 +989,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -975,7 +998,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３</AppdxStyleTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -984,7 +1007,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４</AppdxStyleTitle>
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
