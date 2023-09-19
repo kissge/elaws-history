@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="026" Year="17" PromulgateMonth="03" PromulgateDay="29">
-  <LawNum>平成十七年国土交通省令第二十六号</LawNum>
-  <LawBody>
-    <LawTitle Kana="こくどこうつうしょうのしょかんするほうれいにかかるみんかんじぎょうしゃとうがおこなうしょめんのほぞんとうにおけるじょうほうつうしんのぎじゅつのりようにかんするほうりつせこうきそく" Abbrev="" AbbrevKana="">国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="026" Year="17" PromulgateMonth="03" PromulgateDay="29"><LawNum>平成十七年国土交通省令第二十六号</LawNum><LawBody><LawTitle Kana="こくどこうつうしょうのしょかんするほうれいにかかるみんかんじぎょうしゃとうがおこなうしょめんのほぞんとうにおけるじょうほうつうしんのぎじゅつのりようにかんするほうりつせこうきそく" Abbrev="" AbbrevKana="">国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則</LawTitle>
     <EnactStatement>民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律（平成十六年法律第百四十九号）第三条第一項、第四条第一項及び第三項、第五条第一項並びに第六条第一項並びに民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行令（平成十七年政令第八号）第二条第一項の規定に基づき、国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -730,7 +727,20 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和五年九月一日国土交通省令第六七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和五年十月一日（次条及び附則第三条において「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第三条及び第四条関係）</RelatedArticleNum>
       <TableStruct>
@@ -1244,7 +1254,7 @@
               <Sentence Num="1" WritingMode="vertical">宅地建物取引業法施行規則（昭和三十二年建設省令第十二号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第十条の十一第四項及び第二十六条第三項</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の十一第四項、第十三条の二十九第四項及び第二十六条第三項</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1522,7 +1532,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第五条及び第六条関係）</RelatedArticleNum>
       <TableStruct>
@@ -2098,7 +2108,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第八条及び第九条関係）</RelatedArticleNum>
       <TableStruct>
@@ -2474,7 +2484,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第十条及び第十一条関係）</RelatedArticleNum>
       <TableStruct>
@@ -2757,6 +2767,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">第七条の二第一項</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">宅地建物取引業法施行規則</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">第十三条の二十一第十三号</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
