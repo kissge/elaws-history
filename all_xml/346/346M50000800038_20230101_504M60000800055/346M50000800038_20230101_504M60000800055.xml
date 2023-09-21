@@ -16498,12 +16498,19 @@
             </TableColumn>
           </TableRow>
         </Table>
-        <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">１　この表において「想定排出量」とは、次に掲げる量をいう。</Sentence>
-          <Sentence WritingMode="vertical">イ　この表中第一号の場合にあつては、当該船舶の総トン数に応じ、それぞれ次の表に掲げる量</Sentence>
-        </Remarks>
       </TableStruct>
+        <Remarks>
+          <RemarksLabel LineBreak="true">備考</RemarksLabel>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">この表において「想定排出量」とは、次に掲げる量をいう。</Sentence>
+        </ItemSentence>
+        <Subitem1 Num="1">
+          <Subitem1Title>イ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">この表中第一号の場合にあつては、当該船舶の総トン数に応じ、それぞれ次の表に掲げる量</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -16566,12 +16573,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>ロ</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">この表中第二号の場合にあつては、当該施設で保管することができる特定油の量に応じ、それぞれ次の表に掲げる量</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>ロ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">この表中第二号の場合にあつては、当該施設で保管することができる特定油の量に応じ、それぞれ次の表に掲げる量</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -16628,11 +16635,13 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>ハ</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">この表中第三号の場合にあつては、当該管理者の管理する係留施設に係留することができる最大の船舶の総トン数に応じ、それぞれイの表に掲げる量</Sentence>
-        </ItemSentence>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>ハ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">この表中第三号の場合にあつては、当該管理者の管理する係留施設に係留することができる最大の船舶の総トン数に応じ、それぞれイの表に掲げる量</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
       </Item>
       <Item Num="2">
         <ItemTitle>２</ItemTitle>
@@ -16657,7 +16666,8 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">この表中第三号の数量の欄に掲げる数量（油処理剤、油吸着材又は油ゲル化剤に係るものに限る。）は、法第三十九条の三第三号に規定する係留施設の管理者が当該係留施設の所在する港の区域（港則法に基づく港の区域（港則法施行規則（昭和二十三年運輸省令第二十九号）別表第一の港の名称の欄に掲げる港にあつては、同表の境界の欄に掲げる区域）をいう。）において他の同号に規定する係留施設を管理している場合にあつては、その者について、これらの係留施設に係る特定油防除資材の数量のうちいずれか大きい数量とする。</Sentence>
         </ItemSentence>
-      </Item>
+</Item>
+        </Remarks>
     </AppdxTable>
     <AppdxTable Num="3">
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>

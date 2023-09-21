@@ -2743,8 +2743,6 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">専門職学科以外の学科に係るもの</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3139,14 +3137,14 @@
               <Sentence Num="1" WritingMode="vertical">学部等連係課程実施基本組織における基幹教員数は、当該学部等連係課程実施基本組織を一学科で組織する学部とみなしてこの表の中欄から算出される基幹教員数とする。</Sentence>
             </ItemSentence>
           </Item>
-          <Item Num="13">
-            <ItemTitle>（２）</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">専門職学科に係るもの</Sentence>
-            </ItemSentence>
-          </Item>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>（２）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">専門職学科に係るもの</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3647,8 +3645,14 @@
           </Item>
         </Remarks>
       </TableStruct>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>ロ</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医学又は歯学に関する学部に係る基幹教員数</Sentence>
+              </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">ロ　医学又は歯学に関する学部に係る基幹教員数</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3762,6 +3766,7 @@
           </Item>
         </Remarks>
       </TableStruct>
+            </Item>
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
@@ -3845,8 +3850,6 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">専門職学部以外の学部に係る基準校舎面積</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4185,14 +4188,14 @@
               <Sentence Num="1" WritingMode="vertical">この表に定める面積は、専用部分の面積とする。ただし、当該大学と他の学校、就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律第二条第七項に規定する幼保連携型認定こども園、専修学校又は各種学校（以下この号において「学校等」という。）が同一の敷地内又は隣接地に所在する場合であつて、それぞれの学校等の校舎の専用部分の面積及び共用部分の面積を合算した面積が、それぞれの学校等が設置の認可を受ける場合において基準となる校舎の面積を合算した面積以上のものであるときは、当該大学の教育研究に支障がない限度において、この表に定める面積に当該学校等との共用部分の面積を含めることができる（（２）、ロ並びにハ（１）及び（２）の表において同じ。）。</Sentence>
             </ItemSentence>
           </Item>
-          <Item Num="7">
-            <ItemTitle>（２）</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">専門職学部に係る基準校舎面積</Sentence>
-            </ItemSentence>
-          </Item>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>（２）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">専門職学部に係る基準校舎面積</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4540,8 +4543,14 @@
           </Item>
         </Remarks>
       </TableStruct>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>ロ</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医学又は歯学に関する学部に係る校舎の面積</Sentence>
+              </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">ロ　医学又は歯学に関する学部に係る校舎の面積</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="none" BorderTop="solid">
@@ -4689,6 +4698,7 @@
           <Sentence Num="1" WritingMode="vertical">この表に定める面積は、医学又は歯学に関する学科のみを置く場合に係る面積とし、その他の学科を置く場合に係る面積については、医学又は歯学に関する学科についてこの表に定める面積と当該医学又は歯学に関する学科以外の学科についてイ（１）又は（２）の表に定める面積の合計とする。</Sentence>
           </Remarks>
         </TableStruct>
+      </Item>
       <Item Num="3">
         <ItemTitle>ハ</ItemTitle>
         <ItemSentence>
@@ -5316,8 +5326,6 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">専門職学部に係る加算校舎面積</Sentence>
           </Subitem1Sentence>
-            </Subitem1>
-          </Item>
           <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -5938,6 +5946,8 @@
           </TableRow>
         </Table>
       </TableStruct>
+              </Subitem1>
+            </Item>
     </AppdxTable>
   </LawBody>
 </Law>
