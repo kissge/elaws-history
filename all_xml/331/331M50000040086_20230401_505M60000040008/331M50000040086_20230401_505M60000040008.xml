@@ -1841,7 +1841,7 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行し、平成五年度から適用する。</Sentence>
-          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「母子福祉資金貸付金債権　寡婦福祉資金貸付金債権」を「母子寡婦福祉貸付金債権」に改める部分は、平成六年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「／母子福祉資金貸付金債権／寡婦福祉資金貸付金債権／」を「母子寡婦福祉貸付金債権」に改める部分は、平成六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1866,7 +1866,7 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行し、平成六年度から適用する。</Sentence>
-          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「恩給法納付金債権」を「恩給法納付金債権　輸入麦等納付金債権」に改める部分は、平成七年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「恩給法納付金債権」を「／恩給法納付金債権／輸入麦等納付金債権／」に改める部分は、平成七年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1912,7 +1912,7 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行し、平成九年度から適用する。</Sentence>
-          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「海上災害防止センター貸付金債権」を「海上災害防止センター貸付金債権　日本国有鉄道清算事業団特定無利子貸付金債権」に改める部分は、平成十年三月三十一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「海上災害防止センター貸付金債権」を「／海上災害防止センター貸付金債権／日本国有鉄道清算事業団特定無利子貸付金債権／」に改める部分は、平成十年三月三十一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1975,7 +1975,7 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行し、平成十一年度から適用する。</Sentence>
-          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「小企業等経営改善資金貸付金債権」を「小企業等経営改善資金貸付金債権　小規模企業者等設備導入資金貸付金債権」に改める部分は、平成十二年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「小企業等経営改善資金貸付金債権」を「／小企業等経営改善資金貸付金債権／小規模企業者等設備導入資金貸付金債権／」に改める部分は、平成十二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -2488,7 +2488,7 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成二十七年四月一日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「災害等廃棄物処理事業費地方負担金債権」を「災害等廃棄物処理事業費地方負担金債権　原子力損害賠償負担金債権」に改める部分は原子力損害の補完的な補償に関する条約の実施に伴う原子力損害賠償資金の補助等に関する法律（平成二十六年法律第百三十三号）の施行の日から、「少年院等補導作業費債権」を「少年院等職業指導及び職業補導作業費債権」に改める部分は少年院法（平成二十六年法律第五十八号）の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「災害等廃棄物処理事業費地方負担金債権」を「／災害等廃棄物処理事業費地方負担金債権／原子力損害賠償負担金債権／」に改める部分は原子力損害の補完的な補償に関する条約の実施に伴う原子力損害賠償資金の補助等に関する法律（平成二十六年法律第百三十三号）の施行の日から、「少年院等補導作業費債権」を「少年院等職業指導及び職業補導作業費債権」に改める部分は少年院法（平成二十六年法律第五十八号）の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -2599,14 +2599,22 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">債権の発生年度区分</Sentence>
         </ItemSentence>
       </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -2660,21 +2668,32 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第十一条第二項の規定による債権の種類</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="2">
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <Item Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">歳入金に係る債権</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="3">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">財政法（昭和二十二年法律第三十四号）第二十三条の規定により毎会計年度の歳入予算について定められた科目の区分に従い、部、款及び項（特別会計に属する債権にあつては、款及び項）に区分し、更に、債権の性質に従い、次に掲げるところによるものの外、各省各庁の長が財務大臣に協議して定めるところにより目に区分する。</Sentence>
@@ -4600,18 +4619,30 @@
           </Subitem2>
         </Subitem1>
       </Item>
-      <Item Num="4">
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      </Item>
+      <Item Num="2">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">歳入金に係る債権以外の債権（三及び四に掲げるものを除く。）</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="5">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">次に掲げるところにより部、款、項及び目に区分する。</Sentence>
         </ItemSentence>
       </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4702,18 +4733,26 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+      </Item>
+      <Item Num="3">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特別調達資金に属する債権</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="2">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">次に掲げるところにより部、款及び項に区分し、更に、防衛大臣が財務大臣に協議して定めるところにより目に区分する。</Sentence>
         </ItemSentence>
       </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4780,18 +4819,26 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+      </Item>
+      <Item Num="4">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">貨幣回収準備資金に属する債権</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="2">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">次に掲げるところにより、部、款、項及び目に区分する。</Sentence>
         </ItemSentence>
       </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4842,34 +4889,54 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第四十一条の規定による債権の種類</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="2">
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <Item Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">歳入金に係る債権</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="3">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">別表第二中歳入金に係る債権に関する規定に準じて、款、項及び目に区分する。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="4">
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      </Item>
+      <Item Num="2">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">歳入金に係る債権以外の債権</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="5">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">次に掲げるところにより部、款及び項又は款及び項に区分し、更に、各省各庁の長が財務大臣に協議して定めるところにより目に区分する。</Sentence>
@@ -4879,8 +4946,6 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">国税収納金整理資金に属する債権</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4947,12 +5012,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>２</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">財政融資資金に属する債権</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>２</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">財政融資資金に属する債権</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4982,12 +5047,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>３</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">外国為替資金に属する債権</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>３</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">外国為替資金に属する債権</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -5016,12 +5081,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>４</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">年金特別会計の国民年金勘定の積立金に属する債権</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="4">
+          <Subitem1Title>４</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">年金特別会計の国民年金勘定の積立金に属する債権</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -5048,12 +5113,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>５</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">年金特別会計の厚生年金勘定の積立金に属する債権</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="5">
+          <Subitem1Title>５</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">年金特別会計の厚生年金勘定の積立金に属する債権</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -5080,16 +5145,31 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">債権管理簿の記載又は記録の方法に関し必要な事項</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="2">
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <Item Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">債権管理簿には、法第十一条第一項及び令第十条の規定により記載し、又は記録する事項のほか、次に掲げる日付を記載し、又は記録するものとする。</Sentence>
@@ -5125,25 +5205,25 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="3">
+      <Item Num="2">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">同一の発生年度若しくは種類に属する債権又は同一の発生原因に基づいて発生した債権をその他の債権と区分して整理することとなつている債権管理簿においては、債権の発生年度若しくは種類又は発生原因を当該債権管理簿の表紙又は見出しに記載し、又は記録することができる。同一の種類に属する債権をその他の債権と区分して整理することとしている債権管理簿において、利息に関する事項、延滞金に関する事項その他債権管理簿に記載し、又は記録すべき事項の内容が当該種類に属するすべての債権について同一である場合におけるこれらの事項の記載又は記録についても同様とする。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="4">
+      <Item Num="3">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">利息、延滞金又は一定の期間に応じて付する加算金に係る債権は、予算決算及び会計令第百三十一条に規定する徴収簿又は歳入徴収官事務規程第四十一条に規定する徴収整理簿を債権管理簿として使用する場合を除き、これを付することとなつている債権と併せて記載し、又は記録するものとする。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="5">
+      <Item Num="4">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">債権の種類は、略称又は符号をもつて表示することができる。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="6">
+      <Item Num="5">
         <ItemTitle>五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">歳入徴収官等は、１に掲げる減少額については、債権金額の減額整理をするため法第十一条第一項後段の規定により調査確認の上、変更の記載又は記録をするものとし、２又は３に掲げる減少額については、同条第二項の規定により債権の消滅の記載又は記録をするものとする。この場合において、債権管理簿には、これらの減少額をそれぞれ区分して整理しなければならない。</Sentence>
@@ -5191,32 +5271,32 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="7">
+      <Item Num="6">
         <ItemTitle>六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">債権管理簿への記録は、記録に必要な事項を電子情報処理組織（歳入徴収官事務規程第二十一条の三第一項及び支出官事務規程第十一条第二項第五号に規定する電子情報処理組織をいう。第九号において同じ。）に記録する方法により行うものとする。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="8">
+      <Item Num="7">
         <ItemTitle>七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">前号の場合において、法第十一条の規定により歳入金に係る債権について調査確認をしたとき、又は当該調査確認に係る事項に変更があつたときは、債務者の住所及び氏名又は名称、債権金額並びに履行期限その他債権の調査確認に関する事項並びに当該債権に係る歳入の徴収に必要とされる事項を記録するものとする。当該債権について必要な措置をとり、又は当該債権が消滅したときも、同様とする。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="9">
+      <Item Num="8">
         <ItemTitle>八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">前号の規定により債権の調査確認に関する事項及び当該債権に係る歳入の徴収に必要とされる事項を記録する場合には、翌年度以後において調査確認することとなる債権の当該調査確認に必要とされる事項及び当該債権に係る歳入の徴収に必要とされる事項を併せて記録するものとする。</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="10">
+      <Item Num="9">
         <ItemTitle>九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">前三号の場合において、必要な事項が既に電子情報処理組織に記録されているときは、当該事項を重ねて記録することを要しない。</Sentence>
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxFormat Num="1">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5224,7 +5304,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5232,7 +5312,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5240,7 +5320,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="4">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5248,7 +5328,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="5">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第５号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5256,7 +5336,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="5_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第５号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5264,7 +5344,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="6">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5272,7 +5352,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="7">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第７号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5280,7 +5360,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="8">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5288,7 +5368,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="9">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5296,11 +5376,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="10">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１０号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="11">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5308,7 +5388,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="12">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5316,7 +5396,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="13">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
