@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="040" Year="02" PromulgateMonth="06" PromulgateDay="29"><LawNum>平成二年厚生省令第四十号</LawNum><LawBody><LawTitle Kana="しょくちょうしょりのじぎょうのきせいおよびしょくちょうけんさにかんするほうりつしこうきそく" Abbrev="食鳥処理法施行規則,食鳥検査法施行規則" AbbrevKana="し,し">食鳥処理の事業の規制及び食鳥検査に関する法律施行規則</LawTitle><EnactStatement>食鳥処理の事業の規制及び食鳥検査に関する法律（平成二年法律第七十号）第十二条第三項第四号の規定に基づき、食鳥処理の事業の規制及び食鳥検査に関する法律施行規則を次のように定める。</EnactStatement>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="040" Year="02" PromulgateMonth="06" PromulgateDay="29"><LawNum>平成二年厚生省令第四十号</LawNum><LawBody><LawTitle Kana="しょくちょうしょりのじぎょうのきせいおよびしょくちょうけんさにかんするほうりつしこうきそく" Abbrev="食鳥処理法施行規則,食鳥検査法施行規則" AbbrevKana="し,し">食鳥処理の事業の規制及び食鳥検査に関する法律施行規則</LawTitle>
+    <EnactStatement>食鳥処理の事業の規制及び食鳥検査に関する法律（平成二年法律第七十号）第十二条第三項第四号の規定に基づき、食鳥処理の事業の規制及び食鳥検査に関する法律施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1233,8 +1234,12 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">消毒</Sentence>
-                <Sentence Num="2" WritingMode="vertical">法第十五条第四項各号に掲げる疾病又は異常を有することにより病原体を伝染させるおそれがあると判定された食鳥、食鳥とたい、食鳥中抜とたい若しくは食鳥肉等にあっては、当該食鳥を隔離し、若しくは当該食鳥とたい、食鳥中抜とたい若しくは食鳥肉等を消毒し、又は病原体に汚染され、若しくは汚染されたおそれのある食鳥処理場の施設若しくは設備を消毒する等の病原体の伝染を防止するために必要な措置</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第十五条第四項各号に掲げる疾病又は異常を有することにより病原体を伝染させるおそれがあると判定された食鳥、食鳥とたい、食鳥中抜とたい若しくは食鳥肉等にあっては、当該食鳥を隔離し、若しくは当該食鳥とたい、食鳥中抜とたい若しくは食鳥肉等を消毒し、又は病原体に汚染され、若しくは汚染されたおそれのある食鳥処理場の施設若しくは設備を消毒する等の病原体の伝染を防止するために必要な措置</Sentence>
+                </ListSentence>
+              </List>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
@@ -1246,8 +1251,12 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">食鳥の生体の状況の確認の結果に基づく措置</Sentence>
-                <Sentence Num="2" WritingMode="vertical">別表第九の基準に適合しない食鳥にあっては、とさつを禁止するとともに、当該食鳥の廃棄等の措置</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">別表第九の基準に適合しない食鳥にあっては、とさつを禁止するとともに、当該食鳥の廃棄等の措置</Sentence>
+                </ListSentence>
+              </List>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
@@ -1289,8 +1298,12 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">消毒</Sentence>
-                <Sentence Num="2" WritingMode="vertical">必要に応じて、食鳥を隔離し、又は食鳥とたい、食鳥中抜とたい若しくは食鳥肉等又は食鳥処理場の施設若しくは設備を消毒する措置</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">必要に応じて、食鳥を隔離し、又は食鳥とたい、食鳥中抜とたい若しくは食鳥肉等又は食鳥処理場の施設若しくは設備を消毒する措置</Sentence>
+                </ListSentence>
+              </List>
             </Item>
           </Paragraph>
         </Article>
@@ -2247,7 +2260,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2256,7 +2269,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>（第三十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2265,7 +2278,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号</AppdxStyleTitle>
       <RelatedArticleNum>（第三十五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2274,7 +2287,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
       <RelatedArticleNum>（第三十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2283,7 +2296,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2292,7 +2305,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2301,7 +2314,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2310,7 +2323,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2319,7 +2332,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2328,7 +2341,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2337,7 +2350,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十一号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2346,7 +2359,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十二号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2355,7 +2368,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十三号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2364,7 +2377,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条の二関係）</RelatedArticleNum>
       <Item Num="1">
@@ -2764,7 +2777,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第二条の二関係）</RelatedArticleNum>
       <Item Num="1">
@@ -2996,7 +3009,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第四条第一項関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3498,7 +3511,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第四条第二項関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3506,147 +3519,147 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">危害要因の分析</Sentence>
         </ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">食鳥処理に必要な工程ごとに、食品衛生上の危害を発生させ得る要因（以下この表において「危害要因」という。）の一覧表を作成し、これらの危害要因を管理するための措置（以下「管理措置」という。）を定めること。</Sentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
       <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食鳥処理に必要な工程ごとに、食品衛生上の危害を発生させ得る要因（以下この表において「危害要因」という。）の一覧表を作成し、これらの危害要因を管理するための措置（以下「管理措置」という。）を定めること。</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="3">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">重要管理点の決定</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="4">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">前号で特定された危害要因につき、その発生を防止し、排除し、又は許容できる水準にまで低減するために管理措置を講ずることが不可欠な工程（以下この表において「重要管理点」という。）を決定すること。</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="5">
+      <Item Num="3">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">管理基準の設定</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="6">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">個々の重要管理点における危害要因につき、その発生を防止し、排除し、又は許容できる水準にまで低減するための基準（以下この表において「管理基準」という。）を設定すること。</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="7">
+      <Item Num="4">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">モニタリング方法の設定</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="8">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">重要管理点の管理について、連続的な又は相当の頻度による実施状況の把握（以下この表において「モニタリング」という。）をするための方法を設定すること。</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="9">
+      <Item Num="5">
         <ItemTitle>五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">改善措置の設定</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="10">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">個々の重要管理点において、モニタリングの結果、管理基準を逸脱したことが判明した場合の改善措置を設定すること。</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="11">
+      <Item Num="6">
         <ItemTitle>六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">検証方法の設定</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="12">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">前各号に規定する措置の内容の効果を、定期的に検証するための手順を定めること。</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="13">
+      <Item Num="7">
         <ItemTitle>七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">記録の作成</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="14">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">食鳥処理の事業の規模や業態に応じて、前各号に規定する措置の内容に関する書面とその実施の記録を作成すること。</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="15">
+      <Item Num="8">
         <ItemTitle>八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">法第十六条第一項の認定を受けた食鳥処理業者の取組</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="16">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">法第十六条第一項の認定を受けた食鳥処理業者にあっては、前各号に規定する事項を簡略化して公衆衛生上必要な措置を行うことができる。</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="5">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五</AppdxTableTitle>
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">学科</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">科目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">化学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">分析化学、有機化学、無機化学</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">生物化学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">生物化学、食品化学、生理学、食品分析学、毒性学</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">微生物学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">微生物学、食品微生物学、食品保存学、食品製造学</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">公衆衛生学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">公衆衛生学、食品衛生学、環境衛生学、衛生行政学、疫学</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="6">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第六</AppdxTableTitle>
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3656,7 +3669,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="7">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第七</AppdxTableTitle>
       <RelatedArticleNum>（第二十五条、第二十七条、第三十三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3666,7 +3679,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="8">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第八</AppdxTableTitle>
       <RelatedArticleNum>（第二十八条、第二十九条、第三十条、第三十三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3776,8 +3789,11 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">食鳥中抜とたい</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="3">
+                          <TableStruct>
+                            <Table WritingMode="vertical">
+                              <TableRow>
+                                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">次のような異常が認められないこと。</Sentence>
@@ -3807,6 +3823,11 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
+                                </TableColumn>
+                              </TableRow>
+                          </Table>
+                        </TableStruct>
+      </Item>
       <Item Num="3">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
@@ -3817,217 +3838,250 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">肝臓</Sentence>
           </Subitem1Sentence>
+                          <TableStruct>
+                            <Table WritingMode="vertical">
+                              <TableRow>
+                                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+        <Item Num="1">
+          <ItemTitle/>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">次のような異常が認められないこと。</Sentence>
+          </ItemSentence>
+          <Subitem1 Num="1">
+            <Subitem1Title>（１）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">ゼラチン状又はチーズ状の浸出物で覆われているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>（２）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">表面が不規則な凹凸を呈するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="3">
+            <Subitem1Title>（３）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">表面が網目模様を呈するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="4">
+            <Subitem1Title>（４）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">緑色、青色、桃色等正常と異なる色彩を呈するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="5">
+            <Subitem1Title>（５）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">著しく<Ruby>腫<Rt>しゆ</Rt></Ruby>大しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="6">
+            <Subitem1Title>（６）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">著しく<Ruby>脆<Rt>もろ</Rt></Ruby>くなっているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="7">
+            <Subitem1Title>（７）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">硬化しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="8">
+            <Subitem1Title>（８）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">血<Ruby>腫<Rt>しゆ</Rt></Ruby>又は多数の出血<Ruby>斑<Rt>はん</Rt></Ruby>を有するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="9">
+            <Subitem1Title>（９）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">白色又は黄色の病巣を有するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+      </Item>
+                                </TableColumn>
+                              </TableRow>
+                          </Table>
+      <Remarks>
+        <RemarksLabel>（注）</RemarksLabel>
+          <Sentence Num="1" WritingMode="vertical">正常な肝臓は均一の色（赤褐色）と硬さを有し、大きさ（体重比）はほぼ一定している。</Sentence>
+      </Remarks>
+                        </TableStruct>
         </Subitem1>
         <Subitem1 Num="2">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">次のような異常が認められないこと。</Sentence>
-          </Subitem1Sentence>
-          <Subitem2 Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">ゼラチン状又はチーズ状の浸出物で覆われているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">表面が不規則な凹凸を呈するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="3">
-            <Subitem2Title>（３）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">表面が網目模様を呈するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="4">
-            <Subitem2Title>（４）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">緑色、青色、桃色等正常と異なる色彩を呈するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="5">
-            <Subitem2Title>（５）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">著しく<Ruby>腫<Rt>しゆ</Rt></Ruby>大しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="6">
-            <Subitem2Title>（６）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">著しく<Ruby>脆<Rt>もろ</Rt></Ruby>くなっているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="7">
-            <Subitem2Title>（７）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">硬化しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="8">
-            <Subitem2Title>（８）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">血<Ruby>腫<Rt>しゆ</Rt></Ruby>又は多数の出血<Ruby>斑<Rt>はん</Rt></Ruby>を有するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="9">
-            <Subitem2Title>（９）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">白色又は黄色の病巣を有するもの</Sentence>
-            </Subitem2Sentence>
-            <List>
-              <ListSentence>
-                <Sentence WritingMode="vertical">（注）　正常な肝臓は均一の色（赤褐色）と硬さを有し、大きさ（体重比）はほぼ一定している。</Sentence>
-              </ListSentence>
-            </List>
-          </Subitem2>
-        </Subitem1>
-        <Subitem1 Delete="false" Hide="false" Num="2">
           <Subitem1Title>ロ</Subitem1Title>
           <Subitem1Sentence>
-            <Column LineBreak="true" Num="1">
-              <Sentence WritingMode="vertical"><Ruby>脾<Rt>ひ</Rt></Ruby>臓</Sentence>
-            </Column>
-            <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">次のような異常が認められないこと。</Sentence>
-            </Column>
+            <Sentence Num="1" WritingMode="vertical"><Ruby>脾<Rt>ひ</Rt></Ruby>臓</Sentence>
           </Subitem1Sentence>
-          <Subitem2 Delete="false" Hide="false" Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">肥厚した被膜を有するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence><Sentence WritingMode="vertical">白色又は黄色の病巣を有するか又は著しく<Ruby>腫<Rt>しゆ</Rt></Ruby>大しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="3">
-            <Subitem2Title>（３）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical"><Ruby>脆<Rt>もろ</Rt></Ruby>くなっているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="4">
-            <Subitem2Title>（４）</Subitem2Title>
-            <Subitem2Sentence>
-              <Column LineBreak="true" Num="1"><Sentence WritingMode="vertical">著しく<Ruby>萎<Rt>い</Rt></Ruby>縮しているもの</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">（注）　正常な<Ruby>脾<Rt>ひ</Rt></Ruby>臓は暗赤褐色で、ときに深赤色又は桃色のものもある。大きさは多様で比較的硬い。</Sentence>
-              </Column>
-            </Subitem2Sentence>
-          </Subitem2>
+                          <TableStruct>
+                            <Table WritingMode="vertical">
+                              <TableRow>
+                                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+        <Item Num="1">
+          <ItemTitle/>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">次のような異常が認められないこと。</Sentence>
+          </ItemSentence>
+          <Subitem1 Num="1">
+            <Subitem1Title>（１）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">肥厚した被膜を有するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>（２）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">白色又は黄色の病巣を有するか又は著しく<Ruby>腫<Rt>しゆ</Rt></Ruby>大しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="3">
+            <Subitem1Title>（３）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical"><Ruby>脆<Rt>もろ</Rt></Ruby>くなっているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="4">
+            <Subitem1Title>（４）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">著しく<Ruby>萎<Rt>い</Rt></Ruby>縮しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+      </Item>
+                                </TableColumn>
+                              </TableRow>
+                          </Table>
+      <Remarks>
+        <RemarksLabel>（注）</RemarksLabel>
+          <Sentence Num="1" WritingMode="vertical">正常な<Ruby>脾<Rt>ひ</Rt></Ruby>臓は暗赤褐色で、ときに深赤色又は桃色のものもある。大きさは多様で比較的硬い。</Sentence>
+      </Remarks>
+                        </TableStruct>
         </Subitem1>
-        <Subitem1 Delete="false" Hide="false" Num="3">
+        <Subitem1 Num="3">
           <Subitem1Title>ハ</Subitem1Title>
           <Subitem1Sentence>
-            <Column LineBreak="true" Num="1">
-              <Sentence WritingMode="vertical">心臓</Sentence>
-            </Column>
-            <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">次のような異常が認められないこと。</Sentence>
-            </Column>
+            <Sentence Num="1" WritingMode="vertical">心臓</Sentence>
           </Subitem1Sentence>
-          <Subitem2 Delete="false" Hide="false" Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">心<Ruby>嚢<Rt>のう</Rt></Ruby>の著しく肥厚しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">心臓と心<Ruby>嚢<Rt>のう</Rt></Ruby>が癒着しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="3">
-            <Subitem2Title>（３）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">心<Ruby>嚢<Rt>のう</Rt></Ruby>水中に線維素又はチーズ様物を有するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="4">
-            <Subitem2Title>（４）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">心<Ruby>嚢<Rt>のう</Rt></Ruby>水が著しく増大しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="5">
-            <Subitem2Title>（５）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">心臓が著しく肥大又は拡張しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="6">
-            <Subitem2Title>（６）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">脂肪組織に点状出血を呈するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="7">
-            <Subitem2Title>（７）</Subitem2Title>
-            <Subitem2Sentence>
-              <Column LineBreak="true" Num="1">
-                <Sentence WritingMode="vertical">白色ないし黄色の病巣を有するもの</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">（注）　正常な心臓は心<Ruby>嚢<Rt>のう</Rt></Ruby>内にあり、その基部は脂肪に富んでおり、基部心冠部及び心<Ruby>尖<Rt>せん</Rt></Ruby>部に脂肪組織を有する。</Sentence>
-              </Column>
-            </Subitem2Sentence>
-          </Subitem2>
+                          <TableStruct>
+                            <Table WritingMode="vertical">
+                              <TableRow>
+                                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+        <Item Num="1">
+          <ItemTitle/>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">次のような異常が認められないこと。</Sentence>
+          </ItemSentence>
+          <Subitem1 Num="1">
+            <Subitem1Title>（１）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">心<Ruby>嚢<Rt>のう</Rt></Ruby>の著しく肥厚しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>（２）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">心臓と心<Ruby>嚢<Rt>のう</Rt></Ruby>が癒着しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="3">
+            <Subitem1Title>（３）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">心<Ruby>嚢<Rt>のう</Rt></Ruby>水中に線維素又はチーズ様物を有するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="4">
+            <Subitem1Title>（４）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">心<Ruby>嚢<Rt>のう</Rt></Ruby>水が著しく増大しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="5">
+            <Subitem1Title>（５）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">心臓が著しく肥大又は拡張しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="6">
+            <Subitem1Title>（６）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">脂肪組織に点状出血を呈するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="7">
+            <Subitem1Title>（７）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">白色ないし黄色の病巣を有するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+      </Item>
+                                </TableColumn>
+                              </TableRow>
+                          </Table>
+      <Remarks>
+        <RemarksLabel>（注）</RemarksLabel>
+          <Sentence Num="1" WritingMode="vertical">正常な心臓は心<Ruby>嚢<Rt>のう</Rt></Ruby>内にあり、その基部は脂肪に富んでおり、基部心冠部及び心<Ruby>尖<Rt>せん</Rt></Ruby>部に脂肪組織を有する。</Sentence>
+      </Remarks>
+                        </TableStruct>
         </Subitem1>
-        <Subitem1 Delete="false" Hide="false" Num="4">
+        <Subitem1 Num="4">
           <Subitem1Title>ニ</Subitem1Title>
           <Subitem1Sentence>
-            <Column LineBreak="true" Num="1">
-              <Sentence WritingMode="vertical"><Ruby>腎<Rt>じん</Rt></Ruby>臓</Sentence>
-            </Column>
-            <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">次のような異常が認められないこと。</Sentence>
-            </Column>
+            <Sentence Num="1" WritingMode="vertical"><Ruby>腎<Rt>じん</Rt></Ruby>臓</Sentence>
           </Subitem1Sentence>
-          <Subitem2 Delete="false" Hide="false" Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">著しく<Ruby>腫<Rt>しゆ</Rt></Ruby>大しているもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">大きな又は多数の<Ruby>嚢腫<Rt>のうしゆ</Rt></Ruby>を有するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="3">
-            <Subitem2Title>（３）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence WritingMode="vertical">白色の病巣を有するもの</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Delete="false" Hide="false" Num="4">
-            <Subitem2Title>（４）</Subitem2Title>
-            <Subitem2Sentence>
-              <Column LineBreak="true" Num="1">
-                <Sentence WritingMode="vertical">白色微細な沈着物が密集しているもの</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">（注）　正常な<Ruby>腎<Rt>じん</Rt></Ruby>臓は深赤色で、放血の完全なものでは、桃色ないし黄土色を呈することもある。</Sentence>
-              </Column>
-            </Subitem2Sentence>
-          </Subitem2>
+                          <TableStruct>
+                            <Table WritingMode="vertical">
+                              <TableRow>
+                                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+        <Item Num="1">
+          <ItemTitle/>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">次のような異常が認められないこと。</Sentence>
+          </ItemSentence>
+          <Subitem1 Num="1">
+            <Subitem1Title>（１）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">著しく<Ruby>腫<Rt>しゆ</Rt></Ruby>大しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>（２）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">大きな又は多数の<Ruby>嚢腫<Rt>のうしゆ</Rt></Ruby>を有するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="3">
+            <Subitem1Title>（３）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">白色の病巣を有するもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="4">
+            <Subitem1Title>（４）</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1" WritingMode="vertical">白色微細な沈着物が密集しているもの</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+      </Item>
+                                </TableColumn>
+                              </TableRow>
+                          </Table>
+      <Remarks>
+        <RemarksLabel>（注）</RemarksLabel>
+          <Sentence Num="1" WritingMode="vertical">正常な<Ruby>腎<Rt>じん</Rt></Ruby>臓は深赤色で、放血の完全なものでは、桃色ないし黄土色を呈することもある。</Sentence>
+      </Remarks>
+                        </TableStruct>
         </Subitem1>
-        <Subitem1 Delete="false" Hide="false" Num="5">
+        <Subitem1 Num="5">
           <Subitem1Title>ホ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence WritingMode="vertical">その他の臓器に異常が認められないこと。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">その他の臓器に異常が認められないこと。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="9">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第九</AppdxTableTitle>
       <RelatedArticleNum>（第二十九条、第三十条、第三十三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -4067,7 +4121,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="10">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第十</AppdxTableTitle>
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -4077,120 +4131,120 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="11">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第十一</AppdxTableTitle>
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">疾病又は異常</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">部分</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">伝染性コリーザ（全身症状を呈しているものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">トキソプラズマ症を除く原虫病（全身にまん延しているものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">寄生虫病（全身にまん延しているものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">寄生虫及び寄生虫による病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">変性（全身性のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">尿酸塩沈着症（全身症状を呈しているものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">水<Ruby>腫<Rt>しゆ</Rt></Ruby>（高度のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">出血（全身性のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">炎症（全身性のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical"><Ruby>萎<Rt>い</Rt></Ruby>縮（全身性のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">マレック病及び鶏白血病を除く<Ruby>腫瘍<Rt>しゆよう</Rt></Ruby>（肉、臓器、骨又は皮の一部に局限されているものに限る。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">臓器の異常な形、大きさ、硬さ、色又はにおい（臓器の一部に局限されているものに限る。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該異常部分に係る臓器</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">外傷（全身性のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該病変部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">潤滑油又は炎性産物等による汚染（全身が汚染されたものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">当該汚染部分に係る肉、臓器、骨及び皮</Sentence>
             </TableColumn>
           </TableRow>
