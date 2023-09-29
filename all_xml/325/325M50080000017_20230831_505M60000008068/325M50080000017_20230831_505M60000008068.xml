@@ -2494,13 +2494,12 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">中波帯の周波数の電波を使用する場合</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="3">
-                  <ItemTitle/>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">Ａ二Ａ電波五〇〇ｋＨｚにより</Sentence>
+                    <Column LineBreak="true" Num="1">
+                      <Sentence Num="1" WritingMode="vertical">中波帯の周波数の電波を使用する場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">Ａ二Ａ電波五〇〇ｋＨｚにより</Sentence>
+                    </Column>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>（１）</Subitem1Title>
@@ -2556,20 +2555,14 @@
                         <Sentence Num="1" WritingMode="vertical">一回</Sentence>
                       </Column>
                     </Subitem1Sentence>
-                    <Subitem2 Num="1">
-                      <Subitem2Title/>
-                      <Subitem2Sentence>
+                    <List>
+                      <ListSentence>
                         <Sentence Num="1" WritingMode="vertical">直ちに（５）の周波数の電波に変更し</Sentence>
-                      </Subitem2Sentence>
-                    </Subitem2>
+                      </ListSentence>
+                    </List>
                   </Subitem1>
-                </Item>
-                <Item Num="4">
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical"/>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>（６）</Subitem1Title>
+                  <Subitem1 Num="6">
+        <Subitem1Title>（６）</Subitem1Title>
                     <Subitem1Sentence>
                       <Column Num="1">
                         <Sentence Num="1" WritingMode="vertical">ＶＶＶ</Sentence>
@@ -5497,12 +5490,13 @@
                 </Subitem1>
               </Item>
             </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定は、自営等広帯域移動無線アクセスシステム又は設備規則第三条第十五号に規定するローカル５Ｇの基地局であつて、その空中線電力が一ワットを超えるものについて準用する。この場合において、同項第二号（１）中「二十四時間三百六十五日にわたる保守運用体制」とあるのは、「基地局の運用時間中の保守運用体制」と読み替えるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定は、自営等広帯域移動無線アクセスシステム又は設備規則第三条第十五号に規定するローカル５Ｇの基地局であつて、その空中線電力が一ワットを超えるものについて準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同項第二号（１）中「二十四時間三百六十五日にわたる保守運用体制」とあるのは、「基地局の運用時間中の保守運用体制」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
         </Section>
       </Chapter>
@@ -5625,18 +5619,27 @@
                   </TableColumn>
                 </TableRow>
               </Table>
-              <Remarks>
-                <RemarksLabel>注一</RemarksLabel>
-                <Sentence WritingMode="vertical">地域共通符号は、緊急警報信号の受信地域を地上基幹放送局の放送区域及び地上一般放送局の業務区域の全域とするための符号で、全国共通のものとする。</Sentence>
-              </Remarks>
-              <Remarks>
-                <RemarksLabel>注二</RemarksLabel>
-                <Sentence WritingMode="vertical">広域符号は、緊急警報信号の受信地域を別に告示する広域圏内とするための符号とする。</Sentence>
-              </Remarks>
-              <Remarks>
-                <RemarksLabel>注三</RemarksLabel>
-                <Sentence WritingMode="vertical">県域符号は、緊急警報信号の受信地域を各都道府県の区域内とするための符号とする。</Sentence>
-              </Remarks>
+            <Remarks>
+              <RemarksLabel LineBreak="true"/>
+            <Item Num="1">
+              <ItemTitle>注一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域共通符号は、緊急警報信号の受信地域を地上基幹放送局の放送区域及び地上一般放送局の業務区域の全域とするための符号で、全国共通のものとする。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>注二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">広域符号は、緊急警報信号の受信地域を別に告示する広域圏内とするための符号とする。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>注三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">県域符号は、緊急警報信号の受信地域を各都道府県の区域内とするための符号とする。</Sentence>
+              </ItemSentence>
+            </Item>
+            </Remarks>
             </TableStruct>
           </Paragraph>
         </Article>
@@ -6143,10 +6146,10 @@
                       </TableColumn>
                     </TableRow>
                   </Table>
-                  <Remarks>
-                    <RemarksLabel>注</RemarksLabel>
-                    <Sentence WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
-                  </Remarks>
+            <Remarks>
+              <RemarksLabel>注</RemarksLabel>
+                <Sentence Num="1" WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
+            </Remarks>
                 </TableStruct>
               </Item>
               <Item Num="4">
@@ -6188,10 +6191,10 @@
                       </TableColumn>
                     </TableRow>
                   </Table>
-                  <Remarks>
-                    <RemarksLabel>注</RemarksLabel>
-                    <Sentence WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
-                  </Remarks>
+            <Remarks>
+              <RemarksLabel>注</RemarksLabel>
+                <Sentence Num="1" WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
+            </Remarks>
                 </TableStruct>
               </Item>
               <Item Num="6">
@@ -7267,10 +7270,10 @@
                     </TableColumn>
                   </TableRow>
                 </Table>
-                  <Remarks>
-                    <RemarksLabel>注</RemarksLabel>
-                    <Sentence WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
-                  </Remarks>
+            <Remarks>
+              <RemarksLabel>注</RemarksLabel>
+                <Sentence Num="1" WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
+            </Remarks>
                 </TableStruct>
               </Item>
             <Item Num="3">
@@ -7306,10 +7309,10 @@
                     </TableColumn>
                   </TableRow>
                 </Table>
-                  <Remarks>
-                    <RemarksLabel>注</RemarksLabel>
-                    <Sentence WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
-                  </Remarks>
+            <Remarks>
+              <RemarksLabel>注</RemarksLabel>
+                <Sentence Num="1" WritingMode="vertical">一ワットを〇デシベルとする。</Sentence>
+            </Remarks>
                 </TableStruct>
               </Item>
           </Paragraph>
@@ -8398,11 +8401,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一号</AppdxTableTitle>
       <RelatedArticleNum>　モールス符号（第十二条関係）</RelatedArticleNum>
+      <Item Num="1">
+              <ItemTitle>１</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">和文</Sentence>
+              </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">１　和文</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="solid">
@@ -8953,8 +8960,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">欧文</Sentence>
+              </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">２　欧文</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="solid">
@@ -9382,8 +9394,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>３</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">数字の略体</Sentence>
+              </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">３　数字の略体</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="solid">
@@ -9548,8 +9565,9 @@
           </Item>
         </Remarks>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号</AppdxTableTitle>
       <RelatedArticleNum>　無線電信通信の略符号（第１３条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -9557,8 +9575,10 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">Ｑ符号</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
         <Remarks>
           <RemarksLabel LineBreak="true">注</RemarksLabel>
           <Item Num="1">
@@ -9580,6 +9600,11 @@
             </ItemSentence>
           </Item>
         </Remarks>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -11238,6 +11263,7 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
       <Item Num="2">
         <ItemTitle>２</ItemTitle>
         <ItemSentence>
@@ -11248,9 +11274,10 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">国内通信及び国際通信に使用する略符号</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
         <Remarks>
           <RemarksLabel LineBreak="true">注</RemarksLabel>
           <Item Num="1">
@@ -11266,6 +11293,11 @@
             </ItemSentence>
           </Item>
         </Remarks>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -11797,22 +11829,25 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="3">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>（２）</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">国内通信にのみ使用する略符号</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-      </Item>
+      </Subitem1>
+      <Subitem1 Num="2">
+        <Subitem1Title>（２）</Subitem1Title>
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">国内通信にのみ使用する略符号</Sentence>
+        </Subitem1Sentence>
       <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
         <Remarks>
           <RemarksLabel>注</RemarksLabel>
           <Sentence WritingMode="vertical">文字の上に線を付した略符号は，その全部を１符号として送信するモールス符号とする。</Sentence>
         </Remarks>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -12160,15 +12195,20 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Subitem1>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三号</AppdxTableTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四号</AppdxTableTitle>
       <RelatedArticleNum>　無線電話通信の略語（第１４条関係）</RelatedArticleNum>
       <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
         <Remarks>
           <RemarksLabel LineBreak="true">注</RemarksLabel>
           <Item Num="1">
@@ -12180,21 +12220,15 @@
           <Item Num="2">
             <ItemTitle>２</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">国際通信においては，略語（ＭＡＹＤＡＹ，ＰＡＮ</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">ＰＡＮ，ＳＥＣＵＲＩＴＥ，ＳＥＥＬＯＮＣＥ</Sentence>
-              </Column>
-              <Column Num="3">
-                <Sentence Num="1" WritingMode="vertical">ＭＡＹＤＡＹ，ＳＥＥＬＯＮＣＥ</Sentence>
-              </Column>
-              <Column Num="4">
-                <Sentence Num="1" WritingMode="vertical">ＦＥＥＮＥＥ，ＰＲＵＤＯＮＣＥ，ＣＯＲＲＥＣＴＩＯＮ，ＩＮＴＥＲＣＯ及びこれらに相当する略語を除く。）は，必要に応じこれに相当する外国語に代えるものとする。</Sentence>
-              </Column>
+              <Sentence Num="1" WritingMode="vertical">国際通信においては，略語（ＭＡＹＤＡＹ，ＰＡＮ　ＰＡＮ，ＳＥＣＵＲＩＴＥ，ＳＥＥＬＯＮＣＥ　ＭＡＹＤＡＹ，ＳＥＥＬＯＮＣＥ　ＦＥＥＮＥＥ，ＰＲＵＤＯＮＣＥ，ＣＯＲＲＥＣＴＩＯＮ，ＩＮＴＥＲＣＯ及びこれらに相当する略語を除く。）は，必要に応じこれに相当する外国語に代えるものとする。</Sentence>
             </ItemSentence>
           </Item>
         </Remarks>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -12447,11 +12481,15 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="5">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五号</AppdxTableTitle>
       <RelatedArticleNum>　通話表（第１４条関係）</RelatedArticleNum>
+      <Item Num="1">
+              <ItemTitle>１</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">和文通話表</Sentence>
+              </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">１　和文通話表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5">
@@ -12708,15 +12746,15 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel LineBreak="true">注</RemarksLabel>
+          <RemarksLabel>注</RemarksLabel>
+            <Sentence Num="1" WritingMode="vertical">数字を送信する場合には，誤りを生ずるおそれがないと認めるときは，通常の発音による（例「１５００」は，「せんごひやく」とする。）か又は「<Ruby>数字<Rt>すうじ</Rt></Ruby>の」の語を省略する（例「１５００」は，「ひとごまるまる」とする。）ことができる。</Sentence>
+        </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
           <Item Num="1">
-            <ItemTitle/>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">数字を送信する場合には，誤りを生ずるおそれがないと認めるときは，通常の発音による（例「１５００」は，「せんごひやく」とする。）か又は「<Ruby>数字<Rt>すうじ</Rt></Ruby>の」の語を省略する（例「１５００」は，「ひとごまるまる」とする。）ことができる。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle/>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">「使用例」</Sentence>
             </ItemSentence>
@@ -12733,7 +12771,12 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Num="3">
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+          </Item>
+          <Item Num="2">
             <ItemTitle>２</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">欧文通話表</Sentence>
@@ -12743,10 +12786,6 @@
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">文字</Sentence>
               </Subitem1Sentence>
-            </Subitem1>
-          </Item>
-        </Remarks>
-      </TableStruct>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13082,42 +13121,34 @@
         </Table>
         <Remarks>
           <RemarksLabel>注</RemarksLabel>
-              <Sentence Num="1" WritingMode="vertical">ラテンアルファベットによる英語式の発音の表示において，下線を付してある部分は語勢の強いことを示す。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">ラテンアルファベットによる英語式の発音の表示において，下線を付してある部分は語勢の強いことを示す。</Sentence>
         </Remarks>
       </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
           <Item Num="1">
-            <ItemTitle>「使用例」</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical"/>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical"/>
+              <Sentence Num="1" WritingMode="vertical">「使用例」</Sentence>
             </ItemSentence>
             <Subitem1 Num="1">
+              <Subitem1Title/>
               <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical"/>
+                <Sentence Num="1" WritingMode="vertical">「Ａ」は，「ＡＬ　ＦＡＨ」と送る。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>「Ａ」は，「ＡＬ　ＦＡＨ」と送る。</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
           </Item>
-          <Item Num="3">
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical"/>
-            </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>（２）</Subitem1Title>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>（２）</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">数字及び記号</Sentence>
               </Subitem1Sentence>
-            </Subitem1>
-          </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13548,23 +13579,26 @@
           </Item>
         </Remarks>
       </TableStruct>
-          <Item Num="4">
-            <ItemTitle>「使用例」</ItemTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+          <Item Num="1">
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical"/>
+              <Sentence Num="1" WritingMode="vertical">「使用例」</Sentence>
             </ItemSentence>
             <Subitem1 Num="1">
+              <Subitem1Title/>
               <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical"/>
+                <Sentence Num="1" WritingMode="vertical">「数字」は，次のように送る。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>「数字」は，次のように送る。</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
           </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+          </Subitem1>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13699,12 +13733,13 @@
           <Sentence WritingMode="vertical">航空移動業務において，ＶＨＦ周波数の識別を行う場合には，小数点の後に最大２けたまでの数字を送信するものとする。ただし，当該周波数が整数である場合には，小数点の後にＺＥ－ＲＯを１回送信するものとする。</Sentence>
         </Remarks>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="6">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第六号</AppdxTableTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxTable>
-    <AppdxTable Num="7">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第七号</AppdxTableTitle>
       <RelatedArticleNum>　警急信号の構成（第七十三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -13720,15 +13755,15 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="8">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第八号</AppdxTableTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxTable>
-    <AppdxTable Num="9">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第九号（第六十三条参照）</AppdxTableTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxTable>
-    <AppdxTable Num="10">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第十号</AppdxTableTitle>
       <RelatedArticleNum>　安全通報及びその種類の例（第九十六条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -13736,152 +13771,56 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">氷</Sentence>
         </ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">氷―大きい氷山を見た。四六〇五Ｎ、四四一〇Ｗ、五月十五日〇八〇〇ＵＴＣ</Sentence>
+        </Subitem1Sentence>
+      </Subitem1>
+      <Subitem1 Num="2">
+        <Subitem1Title/>
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｉｃｅ―Ｌａｒｇｅ　ｂｅｒｇ　ｓｉｇｈｔｅｄ　ｉｎ　４６０５　Ｎ．，　４４１０　Ｗ．，　ａｔ　０８００　ＵＴＣ．　Ｍａｙ　１５．</Sentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
       <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">氷―大きい氷山を見た。四六〇五Ｎ、四四一〇Ｗ、五月十五日〇八〇〇ＵＴＣ</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="3">
-        <ItemTitle>Ｉｃｅ―Ｌａｒｇｅ</ItemTitle>
-        <ItemSentence>
-          <Column Num="1">
-            <Sentence Num="1" WritingMode="vertical">ｂｅｒｇ</Sentence>
-          </Column>
-          <Column Num="2">
-            <Sentence Num="1" WritingMode="vertical">ｓｉｇｈｔｅｄ</Sentence>
-          </Column>
-          <Column Num="3">
-            <Sentence Num="1" WritingMode="vertical">ｉｎ</Sentence>
-          </Column>
-          <Column Num="4">
-            <Sentence Num="1" WritingMode="vertical">４６０５</Sentence>
-          </Column>
-          <Column Num="5">
-            <Sentence Num="1" WritingMode="vertical">Ｎ．，</Sentence>
-          </Column>
-          <Column Num="6">
-            <Sentence Num="1" WritingMode="vertical">４４１０</Sentence>
-          </Column>
-          <Column Num="7">
-            <Sentence Num="1" WritingMode="vertical">Ｗ．，</Sentence>
-          </Column>
-          <Column Num="8">
-            <Sentence Num="1" WritingMode="vertical">ａｔ</Sentence>
-          </Column>
-          <Column Num="9">
-            <Sentence Num="1" WritingMode="vertical">０８００</Sentence>
-          </Column>
-          <Column Num="10">
-            <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-          </Column>
-          <Column Num="11">
-            <Sentence Num="1" WritingMode="vertical">Ｍａｙ</Sentence>
-          </Column>
-          <Column Num="12">
-            <Sentence Num="1" WritingMode="vertical">１５．</Sentence>
-          </Column>
-        </ItemSentence>
-      </Item>
-      <Item Num="4">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">遺棄物</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="5">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">遺棄物―ほとんど沈んだ遺棄物を見た。四〇〇六Ｎ、一二四三Ｗ、四月二十一日一六三〇ＵＴＣ</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
+      <Subitem1 Num="2">
+        <Subitem1Title/>
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｄｅｒｅｌｉｃｔ―Ｏｂｓｅｒｖｅｄ　ｄｅｒｅｌｉｃｔ　ａｌｍｏｓｔ　ｓｕｂｍｅｒｇｅｄ　ｉｎ　４００６　Ｎ．，　１２４３　Ｗ．，　ａｔ　１６３０　ＵＴＣ．　Ａｐｒｉｌ　２１．</Sentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="6">
-        <ItemTitle>Ｄｅｒｅｌｉｃｔ―Ｏｂｓｅｒｖｅｄ</ItemTitle>
-        <ItemSentence>
-          <Column Num="1">
-            <Sentence Num="1" WritingMode="vertical">ｄｅｒｅｌｉｃｔ</Sentence>
-          </Column>
-          <Column Num="2">
-            <Sentence Num="1" WritingMode="vertical">ａｌｍｏｓｔ</Sentence>
-          </Column>
-          <Column Num="3">
-            <Sentence Num="1" WritingMode="vertical">ｓｕｂｍｅｒｇｅｄ</Sentence>
-          </Column>
-          <Column Num="4">
-            <Sentence Num="1" WritingMode="vertical">ｉｎ</Sentence>
-          </Column>
-          <Column Num="5">
-            <Sentence Num="1" WritingMode="vertical">４００６</Sentence>
-          </Column>
-          <Column Num="6">
-            <Sentence Num="1" WritingMode="vertical">Ｎ．，</Sentence>
-          </Column>
-          <Column Num="7">
-            <Sentence Num="1" WritingMode="vertical">１２４３</Sentence>
-          </Column>
-          <Column Num="8">
-            <Sentence Num="1" WritingMode="vertical">Ｗ．，</Sentence>
-          </Column>
-          <Column Num="9">
-            <Sentence Num="1" WritingMode="vertical">ａｔ</Sentence>
-          </Column>
-          <Column Num="10">
-            <Sentence Num="1" WritingMode="vertical">１６３０</Sentence>
-          </Column>
-          <Column Num="11">
-            <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-          </Column>
-          <Column Num="12">
-            <Sentence Num="1" WritingMode="vertical">Ａｐｒｉｌ</Sentence>
-          </Column>
-          <Column Num="13">
-            <Sentence Num="1" WritingMode="vertical">２１．</Sentence>
-          </Column>
-        </ItemSentence>
-      </Item>
-      <Item Num="7">
+      <Item Num="3">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">航行に対する危険</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="8">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">航行―某燈船は、正常の位置にない。一月三日一八〇〇ＵＴＣ</Sentence>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
+      <Subitem1 Num="2">
+        <Subitem1Title/>
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｎａｖｉｇａｔｉｏｎ―Ａｌｐｈａ　ｌｉｇｈｔｓｈｉｐ　ｎｏｔ　ｏｎ　ｓｔａｔｉｏｎ．　１８００　ＵＴＣ．　Ｊａｎｕａｒｙ　３．</Sentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
-      <Item Num="9">
-        <ItemTitle>Ｎａｖｉｇａｔｉｏｎ―Ａｌｐｈａ</ItemTitle>
-        <ItemSentence>
-          <Column Num="1">
-            <Sentence Num="1" WritingMode="vertical">ｌｉｇｈｔｓｈｉｐ</Sentence>
-          </Column>
-          <Column Num="2">
-            <Sentence Num="1" WritingMode="vertical">ｎｏｔ</Sentence>
-          </Column>
-          <Column Num="3">
-            <Sentence Num="1" WritingMode="vertical">ｏｎ</Sentence>
-          </Column>
-          <Column Num="4">
-            <Sentence Num="1" WritingMode="vertical">ｓｔａｔｉｏｎ．</Sentence>
-          </Column>
-          <Column Num="5">
-            <Sentence Num="1" WritingMode="vertical">１８００</Sentence>
-          </Column>
-          <Column Num="6">
-            <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-          </Column>
-          <Column Num="7">
-            <Sentence Num="1" WritingMode="vertical">Ｊａｎｕａｒｙ</Sentence>
-          </Column>
-          <Column Num="8">
-            <Sentence Num="1" WritingMode="vertical">３．</Sentence>
-          </Column>
-        </ItemSentence>
-      </Item>
-      <Item Num="10">
+      <Item Num="4">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">熱帯性暴風雨</Sentence>
@@ -13891,539 +13830,92 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">暴風雨―八月十八日〇〇三〇ＵＴＣ。二二〇四Ｎ、一一三五四Ｅ。気圧計更正九九四ミリバール、傾向六ミリバール下降。</Sentence>
           </Subitem1Sentence>
+        <Subitem2 Num="1">
+          <Subitem2Title/>
+          <Subitem2Sentence>
+            <Sentence Num="1" WritingMode="vertical">北西の風、風力九、強いスコール。東の高いうねり。針路〇六七、五ノツト</Sentence>
+          </Subitem2Sentence>
+        </Subitem2>
+        <Subitem2 Num="2">
+          <Subitem2Title/>
+          <Subitem2Sentence>
+            <Sentence Num="1" WritingMode="vertical">Ｓｔｏｒｍ―００３０　ＵＴＣ．　Ａｕｇｕｓｔ　１８．　２２０４　Ｎ．，　１１３５４　Ｅ．　Ｂａｒｏｍｅｔｅｒ　ｃｏｒｒｅｃｔｅｄ　９９４　ｍｉｌｌｉｂａｒｓ，　ｔｅｎｄｅｎｃｙ　ｄｏｗｎ　６　ｍｉｌｌｉｂａｒｓ．　Ｗｉｎｄ　ＮＷ．，　ｆｏｒｃｅ　９，　ｈｅａｖｙ　ｓｑｕａｌｌｓ．　Ｈｅａｖｙ　ｅａｓｔｅｒｌｙ　ｓｗｅｌｌ．　Ｃｏｕｒｓｅ　０６７，　５ｋｎｏｔｓ．</Sentence>
+          </Subitem2Sentence>
+        </Subitem2>
         </Subitem1>
         <Subitem1 Num="2">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">北西の風、風力九、強いスコール。東の高いうねり。針路〇六七、五ノツト</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="3">
-          <Subitem1Title>Ｓｔｏｒｍ―００３０</Subitem1Title>
-          <Subitem1Sentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">Ａｕｇｕｓｔ</Sentence>
-            </Column>
-            <Column Num="3">
-              <Sentence Num="1" WritingMode="vertical">１８．</Sentence>
-            </Column>
-            <Column Num="4">
-              <Sentence Num="1" WritingMode="vertical">２２０４</Sentence>
-            </Column>
-            <Column Num="5">
-              <Sentence Num="1" WritingMode="vertical">Ｎ．，</Sentence>
-            </Column>
-            <Column Num="6">
-              <Sentence Num="1" WritingMode="vertical">１１３５４</Sentence>
-            </Column>
-            <Column Num="7">
-              <Sentence Num="1" WritingMode="vertical">Ｅ．</Sentence>
-            </Column>
-            <Column Num="8">
-              <Sentence Num="1" WritingMode="vertical">Ｂａｒｏｍｅｔｅｒ</Sentence>
-            </Column>
-            <Column Num="9">
-              <Sentence Num="1" WritingMode="vertical">ｃｏｒｒｅｃｔｅｄ</Sentence>
-            </Column>
-            <Column Num="10">
-              <Sentence Num="1" WritingMode="vertical">９９４</Sentence>
-            </Column>
-            <Column Num="11">
-              <Sentence Num="1" WritingMode="vertical">ｍｉｌｌｉｂａｒｓ，</Sentence>
-            </Column>
-            <Column Num="12">
-              <Sentence Num="1" WritingMode="vertical">ｔｅｎｄｅｎｃｙ</Sentence>
-            </Column>
-            <Column Num="13">
-              <Sentence Num="1" WritingMode="vertical">ｄｏｗｎ</Sentence>
-            </Column>
-            <Column Num="14">
-              <Sentence Num="1" WritingMode="vertical">６</Sentence>
-            </Column>
-            <Column Num="15">
-              <Sentence Num="1" WritingMode="vertical">ｍｉｌｌｉｂａｒｓ．</Sentence>
-            </Column>
-            <Column Num="16">
-              <Sentence Num="1" WritingMode="vertical">Ｗｉｎｄ</Sentence>
-            </Column>
-            <Column Num="17">
-              <Sentence Num="1" WritingMode="vertical">ＮＷ．，</Sentence>
-            </Column>
-            <Column Num="18">
-              <Sentence Num="1" WritingMode="vertical">ｆｏｒｃｅ</Sentence>
-            </Column>
-            <Column Num="19">
-              <Sentence Num="1" WritingMode="vertical">９，</Sentence>
-            </Column>
-            <Column Num="20">
-              <Sentence Num="1" WritingMode="vertical">ｈｅａｖｙ</Sentence>
-            </Column>
-            <Column Num="21">
-              <Sentence Num="1" WritingMode="vertical">ｓｑｕａｌｌｓ．</Sentence>
-            </Column>
-            <Column Num="22">
-              <Sentence Num="1" WritingMode="vertical">Ｈｅａｖｙ</Sentence>
-            </Column>
-            <Column Num="23">
-              <Sentence Num="1" WritingMode="vertical">ｅａｓｔｅｒｌｙ</Sentence>
-            </Column>
-            <Column Num="24">
-              <Sentence Num="1" WritingMode="vertical">ｓｗｅｌｌ．</Sentence>
-            </Column>
-            <Column Num="25">
-              <Sentence Num="1" WritingMode="vertical">Ｃｏｕｒｓｅ</Sentence>
-            </Column>
-            <Column Num="26">
-              <Sentence Num="1" WritingMode="vertical">０６７，</Sentence>
-            </Column>
-            <Column Num="27">
-              <Sentence Num="1" WritingMode="vertical">５ｋｎｏｔｓ．</Sentence>
-            </Column>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="4">
           <Subitem1Title>（二）</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">暴風雨―ハリケーンの接近の兆候がある。九月十四日一三〇〇ＵＴＣ。二二〇〇Ｎ、七二三六Ｗ。気圧計更正二九・六四インチ、傾向〇・〇一五インチ下降。北東の風、風力八、頻繁な雨を伴うスコール。針路〇三五、九ノツト</Sentence>
           </Subitem1Sentence>
+        <Subitem2 Num="2">
+          <Subitem2Title/>
+          <Subitem2Sentence>
+            <Sentence Num="1" WritingMode="vertical">Ｓｔｏｒｍ―Ａｐｐｅａｒａｎｃｅｓ　ｉｎｄｉｃａｔｅ　ａｐｐｒｏａｃｈ　ｏｆ　ｈｕｒｒｉｃａｎｅ．　１３００　ＵＴＣ．　Ｓｅｐｔｅｍｂｅｒ　１４．　２２００　Ｎ．，　７２３６　Ｗ．　Ｂａｒｏｍｅｔｅｒ　ｃｏｒｒｅｃｔｅｄ　２９．　６４　ｉｎｃｈｅｓ，　ｔｅｎｄｅｎｃｙ　ｄｏｗｎ．　０１５　ｉｎｃｈｅｓ．　Ｗｉｎｄ　ＮＥ．，　ｆｏｒｃｅ　８，　ｆｒｅｑｕｅｎｔ　ｒａｉｎ　ｓｑｕａｌｌｓ．　Ｃｏｕｒｓｅ　０３５，９　ｋｎｏｔｓ．</Sentence>
+          </Subitem2Sentence>
+        </Subitem2>
         </Subitem1>
-        <Subitem1 Num="5">
-          <Subitem1Title>Ｓｔｏｒｍ―Ａｐｐｅａｒａｎｃｅｓ</Subitem1Title>
-          <Subitem1Sentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">ｉｎｄｉｃａｔｅ</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">ａｐｐｒｏａｃｈ</Sentence>
-            </Column>
-            <Column Num="3">
-              <Sentence Num="1" WritingMode="vertical">ｏｆ</Sentence>
-            </Column>
-            <Column Num="4">
-              <Sentence Num="1" WritingMode="vertical">ｈｕｒｒｉｃａｎｅ．</Sentence>
-            </Column>
-            <Column Num="5">
-              <Sentence Num="1" WritingMode="vertical">１３００</Sentence>
-            </Column>
-            <Column Num="6">
-              <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-            </Column>
-            <Column Num="7">
-              <Sentence Num="1" WritingMode="vertical">Ｓｅｐｔｅｍｂｅｒ</Sentence>
-            </Column>
-            <Column Num="8">
-              <Sentence Num="1" WritingMode="vertical">１４．</Sentence>
-            </Column>
-            <Column Num="9">
-              <Sentence Num="1" WritingMode="vertical">２２００</Sentence>
-            </Column>
-            <Column Num="10">
-              <Sentence Num="1" WritingMode="vertical">Ｎ．，</Sentence>
-            </Column>
-            <Column Num="11">
-              <Sentence Num="1" WritingMode="vertical">７２３６</Sentence>
-            </Column>
-            <Column Num="12">
-              <Sentence Num="1" WritingMode="vertical">Ｗ．</Sentence>
-            </Column>
-            <Column Num="13">
-              <Sentence Num="1" WritingMode="vertical">Ｂａｒｏｍｅｔｅｒ</Sentence>
-            </Column>
-            <Column Num="14">
-              <Sentence Num="1" WritingMode="vertical">ｃｏｒｒｅｃｔｅｄ</Sentence>
-            </Column>
-            <Column Num="15">
-              <Sentence Num="1" WritingMode="vertical">２９．</Sentence>
-            </Column>
-            <Column Num="16">
-              <Sentence Num="1" WritingMode="vertical">６４</Sentence>
-            </Column>
-            <Column Num="17">
-              <Sentence Num="1" WritingMode="vertical">ｉｎｃｈｅｓ，</Sentence>
-            </Column>
-            <Column Num="18">
-              <Sentence Num="1" WritingMode="vertical">ｔｅｎｄｅｎｃｙ</Sentence>
-            </Column>
-            <Column Num="19">
-              <Sentence Num="1" WritingMode="vertical">ｄｏｗｎ．</Sentence>
-            </Column>
-            <Column Num="20">
-              <Sentence Num="1" WritingMode="vertical">０１５</Sentence>
-            </Column>
-            <Column Num="21">
-              <Sentence Num="1" WritingMode="vertical">ｉｎｃｈｅｓ．</Sentence>
-            </Column>
-            <Column Num="22">
-              <Sentence Num="1" WritingMode="vertical">Ｗｉｎｄ</Sentence>
-            </Column>
-            <Column Num="23">
-              <Sentence Num="1" WritingMode="vertical">ＮＥ．，</Sentence>
-            </Column>
-            <Column Num="24">
-              <Sentence Num="1" WritingMode="vertical">ｆｏｒｃｅ</Sentence>
-            </Column>
-            <Column Num="25">
-              <Sentence Num="1" WritingMode="vertical">８，</Sentence>
-            </Column>
-            <Column Num="26">
-              <Sentence Num="1" WritingMode="vertical">ｆｒｅｑｕｅｎｔ</Sentence>
-            </Column>
-            <Column Num="27">
-              <Sentence Num="1" WritingMode="vertical">ｒａｉｎ</Sentence>
-            </Column>
-            <Column Num="28">
-              <Sentence Num="1" WritingMode="vertical">ｓｑｕａｌｌｓ．</Sentence>
-            </Column>
-            <Column Num="29">
-              <Sentence Num="1" WritingMode="vertical">Ｃｏｕｒｓｅ</Sentence>
-            </Column>
-            <Column Num="30">
-              <Sentence Num="1" WritingMode="vertical">０３５，９</Sentence>
-            </Column>
-            <Column Num="31">
-              <Sentence Num="1" WritingMode="vertical">ｋｎｏｔｓ．</Sentence>
-            </Column>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="6">
+        <Subitem1 Num="3">
           <Subitem1Title>（三）</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">暴風雨―強いサイクロンが発生した模様である。五月四日〇二〇〇ＵＴＣ。一六二〇Ｎ、九二〇三Ｅ。気圧計無更正七五三ミリメートル、傾向五ミリメートル下降。南微西の風、風力五。針路三〇〇、八ノツト</Sentence>
           </Subitem1Sentence>
+        <Subitem2 Num="1">
+          <Subitem2Title/>
+          <Subitem2Sentence>
+            <Sentence Num="1" WritingMode="vertical">Ｓｔｏｒｍ―Ｃｏｎｄｉｔｉｏｎｓ　ｉｎｄｉｃａｔｅ　ｉｎｔｅｎｓｅ　ｃｙｃｌｏｎｅ　ｈａｓ　ｆｏｒｍｅｄ．０２００　ＵＴＣ．　Ｍａｙ　４．　１６２０　Ｎ．，　９２０３　Ｅ．　Ｂａｒｏｍｅｔｅｒ　ｕｎｃｏｒｒｅｃｔｅｄ　７５３　ｍｉｌｌｉｍｅｔｒｅｓ，　ｔｅｎｄｅｎｃｙ　ｄｏｗｎ　５　ｍｉｌｌｉｍｅｔｒｅｓ．　Ｗｉｎｄ　Ｓ．　ｂｙ　Ｗ．，　ｆｏｒｃｅ　５．　Ｃｏｕｒｓｅ　３００，　８　ｋｎｏｔｓ．</Sentence>
+          </Subitem2Sentence>
+        </Subitem2>
         </Subitem1>
-        <Subitem1 Num="7">
-          <Subitem1Title>Ｓｔｏｒｍ―Ｃｏｎｄｉｔｉｏｎｓ</Subitem1Title>
-          <Subitem1Sentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">ｉｎｄｉｃａｔｅ</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">ｉｎｔｅｎｓｅ</Sentence>
-            </Column>
-            <Column Num="3">
-              <Sentence Num="1" WritingMode="vertical">ｃｙｃｌｏｎｅ</Sentence>
-            </Column>
-            <Column Num="4">
-              <Sentence Num="1" WritingMode="vertical">ｈａｓ</Sentence>
-            </Column>
-            <Column Num="5">
-              <Sentence Num="1" WritingMode="vertical">ｆｏｒｍｅｄ．０２００</Sentence>
-            </Column>
-            <Column Num="6">
-              <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-            </Column>
-            <Column Num="7">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｙ</Sentence>
-            </Column>
-            <Column Num="8">
-              <Sentence Num="1" WritingMode="vertical">４．</Sentence>
-            </Column>
-            <Column Num="9">
-              <Sentence Num="1" WritingMode="vertical">１６２０</Sentence>
-            </Column>
-            <Column Num="10">
-              <Sentence Num="1" WritingMode="vertical">Ｎ．，</Sentence>
-            </Column>
-            <Column Num="11">
-              <Sentence Num="1" WritingMode="vertical">９２０３</Sentence>
-            </Column>
-            <Column Num="12">
-              <Sentence Num="1" WritingMode="vertical">Ｅ．</Sentence>
-            </Column>
-            <Column Num="13">
-              <Sentence Num="1" WritingMode="vertical">Ｂａｒｏｍｅｔｅｒ</Sentence>
-            </Column>
-            <Column Num="14">
-              <Sentence Num="1" WritingMode="vertical">ｕｎｃｏｒｒｅｃｔｅｄ</Sentence>
-            </Column>
-            <Column Num="15">
-              <Sentence Num="1" WritingMode="vertical">７５３</Sentence>
-            </Column>
-            <Column Num="16">
-              <Sentence Num="1" WritingMode="vertical">ｍｉｌｌｉｍｅｔｒｅｓ，</Sentence>
-            </Column>
-            <Column Num="17">
-              <Sentence Num="1" WritingMode="vertical">ｔｅｎｄｅｎｃｙ</Sentence>
-            </Column>
-            <Column Num="18">
-              <Sentence Num="1" WritingMode="vertical">ｄｏｗｎ</Sentence>
-            </Column>
-            <Column Num="19">
-              <Sentence Num="1" WritingMode="vertical">５</Sentence>
-            </Column>
-            <Column Num="20">
-              <Sentence Num="1" WritingMode="vertical">ｍｉｌｌｉｍｅｔｒｅｓ．</Sentence>
-            </Column>
-            <Column Num="21">
-              <Sentence Num="1" WritingMode="vertical">Ｗｉｎｄ</Sentence>
-            </Column>
-            <Column Num="22">
-              <Sentence Num="1" WritingMode="vertical">Ｓ．</Sentence>
-            </Column>
-            <Column Num="23">
-              <Sentence Num="1" WritingMode="vertical">ｂｙ</Sentence>
-            </Column>
-            <Column Num="24">
-              <Sentence Num="1" WritingMode="vertical">Ｗ．，</Sentence>
-            </Column>
-            <Column Num="25">
-              <Sentence Num="1" WritingMode="vertical">ｆｏｒｃｅ</Sentence>
-            </Column>
-            <Column Num="26">
-              <Sentence Num="1" WritingMode="vertical">５．</Sentence>
-            </Column>
-            <Column Num="27">
-              <Sentence Num="1" WritingMode="vertical">Ｃｏｕｒｓｅ</Sentence>
-            </Column>
-            <Column Num="28">
-              <Sentence Num="1" WritingMode="vertical">３００，</Sentence>
-            </Column>
-            <Column Num="29">
-              <Sentence Num="1" WritingMode="vertical">８</Sentence>
-            </Column>
-            <Column Num="30">
-              <Sentence Num="1" WritingMode="vertical">ｋｎｏｔｓ．</Sentence>
-            </Column>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="8">
+        <Subitem1 Num="4">
           <Subitem1Title>（四）</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">暴風雨―南東にタイフーン。六月十二日〇三〇〇ＵＴＣ。一八一二Ｎ、一二六〇五Ｅ。気圧計が急速に下降しつつある。北の風が強まりつつある。</Sentence>
           </Subitem1Sentence>
+        <Subitem2 Num="1">
+          <Subitem2Title/>
+          <Subitem2Sentence>
+            <Sentence Num="1" WritingMode="vertical">Ｓｔｏｒｍ―Ｔｙｐｈｏｏｎ　ｔｏ　ｓｏｕｔｈｅａｓｔ．　０３００　ＵＴＣ．　Ｊｕｎｅ　１２，　１８１２　Ｎ．，１２６０５　Ｅ．　Ｂａｒｏｍｅｔｅｒ　ｆａｌｌｉｎｇ　ｒａｐｉｄｌｙ．　Ｗｉｎｄ　ｉｎｃｒｅａｓｉｎｇ　ｆｒｏｍ　Ｎ．</Sentence>
+          </Subitem2Sentence>
+        </Subitem2>
         </Subitem1>
-        <Subitem1 Num="9">
-          <Subitem1Title>Ｓｔｏｒｍ―Ｔｙｐｈｏｏｎ</Subitem1Title>
-          <Subitem1Sentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">ｔｏ</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">ｓｏｕｔｈｅａｓｔ．</Sentence>
-            </Column>
-            <Column Num="3">
-              <Sentence Num="1" WritingMode="vertical">０３００</Sentence>
-            </Column>
-            <Column Num="4">
-              <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-            </Column>
-            <Column Num="5">
-              <Sentence Num="1" WritingMode="vertical">Ｊｕｎｅ</Sentence>
-            </Column>
-            <Column Num="6">
-              <Sentence Num="1" WritingMode="vertical">１２，</Sentence>
-            </Column>
-            <Column Num="7">
-              <Sentence Num="1" WritingMode="vertical">１８１２</Sentence>
-            </Column>
-            <Column Num="8">
-              <Sentence Num="1" WritingMode="vertical">Ｎ．，１２６０５</Sentence>
-            </Column>
-            <Column Num="9">
-              <Sentence Num="1" WritingMode="vertical">Ｅ．</Sentence>
-            </Column>
-            <Column Num="10">
-              <Sentence Num="1" WritingMode="vertical">Ｂａｒｏｍｅｔｅｒ</Sentence>
-            </Column>
-            <Column Num="11">
-              <Sentence Num="1" WritingMode="vertical">ｆａｌｌｉｎｇ</Sentence>
-            </Column>
-            <Column Num="12">
-              <Sentence Num="1" WritingMode="vertical">ｒａｐｉｄｌｙ．</Sentence>
-            </Column>
-            <Column Num="13">
-              <Sentence Num="1" WritingMode="vertical">Ｗｉｎｄ</Sentence>
-            </Column>
-            <Column Num="14">
-              <Sentence Num="1" WritingMode="vertical">ｉｎｃｒｅａｓｉｎｇ</Sentence>
-            </Column>
-            <Column Num="15">
-              <Sentence Num="1" WritingMode="vertical">ｆｒｏｍ</Sentence>
-            </Column>
-            <Column Num="16">
-              <Sentence Num="1" WritingMode="vertical">Ｎ．</Sentence>
-            </Column>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="10">
+        <Subitem1 Num="5">
           <Subitem1Title>（五）</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">暴風雨―風力一一、暴風雨警報通信を受けていない。五月四日〇三〇〇ＵＴＣ。四八三〇Ｎ、三〇Ｗ。気圧計更正九八三ミリバール、傾向四ミリバール下降。南西の風、風力一一、順転。針路二六〇、六ノツト</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="11">
-          <Subitem1Title>Ｓｔｏｒｍ―Ｗｉｎｄ</Subitem1Title>
-          <Subitem1Sentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">ｆｏｒｃｅ</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">１１，</Sentence>
-            </Column>
-            <Column Num="3">
-              <Sentence Num="1" WritingMode="vertical">ｎｏ</Sentence>
-            </Column>
-            <Column Num="4">
-              <Sentence Num="1" WritingMode="vertical">ｓｔｏｒｍ</Sentence>
-            </Column>
-            <Column Num="5">
-              <Sentence Num="1" WritingMode="vertical">ｗａｒｎｉｎｇ</Sentence>
-            </Column>
-            <Column Num="6">
-              <Sentence Num="1" WritingMode="vertical">ｒｅｃｅｉｖｅｄ．</Sentence>
-            </Column>
-            <Column Num="7">
-              <Sentence Num="1" WritingMode="vertical">０３００</Sentence>
-            </Column>
-            <Column Num="8">
-              <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-            </Column>
-            <Column Num="9">
-              <Sentence Num="1" WritingMode="vertical">Ｍａｙ</Sentence>
-            </Column>
-            <Column Num="10">
-              <Sentence Num="1" WritingMode="vertical">４，</Sentence>
-            </Column>
-            <Column Num="11">
-              <Sentence Num="1" WritingMode="vertical">４８３０</Sentence>
-            </Column>
-            <Column Num="12">
-              <Sentence Num="1" WritingMode="vertical">Ｎ．，</Sentence>
-            </Column>
-            <Column Num="13">
-              <Sentence Num="1" WritingMode="vertical">３０</Sentence>
-            </Column>
-            <Column Num="14">
-              <Sentence Num="1" WritingMode="vertical">Ｗ．Ｂａｒｏｍｅｔｅｒ</Sentence>
-            </Column>
-            <Column Num="15">
-              <Sentence Num="1" WritingMode="vertical">ｃｏｒｒｅｃｔｅｄ</Sentence>
-            </Column>
-            <Column Num="16">
-              <Sentence Num="1" WritingMode="vertical">９８３</Sentence>
-            </Column>
-            <Column Num="17">
-              <Sentence Num="1" WritingMode="vertical">ｍｉｌｌｉｂａｒｓ，</Sentence>
-            </Column>
-            <Column Num="18">
-              <Sentence Num="1" WritingMode="vertical">ｔｅｎｄｅｎｃｙ</Sentence>
-            </Column>
-            <Column Num="19">
-              <Sentence Num="1" WritingMode="vertical">ｄｏｗｎ</Sentence>
-            </Column>
-            <Column Num="20">
-              <Sentence Num="1" WritingMode="vertical">４</Sentence>
-            </Column>
-            <Column Num="21">
-              <Sentence Num="1" WritingMode="vertical">ｍｉｌｌｉｂａｒｓ．</Sentence>
-            </Column>
-            <Column Num="22">
-              <Sentence Num="1" WritingMode="vertical">Ｗｉｎｄ</Sentence>
-            </Column>
-            <Column Num="23">
-              <Sentence Num="1" WritingMode="vertical">ＳＷ．，</Sentence>
-            </Column>
-            <Column Num="24">
-              <Sentence Num="1" WritingMode="vertical">ｆｏｒｃｅ</Sentence>
-            </Column>
-            <Column Num="25">
-              <Sentence Num="1" WritingMode="vertical">１１</Sentence>
-            </Column>
-            <Column Num="26">
-              <Sentence Num="1" WritingMode="vertical">ｖｅｅｒｉｎｇ．</Sentence>
-            </Column>
-            <Column Num="27">
-              <Sentence Num="1" WritingMode="vertical">Ｃｏｕｒｓｅ</Sentence>
-            </Column>
-            <Column Num="28">
-              <Sentence Num="1" WritingMode="vertical">２６０，</Sentence>
-            </Column>
-            <Column Num="29">
-              <Sentence Num="1" WritingMode="vertical">６</Sentence>
-            </Column>
-            <Column Num="30">
-              <Sentence Num="1" WritingMode="vertical">ｋｎｏｔｓ．</Sentence>
-            </Column>
-          </Subitem1Sentence>
+        <Subitem2 Num="2">
+          <Subitem2Title/>
+          <Subitem2Sentence>
+            <Sentence Num="1" WritingMode="vertical">Ｓｔｏｒｍ―Ｗｉｎｄ　ｆｏｒｃｅ　１１，　ｎｏ　ｓｔｏｒｍ　ｗａｒｎｉｎｇ　ｒｅｃｅｉｖｅｄ．　０３００　ＵＴＣ．　Ｍａｙ　４，　４８３０　Ｎ．，　３０　Ｗ．Ｂａｒｏｍｅｔｅｒ　ｃｏｒｒｅｃｔｅｄ　９８３　ｍｉｌｌｉｂａｒｓ，　ｔｅｎｄｅｎｃｙ　ｄｏｗｎ　４　ｍｉｌｌｉｂａｒｓ．　Ｗｉｎｄ　ＳＷ．，　ｆｏｒｃｅ　１１　ｖｅｅｒｉｎｇ．　Ｃｏｕｒｓｅ　２６０，　６　ｋｎｏｔｓ．</Sentence>
+          </Subitem2Sentence>
+        </Subitem2>
         </Subitem1>
       </Item>
-      <Item Num="11">
+      <Item Num="5">
         <ItemTitle>五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">氷結</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="12">
-        <ItemTitle/>
-        <ItemSentence>
+      <Subitem1 Num="1">
+        <Subitem1Title/>
+        <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">激しく着氷しつつある。三月二日一四〇〇ＵＴＣ。六九Ｎ、一〇Ｗ。気温一八。海水温度二九。北東の風、風力八</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="13">
-        <ItemTitle>Ｅｘｐｅｒｉｅｎｃｉｎｇ</ItemTitle>
-        <ItemSentence>
-          <Column Num="1">
-            <Sentence Num="1" WritingMode="vertical">ｓｅｖｅｒｅ</Sentence>
-          </Column>
-          <Column Num="2">
-            <Sentence Num="1" WritingMode="vertical">ｉｃｉｎｇ．１４００</Sentence>
-          </Column>
-          <Column Num="3">
-            <Sentence Num="1" WritingMode="vertical">ＵＴＣ．</Sentence>
-          </Column>
-          <Column Num="4">
-            <Sentence Num="1" WritingMode="vertical">Ｍａｒｃｈ</Sentence>
-          </Column>
-          <Column Num="5">
-            <Sentence Num="1" WritingMode="vertical">２．６９</Sentence>
-          </Column>
-          <Column Num="6">
-            <Sentence Num="1" WritingMode="vertical">Ｎ．，</Sentence>
-          </Column>
-          <Column Num="7">
-            <Sentence Num="1" WritingMode="vertical">１０Ｗ．</Sentence>
-          </Column>
-          <Column Num="8">
-            <Sentence Num="1" WritingMode="vertical">Ａｉｒ</Sentence>
-          </Column>
-          <Column Num="9">
-            <Sentence Num="1" WritingMode="vertical">ｔｅｍｐｅｒａｔｕｒｅ</Sentence>
-          </Column>
-          <Column Num="10">
-            <Sentence Num="1" WritingMode="vertical">１８．</Sentence>
-          </Column>
-          <Column Num="11">
-            <Sentence Num="1" WritingMode="vertical">Ｓｅａ</Sentence>
-          </Column>
-          <Column Num="12">
-            <Sentence Num="1" WritingMode="vertical">ｔｅｍｐｅｒａｔｕｒｅ</Sentence>
-          </Column>
-          <Column Num="13">
-            <Sentence Num="1" WritingMode="vertical">２９．</Sentence>
-          </Column>
-          <Column Num="14">
-            <Sentence Num="1" WritingMode="vertical">Ｗｉｎｄ</Sentence>
-          </Column>
-          <Column Num="15">
-            <Sentence Num="1" WritingMode="vertical">ＮＥ．，</Sentence>
-          </Column>
-          <Column Num="16">
-            <Sentence Num="1" WritingMode="vertical">ｆｏｒｃｅ</Sentence>
-          </Column>
-          <Column Num="17">
-            <Sentence Num="1" WritingMode="vertical">８．</Sentence>
-          </Column>
-        </ItemSentence>
+        </Subitem1Sentence>
+      </Subitem1>
+      <Subitem1 Num="2">
+        <Subitem1Title/>
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｅｘｐｅｒｉｅｎｃｉｎｇ　ｓｅｖｅｒｅ　ｉｃｉｎｇ．１４００　ＵＴＣ．　Ｍａｒｃｈ　２．６９　Ｎ．，　１０Ｗ．　Ａｉｒ　ｔｅｍｐｅｒａｔｕｒｅ　１８．　Ｓｅａ　ｔｅｍｐｅｒａｔｕｒｅ　２９．　Ｗｉｎｄ　ＮＥ．，　ｆｏｒｃｅ　８．</Sentence>
+        </Subitem1Sentence>
+      </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="11">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第十一号</AppdxTableTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxTable>
-    <AppdxTable Num="12">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第十二号</AppdxTableTitle>
       <RelatedArticleNum>　航空移動業務及び航空移動衛星業務における航空機の安全運航及び正常運航に関する通信の通報（第百五十条関係）</RelatedArticleNum>
       <Item Num="1">

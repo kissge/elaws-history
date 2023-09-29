@@ -2991,23 +2991,24 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一号</AppdxTableTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <Item Num="1">
-        <ItemTitle/>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">勘定科目表</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">勘定科目表</Sentence>
+          </Column>
+          <Column Num="2">
+            <Sentence Num="1" WritingMode="vertical">収益</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
-      <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">収益</Sentence>
-        </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Title>１</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">水道事業又は工業用水道事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">１　水道事業又は工業用水道事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3158,8 +3159,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="2">
+        <Subitem1Title>２</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">軌道事業及び鉄道事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">２　軌道事業及び鉄道事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3329,8 +3335,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="3">
+        <Subitem1Title>３</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">自動車運送事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">３　自動車運送事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3444,8 +3455,13 @@
           <Sentence WritingMode="vertical">営業外収益の目及び節は、１水道事業又は工業用水道事業の営業外収益の目及び節によること。</Sentence>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="4">
+        <Subitem1Title>４</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">電気事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">４　電気事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3616,8 +3632,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="5">
+        <Subitem1Title>５</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">ガス事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">５　ガス事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3722,8 +3743,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="6">
+        <Subitem1Title>６</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">病院事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">６　病院事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3876,14 +3902,18 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="3">
-        <ItemTitle/>
+        </Subitem1>
+      </Item>
+      <Item Num="2">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">費用</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Title>１</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">水道事業又は工業用水道事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">１　水道事業又は工業用水道事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4134,8 +4164,13 @@
           <Sentence WritingMode="vertical">浄水費、配水費、給水費、受託工事費、業務費及び総係費の節は、上記のほか、原水費の節によること。</Sentence>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="2">
+        <Subitem1Title>２</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">軌道事業及び鉄道事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">２　軌道事業及び鉄道事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4659,8 +4694,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="3">
+        <Subitem1Title>３</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">自動車運送事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">３　自動車運送事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4960,8 +5000,13 @@
           </Item>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="4">
+        <Subitem1Title>４</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">電気事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">４　電気事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5240,8 +5285,13 @@
           <Sentence WritingMode="vertical">送電費及び一般管理費の節は、上記のほか、水力発電費の節（潤滑油脂費、構築物修繕費、交付金及び共有設備費分担額を除く。）によること。</Sentence>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="5">
+        <Subitem1Title>５</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">ガス事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">５　ガス事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5432,8 +5482,13 @@
           <Sentence WritingMode="vertical">採取費の目は、製造費の目に準じて設けること。</Sentence>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="6">
+        <Subitem1Title>６</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">病院事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">６　病院事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5704,20 +5759,23 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="4">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">資産</Sentence>
-        </ItemSentence>
+        </Subitem1>
       </Item>
-      <Item Num="5">
-        <ItemTitle/>
+      <Item Num="3">
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">固定資産</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">資産</Sentence>
+          </Column>
+          <Column Num="2">
+            <Sentence Num="1" WritingMode="vertical">固定資産</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Title>１</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">水道事業又は工業用水道事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">１　水道事業又は工業用水道事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5916,8 +5974,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="2">
+        <Subitem1Title>２</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">軌道事業及び鉄道事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">２　軌道事業及び鉄道事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6436,8 +6499,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="3">
+        <Subitem1Title>３</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">自動車運送事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">３　自動車運送事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6522,8 +6590,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="4">
+        <Subitem1Title>４</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">電気事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">４　電気事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6906,8 +6979,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="5">
+        <Subitem1Title>５</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">ガス事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">５　ガス事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7097,8 +7175,13 @@
           <Sentence WritingMode="vertical">天然ガス採取設備及び業務設備の目は、製造設備の目に準じて設けること。</Sentence>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="6">
+        <Subitem1Title>６</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">病院事業</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">６　病院事業</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7226,8 +7309,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
+      <Item Num="4">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">流動資産</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">流動資産</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7327,19 +7415,14 @@
         </Table>
         <Remarks>
           <RemarksLabel>（注）</RemarksLabel>
-          <Item Num="1">
-            <ItemTitle/>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">病院事業にあつては、「営業」とあるのは「医業」と読み替えるものであること（負債の部流動負債の表において同じ。）。</Sentence>
-            </ItemSentence>
-            <List>
-              <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">繰延資産</Sentence>
-              </ListSentence>
-            </List>
-          </Item>
+          <Sentence Num="1" WritingMode="vertical">病院事業にあつては、「営業」とあるのは「医業」と読み替えるものであること（負債の部流動負債の表において同じ。）。</Sentence>
         </Remarks>
       </TableStruct>
+      </Item>
+      <Item Num="5">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">繰延資産</Sentence>
+        </ItemSentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -7354,14 +7437,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="6">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">資本</Sentence>
-        </ItemSentence>
       </Item>
+      <Item Num="6">
+        <ItemSentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">資本</Sentence>
+          </Column>
+          <Column Num="2">
+            <Sentence Num="1" WritingMode="vertical">資本金</Sentence>
+          </Column>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">資本金</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7381,8 +7467,12 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="7">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">剰余金</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">剰余金</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7459,14 +7549,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="7">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">負債</Sentence>
-        </ItemSentence>
       </Item>
+      <Item Num="8">
+        <ItemSentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">負債</Sentence>
+          </Column>
+          <Column Num="2">
+            <Sentence Num="1" WritingMode="vertical">固定負債</Sentence>
+          </Column>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">固定負債</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7539,8 +7632,12 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="9">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">流動負債</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">流動負債</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7653,8 +7750,12 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="10">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">繰延収益</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">繰延収益</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7677,8 +7778,9 @@
           <Sentence WritingMode="vertical">二以上の事業を通じて一の特別会計を設けて経理されている場合においては、収益中営業外収益、費用中営業外費用及び固定資産中投資の科目は、各事業を通じて一の科目を設けることができること。</Sentence>
         </Remarks>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二号</AppdxTableTitle>
       <RelatedArticleNum>（第十四条及び第十五条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -7686,7 +7788,6 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">有形固定資産の耐用年数</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12220,71 +12321,71 @@
         </Table>
         <Remarks>
           <RemarksLabel LineBreak="true">注</RemarksLabel>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">次の表の上欄に掲げる構築物又は機械及び装置を一体として償却する場合の耐用年数は、それぞれ下欄に掲げるとおりとする。</Sentence>
-            </ItemSentence>
-            <TableStruct>
-              <Table WritingMode="vertical">
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">構築物又は機械及び装置</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">耐用年数（年）</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">水道用又は工業用水道用構築物のうち、取水設備、導水設備、浄水設備、配水設備及び橋りよう</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">五八</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">水道用又は工業用水道用構築物のうち、配水管及び配水管附属設備</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">三八</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">水道用又は工業用水道用機械及び装置のうち、電気設備、ポンプ設備、薬品注入設備及び滅菌設備</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">一六</Sentence>
-                  </TableColumn>
-                </TableRow>
-              </Table>
-            </TableStruct>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">取得価額が二十万円未満である有形固定資産の全部又は特定の一部を一括して償却する場合の耐用年数は、三年とする。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">耐用年数の全部又は一部を経過した有形固定資産の耐用年数は、その取得後耐用可能と見積られる年数によるものとする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該見積年数によらず、本表に定める耐用年数によることができる。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="4">
-            <ItemTitle>四</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">本表に掲げられていない有形固定資産の耐用年数は、本表に規定する耐用年数に準じた耐用年数又は減価償却資産の耐用年数等に関する省令（昭和四十年大蔵省令第十五号）別表第一及び別表第二に規定する耐用年数によるものとする。</Sentence>
-            </ItemSentence>
-          </Item>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">次の表の上欄に掲げる構築物又は機械及び装置を一体として償却する場合の耐用年数は、それぞれ下欄に掲げるとおりとする。</Sentence>
+          </ItemSentence>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">構築物又は機械及び装置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">耐用年数（年）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">水道用又は工業用水道用構築物のうち、取水設備、導水設備、浄水設備、配水設備及び橋りよう</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">五八</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">水道用又は工業用水道用構築物のうち、配水管及び配水管附属設備</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三八</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">水道用又は工業用水道用機械及び装置のうち、電気設備、ポンプ設備、薬品注入設備及び滅菌設備</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一六</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">取得価額が二十万円未満である有形固定資産の全部又は特定の一部を一括して償却する場合の耐用年数は、三年とする。</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>三</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">耐用年数の全部又は一部を経過した有形固定資産の耐用年数は、その取得後耐用可能と見積られる年数によるものとする。ただし、当該見積年数によらず、本表に定める耐用年数によることができる。</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="4">
+        <ItemTitle>四</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">本表に掲げられていない有形固定資産の耐用年数は、本表に規定する耐用年数に準じた耐用年数又は減価償却資産の耐用年数等に関する省令（昭和四十年大蔵省令第十五号）別表第一及び別表第二に規定する耐用年数によるものとする。</Sentence>
+        </ItemSentence>
+      </Item>
         </Remarks>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三号</AppdxTableTitle>
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -12292,7 +12393,6 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">無形固定資産の耐用年数</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12365,8 +12465,9 @@
           <Sentence WritingMode="vertical">本表に掲げられていない無形固定資産の耐用年数は、本表に規定する耐用年数に準じた耐用年数又は減価償却資産の耐用年数等に関する省令別表第三に規定する耐用年数によるものとする。</Sentence>
         </Remarks>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四号</AppdxTableTitle>
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -12374,7 +12475,6 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">固定資産の償却率</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13479,8 +13579,9 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxNote Num="1">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第一号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十五条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13489,7 +13590,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="2">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第二号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13498,7 +13599,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="3">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第三号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13507,7 +13608,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="4">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第四号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13516,7 +13617,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="5">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第五号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13525,7 +13626,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="6">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第六号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13534,7 +13635,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="7">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第七号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13543,7 +13644,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="8">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第八号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13552,7 +13653,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="9">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第九号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13561,7 +13662,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="10">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13570,7 +13671,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="11">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十一号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13579,7 +13680,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="12">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十二号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13588,7 +13689,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="13">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十三号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13597,7 +13698,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="14">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十四号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13606,7 +13707,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="15">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十五号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13615,7 +13716,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="16">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十六号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13624,7 +13725,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="17">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十七号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13633,7 +13734,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="18">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十八号</AppdxNoteTitle>
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13642,7 +13743,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="19">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第十九号</AppdxNoteTitle>
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <NoteStruct>
@@ -13651,7 +13752,7 @@
         </Note>
       </NoteStruct>
     </AppdxNote>
-    <AppdxNote Num="20">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第二十号</AppdxNoteTitle>
       <RelatedArticleNum>（第五十一条関係）</RelatedArticleNum>
       <NoteStruct>
