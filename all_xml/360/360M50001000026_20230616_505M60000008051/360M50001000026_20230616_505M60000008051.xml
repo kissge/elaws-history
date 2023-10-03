@@ -1114,23 +1114,22 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第５条、第６条及び第１５条関係）</RelatedArticleNum>
       <Item Num="1">
-        <ItemTitle/>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">勘定科目表</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">勘定科目表</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">資産</Sentence>
+          </Column>
+          <Column Num="3">
+            <Sentence Num="1" WritingMode="vertical">固定資産</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
-      <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">資産</Sentence>
-        </ItemSentence>
-      </Item>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">固定資産</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1550,8 +1549,12 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="2">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">流動資産</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">流動資産</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1666,9 +1669,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="3">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">繰延資産</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">繰延資産</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1692,14 +1699,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">負債</Sentence>
-        </ItemSentence>
       </Item>
+      <Item Num="4">
+        <ItemSentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">負債</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">固定負債</Sentence>
+          </Column>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">固定負債</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1783,8 +1793,12 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="5">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">流動負債</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">流動負債</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1924,14 +1938,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">純資産</Sentence>
-        </ItemSentence>
       </Item>
+      <Item Num="6">
+        <ItemSentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">純資産</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">株主資本</Sentence>
+          </Column>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">株主資本</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2077,9 +2094,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="7">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">評価・換算差額等</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">評価・換算差額等</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2126,9 +2147,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="8">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">株式引受権</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">株式引受権</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2153,9 +2178,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="9">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">新株予約権</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">新株予約権</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2181,14 +2210,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">費用</Sentence>
-        </ItemSentence>
       </Item>
+      <Item Num="10">
+        <ItemSentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">費用</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">営業費用</Sentence>
+          </Column>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">営業費用</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2311,9 +2343,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="11">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">営業外費用</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">営業外費用</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2404,9 +2440,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="12">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">特別損失</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">特別損失</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2457,9 +2497,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="13">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">法人税、住民税及び事業税</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">法人税、住民税及び事業税</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2487,14 +2531,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">収益</Sentence>
-        </ItemSentence>
       </Item>
+      <Item Num="14">
+        <ItemSentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">収益</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">営業収益</Sentence>
+          </Column>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">営業収益</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2545,9 +2592,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="15">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">営業外収益</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">営業外収益</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2598,9 +2649,13 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
+      <Item Num="16">
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">特別利益</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">特別利益</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2720,29 +2775,24 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+</TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="1_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一の二</AppdxTableTitle>
       <RelatedArticleNum>（第５条及び第６条関係）</RelatedArticleNum>
-      <Item Num="1">
-        <ItemTitle/>
+<Item Num="1">
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">勘定科目表</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">勘定科目表</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">資産</Sentence>
+          </Column>
+          <Column Num="3">
+            <Sentence Num="1" WritingMode="vertical">流動資産</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
-      <Item Num="2">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">資産</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="3">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">流動資産</Sentence>
-        </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -2898,13 +2948,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="2">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">固定資産</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3276,13 +3325,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="3">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">繰延資産</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3335,18 +3383,16 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">負債</Sentence>
-        </ItemSentence>
       </Item>
-      <Item Num="2">
-        <ItemTitle/>
+      <Item Num="4">
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">流動負債</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">負債</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">流動負債</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3486,13 +3532,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="5">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">固定負債</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3593,18 +3638,16 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">純資産</Sentence>
-        </ItemSentence>
       </Item>
-      <Item Num="2">
-        <ItemTitle/>
+      <Item Num="6">
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">株主資本</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">純資産</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">株主資本</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3751,13 +3794,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="7">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">評価・換算差額等</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3805,13 +3847,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="8">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">株式引受権</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3837,13 +3878,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="9">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">新株予約権</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3870,18 +3910,16 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">費用</Sentence>
-        </ItemSentence>
       </Item>
-      <Item Num="2">
-        <ItemTitle/>
+      <Item Num="10">
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">営業費用</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">費用</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">営業費用</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3941,13 +3979,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="11">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">営業外費用</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3999,13 +4036,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="12">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特別損失</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4049,13 +4085,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="13">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">法人税、住民税及び事業税</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4084,18 +4119,16 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">収益</Sentence>
-        </ItemSentence>
       </Item>
-      <Item Num="2">
-        <ItemTitle/>
+      <Item Num="14">
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">営業収益</Sentence>
+          <Column LineBreak="true" Num="1">
+            <Sentence Num="1" WritingMode="vertical">収益</Sentence>
+          </Column>
+          <Column LineBreak="true" Num="2">
+            <Sentence Num="1" WritingMode="vertical">営業収益</Sentence>
+          </Column>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4139,13 +4172,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="15">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">営業外収益</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4205,13 +4237,12 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
+</TableStruct>
+      </Item>
+      <Item Num="16">
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特別利益</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -4248,8 +4279,9 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二</AppdxStyleTitle>
       <RelatedArticleNum>（第５条、第６条、第１５条及び第１８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4258,7 +4290,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第５条、第６条及び第１８条関係）</RelatedArticleNum>
       <StyleStruct>
