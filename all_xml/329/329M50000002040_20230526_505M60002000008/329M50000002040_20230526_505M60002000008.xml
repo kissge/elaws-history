@@ -9068,11 +9068,11 @@
         </Table>
       </TableStruct>
         </Subitem1>
-      <Subitem1 Num="2">
-        <Subitem1Title>ロ</Subitem1Title>
-        <Subitem1Sentence>
-          <Sentence Num="1" WritingMode="vertical">幹部自衛官及び准陸尉の礼服等の服制</Sentence>
-        </Subitem1Sentence>
+        <Subitem1 Num="2">
+          <Subitem1Title>ロ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">幹部自衛官及び准陸尉の礼服等の服制</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -9960,12 +9960,6 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第十五条の二の規定により儀礼を行う場合その他防衛大臣の定める場合の儀じよう隊及び音楽隊の隊員の服制（以下「特別の服制」という。）</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>イ</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">儀じよう隊の隊員の服制</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
           <Subitem1Sentence>
@@ -11397,8 +11391,11 @@
       </TableStruct>
         </Subitem1>
       </Item>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
       <Item Num="1">
-        <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">図</Sentence>
         </ItemSentence>
@@ -11424,19 +11421,19 @@
             <Subitem2Sentence>
               <Sentence Num="1" WritingMode="vertical">通常服等の服制</Sentence>
             </Subitem2Sentence>
-            <Subitem3 Num="1">
-              <Subitem3Title/>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-          </Subitem2>
-        </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11465,12 +11462,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11484,12 +11486,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11503,12 +11510,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">冬服ズボン及び夏服ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服ズボン及び夏服ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11552,12 +11564,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11571,12 +11588,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11590,12 +11612,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性冬服上衣及び女性第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性冬服上衣及び女性第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11624,12 +11651,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11643,12 +11675,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11662,12 +11699,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性冬服スカート及び女性夏服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性冬服スカート及び女性夏服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11696,12 +11738,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性冬服ズボン及び女性夏服ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性冬服ズボン及び女性夏服ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11745,12 +11792,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">側線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">側線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11764,12 +11816,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（一等陸佐から二等陸士）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉は金色、陸曹長以下は、黒色とする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11783,12 +11840,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種夏服上衣及びワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種夏服上衣及びワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11817,12 +11879,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11851,12 +11918,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種夏服上衣及び女性ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種夏服上衣及び女性ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11885,12 +11957,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第三種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第三種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11919,12 +11996,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -11968,12 +12050,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業外被</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業外被</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12017,12 +12104,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12081,12 +12173,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12145,12 +12242,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">略帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">略帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12179,12 +12281,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（側面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（側面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -12247,12 +12354,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12281,12 +12393,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12315,12 +12432,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12364,12 +12486,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12458,12 +12585,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -12687,12 +12819,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">乙階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">乙階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12815,32 +12952,25 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="4">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical"/>
-          </Subitem1Sentence>
-      <Subitem2 Num="1">
-        <Subitem2Title>ロ</Subitem2Title>
-        <Subitem2Sentence>
-          <Sentence Num="1" WritingMode="vertical">幹部自衛官及び准陸尉の礼服等の服制</Sentence>
-        </Subitem2Sentence>
-        <Subitem3 Num="1">
-        <Subitem3Title/>
-        <Subitem3Sentence>
-          <Sentence Num="1" WritingMode="vertical">第一種礼服冬上衣及び第一種礼服夏上衣</Sentence>
-        </Subitem3Sentence>
-      </Subitem3>
-      </Subitem2>
-      </Subitem1>
-      </Item>
+          </Subitem2>
+          <Subitem2 Num="2">
+            <Subitem2Title>ロ</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence Num="1" WritingMode="vertical">幹部自衛官及び准陸尉の礼服等の服制</Sentence>
+            </Subitem2Sentence>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種礼服冬上衣及び第一種礼服夏上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12869,12 +12999,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種礼服冬上衣及び第二種礼服夏上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種礼服冬上衣及び第二種礼服夏上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12918,12 +13053,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種礼服そで章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種礼服そで章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -12970,12 +13110,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種礼服そで章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種礼服そで章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13022,12 +13167,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種礼服冬ズボン及び第一種礼服夏ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種礼服冬ズボン及び第一種礼服夏ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13071,12 +13221,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">側線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">側線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13120,12 +13275,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種礼服冬ズボン及び第二種礼服夏ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種礼服冬ズボン及び第二種礼服夏ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13169,12 +13329,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">側線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">側線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（陸将及び陸将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13218,12 +13383,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第一種礼服冬上衣及び女性第一種礼服夏上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第一種礼服冬上衣及び女性第一種礼服夏上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13252,12 +13422,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種礼服冬上衣及び女性第二種礼服夏上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種礼服冬上衣及び女性第二種礼服夏上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13286,12 +13461,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第一種礼服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第一種礼服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13320,12 +13500,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種礼服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種礼服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13384,12 +13569,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種ワイシャツ及び女性第一種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種ワイシャツ及び女性第一種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13418,12 +13608,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13452,12 +13647,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13546,12 +13746,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種礼服用飾緒</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（陸将及び陸将補に限る。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種礼服用飾緒</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（陸将及び陸将補に限る。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13565,12 +13770,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種礼服用種飾緒</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（防衛駐在官に限る。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種礼服用種飾緒</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（防衛駐在官に限る。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13584,12 +13794,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">礼服用階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">礼服用階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13756,11 +13971,9 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="5">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
+          </Subitem2>
+        </Subitem1>
+        <Subitem1 Num="2">
         <Subitem1Title>（二）</Subitem1Title>
         <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">特別の服制</Sentence>
@@ -13769,26 +13982,23 @@
           <Subitem2Title>イ</Subitem2Title>
           <Subitem2Sentence>
             <Sentence Num="1" WritingMode="vertical">儀じよう隊の隊員の服制</Sentence>
-          </Subitem2Sentence>
-          <Subitem3 Num="1">
-            <Subitem3Title/>
-            <Subitem3Sentence>
-              <Sentence Num="1" WritingMode="vertical">冬服上衣及び夏服上衣</Sentence>
-            </Subitem3Sentence>
-            <Subitem4 Num="1">
-              <Subitem4Title/>
-              <Subitem4Sentence>
-                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
-              </Subitem4Sentence>
-            </Subitem4>
-          </Subitem3>
-          </Subitem2>
-        </Subitem1>
-      </Item>
+            </Subitem2Sentence>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣及び夏服上衣</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13817,12 +14027,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13866,12 +14081,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">肩章飾り</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（男性）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">肩章飾り</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（男性）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13930,12 +14150,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">冬正帽及び夏正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬正帽及び夏正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13964,12 +14189,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -13998,12 +14228,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14248,32 +14483,25 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="6">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical"/>
-          </Subitem1Sentence>
-      <Subitem2 Num="1">
+          </Subitem2>
+      <Subitem2 Num="2">
         <Subitem2Title>ロ</Subitem2Title>
         <Subitem2Sentence>
           <Sentence Num="1" WritingMode="vertical">音楽隊の隊員の服制</Sentence>
-        </Subitem2Sentence>
-        <Subitem3 Num="1">
-        <Subitem3Title/>
-        <Subitem3Sentence>
-          <Sentence Num="1" WritingMode="vertical">第一種演奏服冬服上衣、第一種演奏服夏服上衣、女性第一種演奏服冬服上衣及び女性第一種演奏服夏服上衣</Sentence>
-        </Subitem3Sentence>
-      </Subitem3>
-      </Subitem2>
-      </Subitem1>
-      </Item>
+            </Subitem2Sentence>
       <TableStruct>
           <Remarks>
           <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種演奏服冬服上衣、第一種演奏服夏服上衣、女性第一種演奏服冬服上衣及び女性第一種演奏服夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14302,12 +14530,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14366,12 +14599,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14415,12 +14653,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14449,12 +14692,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種演奏服冬服ズボン、女性第一種演奏服冬服ズボン、第一種演奏服夏服ズボン及び女性第一種演奏服夏服ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種演奏服冬服ズボン、女性第一種演奏服冬服ズボン、第一種演奏服夏服ズボン及び女性第一種演奏服夏服ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14483,12 +14731,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">側線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">側線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14517,12 +14770,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種演奏服ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種演奏服ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14566,12 +14824,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14600,12 +14863,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第三種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第三種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14634,20 +14902,30 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種冬正帽、第一種夏正帽</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種冬正帽、第一種夏正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">女性第一種冬正帽及び女性第一種夏正帽</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">女性第一種冬正帽及び女性第一種夏正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="3" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="4" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14691,12 +14969,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉以外の自衛官）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉以外の自衛官）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14740,12 +15023,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種冬正帽及び女性第二種夏正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種冬正帽及び女性第二種夏正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14774,12 +15062,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉以外の自衛官）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉以外の自衛官）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准陸尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14793,12 +15086,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14827,12 +15125,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14891,12 +15194,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">胴着</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">胴着</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14985,12 +15293,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -15179,6 +15492,13 @@
               <FigStruct>
                 <Fig src="./pict/2JH00000188923.jpg"/>
               </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+          </Subitem2>
+        </Subitem1>
+      </Item>
             </TableColumn>
           </TableRow>
         </Table>
@@ -17927,13 +18247,6 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特別の服制</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>イ</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">儀じよう隊の隊員の服制</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
           <RemarksLabel/>
@@ -18763,19 +19076,23 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="3">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">図</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="4">
+      <Item Num="2">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">海上自衛官服制の形状及び寸法</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="5">
+      <Item Num="3">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">数字は、寸法を示し、単位はミリメートルとする。</Sentence>
@@ -18790,25 +19107,22 @@
             <Subitem2Sentence>
               <Sentence Num="1" WritingMode="vertical">通常服等の服制</Sentence>
             </Subitem2Sentence>
-            <Subitem3 Num="1">
-              <Subitem3Title/>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">冬服上衣</Sentence>
-              </Subitem3Sentence>
-              <Subitem4 Num="1">
-              <Subitem4Title/>
-              <Subitem4Sentence>
-                <Sentence Num="1" WritingMode="vertical">（三等海曹以上）</Sentence>
-              </Subitem4Sentence>
-            </Subitem4>
-            </Subitem3>
-          </Subitem2>
-        </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海曹以上）</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -18837,12 +19151,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">冬服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海士長以下（防衛大臣の定める海曹候補者たる自衛官を除く。））</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海士長以下（防衛大臣の定める海曹候補者たる自衛官を除く。））</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -18905,12 +19224,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（防衛大臣の定める海曹候補者たる自衛官）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（防衛大臣の定める海曹候補者たる自衛官）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -18943,12 +19267,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">冬服ズボン及び第一種夏服ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（三等海曹以上）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服ズボン及び第一種夏服ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海曹以上）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -18962,12 +19291,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">冬服ズボン及び第一種夏服ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海士長以下（防衛大臣の定める海曹候補者たる自衛官を除く。））</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服ズボン及び第一種夏服ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海士長以下（防衛大臣の定める海曹候補者たる自衛官を除く。））</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -18981,12 +19315,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">冬服ズボン及び第一種夏服ズボン</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（防衛大臣の定める海曹候補者たる自衛官）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服ズボン及び第一種夏服ズボン</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（防衛大臣の定める海曹候補者たる自衛官）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19000,12 +19339,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性冬服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性冬服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19034,12 +19378,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性冬服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性冬服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19083,12 +19432,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（三等海曹以上）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海曹以上）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -19121,12 +19475,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海士長以下（防衛大臣の定める海曹候補者たる自衛官を除く。））</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海士長以下（防衛大臣の定める海曹候補者たる自衛官を除く。））</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -19159,12 +19518,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19208,12 +19572,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（三等海曹以上）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海曹以上）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -19246,12 +19615,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海士長以下）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海士長以下）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -19284,12 +19658,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19318,12 +19697,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第三種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第三種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19352,12 +19736,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第一種夏服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第一種夏服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19386,12 +19775,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19435,12 +19829,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（三等海曹以上）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海曹以上）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -19473,12 +19872,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（海士長以下）</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（海士長以下）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19507,12 +19911,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">あごひも</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官、准海尉及び幹部自衛官の候補者たる海曹長）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">あごひも</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官、准海尉及び幹部自衛官の候補者たる海曹長）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19526,12 +19935,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">前ひさし</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海将及び海将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">前ひさし</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海将及び海将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19560,12 +19974,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19594,12 +20013,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">あごひも</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（三等海佐から准海尉までの自衛官及び幹部自衛官の候補者たる海曹長）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">あごひも</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海佐から准海尉までの自衛官及び幹部自衛官の候補者たる海曹長）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19613,12 +20037,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">周章の前面</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海将及び海将補）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">周章の前面</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海将及び海将補）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19647,12 +20076,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種略帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種略帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19681,12 +20115,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種略帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種略帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19715,12 +20154,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19749,12 +20193,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19783,12 +20232,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第一種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第一種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19817,12 +20271,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ及び女性第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ及び女性第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19866,12 +20325,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -19900,12 +20364,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准海尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准海尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -19938,12 +20407,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海士長以下）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海士長以下）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -19976,12 +20450,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第一種外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第一種外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20010,12 +20489,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20044,12 +20528,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20093,12 +20582,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20157,12 +20651,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">短靴</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官、准海尉及び幹部自衛官の候補者たる海曹長）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">短靴</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官、准海尉及び幹部自衛官の候補者たる海曹長）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20236,12 +20735,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">正帽</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -20304,20 +20808,30 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（第二種略帽）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">（第二種略帽）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">女性帽章</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">女性帽章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="3" WritingMode="vertical">正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="4" WritingMode="vertical">（幹部自衛官及び准海尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准海尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20346,12 +20860,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">甲階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准海尉）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">甲階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准海尉）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20387,12 +20906,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">甲階級章及び丙階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海曹長から三等海曹まで）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">甲階級章及び丙階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海曹長から三等海曹まで）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20406,12 +20930,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">乙階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">乙階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20469,12 +20998,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">丙階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（幹部自衛官及び准海尉。ただし、女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">丙階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（幹部自衛官及び准海尉。ただし、女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20547,12 +21081,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">幹部候補者き章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（海曹長。ただし、女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">幹部候補者き章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（海曹長。ただし、女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20586,32 +21125,25 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="6">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical"/>
-          </Subitem1Sentence>
-      <Subitem2 Num="1">
+        </Subitem2>
+      <Subitem2 Num="2">
         <Subitem2Title>ロ</Subitem2Title>
         <Subitem2Sentence>
           <Sentence Num="1" WritingMode="vertical">幹部自衛官及び准海尉の礼服等の服制</Sentence>
         </Subitem2Sentence>
-        <Subitem3 Num="1">
-        <Subitem3Title/>
-        <Subitem3Sentence>
-          <Sentence Num="1" WritingMode="vertical">礼服冬上衣</Sentence>
-        </Subitem3Sentence>
-      </Subitem3>
-      </Subitem2>
-      </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">礼服冬上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20655,12 +21187,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性礼服冬上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性礼服冬上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20719,12 +21256,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20781,29 +21323,29 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="7">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
+        </Subitem2>
+      </Subitem1>
+        <Subitem1 Num="2">
         <Subitem1Title>（二）</Subitem1Title>
         <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">特別の服制</Sentence>
         </Subitem1Sentence>
-      </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">音楽隊の隊員の服制</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">第一種演奏服冬服上衣及び女性第一種演奏服冬服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="3" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">音楽隊の隊員の服制</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="2">
+                <Sentence Num="1" WritingMode="vertical">第一種演奏服冬服上衣及び女性第一種演奏服冬服上衣</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20832,12 +21374,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第一種演奏服夏服上衣及び女性第一種演奏服夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一種演奏服夏服上衣及び女性第一種演奏服夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20881,12 +21428,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20945,12 +21497,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20979,12 +21536,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">前ひさし</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（三等海佐以下）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">前ひさし</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海佐以下）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -20998,12 +21560,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">周章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（三等海佐以下）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">周章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（三等海佐以下）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -21017,12 +21584,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">外とう及び女性外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">外とう及び女性外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -21124,6 +21696,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Subitem1>
+      </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      </Item>
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
@@ -22509,13 +23088,6 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特別の服制</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>イ</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">儀じよう隊の隊員の服制</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
           <RemarksLabel/>
@@ -23405,13 +23977,17 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="3">
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+      <Item Num="1">
         <ItemTitle>図</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">航空自衛官服制の形状及び寸法</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="4">
+      <Item Num="2">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">数字は、寸法を示し、単位はミリメートルとする。</Sentence>
@@ -23426,19 +24002,19 @@
             <Subitem2Sentence>
               <Sentence Num="1" WritingMode="vertical">通常服等の服制</Sentence>
             </Subitem2Sentence>
-            <Subitem3 Num="1">
-              <Subitem3Title/>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-          </Subitem2>
-        </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23467,12 +24043,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（１等空佐から准空尉及び幹部自衛官の候補者たる自衛官）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（１等空佐から准空尉及び幹部自衛官の候補者たる自衛官）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23516,12 +24097,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性冬服上衣及び女性第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性冬服上衣及び女性第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23550,12 +24136,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（１等空佐から准空尉及び幹部自衛官の候補者たる自衛官）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">飾線</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（１等空佐から准空尉及び幹部自衛官の候補者たる自衛官）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23584,12 +24175,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性冬服スカート及び女性夏服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性冬服スカート及び女性夏服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23633,12 +24229,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23667,12 +24268,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23701,12 +24307,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第三種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第三種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23735,12 +24346,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業服上衣及び女性作業服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業服上衣及び女性作業服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23784,12 +24400,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業外被</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業外被</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23818,12 +24439,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">略帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">略帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23852,12 +24478,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23886,12 +24517,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23920,12 +24556,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第一種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第一種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -23969,12 +24610,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24018,12 +24664,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24097,12 +24748,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
           <RemarksLabel/>
@@ -24133,32 +24789,25 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="5">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical"/>
-          </Subitem1Sentence>
-      <Subitem2 Num="1">
+          </Subitem2>
+      <Subitem2 Num="2">
         <Subitem2Title>ロ</Subitem2Title>
         <Subitem2Sentence>
           <Sentence Num="1" WritingMode="vertical">幹部自衛官及び准空尉の礼服等の服制</Sentence>
         </Subitem2Sentence>
-        <Subitem3 Num="1">
-        <Subitem3Title/>
-        <Subitem3Sentence>
-          <Sentence Num="1" WritingMode="vertical">礼服冬（夏）上衣</Sentence>
-        </Subitem3Sentence>
-      </Subitem3>
-      </Subitem2>
-      </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">礼服冬（夏）上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24202,12 +24851,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性礼服冬（夏）上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性礼服冬（夏）上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24236,12 +24890,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性礼服冬（夏）スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性礼服冬（夏）スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24285,12 +24944,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24319,12 +24983,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24353,12 +25022,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">礼服用階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法とする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">礼服用階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法とする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24433,29 +25107,29 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="6">
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical"/>
-        </ItemSentence>
-        <Subitem1 Num="1">
+          </Subitem2>
+        </Subitem1>
+        <Subitem1 Num="2">
         <Subitem1Title>（二）</Subitem1Title>
         <Subitem1Sentence>
           <Sentence Num="1" WritingMode="vertical">特別の服制</Sentence>
         </Subitem1Sentence>
-      </Subitem1>
-      </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">音楽隊の隊員の服制</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">第一種演奏服冬服上衣、女性第一種演奏服冬服上衣、第一種演奏服夏服上衣及び女性第一種演奏服夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="3" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">音楽隊の隊員の服制</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="2">
+                <Sentence Num="1" WritingMode="vertical">第一種演奏服冬服上衣、女性第一種演奏服冬服上衣、第一種演奏服夏服上衣及び女性第一種演奏服夏服上衣</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24514,12 +25188,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24548,12 +25227,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24582,12 +25266,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第三種演奏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三種演奏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24616,12 +25305,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">正帽及び女性第一種正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">正帽及び女性第一種正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24650,12 +25344,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24684,12 +25383,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24718,12 +25422,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">女性第二種ワイシャツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">女性第二種ワイシャツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24767,12 +25476,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">外とう及び女性外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">外とう及び女性外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24846,12 +25560,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">階級章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">階級章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（女性自衛官にあつては、括弧内の寸法のものとする。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -24907,6 +25626,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Subitem1>
+      </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+      </Item>
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五</AppdxTableTitle>
@@ -25953,20 +26679,30 @@
       </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛大学校学生服制及び防衛医科大学校学生服制の形状及び寸法</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛大学校学生服制及び防衛医科大学校学生服制の形状及び寸法</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">数字は、寸法を示し、単位はミリメートルとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">数字は、寸法を示し、単位はミリメートルとする。</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="3" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="4" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26010,12 +26746,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子冬服上衣及び防衛医科大学校女子第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子冬服上衣及び防衛医科大学校女子第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26044,12 +26785,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛大学校女子冬服スカート及び防衛大学校女子第一種夏服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛大学校女子冬服スカート及び防衛大学校女子第一種夏服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26078,12 +26824,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子冬服スカート及び防衛医科大学校女子第一種夏服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子冬服スカート及び防衛医科大学校女子第一種夏服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26127,12 +26878,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防医科大学校女子第二種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防医科大学校女子第二種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26161,12 +26917,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛大学校女子第二種夏服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛大学校女子第二種夏服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26195,12 +26956,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子第二種夏服スカート</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子第二種夏服スカート</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26229,12 +26995,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26278,12 +27049,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">作業外被</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">作業外被</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26312,12 +27088,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26346,12 +27127,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26380,12 +27166,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">帽日おおい</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">帽日おおい</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26429,12 +27220,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26463,12 +27259,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26497,12 +27298,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26546,12 +27352,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">防衛医科大学校女子雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26595,12 +27406,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（防衛大学校の学生）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">帽章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（防衛大学校の学生）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -26629,12 +27445,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">えり章</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（防衛大学校の学生）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">えり章</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（防衛大学校の学生）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -27419,20 +28240,30 @@
       </Item>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">陸上自衛隊高等工科学校生徒服制の形状及び寸法</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">陸上自衛隊高等工科学校生徒服制の形状及び寸法</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">数字は、寸法を示し、単位はミリメートルとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">数字は、寸法を示し、単位はミリメートルとする。</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="3" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="4" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">冬服上衣及び第一種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -27476,12 +28307,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">第二種夏服上衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二種夏服上衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -27525,12 +28361,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">正帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -27559,12 +28400,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">略帽</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">略帽</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -27593,12 +28439,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">ワイシヤツ</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">ワイシヤツ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -27627,12 +28478,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">外とう</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
@@ -27661,12 +28517,17 @@
       </TableStruct>
       <TableStruct>
           <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
-          </Remarks>
-          <Remarks>
-          <RemarksLabel/>
-            <Sentence Num="2" WritingMode="vertical">（前面）</Sentence>
+          <RemarksLabel LineBreak="true"/>
+          <Item Num="1">
+            <ItemSentence>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">雨衣</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（前面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           </Remarks>
         <Table WritingMode="vertical">
           <TableRow>
