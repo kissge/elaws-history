@@ -310,7 +310,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">被保険者等記号・番号及び個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）又は基礎年金番号（国民年金法（昭和三十四年法律第百四十一号）第十四条に規定する基礎年金番号をいう。以下同じ。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">被保険者等記号・番号及び個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）（基礎年金番号（国民年金法（昭和三十四年法律第百四十一号）第十四条に規定する基礎年金番号をいう。以下同じ。）を有する者にあっては、被保険者等記号・番号及び個人番号又は基礎年金番号）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -22423,7 +22423,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和五年九月二九日厚生労働省令第一二五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第百十四条関係）</RelatedArticleNum>
       <TableStruct>
@@ -22543,7 +22552,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第百十四条関係）</RelatedArticleNum>
       <TableStruct>
@@ -22689,7 +22698,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第百十六条、第百三十二条、第百三十四条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -22717,7 +22726,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第百四十二条、第百五十条関係）</RelatedArticleNum>
       <TableStruct>
@@ -22789,7 +22798,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="5">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五</AppdxTableTitle>
       <RelatedArticleNum>（第百四十二条、第百五十条関係）</RelatedArticleNum>
       <TableStruct>
@@ -23365,7 +23374,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="1_1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（１）</AppdxStyleTitle>
       <RelatedArticleNum>（第三十五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23374,7 +23383,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（２）</AppdxStyleTitle>
       <RelatedArticleNum>（第三十五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23383,7 +23392,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23392,7 +23401,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号</AppdxStyleTitle>
       <RelatedArticleNum>（第四十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23401,7 +23410,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
       <RelatedArticleNum>（第六十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23410,7 +23419,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
       <RelatedArticleNum>（第八十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23419,7 +23428,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
       <RelatedArticleNum>（第九十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23428,7 +23437,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
       <RelatedArticleNum>（第九十五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23437,7 +23446,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八号</AppdxStyleTitle>
       <RelatedArticleNum>（第百八十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23446,7 +23455,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九号</AppdxStyleTitle>
       <RelatedArticleNum>（第百八十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23455,7 +23464,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十号</AppdxStyleTitle>
       <RelatedArticleNum>（第百八十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23464,7 +23473,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十一号</AppdxStyleTitle>
       <RelatedArticleNum>（第百八十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23473,7 +23482,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十二号</AppdxStyleTitle>
       <RelatedArticleNum>（第百八十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23482,7 +23491,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十二号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第百八十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23491,7 +23500,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十三号</AppdxStyleTitle>
       <RelatedArticleNum>（第百八十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23500,7 +23509,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十四号</AppdxStyleTitle>
       <RelatedArticleNum>（第二百六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23509,7 +23518,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十五号</AppdxStyleTitle>
       <RelatedArticleNum>（第二百七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23518,7 +23527,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十六号</AppdxStyleTitle>
       <RelatedArticleNum>（第二百八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23527,7 +23536,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十七号</AppdxStyleTitle>
       <RelatedArticleNum>（第二百九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23536,7 +23545,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十八号</AppdxStyleTitle>
       <RelatedArticleNum>（第二百十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -23545,7 +23554,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十九号</AppdxStyleTitle>
       <RelatedArticleNum>（第二百十四条関係）</RelatedArticleNum>
       <StyleStruct>

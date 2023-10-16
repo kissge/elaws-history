@@ -371,7 +371,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）又は基礎年金番号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）（基礎年金番号を有する者にあつては、個人番号又は基礎年金番号）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -401,7 +401,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">個人番号又は基礎年金番号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">個人番号（基礎年金番号を有する者にあつては、個人番号又は基礎年金番号）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -547,7 +547,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">個人番号又は基礎年金番号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">個人番号（基礎年金番号を有する者にあつては、個人番号又は基礎年金番号）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -6332,7 +6332,7 @@
                 <Item Num="1_2">
                   <ItemTitle>一の二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">個人番号又は基礎年金番号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">個人番号（基礎年金番号を有する者にあつては、個人番号又は基礎年金番号）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -6641,13 +6641,13 @@
                 <Item Num="1_2">
                   <ItemTitle>一の二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">個人番号又は基礎年金番号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">個人番号（基礎年金番号を有する者にあつては、個人番号又は基礎年金番号）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="1_3">
                   <ItemTitle>一の三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">被保険者又は被保険者であつた者の妻又は子の個人番号又は基礎年金番号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">被保険者又は被保険者であつた者の妻又は子の氏名、生年月日及び住所並びに個人番号又は基礎年金番号</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -15390,7 +15390,7 @@
           <Sentence Num="1" WritingMode="vertical">受給権者は、前項の年金額改定票の交付を受けたときは、これを通算老齢年金証書、障害年金証書、母子年金証書、準母子年金証書又は遺児年金証書にはりつけなければならない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <SupplProvisionAppdxStyle Num="1">
+      <SupplProvisionAppdxStyle>
         <SupplProvisionAppdxStyleTitle WritingMode="vertical">別記様式第一号</SupplProvisionAppdxStyleTitle>
         <RelatedArticleNum>（国民年金法施行規則の一部を改正する省令（昭和四十一年厚生省令第二十三号）附則第四項、第六項）</RelatedArticleNum>
         <StyleStruct>
@@ -15399,7 +15399,7 @@
           </Style>
         </StyleStruct>
       </SupplProvisionAppdxStyle>
-      <SupplProvisionAppdxStyle Num="2">
+      <SupplProvisionAppdxStyle>
         <SupplProvisionAppdxStyleTitle WritingMode="vertical">別記様式第二号</SupplProvisionAppdxStyleTitle>
         <RelatedArticleNum>（国民年金法施行規則の一部を改正する省令（昭和四十一年厚生省令第二十三号）附則第十項）</RelatedArticleNum>
         <StyleStruct>
@@ -21543,7 +21543,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="0">
+    <SupplProvision AmendLawNum="令和五年九月二九日厚生労働省令第一二五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第十六条、第十七条の二の三、第三十一条、第三十二条、第三十二条の三―第三十三条の二、第三十三条の三―第三十三条の五、第三十五条、第三十五条の二、第三十六条の三、第三十六条の四、第三十九条、第四十一条、第四十一条の三、第四十四条、第四十八条、第五十一条の三、第五十一条の四関係）</RelatedArticleNum>
       <Item Num="1">
@@ -21571,7 +21580,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第十六条、第十六条の二、第十六条の四、第三十一条、第三十三条の二、第三十五条の二、第三十九条、第六十三条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21580,11 +21589,11 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号</AppdxStyleTitle>
       <RelatedArticleNum>（第三十一条、第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21593,7 +21602,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
       <RelatedArticleNum>（第三十一条、第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21602,7 +21611,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
       <RelatedArticleNum>（第七十二条の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21611,7 +21620,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
       <RelatedArticleNum>（第七十二条の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21620,7 +21629,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
       <RelatedArticleNum>（第七十二条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21629,15 +21638,15 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八号から様式第十三号まで</AppdxStyleTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十四号</AppdxStyleTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十五号</AppdxStyleTitle>
       <RelatedArticleNum>（第八十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21646,7 +21655,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十六号</AppdxStyleTitle>
       <RelatedArticleNum>（第八十三条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21655,7 +21664,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十七号</AppdxStyleTitle>
       <RelatedArticleNum>（第八十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21664,7 +21673,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十七号</AppdxStyleTitle>
       <RelatedArticleNum>（第八十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21673,7 +21682,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十八号</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21682,7 +21691,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十九号</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21691,7 +21700,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="20">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十号</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21700,7 +21709,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十一号</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21709,7 +21718,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十二号</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21718,7 +21727,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="23">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十三号</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十九条関係）</RelatedArticleNum>
       <StyleStruct>
