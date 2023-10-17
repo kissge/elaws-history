@@ -22,47 +22,47 @@
           </ParagraphSentence>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">一級自動車整備士（総合）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一級自動車整備士（総合）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">一級自動車整備士（二輪）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一級自動車整備士（二輪）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">二級自動車整備士（総合）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二級自動車整備士（総合）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">二級自動車整備士（二輪）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二級自動車整備士（二輪）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">三級自動車整備士（総合）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三級自動車整備士（総合）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">三級自動車整備士（二輪）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三級自動車整備士（二輪）</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">自動車タイヤ整備士</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自動車タイヤ整備士</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">自動車電気・電子制御装置整備士</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自動車電気・電子制御装置整備士</Sentence>
             </ListSentence>
           </List>
           <List>
             <ListSentence>
-              <Sentence WritingMode="vertical">自動車車体・電子制御装置整備士</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自動車車体・電子制御装置整備士</Sentence>
             </ListSentence>
           </List>
         </Paragraph>
@@ -83,13 +83,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">技能検定に関する事項を管理させるため、自動車局及び地方運輸局に自動車整備士技能検定委員（以下「検定委員」という。）を置く。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">技能検定に関する事項を管理させるため、物流・自動車局及び地方運輸局に自動車整備士技能検定委員（以下「検定委員」という。）を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">技能検定につき、専門の事項を調査審議するため、自動車局及び地方運輸局に、自動車整備士技能検定専門委員（以下「検定専門委員」という。）を置くことができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">技能検定につき、専門の事項を調査審議するため、物流・自動車局及び地方運輸局に、自動車整備士技能検定専門委員（以下「検定専門委員」という。）を置くことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -312,7 +312,7 @@
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">第四条第一項の自動車局に置かれる検定委員又は同条第二項の自動車局に置かれる検定専門委員として技能検定に関する事項の管理又は技能検定についての専門の事項の調査審議に関する業務を行つている者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四条第一項の物流・自動車局に置かれる検定委員又は同条第二項の物流・自動車局に置かれる検定専門委員として技能検定に関する事項の管理又は技能検定についての専門の事項の調査審議に関する業務を行つている者</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="4">
@@ -1927,15 +1927,11 @@
     <SupplProvision AmendLawNum="昭和五七年九月二日運輸省令第二二号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">（施行期日）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
-        <List>
-          <ListSentence>
-            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
-          </ListSentence>
-        </List>
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五八年四月九日運輸省令第二〇号" Extract="true">
@@ -2962,7 +2958,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和五年九月二九日国土交通省令第七六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和五年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第六条の二、第六条の三関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3404,7 +3409,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第一号様式</AppdxStyleTitle>
       <RelatedArticleNum>（申請書）（第二十条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -3413,7 +3418,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二号様式</AppdxStyleTitle>
       <RelatedArticleNum>（合格証書）（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
