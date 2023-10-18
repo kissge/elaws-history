@@ -2975,13 +2975,13 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">この表における測量標の形状は、基本測量の測量標の形状を示したものであり、公共測量の測量標については、「基本」の文字に代え「公共」の文字を、「国土地理院」又は「国地院」の文字に代え当該測量計画機関の名称又は略称を表示する文字を記入する。</Sentence>
-          </ItemSentence>
-          <List>
-            <ListSentence>
-              <Sentence Num="1" WritingMode="vertical">また、金属標及び付属標については、「この測量標を移転汚損すると測量法により罰せられます」の文字に代え、測量標を保全するため適切な文字を記入することができる。</Sentence>
-            </ListSentence>
-          </List>
+                <Column LineBreak="true" Num="1">
+                  <Sentence Num="1" WritingMode="vertical">この表における測量標の形状は、基本測量の測量標の形状を示したものであり、公共測量の測量標については、「基本」の文字に代え「公共」の文字を、「国土地理院」又は「国地院」の文字に代え当該測量計画機関の名称又は略称を表示する文字を記入する。</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">また、金属標及び付属標については、「この測量標を移転汚損すると測量法により罰せられます」の文字に代え、測量標を保全するため適切な文字を記入することができる。</Sentence>
+                </Column>
+              </ItemSentence>
         </Item>
         <Item Num="2">
           <ItemTitle>二</ItemTitle>
