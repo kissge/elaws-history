@@ -563,7 +563,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="0">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <Item Num="1">
         <ItemTitle>一</ItemTitle>
@@ -687,14 +687,14 @@
       <Item Num="16">
         <ItemTitle>六</ItemTitle>
         <ItemSentence>
-          <Sentence>八戸地区</Sentence>
+          <Sentence Num="1" WritingMode="vertical">八戸地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>青森県八戸市大字河原木字宇兵エ河原の区域　同市豊洲並びに大字河原木字海岸、字館、字遠山新田、字内河原、字赤沼及び字浜名谷地の区域のうち主務大臣の定める区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="17">
+        <ItemTitle>青森県八戸市大字河原木字宇兵エ河原の区域</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">同市豊洲並びに大字河原木字海岸、字館、字遠山新田、字内河原、字赤沼及び字浜名谷地の区域のうち主務大臣の定める区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="18">
         <ItemTitle>六の二</ItemTitle>
@@ -1013,19 +1013,19 @@
       <Item Num="38">
         <ItemTitle>十八</ItemTitle>
         <ItemSentence>
-          <Sentence>東京国際空港地区</Sentence>
+          <Sentence Num="1" WritingMode="vertical">東京国際空港地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Column Num="1">
-              <Sentence>東京都大田区羽田空港三丁目の区域</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence>同区羽田空港一丁目及び羽田空港二丁目の区域のうち主務大臣の定める区域　東京国際空港の区域（同区羽田空港一丁目から羽田空港三丁目までに属する区域を除く。）のうち主務大臣の定める区域</Sentence>
-            </Column>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="39">
+        <ItemTitle>東京都大田区羽田空港三丁目の区域</ItemTitle>
+        <ItemSentence>
+          <Column Num="1">
+            <Sentence Num="1" WritingMode="vertical">同区羽田空港一丁目及び羽田空港二丁目の区域のうち主務大臣の定める区域</Sentence>
+          </Column>
+          <Column Num="2">
+            <Sentence Num="1" WritingMode="vertical">東京国際空港の区域（同区羽田空港一丁目から羽田空港三丁目までに属する区域を除く。）のうち主務大臣の定める区域</Sentence>
+          </Column>
+        </ItemSentence>
       </Item>
       <Item Num="40">
         <ItemTitle>十九</ItemTitle>
@@ -1148,7 +1148,7 @@
           <Subitem1Title>（２）</Subitem1Title>
           <Subitem1Sentence>
             <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">東区平和町、東臨港町、臨海町、臨港町三丁目、浜町、神明町、古湊町、秋葉通三丁目、末広町、上王瀬町、鷗島町、榎、榎町、大山一丁目、松島一丁目から松島三丁目まで、東新町及び王瀬新町の区域</Sentence>
+              <Sentence Num="1" WritingMode="vertical">東区平和町、東臨港町、臨海町、臨港町三丁目、浜町、神明町、古湊町、秋葉通三丁目、末広町、上王瀬町、鴎島町、榎、榎町、大山一丁目、松島一丁目から松島三丁目まで、東新町及び王瀬新町の区域</Sentence>
             </Column>
             <Column Num="2">
               <Sentence Num="1" WritingMode="vertical">中央区日の出三丁目、竜が島一丁目、竜が島二丁目及び沼垂東二丁目から沼垂東六丁目までの区域</Sentence>
@@ -1263,12 +1263,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">七尾港三室地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>石川県七尾市三室町百六十四の区域　同町百五十から百五十三まで、百六十五から百六十七まで、タ、は及びレ並びに鵜浦町一及びニの区域のうち主務大臣の定める区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="57">
+        <ItemTitle>石川県七尾市三室町百六十四の区域</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">同町百五十から百五十三まで、百六十五から百六十七まで、タ、は及びレ並びに鵜浦町一及びニの区域のうち主務大臣の定める区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="58">
         <ItemTitle>二十九</ItemTitle>
@@ -1545,12 +1545,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">大阪北港地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>大阪府大阪市此花区春日出南三丁目、島屋四丁目、北港一丁目、北港二丁目、梅町一丁目及び梅町二丁目の区域　同区酉島五丁目、春日出中三丁目、島屋一丁目、島屋二丁目、島屋五丁目、島屋六丁目、桜島二丁目及び桜島三丁目の区域のうち主務大臣の定める区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="72">
+        <ItemTitle>大阪府大阪市此花区春日出南三丁目、島屋四丁目、北港一丁目、北港二丁目、梅町一丁目及び梅町二丁目の区域</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">同区酉島五丁目、春日出中三丁目、島屋一丁目、島屋二丁目、島屋五丁目、島屋六丁目、桜島二丁目及び桜島三丁目の区域のうち主務大臣の定める区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="73">
         <ItemTitle>三十八</ItemTitle>
@@ -1851,12 +1851,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">赤穂地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>兵庫県赤穂市加里屋字東沖手、字江戸及び字沖手の区域のうち主務大臣の定める区域　これらの区域と海岸線との間の区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="81">
+        <ItemTitle>兵庫県赤穂市加里屋字東沖手、字江戸及び字沖手の区域のうち主務大臣の定める区域</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">これらの区域と海岸線との間の区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="82">
         <ItemTitle>四十四</ItemTitle>
@@ -1898,17 +1898,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">和歌山北部臨海中部地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Column Num="1">
-              <Sentence>和歌山県海南市船尾字中浜及び藤白の区域のうち主務大臣の定める区域</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence>当該区域に介在する道路の区域</Sentence>
-            </Column>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="85">
+        <ItemTitle>和歌山県海南市船尾字中浜及び藤白の区域のうち主務大臣の定める区域</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">当該区域に介在する道路の区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="86">
         <ItemTitle>四十六</ItemTitle>
@@ -2265,12 +2260,17 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">波方地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>愛媛県今治市波方町宮崎字船越の区域　同市波方町宮崎字小鯛ヶ浦、字大畑、字番所、字中浦及び字本谷の区域のうち主務大臣の定める区域　これらの区域に介在する道路の区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="109">
+        <ItemTitle>愛媛県今治市波方町宮崎字船越の区域</ItemTitle>
+        <ItemSentence>
+          <Column Num="1">
+            <Sentence Num="1" WritingMode="vertical">同市波方町宮崎字小鯛ヶ浦、字大畑、字番所、字中浦及び字本谷の区域のうち主務大臣の定める区域</Sentence>
+          </Column>
+          <Column Num="2">
+            <Sentence Num="1" WritingMode="vertical">これらの区域に介在する道路の区域</Sentence>
+          </Column>
+        </ItemSentence>
       </Item>
       <Item Num="110">
         <ItemTitle>六十</ItemTitle>
@@ -2408,12 +2408,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">上五島地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>長崎県南松浦郡新上五島町続浜ノ浦郷字柏島　同町続浜ノ浦郷字折島の区域のうち主務大臣の定める区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="123">
+        <ItemTitle>長崎県南松浦郡新上五島町続浜ノ浦郷字柏島</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">同町続浜ノ浦郷字折島の区域のうち主務大臣の定める区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="124">
         <ItemTitle>六十七</ItemTitle>
@@ -2456,12 +2456,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">串木野地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>鹿児島県いちき串木野市大字荒川字岩坂、字落シ、字梅越及び字攻口の区域　同市大字荒川字小山、字小山ノ前、字愛宕平、字平木場、字柳ケ本及び字焼蒔ケ迫、深田下、野元並びに西薩町の区域のうち主務大臣の定める区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="129">
+        <ItemTitle>鹿児島県いちき串木野市大字荒川字岩坂、字落シ、字梅越及び字攻口の区域</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">同市大字荒川字小山、字小山ノ前、字愛宕平、字平木場、字柳ケ本及び字焼蒔ケ迫、深田下、野元並びに西薩町の区域のうち主務大臣の定める区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="130">
         <ItemTitle>七十</ItemTitle>
@@ -2510,12 +2510,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">平安座地区</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence>沖縄県うるま市与那城平宮及び与那城平安座の区域のうち主務大臣の定める区域　当該区域と海岸線で囲まれた区域</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
+      </Item>
+      <Item Num="136">
+        <ItemTitle>沖縄県うるま市与那城平宮及び与那城平安座の区域のうち主務大臣の定める区域</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">当該区域と海岸線で囲まれた区域</Sentence>
+        </ItemSentence>
       </Item>
       <Item Num="137">
         <ItemTitle>七十四</ItemTitle>

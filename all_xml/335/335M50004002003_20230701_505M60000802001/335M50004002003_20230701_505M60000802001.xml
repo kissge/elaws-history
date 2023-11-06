@@ -6401,12 +6401,8 @@
             <TableColumn>
               <Sentence>大型自動二輪車及び普通自動二輪車二人乗り通行禁止（３１０の２）</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn colspan="2">
               <Sentence>タイヤチェーンを取り付けていない車両通行止め（３１０の３）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>指定方向外進行禁止（３１１―Ａ）</Sentence>
-              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6420,280 +6416,277 @@
                 <Fig src="./pict/S35F03102010003-131.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-132.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>指定方向外進行禁止（３１１―Ａ）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>指定方向外進行禁止（３１１―Ｂ）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>指定方向外進行禁止（３１１―Ｃ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-133.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>指定方向外進行禁止（３１１―Ｂ）</Sentence>
-            </TableColumn>
             <TableColumn>
-              <Sentence>指定方向外進行禁止（３１１―Ｃ）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>指定方向外進行禁止（３１１―Ｄ）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-134.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-135.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>指定方向外進行禁止（３１１―Ｄ）</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>指定方向外進行禁止（３１１―Ｅ）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>指定方向外進行禁止（３１１―Ｆ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-136.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>指定方向外進行禁止（３１１―Ｅ）</Sentence>
-            </TableColumn>
             <TableColumn>
-              <Sentence>指定方向外進行禁止（３１１―Ｆ）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>車両横断禁止（３１２）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-137.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-138.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
-              <FigStruct>
-                <Fig src="./pict/S35F03102010003-139.jpg"/>
-              </FigStruct>
-            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="2" rowspan="2">
+              <Sentence>車両横断禁止（３１２）</Sentence>
+            </TableColumn>
+            <TableColumn rowspan="2">
               <Sentence>転回禁止（３１３）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="none">
+            <TableColumn colspan="2" BorderBottom="none">
               <Sentence>追越しのための右側部分はみ出し通行禁止（３１４）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2" rowspan="2">
-              <Sentence>駐停車禁止（３１５）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderTop="none">
+            <TableColumn colspan="2" BorderTop="none">
               <Sentence>追越し禁止（３１４の２）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
-                <Fig src="./pict/S35F03102010003-140.jpg"/>
+                <Fig src="./pict/S35F03102010003-139.jpg"/>
               </FigStruct>
             </TableColumn>
             <TableColumn>
               <FigStruct>
-                <Fig src="./pict/S35F03102010003-141.jpg"/>
+                <Fig src="./pict/S35F03102010003-140.jpg"/>
               </FigStruct>
             </TableColumn>
             <TableColumn colspan="2">
               <FigStruct>
-                <Fig src="./pict/S35F03102010003-142.jpg"/>
+                <Fig src="./pict/S35F03102010003-141.jpg"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" colspan="2">
+            <TableColumn colspan="2" rowspan="2">
+              <Sentence>駐停車禁止（３１５）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none">
               <Sentence>駐車禁止（３１６）</Sentence>
             </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>時間制限駐車区間（３１８）</Sentence>
-            </TableColumn>
             <TableColumn colspan="2" rowspan="2">
-              <Sentence>危険物積載車両通行止め（３１９）</Sentence>
+              <Sentence>時間制限駐車区間（３１８）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderTop="none" colspan="2">
+            <TableColumn BorderTop="none">
               <Sentence>駐車余地（３１７）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
-                <Fig src="./pict/S35F03102010003-143.jpg"/>
+                <Fig src="./pict/S35F03102010003-142.jpg"/>
               </FigStruct>
             </TableColumn>
             <TableColumn>
               <FigStruct>
+                <Fig src="./pict/S35F03102010003-143.jpg"/>
+              </FigStruct>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <FigStruct>
                 <Fig src="./pict/S35F03102010003-144.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>危険物積載車両通行止め（３１９）</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>重量制限（３２０）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>高さ制限（３２１）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-145.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>重量制限（３２０）</Sentence>
-            </TableColumn>
             <TableColumn>
-              <Sentence>高さ制限（３２１）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>最大幅（３２２）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-146.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-147.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
-              <FigStruct>
-                <Fig src="./pict/S35F03102010003-148.jpg"/>
-              </FigStruct>
-            </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" colspan="2">
+            <TableColumn colspan="2" rowspan="2">
+              <Sentence>最大幅（３２２）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none">
               <Sentence>最高速度（３２３）</Sentence>
             </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>最低速度（３２４）</Sentence>
-            </TableColumn>
             <TableColumn colspan="2" rowspan="2">
-              <Sentence>自動車専用（３２５）</Sentence>
+              <Sentence>最低速度（３２４）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderTop="none" colspan="2">
+            <TableColumn BorderTop="none">
               <Sentence>特定の種類の車両の最高速度（３２３の２）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
-                <Fig src="./pict/S35F03102010003-149.jpg"/>
+                <Fig src="./pict/S35F03102010003-148.jpg"/>
               </FigStruct>
             </TableColumn>
             <TableColumn>
               <FigStruct>
+                <Fig src="./pict/S35F03102010003-149.jpg"/>
+              </FigStruct>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <FigStruct>
                 <Fig src="./pict/S35F03102010003-150.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>自動車専用（３２５）</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>特定小型原動機付自転車・自転車専用（３２５の２）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>普通自転車等及び歩行者等専用（３２５の３）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-151.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>特定小型原動機付自転車・自転車専用（３２５の２）</Sentence>
-            </TableColumn>
             <TableColumn>
-              <Sentence>普通自転車等及び歩行者等専用（３２５の３）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>歩行者等専用（３２５の４）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/2JH00000215380.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/2JH00000215381.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>歩行者等専用（３２５の４）</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>許可車両専用（３２５の５―Ａ）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>許可車両専用（３２５の５―Ｂ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-154.jpg"/>
               </FigStruct>
             </TableColumn>
+            <TableColumn>
+              <FigStruct>
+                <Fig src="./pict/2JH00000215383.jpg"/>
+              </FigStruct>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <FigStruct>
+                <Fig src="./pict/2JH00000215384.jpg"/>
+              </FigStruct>
+            </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>許可車両専用（３２５の５―Ａ）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>許可車両専用（３２５の５―Ｂ）</Sentence>
-            </TableColumn>
             <TableColumn colspan="2">
               <Sentence>許可車両専用（３２５の５―Ｃ）</Sentence>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <FigStruct>
-                <Fig src=""/>
-              </FigStruct>
-            </TableColumn>
             <TableColumn>
-              <FigStruct>
-                <Fig src=""/>
-              </FigStruct>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <FigStruct>
-                <Fig src=""/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
               <Sentence>許可車両（組合せ）専用（３２５の６）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>広域災害応急対策車両専用（３２５の７）</Sentence>
-            </TableColumn>
             <TableColumn colspan="2">
-              <Sentence/>
+              <Sentence>広域災害応急対策車両専用（３２５の７）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
-                <Fig src=""/>
+                <Fig src="./pict/2JH00000215385.jpg"/>
               </FigStruct>
             </TableColumn>
             <TableColumn>
               <FigStruct>
-                <Fig src=""/>
+                <Fig src="./pict/2JH00000215386.jpg"/>
               </FigStruct>
             </TableColumn>
             <TableColumn colspan="2">
-              <Sentence/>
+              <FigStruct>
+                <Fig src="./pict/2JH00000215387.jpg"/>
+              </FigStruct>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6902,12 +6895,6 @@
             <TableColumn BorderBottom="none" colspan="2">
               <Sentence>徐行（３２９―Ｂ）</Sentence>
             </TableColumn>
-            <TableColumn colspan="2" rowspan="2">
-              <Sentence>一時停止（３３０―Ａ）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2" rowspan="2">
-              <Sentence>一時停止（３３０―Ｂ）</Sentence>
-            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderTop="none" colspan="2">
@@ -6936,32 +6923,42 @@
                 <Fig src="./pict/S35F03102010003-178.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>一時停止（３３０―Ａ）</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>一時停止（３３０―Ｂ）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>歩行者等通行止め（３３１）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-179.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-180.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>歩行者等通行止め（３３１）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>歩行者等横断禁止（３３２）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-181.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>歩行者等横断禁止（３３２）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-182.jpg"/>
               </FigStruct>
@@ -6989,12 +6986,12 @@
             <TableColumn rowspan="2">
               <Sentence>軌道敷内通行可（４０２）</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn BorderBottom="none" colspan="2">
               <Sentence>高齢運転者等標章自動車駐車可（４０２の２）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn BorderTop="none" colspan="2">
               <Sentence>駐車可（４０３）</Sentence>
             </TableColumn>
           </TableRow>
@@ -7016,7 +7013,7 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn BorderBottom="none" colspan="2">
               <Sentence>高齢運転者等標章自動車停車可（４０３の２）</Sentence>
             </TableColumn>
             <TableColumn rowspan="2">
@@ -7027,7 +7024,7 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn BorderTop="none" colspan="2">
               <Sentence>停車可（４０４）</Sentence>
             </TableColumn>
           </TableRow>
@@ -7205,9 +7202,6 @@
             <TableColumn colspan="2">
               <Sentence>駐車時間制限（５０４の２）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>始まり（５０５―Ａ）</Sentence>
-            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn colspan="2">
@@ -7225,203 +7219,210 @@
                 <Fig src="./pict/S35F03102010003-206.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>始まり（５０５―Ａ）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>始まり（５０５―Ｂ）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>始まり（５０５―Ｃ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-207.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>始まり（５０５―Ｂ）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>始まり（５０５―Ｃ）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>区間内（５０６）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-208.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-209.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>区間内（５０６）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>区域内（５０６の２）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>終わり（５０７―Ａ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-210.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>区域内（５０６の２）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>終わり（５０７―Ａ）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>終わり（５０７―Ｂ）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-211.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-212.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>終わり（５０７―Ｂ）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>終わり（５０７―Ｃ）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>終わり（５０７―Ｄ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-213.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>終わり（５０７―Ｃ）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>終わり（５０７―Ｄ）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>通学路（５０８）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-214.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-215.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>通学路（５０８）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>追越し禁止（５０８の２）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>前方優先道路（５０９）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-216.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>追越し禁止（５０８の２）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>前方優先道路（５０９）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>踏切注意（５０９の２）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-217.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-218.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>踏切注意（５０９の２）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>横風注意（５０９の３）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>動物注意（５０９の４）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-219.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>横風注意（５０９の３）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>動物注意（５０９の４）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>注意（５０９の５）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-220.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-221.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>注意（５０９の５）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>注意事項（５１０）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>規制理由（５１０の２）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-222.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>注意事項（５１０）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>規制理由（５１０の２）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>方向（５１１）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-223.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-224.jpg"/>
               </FigStruct>
             </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>方向（５１１）</Sentence>
+            </TableColumn>
+            <TableColumn colspan="2">
+              <Sentence>地名（５１２）</Sentence>
+            </TableColumn>
             <TableColumn>
+              <Sentence>始点（５１３）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-225.jpg"/>
               </FigStruct>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>地名（５１２）</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>始点（５１３）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>終点（５１４）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-226.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn>
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-227.jpg"/>
               </FigStruct>
             </TableColumn>
-            <TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
+              <Sentence>終点（５１４）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn colspan="2">
               <FigStruct>
                 <Fig src="./pict/S35F03102010003-228.jpg"/>
               </FigStruct>
