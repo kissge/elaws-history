@@ -770,7 +770,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第３条から第１１条まで関係）</RelatedArticleNum>
       <StyleStruct>
@@ -779,7 +779,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２</AppdxStyleTitle>
       <RelatedArticleNum>（第３条から第１１条まで関係）</RelatedArticleNum>
       <StyleStruct>
@@ -788,7 +788,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第１</AppdxTableTitle>
       <RelatedArticleNum>（第３条から第９条、第１１条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -796,10 +796,12 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第１表</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">収入上限を構成する項目分類表</Sentence>
+        </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">収入上限を構成する項目分類表</TableStructTitle>        
-<Table WritingMode="vertical">
+        <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">費用及び収益の区分</Sentence>
@@ -1715,7 +1717,7 @@
               <Sentence Num="1" WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">固産資産除却費</Sentence>
+              <Sentence Num="1" WritingMode="vertical">固定資産除却費</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -3652,14 +3654,18 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
       <Item Num="2">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第２表</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+        <Subitem1Sentence>
+          <Sentence Num="1" WritingMode="vertical">レートベース分類表</Sentence>
+        </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">レートベース分類表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3894,6 +3900,8 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
     </AppdxTable>
   </LawBody>
 </Law>
