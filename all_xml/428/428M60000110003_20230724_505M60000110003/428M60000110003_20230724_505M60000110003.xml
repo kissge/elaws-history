@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="28" PromulgateMonth="11" PromulgateDay="28"><LawNum>平成二十八年法務省・厚生労働省令第三号</LawNum><LawBody><LawTitle Kana="がいこくじんのぎのうじっしゅうのてきせいなじっしおよびぎのうじっしゅうせいのほごにかんするほうりつせこうきそく" Abbrev="技能実習法施行規則" AbbrevKana="ぎ">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律施行規則</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="28" PromulgateMonth="11" PromulgateDay="28"><LawNum>平成二十八年法務省・厚生労働省令第三号</LawNum><LawBody><LawTitle Kana="がいこくじんのぎのうじっしゅうのてきせいなじっしおよびぎのうじっしゅうせいのほごにかんするほうりつしこうきそく" Abbrev="技能実習法施行規則" AbbrevKana="ぎ">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律施行規則</LawTitle>
     <EnactStatement>外国人の技能実習の適正な実施及び技能実習生の保護に関する法律（平成二十八年法律第八十九号）の規定に基づき、及び同法を実施するため、外国人の技能実習の適正な実施及び技能実習生の保護に関する法律施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -4617,10 +4617,14 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
+      <Item Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">農業関係（二職種六作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">一　農業関係（二職種六作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4722,8 +4726,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">漁業関係（二職種十作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">二　漁業関係（二職種十作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4878,8 +4887,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>三</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">建設関係（一職種四作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">三　建設関係（一職種四作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4947,8 +4961,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="4">
+        <ItemTitle>四</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">食品製造関係（八職種十五作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">四　食品製造関係（八職種十五作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5164,8 +5183,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="5">
+        <ItemTitle>五</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">繊維・衣服関係（六職種十三作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">五　繊維・衣服関係（六職種十三作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5353,8 +5377,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="5_2">
+        <ItemTitle>五の二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">機械・金属関係（一職種二作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">五の二　機械・金属関係（一職種二作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5391,8 +5420,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="6">
+        <ItemTitle>六</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">その他（十二職種十九作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">六　その他（十二職種十九作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5670,17 +5704,22 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+      </Item>
+      <Item Num="7">
         <ItemTitle>七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、法務大臣及び厚生労働大臣が告示で定める試験</Sentence>
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
+      <Item Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">農業関係（二職種六作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">一　農業関係（二職種六作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5740,8 +5779,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">漁業関係（二職種十作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">二　漁業関係（二職種十作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5833,8 +5877,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>三</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">建設関係（二十二職種三十三作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">三　建設関係（二十二職種三十三作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6110,8 +6159,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="4">
+        <ItemTitle>四</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">食品製造関係（十一職種十八作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">四　食品製造関係（十一職種十八作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6267,8 +6321,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="5">
+        <ItemTitle>五</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">繊維・衣服関係（十三職種二十二作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">五　繊維・衣服関係（十三職種二十二作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6456,8 +6515,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="6">
+        <ItemTitle>六</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">機械・金属関係（十六職種三十一作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">六　機械・金属関係（十六職種三十一作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6717,8 +6781,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="7">
+        <ItemTitle>七</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">その他（二十職種三十七作業）</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">七　その他（二十職種三十七作業）</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7026,14 +7095,15 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+      </Item>
+      <Item Num="8">
         <ItemTitle>八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、法務大臣及び厚生労働大臣が告示で定める職種及び作業</Sentence>
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7042,7 +7112,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7051,7 +7121,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7060,7 +7130,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7069,7 +7139,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7078,7 +7148,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7087,7 +7157,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7096,7 +7166,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7105,7 +7175,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第２号</AppdxStyleTitle>
       <RelatedArticleNum>（第５条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7114,7 +7184,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（第１７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7123,7 +7193,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第４号</AppdxStyleTitle>
       <RelatedArticleNum>（第１８条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7132,7 +7202,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第５号</AppdxStyleTitle>
       <RelatedArticleNum>（第１８条第３項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7141,7 +7211,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第６号</AppdxStyleTitle>
       <RelatedArticleNum>（第１９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7150,7 +7220,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第７号</AppdxStyleTitle>
       <RelatedArticleNum>（第２０条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7159,7 +7229,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第８号</AppdxStyleTitle>
       <RelatedArticleNum>（第２０条第３項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7168,7 +7238,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第９号</AppdxStyleTitle>
       <RelatedArticleNum>（第２１条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7177,7 +7247,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１０号</AppdxStyleTitle>
       <RelatedArticleNum>（第２３条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7186,7 +7256,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１号</AppdxStyleTitle>
       <RelatedArticleNum>（第２４条及び第４１条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7195,7 +7265,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１号</AppdxStyleTitle>
       <RelatedArticleNum>（第２４条及び第４１条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7204,7 +7274,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１２号</AppdxStyleTitle>
       <RelatedArticleNum>（第２７条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7213,7 +7283,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１３号</AppdxStyleTitle>
       <RelatedArticleNum>（第３４条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7222,7 +7292,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１４号</AppdxStyleTitle>
       <RelatedArticleNum>（第３８条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7231,7 +7301,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１５号</AppdxStyleTitle>
       <RelatedArticleNum>（第３８条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7240,7 +7310,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１６号</AppdxStyleTitle>
       <RelatedArticleNum>（第４３条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7249,7 +7319,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１７号</AppdxStyleTitle>
       <RelatedArticleNum>（第４７条第１項及び第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7258,7 +7328,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１８号</AppdxStyleTitle>
       <RelatedArticleNum>（第４８条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7267,7 +7337,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１９号</AppdxStyleTitle>
       <RelatedArticleNum>（第４９条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7276,7 +7346,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="20">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第２０号</AppdxStyleTitle>
       <RelatedArticleNum>（第５０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7285,7 +7355,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第２１号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7294,7 +7364,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第２２号</AppdxStyleTitle>
       <RelatedArticleNum>（第５５条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7303,7 +7373,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="23">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第２３号</AppdxStyleTitle>
       <RelatedArticleNum>（第５５条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -7312,7 +7382,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="24">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第２４号</AppdxStyleTitle>
       <RelatedArticleNum>（第６４条関係）</RelatedArticleNum>
       <StyleStruct>
