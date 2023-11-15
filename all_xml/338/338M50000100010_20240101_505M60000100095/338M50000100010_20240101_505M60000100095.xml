@@ -496,24 +496,24 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
+              <Column LineBreak="true" Num="1"> 
                 <Sentence Num="1" WritingMode="vertical">次の式により算定した額（銭未満は四捨五入するものとし、五万四百五十七円二銭を超える場合は五万四百五十七円二銭とする。以下「基礎賦課基準応益割額」という。）に、当該都道府県の平均被保険者数（当該都道府県に係る当該年度の前年度の一月から当該年度の十二月までの各月末における被保険者の数の合計数を十二で除した数をいう。以下この条において同じ。）を乗じて得た額</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>（調整対象需要額から第四条第一項第二号及び第三号に掲げる額を控除して得た額／当該都道府県の平均被保険者数）×０．３７３２３３２０８</ArithFormula></Sentence>
-                </ListSentence>
-              </List>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（調整対象需要額から第四条第一項第二号及び第三号に掲げる額を控除して得た額／当該都道府県の平均被保険者数）×０．３７３２３３２０８</ArithFormula></Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
+              <Column LineBreak="true" Num="1"> 
                 <Sentence Num="1" WritingMode="vertical">当該都道府県の賦課期日（法第七十六条の二に規定する賦課期日をいう。以下この条において同じ。）における被保険者に係る基礎控除後の総所得金額等（施行令第二十九条の七第二項第四号に規定する基礎控除後の総所得金額等をいう。以下同じ。）の合計額に、次の式により算定した率（小数点以下第十三位未満は四捨五入するものとし、〇・〇九二四八九七五七一三三五を超える場合は〇・〇九二四八九七五七一三三五とする。以下「基礎賦課基準応能割率」という。）を乗じて得た額</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．００００００６８４１５１５×（調整対象需要額から第四条第一項第二号及び第三号に掲げる額を控除して得た額／当該都道府県の平均被保険者数）</ArithFormula></Sentence>
-                </ListSentence>
-              </List>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．００００００６８４１５１５×（調整対象需要額から第四条第一項第二号及び第三号に掲げる額を控除して得た額／当該都道府県の平均被保険者数）</ArithFormula></Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
           </Item>
           <Item Num="2">
@@ -598,57 +598,34 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">次のイからヲまでに掲げる場合に該当する当該都道府県内の市町村がある場合</Sentence>
-            </ItemSentence>
-            <List>
-              <ListSentence>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">次のイからヲまでに掲げる場合に該当する当該都道府県内の市町村がある場合</Sentence>
+              </Column>
+              <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">当該各市町村における当該イからヲまでにそれぞれ定める額の合算額の総額</Sentence>
-              </ListSentence>
-            </List>
-          </Item>
-          <TableStruct>
-            <Table WritingMode="vertical">
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-                    <Item Num="1">
-                      <ItemSentence>
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </ItemSentence>
+              </Column>
+            </ItemSentence>
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
+              <Column LineBreak="true" Num="1"> 
                 <Sentence Num="1" WritingMode="vertical">当該年度の前年度の一月一日から当該年度の十二月三十一日までの間に災害等により減免の措置を採つた被保険者に係る保険料（国民健康保険税を含む。以下同じ。）の額の合計額が、次条の規定により算定した市町村調整対象需要額の百分の三に相当する額以上である場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該被保険者に係る保険料の減免額の十分の八以内の額</Sentence>
-                </ListSentence>
-              </List>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該被保険者に係る保険料の減免額の十分の八以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
+              <Column LineBreak="true" Num="1"> 
                 <Sentence Num="1" WritingMode="vertical">施行令第二十九条の七の二第二項又は地方税法第七百三条の五の二第二項に規定する特例対象被保険者等（以下このロにおいて「特例対象被保険者等」という。）の保険料を減額する場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">（１）及び（２）に掲げる額の合算額（零未満の場合は零とする。）並びに（３）及び（４）に掲げる額の合算額（零未満の場合は零とする。）の合算額から、当該年度の前年度における法第七十二条の三の二第一項の規定による繰入金に相当する額のうち、特例対象被保険者等の属する世帯（同年度の賦課期日において、施行令第二十九条の七第五項第六号及び第七号又は地方税法第七百三条の五第二項に定める基準に従い保険料を減額された世帯に限る。）に属する六歳に達する日以後の最初の三月三十一日以前である被保険者（以下このロにおいて「減額対象者」という。）に係る額に十二分の三を乗じて得た額及び当該年度における法第七十二条の三の二第一項の規定による繰入金に相当する額のうち、減額対象者に係る額に十二分の九を乗じて得た額の合算額並びに当該年度の前年度における法第七十二条の三の三第一項の規定による繰入金に相当する額のうち、特例対象被保険者等の属する世帯（同年度の賦課期日において、施行令第二十九条の七第五項第八号及び第九号又は同法第七百三条の五第三項に定める基準に従い保険料を減額された世帯に限る。）に属する出産する予定の被保険者又は出産した被保険者（以下このロにおいて「出産減額対象者」という。）に係る額に十二分の三を乗じて得た額及び当該年度における法第七十二条の三の三第一項の規定による繰入金に相当する額のうち、出産減額対象者に係る額に十二分の九を乗じて得た額の合算額を控除して得た額（零未満の場合は零とする。）</Sentence>
-                </ListSentence>
-              </List>
-            </Subitem1>
-                    </Item>
-                  </TableColumn>
-                </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-                    <Item Num="1">
-                      <ItemSentence>
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </ItemSentence>
-                      <Subitem1 Num="1">
-                        <Subitem1Sentence>
-                          <Sentence Num="1" WritingMode="vertical"/>
-                        </Subitem1Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">（１）及び（２）に掲げる額の合算額（零未満の場合は零とする。）並びに（３）及び（４）に掲げる額の合算額（零未満の場合は零とする。）の合算額から、当該年度の前年度における法第七十二条の三の二第一項の規定による繰入金に相当する額のうち、特例対象被保険者等の属する世帯（同年度の賦課期日において、施行令第二十九条の七第五項第六号及び第七号又は地方税法第七百三条の五第二項に定める基準に従い保険料を減額された世帯に限る。）に属する六歳に達する日以後の最初の三月三十一日以前である被保険者（以下このロにおいて「減額対象者」という。）に係る額に十二分の三を乗じて得た額及び当該年度における法第七十二条の三の二第一項の規定による繰入金に相当する額のうち、減額対象者に係る額に十二分の九を乗じて得た額の合算額並びに当該年度の前年度における法第七十二条の三の三第一項の規定による繰入金に相当する額のうち、特例対象被保険者等の属する世帯（同年度の賦課期日において、施行令第二十九条の七第五項第八号及び第九号又は同法第七百三条の五第三項に定める基準に従い保険料を減額された世帯に限る。）に属する出産する予定の被保険者又は出産した被保険者（以下このロにおいて「出産減額対象者」という。）に係る額に十二分の三を乗じて得た額及び当該年度における法第七十二条の三の三第一項の規定による繰入金に相当する額のうち、出産減額対象者に係る額に十二分の九を乗じて得た額の合算額を控除して得た額（零未満の場合は零とする。）</Sentence>
+              </Column>
+            </Subitem1Sentence>
               <Subitem2 Num="1">
                 <Subitem2Title>（１）</Subitem2Title>
                 <Subitem2Sentence>
@@ -673,105 +650,96 @@
                   <Sentence Num="1" WritingMode="vertical">当該年度に納付すべきものとして賦課期日に賦課された被保険者に係る保険料（法第七十五条の七第一項の国民健康保険事業費納付金の納付に要する費用に充てるための保険料を除く。）の総額を同年度の賦課期日における被保険者の総数で除して得た額に同年度における特例対象被保険者等の属する世帯に属する被保険者（特例対象者を除く。）の総数を乗じて得た額と、同年度に納付すべきものとして賦課期日に賦課された被保険者に係る法第七十五条の七第一項の国民健康保険事業費納付金の納付に要する費用に充てるための保険料の総額を同年度の賦課期日における介護納付金賦課被保険者の総数で除して得た額に同年度における特例対象被保険者等の属する世帯に属する被保険者（特例対象者でない者であつて介護納付金賦課被保険者である者に限る。）の総数を乗じて得た額の合計額から、同年度に納付すべきものとして賦課された特例対象被保険者等の属する世帯に属する被保険者（特例対象者を除く。）に係る保険料の総額を控除した額に十二分の九を乗じて得た額</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
-                      </Subitem1>
-                    </Item>
-                  </TableColumn>
-                </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-                    <Item Num="1">
-                      <ItemSentence>
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>ハ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">当該年度の前年度の一月一日から当該年度の十二月三十一日までの間に、世帯主及びその世帯に属する被保険者（以下このハにおいて「世帯主等」という。）の収入の額の合計額が当該世帯主等について生活保護法（昭和二十五年法律第百四十四号）の規定の適用があるものとして同法第十一条第一項第一号から第三号までに掲げる扶助について同法第八条第一項の規定に基づき厚生労働大臣が定める基準の例により測定した当該世帯主等の需要の額の合計額に千分の千百五十五を乗じて得た額（以下このハにおいて「基準額」という。）以下であり、かつ、当該世帯主等の預貯金の額の合計額が基準額の三月分に相当する額以下である世帯の入院療養を受ける被保険者に対する一部負担金の減免額がある場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該入院療養に係る一部負担金の減免額（施行令第二十九条の二第一項第二号に規定する特定給付対象療養を受ける被保険者に係る一部負担金の減免額については、当該被保険者がなお負担すべき額について行つた減免額に限る。）並びに当該減免により加算された保険外併用療養費、訪問看護療養費及び特別療養費の額の合算額の二分の一以内の額</Sentence>
-                </ListSentence>
-              </List>
-            </Subitem1>
-            <Subitem1 Num="2">
-              <Subitem1Title>ニ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">当該年度の前年度の一月一日から当該年度の十二月三十一日までの間における災害等による療養の給付に係る一部負担金の減免額（ハに規定する入院療養を受ける被保険者に係る額を除く。以下このニにおいて同じ。）並びに当該減免により加算された保険外併用療養費、訪問看護療養費及び特別療養費の額（ハに規定する入院療養を受ける被保険者に係る額を除く。以下このニにおいて同じ。）の合算額が、その額並びに同期間に行われた療養の給付に係る一部負担金の額（ハに規定する入院療養を受ける被保険者に係る額を除く。）、同期間に行われた保険外併用療養費又は特別療養費の支給についての療養（食事療養及び生活療養を除く。）につき算定した費用の額（その額が現に当該療養に要した費用の額を超えるときは、当該現に療養に要した費用の額とする。）からこれらの療養に要した費用につき保険外併用療養費又は特別療養費として支給される額に相当する額を控除した額（ハに規定する入院療養を受ける被保険者に係る額を除く。）及び同期間に行われた訪問看護療養費の支給についての療養につき算定した費用の額からその療養に要した費用につき訪問看護療養費として支給される額に相当する額を控除した額（ハに規定する入院療養を受ける被保険者に係る額を除く。）の合算額の百分の三に相当する額以上である場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該療養の給付に係る一部負担金の減免額（施行令第二十九条の二第一項第二号に規定する特定給付対象療養を受ける被保険者に係る一部負担金の減免額については、当該被保険者がなお負担すべき額について行つた減免額に限る。）並びに当該減免により加算された保険外併用療養費、訪問看護療養費及び特別療養費の額の合算額の十分の八以内の額</Sentence>
-                </ListSentence>
-              </List>
             </Subitem1>
             <Subitem1 Num="3">
-              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、流行病又は災害を原因とする疾病若しくは負傷に係る額の占める割合が十分の一を超える場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額に当該超える割合を乗じて得た額の十分の八以内の額</Sentence>
-                </ListSentence>
-              </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">当該年度の前年度の一月一日から当該年度の十二月三十一日までの間に、世帯主及びその世帯に属する被保険者（以下このハにおいて「世帯主等」という。）の収入の額の合計額が当該世帯主等について生活保護法（昭和二十五年法律第百四十四号）の規定の適用があるものとして同法第十一条第一項第一号から第三号までに掲げる扶助について同法第八条第一項の規定に基づき厚生労働大臣が定める基準の例により測定した当該世帯主等の需要の額の合計額に千分の千百五十五を乗じて得た額（以下このハにおいて「基準額」という。）以下であり、かつ、当該世帯主等の預貯金の額の合計額が基準額の三月分に相当する額以下である世帯の入院療養を受ける被保険者に対する一部負担金の減免額がある場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該入院療養に係る一部負担金の減免額（施行令第二十九条の二第一項第二号に規定する特定給付対象療養を受ける被保険者に係る一部負担金の減免額については、当該被保険者がなお負担すべき額について行つた減免額に限る。）並びに当該減免により加算された保険外併用療養費、訪問看護療養費及び特別療養費の額の合算額の二分の一以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="4">
-              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、地域的に発生する特殊疾病に係る額（法第五十五条第一項又は国民健康保険法施行法（昭和三十三年法律第百九十三号）第五条第三項の規定による療養の給付、入院時食事療養費の支給、入院時生活療養費の支給、保険外併用療養費の支給、訪問看護療養費の支給、特別療養費の支給又は移送費の支給（以下「特別療養給付」という。）に係る額であつて、当該疾病に係るものを除く。）の占める割合が百分の五を超える場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額に当該超える割合を乗じて得た額の十分の五以内の額</Sentence>
-                </ListSentence>
-              </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">当該年度の前年度の一月一日から当該年度の十二月三十一日までの間における災害等による療養の給付に係る一部負担金の減免額（ハに規定する入院療養を受ける被保険者に係る額を除く。以下このニにおいて同じ。）並びに当該減免により加算された保険外併用療養費、訪問看護療養費及び特別療養費の額（ハに規定する入院療養を受ける被保険者に係る額を除く。以下このニにおいて同じ。）の合算額が、その額並びに同期間に行われた療養の給付に係る一部負担金の額（ハに規定する入院療養を受ける被保険者に係る額を除く。）、同期間に行われた保険外併用療養費又は特別療養費の支給についての療養（食事療養及び生活療養を除く。）につき算定した費用の額（その額が現に当該療養に要した費用の額を超えるときは、当該現に療養に要した費用の額とする。）からこれらの療養に要した費用につき保険外併用療養費又は特別療養費として支給される額に相当する額を控除した額（ハに規定する入院療養を受ける被保険者に係る額を除く。）及び同期間に行われた訪問看護療養費の支給についての療養につき算定した費用の額からその療養に要した費用につき訪問看護療養費として支給される額に相当する額を控除した額（ハに規定する入院療養を受ける被保険者に係る額を除く。）の合算額の百分の三に相当する額以上である場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該療養の給付に係る一部負担金の減免額（施行令第二十九条の二第一項第二号に規定する特定給付対象療養を受ける被保険者に係る一部負担金の減免額については、当該被保険者がなお負担すべき額について行つた減免額に限る。）並びに当該減免により加算された保険外併用療養費、訪問看護療養費及び特別療養費の額の合算額の十分の八以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="5">
-              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、原子爆弾被爆者に対する援護に関する法律（平成六年法律第百十七号）にいう被爆者に係る額（特別療養給付に係る額であつて、当該被爆者に係るものを除く。以下同じ。）の占める割合が百分の三を超える場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該被爆者に係る額の十分の八以内の額</Sentence>
-                </ListSentence>
-              </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、流行病又は災害を原因とする疾病若しくは負傷に係る額の占める割合が十分の一を超える場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額に当該超える割合を乗じて得た額の十分の八以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="6">
-              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Title>ヘ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、原子爆弾被爆者に対する援護に関する法律施行規則（平成七年厚生省令第三十三号）附則第二条の規定により第二種健康診断受診者証の交付を受けた者であつて、原子爆弾被爆者に対する援護に関する法律施行令（平成七年政令第二十六号）別表第一若しくは別表第三に掲げる区域（長崎県の区域内に限る。）又は別表第四に掲げる区域（原子爆弾が投下された際の爆心地から十二キロメートルの区域内に限る。）に居住するもの（以下「対象被爆者」という。）に係る額（特別療養給付に係る額であつて、対象被爆者に係るものを除く。以下同じ。）の占める割合が百分の三を超える場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">対象被爆者に係る額の十分の五以内の額</Sentence>
-                </ListSentence>
-              </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、地域的に発生する特殊疾病に係る額（法第五十五条第一項又は国民健康保険法施行法（昭和三十三年法律第百九十三号）第五条第三項の規定による療養の給付、入院時食事療養費の支給、入院時生活療養費の支給、保険外併用療養費の支給、訪問看護療養費の支給、特別療養費の支給又は移送費の支給（以下「特別療養給付」という。）に係る額であつて、当該疾病に係るものを除く。）の占める割合が百分の五を超える場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額に当該超える割合を乗じて得た額の十分の五以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="7">
-              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Title>ト</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、健康保険法第七十六条第二項の規定により厚生労働大臣が定める算定方法に基づき定められた療養担当手当に係る額（特別療養給付に係る額であつて、当該療養担当手当に係るものを除く。以下同じ。）がある場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該療養担当手当に係る額の四分の三以内の額</Sentence>
-                </ListSentence>
-              </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、原子爆弾被爆者に対する援護に関する法律（平成六年法律第百十七号）にいう被爆者に係る額（特別療養給付に係る額であつて、当該被爆者に係るものを除く。以下同じ。）の占める割合が百分の三を超える場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該被爆者に係る額の十分の八以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="8">
-              <Subitem1Title>ヌ</Subitem1Title>
+              <Subitem1Title>チ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち特別療養給付に係る額がある場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該特別療養給付に係る額の十分の五以内の額</Sentence>
-                </ListSentence>
-              </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、原子爆弾被爆者に対する援護に関する法律施行規則（平成七年厚生省令第三十三号）附則第二条の規定により第二種健康診断受診者証の交付を受けた者であつて、原子爆弾被爆者に対する援護に関する法律施行令（平成七年政令第二十六号）別表第一若しくは別表第三に掲げる区域（長崎県の区域内に限る。）又は別表第四に掲げる区域（原子爆弾が投下された際の爆心地から十二キロメートルの区域内に限る。）に居住するもの（以下「対象被爆者」という。）に係る額（特別療養給付に係る額であつて、対象被爆者に係るものを除く。以下同じ。）の占める割合が百分の三を超える場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">対象被爆者に係る額の十分の五以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち、健康保険法第七十六条第二項の規定により厚生労働大臣が定める算定方法に基づき定められた療養担当手当に係る額（特別療養給付に係る額であつて、当該療養担当手当に係るものを除く。以下同じ。）がある場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該療養担当手当に係る額の四分の三以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="10">
+              <Subitem1Title>ヌ</Subitem1Title>
+              <Subitem1Sentence>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">次条第二項の規定を適用して算定した同条第一項第一号に掲げる額のうち特別療養給付に係る額がある場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該特別療養給付に係る額の十分の五以内の額</Sentence>
+              </Column>
+            </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="11">
               <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する直営診療施設（療養の給付を取り扱うため、市町村が設置する診療所をいう。以下「施設」という。）がある場合</Sentence>
@@ -785,46 +753,40 @@
               <Subitem2 Num="2">
                 <Subitem2Title>（２）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">（１）に該当しない施設であつて、四キロ区域内に他の医療機関のないもの</Sentence>
-                </Subitem2Sentence>
-                <List>
-                  <ListSentence>
-                    <Sentence Num="1" WritingMode="vertical">（１）に該当する施設がある場合にあつては、別表第一の二に掲げる額（その額が前年度の一月一日から当該年度の十二月三十一日までの間における別表第二の上欄に掲げる歳出予算科目に係る支出金の合計額から同期間における同表の下欄に掲げる歳入予算科目に係る収入金の合計額を控除した額を超える場合は、当該控除した額）の三分の二以内の額</Sentence>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Sentence Num="1" WritingMode="vertical">（２）に該当する施設がある場合にあつては、別表第三に掲げる額（その額が前年度の一月一日から当該年度の十二月三十一日までの間における別表第二の上欄に掲げる歳出予算科目に係る支出金の合計額から同期間における同表の下欄に掲げる歳入予算科目に係る収入金の合計額を控除した額を超える場合は、当該控除した額）の十分の五以内の額</Sentence>
-                  </ListSentence>
-                </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">（１）に該当しない施設であつて、四キロ区域内に他の医療機関のないもの</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="2">
+                <Sentence Num="1" WritingMode="vertical">（１）に該当する施設がある場合にあつては、別表第一の二に掲げる額（その額が前年度の一月一日から当該年度の十二月三十一日までの間における別表第二の上欄に掲げる歳出予算科目に係る支出金の合計額から同期間における同表の下欄に掲げる歳入予算科目に係る収入金の合計額を控除した額を超える場合は、当該控除した額）の三分の二以内の額</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">（２）に該当する施設がある場合にあつては、別表第三に掲げる額（その額が前年度の一月一日から当該年度の十二月三十一日までの間における別表第二の上欄に掲げる歳出予算科目に係る支出金の合計額から同期間における同表の下欄に掲げる歳入予算科目に係る収入金の合計額を控除した額を超える場合は、当該控除した額）の十分の五以内の額</Sentence>
+              </Column>
+            </Subitem2Sentence>
               </Subitem2>
             </Subitem1>
-            <Subitem1 Num="10">
+            <Subitem1 Num="12">
               <Subitem1Title>ヲ</Subitem1Title>
               <Subitem1Sentence>
+              <Column LineBreak="true" Num="1"> 
                 <Sentence Num="1" WritingMode="vertical">その他特別の事情がある場合</Sentence>
-              </Subitem1Sentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">別に定める額</Sentence>
-                </ListSentence>
-              </List>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">別に定める額</Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
-                    </Item>
-                  </TableColumn>
-                </TableRow>
-              </Table>
-            </TableStruct>
+          </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">当該都道府県に特別の事情がある場合</Sentence>
-            </ItemSentence>
-            <List>
-              <ListSentence>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">当該都道府県に特別の事情がある場合</Sentence>
+              </Column>
+              <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">別に定める額</Sentence>
-              </ListSentence>
-            </List>
+              </Column>
+            </ItemSentence>
           </Item>
         </Paragraph>
       </Article>
@@ -844,24 +806,24 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">当該市町村に係る第四条第一項第一号イ（１）から（１１）までに掲げる額の合算額（当該年度の前年度の一月一日から当該年度の十二月三十一日までの間において前期高齢者交付金がある都道府県内の市町村にあつては、当該前期高齢者交付金の額に次の式により算定した数を乗じて得た額（ハ及び第三項において「前期高齢者交付金按分額」という。）を控除した額）</Sentence>
-          </Subitem1Sentence>
-          <List>
-            <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000035679.jpg"/></QuoteStruct></Sentence>
-            </ListSentence>
-          </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">当該市町村に係る第四条第一項第一号イ（１）から（１１）までに掲げる額の合算額（当該年度の前年度の一月一日から当該年度の十二月三十一日までの間において前期高齢者交付金がある都道府県内の市町村にあつては、当該前期高齢者交付金の額に次の式により算定した数を乗じて得た額（ハ及び第三項において「前期高齢者交付金按分額」という。）を控除した額）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000035679.jpg"/></QuoteStruct></Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">当該都道府県に係る第四条第一項第一号ロに掲げる額に次の式により算定した数を乗じて得た額（第四項において「前期高齢者納付金按分額」という。）</Sentence>
-          </Subitem1Sentence>
-          <List>
-            <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000024349.jpg"/></QuoteStruct></Sentence>
-            </ListSentence>
-          </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">当該都道府県に係る第四条第一項第一号ロに掲げる額に次の式により算定した数を乗じて得た額（第四項において「前期高齢者納付金按分額」という。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000024349.jpg"/></QuoteStruct></Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
@@ -902,13 +864,13 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">当該都道府県に係る第四条第一項第二号イに掲げる額に次の式により算定した数を乗じて得た額（第五項において「後期高齢者支援金等按分額」という。）</Sentence>
-          </Subitem1Sentence>
-          <List>
-            <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000024350.jpg"/></QuoteStruct></Sentence>
-            </ListSentence>
-          </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">当該都道府県に係る第四条第一項第二号イに掲げる額に次の式により算定した数を乗じて得た額（第五項において「後期高齢者支援金等按分額」という。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000024350.jpg"/></QuoteStruct></Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
@@ -949,13 +911,13 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">当該都道府県に係る第四条第一項第三号イに掲げる額に次の式により算定した数を乗じて得た額（第六項において「介護納付金按分額」という。）</Sentence>
-          </Subitem1Sentence>
-          <List>
-            <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000024351.jpg"/></QuoteStruct></Sentence>
-            </ListSentence>
-          </List>
+              <Column LineBreak="true" Num="1"> 
+                <Sentence Num="1" WritingMode="vertical">当該都道府県に係る第四条第一項第三号イに掲げる額に次の式により算定した数を乗じて得た額（第六項において「介護納付金按分額」という。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000024351.jpg"/></QuoteStruct></Sentence>
+              </Column>
+            </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
@@ -3826,29 +3788,27 @@
             <Item Num="4">
               <ItemTitle>４</ItemTitle>
               <ItemSentence>
+              <Column LineBreak="true" Num="1"> 
                 <Sentence Num="1" WritingMode="vertical">対象被保険者数の対象年齢被保険者数に占める割合が<ArithFormula>６／１０</ArithFormula>未満の市町村の調整率は、この表の調整率にかかわらず、次の式により算定した率とする。</Sentence>
-              </ItemSentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>この表の調整率＋（１－この表の調整率）×（０．６－対象被保険者数÷対象年齢被保険者数）</ArithFormula></Sentence>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">ただし、対象被保険者数÷対象年齢被保険者数は、小数点以下第３位を四捨五入するものとする。</Sentence>
-                </ListSentence>
-              </List>
+              </Column>
+              <Column LineBreak="true" Num="2">
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>この表の調整率＋（１－この表の調整率）×（０．６－対象被保険者数÷対象年齢被保険者数）</ArithFormula></Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">ただし、対象被保険者数÷対象年齢被保険者数は、小数点以下第３位を四捨五入するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>５</ItemTitle>
               <ItemSentence>
+              <Column LineBreak="true" Num="1"> 
                 <Sentence Num="1" WritingMode="vertical">附則第３項第２号イ又は第３号イに該当することとなつた後に、同項第２号イ又は第３号イの年齢を引き下げた市町村の調整率は、この表の調整率に、当該年齢引下げの実施年月日における次に掲げる年齢の調整率を乗じて得た率とする。</Sentence>
-              </ItemSentence>
-              <List>
-                <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>７０歳－（附則第３項第２号イ又は第３号イに該当することとなつた日の対象年齢－年齢を引き下げた後の対象年齢）</ArithFormula></Sentence>
-                </ListSentence>
-              </List>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>７０歳－（附則第３項第２号イ又は第３号イに該当することとなつた日の対象年齢－年齢を引き下げた後の対象年齢）</ArithFormula></Sentence>
+              </Column>
+            </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>６</ItemTitle>
@@ -5278,7 +5238,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <TableStruct>
@@ -5437,7 +5397,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="1_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一の二</AppdxTableTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
@@ -5497,7 +5457,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
@@ -5659,7 +5619,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
