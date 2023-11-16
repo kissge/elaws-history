@@ -21164,7 +21164,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新農協法施行規則第百三十九条第三号ホからチまで、別紙様式第六号（一）第一２（２）ロ（記載上の注意）６、別紙様式第七号（一）第一２（２）ロ（記載上の注意）５、別紙様式第八号（一）第一２（２）ロ（記載上の注意）５、別紙様式第九号（一）第一２（２）ロ（記載上の注意）４及び別紙様式第十号（一）第一２（２）ロ（記載上の注意）４の規定、新森組法施行規則第六十六条第三号ニからトまでの規定並びに新水協法施行規則第百五十四条第三号ホからチまで、別紙様式第七号（一）第一ＩＩ３（２）（記載上の注意）７、別紙様式第八号（一）第一ＩＩ３（２）（記載上の注意）５、別紙様式第九号（一）第一ＩＩ３（２）（記載上の注意）５及び別紙様式第十号（一）第一２（３）（記載上の注意）４の規定は、施行日以後に締結された補償契約及び役員賠償責任保険契約について適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">新農協法施行規則第百三十九条第三号ホからチまで、別紙様式第六号（一）第一２（２）ロ（記載上の注意）６、別紙様式第七号（一）第一２（２）ロ（記載上の注意）５、別紙様式第八号（一）第一２（２）ロ（記載上の注意）５、別紙様式第九号（一）第一２（２）ロ（記載上の注意）４及び別紙様式第十号（一）第一２（２）ロ（記載上の注意）４の規定、新森組法施行規則第六十六条第三号ニからトまでの規定並びに新水協法施行規則第百五十四条第三号ホからチまで、別紙様式第七号（一）第一Ⅱ３（２）（記載上の注意）７、別紙様式第八号（一）第一Ⅱ３（２）（記載上の注意）５、別紙様式第九号（一）第一Ⅱ３（２）（記載上の注意）５及び別紙様式第十号（一）第一２（３）（記載上の注意）４の規定は、施行日以後に締結された補償契約及び役員賠償責任保険契約について適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -21362,7 +21362,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十一条の二第三項第九号及び第二十二条の二十九第一項第七号関係（資産の運用対象が受益証券等の場合））</RelatedArticleNum>
       <Item Num="1">
@@ -21414,7 +21414,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第二十一条の二第三項第九号及び第二十二条の二十九第一項第七号関係（資産の運用を法第十条第一項第十号の事業を行う組合が行っている場合））</RelatedArticleNum>
       <Item Num="1">
@@ -21460,7 +21460,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第三十六条関係）</RelatedArticleNum>
       <TableStruct>
@@ -21556,7 +21556,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第二百四条第一項第一号ハ（３）関係）</RelatedArticleNum>
       <TableStruct>
@@ -21638,7 +21638,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="5">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五</AppdxTableTitle>
       <RelatedArticleNum>（第二百四条第一項第二号ハ（３）関係）</RelatedArticleNum>
       <TableStruct>
@@ -21726,15 +21726,18 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
       <Item Num="1">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">（注）この表において「契約者割戻し」とは、法第十一条の三十五第一項に規定する契約者割戻しをいう。</Sentence>
         </ItemSentence>
       </Item>
+      </Remarks>
+      </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="6">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第六</AppdxTableTitle>
       <RelatedArticleNum>（第二百四条第一項第二号ニ関係）</RelatedArticleNum>
       <TableStruct>
@@ -21768,33 +21771,30 @@
             </TableColumn>
           </TableRow>
         </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">（記載上の注意）</Sentence>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>１</Subitem1Title>
-          <Subitem1Sentence>
+        <Remarks>
+        <RemarksLabel LineBreak="true">（記載上の注意）</RemarksLabel>
+        <Item Num="1">
+          <ItemTitle>１</ItemTitle>
+          <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">第三十一条第一項第一号に掲げる責任準備金（法第十一条の三十七に定める特別勘定の責任準備金を除く。）について記載すること。</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="2">
-          <Subitem1Title>２</Subitem1Title>
-          <Subitem1Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>２</ItemTitle>
+          <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">予定利率については、各事業年度ごとの責任準備金に係る主な予定利率を記載すること。</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="3">
-          <Subitem1Title>３</Subitem1Title>
-          <Subitem1Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>３</ItemTitle>
+          <ItemSentence>
             <Sentence Num="1" WritingMode="vertical">共済契約の締結時期が２０１１年度以降の契約については各事業年度ごとに記載すること。</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-      </Item>
+          </ItemSentence>
+        </Item>
+        </Remarks>
+      </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="7">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第七</AppdxTableTitle>
       <RelatedArticleNum>（第二百四条第一項第二号ヘ（４）関係）</RelatedArticleNum>
       <TableStruct>
@@ -21836,7 +21836,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="8">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第八</AppdxTableTitle>
       <RelatedArticleNum>（第二百二十四条及び第二百二十五条関係）</RelatedArticleNum>
       <TableStruct>
@@ -21911,7 +21911,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第２２条の５関係）（法人の場合）</RelatedArticleNum>
       <StyleStruct>
@@ -21920,7 +21920,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第２２条の５関係）（個人の場合）</RelatedArticleNum>
       <StyleStruct>
@@ -21929,7 +21929,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号の２</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第１０６条第１号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21938,7 +21938,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号の２</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第１１７条第１号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21947,7 +21947,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号の２</AppdxStyleTitle>
       <RelatedArticleNum>（３）（第１４３条第３項第１号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21956,7 +21956,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第１０６条第２号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21965,7 +21965,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第１１７条第２号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21974,7 +21974,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第１０６条第３号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21983,7 +21983,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第１１７条第３号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -21992,7 +21992,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（３）（第１４３条第３項第２号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22001,7 +22001,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第１０６条第４号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22010,7 +22010,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第１１７条第４号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22019,7 +22019,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第１０６条第５号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22028,7 +22028,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第１１７条第５号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22037,7 +22037,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号</AppdxStyleTitle>
       <RelatedArticleNum>（３）（第１４３条第３項第３号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22046,7 +22046,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第２０２条第３項第１号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22055,7 +22055,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第２０２条第５項第１号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22064,7 +22064,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第７号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第２０２条第３項第２号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22073,7 +22073,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第７号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第２０２条第５項第２号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22082,7 +22082,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第２０２条第３項第３号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22091,7 +22091,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第２０２条第５項第３号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22100,7 +22100,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第２０２条第３項第４号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22109,7 +22109,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第２０２条第５項第４号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22118,7 +22118,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号</AppdxStyleTitle>
       <RelatedArticleNum>（１）（第２０２条第３項第５号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22127,7 +22127,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号</AppdxStyleTitle>
       <RelatedArticleNum>（２）（第２０２条第５項第５号関係）</RelatedArticleNum>
       <StyleStruct>
@@ -22136,7 +22136,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１１号</AppdxStyleTitle>
       <RelatedArticleNum>（第２２３条の１６関係）</RelatedArticleNum>
       <StyleStruct>
