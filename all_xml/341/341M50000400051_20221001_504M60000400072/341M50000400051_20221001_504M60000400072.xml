@@ -561,7 +561,7 @@
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">蒸発部又は蒸発器の冷媒ガスに接する側の表面積（単位　平方メートル）の数値</Sentence>
-                  </Column>
+                    </Column>
                   </ListSentence>
                 </List>
               </Item>
@@ -3271,15 +3271,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">冷凍能力（記号</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">ＲＴ、単位</Sentence>
-                </Column>
-                <Column Num="3">
-                  <Sentence Num="1" WritingMode="vertical">トン）</Sentence>
-                </Column>
+                <Sentence Num="1" WritingMode="vertical">冷凍能力（記号　ＲＴ、単位　トン）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -4582,7 +4574,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <TableStruct>
@@ -4789,7 +4781,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第四十三条第二項第三号関係）</RelatedArticleNum>
       <TableStruct>
@@ -4845,7 +4837,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第四十七条第一項関係）</RelatedArticleNum>
       <TableStruct>
@@ -4952,7 +4944,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第四十九条第一項関係）</RelatedArticleNum>
       <TableStruct>
@@ -5068,7 +5060,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5077,7 +5069,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5086,7 +5078,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３</AppdxStyleTitle>
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5095,7 +5087,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３の２</AppdxStyleTitle>
       <RelatedArticleNum>（第１０条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5104,7 +5096,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４</AppdxStyleTitle>
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5113,7 +5105,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５</AppdxStyleTitle>
       <RelatedArticleNum>（第１７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5122,7 +5114,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第６</AppdxStyleTitle>
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5131,7 +5123,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第７</AppdxStyleTitle>
       <RelatedArticleNum>（第２１条及び第２２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5140,7 +5132,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第８</AppdxStyleTitle>
       <RelatedArticleNum>（第２１条及び第２２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5149,7 +5141,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第９</AppdxStyleTitle>
       <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5158,7 +5150,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１０</AppdxStyleTitle>
       <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5167,7 +5159,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１１</AppdxStyleTitle>
       <RelatedArticleNum>（第２４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5176,7 +5168,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１２</AppdxStyleTitle>
       <RelatedArticleNum>（第２４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5185,7 +5177,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１３</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5194,7 +5186,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１３の２</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5203,7 +5195,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１４</AppdxStyleTitle>
       <RelatedArticleNum>（第２８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5212,7 +5204,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１５</AppdxStyleTitle>
       <RelatedArticleNum>（第２９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5221,7 +5213,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１６</AppdxStyleTitle>
       <RelatedArticleNum>（第２９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5230,7 +5222,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１７</AppdxStyleTitle>
       <RelatedArticleNum>（第３０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5239,7 +5231,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１８</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5248,7 +5240,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１８の２</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5257,7 +5249,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１９</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5266,7 +5258,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１９の２</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5275,7 +5267,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１９の３</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5284,7 +5276,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１９の４</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条の４関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5293,7 +5285,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１９の５</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条の４関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5302,7 +5294,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="20">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２０</AppdxStyleTitle>
       <RelatedArticleNum>（第３５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5311,7 +5303,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２１</AppdxStyleTitle>
       <RelatedArticleNum>（第３７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5320,7 +5312,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２２</AppdxStyleTitle>
       <RelatedArticleNum>（第３９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5329,7 +5321,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="23">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３</AppdxStyleTitle>
       <RelatedArticleNum>（第４０条及び第４１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5338,7 +5330,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="24">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２４</AppdxStyleTitle>
       <RelatedArticleNum>（第４０条及び第４１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5347,7 +5339,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="25">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２５</AppdxStyleTitle>
       <RelatedArticleNum>（第４１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5356,7 +5348,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="26">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２６</AppdxStyleTitle>
       <RelatedArticleNum>（第４１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5365,7 +5357,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="27">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２７</AppdxStyleTitle>
       <RelatedArticleNum>（第４２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5374,7 +5366,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="28">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２８</AppdxStyleTitle>
       <RelatedArticleNum>（第４２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5383,7 +5375,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="29">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２９</AppdxStyleTitle>
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5392,7 +5384,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="30">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３０</AppdxStyleTitle>
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5401,7 +5393,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="31">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３１</AppdxStyleTitle>
       <RelatedArticleNum>（第４８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5410,7 +5402,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="32">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３２</AppdxStyleTitle>
       <RelatedArticleNum>（第４９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5419,7 +5411,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="33">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３３</AppdxStyleTitle>
       <RelatedArticleNum>（第５０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5428,7 +5420,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="34">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３４</AppdxStyleTitle>
       <RelatedArticleNum>（第５０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5437,7 +5429,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="35">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３５</AppdxStyleTitle>
       <RelatedArticleNum>（第５０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5446,7 +5438,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="36">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３６</AppdxStyleTitle>
       <RelatedArticleNum>（第５０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5455,7 +5447,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="37">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３７</AppdxStyleTitle>
       <RelatedArticleNum>（第５２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5464,7 +5456,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="38">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３８</AppdxStyleTitle>
       <RelatedArticleNum>（第５２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5473,7 +5465,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="39">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３９</AppdxStyleTitle>
       <RelatedArticleNum>（第５５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5482,7 +5474,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="40">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４０</AppdxStyleTitle>
       <RelatedArticleNum>（第５５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5491,7 +5483,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="41">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４１</AppdxStyleTitle>
       <RelatedArticleNum>（第５６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5500,7 +5492,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="42">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４２</AppdxStyleTitle>
       <RelatedArticleNum>（第５８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5509,7 +5501,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="43">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４３</AppdxStyleTitle>
       <RelatedArticleNum>（第５９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5518,7 +5510,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="43_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４３の２</AppdxStyleTitle>
       <RelatedArticleNum>（第６２条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5527,7 +5519,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="43_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４３の３</AppdxStyleTitle>
       <RelatedArticleNum>（第６２条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5536,7 +5528,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="44">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４４</AppdxStyleTitle>
       <RelatedArticleNum>（第６６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5545,7 +5537,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="45">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４５</AppdxStyleTitle>
       <RelatedArticleNum>（第６７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5554,7 +5546,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="46">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４６</AppdxStyleTitle>
       <RelatedArticleNum>（第６８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5563,7 +5555,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="47">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４７</AppdxStyleTitle>
       <RelatedArticleNum>（第６８条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5572,7 +5564,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="48">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４８</AppdxStyleTitle>
       <RelatedArticleNum>（第６８条の２関係）</RelatedArticleNum>
       <StyleStruct>

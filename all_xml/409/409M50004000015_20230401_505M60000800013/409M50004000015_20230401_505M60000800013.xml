@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="015" Year="09" PromulgateMonth="11" PromulgateDay="06"><LawNum>平成九年建設省令第十五号</LawNum><LawBody><LawTitle Kana="みっしゅうしがいちにおけるぼうさいがいくのせいびのそくしんにかんするほうりつせこうきそく" Abbrev="密集法施行規則,密集市街地整備法施行規則" AbbrevKana="み,み">密集市街地における防災街区の整備の促進に関する法律施行規則</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="015" Year="09" PromulgateMonth="11" PromulgateDay="06"><LawNum>平成九年建設省令第十五号</LawNum><LawBody><LawTitle Kana="みっしゅうしがいちにおけるぼうさいがいくのせいびのそくしんにかんするほうりつしこうきそく" Abbrev="密集法施行規則,密集市街地整備法施行規則" AbbrevKana="み,み">密集市街地における防災街区の整備の促進に関する法律施行規則</LawTitle>
     <EnactStatement>密集市街地における防災街区の整備の促進に関する法律（平成九年法律第四十九号）及び密集市街地における防災街区の整備の促進に関する法律施行令（平成九年政令第三百二十四号）の規定に基づき、並びにこれらの法令を実施するため、密集市街地における防災街区の整備の促進に関する法律施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -296,7 +296,7 @@
                   </Subitem1Sentence>
                   <List>
                     <ListSentence>
-                      <Sentence Num="1" WritingMode="vertical">Ｅｄ＝（ＦｅｓＲｇＺＲｔＡｉＷｉ）<Sup>２</Sup>／２Ｓｔ</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｅｄ＝（ＦｅｓＲｇＺＲｔＡｉＷｉ）<Sup>２</Sup>／２Ｓｔ</ArithFormula></Sentence>
                     </ListSentence>
                   </List>
                   <List>
@@ -310,10 +310,7 @@
                         <Sentence Num="1" WritingMode="vertical">Ｅｄ</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">基準入力エネルギー（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートンメートル）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">基準入力エネルギー（単位　ニュートンメートル）</Sentence>
                       </Column>
                     </ListSentence>
                   </List>
@@ -421,10 +418,7 @@
                         <Sentence Num="1" WritingMode="vertical">Ｗｉ</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">当該階が支える部分の固定荷重と積載荷重との和（建築基準法施行令第八十六条第二項ただし書の規定により特定行政庁が指定する多雪区域においては、更に積雪荷重を加えるものとする。）（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">当該階が支える部分の固定荷重と積載荷重との和（建築基準法施行令第八十六条第二項ただし書の規定により特定行政庁が指定する多雪区域においては、更に積雪荷重を加えるものとする。）（単位　ニュートン）</Sentence>
                       </Column>
                     </ListSentence>
                   </List>
@@ -446,7 +440,7 @@
                   </Subitem1Sentence>
                   <List>
                     <ListSentence>
-                      <Sentence Num="1" WritingMode="vertical">Ｅｕ＝Ｅｕ０ＲｂＲｄ</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｅｕ＝Ｅｕ０ＲｂＲｄ</ArithFormula></Sentence>
                     </ListSentence>
                   </List>
                   <List>
@@ -460,10 +454,7 @@
                         <Sentence Num="1" WritingMode="vertical">Ｅｕ</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">保有限界エネルギー（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートンメートル）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">保有限界エネルギー（単位　ニュートンメートル）</Sentence>
                       </Column>
                     </ListSentence>
                   </List>
@@ -3848,7 +3839,7 @@
                 </ParagraphSentence>
                 <List>
                   <ListSentence>
-                    <Sentence Num="1" WritingMode="vertical">Ｃ<Sub>１</Sub>＝（ＣｂＡ<Sub>１</Sub>／ΣＡｉ）＋ΣＣ'ｂＲｂ<Sub>１</Sub></Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｃ<Sub>１</Sub>＝（ＣｂＡ<Sub>１</Sub>／ΣＡｉ）＋ΣＣ'ｂＲｂ<Sub>１</Sub></ArithFormula></Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -4166,7 +4157,7 @@
                 </ParagraphSentence>
                 <List>
                   <ListSentence>
-                    <Sentence Num="1" WritingMode="vertical">（Ｐｃ'／Ｐｃ）×０．８＋（Ｐｉ'／Ｐｉ）×０．２</Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>（Ｐｃ'／Ｐｃ）×０．８＋（Ｐｉ'／Ｐｉ）×０．２</ArithFormula></Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -4235,7 +4226,7 @@
                       <Sentence Num="1" WritingMode="vertical">三</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">Ｐｃ'／Ｐｃ又はＰｉ'／Ｐｉにより算出した数値に小数点以下三位未満の端数があるときは、これを四捨五入する。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｐｃ'／Ｐｃ</ArithFormula>又は<ArithFormula>Ｐｉ'／Ｐｉ</ArithFormula>により算出した数値に小数点以下三位未満の端数があるときは、これを四捨五入する。）</Sentence>
                     </Column>
                   </ListSentence>
                 </List>
@@ -4574,7 +4565,7 @@
                 </ParagraphSentence>
                 <List>
                   <ListSentence>
-                    <Sentence Num="1" WritingMode="vertical">Ｃ<Sub>１</Sub>＝（ＣｂＡ<Sub>１</Sub>／ΣＡｉ）＋ΣＣ'ｂＲｂ<Sub>１</Sub>＋ＣｓＲｓ<Sub>１</Sub></Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｃ<Sub>１</Sub>＝（ＣｂＡ<Sub>１</Sub>／ΣＡｉ）＋ΣＣ'ｂＲｂ<Sub>１</Sub>＋ＣｓＲｓ<Sub>１</Sub></ArithFormula></Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -5699,7 +5690,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記第一号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第一条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5708,7 +5699,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5717,7 +5708,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第三号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第十五条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5726,7 +5717,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第四号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第二十三条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5735,7 +5726,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第五号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5744,7 +5735,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第六号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第四十三条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5753,7 +5744,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第七号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第五十四条第一項、第六十五条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5762,7 +5753,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第八号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十二条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5771,7 +5762,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第九号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十五条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5780,7 +5771,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十五条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5789,7 +5780,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十一号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十六条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5798,7 +5789,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十二号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十七条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5807,7 +5798,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十三号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十七条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5816,7 +5807,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十四号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十八条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5825,7 +5816,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十五号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十八条第二項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5834,7 +5825,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十六号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十八条第三項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5843,7 +5834,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十七号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第八十八条第三項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5852,7 +5843,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十八号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第九十一条第三項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5861,7 +5852,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十九号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第九十九条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5870,7 +5861,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="20">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百一条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5879,7 +5870,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十一号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百四条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5888,7 +5879,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十二号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百四条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5897,7 +5888,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="23">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十三号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百九条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5906,7 +5897,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="24">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十四号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十二条第一項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5915,7 +5906,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="25">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十五号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十八条第二項関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5924,7 +5915,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="26">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十六号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百二十九条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
@@ -5933,7 +5924,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="27">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第二十七号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第百三十条関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
