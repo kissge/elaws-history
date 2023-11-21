@@ -15818,126 +15818,130 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">鋼材の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
                   </ItemSentence>
-                  <List>
-                    <ListSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Sentence>
                       <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｌ／ｉ≦Λ</ArithFormula>の場合</Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>бｃ＝（（１－０．４（（ｌ／ｉ）／Λ）<Sup>２</Sup>）／ν）Ｆ</ArithFormula></Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
+                    </Subitem1Sentence>
+                    <Subitem2 Num="1">
+                      <Subitem2Title/>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>бｃ＝（（１－０．４（（ｌ／ｉ）／Λ）<Sup>２</Sup>）／ν）Ｆ</ArithFormula></Sentence>
+                      </Subitem2Sentence>
+                    </Subitem2>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Sentence>
                       <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｌ／ｉ＞Λ</ArithFormula>の場合</Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Sentence Num="1" WritingMode="vertical"><ArithFormula>бｃ＝（０．２９／（（ｌ／ｉ）／Λ）<Sup>２</Sup>）Ｆ</ArithFormula></Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Sentence Num="1" WritingMode="vertical">（これらの式において、ｌ、ｉ、<ArithFormula>Λ</ArithFormula>、<ArithFormula>бｃ</ArithFormula>、<ArithFormula>ν</ArithFormula>及びＦは、それぞれ次の値を表すものとする。</Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｌ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうちの最大の長さ）（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の最小断面二次半径（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>Λ</ArithFormula></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>限界細長比＝√（π<Sup>２</Sup>Ｅ／０．６Ｆ）</ArithFormula></Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">　ただし、π</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">円周率</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">　　　　Ｅ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">当該鋼材のヤング係数（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>бｃ</ArithFormula></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">許容座屈応力の値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>ν</ArithFormula></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>安全率＝１．５＋０．５７（（ｌ／ｉ）／Λ）<Sup>２</Sup></ArithFormula></Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">Ｆ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">当該鋼材の降伏強さの値又は引張強さの値の四分の三の値のうちのいずれか小さい値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
+                    </Subitem1Sentence>
+                    <Subitem2 Num="1">
+                      <Subitem2Title/>
+                      <Subitem2Sentence>
+                        <Sentence Num="1" WritingMode="vertical"><ArithFormula>бｃ＝（０．２９／（（ｌ／ｉ）／Λ）<Sup>２</Sup>）Ｆ</ArithFormula></Sentence>
+                      </Subitem2Sentence>
+                      <TableStruct>
+                        <Table WritingMode="vertical">
+                          <TableRow>
+                            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                              <Item Num="1">
+                                <ItemTitle/>
+                                <ItemSentence>
+                                  <Sentence Num="1" WritingMode="vertical">（これらの式において、ｌ、ｉ、<ArithFormula>Λ</ArithFormula>、<ArithFormula>бｃ</ArithFormula>、<ArithFormula>ν</ArithFormula>及びＦは、それぞれ次の値を表すものとする。</Sentence>
+                                </ItemSentence>
+                              </Item>
+                              <Item Num="2">
+                                <ItemSentence>
+                                  <Column Num="1">
+                                    <Sentence Num="1" WritingMode="vertical">ｌ</Sentence>
+                                  </Column>
+                                  <Column Num="2">
+                                    <Sentence Num="1" WritingMode="vertical">支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうちの最大の長さ）（単位　センチメートル）</Sentence>
+                                  </Column>
+                                </ItemSentence>
+                              </Item>
+                              <Item Num="3">
+                                <ItemSentence>
+                                  <Column Num="1">
+                                    <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
+                                  </Column>
+                                  <Column Num="2">
+                                    <Sentence Num="1" WritingMode="vertical">支柱の最小断面二次半径（単位　センチメートル）</Sentence>
+                                  </Column>
+                                </ItemSentence>
+                              </Item>
+                              <Item Num="4">
+                                <ItemSentence>
+                                  <Column Num="1">
+                                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>Λ</ArithFormula></Sentence>
+                                  </Column>
+                                  <Column Num="2">
+                                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>限界細長比＝√（π<Sup>２</Sup>Ｅ／０．６Ｆ）</ArithFormula></Sentence>
+                                  </Column>
+                                </ItemSentence>
+                                <TableStruct>
+                                  <Table WritingMode="vertical">
+                                    <TableRow>
+                                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                                        <Item Num="1">
+                                          <ItemSentence>
+                                            <Column Num="1">
+                                              <Sentence Num="1" WritingMode="vertical">ただし、π</Sentence>
+                                            </Column>
+                                            <Column Num="2">
+                                              <Sentence Num="1" WritingMode="vertical">円周率</Sentence>
+                                            </Column>
+                                          </ItemSentence>
+                                        </Item>
+                                        <Item Num="2">
+                                          <ItemSentence>
+                                            <Column Num="1">
+                                              <Sentence Num="1" WritingMode="vertical">　　　　Ｅ</Sentence>
+                                            </Column>
+                                            <Column Num="2">
+                                              <Sentence Num="1" WritingMode="vertical">当該鋼材のヤング係数（単位　ニュートン毎平方センチメートル）</Sentence>
+                                            </Column>
+                                          </ItemSentence>
+                                        </Item>
+                                      </TableColumn>
+                                    </TableRow>
+                                  </Table>
+                                </TableStruct>
+                              </Item>
+                              <Item Num="5">
+                                <ItemSentence>
+                                  <Column Num="1">
+                                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>бｃ</ArithFormula></Sentence>
+                                  </Column>
+                                  <Column Num="2">
+                                    <Sentence Num="1" WritingMode="vertical">許容座屈応力の値（単位　ニュートン毎平方センチメートル）</Sentence>
+                                  </Column>
+                                </ItemSentence>
+                              </Item>
+                              <Item Num="6">
+                                <ItemSentence>
+                                  <Column Num="1">
+                                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>ν</ArithFormula></Sentence>
+                                  </Column>
+                                  <Column Num="2">
+                                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>安全率＝１．５＋０．５７（（ｌ／ｉ）／Λ）<Sup>２</Sup></ArithFormula></Sentence>
+                                  </Column>
+                                </ItemSentence>
+                              </Item>
+                              <Item Num="7">
+                                <ItemSentence>
+                                  <Column Num="1">
+                                    <Sentence Num="1" WritingMode="vertical">Ｆ</Sentence>
+                                  </Column>
+                                  <Column Num="2">
+                                    <Sentence Num="1" WritingMode="vertical">当該鋼材の降伏強さの値又は引張強さの値の四分の三の値のうちのいずれか小さい値（単位　ニュートン毎平方センチメートル））</Sentence>
+                                  </Column>
+                                </ItemSentence>
+                              </Item>
+                            </TableColumn>
+                          </TableRow>
+                        </Table>
+                      </TableStruct>
+                    </Subitem2>
+                  </Subitem1>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
@@ -16029,83 +16033,80 @@
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">木材の繊維方向の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
                   </ItemSentence>
-                  <List>
-                    <ListSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Sentence>
                       <Column Num="1">
                         <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ≦１００</ArithFormula>の場合</Sentence>
                       </Column>
                       <Column Num="2">
                         <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｆ<Sub>ｋ</Sub>＝ｆ<Sub>ｃ</Sub>（１－０．００７（ｌ<Sub>ｋ</Sub>／ｉ））</ArithFormula></Sentence>
                       </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Sentence>
                       <Column Num="1">
                         <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｌ<Sub>ｋ</Sub>／ｉ＞１００</ArithFormula>の場合</Sentence>
                       </Column>
                       <Column Num="2">
                         <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｆ<Sub>ｋ</Sub>＝０．３ｆ<Sub>ｃ</Sub>／（ｌ<Sub>ｋ</Sub>／１００ｉ）<Sup>２</Sup></ArithFormula></Sentence>
                       </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Sentence Num="1" WritingMode="vertical">（これらの式において、ｌ<Sub>ｋ</Sub>、ｉ、ｆ<Sub>ｃ</Sub>及びｆ<Sub>ｋ</Sub>は、それぞれ次の値を表すものとする。</Sentence>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｌ<Sub>ｋ</Sub></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうち最大の長さ）（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">支柱の最小断面二次半径（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｃ</Sub></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">許容圧縮応力の値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
-                  <List>
-                    <ListSentence>
-                      <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｋ</Sub></Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">許容座屈応力の値（単位</Sentence>
-                      </Column>
-                      <Column Num="3">
-                        <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
-                      </Column>
-                    </ListSentence>
-                  </List>
+                    </Subitem1Sentence>
+                    <TableStruct>
+                      <Table WritingMode="vertical">
+                        <TableRow>
+                          <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                            <Item Num="1">
+                              <ItemTitle/>
+                              <ItemSentence>
+                                <Sentence Num="1" WritingMode="vertical">（これらの式において、ｌ<Sub>ｋ</Sub>、ｉ、ｆ<Sub>ｃ</Sub>及びｆ<Sub>ｋ</Sub>は、それぞれ次の値を表すものとする。</Sentence>
+                              </ItemSentence>
+                            </Item>
+                            <Item Num="2">
+                              <ItemSentence>
+                                <Column Num="1">
+                                  <Sentence Num="1" WritingMode="vertical">ｌ<Sub>ｋ</Sub></Sentence>
+                                </Column>
+                                <Column Num="2">
+                                  <Sentence Num="1" WritingMode="vertical">支柱の長さ（支柱が水平方向の変位を拘束されているときは、拘束点間の長さのうち最大の長さ）（単位　センチメートル）</Sentence>
+                                </Column>
+                              </ItemSentence>
+                            </Item>
+                            <Item Num="3">
+                              <ItemSentence>
+                                <Column Num="1">
+                                  <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
+                                </Column>
+                                <Column Num="2">
+                                  <Sentence Num="1" WritingMode="vertical">支柱の最小断面二次半径（単位　センチメートル）</Sentence>
+                                </Column>
+                              </ItemSentence>
+                            </Item>
+                            <Item Num="4">
+                              <ItemSentence>
+                                <Column Num="1">
+                                  <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｃ</Sub></Sentence>
+                                </Column>
+                                <Column Num="2">
+                                  <Sentence Num="1" WritingMode="vertical">許容圧縮応力の値（単位　ニュートン毎平方センチメートル）</Sentence>
+                                </Column>
+                              </ItemSentence>
+                            </Item>
+                            <Item Num="5">
+                              <ItemSentence>
+                                <Column Num="1">
+                                  <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｋ</Sub></Sentence>
+                                </Column>
+                                <Column Num="2">
+                                  <Sentence Num="1" WritingMode="vertical">許容座屈応力の値（単位　ニュートン毎平方センチメートル））</Sentence>
+                                </Column>
+                              </ItemSentence>
+                            </Item>
+                          </TableColumn>
+                        </TableRow>
+                      </Table>
+                    </TableStruct>
+                  </Subitem1>
                 </Item>
               </Paragraph>
             </Article>
