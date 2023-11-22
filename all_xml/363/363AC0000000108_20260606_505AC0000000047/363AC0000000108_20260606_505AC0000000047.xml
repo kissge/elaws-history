@@ -13080,7 +13080,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -13108,7 +13108,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="1_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一の二</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -13118,7 +13118,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第六条、第十二条の二、第十二条の三、第三十条、第三十五条の二関係）</RelatedArticleNum>
       <Item Num="1">
@@ -13350,7 +13350,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二の二</AppdxTableTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -13396,11 +13396,15 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第三条、第六十条、附則第十九条の三関係）</RelatedArticleNum>
+      <Item Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">次の表に掲げる法人</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">一　次の表に掲げる法人</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -14427,7 +14431,8 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+      </Item>
+      <Item Num="2">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">外国若しくは外国の地方公共団体又は外国に本店若しくは主たる事務所を有する法人で前号の表に掲げる法人のうちいずれかのものに準ずるものとして政令で定めるところにより財務大臣が指定したもの</Sentence>

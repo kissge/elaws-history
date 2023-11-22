@@ -2557,9 +2557,11 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第１表</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">一般管理費等、変電費及び販売費の整理の基準</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">一般管理費等、変電費及び販売費の整理の基準</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2582,14 +2584,18 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+        </Subitem1>
+      </Item>
+      <Item Num="2">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第２表</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">活動帰属基準、配賦基準分類表</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">活動帰属基準、配賦基準分類表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
@@ -3412,14 +3418,18 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
+        </Subitem1>
+      </Item>
+      <Item Num="3">
         <ItemTitle/>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">第３表</Sentence>
         </ItemSentence>
-      </Item>
+        <Subitem1 Num="1">
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">活動帰属基準、配賦基準分類表</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">活動帰属基準、配賦基準分類表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4080,6 +4090,8 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第３</AppdxTableTitle>
