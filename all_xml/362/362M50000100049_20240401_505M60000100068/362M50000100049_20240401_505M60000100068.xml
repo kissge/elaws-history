@@ -908,7 +908,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">学校教育法による高等学校又は中等教育学校であつて文部科学大臣及び厚生労働大臣の指定したものにおいて、社会福祉士介護福祉士学校指定規則（平成二十年／文部科学省／厚生労働省／令第二号）別表第五に定める高等学校等に係る教科目及び単位数を修めて、同法第九十条第二項の規定により大学への入学を認められた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">学校教育法による高等学校又は中等教育学校であつて文部科学大臣及び厚生労働大臣の指定したものにおいて、社会福祉士介護福祉士学校指定規則（平成二十年文部科学省・厚生労働省令第二号）別表第五に定める高等学校等に係る教科目及び単位数を修めて、同法第九十条第二項の規定により大学への入学を認められた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1482,7 +1482,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二十二条第四項の規定の適用については、当分の間、同項中「を修了した者」とあるのは「を修了した者、社会福祉士介護福祉士養成施設指定規則（昭和六十二年厚生省令第五十号）別表第四若しくは社会福祉士介護福祉士学校指定規則別表第四に定める介護過程（以下この項において「介護過程」という。）を修めた者又は社会福祉士介護福祉士養成施設指定規則別表第五若しくは社会福祉士介護福祉士学校指定規則別表第四の二に定める介護過程ＩＩＩ（以下この項において「介護過程ＩＩＩ」という。）を修了した者」と、「を修了した日」とあるのは「を修了した日、介護過程を修めた日又は介護過程ＩＩＩを修了した日」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二十二条第四項の規定の適用については、当分の間、同項中「を修了した者」とあるのは「を修了した者、社会福祉士介護福祉士養成施設指定規則（昭和六十二年厚生省令第五十号）別表第四若しくは社会福祉士介護福祉士学校指定規則別表第四に定める介護過程（以下この項において「介護過程」という。）を修めた者又は社会福祉士介護福祉士養成施設指定規則別表第五若しくは社会福祉士介護福祉士学校指定規則別表第四の二に定める介護過程Ⅲ（以下この項において「介護過程Ⅲ」という。）を修了した者」と、「を修了した日」とあるのは「を修了した日、介護過程を修めた日又は介護過程Ⅲを修了した日」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3479,7 +3479,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十六条の三、附則第四条、附則第十三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3492,8 +3492,6 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">講義</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3586,12 +3584,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="2">
-        <ItemTitle>②</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">演習</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>②</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">演習</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3652,8 +3650,14 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">実地研修</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">二　実地研修</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3705,8 +3709,9 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（附則第四条、附則第十三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -3719,8 +3724,6 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">講義</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3813,12 +3816,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="">
-        <ItemTitle>②</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">演習</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>②</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">演習</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -3879,8 +3882,14 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">実地研修</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">二　実地研修</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3932,12 +3941,17 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（附則第四条、附則第十三条関係）</RelatedArticleNum>
+      <Item Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">基本研修</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">一　基本研修</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3986,8 +4000,13 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">実地研修</Sentence>
+        </ItemSentence>
       <TableStruct>
-        <TableStructTitle WritingMode="vertical">二　実地研修</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -4027,8 +4046,9 @@
           </TableRow>
         </Table>
       </TableStruct>
+      </Item>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4037,7 +4057,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二</AppdxStyleTitle>
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4046,7 +4066,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三</AppdxStyleTitle>
       <RelatedArticleNum>（第１２条、第２６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4055,7 +4075,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四</AppdxStyleTitle>
       <RelatedArticleNum>（第１３条、第２６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4064,7 +4084,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五</AppdxStyleTitle>
       <RelatedArticleNum>（第２４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4073,7 +4093,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4082,7 +4102,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七</AppdxStyleTitle>
       <RelatedArticleNum>（附則第３条の４関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4091,7 +4111,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八</AppdxStyleTitle>
       <RelatedArticleNum>（附則第３条の４関係）</RelatedArticleNum>
       <StyleStruct>
@@ -4100,7 +4120,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九</AppdxStyleTitle>
       <RelatedArticleNum>（附則第３条の４関係）</RelatedArticleNum>
       <StyleStruct>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="016" Year="33" PromulgateMonth="03" PromulgateDay="22"><LawNum>昭和三十三年総理府令第十六号</LawNum><LawBody><LawTitle Kana="じゅうほうとうけんるいしょじとうとりしまりほうせこうきそく" Abbrev="銃刀法施行規則" AbbrevKana="じ">銃砲刀剣類所持等取締法施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="016" Year="33" PromulgateMonth="03" PromulgateDay="22"><LawNum>昭和三十三年総理府令第十六号</LawNum><LawBody><LawTitle Kana="じゅうほうとうけんるいしょじとうとりしまりほうしこうきそく" Abbrev="銃刀法施行規則" AbbrevKana="じ">銃砲刀剣類所持等取締法施行規則</LawTitle>
     <EnactStatement>銃砲刀剣類等所持取締法及び銃砲刀剣類等所持取締法施行令の規定に基き、並びにこれらの法令の規定を実施するため、銃砲刀剣類等所持取締法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -613,21 +613,109 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第四条の三第二項（法第七条の三第三項において準用する場合を含む。）の内閣府令で定める基準は、次の式により算出した数値が三十六未満であることとする。</Sentence></ParagraphSentence>
-            <List><ListSentence><Sentence Num="2" WritingMode="vertical">
-              <ArithFormula>１．３３６×Ａ＋２．４９９×Ｂ</ArithFormula>
-            </Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="3" WritingMode="vertical">（この式において、Ａ及びＢは、それぞれ次の数値を表すものとする。</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="4" WritingMode="vertical">Ａ　第十四条第一号に掲げる方法により記述された事項についての次に掲げる数値の総和</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="5" WritingMode="vertical">一　認知機能検査を行つた時の年が記述されている場合には、五</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="6" WritingMode="vertical">二　認知機能検査を行つた時の月が記述されている場合には、四</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="7" WritingMode="vertical">三　認知機能検査を行つた時の日が記述されている場合には、三</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="8" WritingMode="vertical">四　認知機能検査を行つた時の曜日が記述されている場合には、二</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="9" WritingMode="vertical">五　記述された時刻と認知機能検査を行つた時の時刻との差に相当する分数が三十未満の場合には、一</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="10" WritingMode="vertical">Ｂ　第十四条第二号に掲げる方法により名称が記述された物について、次に定めるところにより算出した数値の総和</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="11" WritingMode="vertical">一　一定の時間が経過した後において分類を再び示す前に名称が正しく記述された物の数に二を乗じて得た数値</Sentence></ListSentence></List>
-            <List><ListSentence><Sentence Num="12" WritingMode="vertical">二　一定の時間が経過した後において分類を再び示す前に名称が正しく記述されなかつた物のうち、分類を再び示した後に名称が正しく記述されたものの数に一を乗じて得た数値）</Sentence></ListSentence></List>
-                  </Paragraph>
+            <Sentence Num="1" WritingMode="vertical">法第四条の三第二項（法第七条の三第三項において準用する場合を含む。）の内閣府令で定める基準は、次の式により算出した数値が三十六未満であることとする。</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>１．３３６×Ａ＋２．４９９×Ｂ</ArithFormula></Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence Num="1" WritingMode="vertical">（この式において、Ａ及びＢは、それぞれ次の数値を表すものとする。</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">Ａ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第十四条第一号に掲げる方法により記述された事項についての次に掲げる数値の総和</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">一</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">認知機能検査を行つた時の年が記述されている場合には、五</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">二</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">認知機能検査を行つた時の月が記述されている場合には、四</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">三</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">認知機能検査を行つた時の日が記述されている場合には、三</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">四</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">認知機能検査を行つた時の曜日が記述されている場合には、二</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">五</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">記述された時刻と認知機能検査を行つた時の時刻との差に相当する分数が三十未満の場合には、一</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">Ｂ</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第十四条第二号に掲げる方法により名称が記述された物について、次に定めるところにより算出した数値の総和</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">一</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">一定の時間が経過した後において分類を再び示す前に名称が正しく記述された物の数に二を乗じて得た数値</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">二</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">一定の時間が経過した後において分類を再び示す前に名称が正しく記述されなかつた物のうち、分類を再び示した後に名称が正しく記述されたものの数に一を乗じて得た数値）</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+        </Paragraph>
       </Article>
       <Article Num="16">
         <ArticleCaption>（認知機能検査の実施期間等）</ArticleCaption>
@@ -722,7 +810,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第四条の四第三項に規定する法第四条第一項第一号の規定による許可に係るクロスボウに当該許可に係るものであることを表示するための措置として内閣府令で定めるものは、都道府県公安委員会が当該クロスボウごとに付した番号又は記号を表示した標示物（以下この条において「クロスボウ番号標」という。）を、当該クロスボウの側面に容易に剥がれないように、かつ、見やすいように貼り付けることとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第四条の四第三項に規定する法第四条第一項第一号の規定による許可に係るクロスボウに当該許可に係るものであることを表示するための措置として内閣府令で定めるものは、都道府県公安委員会が当該クロスボウごとに付した番号又は記号を表示した標示物（以下この条において「クロスボウ番号標」という。）を、当該クロスボウの側面に容易に剝がれないように、かつ、見やすいように貼り付けることとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -3720,7 +3808,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十一条関係）</RelatedArticleNum>
       <TableStruct>
@@ -4906,25 +4994,95 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">一　○印は、許可等を受けようとする者欄の区分ごとに、申請書に添える（講習修了証明書、合格証明書、教習修了証明書、技能講習修了証明書及び許可証については、提示する）書類を示すものとする。</Sentence>
-          <Sentence WritingMode="vertical">二　住民票の写しは本籍（外国人にあつては、住民基本台帳法（昭和四十二年法律第八十一号）第三十条の四十五に規定する国籍等）の記載のあるものに限る。</Sentence>
-          <Sentence WritingMode="vertical">三　講習修了証明書とは、法第四条第一項第一号の規定によるクロスボウの所持の許可を申請する場合、法第七条の三第一項の規定によるクロスボウの所持の許可の更新を申請する場合及び法第九条の十六第一項の規定によるクロスボウ射撃資格の認定の申請をする場合にあつては法第五条の三の二第二項の講習修了証明書をいい、それ以外の場合にあつては法第五条の三第二項の講習修了証明書をいう。</Sentence>
-          <Sentence WritingMode="vertical">四　合格証明書とは、法第五条の四第二項の合格証明書をいい、教習修了証明書とは、法第九条の五第五項の教習修了証明書をいう。</Sentence>
-          <Sentence WritingMode="vertical">五　技能講習修了証明書とは、法第五条の五第二項の技能講習修了証明書をいう。</Sentence>
-          <Sentence WritingMode="vertical">六　許可証とは、許可等を受けようとする者が現に交付を受けている法第四条第一項第一号の規定による猟銃若しくは空気銃又はクロスボウの所持の許可に係る許可証をいう。ただし、許可等を受けようとする者欄に許可を受けている猟銃若しくは空気銃又はクロスボウの別が掲げられている場合にあつては当該猟銃若しくは空気銃又はクロスボウの所持の許可に係る許可証に、許可の更新の場合にあつては当該更新を受けようとする猟銃若しくは空気銃又はクロスボウの所持の許可に係る許可証に限る。</Sentence>
-          <Sentence WritingMode="vertical">七　やむを得ない事情を明らかにした書類とは、法第五条の二第三項第二号に該当する者にあつては、同号の災害に起因するやむを得ない事情により法第四条第一項第一号の規定による猟銃の所特の許可の申請をすることができなかつた事情及び当該事情がやんだ日から起算して一月を経過していないことを明らかにした書類、法第五条の二第三項第三号に該当する者にあつては、令第十四条各号に掲げるやむを得ない事情により法第七条の三第二項の規定による許可の更新を受けることができなかつた事情及び当該事情がやんだ日から起算して一月を経過していないことを明らかにした書類をいう。</Sentence>
-          <Sentence WritingMode="vertical">八　使用実績報告書は、別記様式第七十四号のとおりとする。</Sentence>
-          <Sentence WritingMode="vertical">九　経歴書は、別表第一の別記様式のとおりとする。</Sentence>
-          <Sentence WritingMode="vertical">十　射撃競技参加選手等とは、当該種類の猟銃に係る令第十三条第一項に規定する射撃競技に参加する選手又はその候補者として適当であるとして同条第二項に規定する者から推薦された者をいう。</Sentence>
-          <Sentence WritingMode="vertical">十一　法第九条の十六第一項の規定によるクロスボウ射撃資格の認定を受けようとする者のうち、受けようとする認定の数が二以上である者は、別表第一に規定する申請人の写真の枚数にかかわらず、受けようとする認定の数に一を加えた枚数の申請人の写真を提出するものとする。</Sentence>
-          <Sentence WritingMode="vertical">十二　法第九条の三第一項の猟銃等射撃指導員にあつては、猟銃等講習会の講習修了証明書に代えて第四十四条の射撃指導員指定書（猟銃等射撃指導員に係るものに限る。）を、法第九条の三の二第一項のクロスボウ射撃指導員にあつては、クロスボウ講習会の講習修了証明書に代えて第四十四条の射撃指導員指定書（クロスボウ射撃指導員に係るものに限る。）を提示するものとする。</Sentence>
-          <Sentence WritingMode="vertical">十三　第十一条第一項第五号又は第六号に規定する者にあつては、技能講習修了証明書を提示することを要しない。</Sentence>
-          <Sentence WritingMode="vertical">十四　法第五条の二第三項第二号に該当する者で、同号の災害に起因するやむを得ない事情により法第四条第一項第一号の規定による猟銃の所持の許可の申請をすることができなかつたもの以外の者にあつては、やむを得ない事情を明らかにした書類を提出することを要しない。</Sentence>
+          <RemarksLabel LineBreak="true">備考</RemarksLabel>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">○印は、許可等を受けようとする者欄の区分ごとに、申請書に添える（講習修了証明書、合格証明書、教習修了証明書、技能講習修了証明書及び許可証については、提示する）書類を示すものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">住民票の写しは本籍（外国人にあつては、住民基本台帳法（昭和四十二年法律第八十一号）第三十条の四十五に規定する国籍等）の記載のあるものに限る。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">講習修了証明書とは、法第四条第一項第一号の規定によるクロスボウの所持の許可を申請する場合、法第七条の三第一項の規定によるクロスボウの所持の許可の更新を申請する場合及び法第九条の十六第一項の規定によるクロスボウ射撃資格の認定の申請をする場合にあつては法第五条の三の二第二項の講習修了証明書をいい、それ以外の場合にあつては法第五条の三第二項の講習修了証明書をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">合格証明書とは、法第五条の四第二項の合格証明書をいい、教習修了証明書とは、法第九条の五第五項の教習修了証明書をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">技能講習修了証明書とは、法第五条の五第二項の技能講習修了証明書をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">許可証とは、許可等を受けようとする者が現に交付を受けている法第四条第一項第一号の規定による猟銃若しくは空気銃又はクロスボウの所持の許可に係る許可証をいう。ただし、許可等を受けようとする者欄に許可を受けている猟銃若しくは空気銃又はクロスボウの別が掲げられている場合にあつては当該猟銃若しくは空気銃又はクロスボウの所持の許可に係る許可証に、許可の更新の場合にあつては当該更新を受けようとする猟銃若しくは空気銃又はクロスボウの所持の許可に係る許可証に限る。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">やむを得ない事情を明らかにした書類とは、法第五条の二第三項第二号に該当する者にあつては、同号の災害に起因するやむを得ない事情により法第四条第一項第一号の規定による猟銃の所特の許可の申請をすることができなかつた事情及び当該事情がやんだ日から起算して一月を経過していないことを明らかにした書類、法第五条の二第三項第三号に該当する者にあつては、令第十四条各号に掲げるやむを得ない事情により法第七条の三第二項の規定による許可の更新を受けることができなかつた事情及び当該事情がやんだ日から起算して一月を経過していないことを明らかにした書類をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">使用実績報告書は、別記様式第七十四号のとおりとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">経歴書は、別表第一の別記様式のとおりとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">射撃競技参加選手等とは、当該種類の猟銃に係る令第十三条第一項に規定する射撃競技に参加する選手又はその候補者として適当であるとして同条第二項に規定する者から推薦された者をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">法第九条の十六第一項の規定によるクロスボウ射撃資格の認定を受けようとする者のうち、受けようとする認定の数が二以上である者は、別表第一に規定する申請人の写真の枚数にかかわらず、受けようとする認定の数に一を加えた枚数の申請人の写真を提出するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">法第九条の三第一項の猟銃等射撃指導員にあつては、猟銃等講習会の講習修了証明書に代えて第四十四条の射撃指導員指定書（猟銃等射撃指導員に係るものに限る。）を、法第九条の三の二第一項のクロスボウ射撃指導員にあつては、クロスボウ講習会の講習修了証明書に代えて第四十四条の射撃指導員指定書（クロスボウ射撃指導員に係るものに限る。）を提示するものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第十一条第一項第五号又は第六号に規定する者にあつては、技能講習修了証明書を提示することを要しない。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">法第五条の二第三項第二号に該当する者で、同号の災害に起因するやむを得ない事情により法第四条第一項第一号の規定による猟銃の所持の許可の申請をすることができなかつたもの以外の者にあつては、やむを得ない事情を明らかにした書類を提出することを要しない。</Sentence>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第１の別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -4932,7 +5090,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第八十二条の四関係）</RelatedArticleNum>
       <TableStruct>
@@ -4969,14 +5127,20 @@
           </TableRow>
         </Table>
       </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別表第２の別図</FigStructTitle>
+                <Fig src="./pict/2JH00000221227.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
     </AppdxTable>
-    <AppdxFig>
-      <AppdxFigTitle>別表第２の別図</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000221227.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第百三条関係）</RelatedArticleNum>
       <TableStruct>
@@ -5020,7 +5184,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
-              <Sentence Num="1" WritingMode="vertical">自動装填式拳銃に類似する形態を有する物</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自動装塡式拳銃に類似する形態を有する物</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">銃身に相当する部分と尾筒に相当する部分とが一体として鋳造されているもの</Sentence>
@@ -5078,83 +5242,269 @@
           </TableRow>
         </Table>
       </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図１</FigStructTitle>
+                <Fig src="./pict/2JH00000183249.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">Ａは、ロツクウエル硬さ試験方法（日本産業規格Ｚ２２４５）により測定した硬さがＨ<Sub>Ｒ</Sub>Ｃ６０以上の鋼材</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">Ｂは、超硬合金（日本産業規格Ｈ５５０１）とし、直径１／６ａ以上、長さ２／３ａ以上の円柱状のもの</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>３</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">Ｂは、直径１／２ａ以上の球状の超硬合金に替えることができる。</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図２</FigStructTitle>
+                <Fig src="./pict/2JH00000183250.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｃは、銃身に相当する部分の基部の外径</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｃとａの差は、３ｍｍ以下</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>３</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｂは、５ｍｍ以下</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図３</FigStructTitle>
+                <Fig src="./pict/2JH00000183255.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">材質は、ロツクウエル硬さ試験方法（日本産業規格Ｚ２２４５）により測定した硬さがＨ<Sub>Ｒ</Sub>Ｃ６０以上の鋼材</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ａは、各薬室の中心点を通る円の直径以上</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>３</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｂは、２．５ｍｍ以上</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図４</FigStructTitle>
+                <Fig src="./pict/2JH00000183257.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">斜線部分は、鋼材</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図５</FigStructTitle>
+                <Fig src="./pict/2JH00000183258.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">切断部分の幅は、２ｍｍ以上</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ａは、５ｍｍ以下</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図６</FigStructTitle>
+                <Fig src="./pict/2JH00000183259.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｂは、銃身（薬室を除く。）に相当する部分の基部の外径</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｂとａの差は、３ｍｍ以下</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>３</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｃは、５ｍｍ以下</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図７</FigStructTitle>
+                <Fig src="./pict/2JH00000183261.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ａは、包底面の直径</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">撃針に相当する部分は、その先端が斜線部分の範囲内に位置するように取り付けられていること。</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図８</FigStructTitle>
+                <Fig src="./pict/2JH00000183271.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">材質は、超硬合金（日本産業規格Ｈ５５０１）</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ａは、包底面の直径</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <FigStructTitle>別図９</FigStructTitle>
+                <Fig src="./pict/2JH00000183272.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      <Remarks>
+      <RemarksLabel LineBreak="true"/>
+      <Item Num="1">
+        <ItemTitle>１</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ａは、包底面の直径</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>２</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">ｂは、１．５ｍｍ以下</Sentence>
+        </ItemSentence>
+      </Item>
+      </Remarks>
+      </TableStruct>
     </AppdxTable>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図１</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183249.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　Ａは、ロツクウエル硬さ試験方法（日本産業規格Ｚ２２４５）により測定した硬さがＨ<Sub>Ｒ</Sub>Ｃ６０以上の鋼材</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　Ｂは、超硬合金（日本産業規格Ｈ５５０１）とし、直径１／６ａ以上、長さ２／３ａ以上の円柱状のもの</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="3"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="3" WritingMode="vertical">３　Ｂは、直径１／２ａ以上の球状の超硬合金に替えることができる。</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図２</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183250.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　ｃは、銃身に相当する部分の基部の外径</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　ｃとａの差は、３ｍｍ以下</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="3"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="3" WritingMode="vertical">３　ｂは、５ｍｍ以下</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図３</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183255.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　材質は、ロツクウエル硬さ試験方法（日本産業規格Ｚ２２４５）により測定した硬さがＨ<Sub>Ｒ</Sub>Ｃ６０以上の鋼材</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　ａは、各薬室の中心点を通る円の直径以上</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="3"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="3" WritingMode="vertical">３　ｂは、２．５ｍｍ以上</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図４</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183257.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">斜線部分は、鋼材</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図５</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183258.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　切断部分の幅は、２ｍｍ以上</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　ａは、５ｍｍ以下</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図６</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183259.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　ｂは、銃身（薬室を除く。）に相当する部分の基部の外径</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　ｂとａの差は、３ｍｍ以下</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="3"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="3" WritingMode="vertical">３　ｃは、５ｍｍ以下</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図７</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183261.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　ａは、包底面の直径</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　撃針に相当する部分は、その先端が斜線部分の範囲内に位置するように取り付けられていること。</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図８</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183271.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　材質は、超硬合金（日本産業規格Ｈ５５０１）</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　ａは、包底面の直径</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxFig>
-      <AppdxFigTitle WritingMode="vertical">別図９</AppdxFigTitle>
-      <FigStruct>
-        <Fig src="./pict/2JH00000183272.jpg"/>
-      </FigStruct>
-    </AppdxFig>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">１　ａは、包底面の直径</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">２　ｂは、１．５ｍｍ以下</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5163,7 +5513,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２号</AppdxStyleTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5172,7 +5522,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３号</AppdxStyleTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5181,16 +5531,16 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４号</AppdxStyleTitle>
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000060203.pdf"/>
+          <Fig src="./pict/2FH00000062864.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５号</AppdxStyleTitle>
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5199,7 +5549,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６号</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5208,7 +5558,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5217,7 +5567,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７号</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5226,7 +5576,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８号</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5235,7 +5585,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第９号</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5244,7 +5594,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第９号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5253,7 +5603,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１０号</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5262,7 +5612,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１１号</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5271,7 +5621,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１１号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5280,7 +5630,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１２号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１条、第１７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5289,7 +5639,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１３号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5298,7 +5648,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１４号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5307,7 +5657,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１５号</AppdxStyleTitle>
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5316,7 +5666,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１６号</AppdxStyleTitle>
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5325,7 +5675,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１７号</AppdxStyleTitle>
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5334,7 +5684,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１８号</AppdxStyleTitle>
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5343,7 +5693,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１８号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第１８条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5352,7 +5702,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１９号</AppdxStyleTitle>
       <RelatedArticleNum>（第２０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5361,7 +5711,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="20">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２０号</AppdxStyleTitle>
       <RelatedArticleNum>（第２１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5370,7 +5720,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２１号</AppdxStyleTitle>
       <RelatedArticleNum>（第２２条、第２５条、第２９条、第５６条、第７０条、第８２条、第８２条の３関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5379,7 +5729,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２２号</AppdxStyleTitle>
       <RelatedArticleNum>（第２２条、第２５条、第２９条、第５６条、第７０条、第８２条、第８２条の３関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5388,7 +5738,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="23">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２３号</AppdxStyleTitle>
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5397,7 +5747,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="24">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２４号</AppdxStyleTitle>
       <RelatedArticleNum>（第２４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5406,7 +5756,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="25">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２５号</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5415,7 +5765,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="26">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２６号</AppdxStyleTitle>
       <RelatedArticleNum>（第２７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5424,7 +5774,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="27">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２７号</AppdxStyleTitle>
       <RelatedArticleNum>（第２８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5433,7 +5783,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="28">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２８号</AppdxStyleTitle>
       <RelatedArticleNum>（第３０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5442,7 +5792,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="29">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２９号</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5451,7 +5801,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="29_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２９号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5460,7 +5810,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="30">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３０号</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5469,7 +5819,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="30_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３０号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5478,7 +5828,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="31">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３１号</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5487,7 +5837,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="32">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３２号</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5496,7 +5846,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="32_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３２号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5505,7 +5855,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="33">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３３号</AppdxStyleTitle>
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5514,7 +5864,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="34">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３４号</AppdxStyleTitle>
       <RelatedArticleNum>（第３２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5523,7 +5873,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="35">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３５号</AppdxStyleTitle>
       <RelatedArticleNum>（第３３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5532,7 +5882,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="36">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３６号</AppdxStyleTitle>
       <RelatedArticleNum>（第３６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5541,7 +5891,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="37">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３７号</AppdxStyleTitle>
       <RelatedArticleNum>（第３７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5550,7 +5900,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="38">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３８号</AppdxStyleTitle>
       <RelatedArticleNum>（第３８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5559,7 +5909,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="39">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３９号</AppdxStyleTitle>
       <RelatedArticleNum>（第３９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5568,7 +5918,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="40">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４０号</AppdxStyleTitle>
       <RelatedArticleNum>（第４０条、第９７条、第１０６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5577,7 +5927,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="41">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４１号</AppdxStyleTitle>
       <RelatedArticleNum>（第４３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5586,7 +5936,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="42">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４２号</AppdxStyleTitle>
       <RelatedArticleNum>（第４４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5595,7 +5945,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="43">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４３号</AppdxStyleTitle>
       <RelatedArticleNum>（第４５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5604,7 +5954,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="44">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４４号</AppdxStyleTitle>
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5613,7 +5963,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="45">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４５号</AppdxStyleTitle>
       <RelatedArticleNum>（第５０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5622,7 +5972,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="46">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４６号</AppdxStyleTitle>
       <RelatedArticleNum>（第５１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5631,7 +5981,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="47">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４７号</AppdxStyleTitle>
       <RelatedArticleNum>（第５２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5640,7 +5990,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="48">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４８号</AppdxStyleTitle>
       <RelatedArticleNum>（第５３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5649,7 +5999,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="49">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４９号</AppdxStyleTitle>
       <RelatedArticleNum>（第５４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5658,7 +6008,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="50">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５０号</AppdxStyleTitle>
       <RelatedArticleNum>（第５５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5667,7 +6017,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="51">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５１号</AppdxStyleTitle>
       <RelatedArticleNum>（第５７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5676,7 +6026,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="52">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５２号</AppdxStyleTitle>
       <RelatedArticleNum>（第５８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5685,7 +6035,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="53">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５３号</AppdxStyleTitle>
       <RelatedArticleNum>（第５８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5694,7 +6044,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="54">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５４号</AppdxStyleTitle>
       <RelatedArticleNum>（第５９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5703,7 +6053,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="55">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５５号</AppdxStyleTitle>
       <RelatedArticleNum>（第６１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5712,7 +6062,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="56">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５６号</AppdxStyleTitle>
       <RelatedArticleNum>（第６２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5721,7 +6071,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="57">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５７号</AppdxStyleTitle>
       <RelatedArticleNum>（第６４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5730,7 +6080,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="58">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５８号</AppdxStyleTitle>
       <RelatedArticleNum>（第６５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5739,7 +6089,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="59">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５９号</AppdxStyleTitle>
       <RelatedArticleNum>（第６６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5748,7 +6098,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="60">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６０号</AppdxStyleTitle>
       <RelatedArticleNum>（第６７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5757,7 +6107,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="61">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６１号</AppdxStyleTitle>
       <RelatedArticleNum>（第６９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5766,7 +6116,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="62">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６２号</AppdxStyleTitle>
       <RelatedArticleNum>（第７３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5775,7 +6125,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="63">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６３号</AppdxStyleTitle>
       <RelatedArticleNum>（第７４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5784,7 +6134,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="64">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６４号</AppdxStyleTitle>
       <RelatedArticleNum>（第７５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5793,7 +6143,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="65">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６５号</AppdxStyleTitle>
       <RelatedArticleNum>（第７７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5802,7 +6152,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="66">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６６号</AppdxStyleTitle>
       <RelatedArticleNum>（第７８条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5811,7 +6161,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="67">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６７号</AppdxStyleTitle>
       <RelatedArticleNum>（第７９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5820,7 +6170,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="68">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６８号</AppdxStyleTitle>
       <RelatedArticleNum>（第８０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5829,7 +6179,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="69">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６９号</AppdxStyleTitle>
       <RelatedArticleNum>（第８１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5838,7 +6188,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="69_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６９号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第８２条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5847,7 +6197,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="70">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７０号</AppdxStyleTitle>
       <RelatedArticleNum>（第９０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5856,7 +6206,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="71">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７１号</AppdxStyleTitle>
       <RelatedArticleNum>（第９０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5865,7 +6215,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="72">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７２号</AppdxStyleTitle>
       <RelatedArticleNum>（第９１条、第９１条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5874,7 +6224,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="73">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７３号</AppdxStyleTitle>
       <RelatedArticleNum>（第９３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5883,7 +6233,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="74">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７４号</AppdxStyleTitle>
       <RelatedArticleNum>（第９４条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5892,7 +6242,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="75">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７５号</AppdxStyleTitle>
       <RelatedArticleNum>（第９５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5901,7 +6251,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="76">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７６号</AppdxStyleTitle>
       <RelatedArticleNum>（第９６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5910,7 +6260,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="77">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７７号</AppdxStyleTitle>
       <RelatedArticleNum>（第１００条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5919,7 +6269,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="78">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７８号</AppdxStyleTitle>
       <RelatedArticleNum>（第１０２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5928,7 +6278,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="79">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７９号</AppdxStyleTitle>
       <RelatedArticleNum>（第１０３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5937,7 +6287,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="80">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８０号</AppdxStyleTitle>
       <RelatedArticleNum>（第１０５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5946,7 +6296,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="81">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８１号</AppdxStyleTitle>
       <RelatedArticleNum>（第１０５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5955,7 +6305,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="82">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８２号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１０条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5964,7 +6314,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="83">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８３号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5973,7 +6323,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="84">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８４号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１１条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5982,7 +6332,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="85">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８５号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -5991,7 +6341,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="86">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８６号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -6000,7 +6350,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="87">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８７号</AppdxStyleTitle>
       <RelatedArticleNum>（第１１５条関係）</RelatedArticleNum>
       <StyleStruct>
