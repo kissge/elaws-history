@@ -122,7 +122,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「財務書類」とは、財産目録、貸借対照表、損益計算書その他財務に関する書類（これらの作成に代えて電磁的記録（電子的方式、磁気的方式その他の人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるもので内閣府令で定めるものをいう。以下同じ。）を作成する場合における当該電磁的記録を含む。）をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「財務書類」とは、財産目録、貸借対照表、損益計算書その他財務に関する書類（これらの作成に代えて電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。）を作成する場合における当該電磁的記録を含む。）をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3296,7 +3296,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、有限責任監査法人登録簿を公衆の縦覧に供しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、有限責任監査法人登録簿（公衆の縦覧に供することにより個人の権利利益を害するおそれがあるものとして内閣府令で定める部分を除く。）を公衆の縦覧に供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3806,7 +3806,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">日本公認会計士協会は、上場会社等監査人名簿を公衆の縦覧に供しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本公認会計士協会は、上場会社等監査人名簿（公衆の縦覧に供することにより個人の権利利益を害するおそれがあるものとして内閣府令で定める部分を除く。）を公衆の縦覧に供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4305,7 +4305,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">審判手続開始の決定に係る決定書（次項及び第三十四条の四十五において「審判手続開始決定書」という。）には、審判の期日及び場所、課徴金に係る第三十一条の二第一項又は第三十四条の二十一の二第一項に規定する事実並びに納付すべき課徴金の額及びその計算の基礎を記載しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">審判手続開始の決定に係る決定書（次項及び第三十四条の四十五において「審判手続開始決定書」という。）には、最初の審判手続の期日及び場所、課徴金に係る第三十一条の二第一項又は第三十四条の二十一の二第一項に規定する事実並びに納付すべき課徴金の額及びその計算の基礎を記載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -4317,7 +4317,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">被審人には、審判の期日に出頭すべき旨を命じなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">被審人には、最初の審判手続の期日に出頭すべき旨を命じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4350,8 +4350,24 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="34_42_2">
+          <ArticleCaption>（映像と音声の送受信による通話の方法による審判手続）</ArticleCaption>
+          <ArticleTitle>第三十四条の四十二の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審判官は、相当と認めるときは、被審人の意見を聴いて、内閣府令で定めるところにより、審判官及び被審人が映像と音声の送受信により相手の状態を相互に認識しながら通話をすることができる方法によつて、審判手続を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合には、当該被審人は、審判手続の期日に出頭したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="34_43">
-          <ArticleCaption>（被審人の代理人及び指定職員）</ArticleCaption>
+          <ArticleCaption>（被審人の代理人等）</ArticleCaption>
           <ArticleTitle>第三十四条の四十三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -4362,29 +4378,36 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、当該職員でその指定するもの（次項において「指定職員」という。）を審判手続に参加させることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、当該職員でその指定するもの（以下この条において「指定職員」という。）を審判手続に参加させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">指定職員は、審判に立ち会い、証拠の申出その他必要な行為をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">指定職員は、審判手続に立ち会い、証拠の申出その他必要な行為をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">指定職員は、第三十一条の二第一項又は第三十四条の二十一の二第一項に規定する事実、法令の適用並びに納付すべき課徴金の額及びその計算の基礎について変更（内閣府令で定める範囲のものに限る。）の必要があると認めるときは、これを主張することができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、被審人の利益を害することとなる場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="34_44">
-          <ArticleCaption>（審判の公開）</ArticleCaption>
+          <ArticleCaption>（審判手続の期日の公開）</ArticleCaption>
           <ArticleTitle>第三十四条の四十四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">審判は、公開して行う。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">審判手続の期日は、公開して行う。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、公益上必要があると認めるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="34_45">
-          <ArticleCaption>（被審人による答弁書の提出）</ArticleCaption>
+          <ArticleCaption>（答弁書）</ArticleCaption>
           <ArticleTitle>第三十四条の四十五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -4395,17 +4418,17 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">被審人が、審判手続開始決定書に記載された審判の期日前に、課徴金に係る第三十一条の二第一項又は第三十四条の二十一の二第一項に規定する事実及び納付すべき課徴金の額を認める旨の答弁書を提出したときは、審判の期日を開くことを要しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">被審人が、審判手続開始決定書に記載された最初の審判手続の期日（当該期日が変更された場合にあつては、変更後の期日）前に、課徴金に係る第三十一条の二第一項又は第三十四条の二十一の二第一項に規定する事実及び納付すべき課徴金の額を認める旨の答弁書を提出したときは、審判手続の期日を開くことを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="34_46">
-          <ArticleCaption>（被審人の意見陳述）</ArticleCaption>
+          <ArticleCaption>（意見の陳述）</ArticleCaption>
           <ArticleTitle>第三十四条の四十六</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">被審人は、審判の期日に出頭して、意見を述べることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">被審人は、審判手続の期日に出頭して、意見を述べることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -4448,7 +4471,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">被審人は、審判に際し、証拠書類又は証拠物を提出することができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">被審人は、審判手続において、証拠書類又は証拠物を提出することができる。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、審判官が証拠書類又は証拠物を提出すべき相当の期間を定めたときは、その期間内に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -4525,13 +4548,13 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、会社その他の者の同一の会計期間に係る財務書類の二以上の証明について前項の決定（第三十一条の二第一項の規定に係るものに限る。以下この項において同じ。）をしなければならない場合には、同条第一項の規定による額に代えて、それぞれの決定に係る事実について同項の規定により計算した額（以下この項及び次項において「個別決定ごとの算出額」という。）のうち最も高い額を内閣府令で定めるところにより当該個別決定ごとの算出額に応じてあん分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、会社その他の者の同一の会計期間に係る財務書類の二以上の証明について前項の決定（第三十一条の二第一項の規定に係るものに限る。以下この項において同じ。）をしなければならない場合には、同条第一項の規定による額に代えて、それぞれの決定に係る事実について同項の規定により計算した額（以下この項及び次項において「個別決定ごとの算出額」という。）のうち最も高い額を内閣府令で定めるところにより当該個別決定ごとの算出額に応じて<Ruby>按<Rt>あん</Rt></Ruby>分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第一項の決定（第三十一条の二第一項の規定に係るものに限る。以下この項において同じ。）又は前項の決定をしなければならない場合において、既に第一項又は前項の規定によりされた一以上の決定（以下この項において「既決定」という。）に係る会社その他の者の財務書類の証明と同一の会計期間に係る当該会社その他の者の他の財務書類の証明について一以上の決定（以下この項において「新決定」という。）をしなければならないときは、当該新決定について、同条第一項又は前項の規定による額に代えて、第一号に掲げる額から第二号に掲げる額を控除した額を内閣府令で定めるところによりそれぞれの新決定に係る事実について個別決定ごとの算出額に応じてあん分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第一項の決定（第三十一条の二第一項の規定に係るものに限る。以下この項において同じ。）又は前項の決定をしなければならない場合において、既に第一項又は前項の規定によりされた一以上の決定（以下この項において「既決定」という。）に係る会社その他の者の財務書類の証明と同一の会計期間に係る当該会社その他の者の他の財務書類の証明について一以上の決定（以下この項において「新決定」という。）をしなければならないときは、当該新決定について、同条第一項又は前項の規定による額に代えて、第一号に掲げる額から第二号に掲げる額を控除した額を内閣府令で定めるところによりそれぞれの新決定に係る事実について個別決定ごとの算出額に応じて<Ruby>按<Rt>あん</Rt></Ruby>分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一号に掲げる額が第二号に掲げる額を超えないときは、同条第一項又は前項の規定による課徴金の納付を命ずることができない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -4550,13 +4573,13 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、会社その他の者の同一の会計期間に係る財務書類の二以上の証明について第一項の決定（第三十四条の二十一の二第一項の規定に係るものに限る。以下この項において同じ。）をしなければならない場合には、同条第一項の規定による額に代えて、それぞれの決定に係る事実について同項の規定により計算した額（以下この項及び次項において「個別決定ごとの算出額」という。）のうち最も高い額を内閣府令で定めるところにより当該個別決定ごとの算出額に応じてあん分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、会社その他の者の同一の会計期間に係る財務書類の二以上の証明について第一項の決定（第三十四条の二十一の二第一項の規定に係るものに限る。以下この項において同じ。）をしなければならない場合には、同条第一項の規定による額に代えて、それぞれの決定に係る事実について同項の規定により計算した額（以下この項及び次項において「個別決定ごとの算出額」という。）のうち最も高い額を内閣府令で定めるところにより当該個別決定ごとの算出額に応じて<Ruby>按<Rt>あん</Rt></Ruby>分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第一項の決定（第三十四条の二十一の二第一項の規定に係るものに限る。以下この項において同じ。）又は前項の決定をしなければならない場合において、既に第一項又は前項の規定によりされた一以上の決定（以下この項において「既決定」という。）に係る会社その他の者の財務書類の証明と同一の会計期間に係る当該会社その他の者の他の財務書類の証明について一以上の決定（以下この項において「新決定」という。）をしなければならないときは、当該新決定について、同条第一項又は前項の規定による額に代えて、第一号に掲げる額から第二号に掲げる額を控除した額を内閣府令で定めるところによりそれぞれの新決定に係る事実について個別決定ごとの算出額に応じてあん分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第一項の決定（第三十四条の二十一の二第一項の規定に係るものに限る。以下この項において同じ。）又は前項の決定をしなければならない場合において、既に第一項又は前項の規定によりされた一以上の決定（以下この項において「既決定」という。）に係る会社その他の者の財務書類の証明と同一の会計期間に係る当該会社その他の者の他の財務書類の証明について一以上の決定（以下この項において「新決定」という。）をしなければならないときは、当該新決定について、同条第一項又は前項の規定による額に代えて、第一号に掲げる額から第二号に掲げる額を控除した額を内閣府令で定めるところによりそれぞれの新決定に係る事実について個別決定ごとの算出額に応じて<Ruby>按<Rt>あん</Rt></Ruby>分して得た額に相当する額の課徴金を国庫に納付することを命ずる旨の決定をしなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一号に掲げる額が第二号に掲げる額を超えないときは、同条第一項又は前項の規定による課徴金の納付を命ずることができない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -8413,6 +8436,83 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年一一月二九日法律第八〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中公認会計士法第一条の三第一項の改正規定、同法第三十四条の四十一第二項の改正規定（「審判の」を「最初の審判手続の」に改める部分に限る。）、同条第四項の改正規定、同法第三十四条の四十二の次に一条を加える改正規定、同法第三十四条の四十三の見出し並びに同条第二項及び第三項の改正規定、同条に一項を加える改正規定、同法第三十四条の四十四（見出しを含む。）及び第三十四条の四十五の見出しの改正規定、同条第二項の改正規定（「審判手続開始決定書に記載され」を「審判手続開始決定記録に記録され」に改める部分を除く。）並びに同法第三十四条の四十六の見出し及び同条第一項並びに同法第三十四条の四十九第一項の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中公認会計士法第三十四条の四十一の見出し及び同条第一項の改正規定、同条第二項の改正規定（「審判の」を「最初の審判手続の」に改める部分を除く。）、同条第三項及び同法第三十四条の四十五第一項の改正規定、同条第二項の改正規定（「審判手続開始決定書に記載され」を「審判手続開始決定記録に記録され」に改める部分に限る。）、同法第三十四条の四十七第二項の改正規定、同項を同条第四項とし、同条第一項の次に二項を加える改正規定、同法第三十四条の四十八に一項を加える改正規定、同法第三十四条の四十九に一項を加える改正規定、同法第三十四条の五十第三項を同条第四項とし、同条第二項の次に一項を加える改正規定、同法第三十四条の五十三第七項から第十項まで、第三十四条の五十四（見出しを含む。）及び第三十四条の五十五（見出しを含む。）の改正規定、同条の次に一条を加える改正規定、同法第三十四条の五十六第一項から第三項までの改正規定、同法第三十四条の五十七を削る改正規定、同法第三十四条の五十八の改正規定、同条に二項を加える改正規定、同条を同法第三十四条の五十七とし、同条の次に一条を加える改正規定並びに同法第五十二条の三第一項及び第五十三条の三第二号の改正規定並びに次条から附則第四条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

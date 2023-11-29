@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="053" Year="33" PromulgateMonth="12" PromulgateDay="27"><LawNum>昭和三十三年厚生省令第五十三号</LawNum><LawBody><LawTitle Kana="こくみんけんこうほけんほうせこうきそく" Abbrev="国健保法施行規則,国保法施行規則" AbbrevKana="こ,こ">国民健康保険法施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="053" Year="33" PromulgateMonth="12" PromulgateDay="27"><LawNum>昭和三十三年厚生省令第五十三号</LawNum><LawBody><LawTitle Kana="こくみんけんこうほけんほうしこうきそく" Abbrev="国健保法施行規則,国保法施行規則" AbbrevKana="こ,こ">国民健康保険法施行規則</LawTitle>
     <EnactStatement>国民健康保険法（昭和三十三年法律第百九十二号）第六条第八号、第九条第一項、第三項及び第四項（第二十二条及び国民健康保険法施行法（昭和三十三年法律第百九十三号）第三十九条及び第四十五条第二項において準用する場合を含む。）、第十八条第十一号、第三十二条第二項（第八十六条において準用する場合を含む。）、第三十七条第三項ただし書、第三十九条第三項ただし書、第九十条及び第百二十条、国民健康保険法施行法第二十四条第二号並びに国民健康保険法施行令（昭和三十三年政令第三百六十二号）第二十七条の規定に基き、並びにこれらの法律を実施するため、国民健康保険法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2651,12 +2651,22 @@
           </Paragraph>
         </Article>
         <Article Num="24_4">
-          <ArticleCaption>（法第三十六条第三項の厚生労働省令で定める方法）</ArticleCaption>
+          <ArticleCaption>（法第三十六条第三項の被保険者の資格に係る情報の照会を行う方法として厚生労働省令で定める方法）</ArticleCaption>
           <ArticleTitle>第二十四条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三十六条第三項の厚生労働省令で定める方法は、次の各号に掲げる場合の区分に応じ、当該各号に定めるもの（被保険者が法第四十二条第一項第三号又は第四号の規定の適用を受ける場合（当該適用を受けることについて、保険医療機関等（保険医療機関又は保険薬局をいう。以下同じ。）又は指定訪問看護事業者において、電子的確認（市町村又は組合に対し、被保険者の資格に係る情報（保険給付に係る費用の請求に必要な情報を含む。）の照会を行い、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、市町村又は組合から回答を受けた当該情報により確認することをいう。以下同じ。）を受けることができる場合を除く。）にあつては、当該各号に定めるもの及び高齢受給者証）を提出する方法とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第三項の被保険者の資格に係る情報（保険給付に係る費用の請求に必要な情報を含む。次条において同じ。）の照会を行う方法として厚生労働省令で定める方法は、利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を送信する方法とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24_5">
+          <ArticleCaption>（法第三十六条第三項の被保険者であることの確認を受ける方法として厚生労働省令で定める方法）</ArticleCaption>
+          <ArticleTitle>第二十四条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第三項の被保険者であることの確認を受ける方法として厚生労働省令で定める方法は、次の各号に掲げる場合の区分に応じ、当該各号に定めるもの（被保険者が法第四十二条第一項第三号又は第四号の規定の適用を受ける場合（当該適用を受けることについて、保険医療機関等（保険医療機関又は保険薬局をいう。以下同じ。）又は指定訪問看護事業者において、電子的確認（市町村又は組合に対し、被保険者の資格に係る情報の照会を行い、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、市町村又は組合から回答を受けた当該情報により確認することをいう。以下同じ。）を受けることができる場合を除く。）にあつては、当該各号に定めるもの及び高齢受給者証）を提出する方法とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2805,7 +2815,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">認定を受けた被保険者は、法第五十二条第一項に規定する入院時食事療養費に係る療養又は法第五十三条第一項に規定する保険外併用療養費に係る療養（食事療養に限る。）を受けようとするときは、保険医療機関において、認定を受けていることの確認を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の四に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証に添えて、食事療養減額認定証を当該保険医療機関に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の五に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証に添えて、食事療養減額認定証を当該保険医療機関に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2964,7 +2974,7 @@
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">認定を受けた被保険者は、法第五十二条の二第一項に規定する入院時生活療養費に係る療養又は法第五十三条第一項に規定する保険外併用療養費に係る療養（生活療養に限る。）を受けようとするときは、保険医療機関において、認定を受けていることの確認を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の四に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証に添えて、生活療養減額認定証を当該保険医療機関に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の五に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証に添えて、生活療養減額認定証を当該保険医療機関に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
@@ -3704,7 +3714,7 @@
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">認定を受けた被保険者は、保険医療機関等から令第二十九条の二第八項に規定する療養を受けようとするときは、それぞれ当該保険医療機関等において、認定を受けていることの確認を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の四に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするときは、被保険者証又は処方せんに添えて、特定疾病受療証を当該保険医療機関等に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の五に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするときは、被保険者証又は処方せんに添えて、特定疾病受療証を当該保険医療機関等に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
@@ -4156,7 +4166,7 @@
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">認定を受けた被保険者は、保険医療機関等又は指定訪問看護事業者について療養を受けようとするときは、それぞれ当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの確認を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の四に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証又は処方せんに添えて、限度額適用認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の五に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証又は処方せんに添えて、限度額適用認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4235,7 +4245,7 @@
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">認定を受けた被保険者は、保険医療機関等又は指定訪問看護事業者について療養を受けようとするときは、それぞれ当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの確認を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の四に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証又は処方せんに添えて、限度額適用認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の五に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証又は処方せんに添えて、限度額適用認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4304,7 +4314,7 @@
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">認定を受けた被保険者は、保険医療機関等又は指定訪問看護事業者について療養を受けようとするときは、それぞれ当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの確認を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の四に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証又は処方せんに添えて、限度額適用・減額認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該認定を受けた者が、第二十四条の五に規定する方法により被保険者であることの確認を受け、当該療養を受けようとするとき（当該保険医療機関等又は指定訪問看護事業者において、認定を受けていることの電子的確認を受けることができる場合を除く。）は、被保険者証又は処方せんに添えて、限度額適用・減額認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
@@ -8330,7 +8340,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <RelatedArticleNum>（国民健康保険法施行規則の一部を改正する省令（昭和五十九年厚生省令第四十一号）附則第三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10584,7 +10594,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和五年一一月一三日厚生労働省令第一三九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10593,7 +10612,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10602,7 +10621,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10611,7 +10630,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の二の三</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10620,7 +10639,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の三</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10629,7 +10648,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の三の二</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10638,7 +10657,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の四</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10647,7 +10666,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_4_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の四の二</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10656,7 +10675,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の五</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10665,7 +10684,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_5_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の五の二</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10674,7 +10693,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_5_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の五の三</AppdxStyleTitle>
       <RelatedArticleNum>（第十二条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10683,7 +10702,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の六</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10692,7 +10711,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_6_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の六の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10701,7 +10720,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_6_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の六の三</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条の六の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10710,7 +10729,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_6_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の六の四</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条の六の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10719,7 +10738,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の七</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10728,7 +10747,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_7_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の七の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10737,7 +10756,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の八</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十四の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10746,7 +10765,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_8_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の八の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十四の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10755,7 +10774,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_8_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の八の三</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十四の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10764,7 +10783,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_8_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の八の四</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十四の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10773,7 +10792,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の九</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十四の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10782,7 +10801,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_9_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の九の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条の十四の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10791,7 +10810,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10800,7 +10819,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10809,7 +10828,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三</AppdxStyleTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10818,7 +10837,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三の二</AppdxStyleTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10827,7 +10846,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四</AppdxStyleTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10836,7 +10855,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四の二</AppdxStyleTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10845,7 +10864,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五</AppdxStyleTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10854,7 +10873,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六</AppdxStyleTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10863,7 +10882,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
       <RelatedArticleNum>（附則第七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10872,7 +10891,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号の二</AppdxStyleTitle>
       <RelatedArticleNum>（附則第七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10881,7 +10900,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八</AppdxStyleTitle>
       <RelatedArticleNum>（附則第九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -10890,7 +10909,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九</AppdxStyleTitle>
       <RelatedArticleNum>（附則第九条関係）</RelatedArticleNum>
       <StyleStruct>
