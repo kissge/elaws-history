@@ -2666,7 +2666,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                      <Sentence Num="1" WritingMode="vertical">第二十八条の六第三項　</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第二十八条の六第三項</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">地方公共団体における</Sentence>
@@ -9601,7 +9601,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -9749,50 +9749,56 @@
         </ItemSentence>
       </Item>
       <Remarks>
-        <RemarksLabel LineBreak="true">備考　総務大臣は、次の各号に掲げる総務省令を定めようとするときは、当該各号に定める大臣に協議しなければならない。これを変更しようとするときも、同様とする。</RemarksLabel>
+        <RemarksLabel>備考</RemarksLabel>
         <Item Num="1">
-          <ItemTitle>一</ItemTitle>
+          <ItemTitle/>
           <ItemSentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">第一号、第八号及び第十五号の総務省令</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">法務大臣</Sentence>
-            </Column>
+            <Sentence Num="1" WritingMode="vertical">総務大臣は、次の各号に掲げる総務省令を定めようとするときは、当該各号に定める大臣に協議しなければならない。これを変更しようとするときも、同様とする。</Sentence>
           </ItemSentence>
-        </Item>
-        <Item Num="2">
-          <ItemTitle>二</ItemTitle>
-          <ItemSentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">第二号から第四号まで、第六号、第九号、第十号、第十四号、第十六号及び第十九号の総務省令</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣</Sentence>
-            </Column>
-          </ItemSentence>
-        </Item>
-        <Item Num="3">
-          <ItemTitle>三</ItemTitle>
-          <ItemSentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">第七号の総務省令</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">国土交通大臣</Sentence>
-            </Column>
-          </ItemSentence>
-        </Item>
-        <Item Num="4">
-          <ItemTitle>四</ItemTitle>
-          <ItemSentence>
-            <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">第十一号、第十三号及び第十八号の総務省令</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣</Sentence>
-            </Column>
-          </ItemSentence>
+          <Subitem1 Num="1">
+            <Subitem1Title>一</Subitem1Title>
+            <Subitem1Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一号、第八号及び第十五号の総務省令</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">法務大臣</Sentence>
+              </Column>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>二</Subitem1Title>
+            <Subitem1Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二号から第四号まで、第六号、第九号、第十号、第十四号、第十六号及び第十九号の総務省令</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣</Sentence>
+              </Column>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="3">
+            <Subitem1Title>三</Subitem1Title>
+            <Subitem1Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七号の総務省令</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣</Sentence>
+              </Column>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="4">
+            <Subitem1Title>四</Subitem1Title>
+            <Subitem1Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十一号、第十三号及び第十八号の総務省令</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣</Sentence>
+              </Column>
+            </Subitem1Sentence>
+          </Subitem1>
         </Item>
       </Remarks>
     </AppdxTable>
