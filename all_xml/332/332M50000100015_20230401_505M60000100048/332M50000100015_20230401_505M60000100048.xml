@@ -812,24 +812,24 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">リハビリテーション</Sentence>
-              </ItemSentence>
-              <List>
-                <ListSentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence Num="1" WritingMode="vertical">リハビリテーション</Sentence>
+                </Column>
+                <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">リハビリテーションは、必要があると認められる場合に行う。</Sentence>
-                </ListSentence>
-              </List>
+                </Column>
+              </ItemSentence>
             </Item>
             <Item Num="6_2">
               <ItemTitle>六の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理等</Sentence>
-              </ItemSentence>
-              <List>
-                <ListSentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理等</Sentence>
+                </Column>
+                <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理及び看護は、療養上適切であると認められる場合に行う。</Sentence>
-                </ListSentence>
-              </List>
+                </Column>
+              </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
@@ -1142,24 +1142,24 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">リハビリテーション</Sentence>
-              </ItemSentence>
-              <List>
-                <ListSentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence Num="1" WritingMode="vertical">リハビリテーション</Sentence>
+                </Column>
+                <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">リハビリテーションは、必要があると認められる場合に行う。</Sentence>
-                </ListSentence>
-              </List>
+                </Column>
+              </ItemSentence>
             </Item>
             <Item Num="7_2">
               <ItemTitle>七の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理等</Sentence>
-              </ItemSentence>
-              <List>
-                <ListSentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理等</Sentence>
+                </Column>
+                <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">居宅における療養上の管理及び看護は、療養上適切であると認められる場合に行う。</Sentence>
-                </ListSentence>
-              </List>
+                </Column>
+              </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
@@ -1188,13 +1188,13 @@
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">歯科矯正</Sentence>
-              </ItemSentence>
-              <List>
-                <ListSentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence Num="1" WritingMode="vertical">歯科矯正</Sentence>
+                </Column>
+                <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">歯科矯正は、療養の給付の対象として行つてはならない。ただし、別に厚生労働大臣が定める場合においては、この限りでない。</Sentence>
-                </ListSentence>
-              </List>
+                </Column>
+              </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
@@ -2728,7 +2728,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="1_1_1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（一）の１</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2737,7 +2737,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（一）の２</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2746,7 +2746,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_1_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（一）の３</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2755,7 +2755,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2_1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（二）の１</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2764,7 +2764,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（二）の２</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2773,7 +2773,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2782,7 +2782,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十三条関係）</RelatedArticleNum>
       <StyleStruct>

@@ -90,14 +90,6 @@
             <SubsectionTitle>第四款　保険者の後期高齢者支援金等</SubsectionTitle>
             <ArticleRange>（第百十八条―第百二十四条）</ArticleRange>
           </TOCSubsection>
-          <TOCSubsection Num="5">
-            <SubsectionTitle>第五款　後期高齢者医療広域連合の出産育児支援金等</SubsectionTitle>
-            <ArticleRange>（第百二十四条の二―第百二十四条の八）</ArticleRange>
-          </TOCSubsection>
-          <TOCSubsection Num="6">
-            <SubsectionTitle>第六款　雑則</SubsectionTitle>
-            <ArticleRange>（第百二十四条の九）</ArticleRange>
-          </TOCSubsection>
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　高齢者保健事業</SectionTitle>
@@ -1213,70 +1205,36 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第一項の概算前期高齢者交付金の額は、次の各号に掲げる保険者の区分に応じ、当該各号に定める額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の概算前期高齢者交付金の額は、第一号及び第二号に掲げる額の合計額から第三号に掲げる額を控除して得た額（当該額が零を下回る場合には、零とする。）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">イ及びロに掲げる額の合計額</Sentence>
-                </Column>
+                <Sentence Num="1" WritingMode="vertical">当該年度における当該保険者に係る調整対象給付費見込額</Sentence>
               </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">（１）及び（２）に掲げる額の合計額から（３）に掲げる額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の二に相当する額</Sentence>
-                </Subitem1Sentence>
-                <Subitem2 Num="1">
-                  <Subitem2Title>（１）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">当該年度における当該保険者に係る調整対象給付費見込額</Sentence>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="2">
-                  <Subitem2Title>（２）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">当該年度における当該保険者に係る第百十九条第一項の概算後期高齢者支援金の額を同年度における当該保険者に係る第百二十条第一項各号の概算後期高齢者支援金調整率で除して得た額に、同年度における当該保険者に係る加入者の見込数に対する前期高齢者である加入者の見込数の割合を基礎として保険者ごとに算定される率を乗じて得た額（以下「前期高齢者に係る後期高齢者支援金の概算額」という。）</Sentence>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="3">
-                  <Subitem2Title>（３）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">当該年度における概算調整対象基準額</Sentence>
-                  </Subitem2Sentence>
-                </Subitem2>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">当該年度における当該保険者に係る調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額の合計額から同年度における概算報酬調整後調整対象基準額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の一に相当する額</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者以外の保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">当該年度における当該保険者に係る調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額の合計額から同年度における概算調整対象基準額を控除して得た額（当該額が零を下回る場合には、零とする。）</Sentence>
-                </Column>
+                <Sentence Num="1" WritingMode="vertical">当該年度における当該保険者に係る第百十九条第一項の概算後期高齢者支援金の額を同年度における当該保険者に係る第百二十条第一項各号の概算後期高齢者支援金調整率で除して得た額に、同年度における当該保険者に係る加入者の見込数に対する前期高齢者である加入者の見込数の割合を基礎として保険者ごとに算定される率を乗じて得た額（第三項及び第四項並びに第三十八条第二項において「前期高齢者に係る後期高齢者支援金の概算額」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該年度における概算調整対象基準額</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項各号の調整対象給付費見込額は、当該年度、当該年度の前年度及び当該年度の前々年度の各年度における当該保険者に係る一人平均調整対象給付費見込額（各年度における第一号に掲げる額から第二号に掲げる額を控除して得た額を、厚生労働省令で定めるところにより算定した各年度における当該保険者に係る前期高齢者である加入者の見込数で除して得た額をいう。）の平均額として厚生労働省令で定めるところにより算定される額に、厚生労働省令で定めるところにより算定した当該年度における当該保険者に係る前期高齢者である加入者の見込数を乗じて得た額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項第一号の調整対象給付費見込額は、第一号に掲げる額から第二号に掲げる額を控除して得た額とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該保険者の給付（国民健康保険にあつては、都道府県内の市町村の給付）であつて医療保険各法の規定による医療に関する給付（健康保険法第五十三条に規定するその他の給付及びこれに相当する給付を除く。）のうち厚生労働省令で定めるものに該当するものに要する費用（以下「保険者の給付に要する費用」という。）の見込額のうち前期高齢者である加入者に係るものとして厚生労働省令で定めるところにより算定される額（以下「前期高齢者給付費見込額」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該年度における当該保険者の給付（国民健康保険にあつては、都道府県内の市町村の給付）であつて医療保険各法の規定による医療に関する給付（健康保険法第五十三条に規定するその他の給付及びこれに相当する給付を除く。）のうち厚生労働省令で定めるものに該当するものに要する費用（以下「保険者の給付に要する費用」という。）の見込額のうち前期高齢者である加入者に係るものとして厚生労働省令で定めるところにより算定される額（以下「前期高齢者給付費見込額」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1301,36 +1259,18 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項各号の概算調整対象基準額は、当該保険者に係る同項各号の調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額（被用者保険等保険者にあつては、当該額に概算額補正率を乗じて得た額）の合計額に概算加入者調整率を乗じて得た額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第三号の概算調整対象基準額は、当該保険者に係る同項第一号の調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額（被用者保険等保険者にあつては、当該額に概算額補正率を乗じて得た額）の合計額に概算加入者調整率を乗じて得た額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項第一号ロの概算報酬調整後調整対象基準額は、当該保険者に係る同項各号の調整対象給付費見込額に当該年度における第一号に掲げる額を第二号に掲げる額で除して得た率（第六項第一号において「概算報酬調整率」という。）及び概算給付費補正率を乗じて得た額並びに前期高齢者に係る後期高齢者支援金の概算額に概算額補正率を乗じて得た額の合計額に概算加入者調整率を乗じて得た額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の概算額補正率は、各被用者保険等保険者に係る第一号に掲げる額から第二号に掲げる額を控除して得た額の合計額が第三号に掲げる額から第四号に掲げる額を控除して得た額の合計額に等しくなるよう厚生労働省令で定めるところにより算定した率とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該保険者に係る標準報酬総額の見込額として厚生労働省令で定めるところにより算定される額（次号並びに第百二十条第一項第一号イ及びロにおいて「標準報酬総額の見込額」という。）を厚生労働省令で定めるところにより算定した当該保険者に係る加入者の見込数で除して得た額</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">全ての被用者保険等保険者に係る標準報酬総額の見込額の合計額を全ての被用者保険等保険者に係る加入者の見込総数で除して得た額として厚生労働省令で定めるところにより算定した額</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項の概算額補正率は、各被用者保険等保険者に係る第一号に掲げる額から第二号に掲げる額を控除して得た額の合計額が第三号に掲げる額から第四号に掲げる額を控除して得た額の合計額に等しくなるよう厚生労働省令で定めるところにより算定した率とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前期高齢者に係る後期高齢者支援金の概算額に概算加入者調整率を乗じて得た額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前期高齢者に係る概算後期高齢者支援金に係る概算調整対象基準額（前期高齢者に係る後期高齢者支援金の概算額に概算加入者調整率を乗じて得た額をいう。第三号において同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1342,92 +1282,24 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者を被用者保険等保険者以外の保険者とみなした場合における前期高齢者に係る後期高齢者支援金の概算額に概算加入者調整率を乗じて得た額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者が被用者保険等保険者以外の保険者であるとしたならば、第一項第二号及び次項の規定により算定される前期高齢者に係る概算後期高齢者支援金に係る概算調整対象基準額</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者を被用者保険等保険者以外の保険者とみなした場合における前期高齢者に係る後期高齢者支援金の概算額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者が被用者保険等保険者以外の保険者であるとしたならば、第一項第二号の規定により算定される前期高齢者に係る後期高齢者支援金の概算額</Sentence>
               </ItemSentence>
             </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項及び前項第一号の概算加入者調整率は、厚生労働省令で定めるところにより、当該年度における全ての保険者に係る加入者の見込総数に対する前期高齢者である加入者の見込総数の割合を同年度における当該保険者に係る加入者の見込数に対する前期高齢者である加入者の見込数の割合（その割合が同年度における下限割合（同年度における全ての保険者に係る加入者の見込総数に対する前期高齢者である加入者の見込総数の割合の動向を勘案して政令で定める割合をいう。以下この項及び次条第五項において同じ。）に満たないときは、下限割合とする。）で除して得た率を基礎として保険者ごとに算定される率とする。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四項の概算給付費補正率は、各被用者保険等保険者に係る第一号に掲げる額の合計額が第二号に掲げる額の合計額に等しくなるよう厚生労働省令で定めるところにより算定した率とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項各号の調整対象給付費見込額に概算報酬調整率及び概算加入者調整率を乗じて得た額</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項各号の調整対象給付費見込額に概算加入者調整率を乗じて得た額</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>７</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三項、第四項、第五項第一号及び第三号並びに前項各号の概算加入者調整率は、厚生労働省令で定めるところにより、当該年度における全ての保険者に係る加入者の見込総数に対する前期高齢者である加入者の見込総数の割合を同年度における当該保険者に係る加入者の見込数に対する前期高齢者である加入者の見込数の割合（その割合が同年度における下限割合（同年度における全ての保険者に係る加入者の見込総数に対する前期高齢者である加入者の見込総数の割合の動向を勘案して政令で定める割合をいう。以下この項及び次条第七項において同じ。）に満たないときは、下限割合とする。）で除して得た率を基礎として保険者ごとに算定される率とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="8">
-            <ParagraphNum>８</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四項第一号の標準報酬総額は、次の各号に掲げる保険者の区分に応じ、各年度の当該各号に定める額の合計額の総額を、それぞれ政令で定めるところにより補正して得た額とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">全国健康保険協会及び健康保険組合</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">被保険者ごとの健康保険法又は船員保険法に規定する標準報酬（標準報酬月額及び標準賞与額をいう。）</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">共済組合</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">組合員ごとの国家公務員共済組合法又は地方公務員等共済組合法に規定する標準報酬の月額及び標準期末手当等の額</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">日本私立学校振興・共済事業団</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">加入者ごとの私立学校教職員共済法に規定する標準報酬月額及び標準賞与額</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">国民健康保険組合（被用者保険等保険者であるものに限る。）</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">組合員ごとの前三号に定める額に相当するものとして厚生労働省令で定める額</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="9">
-            <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第二項第二号ロの一人平均前期高齢者給付費見込額は、全ての保険者に係る前期高齢者である加入者一人当たりの前期高齢者給付費見込額の平均額として厚生労働省令で定めるところにより算定される額とする。</Sentence>
             </ParagraphSentence>
@@ -1439,76 +1311,36 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十三条第一項の確定前期高齢者交付金の額は、次の各号に掲げる保険者の区分に応じ、当該各号に定める額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十三条第一項の確定前期高齢者交付金の額は、第一号及び第二号に掲げる額の合計額から第三号に掲げる額を控除して得た額（当該額が零を下回る場合には、零とする。）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">イ及びロに掲げる額の合計額</Sentence>
-                </Column>
+                <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者に係る調整対象給付費額</Sentence>
               </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">（１）から（３）までに掲げる額の合計額から（４）に掲げる額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の二に相当する額</Sentence>
-                </Subitem1Sentence>
-                <Subitem2 Num="1">
-                  <Subitem2Title>（１）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者に係る調整対象給付費額</Sentence>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="2">
-                  <Subitem2Title>（２）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者に係る第百十九条第一項の確定後期高齢者支援金の額を同年度における当該保険者に係る第百二十一条第一項各号の確定後期高齢者支援金調整率で除して得た額に、同年度における当該保険者に係る加入者の数に対する前期高齢者である加入者の数の割合を基礎として保険者ごとに算定される率を乗じて得た額（以下「前期高齢者に係る後期高齢者支援金の確定額」という。）</Sentence>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="3">
-                  <Subitem2Title>（３）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者に係る感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）の規定による流行初期医療確保拠出金（以下「流行初期医療確保拠出金」という。）の額のうち前期高齢者である加入者に係るものとして厚生労働省令で定めるところにより算定される額（以下「前期高齢者に係る流行初期医療確保拠出金の額」という。）</Sentence>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="4">
-                  <Subitem2Title>（４）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">前々年度における確定調整対象基準額</Sentence>
-                  </Subitem2Sentence>
-                </Subitem2>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者に係る調整対象給付費額、前期高齢者に係る後期高齢者支援金の確定額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額から同年度における確定報酬調整後調整対象基準額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の一に相当する額</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者以外の保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者に係る調整対象給付費額、前期高齢者に係る後期高齢者支援金の確定額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額から同年度における確定調整対象基準額を控除して得た額（当該額が零を下回る場合には、零とする。）</Sentence>
-                </Column>
+                <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者に係る第百十九条第一項の確定後期高齢者支援金の額を同年度における当該保険者に係る第百二十一条第一項各号の確定後期高齢者支援金調整率で除して得た額に、同年度における当該保険者に係る加入者の数に対する前期高齢者である加入者の数の割合を基礎として保険者ごとに算定される率を乗じて得た額（第三項及び第四項並びに第三十九条第二項において「前期高齢者に係る後期高齢者支援金の確定額」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前々年度における確定調整対象基準額</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項各号の調整対象給付費額は、前々年度、前々年度の初日の属する年の前年の四月一日の属する年度及び前々年度の初日の属する年の前々年の四月一日の属する年度の各年度における当該保険者に係る一人平均調整対象給付費額（各年度における第一号に掲げる額から第二号に掲げる額を控除して得た額を、厚生労働省令で定めるところにより算定した各年度における当該保険者に係る前期高齢者である加入者の数で除して得た額をいう。）の平均額として厚生労働省令で定めるところにより算定される額に、厚生労働省令で定めるところにより算定した前々年度における当該保険者に係る前期高齢者である加入者の数を乗じて得た額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項第一号の調整対象給付費額は、第一号に掲げる額から第二号に掲げる額を控除して得た額とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該保険者の給付に要する費用の額のうち前期高齢者である加入者に係るものとして厚生労働省令で定めるところにより算定される額（以下「前期高齢者給付費額」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者の給付に要する費用の額のうち前期高齢者である加入者に係るものとして厚生労働省令で定めるところにより算定される額（以下「前期高齢者給付費額」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1533,36 +1365,18 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項各号の確定調整対象基準額は、当該保険者に係る同項各号の調整対象給付費額、前期高齢者に係る後期高齢者支援金の確定額（被用者保険等保険者にあつては、当該額に確定額補正率を乗じて得た額）及び前期高齢者に係る流行初期医療確保拠出金の額の合計額に確定加入者調整率を乗じて得た額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第三号の確定調整対象基準額は、当該保険者に係る同項第一号の調整対象給付費額及び前期高齢者に係る後期高齢者支援金の確定額（被用者保険等保険者にあつては、当該額に確定額補正率を乗じて得た額）の合計額に確定加入者調整率を乗じて得た額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項第一号ロの確定報酬調整後調整対象基準額は、当該保険者に係る同項各号の調整対象給付費額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額に前々年度における第一号に掲げる額を第二号に掲げる額で除して得た率（第六項第一号において「確定報酬調整率」という。）及び確定給付費等補正率を乗じて得た額並びに前期高齢者に係る後期高齢者支援金の確定額に確定額補正率を乗じて得た額の合計額に確定加入者調整率を乗じて得た額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の確定額補正率は、各被用者保険等保険者に係る第一号に掲げる額から第二号に掲げる額を控除して得た額の合計額が第三号に掲げる額から第四号に掲げる額を控除して得た額の合計額に等しくなるよう厚生労働省令で定めるところにより算定した率とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該保険者に係る標準報酬総額（前条第八項に規定する標準報酬総額をいう。次号並びに第百二十一条第一項第一号イ及びロにおいて同じ。）を厚生労働省令で定めるところにより算定した当該保険者に係る加入者の数で除して得た額</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">全ての被用者保険等保険者に係る標準報酬総額の合計額を全ての被用者保険等保険者に係る加入者の総数で除して得た額として厚生労働省令で定めるところにより算定した額</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項の確定額補正率は、各被用者保険等保険者に係る第一号に掲げる額から第二号に掲げる額を控除して得た額の合計額が第三号に掲げる額から第四号に掲げる額を控除して得た額の合計額に等しくなるよう厚生労働省令で定めるところにより算定した率とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前期高齢者に係る後期高齢者支援金の確定額に確定加入者調整率を乗じて得た額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前期高齢者に係る確定後期高齢者支援金に係る確定調整対象基準額（前期高齢者に係る後期高齢者支援金の確定額に確定加入者調整率を乗じて得た額をいう。第三号において同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1574,42 +1388,24 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者を被用者保険等保険者以外の保険者とみなした場合における前期高齢者に係る後期高齢者支援金の確定額に確定加入者調整率を乗じて得た額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者が被用者保険等保険者以外の保険者であるとしたならば、第一項第二号及び次項の規定により算定される前期高齢者に係る確定後期高齢者支援金に係る確定調整対象基準額</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者を被用者保険等保険者以外の保険者とみなした場合における前期高齢者に係る後期高齢者支援金の確定額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">被用者保険等保険者が被用者保険等保険者以外の保険者であるとしたならば、第一項第二号の規定により算定される前期高齢者に係る後期高齢者支援金の確定額</Sentence>
               </ItemSentence>
             </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項及び前項第一号の確定加入者調整率は、厚生労働省令で定めるところにより、前々年度における全ての保険者に係る加入者の総数に対する前期高齢者である加入者の総数の割合を同年度における当該保険者に係る加入者の数に対する前期高齢者である加入者の数の割合（その割合が同年度における下限割合に満たないときは、下限割合とする。）で除して得た率を基礎として保険者ごとに算定される率とする。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四項の確定給付費等補正率は、各被用者保険等保険者に係る第一号に掲げる額の合計額が第二号に掲げる額の合計額に等しくなるよう厚生労働省令で定めるところにより算定した率とする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項各号の調整対象給付費額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額に確定報酬調整率及び確定加入者調整率を乗じて得た額</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項各号の調整対象給付費額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額に確定加入者調整率を乗じて得た額</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>７</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三項、第四項、第五項第一号及び第三号並びに前項各号の確定加入者調整率は、厚生労働省令で定めるところにより、前々年度における全ての保険者に係る加入者の総数に対する前期高齢者である加入者の総数の割合を同年度における当該保険者に係る加入者の数に対する前期高齢者である加入者の数の割合（その割合が同年度における下限割合に満たないときは、下限割合とする。）で除して得た率を基礎として保険者ごとに算定される率とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="8">
-            <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第二項第二号ロの一人平均前期高齢者給付費額は、全ての保険者に係る前期高齢者である加入者一人当たりの前期高齢者給付費額の平均額として厚生労働省令で定めるところにより算定される額とする。</Sentence>
             </ParagraphSentence>
@@ -1765,42 +1561,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項各号の負担調整前概算前期高齢者納付金相当額は、次の各号に掲げる保険者の区分に応じ、当該各号に定める額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項各号の負担調整前概算前期高齢者納付金相当額は、第三十四条第一項第三号の概算調整対象基準額から、当該保険者に係る同項第一号の調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）とする。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">イ及びロに掲げる額の合計額</Sentence>
-                </Column>
-              </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十四条第一項各号の概算調整対象基準額から、当該保険者に係る同項各号の調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の二に相当する額</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十四条第一項第一号ロの概算報酬調整後調整対象基準額から、当該保険者に係る同項各号の調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の一に相当する額</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者以外の保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">第三十四条第一項各号の概算調整対象基準額から、当該保険者に係る同項各号の調整対象給付費見込額及び前期高齢者に係る後期高齢者支援金の概算額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
@@ -1822,7 +1584,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">全ての特別概算負担調整基準超過保険者に係る特別負担調整対象見込額から負担調整対象見込額を控除した額の総額（第九十三条第三項において「特別負担調整見込額の総額等」という。）の三分の一</Sentence>
+                <Sentence Num="1" WritingMode="vertical">全ての特別概算負担調整基準超過保険者に係る特別負担調整対象見込額から負担調整対象見込額を控除した額の総額（第九十三条第三項において「特別負担調整見込額の総額等」という。）の二分の一</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1895,7 +1657,7 @@
                 <Subitem2 Num="2">
                   <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者の給付に要する費用等の額及び流行初期医療確保拠出金の額</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者の給付に要する費用等の額</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -1942,7 +1704,7 @@
                 <Subitem2 Num="2">
                   <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者の給付に要する費用等の額及び流行初期医療確保拠出金の額</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前々年度における当該保険者の給付に要する費用等の額</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -1962,42 +1724,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項各号の負担調整前確定前期高齢者納付金相当額は、次の各号に掲げる保険者の区分に応じ、当該各号に定める額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項各号の負担調整前確定前期高齢者納付金相当額は、第三十五条第一項第三号の確定調整対象基準額から、当該保険者に係る同項第一号の調整対象給付費額及び前期高齢者に係る後期高齢者支援金の確定額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）とする。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">イ及びロに掲げる額の合計額</Sentence>
-                </Column>
-              </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十五条第一項各号の確定調整対象基準額から、当該保険者に係る同項各号の調整対象給付費額、前期高齢者に係る後期高齢者支援金の確定額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の二に相当する額</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十五条第一項第一号ロの確定報酬調整後調整対象基準額から、当該保険者に係る同項各号の調整対象給付費額、前期高齢者に係る後期高齢者支援金の確定額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）の三分の一に相当する額</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">被用者保険等保険者以外の保険者</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">第三十五条第一項各号の確定調整対象基準額から、当該保険者に係る同項各号の調整対象給付費額、前期高齢者に係る後期高齢者支援金の確定額及び前期高齢者に係る流行初期医療確保拠出金の額の合計額を控除して得た額（当該額が零を下回る場合には、零とする。）</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
@@ -2019,7 +1747,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">全ての特別確定負担調整基準超過保険者に係る特別負担調整対象額から負担調整対象額を控除した額の総額（第九十三条第三項において「特別負担調整額の総額等」という。）の三分の一</Sentence>
+                <Sentence Num="1" WritingMode="vertical">全ての特別確定負担調整基準超過保険者に係る特別負担調整対象額から負担調整対象額を控除した額の総額（第九十三条第三項において「特別負担調整額の総額等」という。）の二分の一</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3546,7 +3274,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">国は、政令で定めるところにより、後期高齢者医療広域連合に対し、被保険者に係る療養の給付に要する費用の額から当該給付に係る一部負担金に相当する額を控除した額並びに入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、特別療養費、移送費、高額療養費及び高額介護合算療養費の支給に要する費用の額の合計額（以下「療養の給付等に要する費用の額」という。）から第六十七条第一項第三号に掲げる場合に該当する者に係る療養の給付等に要する費用の額（以下「特定費用の額」という。）を控除した額（次項第一号及び第百条第一項において「負担対象額」という。）並びに流行初期医療確保拠出金の額から当該流行初期医療確保拠出金の額に療養の給付等に要する費用の額に占める特定費用の額の割合を乗じて得た額（第百条第一項において「特定流行初期医療確保拠出金の額」という。）を控除した額（第百条第一項において「負担対象拠出金額」という。）の合計額（以下「負担対象総額」という。）の十二分の三に相当する額を負担する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国は、政令で定めるところにより、後期高齢者医療広域連合に対し、被保険者に係る療養の給付に要する費用の額から当該給付に係る一部負担金に相当する額を控除した額並びに入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、特別療養費、移送費、高額療養費及び高額介護合算療養費の支給に要する費用の額の合計額（以下「療養の給付等に要する費用の額」という。）から第六十七条第一項第三号に掲げる場合に該当する者に係る療養の給付等に要する費用の額（以下「特定費用の額」という。）を控除した額（以下「負担対象額」という。）の十二分の三に相当する額を負担する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -3570,8 +3298,8 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">国は、前二項に定めるもののほか、政令で定めるところにより、年度ごとに、支払基金に対して当該年度の特別負担調整見込額の総額等の三分の二を交付する。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前々年度の特別負担調整見込額の総額等が同年度の特別負担調整額の総額等を超えるときは、当該年度の特別負担調整見込額の総額等からその超える額を控除して得た額の三分の二を交付するものとし、前々年度の特別負担調整見込額の総額等が同年度の特別負担調整額の総額等に満たないときは、当該年度の特別負担調整見込額の総額等にその満たない額を加算して得た額の三分の二を交付するものとする。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">国は、前二項に定めるもののほか、政令で定めるところにより、年度ごとに、支払基金に対して当該年度の特別負担調整見込額の総額等の二分の一を交付する。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前々年度の特別負担調整見込額の総額等が同年度の特別負担調整額の総額等を超えるときは、当該年度の特別負担調整見込額の総額等からその超える額を控除して得た額の二分の一を交付するものとし、前々年度の特別負担調整見込額の総額等が同年度の特別負担調整額の総額等に満たないときは、当該年度の特別負担調整見込額の総額等にその満たない額を加算して得た額の二分の一を交付するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3603,7 +3331,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定による調整交付金の総額は、負担対象総額の見込額の総額の十二分の一に相当する額とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による調整交付金の総額は、負担対象額の見込額の総額の十二分の一に相当する額とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3613,7 +3341,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">都道府県は、政令で定めるところにより、後期高齢者医療広域連合に対し、負担対象総額の十二分の一に相当する額を負担する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">都道府県は、政令で定めるところにより、後期高齢者医療広域連合に対し、負担対象額の十二分の一に相当する額を負担する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -3645,7 +3373,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、政令で定めるところにより、後期高齢者医療広域連合に対し、その一般会計において、負担対象総額の十二分の一に相当する額を負担する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、政令で定めるところにより、後期高齢者医療広域連合に対し、その一般会計において、負担対象額の十二分の一に相当する額を負担する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3677,47 +3405,35 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合の後期高齢者医療に関する特別会計において負担する費用のうち、負担対象額に一から後期高齢者負担率及び百分の五十を控除して得た率を乗じて得た額並びに特定費用の額に一から後期高齢者負担率を控除して得た率を乗じて得た額の合計額（以下この節において「保険納付対象額」という。）に負担対象拠出金額に一から後期高齢者負担率及び百分の五十を控除して得た率を乗じて得た額並びに特定流行初期医療確保拠出金の額に一から後期高齢者負担率を控除して得た率を乗じて得た額の合計額を加えて得た額（第百二十一条第一項において「保険納付対象総額」という。）については、政令で定めるところにより、支払基金が後期高齢者医療広域連合に対して交付する後期高齢者交付金をもつて充てる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合の後期高齢者医療に関する特別会計において負担する費用のうち、負担対象額に一から後期高齢者負担率及び百分の五十を控除して得た率を乗じて得た額並びに特定費用の額に一から後期高齢者負担率を控除して得た率を乗じて得た額の合計額（以下この節において「保険納付対象額」という。）については、政令で定めるところにより、支払基金が後期高齢者医療広域連合に対して交付する後期高齢者交付金をもつて充てる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の後期高齢者負担率は、第一号に掲げる数に第二号に掲げる率を乗じて得た数を第三号に掲げる数で除して得た率を基礎として、二年ごとに政令で定める。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">平成二十年度及び平成二十一年度における前項の後期高齢者負担率は、百分の十とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">平成二十二年度以降の年度における第一項の後期高齢者負担率は、百分の十に、第一号に掲げる率に第二号に掲げる率を乗じて得た率の二分の一に相当する率を加えて得た数を基礎として、二年ごとに政令で定める。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">二分の一に、当該年度における療養の給付等に要する費用の額に対する特定費用の額の割合の二分の一に相当する率を加えて得た数</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">平成二十年度における保険納付対象額を同年度における療養の給付等に要する費用の額で除して得た率</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">百分の十一・七二に、当該年度における全ての後期高齢者医療広域連合に係る被保険者の見込総数を令和四年度における全ての後期高齢者医療広域連合に係る被保険者の総数で除して得た率を乗じて得た率</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">平成二十年度におけるすべての保険者に係る加入者の総数から当該年度におけるすべての保険者に係る加入者の見込総数を控除して得た数（その数が零を下回る場合には、零とする。）を、平成二十年度におけるすべての保険者に係る加入者の総数で除して得た率</Sentence>
                   </ItemSentence>
-                </Item>
-                <Item Num="3">
-                  <ItemTitle>三</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">前号に掲げる率に、イに掲げる率にロに掲げる率を乗じて得た率を加えて得た数</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">令和四年度における保険納付対象額を同年度における療養の給付等に要する費用の額で除して得た率</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">当該年度における全ての保険者に係る加入者の見込総数を令和四年度における全ての保険者に係る加入者の総数で除して得た率</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
                 </Item>
               </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">第一項の後期高齢者交付金は、第百十八条第一項の規定により支払基金が徴収する後期高齢者支援金をもつて充てる。</Sentence>
                 </ParagraphSentence>
@@ -3765,7 +3481,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、後期高齢者医療に要する費用（財政安定化基金拠出金、第百十七条第二項の規定による拠出金及び出産育児支援金並びに感染症の予防及び感染症の患者に対する医療に関する法律の規定による流行初期医療確保拠出金等（第三項及び第百十六条第二項において「流行初期医療確保拠出金等」という。）の納付に要する費用を含む。）に充てるため、保険料を徴収しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、後期高齢者医療に要する費用（財政安定化基金拠出金及び第百十七条第二項の規定による拠出金の納付に要する費用を含む。）に充てるため、保険料を徴収しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -3778,7 +3494,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の保険料率は、療養の給付等に要する費用の額の予想額、財政安定化基金拠出金、第百十七条第二項の規定による拠出金及び出産育児支援金並びに流行初期医療確保拠出金等の納付に要する費用の予想額、第百十六条第一項第二号の規定による都道府県からの借入金の償還に要する費用の予定額、第百二十五条第一項に規定する高齢者保健事業及び同条第五項に規定する事業に要する費用の予定額、被保険者の所得の分布状況及びその見通し、国庫負担並びに第百条第一項の後期高齢者交付金等の額等に照らし、おおむね二年を通じ財政の均衡を保つことができるものでなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の保険料率は、療養の給付等に要する費用の額の予想額、財政安定化基金拠出金及び第百十七条第二項の規定による拠出金の納付に要する費用の予想額、第百十六条第一項第二号の規定による都道府県からの借入金の償還に要する費用の予定額、第百二十五条第一項に規定する高齢者保健事業及び同条第五項に規定する事業に要する費用の予定額、被保険者の所得の分布状況及びその見通し、国庫負担並びに第百条第一項の後期高齢者交付金等の額等に照らし、おおむね二年を通じ財政の均衡を保つことができるものでなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3897,7 +3613,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、普通徴収の方法によつて徴収する保険料の徴収の事務については、収入の確保及び被保険者の便益の増進に寄与すると認める場合に限り、地方自治法第二百四十三条の二第一項の規定により指定する者に委託することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、普通徴収の方法によつて徴収する保険料の徴収の事務については、収入の確保及び被保険者の便益の増進に寄与すると認める場合に限り、政令で定めるところにより、私人に委託することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3964,7 +3680,7 @@
                       <Sentence Num="1" WritingMode="vertical">予定保険料収納額</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合において特定期間（平成二十年度を初年度とする同年度以降の二年度ごとの期間をいう。以下この項において同じ。）中に当該後期高齢者医療広域連合を組織する市町村において収納が見込まれた保険料の額の合計額のうち、療養の給付等に要する費用の額、財政安定化基金拠出金、次条第二項の規定による拠出金及び出産育児支援金並びに流行初期医療確保拠出金等の納付に要する費用の額並びに前項第二号の規定による都道府県からの借入金（以下この項において「基金事業借入金」という。）の償還に要する費用の額に充てるものとして政令で定めるところにより算定した額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合において特定期間（平成二十年度を初年度とする同年度以降の二年度ごとの期間をいう。以下この項において同じ。）中に当該後期高齢者医療広域連合を組織する市町村において収納が見込まれた保険料の額の合計額のうち、療養の給付等に要する費用の額、財政安定化基金拠出金及び次条第二項の規定による拠出金の納付に要する費用の額並びに前項第二号の規定による都道府県からの借入金（以下この項において「基金事業借入金」という。）の償還に要する費用の額に充てるものとして政令で定めるところにより算定した額</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -3975,7 +3691,7 @@
                       <Sentence Num="1" WritingMode="vertical">実績保険料収納額</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合を組織する市町村において特定期間中に収納した保険料の額の合計額のうち、療養の給付に要した費用の額から当該給付に係る一部負担金に相当する額を控除した額並びに入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、特別療養費、移送費、高額療養費及び高額介護合算療養費の支給に要した費用の額の合計額（以下この項において「療養の給付等に要した費用の額」という。）、財政安定化基金拠出金、次条第二項の規定による拠出金及び出産育児支援金並びに流行初期医療確保拠出金等の納付に要した費用の額並びに基金事業借入金の償還に要した費用の額に充てるものとして政令で定めるところにより算定した額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合を組織する市町村において特定期間中に収納した保険料の額の合計額のうち、療養の給付に要した費用の額から当該給付に係る一部負担金に相当する額を控除した額並びに入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、特別療養費、移送費、高額療養費及び高額介護合算療養費の支給に要した費用の額の合計額（以下この項において「療養の給付等に要した費用の額」という。）、財政安定化基金拠出金及び次条第二項の規定による拠出金の納付に要した費用の額並びに基金事業借入金の償還に要した費用の額に充てるものとして政令で定めるところにより算定した額</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -3986,7 +3702,7 @@
                       <Sentence Num="1" WritingMode="vertical">基金事業対象収入額</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合の後期高齢者医療に関する特別会計において特定期間中に収入した金額（第五号の基金事業交付額及び基金事業借入金の額を除く。）の合計額のうち、療養の給付等に要した費用の額、財政安定化基金拠出金、次条第二項の規定による拠出金及び出産育児支援金並びに流行初期医療確保拠出金等の納付に要した費用の額並びに基金事業借入金の償還に要した費用の額に充てるものとして政令で定めるところにより算定した額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合の後期高齢者医療に関する特別会計において特定期間中に収入した金額（第五号の基金事業交付額及び基金事業借入金の額を除く。）の合計額のうち、療養の給付等に要した費用の額、財政安定化基金拠出金及び次条第二項の規定による拠出金の納付に要した費用の額並びに基金事業借入金の償還に要した費用の額に充てるものとして政令で定めるところにより算定した額</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -3997,7 +3713,7 @@
                       <Sentence Num="1" WritingMode="vertical">基金事業対象費用額</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合において特定期間中に療養の給付等に要した費用の額、財政安定化基金拠出金、次条第二項の規定による拠出金及び出産育児支援金並びに流行初期医療確保拠出金等の納付に要した費用の額並びに基金事業借入金の償還に要した費用の額の合計額として政令で定めるところにより算定した額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合において特定期間中に療養の給付等に要した費用の額、財政安定化基金拠出金及び次条第二項の規定による拠出金の納付に要した費用の額並びに基金事業借入金の償還に要した費用の額の合計額として政令で定めるところにより算定した額</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -4040,7 +3756,7 @@
               <Paragraph Num="7">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">財政安定化基金から生ずる収入は、全て財政安定化基金に充てなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">財政安定化基金から生ずる収入は、すべて財政安定化基金に充てなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4077,7 +3793,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">支払基金は、第百三十九条第一項第二号に掲げる業務に要する費用に充てるため、年度ごとに、保険者（国民健康保険にあつては、都道府県。以下この節において同じ。）から、後期高齢者支援金及び後期高齢者関係事務費拠出金（以下「後期高齢者支援金等」という。）を徴収する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">支払基金は、第百三十九条第一項第二号に掲げる業務に要する費用に充てるため、年度ごとに、保険者（国民健康保険にあつては、都道府県。以下この款において同じ。）から、後期高齢者支援金及び後期高齢者関係事務費拠出金（以下「後期高齢者支援金等」という。）を徴収する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -4125,7 +3841,7 @@
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">当該被用者保険等保険者に係る標準報酬総額の見込額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該被用者保険等保険者に係る標準報酬総額の見込額（標準報酬総額の見込額として厚生労働省令で定めるところにより算定される額をいう。ロにおいて同じ。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
@@ -4150,7 +3866,57 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項各号の概算後期高齢者支援金調整率は、第十八条第二項第二号及び第十九条第二項第二号に掲げる事項についての達成状況、保険者に係る加入者の見込数等を勘案し、百分の九十から百分の百十の範囲内で政令で定めるところにより算定する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第一号イの標準報酬総額は、次の各号に掲げる保険者の区分に応じ、各年度の当該各号に定める額の合計額の総額を、それぞれ政令で定めるところにより補正して得た額とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">全国健康保険協会及び健康保険組合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">被保険者ごとの健康保険法又は船員保険法に規定する標準報酬（標準報酬月額及び標準賞与額をいう。）</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">共済組合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">組合員ごとの国家公務員共済組合法又は地方公務員等共済組合法に規定する標準報酬の月額及び標準期末手当等の額</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">日本私立学校振興・共済事業団</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">加入者ごとの私立学校教職員共済法に規定する標準報酬月額及び標準賞与額</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">国民健康保険組合（被用者保険等保険者であるものに限る。）</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">組合員ごとの前三号に定める額に相当するものとして厚生労働省令で定める額</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項各号の概算後期高齢者支援金調整率は、第十八条第二項第二号及び第十九条第二項第二号に掲げる事項についての達成状況、保険者に係る加入者の見込数等を勘案し、百分の九十から百分の百十の範囲内で政令で定めるところにより算定する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4169,13 +3935,13 @@
                       <Sentence Num="1" WritingMode="vertical">被用者保険等保険者</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">前々年度における全ての後期高齢者医療広域連合の保険納付対象総額の総額を厚生労働省令で定めるところにより算定した同年度における全ての保険者に係る加入者の総数で除して得た額に、厚生労働省令で定めるところにより算定した同年度における全ての被用者保険等保険者に係る加入者数を乗じて得た額に、同年度におけるイに掲げる額をロに掲げる額で除して得た率及び確定後期高齢者支援金調整率を乗じて得た額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">前々年度における全ての後期高齢者医療広域連合の保険納付対象額の総額を厚生労働省令で定めるところにより算定した同年度における全ての保険者に係る加入者の総数で除して得た額に、厚生労働省令で定めるところにより算定した同年度における全ての被用者保険等保険者に係る加入者数を乗じて得た額に、同年度におけるイに掲げる額をロに掲げる額で除して得た率及び確定後期高齢者支援金調整率を乗じて得た額</Sentence>
                     </Column>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">当該被用者保険等保険者に係る標準報酬総額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該被用者保険等保険者に係る標準報酬総額（前条第二項に規定する標準報酬総額をいう。ロにおいて同じ。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
@@ -4192,7 +3958,7 @@
                       <Sentence Num="1" WritingMode="vertical">被用者保険等保険者以外の保険者</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">前々年度における全ての後期高齢者医療広域連合の保険納付対象総額の総額を厚生労働省令で定めるところにより算定した同年度における全ての保険者に係る加入者の総数で除して得た額に、厚生労働省令で定めるところにより算定した同年度における当該保険者に係る加入者の数を乗じて得た額に、確定後期高齢者支援金調整率を乗じて得た額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">前々年度における全ての後期高齢者医療広域連合の保険納付対象額の総額を厚生労働省令で定めるところにより算定した同年度における全ての保険者に係る加入者の総数で除して得た額に、厚生労働省令で定めるところにより算定した同年度における当該保険者に係る加入者の数を乗じて得た額に、確定後期高齢者支援金調整率を乗じて得た額</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -4237,152 +4003,6 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">第四十一条及び第四十三条から第四十六条までの規定は、後期高齢者支援金等について準用する。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-          </Subsection>
-          <Subsection Num="5">
-            <SubsectionTitle>第五款　後期高齢者医療広域連合の出産育児支援金等</SubsectionTitle>
-            <Article Num="124_2">
-              <ArticleCaption>（出産育児支援金の徴収及び納付義務）</ArticleCaption>
-              <ArticleTitle>第百二十四条の二</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">支払基金は、第百三十九条第一項第三号に掲げる業務に要する費用に充てるため、年度ごとに、後期高齢者医療広域連合から、出産育児支援金を徴収する。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合は、出産育児支援金を納付する義務を負う。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="124_3">
-              <ArticleCaption>（出産育児支援金の額）</ArticleCaption>
-              <ArticleTitle>第百二十四条の三</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条第一項の規定により各後期高齢者医療広域連合から徴収する出産育児支援金の額は、医療保険各法の規定による出産育児一時金、家族出産育児一時金、出産費及び家族出産費の支給に要する費用（次条第一項及び第百二十四条の七第一項において「出産育児一時金等の支給に要する費用」という。）の額の総額を基礎として厚生労働省令で定めるところにより算定した額に、出産育児支援金率及び全ての後期高齢者医療広域連合に係る被保険者の総数に対する当該後期高齢者医療広域連合に係る被保険者の数の割合を乗じて得た額とする。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">令和六年度及び令和七年度における前項の出産育児支援金率は、百分の七とする。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">令和八年度以降の年度における第一項の出産育児支援金率は、第一号に掲げる率を第二号に掲げる数で除して得た数を基礎として、二年ごとに政令で定める。</Sentence>
-                </ParagraphSentence>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">百分の七に、当該年度における全ての後期高齢者医療広域連合に係る被保険者の見込総数を令和六年度における全ての後期高齢者医療広域連合に係る被保険者の総数で除して得た率を乗じて得た率</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">前号に掲げる率に、百分の九十三に当該年度における全ての保険者に係る加入者の見込総数を令和六年度における全ての保険者に係る加入者の総数で除して得た率を乗じて得た率を加えて得た数</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
-            </Article>
-            <Article Num="124_4">
-              <ArticleCaption>（出産育児交付金）</ArticleCaption>
-              <ArticleTitle>第百二十四条の四</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">支払基金は、出産育児一時金等の支給に要する費用の一部に充てるため、保険者に対して、出産育児交付金を交付する。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の出産育児交付金は、第百二十四条の二第一項の規定により支払基金が徴収する出産育児支援金をもつて充てる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項の規定により各保険者に対して交付される出産育児交付金の額は、医療保険各法の規定により算定される額とする。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="124_5">
-              <ArticleCaption>（出産育児関係事務費拠出金の徴収及び納付義務）</ArticleCaption>
-              <ArticleTitle>第百二十四条の五</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">支払基金は、第百三十九条第一項第三号に掲げる業務に関する事務の処理に要する費用に充てるため、年度ごとに、保険者から、出産育児関係事務費拠出金を徴収する。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">保険者は、出産育児関係事務費拠出金を納付する義務を負う。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="124_6">
-              <ArticleCaption>（出産育児関係事務費拠出金の額）</ArticleCaption>
-              <ArticleTitle>第百二十四条の六</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条第一項の規定により各保険者から徴収する出産育児関係事務費拠出金の額は、厚生労働省令で定めるところにより、当該年度における第百三十九条第一項第三号に掲げる支払基金の業務に関する事務の処理に要する費用の見込額を基礎として、各保険者に係る加入者の見込数に応じ、厚生労働省令で定めるところにより算定した額とする。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="124_7">
-              <ArticleCaption>（通知）</ArticleCaption>
-              <ArticleTitle>第百二十四条の七</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">保険者は、厚生労働省令で定めるところにより、支払基金に対し、各年度における当該保険者に係る出産育児一時金等の支給に要する費用の額その他厚生労働省令で定める事項を通知しなければならない。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合は、厚生労働省令で定めるところにより、支払基金に対し、各年度における当該後期高齢者医療広域連合に係る被保険者の数その他厚生労働省令で定める事項を通知しなければならない。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="124_8">
-              <ArticleCaption>（準用）</ArticleCaption>
-              <ArticleTitle>第百二十四条の八</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第四十一条及び第四十三条から第四十六条までの規定は、出産育児支援金及び出産育児関係事務費拠出金について準用する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、必要な技術的読替えは、政令で定める。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-          </Subsection>
-          <Subsection Num="6">
-            <SubsectionTitle>第六款　雑則</SubsectionTitle>
-            <Article Num="124_9">
-              <ArticleTitle>第百二十四条の九</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第百条第一項の規定により支払基金が各後期高齢者医療広域連合に対して交付する後期高齢者交付金と第百二十四条の二第一項の規定により支払基金が各後期高齢者医療広域連合から徴収する出産育児支援金は、相殺するものとする。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第百十八条第一項及び第百二十四条の五第一項の規定により支払基金が各保険者から徴収する後期高齢者支援金等及び出産育児関係事務費拠出金と第百二十四条の四第一項の規定により支払基金が各保険者に対して交付する出産育児交付金は、相殺するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4676,7 +4296,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、保険者（国民健康保険にあつては、都道府県）に対し、前期高齢者納付金等、後期高齢者支援金等及び出産育児関係事務費拠出金の額の算定に関して必要があると認めるときは、その業務に関する報告を徴し、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、保険者（国民健康保険にあつては、都道府県）に対し、前期高齢者納付金等及び後期高齢者支援金等の額の算定に関して必要があると認めるときは、その業務に関する報告を徴し、又は当該職員に実地にその状況を検査させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -4780,12 +4400,6 @@
                 <Sentence Num="1" WritingMode="vertical">保険者から後期高齢者支援金等を徴収し、後期高齢者医療広域連合に対し後期高齢者交付金を交付する業務及びこれに附帯する業務</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">後期高齢者医療広域連合から出産育児支援金を徴収し、保険者から出産育児関係事務費拠出金を徴収し、及び保険者に対し出産育児交付金を交付する業務並びにこれに附帯する業務</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -4833,13 +4447,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、保険者に対し、毎年度、加入者数、特定健康診査等の実施状況その他の厚生労働省令で定める事項に関する報告を求めるほか、第百三十九条第一項第一号に規定する保険者から前期高齢者納付金等を徴収する業務、同項第二号に規定する保険者から後期高齢者支援金等を徴収する業務及び同項第三号に規定する保険者から出産育児関係事務費拠出金を徴収する業務に関し必要があると認めるときは、文書その他の物件の提出を求めることができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、後期高齢者医療広域連合に対し、第百三十九条第一項第三号に規定する後期高齢者医療広域連合から出産育児支援金を徴収する業務に関し必要があると認めるときは、文書その他の物件の提出を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">支払基金は、保険者に対し、毎年度、加入者数、特定健康診査等の実施状況その他の厚生労働省令で定める事項に関する報告を求めるほか、第百三十九条第一項第一号に規定する保険者から前期高齢者納付金等を徴収する業務及び同項第二号に規定する保険者から後期高齢者支援金等を徴収する業務に関し必要があると認めるときは、文書その他の物件の提出を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4849,7 +4457,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、高齢者医療制度関係業務に係る経理については、第百三十九条第一項第一号に掲げる業務、同項第二号及び第三号に掲げる業務並びに同条第二項に規定する業務ごとに、その他の業務に係る経理と区分して、特別の会計を設けて行わなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">支払基金は、高齢者医療制度関係業務に係る経理については、第百三十九条第一項各号に掲げる業務及び同条第二項に規定する業務ごとに、その他の業務に係る経理と区分して、特別の会計を設けて行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4904,7 +4512,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、予算をもつて定める金額に限り、第一項の規定による積立金を第百三十九条第一項第一号に規定する保険者に対し前期高齢者交付金を交付する業務、同項第二号に規定する後期高齢者医療広域連合に対し後期高齢者交付金を交付する業務及び同項第三号に規定する保険者に対し出産育児交付金を交付する業務又は同条第二項の規定により認可を受けて行う業務に要する費用に充てることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">支払基金は、予算をもつて定める金額に限り、第一項の規定による積立金を第百三十九条第一項第一号に規定する保険者に対し前期高齢者交付金を交付する業務及び同項第二号に規定する後期高齢者医療広域連合に対し後期高齢者交付金を交付する業務又は同条第二項の規定により認可を受けて行う業務に要する費用に充てることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4979,7 +4587,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">政府は、法人に対する政府の財政援助の制限に関する法律（昭和二十一年法律第二十四号）第三条の規定にかかわらず、国会の議決を経た金額の範囲内で、支払基金による前期高齢者交付金、後期高齢者交付金及び出産育児交付金の円滑な交付のために必要があると認めるときは、前条の規定による支払基金の長期借入金、短期借入金又は債券に係る債務について、必要と認められる期間の範囲において、保証することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、法人に対する政府の財政援助の制限に関する法律（昭和二十一年法律第二十四号）第三条の規定にかかわらず、国会の議決を経た金額の範囲内で、支払基金による前期高齢者交付金及び後期高齢者交付金の円滑な交付のために必要があると認めるときは、前条の規定による支払基金の長期借入金、短期借入金又は債券に係る債務について、必要と認められる期間の範囲において、保証することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5371,7 +4979,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四十四条第四項（第百二十四条、第百二十四条の八及び附則第十条において準用する場合を含む。）、第六十一条第一項及び第二項、第六十六条第一項（第七十四条第十項、第七十五条第七項、第七十六条第六項及び第八十二条第二項において準用する場合を含む。）及び第二項（第七十二条第二項、第七十四条第十項、第七十五条第七項、第七十六条第六項及び第八十二条第二項において準用する場合を含む。）、第七十条第二項並びに第七十二条第一項及び第三項（これらの規定を第七十四条第十項、第七十五条第七項、第七十六条第六項及び第八十二条第二項において準用する場合を含む。）、第八十条並びに第八十一条第一項及び第三項（これらの規定を第八十二条第二項において準用する場合を含む。）、第百三十三条第二項、第百三十四条第二項（附則第十条において準用する場合を含む。）、第百五十二条第一項及び第三項（これらの規定を附則第十一条第二項において準用する場合を含む。）並びに第百二十七条の規定において準用する国民健康保険法第八十八条及び第八十九条第一項の規定により都道府県が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四十四条第四項（第百二十四条及び附則第十条において準用する場合を含む。）、第六十一条第一項及び第二項、第六十六条第一項（第七十四条第十項、第七十五条第七項、第七十六条第六項及び第八十二条第二項において準用する場合を含む。）及び第二項（第七十二条第二項、第七十四条第十項、第七十五条第七項、第七十六条第六項及び第八十二条第二項において準用する場合を含む。）、第七十条第二項並びに第七十二条第一項及び第三項（これらの規定を第七十四条第十項、第七十五条第七項、第七十六条第六項及び第八十二条第二項において準用する場合を含む。）、第八十条並びに第八十一条第一項及び第三項（これらの規定を第八十二条第二項において準用する場合を含む。）、第百三十三条第二項、第百三十四条第二項（附則第十条において準用する場合を含む。）、第百五十二条第一項及び第三項（これらの規定を附則第十一条第二項において準用する場合を含む。）並びに第百二十七条の規定において準用する国民健康保険法第八十八条及び第八十九条第一項の規定により都道府県が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5511,7 +5119,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第百四十二条第一項の規定による報告若しくは文書その他の物件の提出をせず、又は虚偽の報告をし、若しくは虚偽の記載をした文書を提出したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百四十二条の規定による報告若しくは文書その他の物件の提出をせず、又は虚偽の報告をし、若しくは虚偽の記載をした文書を提出したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -5821,7 +5429,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第五章（第百三十九条第一項、第百四十条及び第百四十二条第二項を除く。）、第百六十八条第一項（同項第一号を除く。）及び第二項並びに第百七十条第一項の規定は、病床転換助成事業に係る支払基金の業務について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第五章（第百三十九条第一項及び第百四十条を除く。）、第百六十八条第一項（同項第一号を除く。）及び第二項並びに第百七十条第一項の規定は、病床転換助成事業に係る支払基金の業務について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、必要な技術的読替えは、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -5842,23 +5450,341 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第二条に規定する政令で定める日までの間、第三十四条第一項、第三十五条第一項、第三十八条第一項又は第三十九条第一項の規定の適用については、第三十四条第一項第一号イ（２）、第三十五条第一項第一号イ（２）、第三十八条第一項第一号イ（２）及び第二号イ（２）並びに第三十九条第一項第一号イ（２）及び第二号イ（２）中「除して得た額」とあるのは、「除して得た額及び附則第八条の規定により算定される病床転換支援金の額の合計額」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条に規定する政令で定める日までの間、第三十四条第一項、第三十五条第一項、第三十八条第一項又は第三十九条第一項の規定の適用については、第三十四条第一項第二号、第三十五条第一項第二号、第三十八条第一項第一号イ（２）及び第二号イ（２）並びに第三十九条第一項第一号イ（２）及び第二号イ（２）中「除して得た額」とあるのは、「除して得た額及び附則第八条の規定により算定される病床転換支援金の額の合計額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国民健康保険法附則第十条第一項の規定により支払基金が同項に規定する拠出金を徴収する間、同項に規定する被用者保険等保険者に係る第三十八条第一項又は第三十九条第一項の規定の適用については、第三十八条第一項第一号ロ（２）中「納付に要する費用を」とあるのは、「納付に要する費用及び国民健康保険法附則第十一条第一項に規定する療養給付費等拠出金の納付に要する費用を」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="13_2">
-        <ArticleCaption>（延滞金の割合の特例）</ArticleCaption>
+        <ArticleCaption>（平成二十七年度の被用者保険等保険者に係る確定前期高齢者交付金の額の算定の特例）</ArticleCaption>
         <ArticleTitle>第十三条の二</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第四十五条第一項（第百二十四条、第百二十四条の八及び附則第十条において準用する場合を含む。）に規定する延滞金の年十四・五パーセントの割合は、当分の間、同項の規定にかかわらず、各年の延滞税特例基準割合（租税特別措置法（昭和三十二年法律第二十六号）第九十四条第一項に規定する延滞税特例基準割合をいう。以下この条において同じ。）が年七・二パーセントの割合に満たない場合には、その年中においては、当該延滞税特例基準割合に年七・三パーセントの割合を加算した割合とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十七年度の被用者保険等保険者に係る第三十三条第一項の確定前期高齢者交付金の額は、第三十五条第一項の規定にかかわらず、第一号に掲げる額から第三号に掲げる額を控除した額と第二号に掲げる額から第四号に掲げる額を控除した額に二分の一を乗じて得た額との合計額（当該合計額が零を下回る場合には、零とする。）とする。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">平成二十七年度における当該被用者保険等保険者に係る持続可能な医療保険制度を構築するための国民健康保険法等の一部を改正する法律（平成二十七年法律第三十一号。以下「国保法等一部改正法」という。）第十条の規定による改正前の第三十五条第一項第一号の調整対象給付費額と附則第八条の規定により算定される病床転換支援金の額に同年度における当該被用者保険等保険者に係る加入者の数に対する前期高齢者である加入者の数の割合を基礎として被用者保険等保険者ごとに算定される率（次号において「前期高齢者加入率」という。）を乗じて得た額との合計額（第三号及び次条第一項第一号において「調整対象給付費額等」という。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">平成二十七年度における当該被用者保険等保険者に係る附則第十四条の二第一項第一号に規定する確定加入者割後期高齢者支援金額に前期高齢者加入率を乗じて得た額（第四号及び次条第一項第二号において「前期高齢者に係る加入者割後期高齢者支援金の確定額」という。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">調整対象給付費額等に係る確定調整対象基準額（当該被用者保険等保険者に係る調整対象給付費額等に平成二十七年度における確定加入者調整率（国保法等一部改正法第十条の規定による改正前の第三十五条第一項第三号の確定加入者調整率をいう。以下同じ。）を乗じて得た額をいう。次条第一項第一号において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前期高齢者に係る加入者割後期高齢者支援金の確定額に係る確定調整対象基準額（当該被用者保険等保険者に係る前期高齢者に係る加入者割後期高齢者支援金の確定額に平成二十七年度における確定加入者調整率を乗じて得た額をいう。次条第一項第二号及び第三項において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="13_3">
-        <ArticleCaption>（指定介護老人福祉施設に入所中の被保険者の特例）</ArticleCaption>
+        <ArticleCaption>（平成二十七年度の被用者保険等保険者に係る確定前期高齢者納付金の額の算定の特例）</ArticleCaption>
         <ArticleTitle>第十三条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十七年度の被用者保険等保険者に係る第三十七条第一項の確定前期高齢者納付金の額は、第三十九条第一項の規定にかかわらず、国保法等一部改正法第十条の規定による改正前の第三十九条第一項の規定により算定される額とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項第一号の負担調整前確定前期高齢者納付金相当額は、同条第二項の規定にかかわらず、第一号から第三号までに掲げる額（特定健康保険組合（健康保険法附則第三条第一項に規定する特定健康保険組合をいう。以下同じ。）にあつては、第一号から第四号までに掲げる額）の合計額（第一号及び第二号に掲げる額の合計額が零を下回る場合には、第三号に掲げる額（特定健康保険組合にあつては、同号及び第四号に掲げる額の合計額））とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">調整対象給付費額等に係る確定調整対象基準額から調整対象給付費額等を控除して得た額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前期高齢者に係る加入者割後期高齢者支援金の確定額に係る確定調整対象基準額から前期高齢者に係る加入者割後期高齢者支援金の確定額を控除して得た額（第四項第一号において「後期高齢者支援金に係る確定加入者割前期高齢者納付金額」という。）に二分の一を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">後期高齢者支援金に係る確定総報酬割前期高齢者納付金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特例退職被保険者等に係る前期高齢者に係る加入者割後期高齢者支援金の確定額に係る確定調整対象基準額に二分の一を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項第三号の後期高齢者支援金に係る確定総報酬割前期高齢者納付金額は、平成二十七年度における当該被用者保険等保険者の標準報酬総額（国保法等一部改正法第三条の規定による改正前の国民健康保険法附則第十二条第一項に規定する標準報酬総額をいう。以下同じ。）に納付金確定拠出率及び同年度における当該被用者保険等保険者に係る確定後期高齢者支援金調整率（国保法等一部改正法第十条の規定による改正前の第百二十一条第一項の確定後期高齢者支援金調整率をいう。以下同じ。）を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項第四号の特例退職被保険者等に係る前期高齢者に係る加入者割後期高齢者支援金の確定額に係る確定調整対象基準額は、平成二十七年度における当該特定健康保険組合に係る前期高齢者に係る加入者割後期高齢者支援金の確定額に係る確定調整対象基準額に、厚生労働省令で定めるところにより算定される同年度における当該特定健康保険組合に係る加入者の数に対する特例退職被保険者等（国民健康保険法附則第二十一条第一項に規定する特例退職被保険者及びその被扶養者をいう。以下同じ。）である加入者の数の割合を基礎として特定健康保険組合ごとに算定される率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の納付金確定拠出率は、厚生労働省令で定めるところにより、第一号に掲げる合計額から第二号及び第三号に掲げる合計額の合計額を控除した額に二分の一を乗じて得た額を、平成二十七年度における各被用者保険等保険者に係る標準報酬総額の合計額で除して得た率とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">各被用者保険等保険者（第一項第一号及び第二号に掲げる額の合計額が零を下回る被用者保険等保険者を除く。）に係る後期高齢者支援金に係る確定加入者割前期高齢者納付金額を平成二十七年度における当該各被用者保険等保険者に係る確定後期高齢者支援金調整率で除して得た額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">各特定健康保険組合に係る第一項第四号の特例退職被保険者等に係る前期高齢者に係る加入者割後期高齢者支援金の確定額に係る確定調整対象基準額を平成二十七年度における当該各特定健康保険組合に係る確定後期高齢者支援金調整率で除して得た額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定により算定される額が零を上回る各被用者保険等保険者に係る同条第二号に掲げる額から同条第四号に掲げる額を控除した額を平成二十七年度における当該各被用者保険等保険者に係る確定後期高齢者支援金調整率で除して得た額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13_4">
+        <ArticleCaption>（平成二十八年度の被用者保険等保険者に係る確定前期高齢者交付金の額の算定の特例）</ArticleCaption>
+        <ArticleTitle>第十三条の四</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十八年度の被用者保険等保険者に係る第三十三条第一項の確定前期高齢者交付金の額は、第三十五条第一項の規定にかかわらず、第一号に掲げる額から第三号に掲げる額を控除した額と第二号に掲げる額から第四号に掲げる額を控除した額に三分の一を乗じて得た額との合計額（当該合計額が零を下回る場合には、零とする。）とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">平成二十八年度における当該被用者保険等保険者に係る国保法等一部改正法第十条の規定による改正前の第三十五条第一項第一号の調整対象給付費額と附則第八条の規定により算定される病床転換支援金の額に同年度における当該被用者保険等保険者に係る加入者の数に対する前期高齢者である加入者の数の割合を基礎として被用者保険等保険者ごとに算定される率を乗じて得た額との合計額（第三号及び次条第一項第一号において「調整対象給付費額等」という。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">平成二十八年度における当該被用者保険等保険者に係る附則第十四条の三第一項第一号に規定する補正後確定加入者割後期高齢者支援金額に、同年度における当該被用者保険等保険者に係るイに掲げる数とロに掲げる数との合計（同号において「補正後加入者数」という。）に対するハに掲げる数とニに掲げる数との合計の割合を基礎として被用者保険等保険者ごとに算定される率（第三項において「補正後前期高齢者加入率」という。）を乗じて得た額（第四号及び次条第一項第二号において「前期高齢者に係る補正後加入者割後期高齢者支援金の確定額」という。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">加入者（特定加入者（次に掲げる区分に応じ、それぞれ次に定める者をいう。以下同じ。）である者を除く。）の数</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">健康保険法の規定による被保険者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その同法に規定する標準報酬月額と、同法に規定する標準賞与額の平成二十八年度の合計額を同年度の加入月数で除して得た額との合計額が、十万千円に満たない者及びその被扶養者</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">船員保険法の規定による被保険者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その同法に規定する標準報酬月額と、同法に規定する標準賞与額の平成二十八年度の合計額を同年度の加入月数で除して得た額との合計額が、十万千円に満たない者及びその被扶養者</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="3">
+                <Subitem2Title>（３）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">国家公務員共済組合法に基づく共済組合の組合員</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その同法に規定する標準報酬の月額と、同法に規定する標準期末手当等の額の平成二十八年度の合計額を同年度の加入月数で除して得た額との合計額が、十万千円に満たない者及びその被扶養者</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="4">
+                <Subitem2Title>（４）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">地方公務員等共済組合法に基づく共済組合の組合員</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その同法に規定する標準報酬の月額と、同法に規定する標準期末手当等の額の平成二十八年度の合計額を同年度の加入月数で除して得た額との合計額が、十万千円に満たない者及びその被扶養者</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="5">
+                <Subitem2Title>（５）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">私立学校教職員共済法の規定による私立学校教職員共済制度の加入者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その同法に規定する標準報酬月額と、同法に規定する標準賞与額の平成二十八年度の合計額を同年度の加入月数で除して得た額との合計額が、十万千円に満たない者及びその被扶養者</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="6">
+                <Subitem2Title>（６）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第七条第三項の規定により厚生労働大臣が定める国民健康保険組合の組合員</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その健康保険法に規定する標準報酬月額に相当するものとして厚生労働省令で定めるものと、同法に規定する標準賞与額に相当するものとして厚生労働省令で定めるものの平成二十八年度の合計額を同年度の加入月数で除して得た額との合計額が、十万千円に満たない者及びその被扶養者</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定加入者である者の数に、特定加入者である者の数及び後期高齢者支援金の額の状況を勘案して政令で定める割合を乗じて得た数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">前期高齢者である加入者（特定加入者である者を除く。）の数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">前期高齢者である加入者のうち特定加入者である者の数に特定加入者である者の数及び後期高齢者支援金の額の状況を勘案して政令で定める割合を乗じて得た数</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">調整対象給付費額等に係る確定調整対象基準額（当該被用者保険等保険者に係る調整対象給付費額等に平成二十八年度における確定加入者調整率を乗じて得た額をいう。次条第一項第一号において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前期高齢者に係る補正後加入者割後期高齢者支援金の確定額に係る確定調整対象基準額（当該被用者保険等保険者に係る前期高齢者に係る補正後加入者割後期高齢者支援金の確定額に平成二十八年度における補正後確定加入者調整率を乗じて得た額をいう。次条第一項第二号及び第三項において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項第二号イの加入月数は、健康保険法の規定による被保険者、船員保険法の規定による被保険者、国家公務員共済組合法に基づく共済組合の組合員、地方公務員等共済組合法に基づく共済組合の組合員、私立学校教職員共済法の規定による私立学校教職員共済制度の加入者又は第七条第三項の規定により厚生労働大臣が定める国民健康保険組合の組合員であつた期間として、それぞれ厚生労働省令で定めるところにより算定した月数とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項第四号の補正後確定加入者調整率は、厚生労働省令で定めるところにより、平成二十八年度における全ての保険者に係る加入者の総数に対する前期高齢者である加入者の総数の割合を補正後前期高齢者加入率（その率が第三十四条第五項に規定する下限割合に満たないときは、当該下限割合とする。）で除して得た率を基礎として被用者保険等保険者ごとに算定される率とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13_5">
+        <ArticleCaption>（平成二十八年度の被用者保険等保険者に係る確定前期高齢者納付金の額の算定の特例）</ArticleCaption>
+        <ArticleTitle>第十三条の五</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十八年度の被用者保険等保険者に係る第三十七条第一項の確定前期高齢者納付金の額は、第三十九条第一項の規定にかかわらず、国保法等一部改正法第十条の規定による改正前の第三十九条第一項の規定により算定される額とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項第一号の負担調整前確定前期高齢者納付金相当額は、同条第二項の規定にかかわらず、第一号から第三号までに掲げる額（特定健康保険組合にあつては、第一号から第四号までに掲げる額）の合計額（第一号及び第二号に掲げる額の合計額が零を下回る場合には、第三号に掲げる額（特定健康保険組合にあつては、同号及び第四号に掲げる額の合計額））とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">調整対象給付費額等に係る確定調整対象基準額から調整対象給付費額等を控除して得た額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前期高齢者に係る補正後加入者割後期高齢者支援金の確定額に係る確定調整対象基準額から前期高齢者に係る補正後加入者割後期高齢者支援金の確定額を控除して得た額（第四項第一号において「後期高齢者支援金に係る確定加入者割前期高齢者納付金額」という。）に三分の一を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">後期高齢者支援金に係る確定総報酬割前期高齢者納付金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特例退職被保険者等に係る前期高齢者に係る補正後加入者割後期高齢者支援金の確定額に係る確定調整対象基準額に三分の二を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項第三号の後期高齢者支援金に係る確定総報酬割前期高齢者納付金額は、平成二十八年度における当該被用者保険等保険者の標準報酬総額に納付金確定拠出率及び同年度における当該被用者保険等保険者に係る確定後期高齢者支援金調整率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項第四号の特例退職被保険者等に係る前期高齢者に係る補正後加入者割後期高齢者支援金の確定額に係る確定調整対象基準額は、平成二十八年度における当該特定健康保険組合に係る前期高齢者に係る補正後加入者割後期高齢者支援金の確定額に係る確定調整対象基準額に、厚生労働省令で定めるところにより算定される同年度における当該特定健康保険組合に係る加入者の数に対する特例退職被保険者等である加入者の数の割合を基礎として特定健康保険組合ごとに算定される率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の納付金確定拠出率は、厚生労働省令で定めるところにより、第一号に掲げる合計額から第二号及び第三号に掲げる合計額の合計額を控除した額に三分の二を乗じて得た額を、平成二十八年度における各被用者保険等保険者に係る標準報酬総額の合計額で除して得た率とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">各被用者保険等保険者（第一項第一号及び第二号に掲げる額の合計額が零を下回る被用者保険等保険者を除く。）に係る後期高齢者支援金に係る確定加入者割前期高齢者納付金額を平成二十八年度における当該各被用者保険等保険者に係る確定後期高齢者支援金調整率で除して得た額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">各特定健康保険組合に係る第一項第四号の特例退職被保険者等に係る前期高齢者に係る補正後加入者割後期高齢者支援金の確定額に係る確定調整対象基準額を平成二十八年度における当該各特定健康保険組合に係る確定後期高齢者支援金調整率で除して得た額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定により算定される額が零を上回る各被用者保険等保険者に係る同条第二号に掲げる額から同条第四号に掲げる額を控除した額を平成二十八年度における当該各被用者保険等保険者に係る確定後期高齢者支援金調整率で除して得た額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13_6">
+        <ArticleCaption>（延滞金の割合の特例）</ArticleCaption>
+        <ArticleTitle>第十三条の六</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四十五条第一項（第百二十四条及び附則第十条において準用する場合を含む。）に規定する延滞金の年十四・五パーセントの割合は、当分の間、同項の規定にかかわらず、各年の延滞税特例基準割合（租税特別措置法（昭和三十二年法律第二十六号）第九十四条第一項に規定する延滞税特例基準割合をいう。以下この条において同じ。）が年七・二パーセントの割合に満たない場合には、その年中においては、当該延滞税特例基準割合に年七・三パーセントの割合を加算した割合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13_7">
+        <ArticleCaption>（指定介護老人福祉施設に入所中の被保険者の特例）</ArticleCaption>
+        <ArticleTitle>第十三条の七</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -5901,9 +5827,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="13_4">
+      <Article Num="13_8">
         <ArticleCaption>（市町村の特別会計への繰入れ等の特例）</ArticleCaption>
-        <ArticleTitle>第十三条の四</ArticleTitle>
+        <ArticleTitle>第十三条の八</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -5921,13 +5847,111 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="14_2">
+        <ArticleCaption>（平成二十七年度の被用者保険等保険者に係る確定後期高齢者支援金の額の算定の特例）</ArticleCaption>
+        <ArticleTitle>第十四条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十七年度の被用者保険等保険者に係る第百十九条第一項の確定後期高齢者支援金の額は、第百二十一条第一項第一号の規定にかかわらず、第一号及び第二号に掲げる額（特定健康保険組合にあつては、第一号から第三号までに掲げる額）の合計額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">平成二十七年度における当該被用者保険等保険者に係る国保法等一部改正法第十条の規定による改正前の第百二十一条第一項の規定により算定される確定後期高齢者支援金の額（以下この条において「確定加入者割後期高齢者支援金額」という。）に二分の一を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">確定総報酬割後期高齢者支援金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特例退職被保険者等に係る確定加入者割後期高齢者支援金額に二分の一を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項第二号の確定総報酬割後期高齢者支援金額は、平成二十七年度における当該被用者保険等保険者の標準報酬総額に支援金確定拠出率及び同年度における当該被用者保険等保険者に係る確定後期高齢者支援金調整率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項第三号の特例退職被保険者等に係る確定加入者割後期高齢者支援金額は、当該特定健康保険組合に係る確定加入者割後期高齢者支援金額に、厚生労働省令で定めるところにより算定される平成二十七年度における当該特定健康保険組合に係る加入者の数に対する特例退職被保険者等である加入者の数の割合を基礎として特定健康保険組合ごとに算定される率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の支援金確定拠出率は、厚生労働省令で定めるところにより、各被用者保険等保険者に係る確定加入者割後期高齢者支援金額（各特定健康保険組合にあつては、当該各特定健康保険組合に係る確定加入者割後期高齢者支援金額から第一項第三号の特例退職被保険者等に係る確定加入者割後期高齢者支援金額を控除した額）を平成二十七年度における当該各被用者保険等保険者に係る確定後期高齢者支援金調整率で除して得た額の合計額に二分の一を乗じて得た額を、同年度における各被用者保険等保険者に係る標準報酬総額の合計額で除して得た率とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14_3">
+        <ArticleCaption>（平成二十八年度の被用者保険等保険者に係る確定後期高齢者支援金の額の算定の特例）</ArticleCaption>
+        <ArticleTitle>第十四条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十八年度の被用者保険等保険者に係る第百十九条第一項の確定後期高齢者支援金の額は、第百二十一条第一項第一号の規定にかかわらず、第一号及び第二号に掲げる額（特定健康保険組合にあつては、第一号から第三号までに掲げる額）の合計額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">被用者保険等保険者に係る補正前確定後期高齢者支援金総額を全ての被用者保険等保険者に係る補正後加入者数の総数で除して得た額に、厚生労働省令で定めるところにより算定した平成二十八年度における当該被用者保険等保険者に係る補正後加入者数及び確定後期高齢者支援金調整率を乗じて得た額（以下この条において「補正後確定加入者割後期高齢者支援金額」という。）に三分の一を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">確定総報酬割後期高齢者支援金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特例退職被保険者等に係る補正後確定加入者割後期高齢者支援金額に三分の二を乗じて得た額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項第一号の被用者保険等保険者に係る補正前確定後期高齢者支援金総額は、平成二十八年度における全ての後期高齢者医療広域連合の保険納付対象額（第百条第一項に規定する保険納付対象額をいう。）の総額を厚生労働省令で定めるところにより算定した同年度における全ての保険者に係る加入者の総数で除して得た額に、厚生労働省令で定めるところにより算定した同年度における全ての被用者保険等保険者に係る加入者の総数を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項第二号の確定総報酬割後期高齢者支援金額は、平成二十八年度における当該被用者保険等保険者の標準報酬総額に支援金確定拠出率及び同年度における当該被用者保険等保険者に係る確定後期高齢者支援金調整率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項第三号の特例退職被保険者等に係る補正後確定加入者割後期高齢者支援金額は、当該特定健康保険組合に係る補正後確定加入者割後期高齢者支援金額に、厚生労働省令で定めるところにより算定される平成二十八年度における当該特定健康保険組合に係る加入者の数に対する特例退職被保険者等である加入者の数の割合を基礎として特定健康保険組合ごとに算定される率を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三項の支援金確定拠出率は、厚生労働省令で定めるところにより、各被用者保険等保険者に係る補正後確定加入者割後期高齢者支援金額（各特定健康保険組合にあつては、当該各特定健康保険組合に係る補正後確定加入者割後期高齢者支援金額から第一項第三号の特例退職被保険者等に係る補正後確定加入者割後期高齢者支援金額を控除した額）を平成二十八年度における当該各被用者保険等保険者に係る確定後期高齢者支援金調整率で除して得た額の合計額に三分の二を乗じて得た額を、同年度における各被用者保険等保険者に係る標準報酬総額の合計額で除して得た率とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="15">
-        <ArticleCaption>（令和六年度及び令和七年度の出産育児支援金の額の算定の特例）</ArticleCaption>
+        <ArticleCaption>（特定健康保険組合に係る標準報酬総額の算定に係る経過措置）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和六年度及び令和七年度においては、第百二十四条の三第一項中「額に」とあるのは、「額の二分の一に相当する額に」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">特定健康保険組合に係る第百二十条第二項第一号の規定の適用については、同号中「被保険者」とあるのは、「被保険者（国民健康保険法附則第二十一条第一項に規定する特例退職被保険者を除く。）」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -9935,7 +9959,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律附則第十三条の三の規定は、同条第一項に規定する変更後地域密着型介護老人福祉施設に施行日以後になったものに入所をしている後期高齢者医療の被保険者（同項に規定する変更前介護老人福祉施設に入所をすることにより、当該変更前介護老人福祉施設の所在する場所に住所を変更したと認められる者に限る。）であって、当該変更前介護老人福祉施設に入所をした際、当該変更前介護老人福祉施設が所在する後期高齢者医療広域連合以外の後期高齢者医療広域連合の区域内に住所を有していたと認められるものについて、適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律附則第十三条の七の規定は、同条第一項に規定する変更後地域密着型介護老人福祉施設に施行日以後になったものに入所をしている後期高齢者医療の被保険者（同項に規定する変更前介護老人福祉施設に入所をすることにより、当該変更前介護老人福祉施設の所在する場所に住所を変更したと認められる者に限る。）であって、当該変更前介護老人福祉施設に入所をした際、当該変更前介護老人福祉施設が所在する後期高齢者医療広域連合以外の後期高齢者医療広域連合の区域内に住所を有していたと認められるものについて、適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11521,12 +11545,6 @@
             <Sentence Num="1" WritingMode="vertical">政府は、予防接種の有効性及び安全性に関する情報（副反応に関する情報を含む。）の公表の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
       </Article>
       <Article Num="42">
         <ArticleCaption>（政令への委任）</ArticleCaption>
@@ -11535,19 +11553,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和五年五月八日法律第一九号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11619,42 +11624,6 @@
             <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後、全世代対応型の持続可能な社会保障制度を構築するため、経済社会情勢の変化と社会の要請に対応し、受益と負担の均衡がとれた社会保障制度の確立を図るための更なる改革について速やかに検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="5">
-        <ArticleCaption>（国民健康保険法等の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical"/>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定によりなおその効力を有するものとされた第四条改正前国保法附則第十条第一項の規定により支払基金が令和六年度における拠出金（同項に規定する拠出金をいう。）を徴収する間、第一条の規定による改正前の健康保険法附則第四条の三の規定、第二条の規定（附則第一条第六号に掲げる改正規定を除く。）による改正前の船員保険法附則第七条の規定、第六条の規定（附則第一条第一号、第四号及び第六号に掲げる改正規定を除く。第六項において同じ。）による改正前の高齢者の医療の確保に関する法律（次項及び第六項において「旧高確法」という。）附則第十三条第二項の規定、附則第十九条の規定（附則第一条第六号に掲げる改正規定を除く。）による改正前の私立学校教職員共済法附則第二十五項の規定、附則第二十条の規定（附則第一条第六号に掲げる改正規定を除く。）による改正前の国家公務員共済組合法附則第十一条の三の規定、附則第二十一条の規定（附則第一条第六号に掲げる改正規定を除く。）による改正前の地方公務員等共済組合法附則第四十条の三の二の規定及び附則第二十二条の規定による改正前の日本私立学校振興・共済事業団法（平成九年法律第四十八号）附則第十三条の二第一項の規定は、なおその効力を有する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定の適用に関し必要な技術的読替えその他これらの規定に関し必要な事項は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="5">
-          <ParagraphNum>５</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和七年四月一日において現に第三項の規定によりなおその効力を有するものとされた第四条改正前国保法附則第十九条において準用する旧高確法第百四十三条の規定の適用を受ける退職者医療関係業務に係る特別の会計に所属する権利及び義務については、政令で定めるところにより、同日において高齢者の医療の確保に関する法律第百三十九条第一項第一号に掲げる業務に係る特別の会計に帰属するものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="6">
-          <ParagraphNum>６</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和七年度において、第六条の規定による改正後の高齢者の医療の確保に関する法律（以下「新高確法」という。）第三十九条の規定により令和五年度の保険者（高齢者の医療の確保に関する法律第七条第二項に規定する保険者をいう。附則第九条において同じ。）に係る確定前期高齢者納付金の額を算定する場合については、旧高確法附則第十三条第二項の規定は、なおその効力を有する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同項中「及び国民健康保険法」とあるのは、「及び全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律（令和五年法律第三十一号）第四条の規定による改正前の国民健康保険法」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
       </Article>
       <Article Num="7">
         <ArticleCaption>（高齢者の医療の確保に関する法律の一部改正に伴う経過措置）</ArticleCaption>
@@ -11672,33 +11641,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第一号施行日前に第一号改正前高確法第九条の規定により定められた都道府県医療費適正化計画（高齢者の医療の確保に関する法律第九条第一項に規定する都道府県医療費適正化計画をいう。以下この条において同じ。）は、第一号施行日から令和六年三月三十一日までの間は、第一号改正後高確法第九条の規定により定められた都道府県医療費適正化計画とみなす。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="9">
-        <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新高確法第三十四条、第三十五条、第三十八条及び第三十九条の規定は、令和六年度以降の各年度の保険者に係る概算前期高齢者交付金及び確定前期高齢者交付金並びに概算前期高齢者納付金及び確定前期高齢者納付金について適用し、令和五年度以前の各年度の保険者に係る概算前期高齢者交付金及び確定前期高齢者交付金並びに概算前期高齢者納付金及び確定前期高齢者納付金については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="10">
-        <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新高確法第九十三条第三項の規定は、令和六年度以後の各年度における支払基金に対する交付の額について適用し、令和五年度以前の各年度における支払基金に対する交付の額については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="11">
-        <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新高確法第百条第二項の規定は、令和六年度以後の各年度における後期高齢者負担率について適用し、令和五年度以前の各年度における後期高齢者負担率については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
