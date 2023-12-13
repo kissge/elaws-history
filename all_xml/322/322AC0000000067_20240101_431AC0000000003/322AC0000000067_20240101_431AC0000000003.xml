@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="067" Year="22" PromulgateMonth="04" PromulgateDay="17">
-  <LawNum>昭和二十二年法律第六十七号</LawNum>
-  <LawBody>
-    <LawTitle Kana="ちほうじちほう" Abbrev="地自法" AbbrevKana="ち">地方自治法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="067" Year="22" PromulgateMonth="04" PromulgateDay="17"><LawNum>昭和二十二年法律第六十七号</LawNum><LawBody><LawTitle Kana="ちほうじちほう" Abbrev="地自法" AbbrevKana="ち">地方自治法</LawTitle>
     <TOC>
       <TOCLabel>地方自治法目次</TOCLabel>
       <TOCPart Num="1">
@@ -14674,7 +14671,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>　第一号法定受託事務（第二条関係）</RelatedArticleNum>
       <TableStruct>
@@ -16661,7 +16658,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>　第二号法定受託事務（第二条関係）</RelatedArticleNum>
       <TableStruct>
@@ -29418,6 +29415,52 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年一二月一三日法律第八四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第六条及び第二十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条及び第四条並びに附則第四条、第五条第二項及び第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

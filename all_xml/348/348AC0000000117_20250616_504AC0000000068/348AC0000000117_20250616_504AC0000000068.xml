@@ -81,7 +81,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">麻薬及び向精神薬取締法（昭和二十八年法律第十四号）第二条第一号に規定する麻薬</Sentence>
+                <Sentence Num="1" WritingMode="vertical">麻薬及び向精神薬取締法（昭和二十八年法律第十四号）第二条第一項第一号に規定する麻薬（同条第二項の規定により麻薬とみなされる物を含む。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3166,6 +3166,41 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年一二月一三日法律第八四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第六条及び第二十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
