@@ -2273,8 +2273,8 @@
           <Paragraph Num="6" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">本邦外の地域に赴く航海に従事する船舶に乗り組む難民（出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第六十一条の二第二項の規定により難民認定証明書の交付を受けている外国人をいう。）にあつては、第二項の規定により当該国の領事官の証明書を添付しなければならない場合においても、当該証明書を添付することを要しない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該難民は、難民認定証明書を提示しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本邦外の地域に赴く航海に従事する船舶に乗り組む難民（出入国管理及び難民認定法第六十一条の二第四項の規定により難民認定証明書の交付を受けている外国人をいう。）又は補完的保護対象者（同条第五項の規定により補完的保護対象者認定証明書の交付を受けている外国人をいう。）にあつては、第二項の規定により当該国の領事官の証明書を添付しなければならない場合においても、当該証明書を添付することを要しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該難民にあつては難民認定証明書を、当該補完的保護対象者にあつては補完的保護対象者認定証明書を提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7" OldNum="true" OldStyle="false">
@@ -10561,6 +10561,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年一二月一日国土交通省令第九一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">第一号表</AppdxTableTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
@@ -12717,7 +12726,7 @@
         </Table>
         <Remarks>
           <RemarksLabel LineBreak="true">備考</RemarksLabel>
-          <Item Num="1">
+            <Item Num="1">
             <ItemTitle>１．</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">視力の測定は万国式試視力表による。屈折異状のあるものについては矯正視力について測定する。</Sentence>
@@ -13507,7 +13516,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxFormat Num="1">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第一号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13516,7 +13525,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十一条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13525,11 +13534,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第三号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="4">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第四号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十四条関係）（日本産業規格Ａ列３番）</RelatedArticleNum>
       <FormatStruct>
@@ -13538,7 +13547,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="4_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第四号の二書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十五条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13547,7 +13556,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="5">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第五号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十六条の三関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13556,7 +13565,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="5_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第五号の二書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十六条の三関係）（日本産業規格Ａ列３番）</RelatedArticleNum>
       <FormatStruct>
@@ -13565,7 +13574,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="6">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第六号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十九条、第二十条関係）（日本産業規格Ａ列３番）</RelatedArticleNum>
       <FormatStruct>
@@ -13574,11 +13583,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="7">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第七号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="8">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第八号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第十九条関係）（日本産業規格Ａ列３番）</RelatedArticleNum>
       <FormatStruct>
@@ -13587,7 +13596,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="9">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第九号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第二十二条関係）（日本産業規格Ａ列３番）</RelatedArticleNum>
       <FormatStruct>
@@ -13596,7 +13605,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="10">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第二十三条関係）（日本産業規格Ａ列３番）</RelatedArticleNum>
       <FormatStruct>
@@ -13605,7 +13614,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="11">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十一号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第二十四条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13614,7 +13623,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="12">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十二号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第二十九条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13623,7 +13632,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="13">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十三号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第三十一条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13632,7 +13641,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="14">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十四号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第三十三条、第三十四条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13641,7 +13650,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="15">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十五号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第三十三条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13650,7 +13659,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13659,7 +13668,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号の二書式</AppdxFormatTitle>
       <RelatedArticleNum>（第三十九条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13668,7 +13677,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16_3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号の三書式</AppdxFormatTitle>
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13677,7 +13686,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16_3_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号の三の二書式</AppdxFormatTitle>
       <RelatedArticleNum>（第四十二条の九の二関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13686,7 +13695,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16_4">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号の四書式</AppdxFormatTitle>
       <RelatedArticleNum>（第四十二条の十関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13695,7 +13704,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16_4_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号の四の二書式</AppdxFormatTitle>
       <RelatedArticleNum>（第四十二条の十三関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13704,7 +13713,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16_5">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号の五書式</AppdxFormatTitle>
       <RelatedArticleNum>（第四十五条関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13713,7 +13722,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16_6">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十六号の六書式</AppdxFormatTitle>
       <RelatedArticleNum>（第四十八条関係）（日本産業規格Ａ列３番）</RelatedArticleNum>
       <FormatStruct>
@@ -13722,7 +13731,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="17">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十七号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第六十七条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13731,7 +13740,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="17_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十七号の二書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十条の十二関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13740,7 +13749,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="18">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十八号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十二条関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13749,7 +13758,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="19">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十九号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十三条関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13758,7 +13767,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="20">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十三条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13767,11 +13776,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="21">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十一号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="22">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の二の三関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13780,7 +13789,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の二書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の二の三関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13789,7 +13798,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22_3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の三書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の六関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13798,7 +13807,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22_4">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の四書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の六関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13807,7 +13816,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22_5">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の五書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の七関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13816,7 +13825,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22_6">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の六書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の十一関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13825,7 +13834,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22_7">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の七書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の十一関係）</RelatedArticleNum>
       <FormatStruct>
@@ -13834,7 +13843,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22_8">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の八書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の十二関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -13843,7 +13852,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="23">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十三号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十八条の三関係）</RelatedArticleNum>
       <FormatStruct>
