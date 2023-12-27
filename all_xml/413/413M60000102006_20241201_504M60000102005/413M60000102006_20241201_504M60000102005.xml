@@ -311,6 +311,38 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="7_2">
+        <ArticleCaption>（公衆の閲覧に供することを要しない場合）</ArticleCaption>
+        <ArticleTitle>第七条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第九十四条第一項の主務省令で定める場合は、次の各号のいずれかに該当する場合とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">法第六十二条第一項の申出の受理に関する事務を行っていない場合であって、かつ、運営管理業務を提供する加入者等の数が百人未満である場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該確定拠出年金運営管理機関又はその関係する法人等（当該確定拠出年金運営管理機関が他の法人等（会社、組合その他これらに準ずる事業体をいう。以下この号において同じ。）の財務及び営業又は事業の方針の決定に対して重要な影響を与えることができる場合における当該他の法人等並びに当該確定拠出年金運営管理機関の財務及び営業又は事業の方針の決定に対して重要な影響を与えることができる他の法人等をいう。）以外の事業主が実施する企業型年金に係る運営管理業務を行わない場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7_3">
+        <ArticleCaption>（公衆の閲覧の方法）</ArticleCaption>
+        <ArticleTitle>第七条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第九十四条第一項の自動公衆送信による公衆の閲覧は、確定拠出年金運営管理機関のウェブサイトへの掲載により行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="8">
         <ArticleCaption>（書類の閲覧）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
@@ -641,6 +673,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">確定拠出年金運営管理機関は、事業年度ごとに、その業務についての報告書を様式第七号により作成し、毎事業年度終了後三月以内に、主務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12_2">
+        <ArticleCaption>（実施状況の報告）</ArticleCaption>
+        <ArticleTitle>第十二条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">確定拠出年金運営管理機関は、毎事業年度終了後三月以内に、法第九十四条第一項の規定に基づき主務省令で定める様式の標識を掲載しているウェブサイトのアドレス（二次元コードその他のこれに代わるものを含む。）（第七条の二各号に掲げる場合に該当するものにあっては、その旨）を主務大臣に報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1108,7 +1150,31 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和五年一二月一四日内閣府・厚生労働省令第一〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この命令は、デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行の日（令和六年四月一日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令の施行の際現にある第一条の規定による改正前の様式（次項において「旧様式」という。）により使用されている書類は、同条の規定による改正後の様式によるものとみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1117,16 +1183,16 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>（第三条第一項第二号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000037315.pdf"/>
+          <Fig src="./pict/2FH00000070883.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号</AppdxStyleTitle>
       <RelatedArticleNum>（第三条第三項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1135,7 +1201,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1144,7 +1210,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1153,7 +1219,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1162,25 +1228,25 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000037092.pdf"/>
+          <Fig src="./pict/2FH00000070884.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000061577.pdf"/>
+          <Fig src="./pict/2FH00000070882.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八号</AppdxStyleTitle>
       <RelatedArticleNum>（第十三条関係）</RelatedArticleNum>
       <StyleStruct>
