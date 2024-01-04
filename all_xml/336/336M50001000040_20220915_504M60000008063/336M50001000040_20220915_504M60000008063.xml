@@ -3955,25 +3955,19 @@
           </TableRow>
         </Table>
         <Remarks>
-        <RemarksLabel LineBreak="true">注</RemarksLabel>
+          <RemarksLabel LineBreak="true">注　この表における単位の表示は，次による。</RemarksLabel>
           <Item Num="1">
-            <ItemTitle/>
-          <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">この表における単位の表示は，次による。</Sentence>
-          </ItemSentence>
-        <Subitem1 Num="1">
-            <Subitem1Title>（１）</Subitem1Title>
-            <Subitem1Sentence>
+            <ItemTitle>（１）</ItemTitle>
+            <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">減衰量利得の単位のデシベルは，ｄＢで表す。</Sentence>
-            </Subitem1Sentence>
-          </Subitem1>
-          <Subitem1 Num="2">
-            <Subitem1Title>（２）</Subitem1Title>
-            <Subitem1Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>（２）</ItemTitle>
+            <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">その他の単位は，計量法に基づく計量単位で表す。</Sentence>
-            </Subitem1Sentence>
-          </Subitem1>
-        </Item>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
     </AppdxTable>
