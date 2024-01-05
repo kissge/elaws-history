@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="378" Year="24" PromulgateMonth="12" PromulgateDay="01">
-  <LawNum>昭和二十四年政令第三百七十八号</LawNum>
-  <LawBody>
-    <LawTitle Kana="ゆしゅつぼうえきかんりれい" Abbrev="輸出令" AbbrevKana="ゆ">輸出貿易管理令</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="378" Year="24" PromulgateMonth="12" PromulgateDay="01"><LawNum>昭和二十四年政令第三百七十八号</LawNum><LawBody><LawTitle Kana="ゆしゅつぼうえきかんりれい" Abbrev="輸出令" AbbrevKana="ゆ">輸出貿易管理令</LawTitle>
     <EnactStatement>内閣は、外国為替及び外国貿易管理法（昭和二十四年法律第二百二十八号）第二十六条、第四十八条、第四十九条、第六十七条、第六十九条及び附則第四項の規定に基き、並びに同法の規定を実施するため、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -69,6 +66,12 @@
             <ItemTitle>一の七</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">ロシアを仕向地とする貨物（別表第二（三四の項を除く。）中欄及び別表第二の三に掲げる貨物を除く。）の輸出（経済産業大臣が告示で指定する者との直接又は間接の取引によるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="1_8">
+            <ItemTitle>一の八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">別表第二の三（第三号を除く。）に掲げる貨物（別表第二の二〇から二一の三まで、二五、三五から三七まで、四〇、四一、四四及び四五の項の中欄に掲げる貨物を除く。）の別表第二の四に掲げる地域を仕向地とする輸出（経済産業大臣が告示で指定する者との直接又は間接の取引によるものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -265,6 +268,12 @@
               <Subitem1Title>ト</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">別表第五第二号に掲げる貨物であつて、ベラルーシ又はロシアを仕向地とするもの（第二条第一項第一号の六又は第一号の七に規定する輸出に係るものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="8">
+              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">別表第五第二号に掲げる貨物のうち、別表第二の三に掲げる貨物であつて、別表第二の四に掲げる地域を仕向地とするもの（第二条第一項第一号の八に規定する輸出に係るものに限る。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -3651,6 +3660,23 @@
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和五年八月二日政令第二五二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、公布の日から起算して七日を経過した日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年一二月二〇日政令第三六四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -7790,6 +7816,16 @@
             <Sentence Num="1" WritingMode="vertical">美術品、収集品及びこつとう</Sentence>
           </Subitem1Sentence>
         </Subitem1>
+      </Item>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第二の四</AppdxTableTitle>
+      <RelatedArticleNum>（第二条、第四条関係）</RelatedArticleNum>
+      <Item Num="1">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">アラブ首長国連邦、アルメニア、シリア、ウズベキスタン</Sentence>
+        </ItemSentence>
       </Item>
     </AppdxTable>
     <AppdxTable>
