@@ -1515,7 +1515,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">磁気ディスク、光ディスクその他の記録媒体に記録し、かつ、各作業場に労働者が当該記録の内容を常時確認できる機器を設置すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者の使用に係る電子計算機に備えられたファイル又は電磁的記録媒体（電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。）に係る記録媒体をいう。以下同じ。）をもつて調製するファイルに記録し、かつ、各作業場に労働者が当該記録の内容を常時確認できる機器を設置すること。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1742,7 +1742,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">磁気ディスク、光ディスクその他の記録媒体に記録し、かつ、各作業場に労働者が当該記録の内容を常時確認できる機器を設置すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業者の使用に係る電子計算機に備えられたファイル又は電磁的記録媒体をもつて調製するファイルに記録し、かつ、各作業場に労働者が当該記録の内容を常時確認できる機器を設置すること。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1844,6 +1844,12 @@
       <Article Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
@@ -2379,7 +2385,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和五年一二月二七日厚生労働省令第一六五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条、第三条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -2587,7 +2602,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第二条、第四条、第十条、第十一条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -2681,7 +2696,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第七条、第二十七条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -2829,7 +2844,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2838,7 +2853,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号の２</AppdxStyleTitle>
       <RelatedArticleNum>（第３条の２関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2847,7 +2862,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２号</AppdxStyleTitle>
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2856,7 +2871,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2865,7 +2880,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４号</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2874,7 +2889,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５号</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条の３の３関係）（表面）</RelatedArticleNum>
       <StyleStruct>
@@ -2883,7 +2898,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５号</AppdxStyleTitle>
       <RelatedArticleNum>（第２６条の３の３関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
