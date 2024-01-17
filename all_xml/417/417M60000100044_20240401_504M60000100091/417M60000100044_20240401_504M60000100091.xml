@@ -43,13 +43,13 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">作成された電磁的記録を民間事業者等の使用に係る電子計算機に備えられたファイル又は磁気ディスク、シーディー・ロムその他これらに準ずる方法により一定の事項を確実に記録しておくことができる物（以下「磁気ディスク等」という。）をもって調製するファイルにより保存する方法</Sentence>
+              <Sentence Num="1" WritingMode="vertical">作成された電磁的記録を民間事業者等の使用に係る電子計算機に備えられたファイル又は電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下同じ。）をもって調製するファイルにより保存する方法</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">書面に記載されている事項をスキャナ（これに準ずる画像読取装置を含む。）により読み取ってできた電磁的記録を民間事業者等の使用に係る電子計算機に備えられたファイル又は磁気ディスク等をもって調製するファイルにより保存する方法</Sentence>
+              <Sentence Num="1" WritingMode="vertical">書面に記載されている事項をスキャナ（これに準ずる画像読取装置を含む。）により読み取ってできた電磁的記録を民間事業者等の使用に係る電子計算機に備えられたファイル又は電磁的記録媒体をもって調製するファイルにより保存する方法</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -112,7 +112,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">民間事業者等が、法第四条第一項の規定に基づき、別表第二の上欄に掲げる法令の同表の下欄に掲げる書面の作成に代えて当該書面に係る電磁的記録の作成を行う場合は、民間事業者等の使用に係る電子計算機に備えられたファイルに記録する方法又は磁気ディスク等をもって調製する方法により作成を行わなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">民間事業者等が、法第四条第一項の規定に基づき、別表第二の上欄に掲げる法令の同表の下欄に掲げる書面の作成に代えて当該書面に係る電磁的記録の作成を行う場合は、民間事業者等の使用に係る電子計算機に備えられたファイルに記録する方法又は電磁的記録媒体をもって調製する方法により作成を行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -185,7 +185,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">磁気ディスク等をもって調製するファイルに書面に記載すべき事項を記録したものを交付する方法</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電磁的記録媒体をもって調製するファイルに書面に記載すべき事項を記録したものを交付する方法</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -224,7 +224,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">別表第五の上欄に掲げる法令に基づく同表の下欄に掲げる電磁的記録は、同表の下欄に掲げる規定による添付を行うべき者の使用に係る電子計算機に備えられたファイル又は磁気ディスク等をもって調製するファイルに書面に記載すべき事項を記録したものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">別表第五の上欄に掲げる法令に基づく同表の下欄に掲げる電磁的記録は、同表の下欄に掲げる規定による添付を行うべき者の使用に係る電子計算機に備えられたファイル又は電磁的記録媒体をもって調製するファイルに書面に記載すべき事項を記録したものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1735,7 +1735,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和五年一二月二六日厚生労働省令第一六一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第三条及び第四条関係）</RelatedArticleNum>
       <TableStruct>
@@ -6743,7 +6752,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第五条、第六条及び第七条関係）</RelatedArticleNum>
       <TableStruct>
@@ -12736,7 +12745,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第八条及び第九条関係）</RelatedArticleNum>
       <TableStruct>
@@ -13122,7 +13131,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第十条及び第十一条関係）</RelatedArticleNum>
       <TableStruct>
@@ -15302,7 +15311,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="5">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五</AppdxTableTitle>
       <RelatedArticleNum>（第十三条関係）</RelatedArticleNum>
       <TableStruct>

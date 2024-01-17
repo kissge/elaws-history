@@ -7465,7 +7465,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">磁気ディスク、シー・ディー・ロムその他これに準ずる方法により一定の事項を確実に記録しておくことができる物（次条第二項及び第三項において「磁気ディスク等」という。）をもって調製するファイルに情報を記録したものを交付する方法</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電磁的記録媒体（電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）に係る記録媒体をいう。次条第二項及び第三項並びに第百四十条の七十二の五第六項において同じ。）をもって調製するファイルに情報を記録したものを交付する方法</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -7506,13 +7506,13 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項各号に掲げる事項が、電子計算機に備えられたファイル又は磁気ディスク等に記録され、必要に応じ登録試験問題作成機関において電子計算機その他の機器を用いて明確に紙面に表示されるときは、当該記録をもって帳簿への記載に代えることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項各号に掲げる事項が、電子計算機に備えられたファイル又は電磁的記録媒体に記録され、必要に応じ登録試験問題作成機関において電子計算機その他の機器を用いて明確に紙面に表示されるときは、当該記録をもって帳簿への記載に代えることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">登録試験問題作成機関は、帳簿（前項の規定による記録が行われた同項のファイル又は磁気ディスク等を含む。）を、試験問題作成事務の全部を廃止するまで保存しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">登録試験問題作成機関は、帳簿（前項の規定による記録が行われた同項のファイル又は電磁的記録媒体を含む。）を、試験問題作成事務の全部を廃止するまで保存しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -18370,7 +18370,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百十八条の二第二項の規定により、厚生労働大臣に対し同条第一項第一号及び第二号に掲げる事項に関する情報を提供する場合には、市町村は、当該情報を、電子情報処理組織（市町村が使用する電子計算機（入出力装置を含む。以下同じ。）と国民健康保険団体連合会が使用する電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用する方法又は当該情報を記録した光ディスクその他の電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）を提出する方法により提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百十八条の二第二項の規定により、厚生労働大臣に対し同条第一項第一号及び第二号に掲げる事項に関する情報を提供する場合には、市町村は、当該情報を、電子情報処理組織（市町村が使用する電子計算機（入出力装置を含む。以下同じ。）と国民健康保険団体連合会が使用する電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用する方法又は当該情報を記録した光ディスクその他の電磁的記録媒体を提出する方法により提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
@@ -25774,7 +25774,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和五年一二月二六日厚生労働省令第一六一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第百四十条の四十五、第百四十条の四十七関係）</RelatedArticleNum>
       <Item Num="1">
@@ -25964,7 +25973,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第百四十条の四十五、第百四十条の四十七関係）</RelatedArticleNum>
       <Item Num="1">
@@ -27090,7 +27099,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27099,7 +27108,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27108,7 +27117,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第八十三条の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27117,7 +27126,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号の三</AppdxStyleTitle>
       <RelatedArticleNum>（第百七十二条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27126,7 +27135,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27135,7 +27144,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27144,7 +27153,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27153,7 +27162,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号の三</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27162,7 +27171,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号の四</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27171,7 +27180,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27180,7 +27189,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27189,7 +27198,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27198,7 +27207,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号の三</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27207,7 +27216,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27216,7 +27225,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27225,7 +27234,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八号</AppdxStyleTitle>
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27234,7 +27243,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九号</AppdxStyleTitle>
       <RelatedArticleNum>（附則第八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27243,7 +27252,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十号</AppdxStyleTitle>
       <RelatedArticleNum>（第百十三条の二十一関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27252,7 +27261,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十一号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条の二十五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27261,7 +27270,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十一号の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条の二十五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27270,7 +27279,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十二号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十二条の三十二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -27279,7 +27288,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十三号</AppdxStyleTitle>
       <RelatedArticleNum>（第百四十条の五十六関係）</RelatedArticleNum>
       <StyleStruct>
