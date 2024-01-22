@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Reiwa" Year="04" PromulgateMonth="04" PromulgateDay="26" LawType="MinisterialOrdinance" Num="039">
-  <LawNum>令和四年農林水産省令第三十九号</LawNum>
-  <LawBody>
-    <LawTitle Kana="とくていすいさんどうしょくぶつとうのこくないりゅうつうのてきせいかとうにかんするほうりつしこうきそく" Abbrev="" AbbrevKana="">特定水産動植物等の国内流通の適正化等に関する法律施行規則</LawTitle>
+<Law Lang="ja" Era="Reiwa" Year="04" PromulgateMonth="04" PromulgateDay="26" LawType="MinisterialOrdinance" Num="039"><LawNum>令和四年農林水産省令第三十九号</LawNum><LawBody><LawTitle Kana="とくていすいさんどうしょくぶつとうのこくないりゅうつうのてきせいかとうにかんするほうりつしこうきそく" Abbrev="" AbbrevKana="">特定水産動植物等の国内流通の適正化等に関する法律施行規則</LawTitle>
     <EnactStatement>特定水産動植物等の国内流通の適正化等に関する法律（令和二年法律第七十九号）及び特定水産動植物等の国内流通の適正化等に関する法律第十三条第二項の規定により都道府県が処理する事務に関する政令（令和四年政令第十八号）の規定に基づき、並びに同法を実施するため、特定水産動植物等の国内流通の適正化等に関する法律施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -347,7 +344,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">磁気ディスク、シー・ディー・ロムその他これらに準ずる方法により一定の事項を確実に記録しておくことができる物をもって調製するファイルに伝達すべき事項を記録したものを交付する方法</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電磁的記録媒体（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものに係る記録媒体をいう。第十六条において同じ。）をもって調製するファイルに伝達すべき事項を記録したものを交付する方法</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
@@ -571,7 +568,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">磁気ディスク、シー・ディー・ロムその他これらに準ずる方法により一定の事項を確実に記録しておくことができる物をもって調製するファイルに荷口番号を記録したものを交付する方法</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電磁的記録媒体をもって調製するファイルに荷口番号を記録したものを交付する方法</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
@@ -1347,7 +1344,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和五年一二月二八日農林水産省令第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <RelatedArticleNum>（第二十四条第四項関係）</RelatedArticleNum>
       <StyleStruct>
