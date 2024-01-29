@@ -808,7 +808,7 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。以下同じ。）又は会社法人等番号（商業登記法（昭和三十八年法律第百二十五号）第七条に規定する会社法人等番号をいう。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人番号（番号利用法第二条第十五項に規定する法人番号をいう。以下同じ。）又は会社法人等番号（商業登記法（昭和三十八年法律第百二十五号）第七条に規定する会社法人等番号をいう。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -10057,7 +10057,7 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">当該法人等の名称及び住所</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該法人等の名称、住所及び法人番号</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
@@ -10246,12 +10246,6 @@
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">提供申出者が法人等であるときは、提供申出書等に記載されている当該法人等の名称及び住所並びに代表者又は管理人の氏名と同一の名称及び住所並びに氏名が記載されている登記事項証明書又は印鑑登録証明書で申出日前六月以内に作成されたものその他その者が本人であることを確認するに足りる書類</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">代理人によって申出をするときは、代理権を証明する書面</Sentence>
               </ItemSentence>
@@ -10610,13 +10604,13 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">匿名診療等関連情報を取り扱う電子計算機等が電気通信回線等に接続している場合、不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）を防止するため、適切な措置を講ずること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）を防止するため、適切な措置を講ずること。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="3">
                 <Subitem1Title>ハ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">匿名診療等関連情報を取り扱う電子計算機等が電気通信回線に接続していることに伴う匿名診療等関連情報の漏えい、滅失又は毀損を防止するため、適切な措置を講ずること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">匿名診療等関連情報の漏えい、滅失又は毀損を防止するため、適切な措置を講ずること。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -18097,6 +18091,23 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、令和五年十二月八日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一月一六日厚生労働省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の日前に健康保険法施行規則第百五十五条の四第五項又は高齢者の医療の確保に関する法律施行規則第五条の五第五項の規定に基づき、厚生労働大臣が提供することが適当と認めた申出を行った提供申出者については、この省令による改正後の健康保険法施行規則第百五十五条の四第一項及び第二項並びに第百五十五条の八並びに高齢者の医療の確保に関する法律施行規則第五条の五第一項及び第二項並びに第五条の九の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

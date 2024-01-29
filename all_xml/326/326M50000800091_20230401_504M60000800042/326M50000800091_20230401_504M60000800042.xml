@@ -12504,10 +12504,10 @@
     <SupplProvision AmendLawNum="平成一四年六月二七日国土交通省令第七七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">（施行期日）</Sentence>
-          <Sentence Num="2" WritingMode="vertical">この省令は、平成十四年七月一日から施行する。ただし、船舶職員法施行規則別表第七の改正規定は、同年十月一日より施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、平成十四年七月一日から施行する。ただし、船舶職員法施行規則別表第七の改正規定は、同年十月一日より施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -14110,13 +14110,8 @@
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第九条の二、第四十条関係）</RelatedArticleNum>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">海技士身体検査基準表</Sentence>
-        </ItemSentence>
-      </Item>
       <TableStruct>
+        <TableStructTitle WritingMode="vertical">海技士身体検査基準表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -14282,8 +14277,6 @@
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">海技士（航海）の資格に係る海技試験</Sentence>
           </Subitem1Sentence>
-        </Subitem1>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14598,12 +14591,27 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">１　船舶職員とは、船長、航海士及び運航士（運航士（二号職務）を除く。）をいう。</Sentence>
-          <Sentence WritingMode="vertical">２　海難救助の用に供する船舶とは、海難救助船及びこれに準ずる船舶であつて国土交通大臣が指定するものをいう。（第二号の表において同じ。）</Sentence>
-          <Sentence WritingMode="vertical">二　海技士（機関）の資格に係る海技試験</Sentence>
+          <RemarksLabel LineBreak="true">備考</RemarksLabel>
+          <Item Num="1">
+            <ItemTitle>１</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船舶職員とは、船長、航海士及び運航士（運航士（二号職務）を除く。）をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>２</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">海難救助の用に供する船舶とは、海難救助船及びこれに準ずる船舶であつて国土交通大臣が指定するものをいう。（第二号の表において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>二</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">海技士（機関）の資格に係る海技試験</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -14920,9 +14928,14 @@
         <Remarks>
           <RemarksLabel>備考</RemarksLabel>
           <Sentence WritingMode="vertical">船舶職員とは、機関長、機関士及び運航士（運航士（一号職務）を除く。）をいう。</Sentence>
-          <Sentence WritingMode="vertical">三　海技士（通信）の資格に係る海技試験</Sentence>
         </Remarks>
       </TableStruct>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>三</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">海技士（通信）の資格に係る海技試験</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -15002,12 +15015,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="4">
-        <ItemTitle>四</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">海技士（電子通信）の資格に係る海技試験</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="4">
+          <Subitem1Title>四</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">海技士（電子通信）の資格に係る海技試験</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -15069,6 +15082,8 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Subitem1>
+      </Item>
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第六</AppdxTableTitle>
@@ -16820,13 +16835,8 @@
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第九</AppdxTableTitle>
       <RelatedArticleNum>（第七十五条、第百一条関係）</RelatedArticleNum>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">小型船舶操縦士身体検査基準表</Sentence>
-        </ItemSentence>
-      </Item>
       <TableStruct>
+        <TableStructTitle WritingMode="vertical">小型船舶操縦士身体検査基準表</TableStructTitle>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -16914,7 +16924,6 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">遵守事項違反点数表</Sentence>
         </ItemSentence>
-      </Item>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -17013,6 +17022,12 @@
             </Item>
           </Remarks>
       </TableStruct>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">処分及び再教育講習受講通知基準表</Sentence>
+          </ItemSentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -17043,9 +17058,14 @@
         <Remarks>
           <RemarksLabel>備考</RemarksLabel>
           <Sentence WritingMode="vertical">「前歴の有無」とは、累積点数に係る違反行為をしたときにおける当該違反行為をした日を起算日とする過去三年以内の法第二十三条の七第一項の規定による処分又は海難審判法第三条の裁決による操縦免許に係る処分を受けたことの有無をいう。</Sentence>
-          <Sentence WritingMode="vertical">三　処分の免除及び軽減基準表</Sentence>
         </Remarks>
       </TableStruct>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">処分の免除及び軽減基準表</Sentence>
+          </ItemSentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -17074,6 +17094,7 @@
           </TableRow>
         </Table>
       </TableStruct>
+        </Item>
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第十二</AppdxTableTitle>
