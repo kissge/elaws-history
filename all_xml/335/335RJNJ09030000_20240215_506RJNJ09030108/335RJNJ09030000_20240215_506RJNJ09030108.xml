@@ -1412,7 +1412,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">災害応急作業等手当は、人事院の定める職員が次に掲げる作業に従事したときに支給する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">災害応急作業等手当は、職員が次に掲げる作業に従事したときに支給する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1447,13 +1447,13 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">異常な自然現象又は大規模な事故により重大な災害が発生した箇所又はその周辺において行う災害警備、遭難救助、通信施設の臨時設置、運用若しくは保守又はこれらに相当する作業で心身に著しい負担を与えると人事院が認めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">異常な自然現象若しくは大規模な事故により重大な災害が発生した箇所又はその周辺において行う災害警備、遭難救助又は通信施設の臨時設置、運用若しくは保守の作業</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">異常な自然現象により重大な災害が発生し、又は発生するおそれがある場合において、災害対策基本法第二十三条第一項又は第二十三条の二第一項の規定に基づき災害対策本部が設置された地方公共団体に派遣されて行う関係行政機関等との災害応急対策に係る連絡調整の作業で心身に著しい負担を与えると人事院が認めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">異常な自然現象により重大な災害が発生し、又は発生するおそれがある場合において、災害対策基本法第二十三条第一項又は第二十三条の二第一項の規定に基づき災害対策本部が設置された地方公共団体の区域に派遣されて行う関係行政機関等との災害応急対策に係る連絡調整の作業</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
@@ -1466,7 +1466,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の手当の額は、作業に従事した日一日につき、次の各号に掲げる作業の区分に応じ、当該各号に定める額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の手当の額は、作業に従事した日一日につき、次の各号に掲げる作業の区分に応じ、当該各号に定める額（大規模な災害として人事院が定める災害に係る作業に従事した場合にあつては、千八十円）とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1549,17 +1549,16 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定にかかわらず、次の各号に掲げる場合の第一項の手当の額は、それぞれ当該各号に定める額とする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同一の日において、第一号に掲げる場合及び第三号に掲げる場合に該当するとき又は第二号に掲げる場合及び第三号に掲げる場合に該当するときにあつては、第三号に定める額を同項の手当の額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、次の各号に掲げる場合の第一項の手当の額は、それぞれ当該各号に定める額（同一の日において当該各号に掲げる場合の二以上に該当するときは、当該各号に定める額のうち最も高い額）とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第一項第一号の作業又は同項第五号の作業のうち同項第一号に掲げる作業に相当する作業が日没時から日出時までの間において行われた場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項第一号から第三号までの作業又は同項第五号の作業（同項第四号に掲げる作業に相当する作業を除く。）が日没時から日出時までの間において行われた場合</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">前項第一号又は第五号に定める額にその百分の五十に相当する額を加算した額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定める額にその百分の五十に相当する額を加算した額</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -1570,7 +1569,7 @@
                 <Sentence Num="1" WritingMode="vertical">第一項第三号の作業又は同項第五号の作業のうち同項第三号に掲げる作業に相当する作業が著しく危険であると人事院が認める場合</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">前項第三号又は第五号に定める額にその百分の百に相当する額を加算した額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定める額にその百分の百に相当する額を加算した額</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -1581,7 +1580,18 @@
                 <Sentence Num="1" WritingMode="vertical">第一項第一号から第三号までの作業又は同項第五号の作業（同項第四号に掲げる作業に相当する作業を除く。）が人事院が著しく危険であると認める区域で行われた場合</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">前項第一号から第三号まで又は第五号に定める額にその百分の百に相当する額を加算した額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定める額にその百分の百に相当する額を加算した額</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一項第四号の作業又は同項第五号の作業のうち同項第四号に掲げる作業に相当する作業が深夜において行われた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">前項に定める額にその百分の五十に相当する額を加算した額</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -4483,6 +4493,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この規則は、令和五年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年二月一五日人事院規則九―三〇―一〇八" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日等）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この規則は、公布の日から施行し、この規則による改正後の規則九―三〇の規定は、令和六年一月一日から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
