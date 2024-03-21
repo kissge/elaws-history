@@ -1495,7 +1495,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">前項の接続料に係る収入は、当該接続料を算定する一般法定機能ごとの通信量等の直近の実績値に当該接続料を乗じて得た額とする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の接続料に係る収入は、当該接続料を算定する一般法定機能ごとの通信量等（当該一般法定機能に対応した設備等に関し、他の電気通信事業者との間で事業者が電気通信事業法施行規則第二十三条の四第二項第十号の四に規定する方式を採用するときは、第一種指定電気通信設備と当該他の電気通信事業者の電気通信設備との間の通信量等を含む。以下この項において同じ。）の直近の実績値に当該接続料を乗じて得た額とする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第八条第二項ただし書又は第十条の規定に基づき接続料の原価を算定した場合は、通信量等の直近の実績値に代えて将来の合理的な通信量等の予測値を用いるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -5451,9 +5451,9 @@
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第３の１</SupplProvisionAppdxTableTitle>
         <RelatedArticleNum>（附則第６条関係）　正味固定資産価額算定方法</RelatedArticleNum>
         <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
         <Item Num="1">
           <ItemTitle/>
           <ItemSentence>
@@ -22519,6 +22519,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前条第二項の申請があった場合において、当該申請に対する処分の日がこの省令の施行の日後となるときは、この省令の施行の際現に認可を受けている接続約款は、当該処分の日までの間は、新規則の規定に適合しているものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年三月七日総務省令第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

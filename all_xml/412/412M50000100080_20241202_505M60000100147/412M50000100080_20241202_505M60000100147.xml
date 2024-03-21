@@ -83,7 +83,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">指定訪問看護事業者は、指定訪問看護ステーションごとに専らその職務に従事する常勤の管理者を置かなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、指定訪問看護ステーションの管理上支障がない場合は、当該指定訪問看護ステーションの他の職務に従事し、又は同一敷地内にある他の事業所、施設等の職務に従事することができるものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、指定訪問看護ステーションの管理上支障がない場合は、当該指定訪問看護ステーションの他の職務に従事し、又は他の事業所、施設等の職務に従事することができるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -266,6 +266,22 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="13_2">
+          <ArticleCaption>（明細書の交付）</ArticleCaption>
+          <ArticleTitle>第十三条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定訪問看護事業者は、前条の規定により利用者から利用料の支払を受けるときは、当該費用の計算の基礎となった項目ごとに記載した明細書を無償で交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定訪問看護事業者は、公費負担医療（訪問看護療養費及び公費負担医療に関する費用の請求に関する命令（平成四年厚生省令第五号）第一条各号に掲げる医療に関する給付（当該給付に関する費用の負担の全額が公費により行われるものを除く。）に限る。）を担当した場合（前条第一項の規定により利用者から利用料の支払を受ける場合を除く。）において、当該公費負担医療に関する費用の請求に係る計算の基礎となった項目ごとに記載した明細書を無償で交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="14">
           <ArticleCaption>（指定訪問看護の基本取扱方針）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
@@ -305,17 +321,29 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">指定訪問看護の提供に当たっては、医学の進歩に対応し、適切な看護の技術をもって、これを行う。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">指定訪問看護の提供に当たっては、利用者又は他の利用者等の生命又は身体を保護するため緊急やむを得ない場合を除き、身体的拘束その他利用者の行動を制限する行為（以下「身体的拘束等」という。）を行ってはならない。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">指定訪問看護の提供に当たっては、常に利用者の病状、心身の状況及びその置かれている環境の的確な把握に努め、利用者又はその家族に対し、適切な指導を行う。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前号の身体的拘束等を行う場合には、その態様及び時間、その際の利用者の心身の状況並びに緊急やむを得ない理由を記録しなければならない。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">指定訪問看護の提供に当たっては、医学の進歩に対応し、適切な看護の技術をもって、これを行う。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">指定訪問看護の提供に当たっては、常に利用者の病状、心身の状況及びその置かれている環境の的確な把握に努め、利用者又はその家族に対し、適切な指導を行う。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">特殊な看護等については、これを行ってはならない。</Sentence>
               </ItemSentence>
@@ -473,6 +501,12 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">虐待の防止のための措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">その他運営に関する重要事項</Sentence>
               </ItemSentence>
             </Item>
@@ -544,7 +578,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">指定訪問看護事業者は、指定訪問看護ステーションの見やすい場所に、運営規程の概要、看護師等の勤務の体制その他の利用申込者の指定訪問看護の選択に資すると認められる重要事項を掲示しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">指定訪問看護事業者は、指定訪問看護ステーションの見やすい場所に、運営規程の概要、看護師等の勤務の体制その他の利用申込者の指定訪問看護の選択に資すると認められる重要事項（次項において単に「重要事項」という。）を掲示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定訪問看護事業者は、原則として、重要事項をウェブサイトに掲載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -925,6 +965,49 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）による社会保険診療報酬支払基金は、指定訪問看護事業者において指定訪問看護を受けようとする者が電子資格確認によって指定訪問看護を受ける資格があることの確認を受けることができる体制を整備できるよう、地域における医療及び介護の総合的な確保の促進に関する法律（平成元年法律第六十四号）第二十四条第一項第一号に規定する業務及びこれに附帯する業務並びに同法附則第一条の三第一項各号に掲げる業務を行うため、地方厚生局長等に対して、前二条に規定する届出を行った指定訪問看護事業者の届出に係る指定訪問看護ステーションの名称、所在地その他の必要な資料の提供を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年三月五日厚生労働省令第三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和六年六月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（ウェブサイトへの掲載に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の日から令和七年五月三十一日までの間、第一条の規定による改正後の療担規則（以下「新療担規則」という。）第二条の六第二項の規定の適用については、同項中「保険医療機関は、原則として、前項の厚生労働大臣が定める事項をウェブサイトに掲載しなければならない。」とあるのは「削除」と、新療担規則第五条の三第五項、第五条の三の二第五項及び第五条の四第三項の規定の適用については、これらの規定中「保険医療機関は、原則として、前項の療養の内容及び費用に関する事項をウェブサイトに掲載しなければならない。」とあるのは「削除」と、第三条の規定による改正後の薬担規則（以下「新薬担規則」という。）第二条の四第二項の規定の適用については、同項中「保険薬局は、原則として、前項の厚生労働大臣が定める事項をウェブサイトに掲載しなければならない。」とあるのは「削除」と、新薬担規則第四条の三第三項の規定の適用については、同項中「保険薬局は、原則として、前項の療養の内容及び費用に関する事項をウェブサイトに掲載しなければならない。」とあるのは「削除」と、第五条の規定による改正後の指定訪問看護の事業の人員及び運営に関する基準（以下「新訪看基準」という。）第二十四条第二項の規定の適用については、同項中「指定訪問看護事業者は、原則として、重要事項をウェブサイトに掲載しなければならない。」とあるのは「削除」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（明細書の交付に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">指定訪問看護事業者において、新訪看基準第十三条の二第一項又は第二項の明細書を常に交付することが困難であることについて正当な理由がある場合は、新訪看基準第十三条の二第一項又は第二項の規定にかかわらず、令和七年五月三十一日までの間、新訪看基準第十三条の二第一項又は第二項の明細書を交付することを要しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（虐待の防止のための措置に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の日から令和八年五月三十一日までの間、新訪看基準第二十一条の規定の適用については、同条中「、次に」とあるのは「、虐待の防止のための措置に関する事項に関する規程を定めておくよう努めるとともに、次に」と、「重要事項」とあるのは「重要事項（虐待の防止のための措置に関する事項を除く。）」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
