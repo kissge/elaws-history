@@ -1823,6 +1823,28 @@
                   </TableColumn>
                 </TableRow>
                 <TableRow>
+                  <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第五十二条の四十第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">商号若しくは名称又は氏名、許可番号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">商号又は名称</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                    <Sentence Num="1" WritingMode="vertical"/>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">の商号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">の名称</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">第五十二条の四十四第一項第一号</Sentence>
                   </TableColumn>
@@ -1999,13 +2021,24 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第五十二条の三十七第一項第四号、第五十二条の四十四第一項第一号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第五十二条の三十七第一項第四号及び第五十二条の四十四第一項第一号</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">商号</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">名称</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第五十二条の四十第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">の商号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">の名称</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -4514,6 +4547,15 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この政令は、金融商品取引法等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（令和六年二月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年三月二五日政令第六五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律（令和五年法律第六十三号）の施行の日（令和六年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
