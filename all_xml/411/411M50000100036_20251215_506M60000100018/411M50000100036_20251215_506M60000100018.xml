@@ -18944,8 +18944,28 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">提供申出者は、匿名介護保険等関連情報を第百四十条の七十二の十二に規定する匿名診療等関連情報又は匿名医療保険等関連情報と連結して利用することができる状態で提供を受けようとするときは、第一項に規定する提供の申出のほか、それぞれ、健康保険法施行規則（大正十五年内務省令第三十六号）第百五十五条の四第一項又は高齢者の医療の確保に関する法律施行規則（平成十九年厚生労働省令第百二十九号）第五条の五第一項に規定する提供の申出をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">提供申出者は、匿名介護保険等関連情報を次の表の上欄に掲げる情報（以下「連結対象情報」という。）と連結して利用することができる状態で提供を受けようとするときは、第一項に規定する提供の申出のほか、それぞれ同表の下欄に掲げる提供の申出をしなければならない。</Sentence>
             </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律第十六条の二第一項に規定する匿名医療保険等関連情報（以下「匿名医療保険等関連情報」という。）</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律施行規則（平成十九年厚生労働省令第百二十九号）第五条の五第一項に規定する提供の申出</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律施行規則第五条の五第三項の表の上欄に掲げる情報（匿名介護保険等関連情報を除く。）</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">同表の下欄に掲げる提供の申出</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
@@ -18983,7 +19003,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法、健康保険法、高齢者の医療の確保に関する法律、統計法（平成十九年法律第五十三号）若しくは個人情報の保護に関する法律又はこれらの法律に基づく命令の規定に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して五年を経過しない者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法、高齢者の医療の確保に関する法律、高齢者の医療の確保に関する法律施行規則第五条の五第三項の表の上欄に規定する法律（連結対象情報に係るものに限る。）、統計法（平成十九年法律第五十三号）若しくは個人情報の保護に関する法律又はこれらの法律に基づく命令の規定に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して五年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -19007,7 +19027,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前各号に掲げる者のほか、匿名介護保険等関連情報等（匿名介護保険等関連情報、健康保険法第百五十条の二第一項に規定する匿名診療等関連情報（以下「匿名診療等関連情報」という。）及び高齢者の医療の確保に関する法律第十六条の二第一項に規定する匿名医療保険等関連情報（以下「匿名医療保険等関連情報」という。）をいう。以下この号及び第百四十条の七十二の十三第二号において同じ。）を利用して不適切な行為をしたことがあるか、又は関係法令の規定に反した等の理由により法第百十八条の三第一項、健康保険法第百五十条の二第一項又は高齢者の医療の確保に関する法律第十六条の二第一項の規定により匿名介護保険等関連情報等を提供することが不適切であると厚生労働大臣が認めた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる者のほか、匿名介護保険等関連情報等（匿名介護保険等関連情報及び連結対象情報をいう。以下この号及び第百四十条の七十二の十三第二号において同じ。）を利用して不適切な行為をしたことがあるか、又は関係法令の規定に反した等の理由により高齢者の医療の確保に関する法律施行規則第五条の六第五号の表の上欄に掲げる匿名介護保険等関連情報等を提供することが不適切であるとそれぞれ同表の下欄に掲げる者が認めた者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -19150,14 +19170,28 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">提供申出者が行う業務が法第百十八条の三第二項の規定により匿名介護保険等関連情報を匿名診療等関連情報と連結して利用することができる状態で提供を受けようとするものであるときは、当該業務は、前項に掲げる業務のいずれかに該当するほか、健康保険法施行規則第百五十五条の六第一項各号に掲げる業務のいずれかに該当するものでなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">提供申出者が行う業務が法第百十八条の三第二項の規定により匿名介護保険等関連情報を次の表の上欄に掲げる情報（連結対象情報に限る。）と連結して利用することができる状態で提供を受けようとするものであるときは、当該業務は、前項に掲げる業務のいずれかに該当するほか、それぞれ同表の下欄に掲げる業務のいずれかに該当するものでなければならない。</Sentence>
             </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">提供申出者が行う業務が法第百十八条の三第二項の規定により匿名介護保険等関連情報を匿名医療保険等関連情報と連結して利用することができる状態で提供を受けようとするものであるときは、当該業務は、第一項に掲げる業務のいずれかに該当するとともに、高齢者の医療の確保に関する法律施行規則第五条の七第一項各号に掲げる業務のいずれかに該当するものでなければならない。</Sentence>
-            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">匿名医療保険等関連情報</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律施行規則第五条の七第一項各号に掲げる業務</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律施行規則第五条の七第二項の表の上欄に掲げる情報</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">同表の下欄に掲げる業務</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
           </Paragraph>
         </Article>
         <Article Num="140_72_12">
@@ -19166,7 +19200,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百十八条の三第二項の厚生労働省令で定めるものは、匿名診療等関連情報及び匿名医療保険等関連情報とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百十八条の三第二項の厚生労働省令で定めるものは、連結対象情報とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -19227,7 +19261,7 @@
                 <Subitem2 Num="1">
                   <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">法、健康保険法、高齢者の医療の確保に関する法律、統計法若しくは個人情報の保護に関する法律又はこれらの法律に基づく命令の規定に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して五年を経過しない者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第百四十条の七十二の十第一号に該当する者</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
@@ -19239,7 +19273,7 @@
                 <Subitem2 Num="3">
                   <Subitem2Title>（３）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence Num="1" WritingMode="vertical">匿名介護保険等関連情報等を利用して不適切な行為をしたことがあるか、又は関係法令の規定に反した等の理由により匿名介護保険等関連情報等を取り扱うことが不適切であると厚生労働大臣が認めた者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">匿名介護保険等関連情報等を利用して不適切な行為をしたことがあるか、又は関係法令の規定に反した等の理由により高齢者の医療の確保に関する法律施行規則第五条の六第五号の表の上欄に掲げる匿名介護保険等関連情報等を取り扱うことが不適切であるとそれぞれ同表の下欄に掲げる者が認めた者</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -26161,6 +26195,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年三月二七日厚生労働省令第五六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
