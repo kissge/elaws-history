@@ -11,6 +11,7 @@ export NOW="$WORKDIR"/now
 export HEADERS="$WORKDIR"/headers
 export EH_VERSION=$(git describe)
 export USER_AGENT="Mozilla/5.0 (compatible; elaws-history/$EH_VERSION; +https://github.com/kissge/elaws-history)"
+export GIT_REMOTE_URL=${GIT_REMOTE_URL:-git@github.com:kissge/elaws-history.git}
 
 bash src/cleanup.sh
 bash src/get-files.sh

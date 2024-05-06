@@ -8,7 +8,7 @@ message="$now"$'\n\n'"Snapshot of e-Gov法令検索 as of $now"$'\n\n'"$(grep -v
 git init
 git config --local user.name "elaws-history $EH_VERSION"
 git config --local user.email elaws-history@eki.do
-git remote add origin git@github.com:kissge/elaws-history.git
+git remote add origin "$GIT_REMOTE_URL"
 git fetch --depth 1
 git reset origin/master --soft
 git restore --staged --worktree ":!$ALL_XML_DIRECTORY_NAME"
