@@ -13,10 +13,9 @@ unzip "$zip"
 
 # 加工 (1) サブディレクトリ化
 
-for dir in */; do
-    prefix=${dir:0:3}
+echo */ | tr ' ' '\n' | cut -c -3 | uniq | while read -r prefix; do
     mkdir -p "$prefix"
-    mv "$dir" "$prefix"/
+    mv "$prefix"*_*/ "$prefix"/
 done
 
 # 加工 (2) 文字コード変換
