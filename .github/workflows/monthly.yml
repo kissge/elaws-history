@@ -1,12 +1,26 @@
 on:
   workflow_dispatch:
   schedule:
-    # 3:25 UTC (12:25 JST) on 1st day of every month
+    # 3:25 UTC (12:25 JST)
     - cron: '25 3 1 * *'
+    - cron: '25 3 2/1 * *'
 
 jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: source
+          fetch-tags: true
+      - run: bash run.sh
+        env:
+          GIT_REMOTE_URL: https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
   release:
     runs-on: ubuntu-latest
+    if: github.event.schedule == '25 3 1 * *'
+    needs: archive
     steps:
       - name: Get Info
         id: get-info
