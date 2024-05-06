@@ -20,4 +20,4 @@ done
 
 # 加工 (2) 文字コード変換
 
-nkf -w --overwrite all_law_list.csv
+# 削除
