@@ -13,6 +13,12 @@ export EH_VERSION=$(git describe)
 export USER_AGENT="Mozilla/5.0 (compatible; elaws-history/$EH_VERSION; +https://github.com/kissge/elaws-history)"
 export GIT_REMOTE_URL=${GIT_REMOTE_URL:-git@github.com:kissge/elaws-history.git}
 
-bash src/cleanup.sh
-bash src/get-files.sh
-bash src/push.sh
+function _bash() {
+  echo "::group::bash $1" &&
+    bash "$1" &&
+    echo "::endgroup::"
+}
+
+_bash src/cleanup.sh
+_bash src/get-files.sh
+_bash src/push.sh
