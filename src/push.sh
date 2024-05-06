@@ -15,4 +15,4 @@ git restore --staged --worktree ":!$ALL_XML_DIRECTORY_NAME"
 git add .
 git commit --allow-empty -m "Archive: $message"
 git tag -am "$message" "$now"
-git push --follow-tags
+git push --follow-tags origin master
