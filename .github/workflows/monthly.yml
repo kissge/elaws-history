@@ -1,9 +1,9 @@
 on:
   workflow_dispatch:
   schedule:
-    # 3:25 UTC (12:25 JST)
-    - cron: '25 3 1 * *'
-    - cron: '25 3 2/1 * *'
+    # 14:25 UTC (23:25 JST)
+    - cron: '25 14 1 * *'
+    - cron: '25 14 2/1 * *'
 
 jobs:
   archive:
@@ -19,7 +19,7 @@ jobs:
 
   release:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '25 3 1 * *'
+    if: github.event.schedule == '25 14 1 * *'
     needs: archive
     steps:
       - name: Get Info
