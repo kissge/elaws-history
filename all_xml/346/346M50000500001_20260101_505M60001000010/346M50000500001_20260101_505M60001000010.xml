@@ -35,12 +35,12 @@
               <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｑ＝Ｋ×１０<Sup>－３</Sup>Ｈｅ<Sup>２</Sup></ArithFormula></Sentence>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Sentence Num="1" WritingMode="vertical">（この式において、ｑ、Ｋ及びＨｅは、それぞれ次の値を表わすものとする。</Sentence>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">ｑ</Sentence>
@@ -50,7 +50,7 @@
               </Column>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">Ｋ</Sentence>
@@ -60,7 +60,7 @@
               </Column>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">Ｈｅ</Sentence>
@@ -81,27 +81,27 @@
               <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｈｅ＝Ｈｏ＋０．６５（Ｈｍ＋Ｈｔ）</ArithFormula></Sentence>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｈｍ＝０．７９５√（Ｑ・Ｖ）／（１＋（２．５８／Ｖ））</ArithFormula></Sentence>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｈｔ＝２．０１×１０<Sup>－３</Sup>・Ｑ・（Ｔ－２８８）・（２．３０ｌｏｇＪ＋（１／Ｊ）－１）</ArithFormula></Sentence>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｊ＝（１／√（Ｑ・Ｖ））（１４６０－２９６×（Ｖ／（Ｔ－２８８）））＋１</ArithFormula></Sentence>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Sentence Num="1" WritingMode="vertical">（これらの式においては、Ｈｅ、Ｈｏ、Ｑ、Ｖ及びＴは、それぞれ次の値を表わすものとする。</Sentence>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">Ｈｅ</Sentence>
@@ -111,7 +111,7 @@
               </Column>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">Ｈｏ</Sentence>
@@ -121,7 +121,7 @@
               </Column>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">Ｑ</Sentence>
@@ -131,7 +131,7 @@
               </Column>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">Ｖ</Sentence>
@@ -141,7 +141,7 @@
               </Column>
             </ListSentence>
           </List>
-            <List>
+          <List>
             <ListSentence>
               <Column Num="1">
                 <Sentence Num="1" WritingMode="vertical">Ｔ</Sentence>
@@ -2429,7 +2429,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第二十六条第三項の証明書の様式は、様式第八のとおりとする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二十六条第三項の証明書の様式は、様式第八のとおりとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、環境省の職員が立入検査をするときに携帯すべき証明書については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7929,6 +7930,35 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年四月一日環境省令第一七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前又は廃止前の様式（次項において「旧様式」という。）により使用されている証明書は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
@@ -11688,7 +11718,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第８</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000041002.pdf"/>
+          <Fig src="./pict/2FH00000072515.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
