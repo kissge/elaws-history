@@ -123,7 +123,7 @@
           <Paragraph Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律で「延べ面積」、「高さ」、「軒の高さ」又は「階数」とは、それぞれ建築基準法第九十二条の規定により定められた算定方法によるものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律で「延べ面積」、「高さ」又は「階数」とは、それぞれ建築基準法第九十二条の規定により定められた算定方法によるものをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -143,30 +143,30 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">左の各号に掲げる建築物（建築基準法第八十五条第一項又は第二項に規定する応急仮設建築物を除く。以下この章中同様とする。）を新築する場合においては、一級建築士でなければ、その設計又は工事監理をしてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げる建築物（建築基準法第八十五条第一項又は第二項に規定する応急仮設建築物を除く。以下この章において同じ。）を新築する場合においては、一級建築士でなければ、その設計又は工事監理をしてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">学校、病院、劇場、映画館、観覧場、公会堂、集会場（オーデイトリアムを有しないものを除く。）又は百貨店の用途に供する建築物で、延べ面積が五百平方メートルをこえるもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">学校、病院、劇場、映画館、観覧場、公会堂、集会場（オーディトリアムを有しないものを除く。）又は百貨店の用途に供する建築物で、延べ面積が五百平方メートルを超えるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">木造の建築物又は建築物の部分で、高さが十三メートル又は軒の高さが九メートルを超えるもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">木造の建築物又は建築物の部分で、高さが十六メートルを超えるもの又は地階を除く階数が四以上であるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">鉄筋コンクリート造、鉄骨造、石造、<Ruby>れ<Rt>ヽ</Rt></Ruby><Ruby>ん<Rt>ヽ</Rt></Ruby>瓦造、コンクリートブロツク造若しくは無筋コンクリート造の建築物又は建築物の部分で、延べ面積が三百平方メートル、高さが十三メートル又は軒の高さが九メートルをこえるもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">鉄筋コンクリート造、鉄骨造、石造、れんが造、コンクリートブロック造又は無筋コンクリート造の建築物又は建築物の部分で、延べ面積が三百平方メートルを超えるもの、高さが十六メートルを超えるもの又は地階を除く階数が四以上であるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">延べ面積が千平方メートルをこえ、且つ、階数が二以上の建築物</Sentence>
+                <Sentence Num="1" WritingMode="vertical">延べ面積が千平方メートルを超え、かつ、階数が二以上である建築物</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -5244,8 +5244,18 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="6">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案して検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十条の三、第十条の二十二、第十条の二十四関係）</RelatedArticleNum>
       <TableStruct>
@@ -5327,7 +5337,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第二十二条の二、第二十二条の三関係）</RelatedArticleNum>
       <TableStruct>
@@ -5499,7 +5509,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第二十四条、第二十六条の五関係）</RelatedArticleNum>
       <TableStruct>
