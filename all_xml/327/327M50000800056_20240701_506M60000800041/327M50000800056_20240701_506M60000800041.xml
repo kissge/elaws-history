@@ -25203,12 +25203,12 @@
           </Paragraph>
         </Article>
         <Article Num="198_4">
-          <ArticleCaption>（法第九十四条ただし書の規定による許可を受けて管制圏等を飛行する場合の飛行の方法）</ArticleCaption>
+          <ArticleCaption>（法第九十四条ただし書の規定による許可を受けて管制区等を飛行する場合の飛行の方法）</ArticleCaption>
           <ArticleTitle>第百九十八条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">航空機は、法第九十四条ただし書の規定による許可を受けて管制圏（特別管制空域を除く。）又は情報圏を飛行するときは、次の各号に掲げる基準に従つて飛行しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">航空機は、法第九十四条ただし書の規定による許可を受けて管制区（特別管制空域及び第百九十八条の六に規定する高さ以上の空域を除く。第四号において同じ。）、管制圏（特別管制空域を除く。第五号において同じ。）又は情報圏を飛行するときは、次の各号に掲げる基準に従つて飛行しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該許可に際しこれらの基準と異なる条件が付されたときは、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -25231,6 +25231,12 @@
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">管制区を飛行する場合にあつては、当該管制区の管制業務を行う機関と常時連絡を保つこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">情報圏を飛行する場合又は法第九十六条第六項の告示で指定する時間において管制圏を飛行する場合にあつては、当該情報圏又は当該管制圏における航空交通情報の提供に関する業務を行う機関を経由して、当該情報圏又は当該管制圏における飛行について法第九十四条ただし書の規定による許可を行う機関と常時連絡を保つこと。</Sentence>
               </ItemSentence>
@@ -25335,7 +25341,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前条に規定する高さ以上の空域においては、自衛隊の使用する航空機がその任務の遂行上やむを得ず飛行する場合又は予測することができない急激な天候の悪化その他のやむを得ない事由がある場合に限り、法第九十四条の二第一項ただし書の規定による許可をするものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前条に規定する高さ以上の空域においては、予測することができない急激な天候の悪化その他のやむを得ない事由がある場合又は当該空域内の計器飛行方式により飛行する航空機の円滑な航行を阻害するおそれがなく、かつ、当該空域内のすべての航空機との間に安全な間隔を確保することが可能であると国土交通大臣が認める場合に限り、法第九十四条の二第一項ただし書の規定による許可をするものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -25345,21 +25351,9 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">航空機は、法第九十四条の二第一項ただし書の規定による許可を受けたときは、次の各号に掲げる基準に従つて飛行しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">航空機は、法第九十四条の二第一項ただし書の規定による許可を受けたときは、有視界気象状態を維持して飛行しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附近にある他のすべての航空機の位置を把握することができる装置を用いることその他の方法により当該航空機との間に安全な間隔を確保することが可能であると国土交通大臣が認める場合は、この限りでない。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">有視界気象状態を維持して飛行すること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">当該空域の管制業務を行う機関と常時連絡を保つこと。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、自衛隊の使用する航空機がその任務の遂行上やむを得ないと国土交通大臣が認める飛行を行う場合は、この限りでない。</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
         </Article>
         <Article Num="198_9">
@@ -25613,7 +25607,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第九十六条第三項第六号の国土交通省令で定める飛行は、自衛隊の使用する航空機による第百九十八条の六に規定する高さ以上の空域における飛行であつて、その任務の遂行上やむを得ないと国土交通大臣が認めるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第九十六条第三項第六号の国土交通省令で定める飛行は、附近にある他のすべての航空機の位置を把握することができる装置を用いることその他の方法により当該航空機との間に安全な間隔を確保することが可能であると国土交通大臣が認める飛行とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -41224,6 +41218,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年四月三〇日国土交通省令第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
