@@ -287,7 +287,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">労災保険及び雇用保険に係る保険関係が成立している事業にあつては、労災保険率と雇用保険率（第五項（第十項又は第十一項の規定により読み替えて適用する場合を含む。）、第八項又は第九項の規定により変更されたときは、その変更された率。第四項を除き、以下同じ。）とを加えた率</Sentence>
+                <Sentence Num="1" WritingMode="vertical">労災保険及び雇用保険に係る保険関係が成立している事業にあつては、労災保険率と雇用保険率とを加えた率</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -336,80 +336,136 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">雇用保険率は、千分の十五・五とする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号（第三号を除く。）に掲げる事業（第一号及び第二号に掲げる事業のうち、季節的に休業し、又は事業の規模が縮小することのない事業として厚生労働大臣が指定する事業を除く。）については千分の十七・五とし、第三号に掲げる事業については千分の十八・五とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">雇用保険率は、次の各号に掲げる率の区分に応じ、当該各号に定める率を合計して得た率とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">土地の耕作若しくは開墾又は植物の栽植、栽培、採取若しくは伐採の事業その他農林の事業</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">失業等給付費等充当徴収保険率（雇用保険率のうち雇用保険法の規定による失業等給付及び同法第六十四条に規定する事業に要する費用に対応する部分の率をいう。以下同じ。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">千分の八（次に掲げる事業（イ及びロに掲げる事業のうち、季節的に休業し、又は事業の規模が縮小することのない事業として厚生労働大臣が指定する事業を除く。）については、千分の十とし、次項の規定により変更されたときは、その変更された率とする。）</Sentence>
+                </Column>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">土地の耕作若しくは開墾又は植物の栽植、栽培、採取若しくは伐採の事業その他農林の事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">動物の飼育又は水産動植物の採捕若しくは養殖の事業その他畜産、養蚕又は水産の事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">土木、建築その他工作物の建設、改造、保存、修理、変更、破壊若しくは解体又はその準備の事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">清酒の製造の事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">イからニまでに掲げるもののほか、雇用保険法第三十八条第一項に規定する短期雇用特例被保険者の雇用の状況等を考慮して政令で定める事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">動物の飼育又は水産動植物の採捕若しくは養殖の事業その他畜産、養蚕又は水産の事業</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">育児休業給付費充当徴収保険率（雇用保険率のうち雇用保険法の規定による育児休業給付に要する費用に対応する部分の率をいう。以下同じ。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">千分の五（第八項の規定により変更されたときは、その変更された率とする。）</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">土木、建築その他工作物の建設、改造、保存、修理、変更、破壊若しくは解体又はその準備の事業</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">清酒の製造の事業</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、雇用保険法第三十八条第一項に規定する短期雇用特例被保険者の雇用の状況等を考慮して政令で定める事業</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">二事業費充当徴収保険率（雇用保険率のうち雇用保険法の規定による雇用安定事業及び能力開発事業（同法第六十三条に規定するものに限る。）に要する費用に対応する部分の率をいう。以下同じ。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">千分の三・五（第一号ハに掲げる事業については、千分の四・五とし、第十項又は第十一項の規定により変更されたときは、その変更された率とする。）</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、毎会計年度において、徴収保険料額並びに雇用保険法第六十六条第一項、第二項及び第五項の規定による国庫の負担額（同条第一項第四号の規定による国庫の負担額を除く。）、同条第六項の規定による国庫の負担額（同法による雇用保険事業の事務の執行に要する経費に係る分を除く。）並びに同法第六十七条の規定による国庫の負担額の合計額と同法の規定による失業等給付の額並びに同法第六十四条の規定による助成及び職業訓練受講給付金の支給の額との合計額（以下この項において「失業等給付額等」という。）との差額を当該会計年度末における労働保険特別会計の雇用勘定の積立金（第七項において「積立金」という。）に加減した額から同法第十条第五項に規定する教育訓練給付の額（以下この項において「教育訓練給付額」という。）及び同条第六項に規定する雇用継続給付の額（以下この項において「雇用継続給付額」という。）を減じた額が、当該会計年度における失業等給付額等から教育訓練給付額及び雇用継続給付額を減じた額の二倍に相当する額を超え、又は当該失業等給付額等から教育訓練給付額及び雇用継続給付額を減じた額に相当する額を下るに至つた場合において、必要があると認めるときは、労働政策審議会の意見を聴いて、一年以内の期間を定め、雇用保険率を千分の十一・五から千分の十九・五まで（前項ただし書に規定する事業（同項第三号に掲げる事業を除く。）については千分の十三・五から千分の二十一・五まで、同号に掲げる事業については千分の十四・五から千分の二十二・五まで）の範囲内において変更することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、毎会計年度において、徴収保険料額並びに雇用保険法第六十六条第一項、第二項及び第四項の規定による国庫の負担額（同条第一項第四号の規定による国庫の負担額を除く。）、同条第五項の規定による国庫の負担額（同法による雇用保険事業の事務の執行に要する経費に係る分を除く。）並びに同法第六十七条の規定による国庫の負担額の合計額と同法の規定による失業等給付の額並びに同法第六十四条の規定による助成及び職業訓練受講給付金の支給の額との合計額（以下この項において「失業等給付額等」という。）との差額を当該会計年度末における労働保険特別会計の雇用勘定の積立金（第七項において「積立金」という。）に加減した額から同法第十条第五項に規定する教育訓練給付の額（以下この項において「教育訓練給付額」という。）及び同条第六項に規定する雇用継続給付の額（以下この項において「雇用継続給付額」という。）を減じた額が、当該会計年度における失業等給付額等から教育訓練給付額及び雇用継続給付額を減じた額の二倍に相当する額を超え、又は当該失業等給付額等から教育訓練給付額及び雇用継続給付額を減じた額に相当する額を下るに至つた場合において、必要があると認めるときは、労働政策審議会の意見を聴いて、一年以内の期間を定め、失業等給付費等充当徴収保険率を千分の四から千分の十二まで（前項第一号に規定する事業については、千分の六から千分の十四まで）の範囲内において変更することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の「徴収保険料額」とは、第一項第一号の事業に係る一般保険料の額のうち雇用保険率に応ずる部分の額の総額と同項第三号の事業に係る一般保険料の額の総額とを合計した額（以下この項及び第八項において「一般保険料徴収額」という。）から当該一般保険料徴収額に育児休業給付率（千分の四の率を雇用保険率で除して得た率をいう。）を乗じて得た額及び当該一般保険料徴収額に二事業率（千分の三・五の率（第四項第三号に掲げる事業については、千分の四・五の率）を雇用保険率で除して得た率をいう。第三十一条第一項において同じ。）を乗じて得た額（第八項において「二事業費充当徴収保険料額」という。）の合計額を減じた額並びに印紙保険料の額の総額の合計額をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の「徴収保険料額」とは、第一項第一号の事業に係る一般保険料の額のうち雇用保険率に応ずる部分の額の総額と同項第三号の事業に係る一般保険料の額の総額とを合計した額（以下この項及び第十項において「一般保険料徴収額」という。）から当該一般保険料徴収額に育児休業給付費充当徴収保険率を雇用保険率で除して得た率を乗じて得た額（第八項第一号において「育児休業給付費充当徴収保険料額」という。）及び当該一般保険料徴収額に二事業費充当徴収保険率を雇用保険率で除して得た率（第三十一条第一項において「二事業率」という。）を乗じて得た額（第十項において「二事業費充当徴収保険料額」という。）の合計額を減じた額並びに印紙保険料の額の総額の合計額をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第五項の規定により雇用保険率を変更するに当たつては、雇用保険法第四条第一項に規定する被保険者（第三十一条及び第三十二条において「被保険者」という。）の雇用及び失業の状況その他の事情を考慮し、雇用保険の事業に係る失業等給付の支給に支障が生じないようにするために必要な額の積立金を保有しつつ、雇用保険の事業に係る財政の均衡を保つことができるよう、配慮するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第五項の規定により失業等給付費等充当徴収保険率を変更するに当たつては、雇用保険法第四条第一項に規定する被保険者（第三十一条及び第三十二条において「被保険者」という。）の雇用及び失業の状況その他の事情を考慮し、雇用保険の事業に係る失業等給付の支給に支障が生じないようにするために必要な額の積立金を保有しつつ、雇用保険の事業に係る財政の均衡を保つことができるよう、配慮するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、毎会計年度において、二事業費充当徴収保険料額と雇用保険法の規定による雇用安定事業及び能力開発事業（同法第六十三条に規定するものに限る。）に要する費用に充てられた額（予算の定めるところにより、労働保険特別会計の雇用勘定に置かれる雇用安定資金に繰り入れられた額を含む。）との差額を当該会計年度末における当該雇用安定資金に加減した額が、当該会計年度における一般保険料徴収額に千分の三・五の率（第四項第三号に掲げる事業については、千分の四・五の率）を雇用保険率で除して得た率を乗じて得た額の一・五倍に相当する額を超えるに至つた場合には、雇用保険率を一年間その率から千分の〇・五の率を控除した率に変更するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、毎会計年度において、第一号に掲げる額が、第二号に掲げる額の一・二倍に相当する額を超えるに至つた場合において、必要があると認めるときは、労働政策審議会の意見を聴いて、一年以内の期間を定め、育児休業給付費充当徴収保険率を千分の四とすることができる。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる額をロに掲げる額に加減した額</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該会計年度における育児休業給付費充当徴収保険料額に基づき算定した当該会計年度の翌年度における育児休業給付費充当徴収保険料額の見込額並びに当該会計年度における雇用保険法の規定による育児休業給付の額（以下この号において「育児休業給付額」という。）及びその額を当該会計年度の前年度の育児休業給付額で除して得た率（ロにおいて「育児休業給付額変化率」という。）に基づき算定した当該会計年度の翌年度における育児休業給付額の予想額（イにおいて「翌年度育児休業給付額予想額」という。）に係る同法第六十六条第一項第四号の規定による国庫の負担額の見込額の合計額と翌年度育児休業給付額予想額との差額を当該会計年度末における労働保険特別会計の雇用勘定に置かれる育児休業給付資金に加減した額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該会計年度における育児休業給付費充当徴収保険料額に基づき算定した当該会計年度の翌々年度における育児休業給付費充当徴収保険料額の見込額並びに当該会計年度における育児休業給付額及び育児休業給付額変化率に基づき算定した当該会計年度の翌々年度における育児休業給付額の予想額（次号において「翌々年度育児休業給付額予想額」という。）に係る雇用保険法第六十六条第一項第四号の規定による国庫の負担額の見込額の合計額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">翌々年度育児休業給付額予想額</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の場合において、厚生労働大臣は、雇用安定資金の状況に鑑み、必要があると認めるときは、労働政策審議会の意見を聴いて、一年以内の期間を定め、雇用保険率を同項の規定により変更された率から千分の〇・五の率を控除した率に変更することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定により育児休業給付費充当徴収保険率を変更するに当たつては、雇用保険法第六十一条の七第一項に規定する育児休業の取得の状況その他の事情を考慮し、雇用保険の事業に係る育児休業給付の支給に支障が生じないようにするために必要な額の育児休業給付資金を保有しつつ、雇用保険の事業（育児休業給付に係るものに限る。）に係る財政の均衡を保つことができるよう、配慮するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第八項の規定により雇用保険率が変更されている場合においては、第五項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の十一から千分の十九まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の十三から千分の二十一まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の十四から千分の二十二まで」とし、第六項中「千分の三・五」とあるのは「千分の三」と、「千分の四・五」とあるのは「千分の四」とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、毎会計年度において、二事業費充当徴収保険料額と雇用保険法の規定による雇用安定事業及び能力開発事業（同法第六十三条に規定するものに限る。）に要する費用に充てられた額（予算の定めるところにより、労働保険特別会計の雇用勘定に置かれる雇用安定資金に繰り入れられた額を含む。）との差額を当該会計年度末における当該雇用安定資金に加減した額が、当該会計年度における一般保険料徴収額に千分の三・五の率（第四項第一号ハに掲げる事業については、千分の四・五の率）を雇用保険率で除して得た率を乗じて得た額の一・五倍に相当する額を超えるに至つた場合には、二事業費充当徴収保険率を一年間千分の三・五の率（同号ハに掲げる事業については、千分の四・五の率）から千分の〇・五の率を控除した率に変更するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="11">
             <ParagraphNum>１１</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第九項の規定により雇用保険率が変更されている場合においては、第五項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の十・五から千分の十八・五まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の十二・五から千分の二十・五まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の十三・五から千分の二十一・五まで」とし、第六項中「千分の三・五」とあるのは「千分の二・五」と、「千分の四・五」とあるのは「千分の三・五」とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、厚生労働大臣は、雇用安定資金の状況に鑑み、必要があると認めるときは、労働政策審議会の意見を聴いて、一年以内の期間を定め、二事業費充当徴収保険率を同項の規定により変更された率から千分の〇・五の率を控除した率に変更することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -789,7 +845,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第十二条第五項の規定により雇用保険率を変更した場合には、前項第一号の印紙保険料の額（その額がこの項又は第四項の規定により変更されたときは、その変更された額。以下「第一級保険料日額」という。）、前項第二号の印紙保険料の額（その額がこの項又は第四項の規定により変更されたときは、その変更された額。以下「第二級保険料日額」という。）及び前項第三号の印紙保険料の額（その額がこの項又は第四項の規定により変更されたときは、その変更された額。以下「第三級保険料日額」という。）を、次項に定めるところにより、変更するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第十二条第五項の規定により失業等給付費等充当徴収保険率を変更した場合には、前項第一号の印紙保険料の額（その額がこの項又は第四項の規定により変更されたときは、その変更された額。以下「第一級保険料日額」という。）、前項第二号の印紙保険料の額（その額がこの項又は第四項の規定により変更されたときは、その変更された額。以下「第二級保険料日額」という。）及び前項第三号の印紙保険料の額（その額がこの項又は第四項の規定により変更されたときは、その変更された額。以下「第三級保険料日額」という。）を、次項に定めるところにより、変更するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1548,12 +1604,12 @@
         </Paragraph>
       </Article>
       <Article Num="10">
-        <ArticleCaption>（雇用保険率の変更に関する暫定措置）</ArticleCaption>
+        <ArticleCaption>（失業等給付費等充当徴収保険率の変更に関する暫定措置）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">雇用保険法附則第十三条第一項の規定が適用される会計年度における第十二条第五項の規定の適用については、同項中「同条第一項第四号の規定による国庫の負担額を除く。）、同条第六項の規定による国庫の負担額（同法による雇用保険事業の事務の執行に要する経費に係る分を除く。）並びに同法第六十七条の規定による国庫の負担額」とあるのは、「同条第一項第三号から第五号までの規定による国庫の負担額を除く。）、同法第六十七条の規定による国庫の負担額、同法附則第十三条第一項の規定による国庫の負担額（育児休業給付に係る国庫の負担額を除く。）並びに同条第二項において読み替えて適用する同法第六十六条第六項の規定による国庫の負担額（同法による雇用保険事業の事務の執行に要する経費に係る分を除く。）」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">雇用保険法附則第十三条第一項の規定が適用される会計年度における第十二条第五項の規定の適用については、同項中「同条第一項第四号の規定による国庫の負担額を除く。）、同条第五項の規定による国庫の負担額（同法による雇用保険事業の事務の執行に要する経費に係る分を除く。）並びに同法第六十七条の規定による国庫の負担額」とあるのは、「同条第一項第三号から第五号までの規定による国庫の負担額を除く。）、同法第六十七条の規定による国庫の負担額、同法附則第十三条第一項の規定による国庫の負担額並びに同条第二項において読み替えて適用する同法第六十六条第五項の規定による国庫の負担額（同法による雇用保険事業の事務の執行に要する経費に係る分を除く。）」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1562,311 +1618,17 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和四年度から令和六年度までの各年度における前条の規定の適用については、同条中「育児休業給付」とあるのは「介護休業給付金及び育児休業給付」と、「並びに同条第二項」とあるのは「、同法附則第十四条の三第一項の規定による国庫の負担額並びに同条第二項」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令和六年度から令和八年度までの各年度における前条の規定の適用については、同条中「同法附則第十三条第一項」とあるのは、「同法附則第十三条第一項の規定による国庫の負担額（介護休業給付金に係る国庫の負担額を除く。）、同法附則第十四条第一項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="11">
-        <ArticleCaption>（雇用保険率に関する暫定措置）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">平成二十九年度から令和三年度までの各年度及び令和四年十月一日から令和五年三月三十一日までの期間における第十二条第四項の雇用保険率については、同項中「千分の十五・五」とあるのは「千分の十三・五」と、「千分の十七・五」とあるのは「千分の十五・五」と、「千分の十八・五」とあるのは「千分の十六・五」として、同項の規定を適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の場合において、第十二条第五項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の九・五から千分の十七・五まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の十一・五から千分の十九・五まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の十二・五から千分の二十・五まで」と、同条第十項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の九・五から千分の十七・五まで」と、「千分の十一から千分の十九まで」とあるのは「千分の九から千分の十七まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の十一・五から千分の十九・五まで」と、「千分の十三から千分の二十一まで」とあるのは「千分の十一から千分の十九まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の十二・五から千分の二十・五まで」と、「千分の十四から千分の二十二まで」とあるのは「千分の十二から千分の二十まで」と、同条第十一項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の九・五から千分の十七・五まで」と、「千分の十・五から千分の十八・五まで」とあるのは「千分の八・五から千分の十六・五まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の十一・五から千分の十九・五まで」と、「千分の十二・五から千分の二十・五まで」とあるのは「千分の十・五から千分の十八・五まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の十二・五から千分の二十・五まで」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和四年四月一日から同年九月三十日までの期間における第十二条第四項の雇用保険率については、同項中「千分の十五・五」とあるのは「千分の九・五」と、「千分の十七・五」とあるのは「千分の十一・五」と、「千分の十八・五」とあるのは「千分の十二・五」として、同項の規定を適用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の場合において、第十二条第五項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の七・五から千分の十三・五まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の七・五から千分の十五・五まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の八・五から千分の十六・五まで」と、同条第十項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の七・五から千分の十三・五まで」と、「千分の十一から千分の十九まで」とあるのは「千分の七から千分の十三まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の七・五から千分の十五・五まで」と、「千分の十三から千分の二十一まで」とあるのは「千分の七から千分の十五まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の八・五から千分の十六・五まで」と、「千分の十四から千分の二十二まで」とあるのは「千分の八から千分の十六まで」と、同条第十一項中「千分の十一・五から千分の十九・五まで」とあるのは「千分の七・五から千分の十三・五まで」と、「千分の十・五から千分の十八・五まで」とあるのは「千分の六・五から千分の十二・五まで」と、「千分の十三・五から千分の二十一・五まで」とあるのは「千分の七・五から千分の十五・五まで」と、「千分の十二・五から千分の二十・五まで」とあるのは「千分の六・五から千分の十四・五まで」と、「千分の十四・五から千分の二十二・五まで」とあるのは「千分の八・五から千分の十六・五まで」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="11_2">
-        <ArticleCaption>（労働保険料に関する暫定措置）</ArticleCaption>
-        <ArticleTitle>第十一条の二</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第十二条第一項第一号又は第三号に掲げる事業の事業主が当該事業について第十五条第一項又は第十九条第一項の規定に基づき令和四年四月一日から始まる保険年度に係る労働保険料の額を算定する場合にあつては、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
-          </ParagraphSentence>
-          <TableStruct>
-            <Table WritingMode="vertical">
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十五条第一項第一号</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その保険年度に</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期賃金総額（令和四年四月一日から同年九月三十日までの期間（以下この号及び第十九条第一項第一号において「令和四年度前期」という。）に</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">保険年度の中途</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期の中途</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その保険年度の</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期の</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">同じ。）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">同じ。）をいう。次条において同じ。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">賃金総額）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">賃金総額の二分の一に相当する額（その額に千円未満の端数があるときは、その端数は、切り上げる。））</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十二条の規定による一般保険料に係る保険料率（以下「一般保険料率」という。）を乗じて</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期の第十二条の規定による一般保険料に係る保険料率（第十七条第一項、第十九条第一項第一号及び附則第五条において「令和四年度前期一般保険料率」という。）を乗じて得た額と令和四年度後期賃金総額（令和四年十月一日から令和五年三月三十一日までの期間（以下この号及び第十九条第一項第一号において「令和四年度後期」という。）に使用する全ての労働者（令和四年度後期の中途に保険関係が成立したものについては、当該保険関係が成立した日から令和四年度後期の末日までに使用する全ての労働者）に係る賃金総額をいう。次条において同じ。）の見込額（厚生労働省令で定める場合にあつては、直前の保険年度に使用した全ての労働者に係る賃金総額の二分の一に相当する額（その額に千円未満の端数があるときは、その端数は、切り捨てる。））に当該事業についての令和四年度後期の第十二条の規定による一般保険料に係る保険料率（第十七条第一項、第十九条第一項第一号及び附則第五条において「令和四年度後期一般保険料率」という。）を乗じて得た額とを合算して</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十五条第一項第二号イからハまで</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">前号</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた前号</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十六条</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">前条第一項又は第二項に規定する賃金総額の見込額</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期賃金総額の見込額及び令和四年度後期賃金総額の見込額を合算した額</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十七条第一項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">一般保険料率</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期一般保険料率若しくは令和四年度後期一般保険料率</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十七条第二項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">前項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた前項</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十八条</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十五条</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた第十五条</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                  <Sentence Num="1" WritingMode="vertical">第十九条第一項第一号</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その保険年度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">保険年度の</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期の</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">一般保険料率を乗じて</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期一般保険料率を乗じて得た額と令和四年度後期に使用した全ての労働者（令和四年度後期の中途に保険関係が成立し、又は消滅したものについては、令和四年度後期において、当該保険関係が成立していた期間に使用した全ての労働者）に係る賃金総額に当該事業についての令和四年度後期一般保険料率を乗じて得た額とを合算して</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十九条第一項第二号イからハまで</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">前号</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた前号</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十九条第三項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">前二項の労働保険料の</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた第一項の労働保険料の</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">前二項の労働保険料を</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">同条の規定により読み替えられた同項の労働保険料を</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">有期事業以外の事業にあつては次の</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">次の</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">、有期事業にあつては保険関係が消滅した日から五十日以内に納付しなければ</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">納付しなければ</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十九条第六項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第一項又は第二項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた第一項</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第二十六条第一項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十五条第一項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた第十五条第一項</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第五条</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十六条</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定により読み替えられた第十六条</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">又は第三号</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">の事業が同項第一号の事業に該当するに至つたため附則第十一条の二の規定により読み替えられた第十五条第一項の規定に基づき労働保険料の額を算定する場合又は第十二条第一項第三号</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">一般保険料率</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令和四年度前期一般保険料率若しくは令和四年度後期一般保険料率</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
         </Paragraph>
       </Article>
       <Article Num="12">
@@ -4053,6 +3815,118 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月一七日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中雇用保険法附則第十三条第一項の改正規定、同条第二項の改正規定（「から第五号まで」を「及び第五号」に改める部分に限る。）、同法附則第十四条及び第十四条の二を削る改正規定、同法附則第十四条の三第一項の改正規定、同条第二項の改正規定（「第六十六条第六項」を「第六十六条第五項」に改める部分を除く。）、同条を同法附則第十四条とする改正規定、同法附則第十四条の四を削る改正規定並びに同法附則第十五条の改正規定、第三条中労働保険の保険料の徴収等に関する法律附則第十条の改正規定（「（育児休業給付に係る国庫の負担額を除く。）」を削る部分に限る。）、同法附則第十条の二及び第十一条の改正規定並びに同法附則第十一条の二を削る改正規定並びに第五条並びに附則第六条、第二十四条第一項、第二十五条、第二十六条第一項、第二十七条第二項及び第三十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日又は令和六年四月一日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定（次号に掲げる改正規定を除く。）、第四条の規定並びに第六条中特別会計に関する法律第百一条第二項の改正規定、同法附則第二十条の二第一項の改正規定（「第一項第三号及び第五号」を「第一項第四号及び第六号」に改める部分に限る。）及び同条第二項の改正規定（「令和四年度」を「令和五年度」に改める部分、「第六項を」を「第五項を」に改める部分及び「第六十六条第六項」を「第六十六条第五項」に改める部分を除く。）並びに附則第十七条第一項、第三十条、第三十二条及び第三十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和七年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（労働保険の保険料の徴収等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和五年度において第三条の規定（附則第一条第一号に掲げる改正規定に限る。）による改正後の労働保険の保険料の徴収等に関する法律附則第十条（同法附則第十条の二の規定により読み替えて適用する場合を含む。）により読み替えて適用される労働保険の保険料の徴収等に関する法律第十二条第五項に規定する場合に該当することとなった場合における第三条の規定（附則第一条第一号に掲げる改正規定を除く。）による改正後の労働保険の保険料の徴収等に関する法律（以下「新徴収法」という。）第十二条第四項第一号に規定する失業等給付費等充当徴収保険率の変更については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新徴収法第十二条第四項の規定は、令和七年四月一日以後の期間に係る労働保険料（労働保険の保険料の徴収等に関する法律第十条第二項に規定する労働保険料をいう。以下この項において同じ。）について適用し、同日前の期間に係る労働保険料については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新徴収法第十二条第八項及び第九項の規定は、令和五年度以後の年度において同条第八項に規定する場合に該当することとなった場合における同条第四項第二号に規定する育児休業給付費充当徴収保険率の変更について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和五年度についての新徴収法第十二条第八項の規定の適用については、同項第一号イ中「育児休業給付費充当徴収保険料額に」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第　　　号）第三条の規定（同法附則第一条第一号に掲げる改正規定を除く。）による改正前の第十二条第六項に規定する一般保険料徴収額に同項に規定する育児休業給付率を乗じて得た額（以下この号において「育児休業給付費充当徴収保険料額相当額」という。）に」と、「育児休業給付費充当徴収保険料額の」とあるのは「育児休業給付費充当徴収保険料額相当額の」と、同号ロ中「育児休業給付費充当徴収保険料額」とあるのは「育児休業給付費充当徴収保険料額相当額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和六年度についての新徴収法第十二条第八項の規定の適用については、同項第一号イ中「育児休業給付費充当徴収保険料額に」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第　　　号）第三条の規定（同法附則第一条第一号に掲げる改正規定を除く。）による改正前の第十二条第六項に規定する一般保険料徴収額に同項に規定する育児休業給付率を乗じて得た額（以下この号において「育児休業給付費充当徴収保険料額相当額」という。）に」と、同号ロ中「育児休業給付費充当徴収保険料額に」とあるのは「育児休業給付費充当徴収保険料額相当額に」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="25">
+        <ArticleCaption>（労働保険の保険料の徴収等に関する法律の一部改正に伴う準備行為）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新徴収法第十二条第八項の規定による同条第四項第二号に規定する育児休業給付費充当徴収保険率の変更については、厚生労働大臣は、施行日前においても、同条第八項の規定の例により、労働政策審議会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="27">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の施行の状況を勘案し、必要があると認めるときは、この法律による改正後のそれぞれの法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、育児休業給付の財政状況について不断の検証を行い、その状況が安定的に推移している場合においては、育児休業給付の財政状況、国の財政状況等を踏まえ、この法律による改正後の育児休業給付の国庫負担その他の事項に関する検討を行い、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
