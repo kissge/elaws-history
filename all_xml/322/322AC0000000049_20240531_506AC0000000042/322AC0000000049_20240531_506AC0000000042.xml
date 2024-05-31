@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="049" Year="22" PromulgateMonth="04" PromulgateDay="07">
-  <LawNum>昭和二十二年法律第四十九号</LawNum>
-  <LawBody>
-    <LawTitle Kana="ろうどうきじゅんほう" Abbrev="労基法" AbbrevKana="ろ">労働基準法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="049" Year="22" PromulgateMonth="04" PromulgateDay="07"><LawNum>昭和二十二年法律第四十九号</LawNum><LawBody><LawTitle Kana="ろうどうきじゅんほう" Abbrev="労基法" AbbrevKana="ろ">労働基準法</LawTitle>
     <TOC>
       <TOCLabel>労働基準法目次</TOCLabel>
       <TOCChapter Num="1">
@@ -4981,7 +4978,42 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和六年五月三一日法律第四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条中次世代育成支援対策推進法附則第二条第一項の改正規定並びに附則第三条、第八条、第十条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第三十三条、第四十条、第四十一条、第五十六条、第六十一条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -5075,7 +5107,7 @@
         </ItemSentence>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>　身体障害等級及び災害補償表（第七十七条関係）</RelatedArticleNum>
       <TableStruct>
@@ -5203,7 +5235,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>　分割補償表（第八十二条関係）</RelatedArticleNum>
       <TableStruct>
