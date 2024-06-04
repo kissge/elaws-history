@@ -4450,63 +4450,112 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">一　船舶への水バラストの積込み（第五号に掲げるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一　水域からの水バラストの積込み（第六号に掲げるものを除く。）</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">１　積込みの日時</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">２　積込みを行つた港の名称又は施設の位置（緯度及び経度による。）及び水深（港外の場合に限る。）</Sentence>
-                    <Sentence Num="3" WritingMode="vertical">３　積み込んだ水バラストの概量</Sentence>
-                    <Sentence Num="4" WritingMode="vertical">４　作業を行つた船舶職員の署名</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">二　船舶における水バラストの循環又は処理</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">１　循環又は処理の日時</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">２　循環し、又は処理した水バラストの概量</Sentence>
-                    <Sentence Num="3" WritingMode="vertical">３　循環又は処理が有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別</Sentence>
-                    <Sentence Num="4" WritingMode="vertical">４　作業を行つた船舶職員の署名</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">１　開始時刻及び位置（港の名称又は緯度及び経度）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　完了時刻及び位置（港の名称又は緯度及び経度並びに当該水域の最小水深）</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　水バラストを積み込んだタンクその他影響を受けたタンクの識別記号</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　積み込んだ水バラストの概量及び作業後の水バラストの総量</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別</Sentence>
+                    <Sentence Num="6" WritingMode="vertical">６　水バラストの処理方法</Sentence>
+                    <Sentence Num="7" WritingMode="vertical">７　作業を担当した船舶職員の署名</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">三　水域への水バラストの排出（第五号に掲げるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">二　水域への水バラストの排出（第六号に掲げるものを除く。）</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">１　排出の日時</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">２　排出を行つた港の名称又は施設の位置（緯度及び経度による。）</Sentence>
-                    <Sentence Num="3" WritingMode="vertical">３　排出した水バラストの概量及び残留量</Sentence>
-                    <Sentence Num="4" WritingMode="vertical">４　排出が有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別</Sentence>
-                    <Sentence Num="5" WritingMode="vertical">５　作業を行つた船舶職員の署名</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">四　受入施設への水バラストの処分</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">１　積込み及び処分の日時</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">２　積込みを行つた港の名称又は施設の位置</Sentence>
-                    <Sentence Num="3" WritingMode="vertical">３　処分を行つた港の名称又は受入施設の名称及び位置</Sentence>
-                    <Sentence Num="4" WritingMode="vertical">４　積み込み、又は処分した水バラストの概量</Sentence>
-                    <Sentence Num="5" WritingMode="vertical">５　処分の状況及び理由</Sentence>
-                    <Sentence Num="6" WritingMode="vertical">６　処分が有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別</Sentence>
-                    <Sentence Num="7" WritingMode="vertical">７　作業を行つた船舶職員の署名</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">１　開始時刻及び位置（港の名称又は緯度及び経度）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　完了時刻及び位置（港の名称又は緯度及び経度並びに当該水域の最小水深）</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　水バラストを排出したタンクその他影響を受けたタンクの識別記号</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　排出した水バラストの概量及び作業後の水バラストの総量</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別</Sentence>
+                    <Sentence Num="6" WritingMode="vertical">６　水バラストの処理方法</Sentence>
+                    <Sentence Num="7" WritingMode="vertical">７　作業を担当した船舶職員の署名</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">五　事故その他の理由による例外的な船舶への水バラストの積込み又は水域への排出</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">三　水バラストの交換</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">１　積込み又は排出の日時</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">２　積込み又は排出を行つた港の名称又は船舶の位置</Sentence>
-                    <Sentence Num="3" WritingMode="vertical">３　積み込み、又は排出した水バラストの概量</Sentence>
-                    <Sentence Num="4" WritingMode="vertical">４　積込み及び排出の状況及び理由</Sentence>
-                    <Sentence Num="5" WritingMode="vertical">５　排出が有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別</Sentence>
-                    <Sentence Num="6" WritingMode="vertical">６　作業を行つた船舶職員の署名</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">１　開始時刻及び位置（緯度及び経度）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　完了時刻及び位置（緯度及び経度）</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　水バラストを交換した水域から最も近い陸地までの最短距離及び当該水域における最小水深（第十二条の十四の三第二項第一号ロに掲げる水域で交換をした場合にあつては、当該水域の名称）</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別及び交換の方式</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　水バラストを交換したタンクその他影響を受けたタンクの識別記号</Sentence>
+                    <Sentence Num="6" WritingMode="vertical">６　交換した水バラストの総量及び作業後の水バラストの総量</Sentence>
+                    <Sentence Num="7" WritingMode="vertical">７　積み込んだ水バラストの処理方法</Sentence>
+                    <Sentence Num="8" WritingMode="vertical">８　作業を担当した船舶職員の署名</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">四　水バラストの内部循環処理又はタンク内処理</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">１　開始時刻</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　完了時刻</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　水バラストの内部循環処理又はタンク内処理をしたタンクその他影響を受けたタンクの識別記号（供給元のタンクと供給先のタンクがある場合はそれぞれの識別記号）</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　処理した水バラストの総量</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　水バラストの処理方法</Sentence>
+                    <Sentence Num="6" WritingMode="vertical">６　作業を担当した船舶職員の署名</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">五　港湾施設若しくは受入施設からの水バラストの積込み又は港湾施設若しくは受入施設への水バラストの処分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">１　開始時刻及び位置（施設の名称）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　完了時刻</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　積込み又は処分の別</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　水バラストを積み込み、又は処分したタンクその他影響を受けたタンクの識別記号</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　積み込み、又は処分した水バラストの総量及び作業後の水バラストの総量</Sentence>
+                    <Sentence Num="6" WritingMode="vertical">６　有害水バラスト汚染防止措置手引書に従つて行われたかどうかの別</Sentence>
+                    <Sentence Num="7" WritingMode="vertical">７　船上での水バラストの処理方法</Sentence>
+                    <Sentence Num="8" WritingMode="vertical">８　作業を担当した船舶職員の署名</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">六　事故その他の理由による水バラストの流入又は流出その他例外的な積込み又は排出</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">１　開始時刻及び位置（港の名称又は緯度及び経度）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　終了時刻</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　流入、流出、積込み又は排出の別</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　水バラストが流入し、若しくは流出し、又は水バラストを積み込み、若しくは排出したタンクその他影響を受けたタンクの識別記号</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　流入し、流出し、積み込み、又は排出した水バラストの総量</Sentence>
+                    <Sentence Num="6" WritingMode="vertical">６　流入、流出、積込み又は排出の状況及び理由並びに実施した処理方法その他必要な事項</Sentence>
+                    <Sentence Num="7" WritingMode="vertical">７　作業を担当した船舶職員の署名</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">七　有害水バラスト処理設備の故障又は動作不能に伴う作業</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">１　発生時刻及び位置（港の名称又は緯度及び経度）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　積込み又は排出の別</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　警報の種類、故障又は動作不能の状況の概要その他の故障又は動作不能に係る事案の説明</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　復旧時刻及び位置（港の名称又は緯度及び経度）</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　作業を担当した船舶職員の署名</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">八　タンクの清掃若しくは洗浄又は堆積物の除去若しくは処分</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">１　開始時刻及び位置（港の名称又は緯度及び経度）</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">２　完了時刻及び位置（港の名称又は緯度及び経度）</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">３　作業を行つたタンクの識別記号</Sentence>
+                    <Sentence Num="4" WritingMode="vertical">４　受入施設へ処分した場合にあつては、その総量及び施設の名称</Sentence>
+                    <Sentence Num="5" WritingMode="vertical">５　有害水バラスト汚染防止措置手引書に従つて洗浄水又は堆積物を水域へ排出した場合にあつては、その総量、当該水域から最も近い陸地までの最短距離及び当該水域における最小水深</Sentence>
+                    <Sentence Num="6" WritingMode="vertical">６　作業を担当した船舶職員の署名</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -4515,19 +4564,13 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定によるほか、有害水バラスト処理設備に故障その他の異常が発生した場合は、当該異常が発生した時刻及び原因並びに作動可能な状態になつた時刻を水バラスト記録簿に記載しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する水バラスト記録簿への記載は、第一号の九の五様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項に規定する水バラスト記録簿への記載は、第一号の九の五様式によるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第十七条の四第二項に規定する者は、第一項の表第四号上欄に掲げる作業が行われた場合は、その都度、当該作業に関する事実を証する書類を水バラスト記録簿に添付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第十七条の四第二項に規定する者は、第一項の表第五号上欄に掲げる作業が行われた場合は、その都度、当該作業に関する事実を証する書類を水バラスト記録簿に添付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -15497,6 +15540,29 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二〇日国土交通省令第六〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第十七条の四第二項の規定による水バラスト記録簿への記載については、この省令による改正後の規定にかかわらず、令和七年一月三十一日までの間は、なお従前の例によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十二条の二の八関係）</RelatedArticleNum>
@@ -16540,10 +16606,6 @@
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">この表中第一号の場合にあつては、当該船舶の総トン数に応じ、それぞれ次の表に掲げる量</Sentence>
               </Subitem1Sentence>
-            </Subitem1>
-          </Item>
-        </Remarks>
-      </TableStruct>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -16606,12 +16668,12 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>ロ</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">この表中第二号の場合にあつては、当該施設で保管することができる特定油の量に応じ、それぞれ次の表に掲げる量</Sentence>
-        </ItemSentence>
-      </Item>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>ロ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">この表中第二号の場合にあつては、当該施設で保管することができる特定油の量に応じ、それぞれ次の表に掲げる量</Sentence>
+          </Subitem1Sentence>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -16668,11 +16730,13 @@
           </TableRow>
         </Table>
       </TableStruct>
-      <Item Num="1">
-        <ItemTitle>ハ</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">この表中第三号の場合にあつては、当該管理者の管理する係留施設に係留することができる最大の船舶の総トン数に応じ、それぞれイの表に掲げる量</Sentence>
-        </ItemSentence>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>ハ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">この表中第三号の場合にあつては、当該管理者の管理する係留施設に係留することができる最大の船舶の総トン数に応じ、それぞれイの表に掲げる量</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
       </Item>
       <Item Num="2">
         <ItemTitle>２</ItemTitle>
@@ -16698,6 +16762,8 @@
           <Sentence Num="1" WritingMode="vertical">この表中第三号の数量の欄に掲げる数量（油処理剤、油吸着材又は油ゲル化剤に係るものに限る。）は、法第三十九条の三第三号に規定する係留施設の管理者が当該係留施設の所在する港の区域（港則法に基づく港の区域（港則法施行規則（昭和二十三年運輸省令第二十九号）別表第一の港の名称の欄に掲げる港にあつては、同表の境界の欄に掲げる区域）をいう。）において他の同号に規定する係留施設を管理している場合にあつては、その者について、これらの係留施設に係る特定油防除資材の数量のうちいずれか大きい数量とする。</Sentence>
         </ItemSentence>
       </Item>
+        </Remarks>
+      </TableStruct>
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
@@ -17240,7 +17306,7 @@
       <RelatedArticleNum>（第１２条の１４の１６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000045544.pdf"/>
+          <Fig src="./pict/2FH00000072950.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
