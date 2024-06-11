@@ -4058,13 +4058,13 @@
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1" WritingMode="vertical">その事業に従事する他の使用人に対して支払う給与の金額</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その事業に従事する他の使用人に対して支払う給与の金額並びにその支給の方法及び形態</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1" WritingMode="vertical">その他参考となるべき事項</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">昇給の基準その他参考となるべき事項</Sentence>
                     </ItemSentence>
                   </Item>
                 </Paragraph>
@@ -7504,6 +7504,18 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">法第百五十条第一項（青色申告の承認の取消し）の規定により青色申告書の提出の承認を取り消され、又は法第百五十一条第一項（青色申告の取りやめ）の規定により青色申告書による申告書の提出をやめる旨の届出書を提出した後再び第一号の申請書を提出しようとする場合には、その取消しに係る同条第二項の規定による通知を受けた日又は取りやめの届出書の提出をした日</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その年一月十六日以後新たに法第百四十三条（青色申告）に規定する業務を開始した場合には、その開始した年月日</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">その他参考となるべき事項</Sentence>
                   </ItemSentence>
                 </Item>
@@ -10010,7 +10022,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第二百十六条（源泉徴収に係る所得税の納期の特例）の規定による承認を受けようとする同条に規定する事務所等に係る給与等の支払を受ける者の数（臨時に雇用している者がある場合には、給与等の支払を受ける者の数及び臨時に雇用している者の数）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第二百十六条（源泉徴収に係る所得税の納期の特例）の規定による承認を受けようとする同条に規定する事務所等に係る最近における六月間の月別の給与等の支払を受ける者の数及び当該給与等の金額並びに臨時に雇用している者がある場合には、その者に係るこれらの内訳</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -10021,6 +10033,12 @@
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一号の申請書を提出した日以前一年以内において法第二百十七条第四項の規定による取消しの通知を受けたことの有無</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">その他参考となるべき事項</Sentence>
                 </ItemSentence>
@@ -10424,7 +10442,7 @@
                       <Sentence Num="1" WritingMode="vertical">個人番号を有する個人</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">住所等確認書類及び行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令（平成二十六年総務省令第八十五号）第三十二条第一項（国外転出者に対する個人番号カードの還付）に規定する還付された個人番号カード</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">住所等確認書類及び前号イに掲げる個人番号カード</Sentence>
                     </Column>
                   </Subitem1Sentence>
                 </Subitem1>
@@ -13741,7 +13759,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その年中に支払の確定した給与等（当該給与等が法第百九十条（年末調整）の規定の適用を受けたものである場合において、その支払を受ける者がその年において他の給与等の支払者を経由して他の給与所得者の扶養控除等申告書（法第百九十四条第八項（給与所得者の扶養控除等申告書）に規定する給与所得者の扶養控除等申告書をいう。第六号において同じ。）を提出したことがあるときは、令第三百十一条（再就職者等の年末調整の対象となる給与等）に規定する給与等を含む。）につきその種類及びその合計額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その年中に支払の確定した給与等（当該給与等が法第百九十条（年末調整）の規定の適用を受けたものである場合において、その支払を受ける者がその年において他の給与等の支払者を経由して他の給与所得者の扶養控除等申告書（法第百九十四条第八項（給与所得者の扶養控除等申告書）に規定する給与所得者の扶養控除等申告書をいう。第六号及び次項第三号において同じ。）を提出したことがあるときは、令第三百十一条（再就職者等の年末調整の対象となる給与等）に規定する給与等を含む。）につきその種類及びその合計額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -13872,8 +13890,32 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の場合において、同一人（その年の中途において退職した者に限る。）に対するその年中の給与等の支払金額が三十万円以下であるときは、当該給与等に係る同項の源泉徴収票は、税務署長に提出することを要しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、次の各号に掲げる場合に該当するときは、当該各号の規定に該当する給与等に係る同項の源泉徴収票は、税務署長に提出することを要しない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同一人に対するその年中の法第百九十条の規定の適用を受けた給与等（法第二百四条第一項第二号（報酬、料金等に係る源泉徴収義務）に規定する者に支払う給与等及び次号に規定する給与等を除く。）の支払金額が五百万円以下である場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同一人に対するその年中の法第百九十条の規定の適用を受けた給与等で法人がその役員（相談役、顧問その他これらに類する者を含む。）に対して支払うものの支払金額が百五十万円以下である場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同一人に対するその年中の前二号に規定する給与等以外の給与等で給与所得者の扶養控除等申告書を提出した者（前号の役員を除く。）に対してその提出の際に経由した給与等の支払者が支払うものの支払金額が二百五十万円以下である場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同一人に対するその年中の前三号に規定する給与等以外の給与等の支払金額が五十万円以下である場合</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
@@ -13976,7 +14018,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の場合において、法人がその役員（相談役、顧問その他これらに類する者を含む。）に対して支払う退職手当等以外の退職手当等については、前項の源泉徴収票は、税務署長に提出することを要しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、法人がその前条第二項第二号に規定する役員に対して支払う退職手当等以外の退職手当等については、前項の源泉徴収票は、税務署長に提出することを要しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -13998,7 +14040,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">居住者に対し国内において法第二百二十六条第三項（源泉徴収票）に規定する公的年金等（以下この条において「公的年金等」という。）の支払をする者は、同項の規定により、その公的年金等の支払を受ける者の各人別に、次に掲げる事項を記載した源泉徴収票二通を作成し、一通をその公的年金等に係る所得税の法第十七条（源泉徴収に係る所得税の納税地）の規定による納税地の所轄税務署長（第一号イ及び第七号イ（１）において「所轄税務署長」という。）に提出し、他の一通をその公的年金等の支払を受ける者に交付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">居住者に対し国内において法第二百二十六条第三項（公的年金等の源泉徴収票）に規定する公的年金等（以下この条において「公的年金等」という。）の支払をする者は、同項の規定により、その公的年金等の支払を受ける者の各人別に、次に掲げる事項を記載した源泉徴収票二通を作成し、一通をその公的年金等に係る所得税の法第十七条（源泉徴収に係る所得税の納税地）の規定による納税地の所轄税務署長（第一号イ及び第七号イ（１）において「所轄税務署長」という。）に提出し、他の一通をその公的年金等の支払を受ける者に交付しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -14144,11 +14186,29 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第九十三条第三項（給与等の源泉徴収票）の規定は、法第二百二十六条第三項後段の規定を適用する場合について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、次の各号に掲げる場合に該当するときは、当該各号の規定に該当する公的年金等に係る同項の源泉徴収票は、税務署長に提出することを要しない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同一人に対しその年中に支払う法第二百三条の三第一号から第六号までに掲げる公的年金等の支払金額が六十万円以下である場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同一人に対しその年中に支払う法第二百三条の三第七号に掲げる公的年金等の支払金額が三十万円以下である場合</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九十三条第三項（税務署長の承認に係る手続）の規定は、法第二百二十六条第三項後段の規定を適用する場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第一項の規定は、法第二百二十六条第四項ただし書の規定により公的年金等の支払を受ける者に交付する同項の源泉徴収票について準用する。</Sentence>
               </ParagraphSentence>
@@ -14190,38 +14250,6 @@
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">令第三百五十三条第一項に規定する給与等の支払をする者が、当該給与等の支払を受ける者から前項の規定による承諾を得ようとする場合において、当該支払をする者が定める期限までに当該承諾をしない旨の回答がないときは当該承諾があつたものとみなす旨の通知をし、当該期限までに当該支払を受ける者から当該回答がなかつたときは、当該承諾を得たものとみなす。</Sentence>
               </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="95_3">
-            <ArticleCaption>（源泉徴収票の提出の特例）</ArticleCaption>
-            <ArticleTitle>第九十五条の三</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二百二十六条第六項（源泉徴収票）に規定する財務省令で定める事項は、次の各号に掲げる報告書の区分に応じ当該各号に定める事項とする。</Sentence>
-              </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">法第二百二十六条第六項第一号に掲げる報告書</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">第九十三条第一項第一号イ（給与等の源泉徴収票）に定める事項、同項第二号から第五号までに掲げる事項、同項第六号イ（１）に定める事項、同号ロ及びハに掲げる事項、同項第七号から第十号までに掲げる事項並びに同項第十二号に掲げる事項</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">法第二百二十六条第六項第二号に掲げる報告書</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">第九十四条の二第一項第一号イ（公的年金等の源泉徴収票）に定める事項、同項第二号から第六号までに掲げる事項、同項第七号イ（１）に定める事項、同号ロ及びハに掲げる事項並びに同項第九号に掲げる事項</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
             </Paragraph>
           </Article>
           <Article Num="96">
@@ -14902,7 +14930,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国内において法第二十八条第一項（給与所得）に規定する給与等（以下この条において「給与等」という。）の支払事務を取り扱う事務所、事業所その他これらに準ずるもの（以下この条において「給与支払事務所等」という。）を設け、又はこれを移転し、若しくは廃止した者は、法第二百三十条（給与等の支払をする事務所の開設等の届出）の規定により、次に掲げる事項を記載した届出書を、その給与支払事務所等の所在地の所轄税務署長（給与支払事務所等を移転する場合には、その移転前の給与支払事務所等の所在地の所轄税務署長）に提出しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国内において法第二十八条第一項（給与所得）に規定する給与等（以下この条において「給与等」という。）の支払事務を取り扱う事務所、事業所その他これらに準ずるもの（以下この条において「給与支払事務所等」という。）を設け、又はこれを移転し、若しくは廃止した者は、その事実につき前条の届出書を提出すべき場合を除き、法第二百三十条（給与等の支払をする事務所の開設等の届出）の規定により、次に掲げる事項を記載した届出書を、その給与支払事務所等の所在地の所轄税務署長（給与支払事務所等を移転する場合には、その移転前の給与支払事務所等の所在地の所轄税務署長）に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -14925,7 +14953,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その届出書を提出する日の現況におけるその給与支払事務所等において給与等の支払を受ける者の人員数</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その届出書を提出する日の現況におけるその給与支払事務所等において給与等の支払を受ける者の職種等の別の人員数</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -15126,13 +15154,12 @@
             </Paragraph>
           </Article>
           <Article Num="104">
-            <ArticleCaption>（計算書等の書式等の特例）</ArticleCaption>
+            <ArticleCaption>（計算書等の書式の特例）</ArticleCaption>
             <ArticleTitle>第百四条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国税庁長官は、別表第二（一）、別表第二（三）から別表第二（五）まで、別表第三（一）から別表第三（六）まで、別表第五（一）から別表第五（十五）まで及び別表第五（十七）から別表第九（三）までの各表の書式について必要があるときは、所要の事項を付記すること又は一部の事項を削ることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、国税庁長官は、併せてこれらの用紙の大きさを当該各表に定める大きさ以外の大きさ（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項（日本産業規格）に規定する日本産業規格に適合するものに限る。）とすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国税庁長官は、別表第三（一）から別表第三（六）まで、別表第五（一）から別表第五（十五）まで及び別表第五（十七）から別表第九（三）までの各表の書式について必要があるときは、所要の事項を付記すること又は一部の事項を削ることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -23829,16 +23856,6 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="2">
-        <ArticleCaption>（青色専従者給与に関する届出書の記載事項等に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">改正後の所得税法施行規則（以下「新規則」という。）第三十六条の四第一項の規定は、令和九年分以後の所得税について適用し、令和八年分以前の所得税については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="3">
         <ArticleCaption>（給与等の支払者による証明等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
@@ -23856,16 +23873,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">新規則第四十七条の二第六項第三号及び第八項第三号の規定は、令和六年分以後の所得税に係る確定申告書を提出する場合について適用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="5">
-        <ArticleCaption>（青色申告承認申請書の記載事項に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新規則第五十五条（所得税法施行規則第六十七条において準用する場合を含む。）の規定は、令和九年分以後の所得税につき所得税法第百四十三条（同法第百六十六条において準用する場合を含む。以下この条において同じ。）の承認を受けようとする場合について適用し、令和八年分以前の所得税につき同法第百四十三条の承認を受けようとする場合については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -23899,48 +23906,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="9">
-        <ArticleCaption>（納期の特例に関する承認の申請書に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新規則第七十八条の規定は、令和九年一月一日以後に支払うべき所得税法第二百十六条に規定する給与等及び退職手当等について適用し、同日前に支払うべき同条に規定する給与等及び退職手当等については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="10">
-        <ArticleCaption>（給与等の源泉徴収票に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新規則第九十三条第二項の規定は、令和九年一月一日以後に提出すべき同条第一項に規定する給与等の源泉徴収票について適用し、同日前に提出すべき旧規則第九十三条第一項に規定する給与等の源泉徴収票については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和九年一月一日以後に提出すべき新規則第九十三条第一項に規定する源泉徴収票に係る新規則第九十七条の四第一項の規定の適用については、同項中「枚数」とあるのは、「枚数（所得税法施行規則の一部を改正する省令（令和五年財務省令第十二号）による改正前の所得税法施行規則第九十三条第二項各号（給与等の源泉徴収票）の規定に該当する同条第一項に規定する給与等に係る別表第六（一）の表の枚数を除く。）」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="11">
-        <ArticleCaption>（公的年金等の源泉徴収票に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和九年一月一日前に提出すべき旧規則第九十四条の二第一項に規定する公的年金等の源泉徴収票に係る同条第二項の規定の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和九年一月一日以後に提出すべき新規則第九十四条の二第一項に規定する源泉徴収票に係る新規則第九十七条の四第一項の規定の適用については、同項中「枚数」とあるのは、「枚数（所得税法施行規則の一部を改正する省令（令和五年財務省令第十二号）による改正前の所得税法施行規則第九十四条の二第二項各号（公的年金等の源泉徴収票）の規定に該当する同条第一項に規定する公的年金等に係る別表第六（三）の表の枚数を除く。）」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="12">
         <ArticleCaption>（源泉徴収票に係る電磁的方法による提供の承諾に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
@@ -23958,16 +23923,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">新規則第九十八条の規定は、令和八年一月一日以後に生ずる所得税法等の一部を改正する法律（令和五年法律第三号。以下「改正法」という。）第一条の規定による改正後の所得税法（以下「新法」という。）第二百二十九条に規定する事実について適用し、同日前に生じた改正法第一条の規定による改正前の所得税法（以下「旧法」という。）第二百二十九条に規定する事実については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="14">
-        <ArticleCaption>（給与等の支払をする事務所の開設等の届出に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新規則第九十九条（第四号に係る部分に限る。）の規定は、令和九年一月一日以後に生ずる新法第二百三十条に規定する事実について適用し、同日前に生じた旧法第二百三十条に規定する事実については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -24172,6 +24127,29 @@
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">改正法附則第三条第一項の規定の適用がある場合において、所得税法第二百二十七条に規定する信託が租税特別措置法（昭和三十二年法律第二十六号）第四条の五第一項に規定する特定寄附信託であるときにおける所得税法第二百二十七条に規定する計算書についての新規則別表第七（一）に定める書式の適用については、同表の備考２（９）ヘ（ｉｉｉ）中「規定する公益信託」とあるのは「規定する公益信託若しくは所得税法等の一部を改正する法律（令和６年法律第８号）附則第３条第１項に規定する特定公益信託」と、「当該公益信託」とあるのは「当該公益信託又は特定公益信託」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二四日財務省令第四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和六年五月二十七日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（所得税法施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">還付された個人番号カード所持者に係る第二条の規定による改正後の所得税法施行規則第八十一条の六第一項（第二号ロに係る部分に限るものとし、所得税法施行規則第八十一条の二十第一項、第八十一条の二十五第一項、第八十一条の二十九第一項、第八十一条の三十三第一項、第八十一条の三十六第二項及び第八十一条の三十八第一項並びに租税特別措置法施行規則第三条の十七第七項において準用する場合を含む。）の規定の適用については、同号ロ中「前号イに掲げる個人番号カード」とあるのは、「行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則等の一部を改正する命令（令和六年デジタル庁・総務省令第十号）第二条（行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部改正）の規定による改正前の行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令（平成二十六年総務省令第八十五号）第三十二条第一項（国外転出者に対する個人番号カードの還付）に規定する還付された個人番号カード」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
