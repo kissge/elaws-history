@@ -1268,7 +1268,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">氏名、生年月日、現住所、従前の住所及び行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。第二十七条、第百四十条の七十二の九及び別表第一において「番号利用法」という。）第二条第五項に規定する個人番号（以下「個人番号」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">氏名、生年月日、現住所、従前の住所及び行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号（以下「個人番号」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -6690,7 +6690,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第六十九条の二第一項の規定による登録を受けようとする者は、介護支援専門員実務研修を修了した日から三月を経過する日までに、氏名、生年月日及び住所その他の登録に際し必要な事項を記載した登録申請書を提出しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第六十九条の二第一項の規定による登録を受けようとする者は、介護支援専門員実務研修を修了した日から三月を経過する日までに、氏名、生年月日、住所及び個人番号その他の登録に際し必要な事項を記載した登録申請書を提出しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -6833,7 +6833,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">氏名、生年月日及び住所</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">氏名、生年月日、住所及び個人番号</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -6866,7 +6866,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第六十九条の四の厚生労働省令で定める事項は、住所とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第六十九条の四の厚生労働省令で定める事項は、住所及び個人番号とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6987,7 +6987,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">申請者の氏名、生年月日及び住所</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">申請者の氏名、生年月日、住所及び個人番号</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -7079,7 +7079,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定による書換え交付の申請は、写真を添付した申請書により行うものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による書換え交付の申請は、写真を添付し、かつ個人番号を記載した申請書により行うものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -7111,7 +7111,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定による再交付を申請しようとする者は、写真を添付した申請書を提出しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による再交付を申請しようとする者は、写真を添付し、かつ個人番号を記載した申請書を提出しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -26287,6 +26287,20 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第一条の規定による改正前の介護保険法施行規則様式第一号の二の二による介護保険負担限度額認定証は、当分の間、同条の規定による改正後の同令様式第一号の二の二による介護保険負担限度額認定証に代えて使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二四日厚生労働省令第八五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、デジタル社会の形成を図るための関係法律の整備に関する法律附則第一条第十号に掲げる規定の施行の日（令和六年五月二十七日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第五条の規定は、令和六年十二月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
