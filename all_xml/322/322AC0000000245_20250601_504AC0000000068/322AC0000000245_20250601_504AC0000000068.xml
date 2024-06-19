@@ -123,7 +123,7 @@
         <Paragraph Num="4" OldNum="true" OldStyle="false">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第二項の規定により管理栄養士の免許を取り消し、又は管理栄養士の名称の使用の停止を命じたときは、速やかに、その旨を当該処分を受けた者が受けている栄養士の免許を与えた都道府県知事に通知しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第二項の規定により管理栄養士の免許を取り消し、又は管理栄養士の名称の使用の停止を命じた場合において、当該処分を受けた者が栄養士の免許を受けているときは、速やかに、当該処分をした旨を当該栄養士の免許を与えた都道府県知事に通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -141,7 +141,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">管理栄養士国家試験は、栄養士であつて次の各号のいずれかに該当するものでなければ、受けることができない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">管理栄養士国家試験は、次の各号のいずれかに該当するものでなければ、受けることができない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -754,6 +754,41 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月一九日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条（就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律の一部を改正する法律附則第五条の改正規定（同条第一項中「、主幹保育教諭、指導保育教諭」を削る部分を除く。）に限る。）及び第三条（教育職員免許法附則第十八項の改正規定に限る。）の規定並びに次条及び附則第八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
