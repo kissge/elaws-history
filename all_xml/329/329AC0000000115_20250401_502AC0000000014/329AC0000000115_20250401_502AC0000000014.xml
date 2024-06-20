@@ -8912,7 +8912,7 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <SupplProvisionAppdxTable Num="1">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第一</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <TableStructTitle WritingMode="vertical">一　昭和五年四月一日以前に生まれた者　被保険者であつた月が属する次の表の上欄に掲げる期間の区分に応じて、それぞれ同表の下欄に掲げる率</TableStructTitle>
@@ -10294,7 +10294,7 @@
           </Table>
         </TableStruct>
       </SupplProvisionAppdxTable>
-      <SupplProvisionAppdxTable Num="2">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第二</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -15840,7 +15840,7 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <SupplProvisionAppdxTable Num="6">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第六</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -15887,7 +15887,7 @@
           </Table>
         </TableStruct>
       </SupplProvisionAppdxTable>
-      <SupplProvisionAppdxTable Num="7">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第七</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -16054,7 +16054,7 @@
           </Table>
         </TableStruct>
       </SupplProvisionAppdxTable>
-      <SupplProvisionAppdxTable Num="8">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第八</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -16189,7 +16189,7 @@
           </Table>
         </TableStruct>
       </SupplProvisionAppdxTable>
-      <SupplProvisionAppdxTable Num="9">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第九</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -19523,7 +19523,7 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <SupplProvisionAppdxTable Num="1">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第一</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -19790,7 +19790,7 @@
           </Remarks>
         </TableStruct>
       </SupplProvisionAppdxTable>
-      <SupplProvisionAppdxTable Num="2">
+      <SupplProvisionAppdxTable>
         <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第二</SupplProvisionAppdxTableTitle>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -30458,7 +30458,60 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和六年六月一二日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和七年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからチまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">附則第二十四条、第二十五条、第二十八条、第三十条及び第四十四条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="45">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条第四号から第六号までに掲げる規定については、当該規定。以下この条において同じ。）の施行前にした行為及び附則第十三条第一項の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第四十三条第一項関係）</RelatedArticleNum>
       <TableStruct>
