@@ -452,7 +452,12 @@
           <Item Num="21">
             <ItemTitle>二十一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical"/>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">措置法第四十四条の五第一項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">同項に規定する特別償却限度額</Sentence>
+              </Column>
             </ItemSentence>
           </Item>
           <Item Num="22">
@@ -3465,7 +3470,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和六年四月一二日財務省令第三八号" Extract="true">
+    <SupplProvision AmendLawNum="令和六年四月一二日財務省令第三八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3531,6 +3536,12 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">新規則第二条第十四号の規定及び新規則別記様式（記載要領第四号の表中小企業事業再編投資損失準備金の項に係る部分に限る。）による適用額明細書は、法人の前条第一号に定める日以後に終了する事業年度に係る法人税の申告について適用し、法人の同日前に終了した事業年度に係る法人税の申告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新規則第二条第二十一号の規定及び新規則別記様式（記載要領第四号の表生産方式革新事業活動用資産等の特別償却の項に係る部分に限る。）による適用額明細書は、法人の前条第二号に定める日以後に終了する事業年度に係る法人税の申告について適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
@@ -3616,7 +3627,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000073130.pdf"/>
+          <Fig src="./pict/2FH00000073275.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
