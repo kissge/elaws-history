@@ -129,7 +129,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船舶安全法（昭和八年法律第十一号）第二条第一項の規定により漁船以外の小型船舶に関し施設しなければならない事項及びその標準については、他の国土交通省令の規定（船舶設備規程（昭和九年逓信省令第六号）第三百十一条の二十一の二及び船舶安全法施行規則（昭和三十八年運輸省令第四十一号）第二章の三の規定を除く。）にかかわらず、この省令の定めるところによる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船舶安全法（昭和八年法律第十一号）第二条第一項の規定により漁船以外の小型船舶に関し施設しなければならない事項及びその標準については、他の国土交通省令の規定（船舶設備規程（昭和九年逓信省令第六号）第三百十一条の二十一の二並びに船舶安全法施行規則（昭和三十八年運輸省令第四十一号）第二章の三及び第二章の六の規定を除く。）にかかわらず、この省令の定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1614,8 +1614,10 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前号に掲げる数の鉄片（一個の質量が七・五キログラムのもの）を淡水中で支えた状態における当該小型船舶用救命浮器の浮力（単位　ニュートン）を八百三十五で除して得た最大整数又は床の面積（単位　平方センチメートル）を三千七百二十で除して得た最大整数のうちいずれか小さい数</Sentence>
-              </ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる数の鉄片（一個の質量が七・五キログラムのもの）を淡水中で支えた状態における当該小型船舶用救命浮器の浮力（単位　ニュートン）を八百三十五で除して得た最大整数又は床の面積（単位　平方センチメートル）を三千七百二十で除して得た最大整数のうちいずれか小さい数</Sentence>
+                  </Column>
+                </ItemSentence>
               </Item>
             </Paragraph>
           </Article>
@@ -3088,13 +3090,17 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">椅子席の収容数は、その正面幅（単位　メートル）を〇・四五（旅客船以外の小型船舶、二時間限定沿海小型船舶及び平水区域を航行区域とする小型船舶にあつては、〇・四〇）で除して得た最大整数に等しいものとする。</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">椅子席の収容数は、その正面幅（単位　メートル）を〇・四五（旅客船以外の小型船舶、二時間限定沿海小型船舶及び平水区域を航行区域とする小型船舶にあつては、〇・四〇）で除して得た最大整数に等しいものとする。</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">立席の収容数は、その面積（単位　平方メートル）を〇・三〇で除して得た最大整数に等しいものとする。</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">立席の収容数は、その面積（単位　平方メートル）を〇・三〇で除して得た最大整数に等しいものとする。</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4658,7 +4664,9 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">船内に淡水を注入して、淡水中で二十四時間以上支えることができる鉄片の質量（単位　キログラム）を七・五で除して得た最大整数</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">船内に淡水を注入して、淡水中で二十四時間以上支えることができる鉄片の質量（単位　キログラム）を七・五で除して得た最大整数</Sentence>
+                </Column>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -5910,6 +5918,23 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月二八日国土交通省令第七一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年七月一日（次項において「施行日」という。）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">施行日前に建造され、又は建造に着手された船舶であって同日以後主要な変更又は改造を行うものについては、第一条の規定による改正後の船舶安全法施行規則及び第三条の規定による小型船舶安全規則の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
