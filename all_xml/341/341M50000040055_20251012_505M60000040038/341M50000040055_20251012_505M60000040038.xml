@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="055" Year="41" PromulgateMonth="09" PromulgateDay="28">
-  <LawNum>昭和四十一年大蔵省令第五十五号</LawNum>
-  <LawBody>
-    <LawTitle Kana="かんぜいほうしこうきそく" Abbrev="" AbbrevKana="">関税法施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="055" Year="41" PromulgateMonth="09" PromulgateDay="28"><LawNum>昭和四十一年大蔵省令第五十五号</LawNum><LawBody><LawTitle Kana="かんぜいほうせこうきそく" Abbrev="" AbbrevKana="">関税法施行規則</LawTitle>
     <EnactStatement>関税法施行令第九十三条の規定に基づき、関税法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -301,6 +298,61 @@
             <Sentence Function="main" Num="1" WritingMode="vertical">令第四条の二第四項第二号（特例申告書の記載事項等）に規定する財務省令で定める加工又は製造は、物品の該当する関税定率法（明治四十三年法律第五十四号）別表の項が当該物品のすべての原料又は材料（当該物品を生産した国又は地域が原産地とされる物品を除く。）の該当する同表の項と異なることとなる加工又は製造（税関長が指定する加工又は製造を含む。）とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、輸送又は保存のための乾燥、冷凍、塩水漬けその他これらに類する操作、単なる切断、選別、瓶、箱その他これらに類する包装容器に詰めること、改装、仕分け、製品又は包装にマークを付け又はラベルその他の表示を張り付け若しくは添付すること、非原産品（一の国又は地域において生産された前条各号に掲げる物品及びこの条に規定する加工又は製造がされた物品以外の物品）の単なる混合、単なる部分品の組立て及びセットにすること並びにこれらからのみ成る操作及び露光していない平面状写真フィルムを巻くことを除く。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_7_2">
+        <ArticleCaption>（特例申告に係る担保の金額）</ArticleCaption>
+        <ArticleTitle>第一条の七の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第七条の八第一項（担保の提供）に規定する財務省令で定める金額は、次の各号に掲げる場合の区分に応じ当該各号に定める金額とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">特例輸入者に対して担保の提供を命ずる場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる額のいずれか多い額を限度として、税関長が必要と認める金額</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">担保の提供を命ずることとなつた日の属する月の翌月から一年間において輸入しようとする貨物に課されるべき関税、内国消費税及び地方消費税（以下この号及び次号において「関税等」という。）で特例申告により納付する見込みの関税等の額の合計額が最も多い月の当該合計額</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">担保の提供を命ずることとなつた日の属する年の前年において輸入した貨物について、特例申告により納付した又は納付すべきことが確定した関税等の額の合計額が最も多い月の当該合計額</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">特例委託輸入者に対して担保の提供を命ずる場合（次号に掲げる場合を除く。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">輸入申告に係る貨物の価格（令第五十九条第一項第一号の二（輸入申告の手続）に規定する価格をいう。）に当該価格に百分の十の割合を乗じて計算した金額を加算した額を関税等の課税標準として計算した場合に課されるべき関税等の金額</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">特例委託輸入者に対して担保の提供を命ずる場合（継続して貨物を輸入することを予定している特例委託輸入者から、輸入申告を行おうとする税関官署の長に対し、あらかじめ担保の提供を行いたい旨の申出があつた場合に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第一号イ又はロに掲げる合計額のいずれか多い額に二を乗じて計算した金額を限度として、税関長が必要と認める金額</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="1_8">
@@ -4657,7 +4709,16 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和六年六月二八日財務省令第四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条の二関係）</RelatedArticleNum>
       <TableStruct>
@@ -4903,7 +4964,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第二条の二、第二条の六及び第二条の二十四関係）</RelatedArticleNum>
       <TableStruct>
@@ -4951,7 +5012,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第二条の二関係）</RelatedArticleNum>
       <TableStruct>
@@ -5091,7 +5152,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxFormat Num="1">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5099,7 +5160,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -5107,7 +5168,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第三号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
