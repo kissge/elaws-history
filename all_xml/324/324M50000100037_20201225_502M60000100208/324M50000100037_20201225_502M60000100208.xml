@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="24" PromulgateMonth="10" PromulgateDay="19" LawType="MinisterialOrdinance" Num="037">
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="037" Year="24" PromulgateMonth="10" PromulgateDay="19">
   <LawNum>昭和二十四年厚生省令第三十七号</LawNum>
   <LawBody>
     <LawTitle Kana="したいかいぼうほぞんほうしこうきそく" Abbrev="" AbbrevKana="">死体解剖保存法施行規則</LawTitle>
@@ -280,7 +280,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision Extract="true" AmendLawNum="令和二年一二月二五日厚生労働省令第二〇八号">
+    <SupplProvision AmendLawNum="令和二年一二月二五日厚生労働省令第二〇八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -288,7 +288,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この省令は、公布の日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -298,18 +298,18 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxFormat Num="1">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第一号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -317,7 +317,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -325,7 +325,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第三号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -333,7 +333,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="4">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第四号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -341,7 +341,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="5">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第五号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -349,7 +349,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="5_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第五号の二書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -357,7 +357,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="6">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第六号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -365,7 +365,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="7">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第七号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -373,7 +373,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="8">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第八号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>

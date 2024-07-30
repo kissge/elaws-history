@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="051" Year="29" PromulgateMonth="03" PromulgateDay="31">
   <LawNum>昭和二十九年政令第五十一号</LawNum>
   <LawBody>
@@ -962,8 +962,8 @@
               </TableColumn>
               <TableColumn>
                 <Sentence>一　揮発油税及び地方揮発油税（次号及び第一号の三に掲げる揮発油税及び地方揮発油税を除く。）</Sentence>
-                <Sentence>一の二　租税特別措置法第八十八条の八第一項の規定の適用を受ける揮発油税及び地方揮発油税</Sentence>
-                <Sentence>一の三　租税特別措置法第八十九条第七項の規定及び同条第十一項において読み替えて準用する地方揮発油税法第九条第一項の規定又は租税特別措置法第八十九条第十八項の規定による揮発油税及び地方揮発油税</Sentence>
+                <Sentence Num="2">一の二　租税特別措置法第八十八条の八第一項の規定の適用を受ける揮発油税及び地方揮発油税</Sentence>
+                <Sentence Num="3">一の三　租税特別措置法第八十九条第七項の規定及び同条第十一項において読み替えて準用する地方揮発油税法第九条第一項の規定又は租税特別措置法第八十九条第十八項の規定による揮発油税及び地方揮発油税</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -3484,48 +3484,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一三三号" Extract="true" Type="Amend">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1">この政令は、平成二十八年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:5">
-            <ItemTitle>一～五</ItemTitle>
-            <ItemSentence>
-              <Sentence>略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="6">
-            <ItemTitle>六</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence>第八条並びに附則第十五条並びに第十六条第三項及び第四項の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence>平成三十三年二月一日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="15">
-        <ArticleCaption>（国税収納金整理資金に関する法律施行令の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>附則第一条第六号に掲げる規定の施行の日から同条第七号に掲げる規定の施行の日の前日までの間における第八条の規定による改正後の国税収納金整理資金に関する法律施行令附則第二十一項の規定の適用については、同項中「又は第十三項の規定」とあるのは、「の規定」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年五月二五日政令第二二六号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年五月二五日政令第二二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3538,20 +3497,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年一一月二八日政令第三六〇号" Extract="true" Type="Amend">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>この政令は、公布の日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一〇六号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一〇六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3564,7 +3510,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一一〇号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一一〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3577,7 +3523,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一一四号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一一四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3627,10 +3573,10 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="6">
+                <TableColumn BorderBottom="none" rowspan="3">
                   <Sentence>平成三十年十月一日から令和二年九月三十日まで</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
+                <TableColumn BorderBottom="none">
                   <Sentence>附則第十四項</Sentence>
                 </TableColumn>
                 <TableColumn>
@@ -3641,6 +3587,9 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の百八</Sentence>
                 </TableColumn>
@@ -3649,7 +3598,7 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="4">
+                <TableColumn BorderBottom="none">
                   <Sentence>附則第十六項</Sentence>
                 </TableColumn>
                 <TableColumn>
@@ -3660,6 +3609,12 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の九百四十六</Sentence>
                 </TableColumn>
@@ -3668,6 +3623,12 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の百八</Sentence>
                 </TableColumn>
@@ -3676,6 +3637,12 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の五十四</Sentence>
                 </TableColumn>
@@ -3684,10 +3651,10 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="6">
+                <TableColumn BorderBottom="none" rowspan="3">
                   <Sentence>令和二年十月一日から令和三年九月三十日まで</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
+                <TableColumn BorderBottom="none">
                   <Sentence>附則第十四項</Sentence>
                 </TableColumn>
                 <TableColumn>
@@ -3698,6 +3665,9 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の百八</Sentence>
                 </TableColumn>
@@ -3706,7 +3676,7 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="4">
+                <TableColumn BorderBottom="none">
                   <Sentence>附則第十六項</Sentence>
                 </TableColumn>
                 <TableColumn>
@@ -3717,6 +3687,12 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の九百四十六</Sentence>
                 </TableColumn>
@@ -3725,6 +3701,12 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の百八</Sentence>
                 </TableColumn>
@@ -3733,6 +3715,12 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
                 <TableColumn>
                   <Sentence>千分の五十四</Sentence>
                 </TableColumn>
@@ -3780,115 +3768,121 @@
           <TableStruct>
             <Table>
               <TableRow>
-                <TableColumn Align="center" Valign="top">
+                <TableColumn>
                   <Sentence>第一欄</Sentence>
                 </TableColumn>
-                <TableColumn Align="center" Valign="top">
+                <TableColumn>
                   <Sentence>第二欄</Sentence>
                 </TableColumn>
-                <TableColumn Align="center" Valign="top">
+                <TableColumn>
                   <Sentence>第三欄</Sentence>
                 </TableColumn>
-                <TableColumn Align="center" Valign="top">
+                <TableColumn>
                   <Sentence>第四欄</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top" rowspan="3">
+                <TableColumn rowspan="3">
                   <Sentence>令和元年度から令和三年度まで</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>第四条の二第六項</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百十六</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の三百四十八</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top" rowspan="2">
+                <TableColumn rowspan="2">
                   <Sentence>附則第三項の表第四条の二第六項の項</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百十六</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の三百四十八</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百九十</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百二十二</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top" rowspan="3">
+                <TableColumn rowspan="3">
                   <Sentence>令和四年度から令和十五年度まで</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>第四条の二第六項</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百十六</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の三百五十七</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top" rowspan="2">
+                <TableColumn rowspan="2">
                   <Sentence>附則第三項の表第四条の二第六項の項</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百十六</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の三百五十七</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百九十</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百三十一</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top" rowspan="3">
+                <TableColumn BorderBottom="none">
                   <Sentence>令和十六年度</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>第四条の二第六項</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百十六</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百一</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top" rowspan="2">
+                <TableColumn BorderBottom="none" BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn rowspan="2">
                   <Sentence>附則第三項の表第四条の二第六項の項</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百十六</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百一</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn Valign="top">
+                <TableColumn BorderTop="none">
+                  <Sentence Num="1"/>
+                </TableColumn>
+                <TableColumn>
                   <Sentence>千分の四百九十</Sentence>
                 </TableColumn>
-                <TableColumn Valign="top">
+                <TableColumn>
                   <Sentence>千分の四百七十五</Sentence>
                 </TableColumn>
               </TableRow>
@@ -4090,7 +4084,7 @@
             <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1:2">
-            <ItemTitle>一・二</ItemTitle>
+            <ItemTitle>一及び二</ItemTitle>
             <ItemSentence>
               <Sentence>略</Sentence>
             </ItemSentence>

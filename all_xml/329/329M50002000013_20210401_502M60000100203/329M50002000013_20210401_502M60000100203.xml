@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="013" Year="29" PromulgateMonth="06" PromulgateDay="19">
   <LawNum>昭和二十九年労働省令第十三号</LawNum>
   <LawBody>
     <LawTitle Kana="ねんしょうものろうどうきじゅんきそく" Abbrev="年少則" AbbrevKana="ね">年少者労働基準規則</LawTitle>
-    <Preamble>
-      <Paragraph Num="1">
-        <ParagraphNum/>
-        <ParagraphSentence>
-          <Sentence>女子年少者労働基準規則（昭和二十二年労働省令第八号）の全部を次のように改正する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-    </Preamble>
+    <EnactStatement>女子年少者労働基準規則（昭和二十二年労働省令第八号）の全部を次のように改正する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（児童の使用許可申請）</ArticleCaption>
@@ -84,71 +77,71 @@
             <Sentence Num="1" WritingMode="vertical">法第六十二条第一項の厚生労働省令で定める重量物を取り扱う業務は、次の表の上欄に掲げる年齢及び性の区分に応じ、それぞれ同表の下欄に掲げる重量以上の重量物を取り扱う業務とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table>
+            <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn colspan="2" rowspan="2">
-                  <Sentence>年齢及び性</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">年齢及び性</Sentence>
                 </TableColumn>
-                <TableColumn colspan="2">
-                  <Sentence>重量（単位キログラム）</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">重量（単位　キログラム）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>断続作業の場合</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">断続作業の場合</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>継続作業の場合</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence>満十六歳未満</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>女</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>十二</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>八</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">継続作業の場合</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>男</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">満十六歳未満</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>十五</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">女</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>十</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">十二</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence>満十六歳以上満十八歳未満</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>女</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>二十五</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>十五</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">八</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>男</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">男</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>三十</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">十五</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>二十</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">十</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">満十六歳以上満十八歳未満</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">女</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二十五</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">十五</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">男</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">三十</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二十</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -504,31 +497,31 @@
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令は、昭和二十九年七月一日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、昭和二十九年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="4">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令施行前に改正前の第十条の規定に基いてされた行政官庁の労働契約の解除は、改正後の第三条の規定に基いてされた労働契約の解除とみなす。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令施行前に改正前の第十条の規定に基いてされた行政官庁の労働契約の解除は、改正後の第三条の規定に基いてされた労働契約の解除とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="5">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令施行前に改正前の第十一条の規定による許可又は改正前の第十七条の規定による認定は、それぞれ、改正後の第五条の規定による許可又は改正後の第十二条の規定による認定とみなす。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令施行前に改正前の第十一条の規定による許可又は改正前の第十七条の規定による認定は、それぞれ、改正後の第五条の規定による許可又は改正後の第十二条の規定による認定とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="6">
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令施行前に改正前の第三条、第十一条又は第十七条の規定に基いてされた申請は、それぞれ、改正後の第一条、第五条又は第十二条の規定に基いてされた申請とみなす。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令施行前に改正前の第三条、第十一条又は第十七条の規定に基いてされた申請は、それぞれ、改正後の第一条、第五条又は第十二条の規定に基いてされた申請とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="7">
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>改正前の第十八条第二項の規定による証票は、改正後の第十三条第二項の規定による証票とみなす。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">改正前の第十八条第二項の規定による証票は、改正後の第十三条第二項の規定による証票とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -840,7 +833,7 @@
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この省令は、平成十七年四月一日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、平成十七年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -905,7 +898,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -914,7 +907,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -923,7 +916,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３号</AppdxStyleTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -932,7 +925,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
       <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
       <StyleStruct>

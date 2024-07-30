@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="041" Year="29" PromulgateMonth="08" PromulgateDay="09">
   <LawNum>平成二十九年内閣府令第四十一号</LawNum>
   <LawBody>
@@ -134,10 +134,10 @@
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>コンステレーション衛星リモートセンシング装置</Sentence>
+                <Sentence Num="1" WritingMode="vertical">コンステレーション衛星リモートセンシング装置</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>次条に掲げるセンサーの区分が同一であり、かつ、構造及び性能が類似のもので、一体的に運用する複数の衛星リモートセンシング装置をいう。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次条に掲げるセンサーの区分が同一であり、かつ、構造及び性能が類似のもので、一体的に運用する複数の衛星リモートセンシング装置をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -208,18 +208,18 @@
           <TableStruct>
             <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">区分</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">基準</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">一　生データ</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">イ　光学センサーにより記録されたものにあっては、対象物判別精度が二メートル以下であって、記録されてから五年以内のものであること。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">ロ　ＳＡＲセンサーにより記録されたものにあっては、対象物判別精度が三メートル以下であって、記録されてから五年以内のものであること。</Sentence>
                   <Sentence Num="3" WritingMode="vertical">ハ　ハイパースペクトルセンサーにより記録されたものにあっては、対象物判別精度が十メートル以下かつ検出できる波長帯が四十九を超え、かつ、記録されてから五年以内のものであること。</Sentence>
@@ -227,10 +227,10 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">二　標準データ</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">イ　光学センサーにより記録されたものにあっては、対象物判別精度が二十五センチメートル未満のものであること。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">ロ　ＳＡＲセンサーにより記録されたものにあっては、対象物判別精度が二十四センチメートル未満のものであること。</Sentence>
                   <Sentence Num="3" WritingMode="vertical">ハ　ハイパースペクトルセンサーにより記録されたものにあっては、対象物判別精度が五メートル以下であって、検出できる波長帯が四十九を超えるものであること。</Sentence>
@@ -514,18 +514,18 @@
           <TableStruct>
             <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">衛星リモートセンシング記録の区分</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">措置</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">一　生データ</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">イ　組織的安全管理措置</Sentence>
                   <Sentence Num="2" WritingMode="vertical">（一）　衛星リモートセンシング記録の安全管理に係る基本方針を定めていること。</Sentence>
                   <Sentence Num="3" WritingMode="vertical">（二）　衛星リモートセンシング記録を取り扱う者の責任及び権限並びに業務を明確にしていること。</Sentence>
@@ -548,10 +548,10 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">二　標準データ</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">イ　組織的安全管理措置</Sentence>
                   <Sentence Num="2" WritingMode="vertical">生データの項イと同じ。</Sentence>
                   <Sentence Num="3" WritingMode="vertical">ロ　人的安全管理措置</Sentence>
@@ -640,7 +640,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>法第七条第一項ただし書の内閣府令で定める軽微な変更は、次のいずれかに該当する場合とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第七条第一項ただし書の内閣府令で定める軽微な変更は、次のいずれかに該当する場合とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1100,74 +1100,74 @@
           <TableStruct>
             <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">衛星リモートセンシング記録の区分</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">衛星リモートセンシング記録の内容</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">一</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">光学センサーにより記録されたものであって、生データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">二</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">ＳＡＲセンサーにより記録されたものであって、生データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">三</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">ハイパースペクトルセンサーにより記録されたものであって、生データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">四</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">熱赤外センサーにより記録されたものであって、生データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">五</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">光学センサーにより記録されたものであって、標準データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">六</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">ＳＡＲセンサーにより記録されたものであって、標準データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">七</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">ハイパースペクトルセンサーにより記録されたものであって、標準データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">八</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">熱赤外センサーにより記録されたものであって、標準データであるもの</Sentence>
                 </TableColumn>
               </TableRow>
@@ -1437,7 +1437,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>法第二十二条第一項ただし書の内閣府令で定める軽微な変更は、次のいずれかに該当する場合とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第二十二条第一項ただし書の内閣府令で定める軽微な変更は、次のいずれかに該当する場合とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1618,11 +1618,11 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この府令は、公布の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1631,7 +1631,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一の二</AppdxStyleTitle>
       <RelatedArticleNum>（第四条関係、第九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1640,7 +1640,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二</AppdxStyleTitle>
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1649,7 +1649,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三</AppdxStyleTitle>
       <RelatedArticleNum>（第九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1658,7 +1658,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四</AppdxStyleTitle>
       <RelatedArticleNum>（第九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1667,7 +1667,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五</AppdxStyleTitle>
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1676,7 +1676,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六</AppdxStyleTitle>
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1685,7 +1685,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七</AppdxStyleTitle>
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1694,7 +1694,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八</AppdxStyleTitle>
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1703,7 +1703,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九</AppdxStyleTitle>
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1712,7 +1712,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十</AppdxStyleTitle>
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1721,7 +1721,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十一</AppdxStyleTitle>
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1730,7 +1730,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十二</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1739,7 +1739,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十三</AppdxStyleTitle>
       <RelatedArticleNum>（第二十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1748,7 +1748,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十四</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1757,7 +1757,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十五</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1766,7 +1766,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十六</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1775,7 +1775,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十七</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1784,7 +1784,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十八</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -1793,7 +1793,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十九</AppdxStyleTitle>
       <RelatedArticleNum>（第三十二条関係）</RelatedArticleNum>
       <StyleStruct>

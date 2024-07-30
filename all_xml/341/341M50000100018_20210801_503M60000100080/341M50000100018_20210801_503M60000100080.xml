@@ -2,7 +2,7 @@
 <Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="018" Year="41" PromulgateMonth="07" PromulgateDay="01">
   <LawNum>昭和四十一年厚生省令第十八号</LawNum>
   <LawBody>
-    <LawTitle Kana="きゅうごしせつ、こうせいしせつ、じゅさんしせつおよびしゅくじょていきょうしせつのせつびおよびうんえいにかんするきじゅん" Abbrev="" AbbrevKana="">救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する基準</LawTitle>
+    <LawTitle Kana="きゅうごしせつこうせいしせつじゅさんしせつおよびしゅくじょていきょうしせつのせつびおよびうんえいにかんするきじゅん" Abbrev="" AbbrevKana="">救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する基準</LawTitle>
     <EnactStatement>生活保護法（昭和二十五年法律第百四十四号）第三十九条の規定に基づき、救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する最低基準を次のとおり定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -472,36 +472,56 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">洗面所</Sentence>
-                <Sentence Num="2" WritingMode="vertical">居室のある階ごとに設けること。</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">居室のある階ごとに設けること。</Sentence>
+                </ListSentence>
+              </List>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">便所</Sentence>
-                <Sentence Num="2" WritingMode="vertical">居室のある階ごとに男子用と女子用を別に設けること。</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">居室のある階ごとに男子用と女子用を別に設けること。</Sentence>
+                </ListSentence>
+              </List>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">医務室</Sentence>
-                <Sentence Num="2" WritingMode="vertical">入所者を診療するために必要な医薬品、衛生材料及び医療機械器具を備えるほか、必要に応じて臨床検査設備を設けること。</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">入所者を診療するために必要な医薬品、衛生材料及び医療機械器具を備えるほか、必要に応じて臨床検査設備を設けること。</Sentence>
+                </ListSentence>
+              </List>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">調理室</Sentence>
-                <Sentence Num="2" WritingMode="vertical">火気を使用する部分は、不燃材料を用いること。</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">火気を使用する部分は、不燃材料を用いること。</Sentence>
+                </ListSentence>
+              </List>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">介護職員室</Sentence>
-                <Sentence Num="2" WritingMode="vertical">居室のある階ごとに居室に近接して設けること。</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">居室のある階ごとに居室に近接して設けること。</Sentence>
+                </ListSentence>
+              </List>
             </Item>
           </Paragraph>
           <Paragraph Num="6">
@@ -1050,8 +1070,12 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">便所</Sentence>
-                <Sentence Num="2" WritingMode="vertical">男子用と女子用を別に設けること。</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">男子用と女子用を別に設けること。</Sentence>
+                </ListSentence>
+              </List>
             </Item>
           </Paragraph>
         </Article>
@@ -1219,7 +1243,7 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>

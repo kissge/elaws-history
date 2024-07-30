@@ -50,7 +50,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>独立行政法人家畜改良センター（以下「センター」という。）は、家畜改良増殖法（以下「法」という。）第四条第一項本文の検査（以下「定期検査」という。）及び同項第一号の検査（以下「センターの臨時検査」という。）を行うときは、次の各号のいずれかに該当する職員にこれらの検査を担当させなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">独立行政法人家畜改良センター（以下「センター」という。）は、家畜改良増殖法（以下「法」という。）第四条第一項本文の検査（以下「定期検査」という。）及び同項第一号の検査（以下「センターの臨時検査」という。）を行うときは、次の各号のいずれかに該当する職員にこれらの検査を担当させなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -245,8 +245,12 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">繁殖機能の障害</Sentence>
-                <Sentence Num="2" WritingMode="vertical">精巣炎、精巣機能減退、精巣い縮、潜在性精巣、陰のう炎、ぼつ起不全症、陰茎脱、陰茎湾曲症、亀頭包皮炎、包茎、精のうせん炎、前立せん炎、精巣及び副生殖器の発育不全及びしゆよう並びに陰茎及び包皮の裂傷</Sentence>
               </ItemSentence>
+              <List>
+                <ListSentence>
+                  <Sentence Num="1" WritingMode="vertical">精巣炎、精巣機能減退、精巣い縮、潜在性精巣、陰のう炎、ぼつ起不全症、陰茎脱、陰茎湾曲症、亀頭包皮炎、包茎、精のうせん炎、前立せん炎、精巣及び副生殖器の発育不全及びしゆよう並びに陰茎及び包皮の裂傷</Sentence>
+                </ListSentence>
+              </List>
             </Item>
           </Paragraph>
         </Article>
@@ -1226,96 +1230,96 @@
                 <TableStruct>
                   <Table WritingMode="vertical">
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                         <Sentence Num="1" WritingMode="vertical">科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="5">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
                         <Sentence Num="1" WritingMode="vertical">一般科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">畜産概論</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の栄養</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の飼養管理</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の育種</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">関係法規</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="5">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
                         <Sentence Num="1" WritingMode="vertical">専門科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">生殖器解剖</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">繁殖生理（神経・内分泌及び雌繁殖生理）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">精子生理（雄繁殖生理）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">種付けの理論（妊娠と分娩）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜人工授精及び家畜人工授精用精液の保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十七時間</Sentence>
                       </TableColumn>
                     </TableRow>
@@ -1330,58 +1334,58 @@
                 <TableStruct>
                   <Table WritingMode="vertical">
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">家畜の飼養管理</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の審査</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">生殖器解剖</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">発情鑑定</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">六時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">精液精子検査法</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">八時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜人工授精及び家畜人工授精用精液の保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四十五時間</Sentence>
                       </TableColumn>
                     </TableRow>
@@ -1402,128 +1406,128 @@
                 <TableStruct>
                   <Table WritingMode="vertical">
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                         <Sentence Num="1" WritingMode="vertical">科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="5">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
                         <Sentence Num="1" WritingMode="vertical">一般科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">畜産概論</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の栄養</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の飼養管理</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の育種</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">関係法規</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="9">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="9">
                         <Sentence Num="1" WritingMode="vertical">専門科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">生殖器解剖</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">繁殖生理（神経・内分泌及び雌繁殖生理）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">精子生理（雄繁殖生理）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">種付けの理論（妊娠と分娩）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜人工授精及び家畜人工授精用精液の保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体内受精卵移植概論</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">八時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">受精卵の生理及び形態</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十六時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体内受精卵の処理及び保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十六時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">受精卵の移植</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">八時間</Sentence>
                       </TableColumn>
                     </TableRow>
@@ -1538,74 +1542,74 @@
                 <TableStruct>
                   <Table WritingMode="vertical">
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">家畜の飼養管理</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の審査</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">生殖器解剖</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">発情鑑定</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">六時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">精液精子検査法</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">八時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜人工授精及び家畜人工授精用精液の保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四十五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体内受精卵の処理及び保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">五十時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">受精卵の移植</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">二十六時間</Sentence>
                       </TableColumn>
                     </TableRow>
@@ -1626,144 +1630,144 @@
                 <TableStruct>
                   <Table WritingMode="vertical">
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                         <Sentence Num="1" WritingMode="vertical">科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="5">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
                         <Sentence Num="1" WritingMode="vertical">一般科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">畜産概論</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の栄養</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の飼養管理</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の育種</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">関係法規</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="11">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="11">
                         <Sentence Num="1" WritingMode="vertical">専門科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">生殖器解剖</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">繁殖生理（神経・内分泌及び雌繁殖生理）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">精子生理（雄繁殖生理）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">種付けの理論（妊娠と分娩）</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜人工授精及び家畜人工授精用精液の保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体内受精卵移植概論</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">八時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">受精卵の生理及び形態</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十六時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体内受精卵の処理及び保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">十六時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体外受精卵移植概論</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">三時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体外受精卵の生産</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">受精卵の移植</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">八時間</Sentence>
                       </TableColumn>
                     </TableRow>
@@ -1778,82 +1782,82 @@
                 <TableStruct>
                   <Table WritingMode="vertical">
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">科目</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">家畜の飼養管理</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜の審査</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">七時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">生殖器解剖</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">発情鑑定</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">六時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">精液精子検査法</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">八時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">家畜人工授精及び家畜人工授精用精液の保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">四十五時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体内受精卵の処理及び保存</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">五十時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">体外受精卵の生産</Sentence>
                       </TableColumn>
-                      <TableColumn BorderRight="solid">
+                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">二十一時間</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">受精卵の移植</Sentence>
                       </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderRight="solid">
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                         <Sentence Num="1" WritingMode="vertical">二十六時間</Sentence>
                       </TableColumn>
                     </TableRow>
@@ -2976,7 +2980,7 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3706,10 +3710,10 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxNote Num="1">
+    <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記</AppdxNoteTitle>
     </AppdxNote>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3717,7 +3721,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3725,7 +3729,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3733,7 +3737,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3741,7 +3745,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3749,7 +3753,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3757,7 +3761,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3765,7 +3769,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3773,7 +3777,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3781,7 +3785,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3789,7 +3793,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十一号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3797,7 +3801,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十二号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3805,7 +3809,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十三号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3813,7 +3817,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十四号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3821,7 +3825,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十五号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3829,7 +3833,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十六号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3837,7 +3841,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十七号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3845,7 +3849,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十八号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3853,7 +3857,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十九号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3861,7 +3865,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="20">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3869,7 +3873,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十一号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3877,7 +3881,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十二号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3885,7 +3889,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="23">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十三号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3893,7 +3897,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="24">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十四号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3901,7 +3905,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="25">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十五号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3909,7 +3913,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="26">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十六号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3917,7 +3921,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="27">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十七号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3925,7 +3929,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="28">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十八号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3933,7 +3937,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="29">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二十九号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3941,7 +3945,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="30">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三十号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -3949,7 +3953,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="31">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三十一号</AppdxStyleTitle>
       <StyleStruct>
         <Style>

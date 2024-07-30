@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law AmendmentId="502M60000002022" AmendmentNum="令和二年内閣府令第二十二号" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="048" Year="18" PromulgateMonth="04" PromulgateDay="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="048" Year="18" PromulgateMonth="04" PromulgateDay="20">
   <LawNum>平成十八年内閣府令第四十八号</LawNum>
   <LawBody>
     <LawTitle Kana="とうしほうじんのかいけいかんさにかんするきそく" Abbrev="" AbbrevKana="">投資法人の会計監査に関する規則</LawTitle>
     <EnactStatement>投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）の規定に基づき、投資法人の監査報告書に関する規則（平成十二年総理府令第百三十五号）の全部を改正する内閣府令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
-      <TOCChapter Delete="false" Num="1">
+      <TOCChapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
         <ArticleRange>（第一条―第三条）</ArticleRange>
       </TOCChapter>
-      <TOCChapter Delete="false" Num="2">
+      <TOCChapter Num="2">
         <ChapterTitle>第二章　投資法人の監査</ChapterTitle>
         <ArticleRange>（第四条―第七条）</ArticleRange>
       </TOCChapter>
-      <TOCChapter Delete="false" Num="3">
+      <TOCChapter Num="3">
         <ChapterTitle>第三章　清算投資法人の監査</ChapterTitle>
         <ArticleRange>（第八条・第九条）</ArticleRange>
       </TOCChapter>
@@ -23,414 +23,414 @@
       </TOCSupplProvision>
     </TOC>
     <MainProvision>
-      <Chapter Delete="false" Hide="false" Num="1">
+      <Chapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
-        <Article Delete="false" Hide="false" Num="1">
+        <Article Num="1">
           <ArticleCaption>（目的）</ArticleCaption>
           <ArticleTitle>第一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">この府令は、投資信託及び投資法人に関する法律（以下「法」という。）の規定に基づき会計監査人が行う監査の内容その他必要な事項を定めることを目的とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この府令は、投資信託及び投資法人に関する法律（以下「法」という。）の規定に基づき会計監査人が行う監査の内容その他必要な事項を定めることを目的とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="2">
+        <Article Num="2">
           <ArticleCaption>（定義）</ArticleCaption>
           <ArticleTitle>第二条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">この府令において「投資法人」、「資産運用会社」、「資産保管会社」又は「一般事務受託者」とは、それぞれ法第二条に規定する投資法人、資産運用会社、資産保管会社又は一般事務受託者をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この府令において「投資法人」、「資産運用会社」、「資産保管会社」又は「一般事務受託者」とは、それぞれ法第二条に規定する投資法人、資産運用会社、資産保管会社又は一般事務受託者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
+          <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
             </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
+            <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">営業期間</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">営業期間</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">法第百二十九条第二項に規定する営業期間をいう。</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法第百二十九条第二項に規定する営業期間をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="2">
+            <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">計算関係書類</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">計算関係書類</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">各営業期間に係る計算書類（法第百二十九条第二項に規定する計算書類をいう。）、資産運用報告及び金銭の分配に係る計算書並びにこれらの附属明細書（資産運用報告及びその附属明細書については、会計に関する部分に限る。）をいう。</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">各営業期間に係る計算書類（法第百二十九条第二項に規定する計算書類をいう。）、資産運用報告及び金銭の分配に係る計算書並びにこれらの附属明細書（資産運用報告及びその附属明細書については、会計に関する部分に限る。）をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
+            <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">清算投資法人</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">清算投資法人</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">法第百五十条の三に規定する清算投資法人をいう。</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法第百五十条の三に規定する清算投資法人をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="4">
+            <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">財産目録等</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">財産目録等</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">法第百五十五条第一項に規定する財産目録等をいう。</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法第百五十五条第一項に規定する財産目録等をいう。</Sentence>
                 </Column>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">決算報告</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">法第百五十九条第一項に規定する決算報告をいう。</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-        </Article>
-        <Article Delete="false" Hide="false" Num="3">
-          <ArticleCaption>（意思疎通）</ArticleCaption>
-          <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">会計監査人は、その職務を適切に遂行するため、次に掲げる者との意思疎通を図り、情報の収集及び監査の環境の整備に努めなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、執行役員、監督役員若しくは役員会又は清算執行人、清算監督人若しくは清算人会は、会計監査人の職務の執行のための必要な体制の整備に留意しなければならない。</Sentence>
-            </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">当該投資法人の執行役員及び監督役員又は清算執行人及び清算監督人</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">当該投資法人の一般事務受託者、資産運用会社及び資産保管会社</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">その他会計監査人が適切に職務を遂行するに当たり意思疎通を図るべき者</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定は、会計監査人が公正不偏の態度及び独立の立場を保持することができなくなるおそれのある関係の創設及び維持を認めるものと解してはならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">会計監査人は、その職務の遂行に当たり、必要に応じ、当該投資法人の親法人（法第八十一条第一項に規定する親法人をいう。）及び子法人（法第七十七条の二第一項に規定する子法人をいう。）の会計監査人との意思疎通及び情報の交換を図るよう努めなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-      </Chapter>
-      <Chapter Delete="false" Hide="false" Num="2">
-        <ChapterTitle>第二章　投資法人の監査</ChapterTitle>
-        <Article Delete="false" Hide="false" Num="4">
-          <ArticleCaption>（通則）</ArticleCaption>
-          <ArticleTitle>第四条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十条の規定による監査については、この章の定めるところによる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項に規定する監査には、公認会計士法（昭和二十三年法律第百三号）第二条第一項に規定する監査のほか、計算関係書類に表示された情報と計算関係書類に表示すべき情報との合致の程度を確かめ、かつ、その結果を利害関係者に伝達するための手続を含むものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Delete="false" Hide="false" Num="5">
-          <ArticleCaption>（計算関係書類に係る会計監査報告の内容）</ArticleCaption>
-          <ArticleTitle>第五条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">会計監査人は、計算関係書類を受領したときは、次に掲げる事項を内容とする会計監査報告を作成しなければならない。</Sentence>
-            </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">会計監査人の監査の方法及びその内容</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">計算関係書類が当該投資法人の財産及び損益の状況を全ての重要な点において適正に表示しているかどうかについての意見</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">継続企業の前提（投資法人の計算に関する規則（平成十八年内閣府令第四十七号）第六十条に規定する継続企業の前提をいう。）に関する注記に係る事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>資産運用報告及びその附属明細書（会計に関する部分を除く。）の内容と計算関係書類の内容又は会計監査人が監査の過程で得た知識との間の重要な相違等について、報告すべき事項の有無及び報告すべき事項があるときはその内容</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">追記情報</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="7">
-              <ItemTitle>七</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">会計監査報告を作成した日</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項第二号に規定する意見とは、次に掲げる意見の区分に応じ、当該各号に定める事項とする。</Sentence>
-            </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">無限定適正意見</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">決算報告</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">監査の対象となった計算関係書類が法令及び規約に従い、当該計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法第百五十九条第一項に規定する決算報告をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">除外事項を付した限定付適正意見</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">監査の対象となった計算関係書類が除外事項を除き法令及び規約に従い、当該計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨、除外事項並びに除外事項を付した限定付適正意見とした理由</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">不適正意見</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">監査の対象となった計算関係書類が不適正である旨及びその理由</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>第一項第六号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付す必要がある事項又は計算関係書類の内容のうち強調する必要がある事項とする。</Sentence>
-            </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">会計方針の変更</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">重要な偶発事象</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">重要な後発事象</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Hide="false" Num="4" OldStyle="false">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">資産運用報告及びその附属明細書に係る会計監査報告については、会計に関する部分として監査の対象にした事項を示して作成しなければならない。</Sentence>
-            </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="6">
-          <ArticleCaption>（計算関係書類に係る会計監査報告の通知期限）</ArticleCaption>
-          <ArticleTitle>第六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Article Num="3">
+          <ArticleCaption>（意思疎通）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">会計監査人は、次に掲げる日のいずれか遅い日までに、特定執行役員に対し、会計監査報告の内容を通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">会計監査人は、その職務を適切に遂行するため、次に掲げる者との意思疎通を図り、情報の収集及び監査の環境の整備に努めなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、執行役員、監督役員若しくは役員会又は清算執行人、清算監督人若しくは清算人会は、会計監査人の職務の執行のための必要な体制の整備に留意しなければならない。</Sentence>
             </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
+            <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">計算関係書類（附属明細書を除く。）の全部を受領した日から四週間を経過した日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該投資法人の執行役員及び監督役員又は清算執行人及び清算監督人</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="2">
+            <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">計算関係書類のうち附属明細書を受領した日から一週間を経過した日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該投資法人の一般事務受託者、資産運用会社及び資産保管会社</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
+            <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">特定執行役員及び会計監査人の間で合意により定めた日があるときは、その日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">その他会計監査人が適切に職務を遂行するに当たり意思疎通を図るべき者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
+          <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">計算関係書類については、特定執行役員が前項の規定による会計監査報告の内容の通知を受けた日に、会計監査人の監査を受けたものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、会計監査人が公正不偏の態度及び独立の立場を保持することができなくなるおそれのある関係の創設及び維持を認めるものと解してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="3" OldStyle="false">
+          <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前二項に規定する「特定執行役員」とは、次の各号に掲げる場合の区分に応じ、当該各号に定める者をいう（次条において同じ。）。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">会計監査人は、その職務の遂行に当たり、必要に応じ、当該投資法人の親法人（法第八十一条第一項に規定する親法人をいう。）及び子法人（法第七十七条の二第一項に規定する子法人をいう。）の会計監査人との意思疎通及び情報の交換を図るよう努めなければならない。</Sentence>
             </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　投資法人の監査</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（通則）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第百三十条の規定による監査については、この章の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する監査には、公認会計士法（昭和二十三年法律第百三号）第二条第一項に規定する監査のほか、計算関係書類に表示された情報と計算関係書類に表示すべき情報との合致の程度を確かめ、かつ、その結果を利害関係者に伝達するための手続を含むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（計算関係書類に係る会計監査報告の内容）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">会計監査人は、計算関係書類を受領したときは、次に掲げる事項を内容とする会計監査報告を作成しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第一項の規定による通知を受ける者を定めた場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会計監査人の監査の方法及びその内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計算関係書類が当該投資法人の財産及び損益の状況を全ての重要な点において適正に表示しているかどうかについての意見</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">継続企業の前提（投資法人の計算に関する規則（平成十八年内閣府令第四十七号）第六十条に規定する継続企業の前提をいう。）に関する注記に係る事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">資産運用報告及びその附属明細書（会計に関する部分を除く。）の内容と計算関係書類の内容又は会計監査人が監査の過程で得た知識との間の重要な相違等について、報告すべき事項の有無及び報告すべき事項があるときはその内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">追記情報</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">会計監査報告を作成した日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第二号に規定する意見とは、次に掲げる意見の区分に応じ、当該各号に定める事項とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">無限定適正意見</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">当該通知を受ける者として定められた執行役員</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">監査の対象となった計算関係書類が法令及び規約に従い、当該計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="2">
+            <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">除外事項を付した限定付適正意見</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">監査を受けるべき計算関係書類の作成に関する職務を行った執行役員</Sentence>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">監査の対象となった計算関係書類が除外事項を除き法令及び規約に従い、当該計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨、除外事項並びに除外事項を付した限定付適正意見とした理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">不適正意見</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">監査の対象となった計算関係書類が不適正である旨及びその理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第六号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付す必要がある事項又は計算関係書類の内容のうち強調する必要がある事項とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">会計方針の変更</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">重要な偶発事象</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">重要な後発事象</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">資産運用報告及びその附属明細書に係る会計監査報告については、会計に関する部分として監査の対象にした事項を示して作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（計算関係書類に係る会計監査報告の通知期限）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">会計監査人は、次に掲げる日のいずれか遅い日までに、特定執行役員に対し、会計監査報告の内容を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計算関係書類（附属明細書を除く。）の全部を受領した日から四週間を経過した日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計算関係書類のうち附属明細書を受領した日から一週間を経過した日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定執行役員及び会計監査人の間で合意により定めた日があるときは、その日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">計算関係書類については、特定執行役員が前項の規定による会計監査報告の内容の通知を受けた日に、会計監査人の監査を受けたものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に規定する「特定執行役員」とは、次の各号に掲げる場合の区分に応じ、当該各号に定める者をいう（次条において同じ。）。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定による通知を受ける者を定めた場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該通知を受ける者として定められた執行役員</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる場合以外の場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">監査を受けるべき計算関係書類の作成に関する職務を行った執行役員</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="7">
+        <Article Num="7">
           <ArticleCaption>（会計監査人の職務の遂行に関する事項）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">会計監査人は、前条第一項の規定による特定執行役員に対する会計監査報告の内容の通知に際して、当該会計監査人についての次に掲げる事項（当該事項に係る定めがない場合にあっては、当該事項を定めていない旨）を通知しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、すべての執行役員が既に当該事項を知っている場合は、この限りでない。</Sentence>
             </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
+            <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">独立性に関する事項その他監査に関する法令及び規程の遵守に関する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">独立性に関する事項その他監査に関する法令及び規程の遵守に関する事項</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="2">
+            <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">監査、監査に準ずる業務及びこれらに関する業務の契約の受任及び継続の方針に関する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">監査、監査に準ずる業務及びこれらに関する業務の契約の受任及び継続の方針に関する事項</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
+            <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">会計監査人の職務の遂行が適正に行われることを確保するための体制に関するその他の事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会計監査人の職務の遂行が適正に行われることを確保するための体制に関するその他の事項</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
       </Chapter>
-      <Chapter Delete="false" Hide="false" Num="3">
+      <Chapter Num="3">
         <ChapterTitle>第三章　清算投資法人の監査</ChapterTitle>
-        <Article Delete="false" Hide="false" Num="8">
+        <Article Num="8">
           <ArticleCaption>（通則）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百五十五条第二項及び第百五十九条第二項の規定による監査については、この章の定めるところによる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百五十五条第二項及び第百五十九条第二項の規定による監査については、この章の定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
+          <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項に規定する監査には、公認会計士法第二条第一項に規定する監査のほか、財産目録等又は決算報告に表示された情報とこれらに表示すべき情報との合致の程度を確かめ、かつ、その結果を利害関係者に伝達するための手続を含むものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する監査には、公認会計士法第二条第一項に規定する監査のほか、財産目録等又は決算報告に表示された情報とこれらに表示すべき情報との合致の程度を確かめ、かつ、その結果を利害関係者に伝達するための手続を含むものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="9">
+        <Article Num="9">
           <ArticleCaption>（財産目録等又は決算報告に係る会計監査報告の内容）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Hide="false" Num="1" OldStyle="false">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">清算投資法人の会計監査人は、財産目録等又は決算報告を受領したときは、次に掲げる事項を内容とする会計監査報告を作成しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">清算投資法人の会計監査人は、財産目録等又は決算報告を受領したときは、次に掲げる事項を内容とする会計監査報告を作成しなければならない。</Sentence>
             </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
+            <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">会計監査人の監査の方法及びその内容</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会計監査人の監査の方法及びその内容</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="2">
+            <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">財産目録等又は決算報告が法令及び規約に従い、当該清算投資法人の財産又は決算の状況をすべての重要な点において正しく示しているかどうかについての意見</Sentence>
+                <Sentence Num="1" WritingMode="vertical">財産目録等又は決算報告が法令及び規約に従い、当該清算投資法人の財産又は決算の状況をすべての重要な点において正しく示しているかどうかについての意見</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
+            <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
+                <Sentence Num="1" WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="4">
+            <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">会計監査報告を作成した日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会計監査報告を作成した日</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="2" OldStyle="false">
+          <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第五条第二項、第六条（第一項第二号を除く。）及び第七条の規定は、前項の会計監査報告について準用する。</Sentence>
@@ -442,91 +442,91 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この府令は、会社法（平成十七年法律第八十六号）の施行の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この府令は、会社法（平成十七年法律第八十六号）の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一九年八月九日内閣府令第六一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Delete="false" Hide="false" Num="1">
+      <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この府令は、平成十九年九月三十日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、平成十九年九月三十日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="8">
+      <Article Num="8">
         <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二一年四月二〇日内閣府令第二七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Delete="false" Hide="false" Num="1">
+      <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二三年七月八日内閣府令第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Delete="false" Hide="false" Num="1">
+      <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="8">
+      <Article Num="8">
         <ArticleCaption>（投資法人の会計監査に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第七条の規定による改正後の投資法人の会計監査に関する規則の規定は、平成二十三年四月一日以後に開始する営業期間に係る会計参与報告について適用し、同日前に開始する営業期間に係る会計参与報告については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第七条の規定による改正後の投資法人の会計監査に関する規則の規定は、平成二十三年四月一日以後に開始する営業期間に係る会計参与報告について適用し、同日前に開始する営業期間に係る会計参与報告については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月三〇日内閣府令第二二号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年三月三〇日内閣府令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Delete="false" Hide="false" Num="1">
+      <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この府令は、令和二年三月三十一日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、令和二年三月三十一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="7">
+      <Article Num="7">
         <ArticleCaption>（投資法人の会計監査に関する規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第六条の規定による改正後の投資法人の会計監査に関する規則の規定は、施行日以後に終了する営業期間に係る会計監査報告について適用し、施行日前に終了する営業期間に係る会計監査報告については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第六条の規定による改正後の投資法人の会計監査に関する規則の規定は、施行日以後に終了する営業期間に係る会計監査報告について適用し、施行日前に終了する営業期間に係る会計監査報告については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -539,7 +539,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この府令は、公布の日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -549,7 +549,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第二条の規定による改正後の投資法人の会計監査に関する規則第五条第一項及び第三項の規定は、令和四年三月三十一日以後に終了する営業期間に係る計算関係書類についての会計監査報告について適用し、同日前に終了する営業期間に係る計算関係書類についての会計監査報告については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の投資法人の会計監査に関する規則第五条第一項及び第三項の規定は、令和四年三月三十一日以後に終了する営業期間に係る計算関係書類についての会計監査報告について適用し、同日前に終了する営業期間に係る計算関係書類についての会計監査報告については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

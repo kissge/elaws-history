@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="062" Year="26" PromulgateMonth="08" PromulgateDay="29">
   <LawNum>昭和二十六年農林省令第六十二号</LawNum>
   <LawBody>
@@ -69,49 +69,49 @@
           <TableStruct>
             <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">漁業の種類</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">火船の隻数</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">総電気設備容量</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">火船一隻当たり</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">一統当たり</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">敷網漁業</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">三隻</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">〇・五キロワット</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">一・五キロワット</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">まき網漁業</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">四隻</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">一・〇キロワット</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">三・〇キロワット</Sentence>
                 </TableColumn>
               </TableRow>
@@ -221,7 +221,7 @@
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -462,24 +462,24 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="0">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">期間</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">海域</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderRight="solid">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一　毎年十二月一日から翌年三月三十一日まで</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">１　次のイ、ロ、ハ、ニの四点を順次に結んだ三線と陸岸とによつて囲まれた海域（兵庫県淡路島の周辺最大高潮時海岸線から二千メートルの距離の線と陸岸とによつて囲まれた海域を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　兵庫県淡路市浦川河口中央</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　イの点から磁針方位九十度の線と、兵庫県神戸市鉄拐山頂上と和歌山県和歌山市地ノ島東端とを結んだ線との交点</Sentence>
@@ -488,10 +488,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderRight="solid">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">２　次のイ、ロ、ハ、ニの四点を順次に結んだ三線と陸岸とによつて囲まれた海域（兵庫県淡路島の周辺最大高潮時海岸線から千メートルの距離の線と陸岸とによつて囲まれた海域及び同県南あわじ市沼島の周辺最大高潮時海岸線から二千メートルの距離の線と陸岸とによつて囲まれた海域を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　兵庫県洲本市高崎突端</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　兵庫県神戸市鉄拐山頂上とイの点とを結んだ線の延長線と、和歌山県海南市荒崎突端と徳島県徳島市眉山頂上とを結んだ線との交点</Sentence>
@@ -500,10 +500,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderRight="solid">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">３　次のイ、ロ、ハの三点を順次に結んだ二線、ニ、ホ、ヘ、ト、チ、リの六点を順次に結んだ五線と陸岸とによつて囲まれた海域（兵庫県淡路島の周辺最大高潮時海岸線から二千メートルの距離の線と陸岸とによつて囲まれた海域及び同県姫路市家島諸島の周辺最大高潮時海岸線から五百五十メートルの距離の線と陸岸とによつて囲まれた海域を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　兵庫県南あわじ市丸山埼西端</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　イの点と兵庫県姫路市クラ掛島頂上とを結んだ線と、同県洲本市都志港北防波堤灯台中心点とハの点とを結んだ線との交点</Sentence>
@@ -517,10 +517,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderRight="solid">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">４　次のイ、ロ、ハ、ニ、ホ、ヘ、ト、チ、イの八点を順次に結んだ八線によつて囲まれた海域</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　愛媛県と香川県との境界にある余木崎突端と香川県観音寺市伊吹島赤埼突端とを結んだ線上余木崎突端から九百メートルの点</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　愛媛県と香川県との境界にある余木崎突端と香川県観音寺市伊吹島赤埼突端とを結んだ線上余木崎突端から千八百メートルの点</Sentence>
@@ -533,10 +533,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderRight="solid">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">５　次のイ、ロ、ハ、ニ、イの四点を順次に結んだ四線によつて囲まれた海域</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　愛媛県今治市吉海町仁江と同市吉海町名との最大高潮時海岸線における境界点と同県新居浜市御代島東端とを結んだ線と、同県今治市蒼社川河口中央と同県越智郡上島町弓削島楡田鼻突端とを結んだ線との交点</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　愛媛県今治市蒼社川河口中央と同県越智郡上島町弓削島楡田鼻突端とを結んだ線と、同県今治市伯方島首頭埼突端と同県新居浜市大島松ノ鼻突端とを結んだ線との交点</Sentence>
@@ -545,10 +545,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">６　次のイ、ロ、ハ、ニ、イの四点を順次に結んだ四線によつて囲まれた海域</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　愛媛県今治市梶取ノ鼻突端</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　イの点と愛媛県松山市安居島北端とを結んだ線と、同県今治市怪島頂上から真方位二百二十六度二千百メートルの点（同市旧皆曲鼻）と広島県呉市大崎下島沖友上鼻突端とを結んだ線との交点</Sentence>
@@ -557,10 +557,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">二　毎年二月一日から七月十日まで及び八月二十日から九月三十日まで</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">次のイ、ロ、ハ、ニの四点を順次に結んだ三線、ニとホの二点を結んだ線以北の大分県東国東郡姫島村姫島（以下「姫島」という。）の周辺最大高潮時海岸線から八千メートルの距離の線及びホ、ヘ、トの三点を順次に結んだ二線と陸岸とによつて囲まれた海域（イとロの二点を結んだ線、イの点からトの点に至る最大高潮時海岸線から千五百メートルの距離の線、ヘとトの二点を結んだ線及び陸岸とによつて囲まれた海域並びに姫島の周辺最大高潮時海岸線から千五百メートルの距離の線と陸岸とによつて囲まれた海域を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">イ　福岡県と大分県との最大高潮時海岸線における境界点</Sentence>
               <Sentence Num="3" WritingMode="vertical">ロ　イの点から真方位六度十五分の線と、福岡県行橋市蓑島山頂上と大分県豊後高田市長崎鼻突端とを結んだ線との交点</Sentence>
@@ -574,7 +574,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="0">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>

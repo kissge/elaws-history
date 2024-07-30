@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="035" Year="31" PromulgateMonth="05" PromulgateDay="31">
   <LawNum>昭和三十一年大蔵省令第三十五号</LawNum>
   <LawBody>
@@ -8,47 +8,60 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1">補助金等に係る予算の執行の適正化に関する法律（昭和三十年法律第百七十九号）第二十三条第二項の証票の書式は、別紙第一号書式とする。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、同法第二十六条第二項の規定により同法第二十三条の規定による職権に属する事務を都道府県の知事が行う場合における同法第二十三条第二項の証票の書式は、別紙第二号書式とすることができる。</Sentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">補助金等に係る予算の執行の適正化に関する法律（昭和三十年法律第百七十九号）第二十三条第二項の証票の書式は、別紙第一号書式とする。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同法第二十六条第二項の規定により同法第二十三条の規定による職権に属する事務を都道府県の知事が行う場合における同法第二十三条第二項の証票の書式は、別紙第二号書式とすることができる。</Sentence>
         </ParagraphSentence>
-        <StyleStruct>
-          <StyleStructTitle>別紙第一号書式</StyleStructTitle>
-          <Style>
-            <Fig src="./pict/331M50000040035_20211022_503M60000040072_001.pdf"/>
-          </Style>
-        </StyleStruct>
-        <StyleStruct>
-          <StyleStructTitle>別紙第二号書式</StyleStructTitle>
-          <Style>
-            <Fig src="./pict/331M50000040035_20211022_503M60000040072_002.pdf"/>
-          </Style>
-        </StyleStruct>
       </Paragraph>
     </MainProvision>
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">別紙第一号書式</AppdxFormatTitle>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000215715.jpg"/>
+        </Format>
+      </FormatStruct>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000215716.jpg"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">別紙第二号書式</AppdxFormatTitle>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000215710.jpg"/>
+        </Format>
+      </FormatStruct>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000215711.jpg"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この省令は、公布の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年一二月四日財務省令第七三号" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年一二月四日財務省令第七三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1">この省令は、令和三年一月一日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、第二十条及び第三十六条の規定は、公布の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和三年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="2">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令の施行の際、現に存するこの省令による改正前の様式又は書式による用紙は、当分の間、これを使用することができる。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際、現に存するこの省令による改正前の様式又は書式による用紙は、当分の間、これを使用することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -57,7 +70,7 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この省令は、公布の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

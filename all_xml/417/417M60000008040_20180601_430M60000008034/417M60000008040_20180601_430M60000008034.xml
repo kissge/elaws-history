@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="040" Year="17" PromulgateMonth="03" PromulgateDay="25">
   <LawNum>平成十七年総務省令第四十号</LawNum>
   <LawBody>
-    <LawTitle Kana="とくていきょうどうじゅうたくなどにおけるひつようとされるぼうかあんぜんせいのうをゆうするしょうぼうのようにきょうするせつびとうにかんするしょうれい" Abbrev="" AbbrevKana="">特定共同住宅等における必要とされる防火安全性能を有する消防の用に供する設備等に関する省令</LawTitle>
+    <LawTitle Kana="とくていきょうどうじゅうたくとうにおけるひつようとされるぼうかあんぜんせいのうをゆうするしょうぼうのようにきょうするせつびとうにかんするしょうれい" Abbrev="" AbbrevKana="">特定共同住宅等における必要とされる防火安全性能を有する消防の用に供する設備等に関する省令</LawTitle>
     <EnactStatement>消防法施行令（昭和三十六年政令第三十七号）第二十九条の四第一項の規定に基づき、特定共同住宅等における必要とされる防火安全性能を有する消防の用に供する設備等に関する省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -266,234 +266,213 @@
             <Sentence Num="1" WritingMode="vertical">特定共同住宅等（住戸利用施設を除く。）において、火災の拡大を初期に抑制する性能（以下「初期拡大抑制性能」という。）を主として有する通常用いられる消防用設備等に代えて用いることができる必要とされる初期拡大抑制性能を主として有する消防の用に供する設備等は、次の表の上欄に掲げる特定共同住宅等の種類及び同表中欄に掲げる通常用いられる消防用設備等の区分に応じ、同表下欄に掲げる必要とされる防火安全性能を有する消防の用に供する設備等とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table>
+            <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn colspan="2">
-                  <Sentence/>
-                  <Sentence>特定共同住宅等の種類</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">特定共同住宅等の種類</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>通常用いられる消防用設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">通常用いられる消防用設備等</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>構造類型</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">構造類型</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>階数</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">階数</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="3">
-                  <Sentence/>
-                  <Sentence>二方向避難型特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が五以下のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が五以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備（第三項第二号イ（ロ）及び（ハ）に掲げる階及び部分に設置するものに限る。）</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備（第三項第二号イ（ロ）及び（ハ）に掲げる階及び部分に設置するものに限る。）</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備（第三項第二号イ（ロ）及び（ハ）に掲げる階及び部分に設置するものに限る。）</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備（第三項第二号イ（ロ）及び（ハ）に掲げる階及び部分に設置するものに限る。）</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備（第三項第二号イに掲げる階及び部分に設置するものに限る。）</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>開放型特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が五以下のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備（第三項第二号イに掲げる階及び部分に設置するものに限る。）</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が六以上のもの</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が五以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>二方向避難・開放型特定共同住宅等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が六以上のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>その他の特定共同住宅等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備（第三項第二号イ（ロ）及び（ハ）に掲げる階及び部分に設置するものに限る。）</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難・開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>消火器具</Sentence>
-                  <Sentence>屋内消火栓設備（第三項第二号イに掲げる階及び部分に設置するものに限る。）</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>住宅用消火器及び消火器具</Sentence>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">その他の特定共同住宅等</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備（第三項第二号イ（ロ）及び（ハ）に掲げる階及び部分に設置するものに限る。）</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">屋内消火栓設備（第三項第二号イに掲げる階及び部分に設置するものに限る。）</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">住宅用消火器及び消火器具</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -505,235 +484,214 @@
             <Sentence Num="1" WritingMode="vertical">住戸利用施設において、初期拡大抑制性能を主として有する通常用いられる消防用設備等に代えて用いることができる必要とされる初期拡大抑制性能を主として有する消防の用に供する設備等は、次の表の上欄に掲げる特定共同住宅等の種類及び同表中欄に掲げる通常用いられる消防用設備等の区分に応じ、同表下欄に掲げる必要とされる防火安全性能を有する消防の用に供する設備等とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table>
+            <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn colspan="2">
-                  <Sentence/>
-                  <Sentence>特定共同住宅等の種類</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">特定共同住宅等の種類</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>通常用いられる消防用設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">通常用いられる消防用設備等</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>構造類型</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">構造類型</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>階数</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">階数</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="3">
-                  <Sentence/>
-                  <Sentence>二方向避難型特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が五以下のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が五以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備（次項第二号イに掲げる階及び部分に設置するものに限る。以下同じ。）</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備（次項第二号イに掲げる階及び部分に設置するものに限る。以下同じ。）</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="3">
-                  <Sentence/>
-                  <Sentence>開放型特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が五以下のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が五以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>二方向避難・開放型特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>その他の特定共同住宅等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難・開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>屋内消火栓設備</Sentence>
-                  <Sentence>スプリンクラー設備</Sentence>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>屋外消火栓設備</Sentence>
-                  <Sentence>動力消防ポンプ設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用スプリンクラー設備</Sentence>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">その他の特定共同住宅等</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">屋内消火栓設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">スプリンクラー設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">屋外消火栓設備</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">動力消防ポンプ設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用スプリンクラー設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -977,7 +935,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">住戸、共用室及び管理人室（住戸利用施設にあるものを除く。）に共同住宅用スプリンクラー設備を前項第二号に定める技術上の基準に従い、又は当該技術上の基準の例により設置したとき（当該設備の有効範囲内の部分に限る。）　共同住宅用自動火災報知設備又は住戸用自動火災報知設備</Sentence>
+              <Sentence Num="1" WritingMode="vertical">住戸、共用室及び管理人室（住戸利用施設にあるものを除く。）に共同住宅用スプリンクラー設備を前項第二号に定める技術上の基準に従い、又は当該技術上の基準の例により設置したとき（当該設備の有効範囲内の部分に限る。）　共同住宅用自動火災報知設備又は住戸用自動火災報知設備</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -991,161 +949,140 @@
             <Sentence Num="1" WritingMode="vertical">特定共同住宅等（住戸利用施設を除く。）において、火災時に安全に避難することを支援する性能（以下「避難安全支援性能」という。）を主として有する通常用いられる消防用設備等に代えて用いることができる必要とされる避難安全支援性能を主として有する消防の用に供する設備等は、次の表の上欄に掲げる特定共同住宅等の種類及び同表中欄に掲げる通常用いられる消防用設備等の区分に応じ、同表下欄に掲げる必要とされる防火安全性能を有する消防の用に供する設備等とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table>
+            <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn colspan="2">
-                  <Sentence/>
-                  <Sentence>特定共同住宅等の種類</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">特定共同住宅等の種類</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>通常用いられる消防用設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">通常用いられる消防用設備等</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>構造類型</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">構造類型</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>階数</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">階数</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>二方向避難型特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が五以下のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が五以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                  <Sentence>避難器具</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">避難器具</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が六以上のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                  <Sentence>避難器具</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が六以上のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">避難器具</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>開放型特定共同住宅等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が五以下のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                  <Sentence>避難器具</Sentence>
-                  <Sentence>誘導灯及び誘導標識</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が六以上のもの</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                  <Sentence>避難器具</Sentence>
-                  <Sentence>誘導灯及び誘導標識</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が五以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">避難器具</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">誘導灯及び誘導標識</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence/>
-                  <Sentence>二方向避難・開放型特定共同住宅等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                  <Sentence>避難器具</Sentence>
-                  <Sentence>誘導灯及び誘導標識</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                  <Sentence>避難器具</Sentence>
-                  <Sentence>誘導灯及び誘導標識</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が六以上のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">避難器具</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">誘導灯及び誘導標識</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>その他の特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難・開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>すべてのもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                  <Sentence>避難器具</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">避難器具</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">誘導灯及び誘導標識</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence/>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">避難器具</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">誘導灯及び誘導標識</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">その他の特定共同住宅等</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">すべてのもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">避難器具</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -1157,93 +1094,96 @@
             <Sentence Num="1" WritingMode="vertical">住戸利用施設において、避難安全支援性能を主として有する通常用いられる消防用設備等に代えて用いることができる必要とされる避難安全支援性能を主として有する消防の用に供する設備等は、次の表の上欄に掲げる特定共同住宅等の種類及び同表中欄に掲げる通常用いられる消防用設備等の区分に応じ、同表下欄に掲げる必要とされる防火安全性能を有する消防の用に供する設備等とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table>
+            <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn colspan="2">
-                  <Sentence>特定共同住宅等の種類</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">特定共同住宅等の種類</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence>通常用いられる消防用設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">通常用いられる消防用設備等</Sentence>
                 </TableColumn>
-                <TableColumn rowspan="2">
-                  <Sentence>必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">必要とされる防火安全性能を有する消防の用に供する設備等</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>構造類型</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">構造類型</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>階数</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence>二方向避難型特定共同住宅等及び開放型特定共同住宅等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>地階を除く階数が五以下のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">階数</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>地階を除く階数が六以上のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難型特定共同住宅等及び開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が五以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence>二方向避難・開放型特定共同住宅等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>地階を除く階数が十以下のもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>地階を除く階数が十一以上のもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が六以上のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>その他の特定共同住宅等</Sentence>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二方向避難・開放型特定共同住宅等</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>すべてのもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十以下のもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>自動火災報知設備</Sentence>
-                  <Sentence>非常警報器具又は非常警報設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>共同住宅用自動火災報知設備</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備又は住戸用自動火災報知設備及び共同住宅用非常警報設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地階を除く階数が十一以上のもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">その他の特定共同住宅等</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">すべてのもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">自動火災報知設備</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">非常警報器具又は非常警報設備</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">共同住宅用自動火災報知設備</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>

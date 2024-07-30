@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="027" Year="42" PromulgateMonth="09" PromulgateDay="29">
   <LawNum>昭和四十二年労働省令第二十七号</LawNum>
   <LawBody>
@@ -732,7 +732,7 @@
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -830,7 +830,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="0">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <RelatedArticleNum>（第５条の２）</RelatedArticleNum>
       <StyleStruct>

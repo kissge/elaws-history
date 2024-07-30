@@ -2,7 +2,7 @@
 <Law Lang="ja" Era="Heisei" Year="30" PromulgateMonth="12" PromulgateDay="28" LawType="MinisterialOrdinance" Num="153">
   <LawNum>平成三十年厚生労働省令第百五十三号</LawNum>
   <LawBody>
-    <LawTitle Kana="はたらきかたかいかくをすいしんするためのかんけいほうりつのせいびにかんするほうりつのいちぶのせこうにともなうこうせいろうどうしょうかんけいしょうれいのせいびおよびけいかそちにかんするしょうれい" Abbrev="" AbbrevKana="">働き方改革を推進するための関係法律の整備に関する法律の一部の施行に伴う厚生労働省関係省令の整備及び経過措置に関する省令　抄</LawTitle>
+    <LawTitle Kana="はたらきかたかいかくをすいしんするためのかんけいほうりつのせいびにかんするほうりつのいちぶのしこうにともなうこうせいろうどうしょうかんけいしょうれいのせいびおよびけいかそちにかんするしょうれい" Abbrev="" AbbrevKana="">働き方改革を推進するための関係法律の整備に関する法律の一部の施行に伴う厚生労働省関係省令の整備及び経過措置に関する省令</LawTitle>
     <EnactStatement>働き方改革を推進するための関係法律の整備に関する法律（平成三十年法律第七十一号）の一部の施行に伴い、及び関係法律の規定に基づき、働き方改革を推進するための関係法律の整備に関する法律の一部の施行に伴う厚生労働省関係省令の整備及び経過措置に関する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -18,7 +18,7 @@
         <SupplProvisionLabel>附則</SupplProvisionLabel>
       </TOCSupplProvision>
     </TOC>
-    <MainProvision>
+    <MainProvision Extract="true">
       <Chapter Num="2">
         <ChapterTitle>第二章　経過措置</ChapterTitle>
         <Article Num="13">
@@ -167,7 +167,7 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision Extract="true">
+    <SupplProvision Extract="true" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

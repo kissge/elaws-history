@@ -1,208 +1,154 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="022" Year="19" PromulgateMonth="09" PromulgateDay="19">
   <LawNum>平成十九年環境省令第二十二号</LawNum>
   <LawBody>
     <LawTitle Kana="とくていにさんかたんそがすにふくまれるにさんかたんそののうどのそくていのほうほうをさだめるしょうれい" Abbrev="" AbbrevKana="">特定二酸化炭素ガスに含まれる二酸化炭素の濃度の測定の方法を定める省令</LawTitle>
     <EnactStatement>海洋汚染等及び海上災害の防止に関する法律施行令（昭和四十六年政令第二百一号）第十一条の五第二項の規定に基づき、特定二酸化炭素ガスに含まれる二酸化炭素の濃度の測定の方法を定める省令を次のように定める。</EnactStatement>
     <MainProvision>
-      <Article Delete="false" Hide="false" Num="1">
+      <Article Num="1">
         <ArticleCaption>（二酸化炭素の濃度の測定の方法）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">海洋汚染等及び海上災害の防止に関する法律施行令（昭和四十六年政令第二百一号）第十一条の五第二項の環境省令で定める二酸化炭素の濃度の測定の方法は、次のとおりとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">海洋汚染等及び海上災害の防止に関する法律施行令（昭和四十六年政令第二百一号）第十一条の五第二項の環境省令で定める二酸化炭素の濃度の測定の方法は、次のとおりとする。</Sentence>
           </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
+          <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">摂氏五度から三十五度までの範囲の温度を保った試料を用いること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">摂氏五度から三十五度までの範囲の温度を保った試料を用いること。</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="2">
+          <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">二酸化炭素の濃度は、次のいずれかに掲げる方法により測定して算定された値とすること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二酸化炭素の濃度は、次のいずれかに掲げる方法により測定して算定された値とすること。</Sentence>
             </ItemSentence>
-            <Subitem1 Delete="false" Hide="false" Num="1">
+            <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Column LineBreak="true" Num="1">
-                  <Sentence WritingMode="vertical">測定しようとするガス中の不純物（水素、窒素、酸素、炭化水素及び一酸化炭素をいう。以下同じ。）の濃度を次の（１）から（３）までに適合するように測定した上で、当該ガス中の二酸化炭素の濃度を次の式により算定する方法</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">
-                    <ArithFormula>
-                      <List>
-                        <ListSentence>
-                          <Sentence WritingMode="vertical">Ｃ＝１００－（Ａｈ＋Ａｎ＋Ａｏ＋Ａｃ＋Ａｍ）</Sentence>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Sentence WritingMode="vertical">（この式においてＣ、Ａｈ、Ａｎ、Ａｏ、Ａｃ及びＡｍは、それぞれ次の値を表すものとする。</Sentence>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column LineBreak="false" Num="1">
-                            <Sentence WritingMode="vertical">Ｃ</Sentence>
-                          </Column>
-                          <Column LineBreak="false" Num="2">
-                            <Sentence WritingMode="vertical">二酸化炭素の濃度（単位　体積百分率）</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column LineBreak="false" Num="1">
-                            <Sentence WritingMode="vertical">Ａｈ</Sentence>
-                          </Column>
-                          <Column LineBreak="false" Num="2">
-                            <Sentence WritingMode="vertical">測定された水素の濃度（単位　体積百分率）</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column LineBreak="false" Num="1">
-                            <Sentence WritingMode="vertical">Ａｎ</Sentence>
-                          </Column>
-                          <Column LineBreak="false" Num="2">
-                            <Sentence WritingMode="vertical">測定された窒素の濃度（単位　体積百分率）</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column LineBreak="false" Num="1">
-                            <Sentence WritingMode="vertical">Ａｏ</Sentence>
-                          </Column>
-                          <Column LineBreak="false" Num="2">
-                            <Sentence WritingMode="vertical">測定された酸素の濃度（単位　体積百分率）</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column LineBreak="false" Num="1">
-                            <Sentence WritingMode="vertical">Ａｃ</Sentence>
-                          </Column>
-                          <Column LineBreak="false" Num="2">
-                            <Sentence WritingMode="vertical">測定された炭化水素の濃度（単位　体積百分率）</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Column LineBreak="false" Num="1">
-                            <Sentence WritingMode="vertical">Ａｍ</Sentence>
-                          </Column>
-                          <Column LineBreak="false" Num="2">
-                            <Sentence WritingMode="vertical">測定された一酸化炭素の濃度（単位　体積百分率）</Sentence>
-                          </Column>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Sentence WritingMode="vertical">なお、算定する二酸化炭素の濃度は、乾きガス中の濃度とし、その算定に当たっては、日本産業規格Ｋ〇二二五の十一に定める方法により測定した水分の値を用いることとする。）</Sentence>
-                        </ListSentence>
-                      </List>
-                    </ArithFormula>
-                  </Sentence>
-                </Column>
+              <Column LineBreak="true" Num="1">
+                <Sentence Num="1" WritingMode="vertical">測定しようとするガス中の不純物（水素、窒素、酸素、炭化水素及び一酸化炭素をいう。以下同じ。）の濃度を次の（１）から（３）までに適合するように測定した上で、当該ガス中の二酸化炭素の濃度を次の式により算定する方法</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="2">
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｃ＝１００－（Ａｈ＋Ａｎ＋Ａｏ＋Ａｃ＋Ａｍ）</ArithFormula></Sentence>
+              </Column>
+              <Column LineBreak="true" Num="3">
+                  <Sentence Num="1" WritingMode="vertical">（この式においてＣ、Ａｈ、Ａｎ、Ａｏ、Ａｃ及びＡｍは、それぞれ次の値を表すものとする。</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="4">
+                    <Sentence Num="1" WritingMode="vertical">Ｃ　二酸化炭素の濃度（単位　体積百分率）</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="5">
+                    <Sentence Num="1" WritingMode="vertical">Ａｈ　測定された水素の濃度（単位　体積百分率）</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="6">
+                    <Sentence Num="1" WritingMode="vertical">Ａｎ　測定された窒素の濃度（単位　体積百分率）</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="7">
+                    <Sentence Num="1" WritingMode="vertical">Ａｏ　測定された酸素の濃度（単位　体積百分率）</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="8">
+                    <Sentence Num="1" WritingMode="vertical">Ａｃ　測定された炭化水素の濃度（単位　体積百分率）</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="9">
+                    <Sentence Num="1" WritingMode="vertical">Ａｍ　測定された一酸化炭素の濃度（単位　体積百分率）</Sentence>
+              </Column>
+              <Column LineBreak="true" Num="10">
+                  <Sentence Num="1" WritingMode="vertical">なお、算定する二酸化炭素の濃度は、乾きガス中の濃度とし、その算定に当たっては、日本産業規格Ｋ〇二二五の十一に定める方法により測定した水分の値を用いることとする。）</Sentence>
+              </Column>
               </Subitem1Sentence>
-              <Subitem2 Delete="false" Hide="false" Num="1">
+              <Subitem2 Num="1">
                 <Subitem2Title>（１）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence WritingMode="vertical">不純物の濃度の測定は、日本産業規格Ｋ〇一一四の四に定めるガスクロマトグラフ分析法により行う。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">不純物の濃度の測定は、日本産業規格Ｋ〇一一四の四に定めるガスクロマトグラフ分析法により行う。</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
-              <Subitem2 Delete="false" Hide="false" Num="2">
+              <Subitem2 Num="2">
                 <Subitem2Title>（２）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence WritingMode="vertical">（１）の測定を行うに当たっては、次表の上欄に掲げる不純物の区分ごとに、同表下欄に掲げる装置及びその操作の方法並びに定量法を用いることとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">（１）の測定を行うに当たっては、次表の上欄に掲げる不純物の区分ごとに、同表下欄に掲げる装置及びその操作の方法並びに定量法を用いることとする。</Sentence>
                 </Subitem2Sentence>
                 <TableStruct>
                   <Table WritingMode="vertical">
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">区分</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">区分</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">装置及びその操作の方法並びに定量法</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                    <TableRow>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">炭化水素及び一酸化炭素以外の不純物</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">１　日本産業規格Ｋ一一〇六の四・三・一（４）及び（６）（ａ）に定める装置</Sentence>
-                        <Sentence WritingMode="vertical">２　日本産業規格Ｋ〇一一四の九・三に定める操作の方法（ただし、分析条件については日本産業規格Ｋ一一〇六の四・三・一（６）（ｂ）に定める分析条件を用いることとする。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">装置及びその操作の方法並びに定量法</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">炭化水素</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">炭化水素及び一酸化炭素以外の不純物</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">日本産業規格Ｋ〇二二五の九に定める装置及びその操作の方法並びに定量法</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">１　日本産業規格Ｋ一一〇六の四・三・一（４）及び（６）（ａ）に定める装置</Sentence>
+                        <Sentence Num="2" WritingMode="vertical">２　日本産業規格Ｋ〇一一四の九・三に定める操作の方法（ただし、分析条件については日本産業規格Ｋ一一〇六の四・三・一（６）（ｂ）に定める分析条件を用いることとする。）</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">一酸化炭素</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">炭化水素</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">日本産業規格Ｋ〇二二五の七・一に定める装置及びその操作の方法並びに定量法</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">日本産業規格Ｋ〇二二五の九に定める装置及びその操作の方法並びに定量法</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">一酸化炭素</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">日本産業規格Ｋ〇二二五の七・一に定める装置及びその操作の方法並びに定量法</Sentence>
                       </TableColumn>
                     </TableRow>
                   </Table>
                 </TableStruct>
               </Subitem2>
-              <Subitem2 Delete="false" Hide="false" Num="3">
+              <Subitem2 Num="3">
                 <Subitem2Title>（３）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence WritingMode="vertical">（１）の測定に用いる校正用ガスは、ヘリウムの濃度が体積百分率九十九・九九九パーセント以上のガス、日本産業規格Ｋ〇五一二に定める水素標準ガス、日本産業規格Ｋ一一〇一に定める酸素標準ガス、日本産業規格Ｋ一一〇七の表に規定する窒素、高純度炭化水素及び高純度一酸化炭素を質量比混合法により調製したものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">（１）の測定に用いる校正用ガスは、ヘリウムの濃度が体積百分率九十九・九九九パーセント以上のガス、日本産業規格Ｋ〇五一二に定める水素標準ガス、日本産業規格Ｋ一一〇一に定める酸素標準ガス、日本産業規格Ｋ一一〇七の表に規定する窒素、高純度炭化水素及び高純度一酸化炭素を質量比混合法により調製したものとする。</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
             </Subitem1>
-            <Subitem1 Delete="false" Hide="false" Num="2">
+            <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">日本産業規格Ｋ一一〇六の四・三・二に定めるアルカリ吸収法により、測定しようとするガス中の二酸化炭素の濃度を測定する方法</Sentence>
+                <Sentence Num="1" WritingMode="vertical">日本産業規格Ｋ一一〇六の四・三・二に定めるアルカリ吸収法により、測定しようとするガス中の二酸化炭素の濃度を測定する方法</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="2">
+      <Article Num="2">
         <ArticleCaption>（その他の事項）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1" OldStyle="false">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令における用語その他二酸化炭素の濃度の測定の方法に関する事項で、この省令に定めのないものについては、日本産業規格Ｋ〇一一四及び日本産業規格Ｋ一一〇六の定めるところによる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令における用語その他二酸化炭素の濃度の測定の方法に関する事項で、この省令に定めのないものについては、日本産業規格Ｋ〇一一四及び日本産業規格Ｋ一一〇六の定めるところによる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令は、海洋汚染等及び海上災害の防止に関する法律の一部を改正する法律（平成十九年法律第六十二号）の施行の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、海洋汚染等及び海上災害の防止に関する法律の一部を改正する法律（平成十九年法律第六十二号）の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月三〇日環境省令第九号" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年三月三〇日環境省令第九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1" OldStyle="false">
+      <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

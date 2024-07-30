@@ -125,36 +125,36 @@
           <TableStruct>
             <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">　ふ化場の施設</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">基準</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">ふ卵舎</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">１　健康なひなを生産するのに十分な換気をすることができる構造であること。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">２　床面は、コンクリート敷、板敷又はその他清掃及び消毒の容易な材料を用いたものであること。</Sentence>
                   <Sentence Num="3" WritingMode="vertical">３　育すう施設がおかれていないこと。</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">ふ卵器</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">健康なひなを生産するのに十分な温度、湿度及び換気の調整をすることができる構造であること。</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">消毒用施設</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">ふ卵舎の出入口には、消毒用の踏込みが設置されていること。</Sentence>
                 </TableColumn>
               </TableRow>
@@ -306,7 +306,7 @@
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -414,232 +414,232 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
-            <TableColumn BorderRight="solid">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">事項</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="4" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="4" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">とさか</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">顔</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">眼</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="3" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">じだ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">肉垂</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">くちばし</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="4" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="4" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">羽装</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">羽毛</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">翼</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" colspan="2">
               <Sentence Num="1" WritingMode="vertical">品種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">単冠白色レグホーン種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">１　側枝又は魚尾冠が著しくないこと。</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　雄にあつては、倒冠が著しくないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　鮮赤色</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　単冠</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　鮮赤色</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　著しく異色でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　赤栗色</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　著しく異色でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">エナメル白色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">著しく異色でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　鮮赤色</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　著しく不正形でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">黄色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">不正形でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">白色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">刺毛がないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　著しく異色でないこと。</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　雄にあつては、著しく雌の羽装に近いものでないこと。</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　裸性でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">逆毛又はほつれ毛でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">主翼欠損、破れ翼又は無翼域でないこと。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">横はんプリマスロツク種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="4">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="4">
               <Sentence Num="1" WritingMode="vertical">側枝、倒冠又は魚尾冠が著しくないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="4">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="4">
               <Sentence Num="1" WritingMode="vertical">鮮赤色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">暗黄色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">黒白横はん</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="5">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
               <Sentence Num="1" WritingMode="vertical">刺毛が著しくないこと。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">単冠ロードアイランドレツド種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">赤角色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">濃暗赤色</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">ニユーハンプシヤー種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">赤栗色</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">名古屋種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">淡黄褐色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">バフ色</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">三河種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">１　側枝又は魚尾冠が著しくないこと。</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　雄にあつては、倒冠が著しくないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">白色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">淡黄色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">淡黄バフ色</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="22">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="22">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderRight="solid">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">事項</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">尾</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">背</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">胸</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="5" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">すね及びゆび</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="3" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">けづめ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">つめ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">あしのうら</Sentence>
             </TableColumn>
-            <TableColumn BorderRight="solid" colspan="5" rowspan="8">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5" rowspan="8">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" colspan="2">
               <Sentence Num="1" WritingMode="vertical">品種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">単冠白色レグホーン種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　著しくすね尾でないこと。</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　無尾でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">不正形でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">りゆう骨曲りが著しくないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">黄色</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="3" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　著しく異色でないこと。</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　重複多<Ruby>趾<Rt>し</Rt></Ruby>、短<Ruby>趾<Rt>し</Rt></Ruby>又はゆび曲りでないこと。</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　かもあしでないこと。</Sentence>
@@ -647,58 +647,58 @@
               <Sentence Num="5" WritingMode="vertical">５　みずかきがないこと。</Sentence>
               <Sentence Num="6" WritingMode="vertical">６　クリーパー性でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="3" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">１　雄にあつては、けづめの伸びが著しく不十分でないこと。</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　雌にあつては、けづめの伸びが著しくないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">無<Ruby>爪<Rt>そう</Rt></Ruby>性でないこと。</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="6">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="6">
               <Sentence Num="1" WritingMode="vertical">遺伝性<Ruby>蹠<Rt>しよ</Rt></Ruby>異常でないこと。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">横はんプリマスロツク種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">暗黄色</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">単冠ロードアイランドレツド種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
               <Sentence Num="1" WritingMode="vertical">赤褐色をおびる濃黄色</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">ニユーハンプシヤー種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">名古屋種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">鉛色</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">三河種</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderRight="solid" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence Num="1" WritingMode="vertical">淡黄色</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -706,7 +706,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -714,7 +714,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第３号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -722,7 +722,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -730,7 +730,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -738,7 +738,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第６号</AppdxStyleTitle>
       <StyleStruct>
         <Style>

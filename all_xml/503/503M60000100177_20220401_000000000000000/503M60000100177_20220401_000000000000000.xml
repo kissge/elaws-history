@@ -157,7 +157,7 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">会計年度の末日における時価がその時の取得原価より著しく低い資産については、当該資産の時価がその時の取得原価まで回復すると認められる場合を除き、時価を付さなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、使用価値を算定することができる有形固定資産又は無形固定資産であって、当該資産の使用価値が時価を超えるものについては、取得価額から減価償却累計額を控除した価額を超えない限りにおいて、使用価値を付することができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、使用価値を算定することができる有形固定資産又は無形固定資産であって、当該資産の使用価値が時価を超えるものについては、取得価額から減価償却累計額を控除した価額を超えない限りにおいて、使用価値を付すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -729,7 +729,7 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision>
+    <SupplProvision Extract="false" Type="New">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

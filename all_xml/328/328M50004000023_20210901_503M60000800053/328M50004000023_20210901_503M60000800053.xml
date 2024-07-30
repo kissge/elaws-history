@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="023" Year="28" PromulgateMonth="10" PromulgateDay="01">
   <LawNum>昭和二十八年建設省令第二十三号</LawNum>
   <LawBody>
@@ -11,7 +11,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>北海道防寒住宅建設等促進法（以下「法」という。）第五条第一項の規定により国土交通大臣に提出すべき補助金交付申請書、事業計画書及び経費見積書の様式は、それぞれ別記第一号様式、第二号様式及び第三号様式とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">北海道防寒住宅建設等促進法（以下「法」という。）第五条第一項の規定により国土交通大臣に提出すべき補助金交付申請書、事業計画書及び経費見積書の様式は、それぞれ別記第一号様式、第二号様式及び第三号様式とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -21,8 +21,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">前条の補助金交付申請書は、当該年度の前年度の三月三十一日までに提出するものとする。</Sentence>
-            <Sentence Function="proviso" Num="2">但し、特別の事由がある場合においては、この限りでない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前条の補助金交付申請書は、当該年度の前年度の三月三十一日までに提出するものとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、特別の事由がある場合においては、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -32,7 +32,7 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この省令は、公布の日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -41,16 +41,7 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この省令は、公布の日から施行する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="平成一二年一月三一日建設省令第一〇号">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum/>
-        <ParagraphSentence>
-          <Sentence>この省令は、平成十二年四月一日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -60,36 +51,38 @@
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-    </SupplProvision><SupplProvision AmendLawNum="令和三年八月三一日国土交通省令第五三号">
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年八月三一日国土交通省令第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令は、令和三年九月一日から施行する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和三年九月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="2">
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令の施行の際現にあるこの省令による改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle>
-      <AppdxStyleTitle>別記第一号様式</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
+    <AppdxNote>
+      <AppdxNoteTitle WritingMode="vertical">別記第一号様式</AppdxNoteTitle>
+      <NoteStruct>
+        <Note>
           <Fig src="./pict/328M50004000023_202110111400_001.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
+        </Note>
+      </NoteStruct>
+    </AppdxNote>
     <AppdxStyle>
-      <AppdxStyleTitle>別記第二号様式（イ）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">第二号様式</AppdxStyleTitle>
+      <RelatedArticleNum>（イ）</RelatedArticleNum>
       <StyleStruct>
         <Style>
           <Fig src="./pict/328M50004000023_202110111401_002.pdf"/>
@@ -97,7 +90,8 @@
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記第二号様式（ロ）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">第二号様式</AppdxStyleTitle>
+      <RelatedArticleNum>（ロ）</RelatedArticleNum>
       <StyleStruct>
         <Style>
           <Fig src="./pict/328M50004000023_202110111401_003.pdf"/>
@@ -105,7 +99,8 @@
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記第二号様式（ハ）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">第二号様式</AppdxStyleTitle>
+      <RelatedArticleNum>（ハ）</RelatedArticleNum>
       <StyleStruct>
         <Style>
           <Fig src="./pict/328M50004000023_202110111401_004.pdf"/>
@@ -113,7 +108,7 @@
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記第三号様式</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">第三号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
           <Fig src="./pict/328M50004000023_202110111401_005.pdf"/>
