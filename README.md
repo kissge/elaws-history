@@ -10,9 +10,9 @@ e-Gov 法令検索で配布されている「全ての法令データ」を定�
 
 ## ライセンス情報
 
-出典：e-Gov 法令検索　（https://elaws.e-gov.go.jp/download/ ）
+出典：e-Gov 法令検索　（[https://laws.e-gov.go.jp/bulkdownload/](https://laws.e-gov.go.jp/bulkdownload/)）
 
 - 本レポジトリの内容自体の著作権は、法的に可能な限りにおいて放棄します。
 - 本レポジトリの内容自体の利用条件は、利用時点での e-Gov 法令検索の利用規約に準じ、e-Gov 法令検索のコンテンツに関して利用許諾が必要なものについては、そのコンテンツの本レポジトリ内のコピーについても同様の許諾を確認してください。
-- e-Gov 法令検索の利用規約については https://elaws.e-gov.go.jp/terms/ を参照してください。
+- e-Gov 法令検索の利用規約については https://laws.e-gov.go.jp/terms/ を参照してください。
 - 日本の著作権法では憲法その他の法令には著作者の権利はありません。
