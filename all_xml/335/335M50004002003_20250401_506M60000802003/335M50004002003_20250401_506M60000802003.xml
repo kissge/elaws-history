@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="35" PromulgateMonth="12" PromulgateDay="17"><LawNum>昭和三十五年総理府・建設省令第三号</LawNum><LawBody><LawTitle Kana="どうろひょうしきくかくせんおよびどうろひょうじにかんするめいれい" Abbrev="標識令" AbbrevKana="ひ">道路標識、区画線及び道路標示に関する命令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="35" Num="003" PromulgateMonth="12" PromulgateDay="17" LawType="MinisterialOrdinance"><LawNum>昭和三十五年総理府・建設省令第三号</LawNum><LawBody><LawTitle Kana="どうろひょうしきくかくせんおよびどうろひょうじにかんするめいれい" Abbrev="標識令" AbbrevKana="ひ">道路標識、区画線及び道路標示に関する命令</LawTitle>
     <EnactStatement>道路法第四十五条第二項及び道路交通法第九条第三項の規定に基づき、道路標識、区画線及び道路標示に関する命令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2673,6 +2673,49 @@
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この命令は、令和七年四月一日から施行する。</Sentence>
         </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年七月二六日内閣府・国土交通省令第四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に改正前の道路標識、区画線及び道路標示に関する命令（以下「旧令」という。）の規定により設置されている道路標示のうち、次の表の上欄に掲げる種類のものは、当分の間、それぞれ同表の下欄に掲げる改正後の道路標識、区画線及び道路標示に関する命令（以下「新令」という。）の相当規定による種類の道路標示とみなす。</Sentence>
+        </ParagraphSentence>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">旧令の道路標示の種類</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">新令の道路標示の種類</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">「横断歩道」を表示するもの（（２０１））</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">「横断歩道（（２０１））」</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">「斜め横断可」を表示するもの（（２０１の２））</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">「斜め横断可（（２０１の２））」</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
       </Paragraph>
     </SupplProvision>
     <AppdxTable>
@@ -10730,9 +10773,16 @@
           </TableRow>
           <TableRow>
             <TableColumn colspan="2">
-              <FigStruct>
-                <Fig src="./pict/S35F03102010003-311.jpg"/>
-              </FigStruct>
+              <Sentence>
+                <QuoteStruct>
+                <Fig src="./pict/2JH00000243539.jpg"/>
+                </QuoteStruct>
+              </Sentence>
+              <Sentence>
+                <QuoteStruct>
+                <Fig src="./pict/2JH00000243541.jpg"/>
+                </QuoteStruct>
+              </Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>白</Sentence>
@@ -10756,38 +10806,20 @@
               <Sentence>一　時間を限定して行う場合</Sentence>
               <Sentence>
                 <QuoteStruct>
-                  <Fig src="./pict/S35F03102010003-312.jpg"/>
-                </QuoteStruct>
-              </Sentence>
-              <Sentence>又は</Sentence>
-              <Sentence>
-                <QuoteStruct>
-                  <Fig src="./pict/S35F03102010003-313.jpg"/>
+                  <Fig src="./pict/2JH00000243547.jpg"/>
                 </QuoteStruct>
               </Sentence>
               <Sentence>二　終日行う場合</Sentence>
               <Sentence>（一）</Sentence>
               <Sentence>
                 <QuoteStruct>
-                  <Fig src="./pict/S35F03102010003-314.jpg"/>
-                </QuoteStruct>
-              </Sentence>
-              <Sentence>又は</Sentence>
-              <Sentence>
-                <QuoteStruct>
-                  <Fig src="./pict/S35F03102010003-315.jpg"/>
+                  <Fig src="./pict/2JH00000243548.jpg"/>
                 </QuoteStruct>
               </Sentence>
               <Sentence>（二）</Sentence>
               <Sentence>
                 <QuoteStruct>
-                  <Fig src="./pict/S35F03102010003-316.jpg"/>
-                </QuoteStruct>
-              </Sentence>
-              <Sentence>又は</Sentence>
-              <Sentence>
-                <QuoteStruct>
-                  <Fig src="./pict/S35F03102010003-317.jpg"/>
+                  <Fig src="./pict/2JH00000243549.jpg"/>
                 </QuoteStruct>
               </Sentence>
             </TableColumn>
