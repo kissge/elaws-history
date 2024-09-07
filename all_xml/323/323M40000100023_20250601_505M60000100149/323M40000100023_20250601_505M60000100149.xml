@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="023" Year="23" PromulgateMonth="07" PromulgateDay="13"><LawNum>昭和二十三年厚生省令第二十三号</LawNum><LawBody><LawTitle Kana="しょくひんえいせいほうしこうきそく" Abbrev="" AbbrevKana="">食品衛生法施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="23" Num="023" PromulgateMonth="7" PromulgateDay="13" LawType="MinisterialOrdinance"><LawNum>昭和二十三年厚生省令第二十三号</LawNum><LawBody><LawTitle Kana="しょくひんえいせいほうしこうきそく" Abbrev="" AbbrevKana="">食品衛生法施行規則</LawTitle>
     <EnactStatement>食品衛生法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2608,7 +2608,7 @@
           <Paragraph Num="4" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次に定める営業者にあつては、前項第一号中「作成し、」を「必要に応じて作成し、」と、同項第三号中「記録し、保存すること。」を「必要に応じて記録し、保存すること。」と読み替えて適用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げる営業者については、前項第一号中「作成し、」とあるのは「必要に応じて作成し、」と、同項第三号中「記録し、保存すること。」とあるのは「必要に応じて記録し、保存すること。」と読み替えて、同項の規定を適用する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2632,6 +2632,24 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">器具又は容器包装の輸入をし、又は販売をする営業を行う者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">営業者のうち次の各号に掲げる者については、前項（別表第十七第九号ハの基準に従い、公衆衛生上必要な措置を定めることに係る部分に限る。）の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定保健用食品（健康増進法に規定する特別用途表示の許可等に関する内閣府令（平成二十一年内閣府令第五十七号）第二条第一項第五号に規定する特定保健用食品をいう。以下同じ。）に係る健康増進法（平成十四年法律第百三号）第四十三条第一項の許可を受けた者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">食品表示基準第二条第一項第十号ロに規定する届出者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6595,6 +6613,23 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年八月二三日厚生労働省令第一一五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年九月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令による改正後の食品衛生法施行規則別表第十七第九号ハの規定は、同号ハの営業者がこの省令の施行の日前に健康増進法に規定する特別用途表示の許可等に関する内閣府令（平成二十一年内閣府令第五十七号）第二条第一項第五号に規定する特定保健用食品及び食品表示基準（平成二十七年内閣府令第十号）第二条第一項第十号に規定する機能性表示食品（これらの食品が食品衛生法第八条第一項に規定する指定成分等含有食品である場合を除く。）に係る健康被害の発生及び拡大のおそれがある旨の情報を得た場合については、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
@@ -11096,13 +11131,19 @@
         <Subitem1 Num="2">
           <Subitem1Title>ロ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">営業者は、製品に関する消費者からの健康被害（医師の診断を受け、当該症状が当該食品又は添加物に起因する又はその疑いがあると診断されたものに限る。以下この号において同じ。）及び法に違反する情報を得た場合には、当該情報を都道府県知事等に提供するよう努めること。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">営業者は、製品に係る健康被害（医師の診断を受け、当該症状が当該食品又は添加物に起因する又はその疑いがあると診断されたものに限る。ハにおいて同じ。）に関する情報及び法に違反する情報を得た場合には、当該情報を都道府県知事等に提供するよう努めること。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="3">
           <Subitem1Title>ハ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">営業者は、製品について、消費者及び製品を取り扱う者から異味又は異臭の発生、異物の混入その他の健康被害につながるおそれが否定できない情報を得た場合は、当該情報を都道府県知事等に提供するよう努めること。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">営業者（第六十六条の二第五項各号に掲げる者に限る。）は、特定保健用食品及び食品表示基準第二条第一項第十号に規定する機能性表示食品（これらの食品が指定成分等含有食品である場合を除く。）に係る健康被害に関する情報を収集するとともに、これらの食品に係る健康被害の発生及び拡大のおそれがある旨の情報を得た場合には、ロの規定にかかわらず、当該情報を都道府県知事等に速やかに提供すること。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="4">
+          <Subitem1Title>ニ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">営業者は、製品について、異味又は異臭の発生、異物の混入その他の健康被害につながるおそれが否定できない情報を得た場合は、当該情報を都道府県知事等に提供するよう努めること。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
       </Item>
