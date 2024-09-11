@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="064" Year="25" PromulgateMonth="06" PromulgateDay="20"><LawNum>昭和二十五年農林省令第六十四号</LawNum><LawBody><LawTitle Kana="ひりょうのひんしつのかくほとうにかんするほうりつしこうきそく" Abbrev="" AbbrevKana="">肥料の品質の確保等に関する法律施行規則</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="064" Year="25" PromulgateMonth="6" PromulgateDay="20"><LawNum>昭和二十五年農林省令第六十四号</LawNum><LawBody><LawTitle Kana="ひりょうのひんしつのかくほとうにかんするほうりつしこうきそく" Abbrev="" AbbrevKana="">肥料の品質の確保等に関する法律施行規則</LawTitle>
     <EnactStatement>肥料取締法（昭和二十五年法律第百二十七号）を実施するため及び同法に基き、肥料取締法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -2969,48 +2969,54 @@
           </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <TableStruct>
-        <TableStructTitle WritingMode="vertical">二　次の表の各項の上欄に掲げる肥料の区分に応じ、それぞれ当該各項の下欄各号に掲げる肥料のいずれかを原料として配合したもの（配合若しくは混入又は加工に伴い化学的変化により品質が低下するおそれがないものとして農林水産大臣が定める要件を満たすものを除く。）</TableStructTitle>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">石灰質肥料（農林水産大臣が指定するものを除く。）又はけい酸質肥料（シリカゲル肥料を除く。）に属する普通肥料</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　当該肥料の属する種別と異なる種別に属する普通肥料（アルカリ分を保証するもの（混合りん酸肥料を除く。以下この表において同じ。）又は苦土質肥料に属するもの（水溶性苦土を保証するものを除く。以下この表において同じ。）若しくは副産肥料（専ら苦土含有物を原料として使用したものであつて、く溶性苦土又は可溶性苦土を保証し、アルカリ分を保証しないものに限る。以下この表において同じ。）を除く。第二項において「石灰質肥料等と異なる種別の普通肥料」という。）</Sentence>
-              <Sentence Num="2" WritingMode="vertical">二　第一条の二第三号に掲げる普通肥料</Sentence>
-              <Sentence Num="3" WritingMode="vertical">三　特殊肥料（農林水産大臣が指定する特殊肥料を除く。）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">石灰質肥料等と異なる種別の普通肥料</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">特殊肥料（農林水産大臣が指定する特殊肥料に限る。）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">備考</Sentence>
-              <Sentence Num="2" WritingMode="vertical">第一条の三第一項に規定する肥料にあつては、この表の第一項上欄に掲げる肥料と同項下欄第一号に掲げる肥料を原料として配合した肥料に限る。</Sentence>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">次の表の各項の上欄に掲げる肥料の区分に応じ、それぞれ当該各項の下欄各号に掲げる肥料のいずれかを原料として配合したもの（配合若しくは混入又は加工に伴い化学的変化により品質が低下するおそれがないものとして農林水産大臣が定める要件を満たすものを除く。）</Sentence>
+        </ItemSentence>
+        <TableStruct>
+          <TableStructTitle WritingMode="vertical">　</TableStructTitle>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">一</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">石灰質肥料（農林水産大臣が指定するものを除く。）又はけい酸質肥料（シリカゲル肥料を除く。）に属する普通肥料</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">一　当該肥料の属する種別と異なる種別に属する普通肥料（アルカリ分を保証するもの（混合りん酸肥料を除く。以下この表において同じ。）又は苦土質肥料に属するもの（水溶性苦土を保証するものを除く。以下この表において同じ。）若しくは副産肥料（専ら苦土含有物を原料として使用したものであつて、く溶性苦土又は可溶性苦土を保証し、アルカリ分を保証しないものに限る。以下この表において同じ。）を除く。第二項において「石灰質肥料等と異なる種別の普通肥料」という。）</Sentence>
+                <Sentence Num="2" WritingMode="vertical">二　第一条の二第三号に掲げる普通肥料</Sentence>
+                <Sentence Num="3" WritingMode="vertical">三　特殊肥料（農林水産大臣が指定する特殊肥料を除く。）</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">二</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">石灰質肥料等と異なる種別の普通肥料</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">特殊肥料（農林水産大臣が指定する特殊肥料に限る。）</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+                <Sentence Num="1" WritingMode="vertical">備考</Sentence>
+                <Sentence Num="2" WritingMode="vertical">第一条の三第一項に規定する肥料にあつては、この表の第一項上欄に掲げる肥料と同項下欄第一号に掲げる肥料を原料として配合した肥料に限る。</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
+      </Item>
       <Item Num="3">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">配合若しくは混入又は加工に当たつて肥料の品質を低下させるような異物を混入したもの（第一条の三第三項に規定する肥料にあつては、第一条の四に規定する土壌改良資材を除く。）</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="2">
+      <Item Num="4">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">配合若しくは混入又は加工に当たつて第四条第四号に規定する材料（農林水産大臣が指定するものを除く。）を使用したもの</Sentence>
