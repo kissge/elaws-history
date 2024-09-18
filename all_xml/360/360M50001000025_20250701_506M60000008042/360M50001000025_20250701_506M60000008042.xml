@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="025" Year="60" PromulgateMonth="04" PromulgateDay="01"><LawNum>昭和六十年郵政省令第二十五号</LawNum><LawBody><LawTitle Kana="でんきつうしんじぎょうほうしこうきそく" Abbrev="電通事法施行規則" AbbrevKana="で">電気通信事業法施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="60" Num="025" PromulgateMonth="4" PromulgateDay="1" LawType="MinisterialOrdinance"><LawNum>昭和六十年郵政省令第二十五号</LawNum><LawBody><LawTitle Kana="でんきつうしんじぎょうほうしこうきそく" Abbrev="電通事法施行規則" AbbrevKana="で">電気通信事業法施行規則</LawTitle>
     <EnactStatement>電気通信事業法（昭和五十九年法律第八十六号）の規定に基づき、並びに同法を施行するため、電気通信事業法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -9711,7 +9711,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百七条第二号及び法第百十条の二第一項第二号の総務省令で定める期間は、一年とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百七条第二号及び法第百十条の二第一項第二号の総務省令で定める期間は、それぞれ第四十条の六の二第一項及び同条第二項に規定する割合を超えた日から起算して一年とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十条の三第一項の規定により新たに指定された第二種適格電気通信事業者に対して当該指定後最初に第二種交付金が交付される場合において、前項の法第百七条第二号の総務省令で定める期間については、同項中「第四十条の六の二第一項及び同条第二項に規定する割合を超えた日」とあるのは、「法第百十条の三第一項の規定により新たに指定された第二種適格電気通信事業者が当該指定を受けた日」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9845,8 +9851,40 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">総務大臣は、第十四条の五第一項の規定による報告があつた場合において、当該報告に係る単位区域が法第百十条の二第一項各号又は第二項各号の要件に該当すると認めるときは、毎事業年度経過後五月以内に、同条第一項の規定による一般支援区域の指定又は第二項の規定による特別支援区域の指定を行い、また、同条第一項各号又は第二項各号の要件に該当しないと認められるときは、同条第三項の規定による一般支援区域又は特別支援区域の指定の解除を行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣は、第十四条の五第一項の規定による報告（以下この条及び次条において「規模報告」という。）があつた場合において、当該規模報告に係る単位区域が法第百十条の二第一項各号又は第二項各号の要件に該当すると認めるときは、毎事業年度経過後五月以内に、同条第一項の規定による一般支援区域の指定又は第二項の規定による特別支援区域の指定を行い、また、同条第一項各号又は第二項各号の要件に該当しないと認められるときは、同条第三項の規定による一般支援区域又は特別支援区域の指定の解除を行うものとする。</Sentence>
               </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_8_3_2">
+            <ArticleCaption>（特別支援区域の指定等に係る特例）</ArticleCaption>
+            <ArticleTitle>第四十条の八の三の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣は、規模報告に係る単位区域が第四十条の八の五第二項第一号又は第二号に該当しなくなつた場合において、次の各号に掲げる区分に応じ、当該各号に定める要件に該当すると認められる間は、次条に規定する方法により算定した額が零を上回り、かつ、法第百十条の二第一項第二号の要件に該当すると認められる限り、引き続きそれぞれ第四十条の八の五第二項第一号又は第二号に該当するものとみなして、前条の規定を適用するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第四十条の八の五第二項第一号に定める場合に該当しなくなつたとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該単位区域において、一の電気通信事業者が第四十条の六の二第二項に規定する割合を超え、その状態で第四十条の八の五第二項第一号に定める場合に該当しなくなつた日以後継続して第二号基礎的電気通信役務を提供していること。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第四十条の八の五第二項第二号に定める場合に該当しなくなつたとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該単位区域において設置される同号に定める電気通信回線設備を所有する者が地方公共団体から電気通信事業者（地方公共団体を除く。）に変更され、当該電気通信事業者が当該単位区域において同号に定める場合に該当しなくなつた日以後継続して第二号基礎的電気通信役務を提供していること。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="40_8_4">
@@ -9869,6 +9907,16 @@
                   <Sentence Num="1" WritingMode="vertical">単位区域ごとに第二号基礎的電気通信役務の提供により通常生ずると見込まれる電気通信回線一回線当たりの平均的な収入見込額として総務大臣が別に告示する額</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="40_8_4_2">
+            <ArticleCaption>（法第百十条の二第二項第一号イの総務省令で定める額）</ArticleCaption>
+            <ArticleTitle>第四十条の八の四の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十条の二第二項第一号イの総務省令で定める額は、一回線当たり月額一万一千七百九十円とする。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="40_8_5">
@@ -9895,7 +9943,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百十条の二第二項第一号ロの総務省令で定める場合は、次の各号のいずれかに該当する場合であつて、前条に規定する方法により算定した額が、零を上回り、かつ、法第百十条の二第二項第一号イの総務省令で定める額を下回るときとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十条の二第二項第一号ロの総務省令で定める場合は、次の各号のいずれかに該当する場合であつて、第四十条の八の四に規定する方法により算定した額が、零を上回り、かつ、前条で定める額を下回るときとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -15314,8 +15362,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、電気通信事業法の一部を改正する法律（次条第五項において「改正法」という。）の施行の日（令和五年六月十六日）から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の規定による改正後の電気通信事業法施行規則（次条第一項及び第二項において「新施行規則」という。）第十四条の三第三項の規定は令和五年十月一日から適用し、第四条の規定による改正後の電気通信事業報告規則第一条第二項第九号の二及び第二十六号並びに様式十、様式十の二、様式十二、様式十二の二、様式十二の三、様式十三及び様式十三の二の規定は報告期限が同年七月一日以降である報告から適用する。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、電気通信事業法の一部を改正する法律（次条第四項において「改正法」という。）の施行の日（令和五年六月十六日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の規定による改正後の電気通信事業法施行規則（次条第一項において「新施行規則」という。）第十四条の三第三項の規定は令和五年十月一日から適用し、第四条の規定による改正後の電気通信事業報告規則第一条第二項第九号の二及び第二十六号並びに様式十、様式十の二、様式十二、様式十二の二、様式十二の三、様式十三及び様式十三の二の規定は報告期限が同年七月一日以降である報告から適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -15325,23 +15373,39 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に新施行規則第四十条の八の五第二項第一号に該当する単位区域については、当該単位区域が同号に該当しなくなった場合にあっても、当該単位区域において、電気通信回線設備の規模（新施行規則第十四条の五第一項に規定する電気通信回線設備の規模をいう。）が新施行規則第四十条の六の二第二項に規定する規模を超える電気通信事業者の数が一以下であるときに限り、当該単位区域は引き続き同号に該当するものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に新施行規則第四十条の八の五第二項第一号又は第二号に該当する単位区域については、この省令の施行の日の翌日以後最初に当該単位区域がそれぞれ同項第一号又は第二号に該当しなくなった場合において、次の各号に掲げる区分に応じ、当該各号に定める要件に該当すると認められる間は、新施行規則第四十条の八の四に規定する方法により算定した額が零を上回り、かつ、法第百十条の二第一項第二号の要件に該当すると認められる場合に限り、当該単位区域は引き続きそれぞれ新施行規則第四十条の八の五第二項第一号又は第二号に該当するものとみなす。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">新施行規則第四十条の八の五第二項第一号に定める場合に該当しなくなったとき</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該単位区域において、一の電気通信事業者が新施行規則第四十条の六の二第二項に規定する割合を超え、その状態で新施行規則第四十条の八の五第二項第一号に定める場合に該当しなくなった日以後継続して第二号基礎的電気通信役務を提供していること。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">新施行規則第四十条の八の五第二項第二号に定める場合に該当しなくなったとき</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該単位区域において設置される同号に定める電気通信回線設備を所有する者が地方公共団体から電気通信事業者（地方公共団体を除く。）に変更され、当該電気通信事業者が当該単位区域において同号に定める場合に該当しなくなった日以後継続して第二号基礎的電気通信役務を提供していること。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に新施行規則第四十条の八の五第二項第二号に該当する単位区域については、当該単位区域が同号に該当しなくなった場合にあっても、当該単位区域は引き続き同号に該当するものとみなす。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に第二号基礎的電気通信役務を提供している電気通信事業者（電気通信回線設備を設置する者に限る。）は、この省令の施行の日から六月以内に、電気通信事業法第四十二条第一項（同条第四項において読み替えて準用する場合を含む。）の規定により、第三条の規定による改正後の事業用電気通信設備規則で定める技術基準に適合することについて自ら確認し、同法第四十二条第三項（同条第四項において読み替えて準用する場合を含む。）の規定により、その結果を総務大臣に届け出なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="5">
-          <ParagraphNum>５</ParagraphNum>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に第二号基礎的電気通信役務（その契約数が三十万を超えないものに限る。）を提供している電気通信事業者（令和五年六月三十日における当該第二号基礎的電気通信役務の契約数が三十万を超える者を除く。）に対する改正法附則第三条第一項の規定の適用については、同項中「第二号基礎的電気通信役務」とあるのは、「第二号基礎的電気通信役務（その契約数が三十万を超えないものを除く。）」とする。</Sentence>
           </ParagraphSentence>
@@ -15557,6 +15621,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、令和七年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年八月三〇日総務省令第八二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年八月三十日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
