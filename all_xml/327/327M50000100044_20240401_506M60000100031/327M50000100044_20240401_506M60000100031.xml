@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="044" Year="27" PromulgateMonth="11" PromulgateDay="01"><LawNum>昭和二十七年厚生省令第四十四号</LawNum><LawBody><LawTitle Kana="けんえきしょちょうとうふくせい" Abbrev="" AbbrevKana="">検疫所長等服制</LawTitle>
+<Law Lang="ja" Era="Showa" Year="27" Num="044" PromulgateMonth="11" PromulgateDay="1" LawType="MinisterialOrdinance"><LawNum>昭和二十七年厚生省令第四十四号</LawNum><LawBody><LawTitle Kana="けんえきしょちょうとうふくせい" Abbrev="" AbbrevKana="">検疫所長等服制</LawTitle>
     <EnactStatement>検疫法（昭和二十六年法律第二百一号）第三十一条第二項の規定に基き、検疫所長及び検疫官服制を次のように定める。</EnactStatement>
     <MainProvision>
       <Paragraph Num="1">
@@ -140,13 +140,18 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable>
+    <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">一　共通</Sentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">共通</Sentence>
+                </ItemSentence>
+              </Item>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -251,7 +256,12 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">二　男性</Sentence>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">男性</Sentence>
+                </ItemSentence>
+              </Item>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -389,7 +399,12 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">三　女性</Sentence>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">女性</Sentence>
+                </ItemSentence>
+              </Item>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -748,308 +763,105 @@
           </Item>
         </Remarks>
       </TableStruct>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">共通（図中の数字は、ミリメートルを単位とする寸法を示す。）</Sentence>
-            </ItemSentence>
-          </Item>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>甲帽</FigStructTitle>
-                <Fig src="./pict/2JH00000235914.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>あごひも留めボタン</FigStructTitle>
-                <Fig src="./pict/2JH00000235915.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>前章</FigStructTitle>
-                <Fig src="./pict/2JH00000235916.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>帽章</FigStructTitle>
-                <Fig src="./pict/2JH00000235917.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>乙帽</FigStructTitle>
-                <Fig src="./pict/2JH00000235918.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle>二</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">男性（図中の数字は、ミリメートルを単位とする寸法を示す。）</Sentence>
-        </ItemSentence>
-      </Item>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>上衣</FigStructTitle>
-                <Fig src="./pict/2JH00000235919.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>上衣等のボタン</FigStructTitle>
-                <Fig src="./pict/2JH00000235920.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>胸章</FigStructTitle>
-                <Fig src="./pict/2JH00000235921.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>エンブレム</FigStructTitle>
-                <Fig src="./pict/2JH00000235922.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>袖章</FigStructTitle>
-                <Fig src="./pict/2JH00000235923.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>ズボン</FigStructTitle>
-                <Fig src="./pict/2JH00000235924.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">夏服上衣</Sentence>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">半そで</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-      </Item>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <Fig src="./pict/2JH00000235925.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">長そで</Sentence>
-        </ItemSentence>
-      </Item>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <Fig src="./pict/2JH00000235926.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle>三</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">女性</Sentence>
-        </ItemSentence>
-      </Item>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>上衣</FigStructTitle>
-                <Fig src="./pict/2JH00000235927.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>ベスト</FigStructTitle>
-                <Fig src="./pict/2JH00000235928.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>甲ズボン</FigStructTitle>
-                <Fig src="./pict/2JH00000235929.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>乙ズボン</FigStructTitle>
-                <Fig src="./pict/2JH00000235930.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>甲スカート</FigStructTitle>
-                <Fig src="./pict/2JH00000235931.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <FigStructTitle>乙スカート</FigStructTitle>
-                <Fig src="./pict/2JH00000235932.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">夏服上衣</Sentence>
-        </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title/>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">半そで</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-      </Item>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <Fig src="./pict/2JH00000235933.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-      <Item Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">長そで</Sentence>
-        </ItemSentence>
-      </Item>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
-              <FigStruct>
-                <Fig src="./pict/2JH00000235934.jpg"/>
-              </FigStruct>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
     </AppdxTable>
+    <AppdxFig>
+      <AppdxFigTitle>一　共通（図中の数字は、ミリメートルを単位とする寸法を示す。）</AppdxFigTitle>
+      <FigStruct>
+        <FigStructTitle>甲帽</FigStructTitle>
+        <Fig src="./pict/2JH00000235914.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>あごひも留めボタン</FigStructTitle>
+        <Fig src="./pict/2JH00000235915.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>前章</FigStructTitle>
+        <Fig src="./pict/2JH00000235916.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>帽章</FigStructTitle>
+        <Fig src="./pict/2JH00000235917.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>乙帽</FigStructTitle>
+        <Fig src="./pict/2JH00000235918.jpg"/>
+      </FigStruct>
+    </AppdxFig>
+    <AppdxFig>
+      <AppdxFigTitle>二　男性（図中の数字は、ミリメートルを単位とする寸法を示す。）</AppdxFigTitle>
+      <FigStruct>
+        <FigStructTitle>上衣</FigStructTitle>
+        <Fig src="./pict/2JH00000235919.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>上衣等のボタン</FigStructTitle>
+        <Fig src="./pict/2JH00000235920.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>胸章</FigStructTitle>
+        <Fig src="./pict/2JH00000235921.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>エンブレム</FigStructTitle>
+        <Fig src="./pict/2JH00000235922.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>袖章</FigStructTitle>
+        <Fig src="./pict/2JH00000235923.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>ズボン</FigStructTitle>
+        <Fig src="./pict/2JH00000235924.jpg"/>
+      </FigStruct>
+    </AppdxFig>
+    <AppdxFig>
+      <AppdxFigTitle>夏服上衣</AppdxFigTitle>
+      <FigStruct>
+        <FigStructTitle>　半そで</FigStructTitle>
+        <Fig src="./pict/2JH00000235925.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>　長そで</FigStructTitle>
+        <Fig src="./pict/2JH00000235926.jpg"/>
+      </FigStruct>
+    </AppdxFig>
+    <AppdxFig>
+      <AppdxFigTitle>三　女性</AppdxFigTitle>
+      <FigStruct>
+        <FigStructTitle>上衣</FigStructTitle>
+        <Fig src="./pict/2JH00000235927.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>ベスト</FigStructTitle>
+        <Fig src="./pict/2JH00000235928.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>甲ズボン</FigStructTitle>
+        <Fig src="./pict/2JH00000235929.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>乙ズボン</FigStructTitle>
+        <Fig src="./pict/2JH00000235930.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>甲スカート</FigStructTitle>
+        <Fig src="./pict/2JH00000235931.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>乙スカート</FigStructTitle>
+        <Fig src="./pict/2JH00000235932.jpg"/>
+      </FigStruct>
+    </AppdxFig>
+    <AppdxFig>
+      <AppdxFigTitle>夏服上衣</AppdxFigTitle>
+      <FigStruct>
+        <FigStructTitle>　半そで</FigStructTitle>
+        <Fig src="./pict/2JH00000235933.jpg"/>
+      </FigStruct>
+      <FigStruct>
+        <FigStructTitle>　長そで</FigStructTitle>
+        <Fig src="./pict/2JH00000235934.jpg"/>
+      </FigStruct>
+    </AppdxFig>
   </LawBody>
 </Law>
