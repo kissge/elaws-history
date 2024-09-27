@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="36" PromulgateMonth="01" PromulgateDay="26" LawType="CabinetOrder" Num="011">
-  <LawNum>昭和三十六年政令第十一号</LawNum>
-  <LawBody>
-    <LawTitle Kana="いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつしこうれい" Abbrev="薬事法施行令,医薬品医療機器等法施行令,薬機法施行令" AbbrevKana="や,い,や">医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="36" Num="011" PromulgateMonth="1" PromulgateDay="26" LawType="CabinetOrder"><LawNum>昭和三十六年政令第十一号</LawNum><LawBody><LawTitle Kana="いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつしこうれい" Abbrev="薬事法施行令,医薬品医療機器等法施行令,薬機法施行令" AbbrevKana="や,い,や">医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、薬事法（昭和三十五年法律第百四十五号）第二条第四項、第十一条（第三十八条において準用する場合を含む。）、第二十八条第二項、第三十条第三項、第四十三条第二項、第六十七条第一項、第七十七条第三項、第七十八条第一項、第八十条及び第八十二条の規定に基づき、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -138,7 +135,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">大麻取締法（昭和二十三年法律第百二十四号）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">大麻草の栽培の規制に関する法律（昭和二十三年法律第百二十四号）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -8591,7 +8588,20 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和六年九月一一日政令第二八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この政令は、大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の施行の日（令和六年十二月十二日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
       <Item Num="1">
@@ -9417,7 +9427,7 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第一条の二関係）</RelatedArticleNum>
       <Item Num="1">
