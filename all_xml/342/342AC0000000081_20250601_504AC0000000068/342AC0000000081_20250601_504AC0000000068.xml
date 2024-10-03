@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="081" Year="42" PromulgateMonth="07" PromulgateDay="25"><LawNum>昭和四十二年法律第八十一号</LawNum><LawBody><LawTitle Kana="じゅうみんきほんだいちょうほう" Abbrev="住基法,住基台帳法" AbbrevKana="じ,じ">住民基本台帳法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="42" Num="081" PromulgateMonth="7" PromulgateDay="25" LawType="Act"><LawNum>昭和四十二年法律第八十一号</LawNum><LawBody><LawTitle Kana="じゅうみんきほんだいちょうほう" Abbrev="住基法,住基台帳法" AbbrevKana="じ,じ">住民基本台帳法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -165,6 +165,12 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="1_2">
+              <ItemTitle>一の二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">氏名の振り仮名（戸籍法（昭和二十二年法律第二百二十四号）第十三条第一項第二号に規定する氏名の振り仮名をいう。以下同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1126,6 +1132,12 @@
                 <Sentence Num="1" WritingMode="vertical">氏名</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="2_2">
+              <ItemTitle>二の二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">氏名の振り仮名</Sentence>
+              </ItemSentence>
+            </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
@@ -1154,6 +1166,12 @@
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">住民票に記載された住民票コード（国外転出者にあつては、その国外転出届をしたことにより消除された住民票に記載されていた住民票コード。第三十条の三十七及び第三十条の三十八において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる事項のほか、政令で定める事項</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1316,7 +1334,7 @@
                     <Sentence Num="1" WritingMode="vertical">第七条第四号、第五号及び第八号の二から第十四号までに掲げる</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第十七条第一号及び第七号に掲げる事項並びに第十七条の二第一項の規定により記載された</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十七条第一号、第七号及び第八号に掲げる事項並びに第十七条の二第一項の規定により記載された</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -1371,7 +1389,7 @@
                     <Sentence Num="1" WritingMode="vertical">第七条第四号、第五号、第九号から第十二号まで及び第十四号に掲げる</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第十七条第一号に掲げる事項及び第十七条の二第一項の規定により記載された</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十七条第一号及び第八号に掲げる事項並びに第十七条の二第一項の規定により記載された</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -1415,7 +1433,7 @@
                     <Sentence Num="1" WritingMode="vertical">基礎証明事項のほか基礎証明事項以外の事項（第七条第八号の二及び第十三号に掲げる事項を除く。以下この項において同じ。）の全部若しくは一部が表示された住民票の写し又は基礎証明事項のほか基礎証明事項以外の事項の全部若しくは一部を記載した住民票記載事項証明書</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第十七条第二号から第六号までに掲げる事項のほか同条第一号に掲げる事項及び第十七条の二第一項の規定により記載された事項の全部又は一部が表示された第二十条第一項に規定する戸籍の附票の写し</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十七条第二号から第六号までに掲げる事項のほか同条第一号及び第八号に掲げる事項並びに第十七条の二第一項の規定により記載された事項の全部又は一部が表示された第二十条第一項に規定する戸籍の附票の写し</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -1589,7 +1607,7 @@
                     <Sentence Num="1" WritingMode="vertical">第七条第四号、第五号及び第八号の二から第十四号までに掲げる</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第十七条第一号及び第七号に掲げる事項並びに第十七条の二第一項の規定により記載された</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十七条第一号、第七号及び第八号に掲げる事項並びに第十七条の二第一項の規定により記載された</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -1655,7 +1673,7 @@
                     <Sentence Num="1" WritingMode="vertical">第七条第四号、第五号、第九号から第十二号まで及び第十四号に掲げる</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第十七条第一号に掲げる事項及び第十七条の二第一項の規定により記載された</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十七条第一号及び第八号に掲げる事項並びに第十七条の二第一項の規定により記載された</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -1710,7 +1728,7 @@
                     <Sentence Num="1" WritingMode="vertical">基礎証明事項のほか基礎証明事項以外の事項（第七条第八号の二及び第十三号に掲げる事項を除く。以下この項において同じ。）の全部若しくは一部が表示された住民票の写し又は基礎証明事項のほか基礎証明事項以外の事項の全部若しくは一部を記載した住民票記載事項証明書</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第十七条第二号から第六号までに掲げる事項のほか同条第一号に掲げる事項及び第十七条の二第一項の規定により記載された事項の全部又は一部が表示された第二十一条の三第一項に規定する戸籍の附票の除票の写し</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十七条第二号から第六号までに掲げる事項のほか同条第一号及び第八号に掲げる事項並びに第十七条の二第一項の規定により記載された事項の全部又は一部が表示された第二十一条の三第一項に規定する戸籍の附票の除票の写し</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -2872,7 +2890,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">市町村長は、戸籍の附票の記載、消除又は第十七条第二号、第三号及び第五号から第七号までに掲げる事項の全部若しくは一部についての記載の修正を行つた場合には、当該戸籍の附票の記載等に係る附票本人確認情報（戸籍の附票に記載されている同条第二号、第三号及び第五号から第七号までに掲げる事項（戸籍の附票の消除を行つた場合には、当該戸籍の附票に記載されていたこれらの事項）並びに戸籍の附票の記載等に関する事項で政令で定めるものをいう。以下同じ。）を都道府県知事に通知するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、戸籍の附票の記載、消除又は第十七条第二号から第三号まで及び第五号から第七号までに掲げる事項の全部若しくは一部についての記載の修正を行つた場合には、当該戸籍の附票の記載等に係る附票本人確認情報（戸籍の附票に記載されている同条第二号から第三号まで及び第五号から第七号までに掲げる事項（戸籍の附票の消除を行つた場合には、当該戸籍の附票に記載されていたこれらの事項）並びに戸籍の附票の記載等に関する事項で政令で定めるものをいう。以下同じ。）を都道府県知事に通知するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3570,7 +3588,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">日本の国籍を有しない者のうち次の表の上欄に掲げるものであつて市町村の区域内に住所を有するもの（以下「外国人住民」という。）に係る住民票には、第七条の規定にかかわらず、同条各号（第五号、第六号及び第九号を除く。）に掲げる事項、国籍等（国籍の属する国又は出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下この章において「入管法」という。）第二条第五号ロに規定する地域をいう。以下同じ。）、外国人住民となつた年月日（外国人住民が同表の上欄に掲げる者となつた年月日又は住民となつた年月日のうち、いずれか遅い年月日をいう。以下同じ。）及び同表の上欄に掲げる者の区分に応じそれぞれ同表の下欄に掲げる事項について記載をする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本の国籍を有しない者のうち次の表の上欄に掲げるものであつて市町村の区域内に住所を有するもの（以下「外国人住民」という。）に係る住民票には、第七条の規定にかかわらず、同条各号（第一号の二、第五号、第六号及び第九号を除く。）に掲げる事項、国籍等（国籍の属する国又は出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下この章において「入管法」という。）第二条第五号ロに規定する地域をいう。以下同じ。）、外国人住民となつた年月日（外国人住民が同表の上欄に掲げる者となつた年月日又は住民となつた年月日のうち、いずれか遅い年月日をいう。以下同じ。）及び同表の上欄に掲げる者の区分に応じそれぞれ同表の下欄に掲げる事項について記載をする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
@@ -3663,7 +3681,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法及び入管特例法に定める事務を管理し、又は執行するに当たつて、外国人住民についての第七条第一号から第三号までに掲げる事項、国籍等又は第三十条の四十五の表の下欄に掲げる事項に変更があつたこと又は誤りがあることを知つたときは、遅滞なく、その旨を当該外国人住民が記録されている住民基本台帳を備える市町村の市町村長に通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法及び入管特例法に定める事務を管理し、又は執行するに当たつて、外国人住民についての第七条第一号、第二号及び第三号に掲げる事項、国籍等又は第三十条の四十五の表の下欄に掲げる事項に変更があつたこと又は誤りがあることを知つたときは、遅滞なく、その旨を当該外国人住民が記録されている住民基本台帳を備える市町村の市町村長に通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3693,10 +3711,10 @@
                     <Sentence Num="1" WritingMode="vertical">第十二条の二第一項</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第八号まで、第九号から第十二号まで及び第十四号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">から第八号まで、第九号から第十二号まで及び第十四号</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第四号まで、第七号、第八号、第十号から第十二号まで及び第十四号に掲げる事項、第三十条の四十五に規定する国籍等及び外国人住民となつた年月日並びに同条の表の下欄</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">、第二号から第四号まで、第七号、第八号、第十号から第十二号まで及び第十四号に掲げる事項、第三十条の四十五に規定する国籍等及び外国人住民となつた年月日並びに同条の表の下欄</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3715,10 +3733,10 @@
                     <Sentence Num="1" WritingMode="vertical">第十二条の三第一項</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">及び第六号から第八号までに掲げる事項</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">から第三号まで及び第六号から第八号までに掲げる事項</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">、第七号及び第八号に掲げる事項並びに第三十条の四十五に規定する外国人住民となつた年月日</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">、第二号、第三号、第七号及び第八号に掲げる事項並びに第三十条の四十五に規定する外国人住民となつた年月日</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3748,10 +3766,10 @@
                     <Sentence Num="1" WritingMode="vertical">第十五条の四第二項</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第八号まで、第九号から第十二号まで及び第十四号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">から第八号まで、第九号から第十二号まで及び第十四号</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第四号まで、第七号、第八号、第十号から第十二号まで及び第十四号に掲げる事項、第三十条の四十五に規定する国籍等及び外国人住民となつた年月日並びに同条の表の下欄</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">、第二号から第四号まで、第七号、第八号、第十号から第十二号まで及び第十四号に掲げる事項、第三十条の四十五に規定する国籍等及び外国人住民となつた年月日並びに同条の表の下欄</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3759,10 +3777,10 @@
                     <Sentence Num="1" WritingMode="vertical">第十五条の四第三項</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">及び第六号から第八号までに掲げる事項</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">から第三号まで及び第六号から第八号までに掲げる事項</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">、第七号及び第八号に掲げる事項並びに第三十条の四十五に規定する外国人住民となつた年月日</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">、第二号、第三号、第七号及び第八号に掲げる事項並びに第三十条の四十五に規定する外国人住民となつた年月日</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -10607,6 +10625,91 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（住民基本台帳法の一部改正に伴う電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第三号に掲げる規定の施行の日（以下「第三号施行日」という。）から同条第四号に掲げる規定の施行の日（次条第三項において「第四号施行日」という。）の前日までの間における次の表の上欄に掲げる電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（次条において「公的個人認証法」という。）の規定の適用については、これらの規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三条第二項及び第二十二条第二項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">から第三号まで</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">、第二号、第三号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">第三条の二第二項、第七条第一項第三号、第十二条第一号、第十六条の二第二項、第十六条の六第一項第三号、第二十二条の二第二項及び第三十五条の二第二項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">から第三号まで</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">、第二号、第三号</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">から第六号まで</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">及び第三号から第六号まで</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">第七条第二項及び第十六条の六第二項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">「及び</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">「、第三号及び</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">から第六号まで</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">及び第三号から第六号まで</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">「に</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">「及び第三号に</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">及びその</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">並びにその</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
         </Paragraph>
       </Article>
       <Article Num="20">
