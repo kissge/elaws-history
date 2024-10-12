@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="041" Year="02" PromulgateMonth="09" PromulgateDay="12"><LawNum>平成二年通商産業省令第四十一号</LawNum><LawBody><LawTitle Kana="こうぎょうしょゆうけんにかんするてつづきとうのとくれいにかんするほうりつしこうきそく" Abbrev="" AbbrevKana="">工業所有権に関する手続等の特例に関する法律施行規則</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="02" Num="041" PromulgateMonth="9" PromulgateDay="12" LawType="MinisterialOrdinance"><LawNum>平成二年通商産業省令第四十一号</LawNum><LawBody><LawTitle Kana="こうぎょうしょゆうけんにかんするてつづきとうのとくれいにかんするほうりつしこうきそく" Abbrev="" AbbrevKana="">工業所有権に関する手続等の特例に関する法律施行規則</LawTitle>
     <EnactStatement>工業所有権に関する手続等の特例に関する法律（平成二年法律第三十号）第六条第三項、第七条第一項、第八条第一項及び第五項、第九条第一項、第十三条、第十四条第一項及び第二項、第十五条第一項、第十七条、第二十二条第二項、第三十一条、第三十三条第二項、第三十六条、第三十七条第一号、附則第四条並びに附則第五条並びに工業所有権に関する手続等の特例に関する法律施行令（平成二年政令第二百五十八号）第一条第九号及び第十二号、第二条、第三条、第五条、第六条、第十五条第三項並びに附則第九条第一項の規定に基づき、並びに同法及び同令を実施するため、工業所有権に関する手続等の特例に関する法律施行規則を次のように制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -6572,6 +6572,939 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年九月二七日経済産業省令第六三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和七年四月一日（以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に工業所有権に関する手続等の特例に関する法律（以下「特例法」という。）第三十六条第一項の規定又は第三十九条の規定により準用する特例法第十九条の二第一項の規定により次の表の上欄に掲げる区分の登録又はその更新を受けている者は、それぞれ同表の中欄に掲げる区分の登録又はその更新を受けた者とみなし、同表の上欄に掲げる区分についてした登録又はその更新の申請は、それぞれ同表の中欄に掲げる区分についてした登録又はその更新の申請とみなす。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該登録又はその更新を受けた者とみなされる者に係る当該登録の有効期間（当該登録の有効期間について特例法第三十九条の規定により準用する特例法第十九条の二第一項の規定により更新を受けたときにあっては、当該更新を受けた登録の有効期間）は、工業所有権に関する手続等の特例に関する法律施行令（平成二年政令第二百五十八号。以下「令」という。）第二条の規定にかかわらず、同表の下欄に掲げる期間とする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">この省令による改正前の工業所有権に関する手続等の特例に関する法律施行規則（以下「旧規則」という。）別表第二の上欄に掲げる区分</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">この省令による改正後の工業所有権に関する手続等の特例に関する法律施行規則（以下「新規則」という。）別表第二の上欄に掲げる区分</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">有効期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる一　先行技術調査（計測）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる一　先行技術調査（計測）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間（当該登録の有効期間について特例法第三十九条の規定により準用する特例法第十九条の二第一項の規定により更新を受けたときにあっては、当該更新を受けた登録の有効期間。以下この条において同じ。）の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる一　先行技術調査（計測）又は二　先行技術調査（応用物理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二　先行技術調査（応用物理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三　先行技術調査（分析診断）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三　先行技術調査（分析診断）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二　先行技術調査（応用物理）、四　先行技術調査（応用光学）、三十七　先行技術調査（映像システム）又は三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる四　先行技術調査（応用光学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる四　先行技術調査（応用光学）又は五　先行技術調査（光デバイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる五　先行技術調査（光デバイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる四　先行技術調査（応用光学）、六　先行技術調査（事務機器）又は八　先行技術調査（アミューズメント）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる六　先行技術調査（事務機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる七　先行技術調査（自然資源）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる七　先行技術調査（自然資源）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる八　先行技術調査（アミューズメント）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる八　先行技術調査（アミューズメント）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる九　先行技術調査（住環境）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる九　先行技術調査（住環境）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十　先行技術調査（自動制御）、十一　先行技術調査（動力機械）、二十二　先行技術調査（電気化学）又は三十五　先行技術調査（電力システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十　先行技術調査（自動制御）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十　先行技術調査（自動制御）又は十一　先行技術調査（動力機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十一　先行技術調査（動力機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十二　先行技術調査（運輸）、二十七　先行技術調査（プラスチック工学）又は三十四　先行技術調査（伝送システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十二　先行技術調査（運輸）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十三　先行技術調査（一般機械）又は十六　先行技術調査（繊維包装機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十三　先行技術調査（一般機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十四　先行技術調査（生産機械）又は二十一　先行技術調査（金属・金属加工）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十四　先行技術調査（生産機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十五　先行技術調査（搬送）又は三十九　先行技術調査（電気機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十五　先行技術調査（搬送）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十六　先行技術調査（繊維包装機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十六　先行技術調査（繊維包装機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十七　先行技術調査（生活機器）、十八　先行技術調査（熱機器）、二十五　先行技術調査（有機化学）又は二十九　先行技術調査（繊維・積層体）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十七　先行技術調査（生活機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十八　先行技術調査（熱機器）又は二十六　先行技術調査（環境化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十八　先行技術調査（熱機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる十七　先行技術調査（生活機器）又は十九　先行技術調査（医療機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる十九　先行技術調査（医療機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十　先行技術調査（無機化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十　先行技術調査（無機化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十一　先行技術調査（金属・金属加工）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十一　先行技術調査（金属）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十二　先行技術調査（電気化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十二　先行技術調査（電池）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十三　先行技術調査（半導体機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十三　先行技術調査（電子デバイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十四　先行技術調査（生命工学・医療）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十四　先行技術調査（生命工学・医療・食品）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十四　先行技術調査（生命工学・医療）又は二十五　先行技術調査（有機化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十五　先行技術調査（有機化学・化学応用）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十　先行技術調査（無機化学）又は二十六　先行技術調査（環境化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十六　先行技術調査（環境化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十七　先行技術調査（プラスチック工学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十七　先行技術調査（樹脂・樹脂成形）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十八　先行技術調査（高分子）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十八　先行技術調査（高分子）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十五　先行技術調査（有機化学）又は二十九　先行技術調査（繊維・積層体）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる二十九　先行技術調査（繊維・積層体）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十　先行技術調査（有機化合物）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十　先行技術調査（有機化合物）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十一　先行技術調査（電子商取引）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十一　先行技術調査（電子商取引）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる八　先行技術調査（アミューズメント）又は三十二　先行技術調査（インターフェイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十二　先行技術調査（ユーザーエクスペリエンス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十三　先行技術調査（情報処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十三　先行技術調査（情報処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十四　先行技術調査（伝送システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十四　先行技術調査（伝送システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる二十二　先行技術調査（電気化学）、三十四　先行技術調査（伝送システム）又は三十五　先行技術調査（電力システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十五　先行技術調査（電力システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十二　先行技術調査（インターフェイス）又は三十六　先行技術調査（デジタル通信）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十六　先行技術調査（デジタル通信）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十七　先行技術調査（映像システム）又は三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十七　先行技術調査（映像システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる三十七　先行技術調査（映像システム）又は三十九　先行技術調査（電気機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる三十九　先行技術調査（電気機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第二の上欄に掲げる四十　分類及び要約書の記載の適合性についての調査</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第二の上欄に掲げる四十　分類及び要約書の記載の適合性についての調査</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に特例法第三十九条の二の規定又は第三十九条の十一の規定により準用する特例法第十九条の二第一項の規定により次の表の上欄に掲げる区分の登録又はその更新を受けている者は、それぞれ同表の中欄に掲げる区分の登録又はその更新を受けた者とみなし、同表の上欄に掲げる区分についてした登録又はその更新の申請は、それぞれ同表の中欄に掲げる区分についてした登録又はその更新の申請とみなす。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該登録又はその更新を受けた者とみなされる者に係る当該登録の有効期間（当該登録の有効期間について特例法第三十九条の十一の規定により準用する特例法第十九条の二第一項の規定により更新を受けたときにあっては、当該更新を受けた登録の有効期間）は、令第二条の規定にかかわらず、同表の下欄に掲げる期間とする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる区分</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる区分</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">有効期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる一　先行技術調査（計測）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる一　先行技術調査（計測）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間（当該登録の有効期間について特例法第三十九条の十一の規定により準用する特例法第十九条の二第一項の規定により更新を受けたときにあっては、当該更新を受けた登録の有効期間。以下この条において同じ。）の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる一　先行技術調査（計測）又は二　先行技術調査（応用物理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二　先行技術調査（応用物理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三　先行技術調査（分析診断）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三　先行技術調査（分析診断）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二　先行技術調査（応用物理）、四　先行技術調査（応用光学）、三十七　先行技術調査（映像システム）又は三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる四　先行技術調査（応用光学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる四　先行技術調査（応用光学）又は五　先行技術調査（光デバイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる五　先行技術調査（光デバイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる四　先行技術調査（応用光学）、六　先行技術調査（事務機器）又は八　先行技術調査（アミューズメント）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる六　先行技術調査（事務機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる七　先行技術調査（自然資源）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる七　先行技術調査（自然資源）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる八　先行技術調査（アミューズメント）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる八　先行技術調査（アミューズメント）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる九　先行技術調査（住環境）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる九　先行技術調査（住環境）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十　先行技術調査（自動制御）、十一　先行技術調査（動力機械）、二十二　先行技術調査（電気化学）又は三十五　先行技術調査（電力システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十　先行技術調査（自動制御）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十　先行技術調査（自動制御）又は十一　先行技術調査（動力機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十一　先行技術調査（動力機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十二　先行技術調査（運輸）、二十七　先行技術調査（プラスチック工学）又は三十四　先行技術調査（伝送システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十二　先行技術調査（運輸）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十三　先行技術調査（一般機械）又は十六　先行技術調査（繊維包装機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十三　先行技術調査（一般機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十四　先行技術調査（生産機械）又は二十一　先行技術調査（金属・金属加工）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十四　先行技術調査（生産機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十五　先行技術調査（搬送）又は三十九　先行技術調査（電気機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十五　先行技術調査（搬送）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十六　先行技術調査（繊維包装機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十六　先行技術調査（繊維包装機械）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十七　先行技術調査（生活機器）、十八　先行技術調査（熱機器）、二十五　先行技術調査（有機化学）又は二十九　先行技術調査（繊維・積層体）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十七　先行技術調査（生活機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十八　先行技術調査（熱機器）又は二十六　先行技術調査（環境化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十八　先行技術調査（熱機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる十七　先行技術調査（生活機器）又は十九　先行技術調査（医療機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる十九　先行技術調査（医療機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十　先行技術調査（無機化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十　先行技術調査（無機化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十一　先行技術調査（金属・金属加工）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十一　先行技術調査（金属）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十二　先行技術調査（電気化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十二　先行技術調査（電池）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十三　先行技術調査（半導体機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十三　先行技術調査（電子デバイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十四　先行技術調査（生命工学・医療）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十四　先行技術調査（生命工学・医療・食品）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十四　先行技術調査（生命工学・医療）又は二十五　先行技術調査（有機化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十五　先行技術調査（有機化学・化学応用）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十　先行技術調査（無機化学）又は二十六　先行技術調査（環境化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十六　先行技術調査（環境化学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十七　先行技術調査（プラスチック工学）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十七　先行技術調査（樹脂・樹脂成形）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十八　先行技術調査（高分子）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十八　先行技術調査（高分子）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十五　先行技術調査（有機化学）又は二十九　先行技術調査（繊維・積層体）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる二十九　先行技術調査（繊維・積層体）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十　先行技術調査（有機化合物）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十　先行技術調査（有機化合物）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十一　先行技術調査（電子商取引）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十一　先行技術調査（電子商取引）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる八　先行技術調査（アミューズメント）又は三十二　先行技術調査（インターフェイス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十二　先行技術調査（ユーザーエクスペリエンス）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十三　先行技術調査（情報処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十三　先行技術調査（情報処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十四　先行技術調査（伝送システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十四　先行技術調査（伝送システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる二十二　先行技術調査（電気化学）、三十四　先行技術調査（伝送システム）又は三十五　先行技術調査（電力システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十五　先行技術調査（電力システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうち最も長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十二　先行技術調査（インターフェイス）又は三十六　先行技術調査（デジタル通信）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十六　先行技術調査（デジタル通信）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十七　先行技術調査（映像システム）又は三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十七　先行技術調査（映像システム）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十八　先行技術調査（画像処理）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧規則別表第三の上欄に掲げる三十七　先行技術調査（映像システム）又は三十九　先行技術調査（電気機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">新規則別表第三の上欄に掲げる三十九　先行技術調査（電気機器）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">施行日における上欄に掲げる区分に係る特定登録調査機関として受けた登録の有効期間の残存期間のうちいずれか長い期間と同一の期間</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条、第三条、第四条、第十条、第二十三条、第二十三条の四、第三十四条の二関係）</RelatedArticleNum>
@@ -7723,7 +8656,7 @@
               <Sentence Num="1" WritingMode="vertical">一　先行技術調査（計測）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">時計・計測一般、測長・測量、距離測定、流れ・力の測定、電気測定、物理的測定、光学的測定等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">時計・計測一般、測長・測量、距離測定、流れ・力の測定、電気測定等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7731,7 +8664,7 @@
               <Sentence Num="1" WritingMode="vertical">二　先行技術調査（応用物理）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電子管、表示制御、半導体露光、光学的画像処理、原子力等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">エネルギー線応用、露光装置、原子力、光学的測定、電磁・音響分析等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7747,7 +8680,7 @@
               <Sentence Num="1" WritingMode="vertical">四　先行技術調査（応用光学）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電子写真材料、マーキング、写真、フォトレジスト、光学要素、レンズ・光学系、カメラ、ＥＬ素子等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">光学要素、レンズ・光学系、カメラ、表示制御、光学的画像処理、ＴＶ細部等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7755,7 +8688,7 @@
               <Sentence Num="1" WritingMode="vertical">五　先行技術調査（光デバイス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">発光素子、受光素子、光制御、液晶等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">発光ダイオード、受光素子、光制御、液晶パネル、エレクトロルミネッセンス光源等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7763,7 +8696,7 @@
               <Sentence Num="1" WritingMode="vertical">六　先行技術調査（事務機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電子写真（工程・制御）、印刷、インクジェットプリンター、プリンター一般等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電子写真（工程・制御）、印刷、インクジェットプリンター、プリンター一般、電子写真材料、マーキング、写真、フォトレジスト、事務用品等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7771,7 +8704,7 @@
               <Sentence Num="1" WritingMode="vertical">七　先行技術調査（自然資源）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">農機、栽培、木材、土木施工、土木構造物等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農機、栽培、木材、水工基礎、陸路トンネル掘削等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7779,7 +8712,7 @@
               <Sentence Num="1" WritingMode="vertical">八　先行技術調査（アミューズメント）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">パチンコ・スロットマシン、ゲーム、運動・遊具、事務用品等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">パチンコ・スロットマシン等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7795,7 +8728,7 @@
               <Sentence Num="1" WritingMode="vertical">十　先行技術調査（自動制御）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">制御・警報、電動車両の制御、交通システム、電動機・発電機、電動機・発電機制御等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電動車両の制御、電動機・発電機、電動機・発電機制御、流体機械、流体制御、燃料電池システム、電路の調整（インバータ、コンバータ、電流・電圧の調整）等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7803,7 +8736,7 @@
               <Sentence Num="1" WritingMode="vertical">十一　先行技術調査（動力機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">燃料供給装置、内燃機関制御、排気処理、エンジン部品、タービン、車両統合制御、流体機械、流体制御等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">燃料供給装置、内燃機関制御、排気処理、エンジン部品、タービン、交通システム等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7811,7 +8744,7 @@
               <Sentence Num="1" WritingMode="vertical">十二　先行技術調査（運輸）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">車体構造、二輪車、船舶、車両基盤、操向・安全、レスキュー、ハイブリッド電気車両等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">車体構造、二輪車、船舶、車両基盤、操向・安全、レスキュー、ハイブリッド電気車両、タイヤ、警報等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7819,7 +8752,7 @@
               <Sentence Num="1" WritingMode="vertical">十三　先行技術調査（一般機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">軸受、変速機制御、伝動機構、制動、防振等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">軸受、変速機制御、伝動機構、防振、紙送り等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7827,7 +8760,7 @@
               <Sentence Num="1" WritingMode="vertical">十四　先行技術調査（生産機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">研削加工、工作機械一般、溶接、ロボティクス、制御・組立等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">研削加工、工作機械一般、溶接、ロボティクス、制御・組立、炉等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7835,7 +8768,7 @@
               <Sentence Num="1" WritingMode="vertical">十五　先行技術調査（搬送）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">運搬・実装、扛重、コネクタ、スイッチ等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">運搬・実装、扛重、コネクタ、スイッチ、印刷回路とその製造、電気部品の実装、電気装置の筐体等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7843,7 +8776,7 @@
               <Sentence Num="1" WritingMode="vertical">十六　先行技術調査（繊維包装機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">紙送り、被服・繊維機械、包装応用、容器一般等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">被服・繊維機械、包装応用、容器一般等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7851,7 +8784,7 @@
               <Sentence Num="1" WritingMode="vertical">十七　先行技術調査（生活機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">生活家電、照明回路、照明機器、生活用品、チェック装置等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">生活家電、照明回路、照明機器、生活用品、チェック装置、調理機器、固体廃棄物の処理、紙等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7859,7 +8792,7 @@
               <Sentence Num="1" WritingMode="vertical">十八　先行技術調査（熱機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">給湯、管一般、調理、加熱、空調、冷凍等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">給湯、管一般、加熱、空調、冷凍、固体分離等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7867,7 +8800,7 @@
               <Sentence Num="1" WritingMode="vertical">十九　先行技術調査（医療機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医薬注入、物理療法、手術、補綴等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医薬注入、物理療法、手術、補綴、シート・ベッド等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7875,28 +8808,28 @@
               <Sentence Num="1" WritingMode="vertical">二十　先行技術調査（無機化学）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">触媒、無機化合物、蒸着・単結晶成長、コンクリート、セラミックス、ガラス等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">無機化合物、蒸着・単結晶成長、コンクリート、セラミックス、ガラス等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十一　先行技術調査（金属・金属加工）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十一　先行技術調査（金属）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">精錬・鋳造・圧延、合金製造、熱処理・炉、合金・溶接材料、表面処理等</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十二　先行技術調査（電気化学）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">燃料電池システム、電極、活物質、リチウム電池、アルカリ電池、燃料電池、電池の要素・実装、電線、電線の製造等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精錬・鋳造・圧延、合金製造、熱処理、合金・溶接材料、金属の表面処理等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十三　先行技術調査（半導体機器）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十二　先行技術調査（電池）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">電極、活物質、リチウム電池、アルカリ電池、燃料電池、電池の要素・実装等</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十三　先行技術調査（電子デバイス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">半導体素子、半導体集積回路、半導体素子の製造、半導体素子の実装、熱電素子、超電導素子、圧電素子、磁気抵抗効果素子等</Sentence>
@@ -7904,18 +8837,18 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十四　先行技術調査（生命工学・医療）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十四　先行技術調査（生命工学・医療・食品）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">化合物含有医薬、蛋白・抗原抗体含有医薬、製剤・医療材料、化粧料、バイオテクノロジー、微生物・酵素、食品等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">化合物含有医薬、バイオ医薬・再生医療、製剤・医療材料、遺伝子工学・タンパク質工学、発酵・微生物、食品等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十五　先行技術調査（有機化学）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十五　先行技術調査（有機化学・化学応用）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">有機化合物の製法、農薬・染料、石油化学、応用有機材料、インク、接着剤、固体廃棄物、乳化・分散・マイクロカプセル等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">有機化合物の製法、農薬・染料、石油化学、応用有機材料、インク、乳化・分散・マイクロカプセル、化粧料等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7923,15 +8856,15 @@
               <Sentence Num="1" WritingMode="vertical">二十六　先行技術調査（環境化学）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">膜、水処理、固体分離、濾過・液分離、排ガス、処理操作一般、混合等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">膜、水処理、濾過・液分離、排ガス、処理操作一般、混合、触媒等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十七　先行技術調査（プラスチック工学）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十七　先行技術調査（樹脂・樹脂成形）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">高分子処理、樹脂成形、タイヤ、発泡成形等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">高分子処理、樹脂成形、発泡成形等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7947,7 +8880,7 @@
               <Sentence Num="1" WritingMode="vertical">二十九　先行技術調査（繊維・積層体）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">繊維、積層体、塗装、皮革、紙等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">繊維、積層体、皮革、接着等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7968,10 +8901,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十二　先行技術調査（インターフェイス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三十二　先行技術調査（ユーザーエクスペリエンス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">マンマシンインターフェイス、計算機細部等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">マンマシンインターフェイス、ゲーム、運動・遊具等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7987,7 +8920,7 @@
               <Sentence Num="1" WritingMode="vertical">三十四　先行技術調査（伝送システム）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">移動体通信、電話システム、警報、基礎伝送回路、パルス回路、増幅器等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">移動体通信、電話システム等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7995,7 +8928,7 @@
               <Sentence Num="1" WritingMode="vertical">三十五　先行技術調査（電力システム）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">送配電、充放電、電路の調整（インバータ、コンバータ、電流・電圧の調整）、電線の据付等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">送配電、電線、電線の据付、電線の製造、基礎伝送回路、パルス回路、増幅器等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8003,7 +8936,7 @@
               <Sentence Num="1" WritingMode="vertical">三十六　先行技術調査（デジタル通信）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">データ伝送、デジタル変調、符号変換、伝送方式、マイクロ波、データネットワーク等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">データ伝送、デジタル変調、符号変換、伝送方式、マイクロ波、データネットワーク、計算機細部等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8011,7 +8944,7 @@
               <Sentence Num="1" WritingMode="vertical">三十七　先行技術調査（映像システム）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">ビデオ規格、ビデオ配信、ＴＶカメラ、ＴＶ細部、音響、楽器・音声処理、情報記録等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ビデオ規格、ビデオ配信、情報記録、ＦＡＸ等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8019,7 +8952,7 @@
               <Sentence Num="1" WritingMode="vertical">三十八　先行技術調査（画像処理）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">画像処理、ＦＡＸ、ＣＧ、ＣＡＤ等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">画像処理、ＣＧ、ＣＡＤ等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8027,7 +8960,7 @@
               <Sentence Num="1" WritingMode="vertical">三十九　先行技術調査（電気機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">抵抗器、磁石・インダクタンス、コンデンサ、印刷回路とその製造、電気部品の実装、電気装置の筐体等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">抵抗器、磁石・インダクタンス、コンデンサ、音響、楽器・音声処理等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8059,7 +8992,7 @@
               <Sentence Num="1" WritingMode="vertical">一　先行技術調査（計測）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">時計・計測一般、測長・測量、距離測定、流れ・力の測定、電気測定、物理的測定、光学的測定等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">時計・計測一般、測長・測量、距離測定、流れ・力の測定、電気測定等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8067,7 +9000,7 @@
               <Sentence Num="1" WritingMode="vertical">二　先行技術調査（応用物理）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電子管、表示制御、半導体露光、光学的画像処理、原子力等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">エネルギー線応用、露光装置、原子力、光学的測定、電磁・音響分析等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8083,7 +9016,7 @@
               <Sentence Num="1" WritingMode="vertical">四　先行技術調査（応用光学）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電子写真材料、マーキング、写真、フォトレジスト、光学要素、レンズ・光学系、カメラ、ＥＬ素子等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">光学要素、レンズ・光学系、カメラ、表示制御、光学的画像処理、ＴＶ細部等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8091,7 +9024,7 @@
               <Sentence Num="1" WritingMode="vertical">五　先行技術調査（光デバイス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">発光素子、受光素子、光制御、液晶等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">発光ダイオード、受光素子、光制御、液晶パネル、エレクトロルミネッセンス光源等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8099,7 +9032,7 @@
               <Sentence Num="1" WritingMode="vertical">六　先行技術調査（事務機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電子写真（工程・制御）、印刷、インクジェットプリンター、プリンター一般等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電子写真（工程・制御）、印刷、インクジェットプリンター、プリンター一般、電子写真材料、マーキング、写真、フォトレジスト、事務用品等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8107,7 +9040,7 @@
               <Sentence Num="1" WritingMode="vertical">七　先行技術調査（自然資源）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">農機、栽培、木材、土木施工、土木構造物等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農機、栽培、木材、水工基礎、陸路トンネル掘削等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8115,7 +9048,7 @@
               <Sentence Num="1" WritingMode="vertical">八　先行技術調査（アミューズメント）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">パチンコ・スロットマシン、ゲーム、運動・遊具、事務用品等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">パチンコ・スロットマシン等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8131,7 +9064,7 @@
               <Sentence Num="1" WritingMode="vertical">十　先行技術調査（自動制御）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">制御・警報、電動車両の制御、交通システム、電動機・発電機、電動機・発電機制御等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">電動車両の制御、電動機・発電機、電動機・発電機制御、流体機械、流体制御、燃料電池システム、電路の調整（インバータ、コンバータ、電流・電圧の調整）等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8139,7 +9072,7 @@
               <Sentence Num="1" WritingMode="vertical">十一　先行技術調査（動力機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">燃料供給装置、内燃機関制御、排気処理、エンジン部品、タービン、車両統合制御、流体機械、流体制御等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">燃料供給装置、内燃機関制御、排気処理、エンジン部品、タービン、交通システム等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8147,7 +9080,7 @@
               <Sentence Num="1" WritingMode="vertical">十二　先行技術調査（運輸）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">車体構造、二輪車、船舶、車両基盤、操向・安全、レスキュー、ハイブリッド電気車両等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">車体構造、二輪車、船舶、車両基盤、操向・安全、レスキュー、ハイブリッド電気車両、タイヤ、警報等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8155,7 +9088,7 @@
               <Sentence Num="1" WritingMode="vertical">十三　先行技術調査（一般機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">軸受、変速機制御、伝動機構、制動、防振等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">軸受、変速機制御、伝動機構、防振、紙送り等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8163,7 +9096,7 @@
               <Sentence Num="1" WritingMode="vertical">十四　先行技術調査（生産機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">研削加工、工作機械一般、溶接、ロボティクス、制御・組立等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">研削加工、工作機械一般、溶接、ロボティクス、制御・組立、炉等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8171,7 +9104,7 @@
               <Sentence Num="1" WritingMode="vertical">十五　先行技術調査（搬送）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">運搬・実装、扛重、コネクタ、スイッチ等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">運搬・実装、扛重、コネクタ、スイッチ、印刷回路とその製造、電気部品の実装、電気装置の筐体等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8179,7 +9112,7 @@
               <Sentence Num="1" WritingMode="vertical">十六　先行技術調査（繊維包装機械）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">紙送り、被服・繊維機械、包装応用、容器一般等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">被服・繊維機械、包装応用、容器一般等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8187,7 +9120,7 @@
               <Sentence Num="1" WritingMode="vertical">十七　先行技術調査（生活機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">生活家電、照明回路、照明機器、生活用品、チェック装置等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">生活家電、照明回路、照明機器、生活用品、チェック装置、調理機器、固体廃棄物の処理、紙等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8195,7 +9128,7 @@
               <Sentence Num="1" WritingMode="vertical">十八　先行技術調査（熱機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">給湯、管一般、調理、加熱、空調、冷凍等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">給湯、管一般、加熱、空調、冷凍、固体分離等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8203,7 +9136,7 @@
               <Sentence Num="1" WritingMode="vertical">十九　先行技術調査（医療機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医薬注入、物理療法、手術、補綴等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医薬注入、物理療法、手術、補綴、シート・ベッド等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8211,28 +9144,28 @@
               <Sentence Num="1" WritingMode="vertical">二十　先行技術調査（無機化学）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">触媒、無機化合物、蒸着・単結晶成長、コンクリート、セラミックス、ガラス等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">無機化合物、蒸着・単結晶成長、コンクリート、セラミックス、ガラス等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十一　先行技術調査（金属・金属加工）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十一　先行技術調査（金属）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">精錬・鋳造・圧延、合金製造、熱処理・炉、合金・溶接材料、表面処理等</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十二　先行技術調査（電気化学）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">燃料電池システム、電極、活物質、リチウム電池、アルカリ電池、燃料電池、電池の要素・実装、電線、電線の製造等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精錬・鋳造・圧延、合金製造、熱処理、合金・溶接材料、金属の表面処理等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十三　先行技術調査（半導体機器）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十二　先行技術調査（電池）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">電極、活物質、リチウム電池、アルカリ電池、燃料電池、電池の要素・実装等</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十三　先行技術調査（電子デバイス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">半導体素子、半導体集積回路、半導体素子の製造、半導体素子の実装、熱電素子、超電導素子、圧電素子、磁気抵抗効果素子等</Sentence>
@@ -8240,18 +9173,18 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十四　先行技術調査（生命工学・医療）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十四　先行技術調査（生命工学・医療・食品）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">化合物含有医薬、蛋白・抗原抗体含有医薬、製剤・医療材料、化粧料、バイオテクノロジー、微生物・酵素、食品等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">化合物含有医薬、バイオ医薬・再生医療、製剤・医療材料、遺伝子工学・タンパク質工学、発酵・微生物、食品等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十五　先行技術調査（有機化学）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十五　先行技術調査（有機化学・化学応用）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">有機化合物の製法、農薬・染料、石油化学、応用有機材料、インク、接着剤、固体廃棄物、乳化・分散・マイクロカプセル等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">有機化合物の製法、農薬・染料、石油化学、応用有機材料、インク、乳化・分散・マイクロカプセル、化粧料等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8259,15 +9192,15 @@
               <Sentence Num="1" WritingMode="vertical">二十六　先行技術調査（環境化学）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">膜、水処理、固体分離、濾過・液分離、排ガス、処理操作一般、混合等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">膜、水処理、濾過・液分離、排ガス、処理操作一般、混合、触媒等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十七　先行技術調査（プラスチック工学）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十七　先行技術調査（樹脂・樹脂成形）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">高分子処理、樹脂成形、タイヤ、発泡成形等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">高分子処理、樹脂成形、発泡成形等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8283,7 +9216,7 @@
               <Sentence Num="1" WritingMode="vertical">二十九　先行技術調査（繊維・積層体）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">繊維、積層体、塗装、皮革、紙等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">繊維、積層体、皮革、接着等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8304,10 +9237,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十二　先行技術調査（インターフェイス）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三十二　先行技術調査（ユーザーエクスペリエンス）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">マンマシンインターフェイス、計算機細部等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">マンマシンインターフェイス、ゲーム、運動・遊具等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8323,7 +9256,7 @@
               <Sentence Num="1" WritingMode="vertical">三十四　先行技術調査（伝送システム）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">移動体通信、電話システム、警報、基礎伝送回路、パルス回路、増幅器等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">移動体通信、電話システム等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8331,7 +9264,7 @@
               <Sentence Num="1" WritingMode="vertical">三十五　先行技術調査（電力システム）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">送配電、充放電、電路の調整（インバータ、コンバータ、電流・電圧の調整）、電線の据付等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">送配電、電線、電線の据付、電線の製造、基礎伝送回路、パルス回路、増幅器等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8339,7 +9272,7 @@
               <Sentence Num="1" WritingMode="vertical">三十六　先行技術調査（デジタル通信）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">データ伝送、デジタル変調、符号変換、伝送方式、マイクロ波、データネットワーク等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">データ伝送、デジタル変調、符号変換、伝送方式、マイクロ波、データネットワーク、計算機細部等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8347,7 +9280,7 @@
               <Sentence Num="1" WritingMode="vertical">三十七　先行技術調査（映像システム）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">ビデオ規格、ビデオ配信、ＴＶカメラ、ＴＶ細部、音響、楽器・音声処理、情報記録等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ビデオ規格、ビデオ配信、情報記録、ＦＡＸ等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8355,7 +9288,7 @@
               <Sentence Num="1" WritingMode="vertical">三十八　先行技術調査（画像処理）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">画像処理、ＦＡＸ、ＣＧ、ＣＡＤ等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">画像処理、ＣＧ、ＣＡＤ等</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8363,7 +9296,7 @@
               <Sentence Num="1" WritingMode="vertical">三十九　先行技術調査（電気機器）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">抵抗器、磁石・インダクタンス、コンデンサ、印刷回路とその製造、電気部品の実装、電気装置の筐体等</Sentence>
+              <Sentence Num="1" WritingMode="vertical">抵抗器、磁石・インダクタンス、コンデンサ、音響、楽器・音声処理等</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
