@@ -55,19 +55,50 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律（以下「法」という。）第十七条の二第一項の規定により匿名医療保険等関連情報利用者（法第十六条の三に規定する匿名医療保険等関連情報利用者をいう。次条第二項及び第三項において同じ。）が納付すべき手数料の額は、匿名医療保険等関連情報（法第十六条の二第一項に規定する匿名医療保険等関連情報をいう。次条第三項において同じ。）の提供に要する時間一時間までごとに九千円とする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律（以下「法」という。）第十七条の二第一項の規定により匿名医療保険等関連情報利用者（法第十六条の三に規定する匿名医療保険等関連情報利用者をいう。以下同じ。）が納付すべき手数料（以下単に「手数料」という。）の額は、第一号及び第二号に掲げる額を合算した額（以下この項において「基本額」という。）とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、匿名医療保険等関連情報（法第十六条の二第一項に規定する匿名医療保険等関連情報をいう。以下同じ。）の抽出（匿名医療保険等関連情報から、匿名医療保険等関連情報利用者に提供する特定の匿名医療保険等関連情報を出力し、加工することをいう。第三号及び第四号において同じ。）をして提供する場合には、第三号及び第四号に掲げる額を基本額に加えた額とする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">十六万二千百円を超えない範囲内において、匿名医療保険等関連情報の提供に当たり行う法第十六条の二第三項に規定する意見の聴取等に要する費用の額を勘案して厚生労働大臣が定める額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">匿名医療保険等関連情報の提供の申出の内容の確認に関する事務に要する時間一時間までごとに八千六百円</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">提供する匿名医療保険等関連情報の抽出に要する時間一時間までごとに五万八千三百円を超えない範囲内において実費を勘案して厚生労働大臣が定める額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">提供する匿名医療保険等関連情報の抽出に要する記憶容量一ギガバイトまでごとに二千七百円を超えない範囲内において実費を勘案して厚生労働大臣が定める額</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">前項の手数料は、厚生労働省令で定める書面に収入印紙を貼って納付しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第十七条の二第一項の規定により支払基金等（法第十七条に規定する支払基金等をいう。次条第三項において同じ。）に対し手数料を納付する場合は、この限りでない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">匿名医療保険等関連情報利用者が厚生労働大臣が整備するクラウド・コンピューティング・サービス関連技術（官民データ活用推進基本法（平成二十八年法律第百三号）第二条第四項に規定するクラウド・コンピューティング・サービス関連技術をいう。）を活用した情報システムを利用する場合における手数料の額は、当該情報システムを利用する期間六月までごとに、当該情報システムを利用する者一人当たり五百三十五万五千二百円を超えない範囲内において当該情報システムの利用に係る実費を勘案して厚生労働大臣が定める額（当該情報システムに付加されている機能を利用する場合には、当該額に当該機能の利用に係る実費を勘案して厚生労働大臣が定める額を加えた額）を、前項の規定により算定した額に加えた額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">手数料は、厚生労働省令で定める書面に収入印紙を貼って納付しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第十七条の二第一項の規定により支払基金等（法第十七条に規定する支払基金等をいう。次条第六項において同じ。）に対し手数料を納付する場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="1_2">
-          <ArticleCaption>（手数料の免除）</ArticleCaption>
+          <ArticleCaption>（手数料の減免）</ArticleCaption>
           <ArticleTitle>第一条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -83,32 +114,171 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第二号又は第三号に掲げる者のうち、それぞれ同項第二号又は第三号に定める業務（補助金等に係る予算の執行の適正化に関する法律（昭和三十年法律第百七十九号）第二条第一項に規定する補助金等、地方自治法（昭和二十二年法律第六十七号）第二百三十二条の二（同法第二百八十三条第一項の規定により適用する場合を含む。）の規定により地方公共団体が支出する補助金又は国立研究開発法人日本医療研究開発機構法（平成二十六年法律第四十九号）第十六条第三号に掲げる業務として国立研究開発法人日本医療研究開発機構が交付する助成金を充てて行うものに限る。）を行う者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第二号に掲げる者のうち、国立研究開発法人医薬基盤・健康・栄養研究所、国立高度専門医療研究センターその他の国民保健の向上に密接な関連がある業務として厚生労働省令で定める業務を行う公共法人（法人税法（昭和四十年法律第三十四号）第二条第五号に規定する公共法人をいう。）又は公益法人等（同法第二条第六号に規定する公益法人等をいう。）であって厚生労働省令で定めるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第二号又は第三号に掲げる者のうち、第一号に掲げる者から同項第一号に定める業務の委託（二以上の段階にわたる委託を含む。以下この号において同じ。）を受けた者又は前号に掲げる者から同号に規定する業務の委託を受けた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第二号又は第三号に掲げる者のうち、同項第二号又は第三号に定める業務であって次に掲げる補助金その他の資金を充てて行うもの（次号ホ及び次項第二号において「補助研究等」という。）を行うもの</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">補助金等に係る予算の執行の適正化に関する法律（昭和三十年法律第百七十九号。次項第二号において「補助金等適正化法」という。）第二条第一項に規定する補助金等（同号において「補助金等」という。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方自治法（昭和二十二年法律第六十七号）第二百三十二条の二（同法第二百八十三条第一項の規定により適用する場合を含む。）の規定により地方公共団体が支出する補助金</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">独立行政法人日本学術振興会法（平成十四年法律第百五十九号）第十五条第一号に掲げる業務として独立行政法人日本学術振興会が交付する補助金又は資金</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国立研究開発法人日本医療研究開発機構法（平成二十六年法律第四十九号）第十六条第三号に掲げる業務として国立研究開発法人日本医療研究開発機構が交付する助成金</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前三号に掲げる者のみにより構成されている団体</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第二号又は第三号に掲げる者のうち、次のイからホまでに掲げる者からそれぞれイからホまでに定める業務の委託（二以上の段階にわたる委託を含む。次項第三号において同じ。）を受けたもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">国立研究開発法人科学技術振興機構</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">国立研究開発法人科学技術振興機構法（平成十四年法律第百五十八号）第二十三条第一項第一号から第三号までに掲げる業務のいずれかに該当する業務</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">独立行政法人日本学術振興会</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">独立行政法人日本学術振興会法第十五条第三号又は第四号に掲げる業務に該当する業務</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第一号に掲げる者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第一号に定める業務</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二号に掲げる者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">同号に規定する厚生労働省令で定める業務</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">補助研究等</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる者のみにより構成されている団体</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、匿名医療保険等関連情報利用者が前項各号に掲げる者のいずれかである場合には、法第十七条の二第一項の手数料を免除する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、匿名医療保険等関連情報利用者が次の各号に掲げる者のいずれかに該当するものである場合には、手数料の額から当該額の二分の一に相当する額（次項第一号において「二分の一相当額」という。）を減額する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第二号に掲げる者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第三号に掲げる者のうち、厚生労働大臣が交付する補助金等又は当該補助金等を財源とした補助金等適正化法第二条第四項に規定する間接補助金等を充てて行う補助研究等以外の補助研究等を行うもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第四号イ、ロ、ニ又はホに掲げる者（前号に掲げる者から委託を受けた者に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第五号に掲げる者のうち、第一号から前号までに掲げる者のいずれかに該当するものを構成員とする団体</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定による手数料の免除を受けようとする匿名医療保険等関連情報利用者は、当該免除を求める旨及びその理由を記載した書面を厚生労働大臣（法第十七条の規定により厚生労働大臣からの委託を受けて、支払基金等が法第十六条の二第一項の規定による匿名医療保険等関連情報の提供に係る事務の全部を行う場合にあっては、支払基金等）に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項各号に掲げる者に対して前項の規定による減額後の手数料の額について更なる減額をしないこととすれば、その業務の遂行に著しい支障を及ぼすおそれがあると厚生労働大臣が認める場合にあっては、厚生労働大臣が定めるところにより、当該減額後の手数料の額から、第一号に掲げる額から第二号に掲げる額を控除した額（当該額が零を下回る場合には、零とする。）の範囲内の額を減額することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">二分の一相当額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">五十万円と、前条第一項及び第二項の規定により算定した手数料の額（その額が百万円に満たないときは、百万円）から百万円を控除した額に百分の五を乗じて得た額との合算額</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項又は前項の規定により算定した手数料の額に百円未満の端数があるときは、その端数は、切り捨てる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、匿名医療保険等関連情報利用者が第一項各号に掲げる者のうち第二項各号に掲げる者のいずれにも該当しないものである場合には、手数料を免除する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項若しくは第三項又は前項の規定による手数料の減額又は免除を受けようとする匿名医療保険等関連情報利用者は、当該減額又は免除を求める旨及びその理由を記載した書面を厚生労働大臣（法第十七条の規定により厚生労働大臣からの委託を受けて、支払基金等が法第十六条の二第一項の規定による匿名医療保険等関連情報の提供に係る事務の全部を行う場合にあっては、支払基金等）に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -12532,6 +12702,71 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この政令は、第二号施行日（令和六年十二月二日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一〇月一七日政令第三一九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、令和六年十一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令の施行の日から令和八年三月三十一日までの間に次に掲げる者が匿名医療保険等関連情報（高齢者の医療の確保に関する法律（以下「法」という。）第十六条の二第一項に規定する匿名医療保険等関連情報をいう。以下同じ。）の提供の申出を行った場合における法第十七条の二第一項の規定により納付すべき手数料の額（以下「納付すべき手数料の額」という。）については、この政令による改正後の高齢者の医療の確保に関する法律施行令（以下「新令」という。）第一条の二第二項及び第五項の規定にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第二号又は第三号に掲げる者のうち、それぞれ同項第二号又は第三号に定める業務（地方自治法（昭和二十二年法律第六十七号）第二百三十二条の二（同法第二百八十三条第一項の規定により適用する場合を含む。）の規定により地方公共団体が支出する補助金を充てて行うものに限る。）を行うもの</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">法第十六条の二第一項第二号又は第三号に掲げる者のうち、前号に掲げる者から同号に規定する業務の委託（二以上の段階にわたる委託を含む。）を受けたもの</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">前二号に掲げる者のみにより構成されている団体</Sentence>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令の施行の日から令和八年三月三十一日までの間に匿名医療保険等関連情報の提供の申出を行った者（新令第一条の二第一項各号に掲げる者に該当する者を除く。次項において同じ。）が納付すべき手数料の額については、新令第一条第一項中「第三号及び第四号に掲げる額」とあるのは、「第三号及び第四号に掲げる額を合算した額の二分の一に相当する額」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">令和八年四月一日から令和九年三月三十一日までの間に匿名医療保険等関連情報の提供の申出を行った者が納付すべき手数料の額については、新令第一条第一項中「第三号及び第四号に掲げる額」とあるのは、「第三号及び第四号に掲げる額を合算した額の四分の三に相当する額」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前二項の規定により算定した手数料の額に百円未満の端数があるときは、その端数は、切り捨てる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">新令第一条の二第六項の規定は、附則第三項又は第四項の規定による手数料の減額を受けようとする者について準用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="7">
+        <ParagraphNum>７</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令の施行前に匿名医療保険等関連情報の提供の申出を行った者が納付すべき手数料の額については、新令第一条第一項並びに第一条の二第二項、第三項及び第五項の規定にかかわらず、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
