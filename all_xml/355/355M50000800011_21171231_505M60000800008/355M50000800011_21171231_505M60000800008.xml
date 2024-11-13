@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="011" Year="55" PromulgateMonth="05" PromulgateDay="06"><LawNum>昭和五十五年運輸省令第十一号</LawNum><LawBody><LawTitle Kana="せんぱくぼうかこうぞうきそく" Abbrev="" AbbrevKana="">船舶防火構造規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="55" Num="011" PromulgateMonth="5" PromulgateDay="6" LawType="MinisterialOrdinance"><LawNum>昭和五十五年運輸省令第十一号</LawNum><LawBody><LawTitle Kana="せんぱくぼうかこうぞうきそく" Abbrev="" AbbrevKana="">船舶防火構造規則</LawTitle>
     <EnactStatement>船舶安全法（昭和八年法律第十一号）第二条第一項及び第二十八条第一項の規定に基づき、船舶防火構造規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2916,7 +2916,26 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">現存船であって、施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、前項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">現存船であって旅客船であるものについては、令和八年四月一日以後最初に行われる定期検査の時期からは、前項の規定にかかわらず、この省令による改正後の船舶区画規程（第二編第三章の規定に限る。）を適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる場合に該当するときは、管海官庁の指示するところによることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該船舶の航海の態様その他の事情を勘案して管海官庁がやむを得ないと認める場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">浸水警報装置を備える等管海官庁が適当と認める措置を当該船舶に講じている場合であって、当該措置を引き続き当該船舶に講じる場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">現存船であって、施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、第一項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3133,6 +3152,19 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">現存船であって施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、第一項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一〇月三〇日国土交通省令第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

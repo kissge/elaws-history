@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="076" Year="31" PromulgateMonth="12" PromulgateDay="28"><LawNum>昭和三十一年運輸省令第七十六号</LawNum><LawBody><LawTitle Kana="せんぱくふくげんせいきそく" Abbrev="" AbbrevKana="">船舶復原性規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="31" Num="076" PromulgateMonth="12" PromulgateDay="28" LawType="MinisterialOrdinance"><LawNum>昭和三十一年運輸省令第七十六号</LawNum><LawBody><LawTitle Kana="せんぱくふくげんせいきそく" Abbrev="" AbbrevKana="">船舶復原性規則</LawTitle>
     <EnactStatement>船舶復原性規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -425,8 +425,8 @@
               </FigStruct>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">この場合において、</Sentence>
-                </ListSentence>
+                <Sentence Num="1" WritingMode="vertical">この場合において、</Sentence>
+              </ListSentence>
               </List>
               <List>
                 <ListSentence>
@@ -478,7 +478,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（（１．７１ＡＨ＋０．２６８Σ（７－（ｎ／ａ））ｎｂ）／１００Ｗ）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（（１．７１ＡＨ＋０．２６８Σ（７－（ｎ／ａ））ｎｂ）／１００Ｗ）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -524,7 +524,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">０．０２０４（Ｖ<Sub>０</Sub><Sup>２</Sup>／Ｌ）（ＫＧ－ｄ／２）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．０２０４（Ｖ<Sub>０</Sub><Sup>２</Sup>／Ｌ）（ＫＧ－ｄ／２）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -560,7 +560,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（ｋＡＨ／Ｗ）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（ｋＡＨ／Ｗ）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -622,7 +622,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（（０．９３７５Σ（４－ｎ／ａ）ｎｂ）／１００Ｗ）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（（０．９３７５Σ（４－ｎ／ａ）ｎｂ）／１００Ｗ）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -652,7 +652,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">１０９ｋＸ<Sub>１</Sub>Ｘ<Sub>２</Sub>（ｒｓ）<Sup>１／２</Sup>（度）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>１０９ｋＸ<Sub>１</Sub>Ｘ<Sub>２</Sub>（ｒｓ）<Sup>１／２</Sup></ArithFormula>（度）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -674,7 +674,7 @@
               <Table WritingMode="vertical">
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">１００Ａｋ／ＬＢ</Sentence>
+                    <Sentence Num="1" WritingMode="vertical"><ArithFormula>１００Ａｋ／ＬＢ</ArithFormula></Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">ｋ</Sentence>
@@ -755,11 +755,11 @@
                 </TableRow>
               </Table>
             </TableStruct>
-            <List>
-              <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">Ｘ<Sub>１</Sub>は、次表に掲げる値</Sentence>
-              </ListSentence>
-            </List>
+             <List>
+                <ListSentence>
+              <Sentence Num="1" WritingMode="vertical">Ｘ<Sub>１</Sub>は、次表に掲げる値</Sentence>
+            </ListSentence>
+              </List>
             <TableStruct>
               <Table WritingMode="vertical">
                 <TableRow>
@@ -876,11 +876,11 @@
                 </TableRow>
               </Table>
             </TableStruct>
-            <List>
-              <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">Ｘ<Sub>２</Sub>は、次表に掲げる値</Sentence>
-              </ListSentence>
-            </List>
+             <List>
+                <ListSentence>
+              <Sentence Num="1" WritingMode="vertical">Ｘ<Sub>２</Sub>は、次表に掲げる値</Sentence>
+            </ListSentence>
+              </List>
             <TableStruct>
               <Table WritingMode="vertical">
                 <TableRow>
@@ -948,11 +948,11 @@
                 </TableRow>
               </Table>
             </TableStruct>
-            <List>
-              <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">ｓは、船舶の分類に応じ次表に掲げる値</Sentence>
-              </ListSentence>
-            </List>
+             <List>
+                <ListSentence>
+              <Sentence Num="1" WritingMode="vertical">ｓは、船舶の分類に応じ次表に掲げる値</Sentence>
+            </ListSentence>
+              </List>
             <TableStruct>
               <Table WritingMode="vertical">
                 <TableRow>
@@ -1183,7 +1183,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">ｒ＝０．７３＋０．６（ＯＧ／ｄ<Sub>Ｍ</Sub>）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｒ＝０．７３＋０．６（ＯＧ／ｄ<Sub>Ｍ</Sub>）</ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1214,7 +1214,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（（２．７４ＡＨ＋０．２６８Σ（７－ｎ／ａ）ｎｂ）／１００Ｗ）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（（２．７４ＡＨ＋０．２６８Σ（７－ｎ／ａ）ｎｂ）／１００Ｗ）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1235,7 +1235,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（ｋＡＨ／Ｗ）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（ｋＡＨ／Ｗ）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1289,7 +1289,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">１０９ｋＸ<Sub>１</Sub>Ｘ<Sub>２</Sub>（ｒｓ）<Sup>１／２</Sup>（度）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>１０９ｋＸ<Sub>１</Sub>Ｘ<Sub>２</Sub>（ｒｓ）<Sup>１／２</Sup></ArithFormula>（度）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1572,7 +1572,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（１．７１ＡＨ／１００Ｗ）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（１．７１ＡＨ／１００Ｗ）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1733,8 +1733,8 @@
               </FigStruct>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">この場合において、</Sentence>
-                </ListSentence>
+                <Sentence Num="1" WritingMode="vertical">この場合において、</Sentence>
+              </ListSentence>
               </List>
               <List>
                 <ListSentence>
@@ -1754,7 +1754,7 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence Num="1" WritingMode="vertical">ｔａｎθ≦（１＋２Ｆ<Sub>０</Sub>）／Ｂ</Sentence>
+                  <Sentence Num="1" WritingMode="vertical"><ArithFormula>ｔａｎθ≦（１＋２Ｆ<Sub>０</Sub>）／Ｂ</ArithFormula></Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -1797,7 +1797,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（（０．０１７１ＡＨ＋Ｍ<Sub>Ｇ</Sub>）／Ｗ）（メートル）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（（０．０１７１ＡＨ＋Ｍ<Sub>Ｇ</Sub>）／Ｗ）</ArithFormula>（メートル）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1827,7 +1827,7 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">７６．３ｋＸ<Sub>１</Sub>Ｘ<Sub>２</Sub>（ｒｓ）<Sup>１／２</Sup>（度）</Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>７６．３ｋＸ<Sub>１</Sub>Ｘ<Sub>２</Sub>（ｒｓ）<Sup>１／２</Sup></ArithFormula>（度）</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -2210,7 +2210,26 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">現存船であって、施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、前項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">現存船であって旅客船であるものについては、令和八年四月一日以後最初に行われる定期検査の時期からは、前項の規定にかかわらず、この省令による改正後の船舶区画規程（第二編第三章の規定に限る。）を適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる場合に該当するときは、管海官庁の指示するところによることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該船舶の航海の態様その他の事情を勘案して管海官庁がやむを得ないと認める場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">浸水警報装置を備える等管海官庁が適当と認める措置を当該船舶に講じている場合であって、当該措置を引き続き当該船舶に講じる場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">現存船であって、施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、第一項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2290,6 +2309,19 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">現存船であって施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、第一項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一〇月三〇日国土交通省令第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
