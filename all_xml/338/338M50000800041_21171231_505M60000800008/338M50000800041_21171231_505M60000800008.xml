@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="041" Year="38" PromulgateMonth="09" PromulgateDay="25"><LawNum>昭和三十八年運輸省令第四十一号</LawNum><LawBody><LawTitle Kana="せんぱくあんぜんほうしこうきそく" Abbrev="" AbbrevKana="">船舶安全法施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="38" Num="041" PromulgateMonth="9" PromulgateDay="25" LawType="MinisterialOrdinance"><LawNum>昭和三十八年運輸省令第四十一号</LawNum><LawBody><LawTitle Kana="せんぱくあんぜんほうしこうきそく" Abbrev="" AbbrevKana="">船舶安全法施行規則</LawTitle>
     <EnactStatement>船舶安全法（昭和八年法律第十一号）の規定に基づき、及び同法を実施するため、船舶安全法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -1957,7 +1957,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">船舶に固定して施設される救命設備、消防設備及び航海用具に係る物件で船舶に固定して施設されるものに関し、検査を受けた事項につき船舶の堪航性又は人命の安全の保持に影響を及ぼすおそれのある変更を生じる改造又は修理</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">船舶に固定して施設される救命設備、消防設備及び航海用具に係る物件で船舶に固定して施設されるものに関し、検査を受けた事項につき船舶の堪航性又は人命の安全の保持に影響を及ぼすおそれのある変更を生じる改造又は修理（あらかじめ管海官庁の指定した条件に従つて行うものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
@@ -1970,7 +1970,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第五条第一項第三号の国土交通省令で定めるときとは、次の各号のいずれかに該当する場合とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第五条第一項第三号の国土交通省令で定めるときは、次の各号のいずれかに該当するときとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1987,7 +1987,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第二条第一項各号（一般小型船にあつては、同項第六号及び第九号）に掲げる事項に係る物件で船舶に固定して施設されるもの以外のものの新設、増備、取替え若しくは取りはずし（一般小型船については、小型船舶用救命胴衣、小型船舶用救命クッション及び小型船舶用浮力補助具で現にとう載している人員と同数のもの以外のものの一時的な陸揚げ保管に係る取りはずし又は増備を除く。）（法による検査又は検定を受け、これに合格した物件で当該検査又は検定に合格した後初めて船舶に備え付けられるものの新設若しくは増備又はこれとの取替えを除く。）又は積付方法の変更（同項の国土交通省令又は国土交通省令・農林水産省令の規定により積付方法が定められている物件に限る。）をしようとするとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第二条第一項各号（一般小型船にあつては、同項第六号及び第九号）に掲げる事項に係る物件で船舶に固定して施設されるもの以外のものの新設、増備、取替え若しくは取り外し（一般小型船については、小型船舶用救命胴衣、小型船舶用救命クッション及び小型船舶用浮力補助具で現に搭載している人員と同数のもの以外のものの一時的な陸揚げ保管に係る取り外し又は増備並びにあらかじめ管海官庁の指定した条件に従つて行う新設、増備、取替え又は取り外しを除く。）（法による検査又は検定を受け、これに合格した物件で当該検査又は検定に合格した後初めて船舶に備え付けられるものの新設若しくは増備又はこれとの取替えを除く。）又は積付方法の変更（同項の国土交通省令又は国土交通省令・農林水産省令の規定により積付方法が定められている物件に限る。）をしようとするとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3_2">
@@ -10940,7 +10940,26 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">現存船であって、施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、前項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">現存船であって旅客船であるものについては、令和八年四月一日以後最初に行われる定期検査の時期からは、前項の規定にかかわらず、この省令による改正後の船舶区画規程（第二編第三章の規定に限る。）を適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる場合に該当するときは、管海官庁の指示するところによることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該船舶の航海の態様その他の事情を勘案して管海官庁がやむを得ないと認める場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">浸水警報装置を備える等管海官庁が適当と認める措置を当該船舶に講じている場合であって、当該措置を引き続き当該船舶に講じる場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">現存船であって、施行日以後主要な変更又は改造を行うものについては、当該変更又は改造後は、第一項の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11364,6 +11383,19 @@
           <Sentence Num="1" WritingMode="vertical">施行日前に建造され、又は建造に着手された船舶であって同日以後主要な変更又は改造を行うものについては、第一条の規定による改正後の船舶安全法施行規則及び第三条の規定による小型船舶安全規則の規定にかかわらず、管海官庁の指示するところによる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一〇月三〇日国土交通省令第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第１</AppdxTableTitle>

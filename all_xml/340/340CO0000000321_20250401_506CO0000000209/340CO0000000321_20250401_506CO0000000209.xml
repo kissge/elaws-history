@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="321" Year="40" PromulgateMonth="09" PromulgateDay="30"><LawNum>昭和四十年政令第三百二十一号</LawNum><LawBody><LawTitle Kana="きんゆうしょうひんとりひきほうせこうれい" Abbrev="証取法施行令,金商法施行令" AbbrevKana="し,き">金融商品取引法施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="40" Num="321" PromulgateMonth="9" PromulgateDay="30" LawType="CabinetOrder"><LawNum>昭和四十年政令第三百二十一号</LawNum><LawBody><LawTitle Kana="きんゆうしょうひんとりひきほうせこうれい" Abbrev="証取法施行令,金商法施行令" AbbrevKana="し,き">金融商品取引法施行令</LawTitle>
     <EnactStatement>内閣は、証券取引法（昭和二十三年法律第二十五号）第二条第八項、第三条第二項、第三十二条第一号、第五十四条第二項、第六十二条第三項、第六十五条第一項、第六十六条、第百二十条、第百二十五条第三項、第百三十三条、第百九十三条の二第一項及び第百九十四条の規定に基づき、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -7226,12 +7226,12 @@
           </Paragraph>
         </Article>
         <Article Num="15_4_2">
-          <ArticleCaption>（登録申請書における電子募集取扱業務を行う旨の記載を要しない有価証券）</ArticleCaption>
+          <ArticleCaption>（登録申請書における電子募集業務又は電子募集取扱業務を行う旨の記載を要しない有価証券等）</ArticleCaption>
           <ArticleTitle>第十五条の四の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第二十九条の二第一項第六号に規定する政令で定めるものは、次に掲げる有価証券とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条の二第一項第六号に規定する有価証券から除くものとして政令で定めるものは、次に掲げる有価証券とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -7269,10 +7269,38 @@
                 <Sentence Num="1" WritingMode="vertical">法第四条第一項第四号に該当する売出しに係る有価証券</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="7">
-              <ItemTitle>七</ItemTitle>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条の二第一項第六号に規定する法第二条第八項第七号又は第八号に掲げる行為から除くものとして政令で定めるものは、貸付事業等権利（法第二十九条の二第一項第十号に規定する貸付事業等権利をいう。第十五条の十の二第一項第二号において同じ。）に係る行為以外の行為とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15_4_3">
+          <ArticleCaption>（貸付事業等権利の範囲）</ArticleCaption>
+          <ArticleTitle>第十五条の四の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条の二第一項第十号に規定する政令で定める権利は、当該権利に係る出資対象事業（同号に規定する出資対象事業をいう。）が次に掲げるものに該当する権利とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二条第二項の規定により有価証券とみなされる同項第五号又は第六号に掲げる権利のうち、当該権利を有する者が出資又は拠出をした金銭その他の財産の価額の合計額の百分の五十を超える額を充てて金銭の貸付けを行う事業に係るもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">主として金銭の貸付けを行う事業であるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">主として貸付債権の取得を行う事業であるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるものに類するものとして内閣府令で定めるもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -7432,7 +7460,7 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第一種金融商品取引業（第一種少額電子募集取扱業務（法第二十九条の四の二第十項に規定する第一種少額電子募集取扱業務をいう。以下同じ。）を除く。）を行おうとする場合（前三号に掲げる場合を除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一種金融商品取引業（第一種少額電子募集取扱業務（法第二十九条の四の二第九項に規定する第一種少額電子募集取扱業務をいう。以下同じ。）を除く。）を行おうとする場合（前三号に掲げる場合を除く。）</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">五千万円</Sentence>
@@ -7454,7 +7482,7 @@
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第二種金融商品取引業（法第二十八条第二項に規定する第二種金融商品取引業をいい、第二種少額電子募集取扱業務（法第二十九条の四の三第四項に規定する第二種少額電子募集取扱業務をいう。以下同じ。）を除く。）を行おうとする場合（前各号に掲げる場合を除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二種金融商品取引業（法第二十八条第二項に規定する第二種金融商品取引業をいい、第二種少額電子募集取扱業務（法第二十九条の四の三第三項に規定する第二種少額電子募集取扱業務をいう。以下同じ。）を除く。）を行おうとする場合（前各号に掲げる場合を除く。）</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">千万円</Sentence>
@@ -7622,25 +7650,25 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第二十九条の四の二第十項に規定する政令で定めるものは、次に掲げるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条の四の二第九項に規定する政令で定めるものは、次に掲げるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十五条の四の二第四号及び第五号に掲げる有価証券</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条の四の二第一項第四号及び第五号に掲げる有価証券</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二条の九第一項に規定する権利並びに第二条の十第一項第五号及び第十五条の四の二第七号に掲げる権利</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条の九第一項に規定する権利、第二条の十第一項第五号に掲げる権利及び貸付事業等権利</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第二十九条の四の三第四項に規定する政令で定めるものは、前項第二号に掲げるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条の四の三第三項に規定する政令で定めるものは、前項第二号に掲げるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7650,7 +7678,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第二十九条の四の二第十項及び第二十九条の四の三第四項に規定する政令で定める要件は、次に掲げるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条の四の二第九項及び第二十九条の四の三第三項に規定する政令で定める要件は、次に掲げるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -8191,6 +8219,16 @@
             </Item>
           </Paragraph>
         </Article>
+        <Article Num="15_20_2">
+          <ArticleCaption>（法第二十九条の規定が適用されない有価証券等管理業務を行う場合に準ずる場合）</ArticleCaption>
+          <ArticleTitle>第十五条の二十の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十三条第三項に規定する政令で定める行為を業として行う場合は、第一条の十二第二号に掲げる行為を業として行う場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="15_21">
           <ArticleCaption>（特定金融商品取引業務を行う者）</ArticleCaption>
           <ArticleTitle>第十五条の二十一</ArticleTitle>
@@ -8337,7 +8375,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三十六条第三項に規定する政令で定める者は、次に掲げる者とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第二項に規定する政令で定める者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -8359,13 +8397,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三十六条第四項に規定する政令で定める者は、第十五条の十六第一項各号に掲げる者とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第三項に規定する政令で定める者は、第十五条の十六第一項各号に掲げる者とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三十六条第四項及び第五項に規定する政令で定める金融業を行う者は、次に掲げる者とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第三項及び第四項に規定する政令で定める金融業を行う者は、次に掲げる者とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -8413,7 +8451,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三十六条第五項に規定する政令で定める者は、第十五条の十六第二項各号に掲げる者とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第四項に規定する政令で定める者は、第十五条の十六第二項各号に掲げる者とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10580,7 +10618,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">第三十三条の三第一項第七号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第三十三条の三第一項第八号</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">本店その他の営業所又は事務所</Sentence>
@@ -12679,7 +12717,7 @@
                     <Sentence Num="1" WritingMode="vertical">不動産特定共同事業法（平成六年法律第七十七号）第二条第五項に規定する不動産特定共同事業者及び同条第七項に規定する小規模不動産特定共同事業者</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">不動産特定共同事業法第二条第三項に規定する不動産特定共同事業契約（同条第九項に規定する特例事業者と締結したものを除く。）の締結又はその代理若しくは媒介</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">不動産特定共同事業法第二条第三項に規定する不動産特定共同事業契約（同条第九項に規定する特例事業者と締結したもの及び当該不動産特定共同事業契約に基づく権利が電子情報処理組織を用いて移転することができる財産的価値に表示されるものを除く。）の締結又はその代理若しくは媒介</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">国土交通大臣</Sentence>
@@ -12933,7 +12971,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第七十九条の二十七第一項に規定する政令で定める金融商品取引業者は、第一種金融商品取引業（電子記録移転権利又は第一条の十二第二号に規定する権利に係るものを除く。次項において同じ。）を行わない金融商品取引業者及び法第二十九条の四の二第九項に規定する第一種少額電子募集取扱業者とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第七十九条の二十七第一項に規定する政令で定める金融商品取引業者は、第一種金融商品取引業（電子記録移転権利又は第一条の十二第二号に規定する権利に係るものを除く。次項において同じ。）を行わない金融商品取引業者及び法第二十九条の四の二第八項に規定する第一種少額電子募集取扱業者とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -13093,7 +13131,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">租税特別措置法（昭和三十二年法律第二十六号）第四条の二第一項に規定する勤労者財産形成住宅貯蓄契約又はその履行につき、勤労者財産形成促進法（昭和四十六年法律第九十二号）第六条第四項第一号ロ又はハに定める要件に該当しないこととなる事実が生じた場合であつて、当該事実が補償対象債権に係る支払（法第七十九条の五十八第一項の支払をいう。次項において同じ。）により生じたものであるときにおける租税特別措置法第四条の二第二項及び第九項の規定の適用については、当該事実は、同条第二項に規定する政令で定める場合及び同条第九項に規定する事実に該当しないものとみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">租税特別措置法（昭和三十二年法律第二十六号）第四条の二第一項に規定する勤労者財産形成住宅貯蓄契約又はその履行につき、勤労者財産形成促進法第六条第四項第一号ロ又はハに定める要件に該当しないこととなる事実が生じた場合であつて、当該事実が補償対象債権に係る支払（法第七十九条の五十八第一項の支払をいう。次項において同じ。）により生じたものであるときにおける租税特別措置法第四条の二第二項及び第九項の規定の適用については、当該事実は、同条第二項に規定する政令で定める場合及び同条第九項に規定する事実に該当しないものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -20886,7 +20924,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百九十四条の七第二項第一号に規定する政令で定める規定は、法第三十条の二第一項（有価証券の売買その他の取引又はデリバティブ取引等（法第三十三条第三項に規定するデリバティブ取引等をいう。以下この条及び第四十五条において同じ。）の公正を確保するための業務の制限に係る条件に関する部分に限る。）、第三十五条の三（有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第三十六条第二項、第三十七条から第三十七条の六まで、第三十八条から第三十九条まで、第四十条（同条第二号にあつては、有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の五から第四十四条の四まで、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百七十一条まで及び第百八十五条の二十二から第百八十五条の二十四まで（法第百八十五条の二十二第一項第一号に規定する暗号等資産関連デリバティブ取引等に係る部分に限る。以下この条において同じ。）の規定並びに法第百六十一条第一項（同条第二項において準用する場合を含む。）及び第百六十二条の二の規定に基づく内閣府令の規定とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百九十四条の七第二項第一号に規定する政令で定める規定は、法第三十条の二第一項（有価証券の売買その他の取引又はデリバティブ取引等（法第三十三条第三項に規定するデリバティブ取引等をいう。以下この条及び第四十五条において同じ。）の公正を確保するための業務の制限に係る条件に関する部分に限る。）、第三十五条の三（有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第三十六条第一項、第三十七条から第三十七条の六まで、第三十八条から第三十九条まで、第四十条（同条第二号にあつては、有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の五から第四十四条の四まで、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百七十一条まで及び第百八十五条の二十二から第百八十五条の二十四まで（法第百八十五条の二十二第一項第一号に規定する暗号等資産関連デリバティブ取引等に係る部分に限る。以下この条において同じ。）の規定並びに法第百六十一条第一項（同条第二項において準用する場合を含む。）及び第百六十二条の二の規定に基づく内閣府令の規定とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -20933,7 +20971,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第三十六条第二項、第三十七条から第三十七条の六まで、第三十八条、第三十八条の二若しくは第三十九条（これらの規定を法第六十六条の十五において準用する場合を含む。）、第四十条（同条第二号にあつては、有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限り、法第六十六条の十五において準用する場合を含む。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の五、第四十三条の六（法第六十六条の十五において準用する場合を含む。）、第四十四条から第四十四条の四まで、第六十六条の十、第六十六条の十一（金融商品仲介行為の公正を確保するためのものに限る。）、第六十六条の十二、第六十六条の十四、第六十六条の十四の二、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第三十六条第一項、第三十七条から第三十七条の六まで、第三十八条、第三十八条の二若しくは第三十九条（これらの規定を法第六十六条の十五において準用する場合を含む。）、第四十条（同条第二号にあつては、有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限り、法第六十六条の十五において準用する場合を含む。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の五、第四十三条の六（法第六十六条の十五において準用する場合を含む。）、第四十四条から第四十四条の四まで、第六十六条の十、第六十六条の十一（金融商品仲介行為の公正を確保するためのものに限る。）、第六十六条の十二、第六十六条の十四、第六十六条の十四の二、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -20957,7 +20995,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第三十六条第二項、第三十七条から第三十七条の六まで、第三十八条、第三十八条の二若しくは第三十九条（これらの規定を法第六十六条の十五において準用する場合を含む。）、第四十条（同条第二号にあつては、有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限り、法第六十六条の十五において準用する場合を含む。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の五、第四十三条の六（法第六十六条の十五において準用する場合を含む。）、第四十四条から第四十四条の四まで、第六十六条の十、第六十六条の十一（金融商品仲介行為の公正を確保するためのものに限る。）、第六十六条の十二、第六十六条の十四、第六十六条の十四の二、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限る。）、第三十六条第一項、第三十七条から第三十七条の六まで、第三十八条、第三十八条の二若しくは第三十九条（これらの規定を法第六十六条の十五において準用する場合を含む。）、第四十条（同条第二号にあつては、有価証券の売買その他の取引又はデリバティブ取引等の公正を確保するためのものに限り、法第六十六条の十五において準用する場合を含む。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の五、第四十三条の六（法第六十六条の十五において準用する場合を含む。）、第四十四条から第四十四条の四まで、第六十六条の十、第六十六条の十一（金融商品仲介行為の公正を確保するためのものに限る。）、第六十六条の十二、第六十六条の十四、第六十六条の十四の二、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -20981,7 +21019,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（取引所金融商品市場における有価証券の売買又は市場デリバティブ取引の公正を確保するためのものに限り、法第六十条の十三において準用する場合を含む。）、第三十六条第二項、第三十七条から第三十七条の六まで、第三十八条（法第六十条の十三において準用する場合を含む。）、第三十八条の二、第三十九条、第四十条（同条第二号にあつては、取引所金融商品市場における有価証券の売買又は市場デリバティブ取引の公正を確保するためのものに限り、法第六十条の十三において準用する場合を含む。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の六から第四十四条の四まで、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第三項若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（取引所金融商品市場における有価証券の売買又は市場デリバティブ取引の公正を確保するためのものに限り、法第六十条の十三において準用する場合を含む。）、第三十六条第一項、第三十七条から第三十七条の六まで、第三十八条（法第六十条の十三において準用する場合を含む。）、第三十八条の二、第三十九条、第四十条（同条第二号にあつては、取引所金融商品市場における有価証券の売買又は市場デリバティブ取引の公正を確保するためのものに限り、法第六十条の十三において準用する場合を含む。）、第四十条の二、第四十条の四から第四十条の六まで、第四十一条の二、第四十二条の二、第四十二条の七、第四十三条の六から第四十四条の四まで、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第三項若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -21011,7 +21049,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（外国金融商品市場における有価証券の売買又は外国市場デリバティブ取引の公正を確保するためのものに限る。）、第三十六条第二項、第三十七条から第三十七条の六まで、第三十八条から第三十九条まで、第四十条（同条第二号にあつては、外国金融商品市場における有価証券の売買又は外国市場デリバティブ取引の公正を確保するためのものに限る。）、第四十条の二から第四十一条の三まで、第四十二条の二、第四十二条の七、第四十三条の六から第四十四条の四まで、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十五条の三（外国金融商品市場における有価証券の売買又は外国市場デリバティブ取引の公正を確保するためのものに限る。）、第三十六条第一項、第三十七条から第三十七条の六まで、第三十八条から第三十九条まで、第四十条（同条第二号にあつては、外国金融商品市場における有価証券の売買又は外国市場デリバティブ取引の公正を確保するためのものに限る。）、第四十条の二から第四十一条の三まで、第四十二条の二、第四十二条の七、第四十三条の六から第四十四条の四まで、第百三十三条第一項、第百五十七条から第百五十九条まで、第百六十二条、第百六十三条から第百六十七条まで、第百六十八条から第百七十一条まで若しくは第百八十五条の二十二から第百八十五条の二十四までの規定又は法第百六十一条第一項（同条第二項において準用する場合を含む。）若しくは第百六十二条の二の規定に基づく内閣府令に違反する行為</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -22818,13 +22856,19 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百六十四条第四項の規定による利益関係書類の写し及び法第百六十五条の二第九項の規定による組合利益関係書類の写しの送付</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百六十四条第四項の規定による利益関係書類の写し及び同項に規定する情報の送付並びに法第百六十五条の二第九項の規定による組合利益関係書類の写し及び同項に規定する情報の送付</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">法第百六十四条第五項及び第百六十五条の二第十項の規定による申立ての受理</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百六十四条第八項及び第百六十五条の二第十三項の規定による情報の提供の求めの受理</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -27722,6 +27766,16 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この政令は、令和七年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一〇月三〇日政令第三三一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、改正法施行日（令和六年十一月一日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中金融商品取引法施行令第十八条の十四第一項の改正規定及び第十一条の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

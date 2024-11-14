@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="332" Year="46" PromulgateMonth="11" PromulgateDay="01">
-  <LawNum>昭和四十六年政令第三百三十二号</LawNum>
-  <LawBody>
-    <LawTitle Kana="きんろうしゃざいさんけいせいそくしんほうしこうれい" Abbrev="財形法施行令" AbbrevKana="ざ">勤労者財産形成促進法施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="46" Num="332" PromulgateMonth="11" PromulgateDay="1" LawType="CabinetOrder"><LawNum>昭和四十六年政令第三百三十二号</LawNum><LawBody><LawTitle Kana="きんろうしゃざいさんけいせいそくしんほうしこうれい" Abbrev="財形法施行令" AbbrevKana="ざ">勤労者財産形成促進法施行令</LawTitle>
     <EnactStatement>内閣は、勤労者財産形成促進法（昭和四十六年法律第九十二号）第六条の規定に基づき、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -166,7 +163,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者（金融商品取引法（昭和二十三年法律第二十五号）第二条第九項に規定する金融商品取引業者（同法第二十八条第一項に規定する第一種金融商品取引業を行う者に限り、同法第二十九条の四の二第九項に規定する第一種少額電子募集取扱業者を除く。）をいう。以下同じ。）並びに同法第三十三条の二の登録を受けた生命保険会社及び損害保険会社</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者（金融商品取引法（昭和二十三年法律第二十五号）第二条第九項に規定する金融商品取引業者（同法第二十八条第一項に規定する第一種金融商品取引業を行う者に限り、同法第二十九条の四の二第八項に規定する第一種少額電子募集取扱業者を除く。）をいう。以下同じ。）並びに同法第三十三条の二の登録を受けた生命保険会社及び損害保険会社</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -6494,6 +6491,15 @@
           </Item>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一〇月三〇日政令第三三一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、改正法施行日（令和六年十一月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
