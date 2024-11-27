@@ -211,7 +211,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第二条第一項第十号イの内閣府令で定める大きさは、二輪のもの及び内閣総理大臣が指定する三輪以上のものにあつては、総排気量については〇・〇五〇リットル、定格出力については〇・六〇キロワットとし、その他のものにあつては、総排気量については〇・〇二〇リットル、定格出力については〇・二五キロワットとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第二条第一項第十号イの内閣府令で定める大きさは、二輪のもの及び内閣総理大臣が指定する三輪以上のものにあつては、総排気量については〇・〇五〇リットル（二輪のもののうち、構造上出すことができる最高出力が四・〇キロワット以下の原動機を有するものにあつては、〇・一二五リットル）、定格出力については〇・六〇キロワットとし、その他のものにあつては、総排気量については〇・〇二〇リットル、定格出力については〇・二五キロワットとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6939,8 +6939,8 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の申請をしようとする者は、次の各号の区分に応じ、当該各号に定める書類を提示しなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">ただし、第一号に規定する者が、前条第一項の規定による免許の取消しの申請と日を同じくして第一項の申請をしようとする場合にあつては、同号に定める書類を提示することを要しない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の申請をしようとする者は、次の各号の区分に応じ、当該各号に定める書類を提示しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一号に規定する者が、前条第一項の規定による免許の取消しの申請と日を同じくして第一項の申請をしようとする場合にあつては、同号に定める書類を提示することを要しない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -14403,6 +14403,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一一月一三日内閣府令第九八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この府令は、令和七年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
@@ -14642,7 +14651,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000074887.pdf"/>
+          <Fig src="./pict/2FH00000075059.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
