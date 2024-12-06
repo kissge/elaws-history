@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="001" Year="28" PromulgateMonth="01" PromulgateDay="29"><LawNum>平成二十八年経済産業省・国土交通省令第一号</LawNum><LawBody><LawTitle Kana="けんちくぶつえねるぎーしょうひせいのうきじゅんとうをさだめるしょうれい" Abbrev="" AbbrevKana="">建築物エネルギー消費性能基準等を定める省令</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="28" Num="001" PromulgateMonth="1" PromulgateDay="29" LawType="MinisterialOrdinance"><LawNum>平成二十八年経済産業省・国土交通省令第一号</LawNum><LawBody><LawTitle Kana="けんちくぶつえねるぎーしょうひせいのうきじゅんとうをさだめるしょうれい" Abbrev="" AbbrevKana="">建築物エネルギー消費性能基準等を定める省令</LawTitle>
     <EnactStatement>建築物のエネルギー消費性能の向上に関する法律（平成二十七年法律第五十三号）第二条第三号及び第三十条第一項第一号の規定に基づき、建築物エネルギー消費性能基準等を定める省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -48,13 +48,15 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">非住宅部分の設計一次エネルギー消費量（実際の設計仕様の条件を基に算定した一次エネルギー消費量（一年間に消費するエネルギー（エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律（昭和五十四年法律第四十九号）第二条第一項に規定するエネルギーをいう。以下同じ。）の量を熱量に換算したものをいう。以下同じ。）であって、建築物のエネルギー消費性能が建築物エネルギー消費性能基準に適合するかどうかの判定に用いるものをいう。以下同じ。）が、非住宅部分の基準一次エネルギー消費量（床面積、設備等の条件により定まる基準となる一次エネルギー消費量をいう。以下同じ。）を超えないこと。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">非住宅部分の設計一次エネルギー消費量（実際の設計仕様の条件を基に算定した一次エネルギー消費量（一年間に消費するエネルギー（エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律（昭和五十四年法律第四十九号）第二条第一項に規定するエネルギーをいう。以下同じ。）の量を熱量に換算したものをいう。以下同じ。）であって、建築物のエネルギー消費性能が建築物エネルギー消費性能基準に適合するかどうかの判定に用いるものをいう。以下同じ。）が、非住宅部分の基準一次エネルギー消費量（床面積、設備等の条件により定まる基準となる一次エネルギー消費量をいう。以下同じ。）を超えないこと。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、非住宅部分を二以上の用途に供する場合にあっては、各用途に供する当該非住宅部分ごとに算出した設計一次エネルギー消費量を合計した数値が、各用途に供する当該非住宅部分ごとに算出した基準一次エネルギー消費量を合計した数値を超えないこと。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">非住宅部分の用途と同一の用途の一次エネルギー消費量モデル建築物（国土交通大臣が用途に応じて一次エネルギー消費量の算出に用いるべき標準的な建築物であると認めるものをいう。以下同じ。）の設計一次エネルギー消費量が、当該一次エネルギー消費量モデル建築物の基準一次エネルギー消費量を超えないこと。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">非住宅部分の用途と同一の用途の一次エネルギー消費量モデル建築物（国土交通大臣が用途に応じて一次エネルギー消費量の算出に用いるべき標準的な建築物であると認めるものをいう。以下同じ。）の設計一次エネルギー消費量が、当該一次エネルギー消費量モデル建築物の基準一次エネルギー消費量を超えないこと。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、非住宅部分を二以上の用途に供する場合にあっては、当該非住宅部分の各用途と同一の用途の一次エネルギー消費量モデル建築物ごとに算出した設計一次エネルギー消費量を合計した数値が、当該非住宅部分の各用途と同一の用途の一次エネルギー消費量モデル建築物ごとに算出した基準一次エネルギー消費量を合計した数値を超えないこと。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -380,12 +382,12 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>＋Ｅ<Sub>Ｍ</Sub>）×１０<Sup>－３</Sup></ArithFormula></Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×Ｂ＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula></Sentence>
               </ListSentence>
             </List>
             <List>
               <ListSentence>
-                <Sentence Num="1" WritingMode="vertical">（この式において、Ｅ<Sub>ＳＴ</Sub>、Ｅ<Sub>ＳＡＣ</Sub>、Ｅ<Sub>ＳＶ</Sub>、Ｅ<Sub>ＳＬ</Sub>、Ｅ<Sub>ＳＷ</Sub>、Ｅ<Sub>ＳＥＶ</Sub>及びＥ<Sub>Ｍ</Sub>は、それぞれ次の数値を表すものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">（この式において、Ｅ<Sub>ＳＴ</Sub>、Ｅ<Sub>ＳＡＣ</Sub>、Ｅ<Sub>ＳＶ</Sub>、Ｅ<Sub>ＳＬ</Sub>、Ｅ<Sub>ＳＷ</Sub>、Ｅ<Sub>ＳＥＶ</Sub>、Ｂ及びＥ<Sub>Ｍ</Sub>は、それぞれ次の数値を表すものとする。</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -445,6 +447,16 @@
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">昇降機の基準一次エネルギー消費量（単位　一年につきメガジュール）</Sentence>
+                </Column>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">Ｂ</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">規模及び用途に応じて別表第一に掲げる非住宅部分の基準一次エネルギー消費量の水準を示す係数</Sentence>
                 </Column>
               </ListSentence>
             </List>
@@ -923,7 +935,7 @@
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三条第一項及び第二項の規定は、第二項第一号の共用部分の特定共同住宅等建築主基準一次エネルギー消費量について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>＋Ｅ<Sub>Ｍ</Sub>）×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×０．８＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×Ｂ＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×０．８＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1131,7 +1143,7 @@
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三条第一項及び第二項の規定は、第二項第一号の共用部分の特定共同住宅等建設工事業者基準一次エネルギー消費量について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>＋Ｅ<Sub>Ｍ</Sub>）×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×０．９＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×Ｂ＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×０．９＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1153,7 +1165,7 @@
                   <Sentence Num="1" WritingMode="vertical">非住宅建築物</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Function="main" Num="1" WritingMode="vertical">次のイ及びロ（非住宅部分の全部を工場、畜舎、自動車車庫、自転車駐車場、倉庫、観覧場、卸売市場、火葬場その他エネルギーの使用の状況に関してこれらに類するもの（イ（１）及び別表第二において「工場等」という。）の用途に供する場合にあっては、ロ）に適合するものであること。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">次のイ及びロ（非住宅部分の全部を工場、畜舎、自動車車庫、自転車駐車場、倉庫、観覧場、卸売市場、火葬場その他エネルギーの使用の状況に関してこれらに類するもの（イ（１）、別表第一及び別表第三において「工場等」という。）の用途に供する場合にあっては、ロ）に適合するものであること。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、国土交通大臣がエネルギー消費性能を適切に評価できる方法と認める方法によって非住宅部分が建築物のエネルギー消費性能の一層の向上の促進のために誘導すべきエネルギー消費性能を有することが確かめられた場合においては、この限りでない。</Sentence>
                 </Column>
               </ItemSentence>
@@ -1165,15 +1177,15 @@
                 <Subitem2 Num="1">
                   <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">国土交通大臣が定める方法により算出した非住宅部分（工場等の用途に供する部分を除く。以下（１）及び（２）において同じ。）の屋内周囲空間（各階の外気に接する壁の中心線から水平距離が五メートル以内の屋内の空間、屋根の直下階の屋内の空間及び外気に接する床の直上の屋内の空間をいう。以下（１）及び（２）において同じ。）の年間熱負荷（一年間の暖房負荷及び冷房負荷の合計をいう。以下（１）及び（２）において同じ。）を屋内周囲空間の床面積の合計で除した数値が、用途及び第一条第一項第二号イ（１）の地域の区分（以下単に「地域の区分」という。）に応じて別表第一に掲げる数値以下であること。</Sentence>
-                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、非住宅部分を二以上の用途に供する場合にあっては、当該非住宅部分の各用途の屋内周囲空間の年間熱負荷の合計を各用途の屋内周囲空間の床面積の合計で除して得た数値が、用途及び地域の区分に応じた別表第一に掲げる数値を各用途の屋内周囲空間の床面積により加重平均した数値以下であること。</Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">国土交通大臣が定める方法により算出した非住宅部分（工場等の用途に供する部分を除く。以下（１）及び（２）において同じ。）の屋内周囲空間（各階の外気に接する壁の中心線から水平距離が五メートル以内の屋内の空間、屋根の直下階の屋内の空間及び外気に接する床の直上の屋内の空間をいう。以下（１）及び（２）において同じ。）の年間熱負荷（一年間の暖房負荷及び冷房負荷の合計をいう。以下（１）及び（２）において同じ。）を屋内周囲空間の床面積の合計で除した数値が、用途及び第一条第一項第二号イ（１）の地域の区分（以下単に「地域の区分」という。）に応じて別表第二に掲げる数値以下であること。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、非住宅部分を二以上の用途に供する場合にあっては、当該非住宅部分の各用途の屋内周囲空間の年間熱負荷の合計を各用途の屋内周囲空間の床面積の合計で除して得た数値が、用途及び地域の区分に応じた別表第二に掲げる数値を各用途の屋内周囲空間の床面積により加重平均した数値以下であること。</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
                   <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">非住宅部分の形状に応じた年間熱負荷モデル建築物（非住宅部分の形状を単純化した建築物であって、屋内周囲空間の年間熱負荷の算出に用いるべきものとして国土交通大臣が認めるものをいう。以下（２）において同じ。）について、国土交通大臣が定める方法により算出した屋内周囲空間の年間熱負荷を屋内周囲空間の床面積の合計で除した数値が、用途及び地域の区分に応じて別表第一に掲げる数値以下であること。</Sentence>
-                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、非住宅部分を二以上の用途に供する場合にあっては、当該非住宅部分に係る年間熱負荷モデル建築物の各用途の屋内周囲空間の年間熱負荷の合計を各用途の屋内周囲空間の床面積の合計で除して得た数値が、用途及び地域の区分に応じた別表第一に掲げる数値を各用途の屋内周囲空間の床面積により加重平均した数値以下であること。</Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">非住宅部分の形状に応じた年間熱負荷モデル建築物（非住宅部分の形状を単純化した建築物であって、屋内周囲空間の年間熱負荷の算出に用いるべきものとして国土交通大臣が認めるものをいう。以下（２）において同じ。）について、国土交通大臣が定める方法により算出した屋内周囲空間の年間熱負荷を屋内周囲空間の床面積の合計で除した数値が、用途及び地域の区分に応じて別表第二に掲げる数値以下であること。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、非住宅部分を二以上の用途に供する場合にあっては、当該非住宅部分に係る年間熱負荷モデル建築物の各用途の屋内周囲空間の年間熱負荷の合計を各用途の屋内周囲空間の床面積の合計で除して得た数値が、用途及び地域の区分に応じた別表第二に掲げる数値を各用途の屋内周囲空間の床面積により加重平均した数値以下であること。</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -1582,7 +1594,7 @@
                   <Sentence Num="1" WritingMode="vertical">Ｂ</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">用途に応じて別表第二に掲げる第一条第一項第一号イの非住宅部分の基準一次エネルギー消費量（第三条第一項のその他一次エネルギー消費量を除く。別表第二において同じ。）に対する誘導基準一次エネルギー消費量（同項のその他一次エネルギー消費量を除く。別表第二において同じ。）の割合</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">用途に応じて別表第三に掲げる非住宅部分の誘導基準一次エネルギー消費量の水準を示す係数</Sentence>
                 </Column>
               </ListSentence>
             </List>
@@ -1902,7 +1914,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に存する建築物（令和四年十月一日以後にする法第三十四条第一項の認定の申請に係るものを除く。次項並びに次条第二項及び第三項において同じ。）の非住宅部分について、第三条及び第十二条の規定を適用する場合においては、当分の間、第三条第一項中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>＋Ｅ<Sub>Ｍ</Sub>）×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×１．１＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」と、第十二条中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×Ｂ＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>＋Ｅ<Sub>Ｍ</Sub>）×１０<Sup>－３</Sup></ArithFormula>」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に存する建築物（令和四年十月一日以後にする法第三十四条第一項の認定の申請に係るものを除く。次項並びに次条第二項及び第三項において同じ。）の非住宅部分について、第三条及び第十二条の規定を適用する場合においては、当分の間、第三条第一項中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×Ｂ＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×１．１＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」と、第十二条中「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝｛（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>）×Ｂ＋Ｅ<Sub>Ｍ</Sub>｝×１０<Sup>－３</Sup></ArithFormula>」とあるのは「<ArithFormula>Ｅ<Sub>ＳＴ</Sub>＝（Ｅ<Sub>ＳＡＣ</Sub>＋Ｅ<Sub>ＳＶ</Sub>＋Ｅ<Sub>ＳＬ</Sub>＋Ｅ<Sub>ＳＷ</Sub>＋Ｅ<Sub>ＳＥＶ</Sub>＋Ｅ<Sub>Ｍ</Sub>）×１０<Sup>－３</Sup></ArithFormula>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -2073,6 +2085,152 @@
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
+      <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">規模</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">用途</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">非住宅部分の基準一次エネルギー消費量の水準を示す係数</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（１）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
+              <Sentence Num="1" WritingMode="vertical">新築、増築又は改築後の非住宅部分の床面積（建築物のエネルギー消費性能の向上等に関する法律施行令（平成二十八年政令第八号）第四条第一項に規定する床面積をいう。以下この表において同じ。）の合計が二千平方メートル以上であること。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">事務所等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．８</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（２）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">ホテル等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．８</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（３）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">病院等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．８５</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（４）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百貨店等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．８</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（５）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">学校等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．８</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（６）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">飲食店等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．８５</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（７）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">集会所等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．８５</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（８）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">工場等</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">０．７５</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（９）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">新築、増築又は改築後の非住宅部分の床面積の合計が二千平方メートル未満であること。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１．０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="4">
+              <Sentence Num="1" WritingMode="vertical">備考</Sentence>
+              <Sentence Num="2" WritingMode="vertical">１　「事務所等」とは、事務所、官公署その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二及び別表第三において同じ。</Sentence>
+              <Sentence Num="3" WritingMode="vertical">２　「ホテル等」とは、ホテル、旅館その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二及び別表第三において同じ。</Sentence>
+              <Sentence Num="4" WritingMode="vertical">３　「病院等」とは、病院、老人ホーム、福祉ホームその他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二及び別表第三において同じ。</Sentence>
+              <Sentence Num="5" WritingMode="vertical">４　「百貨店等」とは、百貨店、マーケットその他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二及び別表第三において同じ。</Sentence>
+              <Sentence Num="6" WritingMode="vertical">５　「学校等」とは、小学校、中学校、義務教育学校、高等学校、大学、高等専門学校、専修学校、各種学校その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二及び別表第三において同じ。</Sentence>
+              <Sentence Num="7" WritingMode="vertical">６　「飲食店等」とは、飲食店、食堂、喫茶店、キャバレーその他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二及び別表第三において同じ。</Sentence>
+              <Sentence Num="8" WritingMode="vertical">７　「集会所等」とは、図書館等、体育館等及び映画館等をいう。別表第二及び別表第三において同じ。</Sentence>
+              <Sentence Num="9" WritingMode="vertical">８　「図書館等」とは、図書館、博物館その他エネルギーの使用の状況に関してこれらに類するものをいい、「体育館等」とは、体育館、公会堂、集会場、ボーリング場、劇場、アスレチック場、スケート場、公衆浴場、競馬場又は競輪場、社寺その他エネルギーの使用の状況に関してこれらに類するものをいい、「映画館等」とは、映画館、カラオケボックス、ぱちんこ屋その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
@@ -2482,22 +2640,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="11">
-              <Sentence Num="1" WritingMode="vertical">備考</Sentence>
-              <Sentence Num="2" WritingMode="vertical">１　単位は、１平方メートル１年につきメガジュールとする。</Sentence>
-              <Sentence Num="3" WritingMode="vertical">２　「事務所等」とは、事務所、官公署その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
-              <Sentence Num="4" WritingMode="vertical">３　「ホテル等」とは、ホテル、旅館その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
-              <Sentence Num="5" WritingMode="vertical">４　「病院等」とは、病院、老人ホーム、福祉ホームその他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
-              <Sentence Num="6" WritingMode="vertical">５　「百貨店等」とは、百貨店、マーケットその他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
-              <Sentence Num="7" WritingMode="vertical">６　「学校等」とは、小学校、中学校、義務教育学校、高等学校、大学、高等専門学校、専修学校、各種学校その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
-              <Sentence Num="8" WritingMode="vertical">７　「飲食店等」とは、飲食店、食堂、喫茶店、キャバレーその他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
-              <Sentence Num="9" WritingMode="vertical">８　「図書館等」とは、図書館、博物館その他エネルギーの使用の状況に関してこれらに類するものをいい、「体育館等」とは、体育館、公会堂、集会場、ボーリング場、劇場、アスレチック場、スケート場、公衆浴場、競馬場又は競輪場、社寺その他エネルギーの使用の状況に関してこれらに類するものをいい、「映画館等」とは、映画館、カラオケボックス、ぱちんこ屋その他エネルギーの使用の状況に関してこれらに類するものをいう。別表第二において同じ。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">備考　単位は１平方メートル１年につきメガジュールとする。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
+      <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
@@ -2509,7 +2659,7 @@
               <Sentence Num="1" WritingMode="vertical">用途</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第一条第一項第一号イの非住宅部分の基準一次エネルギー消費量に対する誘導基準一次エネルギー消費量の割合</Sentence>
+              <Sentence Num="1" WritingMode="vertical">非住宅部分の誘導基準一次エネルギー消費量の水準を示す係数</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2598,12 +2748,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">０．６</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">備考</Sentence>
-              <Sentence Num="2" WritingMode="vertical">「集会所等」とは、図書館等、体育館等及び映画館等をいう。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
