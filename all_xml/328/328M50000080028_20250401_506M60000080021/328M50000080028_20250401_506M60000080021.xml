@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="028" Year="28" PromulgateMonth="12" PromulgateDay="28"><LawNum>昭和二十八年文部省令第二十八号</LawNum><LawBody><LawTitle Kana="しりつがっこうきょうしょくいんきょうさいほうしこうきそく" Abbrev="私学共済法施行規則" AbbrevKana="し">私立学校教職員共済法施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="28" Num="028" PromulgateMonth="12" PromulgateDay="28" LawType="MinisterialOrdinance"><LawNum>昭和二十八年文部省令第二十八号</LawNum><LawBody><LawTitle Kana="しりつがっこうきょうしょくいんきょうさいほうしこうきそく" Abbrev="私学共済法施行規則" AbbrevKana="し">私立学校教職員共済法施行規則</LawTitle>
     <EnactStatement>私立学校教職員共済組合法（昭和二十八年法律第二百四十五号）第四十七条並びに私立学校教職員共済組合法施行令（昭和二十八年政令第四百二十五号）第二十七条及び第五十条の規定に基き、並びにこれを実施するため私立学校教職員共済組合法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -582,12 +582,173 @@
           </Paragraph>
         </Article>
         <Article Num="1_7">
-          <ArticleCaption>（加入者証）</ArticleCaption>
+          <ArticleCaption>（資格確認書の交付等）</ArticleCaption>
           <ArticleTitle>第一条の七</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業団は、加入者の資格を取得した者に対し、加入者証（次の各号のいずれかに該当する者については、加入者資格証）を交付する。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十三条の二第一項の規定により同項に規定する書面の交付又は同項に規定する事項の電磁的方法による提供を求める加入者（以下この条において「申請者」という。）は、様式第九号による申請書を、当該学校法人等を経て、事業団に提出して、その交付又は提供を申請しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業団は、前項本文の規定による交付又は提供の申請があつたときは、申請者に対し、法第二十五条において準用する組合法第五十三条の二第一項の書面（次項各号に掲げる事項を記載したものであつて、共済運営規則（日本私立学校振興・共済事業団法（平成九年法律第四十八号。以下「事業団法」という。）第二十五条第二項に規定する共済運営規則をいう。以下同じ。）で定める様式によるものに限る。）であつて複製等を防止し、若しくは抑止するための措置その他の必要な措置を講じたものを交付し、又は当該事項を電磁的方法（第四項に規定するものであつて、共済運営規則で定める様式により表示することができるものに限る。以下この項において同じ。）により提供しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該書面又は当該電磁的方法により提供されたもの（以下「資格確認書」という。）の有効期限は、交付又は提供の日から起算して五年を超えない範囲内において事業団が定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十三条の二第一項に規定する文部科学省令で定める事項は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">交付又は提供に係る加入者又はその被扶養者の氏名、性別及び生年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">加入者等記号・番号、保険者番号及び事業団の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">資格取得年月日及び資格確認書の交付又は提供の年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">有効期限</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">加入者の氏名（被扶養者に係る資格確認書に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他事業団が定める事項であつて申請者が書面への記載又は電磁的方法による提供を求めたもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十三条の二第一項の情報通信の技術を利用する方法であつて文部科学省令で定めるものは、電子情報処理組織を使用する方法のうち、送信者の使用に係る電子計算機に備えられたファイルに記録された情報の内容を電気通信回線を通じて情報の提供を受ける者の閲覧に供する方法であつて複製等を防止し、又は抑止するための措置その他の必要な措置を講じたものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">事業団は、第二項の規定により申請者に資格確認書を交付しようとするときは、これを当該学校法人等に送付しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事業団が支障がないと認めるときは、これを申請者に送付することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項本文の規定による資格確認書の送付があつたときは、当該学校法人等は、遅滞なく、これを申請者に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（資格確認書の提出等）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">加入者は、前条第三項各号に掲げる事項に変更があつたとき、法第十六条ただし書に該当するに至つたとき又は当該学校法人等の内部において所属学校を異動したときは、資格確認書（書面に限る。以下この条において同じ。）を、直ちに、当該学校法人等を経て、事業団に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">加入者は、その資格を喪失したとき又はその被扶養者がその要件を欠くに至つたときは、直ちに、資格確認書を当該学校法人等を経て、事業団に返納しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の資格喪失の原因が死亡である場合又は同項の規定により資格確認書を返納すべき者が死亡した場合には、埋葬料の支給を受けるべき者は、その請求の際、資格確認書を、当該学校法人等を経て、事業団に返納しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">加入者は、資格確認書を滅失し、又はき損したときは、滅失の場合を除き当該資格確認書を添えて、様式第九号による申請書を、当該学校法人等を経て、事業団に提出して、その再交付を申請することができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業団は、第一項の規定による提出又は前項本文の規定による申請があつたときは、新たな資格確認書を交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">事業団は、前項の規定により加入者に資格確認書を交付しようとするときは、これを当該学校法人等に送付しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事業団が支障がないと認めるときは、これを当該加入者に送付することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項本文の規定による資格確認書の送付があつたときは、当該学校法人等は、遅滞なく、これを当該加入者に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">加入者は、資格確認書の再交付を受けた後において、滅失した資格確認書を発見したときは、直ちに、これを、当該学校法人等を経て、事業団に返納しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">加入者は、資格確認書の検認、更新又は記載事項の訂正のため、その提出を求められたときは、直ちに、これを、当該学校法人等を経て、事業団に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業団が資格確認書の検認又は更新を行つた場合において、その検認又は更新を受けない資格確認書は、無効とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2_2">
+          <ArticleCaption>（法第二十五条において準用する組合法第五十三条の二第二項の文部科学省令で定める方法）</ArticleCaption>
+          <ArticleTitle>第二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十三条の二第二項の文部科学省令で定める方法は、電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。）に記録された第一条の七第三項各号に掲げる事項を共済運営規則で定める様式により映像面に表示する方法とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2_3">
+          <ArticleCaption>（加入者資格証の交付）</ArticleCaption>
+          <ArticleTitle>第二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業団は、加入者の資格を取得した者であつて、次の各号のいずれかに該当するものに対し、加入者資格証を交付する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -603,88 +764,116 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="2">
-          <ArticleCaption>（加入者証の提出等）</ArticleCaption>
-          <ArticleTitle>第二条</ArticleTitle>
+        <Article Num="2_4">
+          <ArticleCaption>（加入者資格証の提出等）</ArticleCaption>
+          <ArticleTitle>第二条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">加入者は、その氏名に変更があつたとき、法第十六条ただし書に該当するに至つたとき又は当該学校法人等の内部において所属学校を異動したときは、加入者証を、直ちに、当該学校法人等を経て、事業団に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条の規定は、加入者資格証について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「前条第三項各号に掲げる事項」とあるのは「記載事項」と、「（書面に限る。以下のこの条において同じ。）を」とあるのは「を」と、同条第四項中「様式第九号による申請書」とあるのは「申請書」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2_5">
+          <ArticleCaption>（資格情報通知書による通知）</ArticleCaption>
+          <ArticleTitle>第二条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業団は、加入者の資格を取得した者又は被扶養者を有するに至つた加入者（第二条の三に規定する加入者資格証の交付を受ける者を除く。以下この条において同じ。）に対し、当該加入者又はその被扶養者の資格に係る情報として、次に掲げる事項を書面又は電磁的記録（以下「資格情報通知書」という。）により通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該通知に係る加入者又はその被扶養者の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">加入者等記号・番号、保険者番号及び事業団の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">資格取得年月日及び通知年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">加入者は、加入者証を滅失し、又はき損したときは、直ちに、滅失の場合を除き加入者証を添えて、様式第九号による加入者証再交付申請書を当該学校法人等を経て、事業団に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業団は、前項の規定による通知をする場合には、次に掲げる事項を併せて通知するものとする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項各号に掲げる事項は、加入者及びその被扶養者が自らの資格に係る情報を確認するために通知するものであり、これらの事項の提示のみでは保険医療機関等（法第二十五条において準用する組合法第五十五条第一項に規定する保険医療機関等をいう。以下同じ。）又は指定訪問看護事業者（法第二十五条において準用する組合法第五十六条の二第一項に規定する指定訪問看護事業者をいう。以下同じ。）において加入者又はその被扶養者であることの確認を受けることができないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の規定にかかわらず、災害その他の特別な事情により電子資格確認を受けることができない状況にある場合において、前項の通知に係る加入者又はその被扶養者は、個人番号カード（番号利用法第二条第七項に規定する個人番号カードをいう。）とともに、資格情報通知書又は情報提供等記録開示システム（番号利用法附則第六条第三項に規定する情報提供等記録開示システムをいう。次条第二項において同じ。）を通じて取得した当該加入者又はその被扶養者の資格に係る情報を提示する方法により、保険医療機関等又は指定訪問看護事業者において加入者又はその被扶養者であることの確認を受けることができること。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">加入者は、その資格を喪失したときは、直ちに、加入者証を当該学校法人等を経て、事業団に返納しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による通知は、当該学校法人等を通じて行わなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事業団が支障がないと認めるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の資格喪失の原因が死亡である場合又は同項の規定により加入者証を返納すべき者が死亡した場合には、埋葬料の支給を受けるべき者は、その請求の際、加入者証を、当該学校法人等を経て、事業団に返納しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">当該学校法人等は、前項本文の規定により通知を受けたときは、遅滞なく、これを加入者に通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">加入者は、加入者証の再交付を受けた後において、滅失した加入者証を発見したときは、直ちに、これを、当該学校法人等を経て、事業団に返納しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">加入者は、加入者証の検認、更新又は記載事項の訂正のため、その提出を求められたときは、直ちに、これを、当該学校法人等を経て、事業団に提出しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>７</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業団が加入者証の検認又は更新を行つた場合において、その検認又は更新を受けない加入者証は、無効とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="2_2">
-          <ArticleCaption>（加入者資格証の提出等）</ArticleCaption>
-          <ArticleTitle>第二条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">加入者は、その氏名に変更があつたとき、法第十六条ただし書に該当するに至つたとき又は当該学校法人の内部において所属学校を異動したときは、加入者資格証を、直ちに、当該学校法人を経て、事業団に提出しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条（第一項を除く。）の規定は、加入者資格証について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定は、第一項各号に掲げる事項に変更が生じた場合（資格確認書の交付又は提供を受けている場合を除く。）について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="3">
-          <ArticleCaption>（加入者被扶養者証）</ArticleCaption>
+          <ArticleCaption>（資格情報通知書による再通知）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業団は、第一条の五第一項の申請書の提出があり、被扶養者の要件を備えるものと認定したときは、加入者に対し、加入者被扶養者証を交付する。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">加入者は、資格情報通知書を滅失し、又はき損したときは、様式第九号による申請書を、当該学校法人等を経て、事業団に提出して、その再通知を申請することができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">加入者は、被扶養者がその要件を欠くに至つたときは、当該被扶養者に係る加入者被扶養者証を、直ちに、当該学校法人等を経て、事業団に返納しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">事業団は、前項本文の規定による申請を受けたときは、当該申請に係る加入者又はその被扶養者の資格に係る情報を、資格情報通知書により加入者に再通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該加入者又はその被扶養者が情報提供等記録開示システムを通じて前条第一項各号に掲げる事項を取得できる場合において、その取得できる旨をあらかじめ当該加入者に通知したときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二条の規定は、加入者被扶養者証について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「氏名」とあるのは「氏名若しくは被扶養者の氏名」と、「加入者証」とあるのは「加入者被扶養者証（被扶養者の氏名に変更があつたときは、当該被扶養者に係る加入者被扶養者証）」と読み替えるものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項本文の規定による再通知は、当該学校法人等を通じて行わなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事業団が支障がないと認めるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">当該学校法人等は、前項本文の規定により再通知を受けたときは、遅滞なく、これを加入者に通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -730,8 +919,8 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二条の規定（同条第三項の規定を除く。）は、高齢受給者証について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第四項中「前項の資格喪失の」とあるのは「第三条の二第二項第一号又は同項第二号に該当するに至つた」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条（第二項を除く。）の規定は、高齢受給者証について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「前条第三項各号に掲げる事項」とあるのは「記載事項」と、「（書面に限る。以下のこの条において同じ。）を」とあるのは「を」と、同条第三項中「前項の資格喪失の」とあるのは「第三条の二第二項第一号に該当するに至つた」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1156,7 +1345,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項の利用者証明用電子証明書を送信する方法その他の文部科学省令で定める方法は、利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を送信する方法とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項の利用者証明用電子証明書を送信する方法その他の文部科学省令で定める方法は、利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。以下同じ。）を送信する方法とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1167,26 +1356,32 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">加入者証を提出する方法</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">資格確認書を提出し、又は提示する方法</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">処方箋を提出する方法（法第二十五条において準用する組合法第五十五条第一項各号に掲げる薬局から療養を受けようとする場合に限る。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">処方せんを提出する方法（法第二十五条において準用する組合法第五十五条第一項各号に掲げる薬局から療養を受けようとする場合に限る。次項において同じ。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">保険医療機関等（法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関又は薬局をいう。以下同じ。）又は指定訪問看護事業者（法第二十五条において準用する組合法第五十六条の二第一項に規定する指定訪問看護事業者をいう。以下同じ。）が、過去に取得した療養又は指定訪問看護（法第二十五条において準用する組合法第五十六条の二第一項に規定する指定訪問看護をいう。以下この号及び第五条第八項において同じ。）を受けようとする者の加入者の資格に係る情報（短期給付に係る費用の請求に必要な情報を含む。）を用いて、事業団に対し、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、あらかじめ照会を行い、事業団から回答を受けて取得した直近の当該情報を確認する方法（当該者が当該保険医療機関等から療養（居宅における療養上の管理及びその療養に伴う世話その他の看護又は居宅における薬学的管理及び指導に限る。）を受けようとする場合又は当該指定訪問看護事業者から指定訪問看護を受けようとする場合であつて、当該保険医療機関等又は指定訪問看護事業者から電子資格確認（法第二十五条において準用する組合法第五十五条第一項に規定する電子資格確認をいう。）による確認を受けてから継続的な療養又は指定訪問看護を受けているときに限る。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保険医療機関等又は指定訪問看護事業者が、過去に取得した療養又は指定訪問看護（法第二十五条において準用する組合法第五十六条の二第一項に規定する指定訪問看護をいう。以下この号及び第五条第八項において同じ。）を受けようとする者の加入者の資格に係る情報（短期給付に係る費用の請求に必要な情報を含む。）を用いて、事業団に対し、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、あらかじめ照会を行い、事業団から回答を受けて取得した直近の当該情報を確認する方法（当該者が当該保険医療機関等から療養（居宅における療養上の管理及びその療養に伴う世話その他の看護又は居宅における薬学的管理及び指導に限る。）を受けようとする場合又は当該指定訪問看護事業者から指定訪問看護を受けようとする場合であつて、当該保険医療機関等又は指定訪問看護事業者から電子資格確認（法第二十五条において準用する組合法第五十五条第一項に規定する電子資格確認をいう。）による確認を受けてから継続的な療養又は指定訪問看護を受けているときに限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">文部科学大臣が定める方法</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第二項第二号又は第三号の規定の適用を受ける加入者が、保険医療機関等又は指定訪問看護事業者に加入者証又は処方箋を提出する方法により加入者であることの確認を受けるときは、加入者証又は処方箋に高齢受給者証を添えて提出するものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第二項第二号又は第三号の規定の適用を受ける加入者が、保険医療機関等又は指定訪問看護事業者に資格確認書を提出し、若しくは提示する方法又は処方せんを提出する方法により加入者であることの確認を受けるときは、資格確認書又は処方せんに高齢受給者証を添えて提出するものとする。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該保険医療機関等又は指定訪問看護事業者において、当該加入者が法第二十五条において準用する組合法第五十五条第二項第二号又は第三号の規定の適用を受けることの確認を行うことができるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1271,7 +1466,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項各号に掲げる薬局から薬剤の支給を受けようとする者は、同項各号に掲げる医療機関において診療に従事する保険医又は医師若しくは歯科医師から処方箋の交付を受けた上、当該薬局に提出しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項各号に掲げる薬局から薬剤の支給を受けようとする者は、同項各号に掲げる医療機関において診療に従事する保険医又は医師若しくは歯科医師から処方せんの交付を受けた上、当該薬局に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1561,7 +1756,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第三項に規定する共済運営規則（日本私立学校振興・共済事業団法（平成九年法律第四十八号。以下「事業団法」という。）第二十五条第二項に規定する共済運営規則をいう。以下同じ。）で定める金額に係る療養に要した費用の額</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第三項に規定する共済運営規則で定める金額に係る療養に要した費用の額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -1735,8 +1930,8 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二条（第三項を除く。）の規定は、限度額適用認定証について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条第四項中「前項の資格喪失の」とあるのは、「第四条の十一の二第三項第一号及び第二号に該当するに至つた」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条（第二項を除く。）の規定は、限度額適用認定証について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「前条第三項各号に掲げる事項」とあるのは「記載事項」と、「（書面に限る。以下のこの条において同じ。）を」とあるのは「を」と、同条第三項中「前項の資格喪失の」とあるのは「第四条の十一の二第三項第一号に該当するに至つた」と、同条第四項中「様式第九号による申請書」とあるのは「申請書」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -1848,8 +2043,8 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二条の規定（同条第三項の規定を除く。）は、限度額適用証について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条第四項中「前項の資格喪失の」とあるのは「第四条の十三第三項第一号又は同項第二号に該当するに至つた」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条（第二項を除く。）の規定は、限度額適用証について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「前条第三項各号に掲げる事項」とあるのは「記載事項」と、「（書面に限る。以下のこの条において同じ。）を」とあるのは「を」と、同条第三項中「前項の資格喪失の」とあるのは「第四条の十三第三項第一号に該当するに至つた」と、同条第四項中「様式第九号による申請書」とあるのは「申請書」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -1947,7 +2142,7 @@
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">加入者証又は加入者被扶養者証を使用できなかつた理由</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項に規定する電子資格確認等により加入者であることの確認を受けることができなかつた理由</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
@@ -2009,7 +2204,7 @@
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第四条の二、第四条の四及び第四条の五（第四条の六において準用する場合を含む。）の規定は、被扶養者が保険医療機関等又は指定訪問看護事業者から療養又は指定訪問看護を受ける場合について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第四条の二中「加入者証」とあるのは「加入者被扶養者証」と、「加入者」とあるのは「被扶養者」と、第四条の五第一項中「入院時食事療養費又は保険外併用療養費」とあるのは「家族療養費」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第四条の二中「加入者」とあるのは「被扶養者」と、第四条の五第一項中「入院時食事療養費又は保険外併用療養費」とあるのは「家族療養費」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3497,8 +3692,8 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二条第一項、第二項、第四項及び第五項の規定は、資格喪失後継続給付証明書について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、「当該学校法人等を経て、事業団に」とあるのは、「事業団に」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条第一項、第三項から第六項まで及び第八項の規定は、資格喪失後継続給付証明書について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項、第三項及び第八項中「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、同条第一項中「前条第三項各号に掲げる事項に変更があつたとき、法第十六条ただし書に該当するに至つたとき又は当該学校法人等の内部において所属学校を異動した」とあるのは「記載事項に変更があつた」と、「（書面に限る。以下のこの条において同じ。）を」とあるのは「を」と、同条第三項中「前項の資格喪失の原因が死亡である場合又は同項」とあるのは「第七条第六項又は第七項」と、同条第四項中「様式第九号による申請書」とあるのは「申請書」と、「当該学校法人等を経て、事業団に提出して、その再交付を申請することができる。ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。」とあるのは「事業団に提出して、その再交付を申請することができる。」と、同条第五項中「前項本文」とあるのは「前項」と、同条第六項中「当該学校法人等に送付しなければならない。ただし、事業団が支障がないと認めるときは、これを当該加入者に送付することができる。」とあるのは「当該加入者に送付しなければならない。」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="9">
@@ -3529,7 +3724,7 @@
             <Paragraph Num="13">
               <ParagraphNum>１３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十一項の規定に基づき交付された高齢受給者証に係る第三条の二第三項の規定の適用において、同項中「この場合において、同条第四項中」とあるのは「この場合において、「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十一項の規定に基づき交付された高齢受給者証に係る第三条の二第三項の規定の適用については、同項中「第二項を」とあるのは「第二項及び第七項を」と、「同条第一項中」とあるのは「同条第一項、第三項、第八項及び第九項中「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、同条第一項中」と、「前条第三項各号に掲げる事項」とあるのは「記載事項」とあるのは「前条第三項各号に掲げる事項に変更があつたとき、法第十六条ただし書に該当するに至つたとき又は当該学校法人等の内部において所属学校を異動した」とあるのは「記載事項に変更があつた」と、「前項の資格喪失の」とあるのは「第三条の二第二項第一号に該当するに至つた」とあるのは「前項の資格喪失の原因が死亡である場合又は同項」とあるのは「第七条第十二項において準用する同条第七項」と、同条第四項中「様式第九号による申請書」とあるのは「申請書」と、「当該学校法人等を経て、事業団に提出して、その再交付を申請することができる。ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。」とあるのは「事業団に提出して、その再交付を申請することができる。」と、同条第五項中「前項本文」とあるのは「前項」と、同条第六項中「当該学校法人等に送付しなければならない。ただし、事業団が支障がないと認めるときは、これを当該加入者に送付することができる。」とあるのは「当該加入者に送付しなければならない。」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -6910,7 +7105,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">退職のときに交付されていた加入者証の加入者等記号・番号又は個人番号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6928,7 +7123,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">任意継続加入者でなくなることを希望する旨を事業団に申し出るときに交付されている加入者証の加入者等記号・番号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6945,8 +7140,254 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">任意継続加入者に係る第一条の五、第一条の七、第二条第一項から第六項まで、第三条の二第二項、第三条の三第一項及び第二項、第四条の三第二項、第四条の九の三第一項、第四条の十一の二第三項並びに第四条の十三第一項及び第三項の規定の適用については、第一条の五中「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、第一条の七中「加入者の資格を取得した者」とあるのは「任意継続加入者となつた者」と、第二条第一項から第六項まで、第三条の二第二項、第三条の三第一項及び第二項、第四条の三第二項、第四条の九の三第一項、第四条の十一の二第三項並びに第四条の十三第一項及び第三項中「当該学校法人等を経て、事業団に」とあるのは「事業団に」とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">任意継続加入者に係る第一条の五、第一条の七、第二条、第二条の五、第三条から第三条の三まで、第四条の三、第四条の九の三、第四条の十一の二及び第四条の十三の規定の適用については、これらの規定中「当該学校法人等を経て、事業団に」とあるのは、「事業団に」とするほか、次の表の上欄に掲げる規定の適用については、これらの規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
             </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第一条の七第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">提出して、その交付又は提供を申請しなければならない。ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">提出して、その交付又は提供を申請しなければならない。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第一条の七第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項本文</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第一条の七第五項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該学校法人等に送付しなければならない。ただし、事業団が支障がないと認めるときは、これを申請者に送付することができる。</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">申請者に送付しなければならない。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第一条の七第六項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項本文</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">あつたとき、法第十六条ただし書に該当するに至つたとき又は当該学校法人等の内部において所属学校を異動した</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">あつた</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条第四項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">提出して、その再交付を申請することができる。ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">提出して、その再交付を申請することができる。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条第五項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項本文</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条第六項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該学校法人等に送付しなければならない。ただし、事業団が支障がないと認めるときは、これを当該加入者に送付することができる。</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該加入者に送付しなければならない。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条第七項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項本文</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条の五第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">加入者の資格を取得した者</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">任意継続加入者となつた者</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条の五第三項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該学校法人等を通じて行わなければならない。ただし、事業団が支障がないと認めるときは、この限りでない。</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">加入者に行わなければならない。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条の五第四項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項本文</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条の五第五項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前各項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三十三条の二第二項の規定により読み替えて適用する前各項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">提出して、その再通知を申請することができる。ただし、災害その他やむを得ない事情により、当該学校法人等を経由して行うことが困難であると事業団が認めるときは、当該学校法人等を経由することを要しない。</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">提出して、その再通知を申請することができる。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三条第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項本文</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三条第三項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該学校法人等を通じて行わなければならない。ただし、事業団が支障がないと認めるときは、この限りでない。</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">加入者に行わなければならない。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三条第四項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項本文</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三条の二第三項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三十三条の二第二項の規定により読み替えて適用する第二条</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三条の三第三項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">前項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三十三条の二第二項の規定により読み替えて適用する前項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第四条の三第四項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該学校法人等を経て、その旨</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">その旨</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第四条の十一の二第四項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三十三条の二第二項の規定により読み替えて適用する第二条</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第四条の十三第四項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二条</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三十三条の二第二項の規定により読み替えて適用する第二条</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
           </Paragraph>
         </Article>
         <Article Num="33_3">
@@ -7019,7 +7460,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">任意継続加入者であつた者の氏名及び生年月日並びにその者の加入者証の加入者等記号・番号又は個人番号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">任意継続加入者であつた者の氏名及び生年月日並びに任意継続加入者であつたときの加入者等記号・番号又は個人番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -7639,13 +8080,13 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）による社会保険診療報酬支払基金</Sentence>
+                <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金（社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）第一条に規定する社会保険診療報酬支払基金をいう。第三十九条の二において同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国民健康保険団体連合会（国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会をいう。第三十九条の二において同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -7895,7 +8336,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業団は、法第四十七条の三第一項の規定により同項第二号又は第三号に掲げる事務を委託する場合には、第一条第一項の規定による異動報告書（同項第一号に係るものに限る。）若しくは第一条の五第一項の規定による申請書の提出を受け、又は施行令第十一条第一項の規定による申出を受けた日から五日以内に、当該異動報告書若しくは申請書又は申出に係る加入者及び被扶養者の資格に係る情報を、電磁的方法により、社会保険診療報酬支払基金法による社会保険診療報酬支払基金又は国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会に提供するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業団は、法第四十七条の三第一項の規定により同項第二号又は第三号に掲げる事務を委託する場合には、第一条第一項の規定による異動報告書（同項第一号又は第三号に係るものに限る。）若しくは第一条の五第一項若しくは第二項の規定による申請書の提出を受け、又は施行令第十一条第一項若しくは第二項の規定による申出を受けた日から五日以内に、当該異動報告書若しくは申請書又は申出に係る加入者及び被扶養者の資格に係る情報を、電磁的方法により、社会保険診療報酬支払基金又は国民健康保険団体連合会に提供するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -7921,7 +8362,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この省令の規定による事業団への書類の提出については、事業団の定めるところにより、当該書類に記載すべきこととされている事項を記録した電磁的記録（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第七号に規定する電磁的記録をいう。）を送付する方法その他の適切な方法により行うことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この省令の規定による事業団への書類の提出については、事業団の定めるところにより、当該書類に記載すべきこととされている事項を記録した電磁的記録を送付する方法その他の適切な方法により行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -12830,6 +13271,17 @@
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法附則第十二条の三</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">平成二十四年一元化法改正前私学共済法第二十五条において準用する改正前国共済法附則第十二条の三</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">法第二十五条において準用する組合法第七十八条の二第一項</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -14966,12 +15418,69 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一一月二九日文部科学省令第三二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（令和六年十二月二日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に日本私立学校振興・共済事業団（以下「事業団」という。）からこの省令による改正前の私立学校教職員共済法施行規則（以下この条及び附則第五条において「改正前私学共済規則」という。）第一条の七の加入者証又は改正前私学共済規則第三条第一項の加入者被扶養者証（以下この条及び次条において「加入者証等」という。）の交付を受けている加入者又はその被扶養者が、この省令の施行の日（以下この条及び次条において「施行日」という。）以後に私立学校教職員共済法第二十五条において準用する国家公務員共済組合法（以下この条及び次条において「準用国共済法」という。）第五十五条第一項に規定する保険医療機関等から療養を受ける場合又は準用国共済法第五十六条の二第一項に規定する指定訪問看護事業者から準用国共済法第五十六条の二第一項に規定する指定訪問看護を受ける場合における加入者証等については、施行日から一年を経過する日（準用国共済法第百二十六条の五第二項に規定する任意継続加入者又はその被扶養者に係るものにあっては、同日又は準用国共済法第百二十六条の五第五項の規定により資格を喪失する日の前日のいずれか早い日）までの間は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令の施行の際現に事業団から加入者証等の交付を受けている加入者又はその被扶養者が、施行日から起算して一年を経過する日（準用国共済法第百二十六条の五第二項に規定する任意継続加入者又はその被扶養者に係るものにあっては、同日又は準用国共済法第百二十六条の五第五項の規定により資格を喪失する日の前日のいずれか早い日）までの間に七十歳に達する場合、私立学校教職員共済法施行令（昭和二十八年政令第四百二十五号）第六条において準用する国家公務員共済組合法施行令（昭和三十三年政令第二百七号。以下この条において「準用国共済法施行令」という。）第十一条の三の三第九項の規定による事業団の認定を受けた場合、準用国共済法施行令第十一条の三の六第一項第一号イ、ロ、ハ若しくはニ、第二号ハ若しくはニ若しくは第三号ハ若しくはニの規定による事業団の認定若しくは同条第四項若しくは第五項の規定による事業団の認定（準用国共済法施行令第十一条の三の五第二項第一号から第四号までのいずれかに掲げる区分に該当する者に対して行われるものに限る。）を受けた場合又は準用国共済法施行令第十一条の三の六第一項第一号ホ、第二号ホ若しくはヘ、第三号ホ若しくはヘ若しくは第四号ロの規定による事業団の認定若しくは同条第四項若しくは第五項の規定による事業団の認定（準用国共済法施行令第十一条の三の五第二項第五号に掲げる区分に該当する者に対して行われるものに限る。）を受けた場合における私立学校教職員共済法施行規則第三条の二第一項に規定する高齢受給者証、同令第四条の九の三第三項に規定する特定疾病療養受療証、同令第四条の十一の二第二項に規定する限度額適用認定証及び同令第四条の十三第二項に規定する限度額適用・標準負担額減額認定証については、なお従前の例による。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該加入者又はその被扶養者が準用国共済法第五十五条第一項に規定する電子資格確認を受けることができる状況にある場合又はこの省令による改正後の私立学校教職員共済法施行規則（次条において「改正後私学共済規則」という。）第一条の七第二項に規定する資格確認書の交付又は提供を受けている場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に事業団が加入者に対し、改正後私学共済規則第二条の五第一項各号に掲げる事項を書面又は電磁的記録により通知した場合において、当該書面又は当該電磁的記録は、同項に規定する資格情報通知書とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（改正前私学共済規則様式第二号から様式第四号までによる異動報告書及び改正前私学共済規則様式第八号の二による申請書に限る。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000051042.pdf"/>
+          <Fig src="./pict/2FH00000075306.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14980,7 +15489,7 @@
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000051043.pdf"/>
+          <Fig src="./pict/2FH00000075307.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14989,7 +15498,7 @@
       <RelatedArticleNum>（第一条、第三十三条の二、第三十三条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000062985.pdf"/>
+          <Fig src="./pict/2FH00000075308.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14998,7 +15507,7 @@
       <RelatedArticleNum>（第一条、第三十三条の二、第三十三条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000062986.pdf"/>
+          <Fig src="./pict/2FH00000075309.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15007,7 +15516,7 @@
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000051046.pdf"/>
+          <Fig src="./pict/2FH00000075310.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15052,7 +15561,7 @@
       <RelatedArticleNum>（第一条の五、第三十三条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065463.pdf"/>
+          <Fig src="./pict/2FH00000075311.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15061,16 +15570,16 @@
       <RelatedArticleNum>（第一条の五、第三十三条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065464.pdf"/>
+          <Fig src="./pict/2FH00000075312.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九号</AppdxStyleTitle>
-      <RelatedArticleNum>（第二条、第三条の二、第三十三条の四関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第一条の七、第二条、第三条、第三条の二、第三十三条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000062987.pdf"/>
+          <Fig src="./pict/2FH00000075313.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
