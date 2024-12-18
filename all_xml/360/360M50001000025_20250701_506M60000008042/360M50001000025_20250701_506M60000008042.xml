@@ -3799,13 +3799,13 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">対象設備が次の（１）から（３）までに掲げるものである場合において、合計利益提供額が当該（１）から（３）までに定める額を超えないもの。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">対象設備が次の（１）から（３）までに掲げるものである場合（当該対象設備を割賦販売の方法により販売する場合であつて、将来の一定の時期において利用者から譲り受けることにより、当該対象設備に係る残存債務を免除する条件を約し、又は約させるときを除く。）において、合計利益提供額が当該（１）から（３）までに定める額を超えないもの</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
                       <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">利益提供日において当該対象設備と同一の機種の電気通信設備の最終調達日（当該電気通信事業者に電気通信設備が最後に納入された日をいい、当該最後に納入された日が当該電気通信設備の販売等が開始された日以前である場合には、当該販売等が開始された日をいう。以下このイにおいて同じ。）から二十四月が経過している対象設備（（２）及び（３）に掲げるものを除く。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">利益提供日において当該対象設備と同一の機種の電気通信設備の最終調達日（当該電気通信事業者に電気通信設備が最後に納入された日をいい、当該最後に納入された日が当該電気通信設備の販売等が開始された日から十二月を経過した日より前の日である場合には、当該販売等が開始された日から十二月を経過した日をいう。以下このイにおいて同じ。）から十二月が経過している対象設備（（２）及び（３）に掲げるものを除く。）</Sentence>
                       </Column>
                       <Column Num="2">
                         <Sentence Num="1" WritingMode="vertical">当該対象設備の対照価格の半額に相当する額</Sentence>
@@ -3816,10 +3816,10 @@
                     <Subitem2Title>（２）</Subitem2Title>
                     <Subitem2Sentence>
                       <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">製造事業者による製造が中止された対象設備であつて、利益提供日において当該対象設備と同一の機種の電気通信設備の最終調達日から十二月が経過しているもの（（３）に掲げるものを除く。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">利益提供日において当該対象設備と同一の機種の電気通信設備の最終調達日から二十四月が経過している対象設備（（３）に掲げるものを除く。）</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">当該対象設備の対照価格の半額に相当する額</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">当該対象設備の対照価格の八割に相当する額</Sentence>
                       </Column>
                     </Subitem2Sentence>
                   </Subitem2>
@@ -3827,10 +3827,10 @@
                     <Subitem2Title>（３）</Subitem2Title>
                     <Subitem2Sentence>
                       <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">製造事業者による製造が中止された対象設備であつて、利益提供日において当該対象設備と同一の機種の電気通信設備の最終調達日から二十四月が経過しているもの</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">利益提供日において当該対象設備と同一の機種の電気通信設備の最終調達日から三十六月が経過している対象設備</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">当該対象設備の対照価格の八割に相当する額</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">当該対象設備の対照価格に相当する額</Sentence>
                       </Column>
                     </Subitem2Sentence>
                   </Subitem2>
@@ -12843,6 +12843,12 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第二十二条の二の十六第一項第一号に規定する対象設備が無線設備規則第四十九条の六の十二第二項で定める条件に適合する無線設備である場合における第二十二条の二の十六第一項第二号の規定の適用については、当分の間、同号中「四万円」とあるのは「五万五千円」と、「八万円」とあるのは「十一万円」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六〇年一二月二〇日郵政省令第八五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -15645,6 +15651,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一二月五日総務省令第一〇七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和六年十二月二十六日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="027" Year="25" PromulgateMonth="05" PromulgateDay="31">
-  <LawNum>平成二十五年法律第二十七号</LawNum>
+<Law Lang="ja" Era="Heisei" Year="25" Num="027" PromulgateMonth="5" PromulgateDay="31" LawType="Act"><LawNum>平成二十五年法律第二十七号</LawNum>
+  
   <LawBody>
     <LawTitle Kana="ぎょうせいてつづきにおけるとくていのこじんをしきべつするためのばんごうのりようとうにかんするほうりつ" Abbrev="マイナンバー法,個人番号法,番号法" AbbrevKana="ま,こ,ば">行政手続における特定の個人を識別するための番号の利用等に関する法律</LawTitle>
     <TOC>
@@ -15,7 +15,7 @@
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　個人番号カード</ChapterTitle>
-        <ArticleRange>（第十六条の二―第十八条の二）</ArticleRange>
+        <ArticleRange>（第十六条の二―第十八条の五）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　特定個人情報の提供</ChapterTitle>
@@ -160,47 +160,53 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報」とは、個人番号（個人番号に対応し、当該個人番号に代わって用いられる番号、記号その他の符号であって、住民票コード以外のものを含む。第七条第一項及び第二項、第八条並びに第四十八条並びに附則第三条第一項から第三項まで及び第五項を除き、以下同じ。）をその内容に含む個人情報をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「カード代替電磁的記録」とは、前項第一号から第五号までに掲げる事項及び本人の写真（本人の写真が表示されていない個人番号カードの交付を受けている者に係るものにあっては、当該事項。第十八条の二第二項において「カード代替記録事項」という。）に係る電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この項並びに同条第一項及び第二項において同じ。）並びに当該電磁的記録がその送信を行った者のものであることを当該電磁的記録の送信を受けた者が確認するために必要な事項として主務省令で定める事項に係る電磁的記録について地方公共団体情報システム機構（以下「機構」という。）が電子署名（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名であって、主務省令で定める基準に適合するものをいう。第十八条の二第二項及び第三項において同じ。）を行ったものにより一体的に構成された電磁的記録をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報ファイル」とは、個人番号をその内容に含む個人情報ファイルをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報」とは、個人番号（個人番号に対応し、当該個人番号に代わって用いられる番号、記号その他の符号であって、住民票コード以外のものを含む。第七条第一項及び第二項、第八条並びに第四十八条並びに附則第三条第一項から第三項まで及び第五項を除き、以下同じ。）をその内容に含む個人情報をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号利用事務」とは、行政機関、地方公共団体、独立行政法人等その他の行政事務を処理する者が第九条第一項から第三項までの規定によりその保有する特定個人情報ファイルにおいて個人情報を効率的に検索し、及び管理するために必要な限度で個人番号を利用して処理する事務をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報ファイル」とは、個人番号をその内容に含む個人情報ファイルをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="11">
             <ParagraphNum>１１</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号関係事務」とは、第九条第四項の規定により個人番号利用事務に関して行われる他人の個人番号を必要な限度で利用して行う事務をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号利用事務」とは、行政機関、地方公共団体、独立行政法人等その他の行政事務を処理する者が第九条第一項から第三項までの規定によりその保有する特定個人情報ファイルにおいて個人情報を効率的に検索し、及び管理するために必要な限度で個人番号を利用して処理する事務をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="12">
             <ParagraphNum>１２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号利用事務実施者」とは、個人番号利用事務を処理する者及び個人番号利用事務の全部又は一部の委託を受けた者をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号関係事務」とは、第九条第四項の規定により個人番号利用事務に関して行われる他人の個人番号を必要な限度で利用して行う事務をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="13">
             <ParagraphNum>１３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号関係事務実施者」とは、個人番号関係事務を処理する者及び個人番号関係事務の全部又は一部の委託を受けた者をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号利用事務実施者」とは、個人番号利用事務を処理する者及び個人番号利用事務の全部又は一部の委託を受けた者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="14">
             <ParagraphNum>１４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「情報提供ネットワークシステム」とは、行政機関の長等（行政機関の長、地方公共団体の機関、独立行政法人等、地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。以下同じ。）及び地方公共団体情報システム機構（以下「機構」という。）並びに第十九条第八号に規定する情報照会者及び情報提供者並びに同条第九号に規定する条例事務関係情報照会者及び条例事務関係情報提供者をいう。第七章を除き、以下同じ。）の使用に係る電子計算機を相互に電気通信回線で接続した電子情報処理組織であって、暗号その他その内容を容易に復元することができない通信の方法を用いて行われる第十九条第八号又は第九号の規定による利用特定個人情報の提供を管理するために、第二十一条第一項の規定に基づき内閣総理大臣が設置し、及び管理するものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号関係事務実施者」とは、個人番号関係事務を処理する者及び個人番号関係事務の全部又は一部の委託を受けた者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="15">
             <ParagraphNum>１５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「情報提供ネットワークシステム」とは、行政機関の長等（行政機関の長、地方公共団体の機関、独立行政法人等、地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。以下同じ。）及び機構並びに第十九条第八号に規定する情報照会者及び情報提供者並びに同条第九号に規定する条例事務関係情報照会者及び条例事務関係情報提供者をいう。第七章を除き、以下同じ。）の使用に係る電子計算機を相互に電気通信回線で接続した電子情報処理組織であって、暗号その他その内容を容易に復元することができない通信の方法を用いて行われる第十九条第八号又は第九号の規定による利用特定個人情報の提供を管理するために、第二十一条第一項の規定に基づき内閣総理大臣が設置し、及び管理するものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="16">
+            <ParagraphNum>１６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">この法律において「法人番号」とは、第三十九条第一項又は第二項の規定により、特定の法人その他の団体を識別するための番号として指定されるものをいう。</Sentence>
             </ParagraphSentence>
@@ -248,7 +254,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">個人番号の利用に関する施策の推進は、個人番号カードが第一項第一号に掲げる事項を実現するために必要であることに鑑み、行政事務の処理における本人確認の簡易な手段としての個人番号カードの利用の促進を図るとともに、カード記録事項が不正な手段により収集されることがないよう配慮しつつ、行政事務以外の事務の処理において個人番号カードの活用が図られるように行われなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号の利用に関する施策の推進は、個人番号カード（カード代替電磁的記録を含む。以下この項において同じ。）が第一項第一号に掲げる事項を実現するために必要であることに鑑み、行政事務の処理における本人確認の簡易な手段としての個人番号カードの利用の促進を図るとともに、カード記録事項が不正な手段により収集されることがないよう配慮しつつ、行政事務以外の事務の処理において個人番号カードの活用が図られるように行われなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -395,7 +401,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十九条第八号又は第九号の規定による戸籍関係情報（戸籍又は除かれた戸籍（戸籍法（昭和二十二年法律第二百二十四号）第百十九条の規定により磁気ディスク（これに準ずる方法により一定の事項を確実に記録することができる物を含む。）をもって調製されたものに限る。以下この項及び第四十五条の二第一項において同じ。）の副本に記録されている情報の電子計算機処理等（電子計算機処理（電子計算機を使用して行われる情報の入力、蓄積、編集、加工、修正、更新、検索、消去、出力又はこれらに類する処理をいう。）その他これに伴う政令で定める措置をいう。以下同じ。）を行うことにより作成することができる戸籍又は除かれた戸籍の副本に記録されている者（以下この項において「戸籍等記録者」という。）についての他の戸籍等記録者との間の親子関係の存否その他の身分関係の存否に関する情報、婚姻その他の身分関係の形成に関する情報その他の情報のうち、第十九条第八号又は第九号の規定により提供するものとして法務省令で定めるものであって、情報提供用個人識別符号（同条第八号又は第九号の規定による利用特定個人情報の提供を管理し、及び当該利用特定個人情報を検索するために必要な限度で第二条第五項に規定する個人番号に代わって用いられる特定の個人を識別する符号であって、同条第八項に規定する個人番号であるものをいう。以下同じ。）をその内容に含むものをいう。以下同じ。）の提供に関する事務の処理に関して保有する特定個人情報ファイルにおいて個人情報を効率的に検索し、及び管理するために必要な限度で情報提供用個人識別符号を利用することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十九条第八号又は第九号の規定による戸籍関係情報（戸籍又は除かれた戸籍（戸籍法（昭和二十二年法律第二百二十四号）第百十九条の規定により磁気ディスク（これに準ずる方法により一定の事項を確実に記録することができる物を含む。）をもって調製されたものに限る。以下この項及び第四十五条の二第一項において同じ。）の副本に記録されている情報の電子計算機処理等（電子計算機処理（電子計算機を使用して行われる情報の入力、蓄積、編集、加工、修正、更新、検索、消去、出力又はこれらに類する処理をいう。）その他これに伴う政令で定める措置をいう。以下同じ。）を行うことにより作成することができる戸籍又は除かれた戸籍の副本に記録されている者（以下この項において「戸籍等記録者」という。）についての他の戸籍等記録者との間の親子関係の存否その他の身分関係の存否に関する情報、婚姻その他の身分関係の形成に関する情報その他の情報のうち、第十九条第八号又は第九号の規定により提供するものとして法務省令で定めるものであって、情報提供用個人識別符号（同条第八号又は第九号の規定による利用特定個人情報の提供を管理し、及び当該利用特定個人情報を検索するために必要な限度で第二条第五項に規定する個人番号に代わって用いられる特定の個人を識別する符号であって、同条第九項に規定する個人番号であるものをいう。以下同じ。）をその内容に含むものをいう。以下同じ。）の提供に関する事務の処理に関して保有する特定個人情報ファイルにおいて個人情報を効率的に検索し、及び管理するために必要な限度で情報提供用個人識別符号を利用することができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">当該事務の全部又は一部の委託を受けた者も、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -431,7 +437,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により個人番号利用事務等の全部又は一部の再委託を受けた者は、個人番号利用事務等の全部又は一部の委託を受けた者とみなして、第二条第十二項及び第十三項、前条第一項から第四項まで並びに前項の規定を適用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により個人番号利用事務等の全部又は一部の再委託を受けた者は、個人番号利用事務等の全部又は一部の委託を受けた者とみなして、第二条第十三項及び第十四項、前条第一項から第四項まで並びに前項の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -496,8 +502,26 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">個人番号利用事務等実施者は、第十四条第一項の規定により本人から個人番号の提供を受けるときは、当該提供をする者から個人番号カードの提示を受けることその他その者が本人であることを確認するための措置として政令で定める措置をとらなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号利用事務等実施者は、第十四条第一項の規定により本人から個人番号の提供を受けるときは、次の各号のいずれかに掲げる措置をとらなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">個人番号の提供をする者から個人番号カードの提示を受けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">個人番号の提供をする者から第十八条の二第六項の規定によるカード代替電磁的記録の送信を受けるとともに、当該カード代替電磁的記録について同条第七項の規定による確認を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、個人番号の提供をする者が本人であることを確認するための措置として政令で定める措置</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -551,7 +575,7 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、個人番号カードに関して、個人番号カードの作成及び送付（第十八条の二第一項において「個人番号カードの発行」という。）に関する状況並びに個人番号カードの運用に関する状況の管理その他総務省令で定める事務を行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、個人番号カードに関して、個人番号カードの作成及び送付（第十八条の五第一項において「個人番号カードの発行」という。）に関する状況並びに個人番号カードの運用に関する状況の管理その他総務省令で定める事務を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -562,7 +586,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村長は、政令で定めるところにより、当該市町村が備える住民基本台帳に記録されている者又は当該市町村が備える戸籍の附票に記録されている者（国外転出者である者に限る。）に対し、前条第五項から第七項までの規定による送付又はその作成についての通知を受けたその者に係る個人番号カードを直接に又は機構若しくは同条第四項の申出に係る領事官若しくは市町村長を経由して交付するものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該交付を行う市町村長（次項から第五項まで及び第十八条の二第三項において「交付市町村長」という。）は、その者が本人であることを確認するための次に掲げる措置をとらなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該交付を行う市町村長（次項から第五項まで及び第十八条の五第三項において「交付市町村長」という。）は、その者が本人であることを確認するための次に掲げる措置をとらなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -686,12 +710,230 @@
           </Paragraph>
         </Article>
         <Article Num="18_2">
-          <ArticleCaption>（個人番号カードの発行に関する手数料）</ArticleCaption>
+          <ArticleCaption>（カード代替電磁的記録の発行等）</ArticleCaption>
           <ArticleTitle>第十八条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務に関し、機構が定める額の手数料を徴収することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号カードの交付を受けている者（個人番号カード用署名用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下この条及び第三十八条の八第一項において「公的個人認証法」という。）第三条第一項に規定する個人番号カード用署名用電子証明書をいう。以下この条において同じ。）の発行を受け、当該個人番号カード用署名用電子証明書が効力を失っていない者に限り、第三項又は第十一項の規定により既に自己に係るカード代替電磁的記録の発行を受け、当該カード代替電磁的記録が効力を失っていない者を除く。）は、自己に係るカード代替電磁的記録をその者が使用する移動端末設備（電気通信事業法（昭和五十九年法律第八十六号）第十二条の二第四項第二号ロに規定する移動端末設備をいう。以下この条及び次条第一項において同じ。）に組み込まれた主務省令で定める電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下この条において同じ。）に記録して利用するため、その者の申請により、当該カード代替電磁的記録の発行を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申請は、当該申請を行う者（以下この項から第四項までにおいて「申請者」という。）が、主務省令で定めるところにより、前項の移動端末設備を使用して、機構に対し、当該申請者の個人番号カードに記録されたカード代替記録事項に係る電磁的記録を送信して行うものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該申請者は、当該申請者の個人番号カード用署名用電子証明書に係る署名利用者符号（公的個人認証法第二条第四項に規定する署名利用者符号をいう。次項において同じ。）を用いて電子署名を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項前段の規定による送信を受けた機構は、申請者に係る同項後段の電子署名に係る個人番号カード用署名用電子証明書が公的個人認証法第十五条第一項の規定により効力を失っていないこと及び当該個人番号カード用署名用電子証明書に記録された署名利用者検証符号（公的個人認証法第二条第四項に規定する署名利用者検証符号をいう。）に対応する署名利用者符号を用いて当該電子署名が行われたことを確認したときは、主務省令で定めるところにより、当該申請に係るカード代替電磁的記録を発行し、これを当該申請者に係る第一項の移動端末設備に送信するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による送信を受けた申請者は、主務省令で定めるところにより、当該送信に係るカード代替電磁的記録を第一項の電磁的記録媒体に記録するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録の有効期間は、三月以内で主務省令で定める期間（当該期間内に個人番号カードの有効期間が満了する者に係るものにあっては、当該満了の日までの期間）とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者（カード代替電磁的記録の発行を受けた者をいう。以下この条から第十八条の四までにおいて同じ。）は、自己に係るカード代替電磁的記録を次項の規定による確認を受けることができるものとして提供するときは、次条第一項の認定を受けたプログラム（情報処理の促進に関する法律（昭和四十五年法律第九十号）第二条第二項に規定するプログラムをいう。以下この条から第十八条の四までにおいて同じ。）を用いて当該カード代替電磁的記録の送信を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定によるカード代替電磁的記録の送信を受けた者は、当該カード代替電磁的記録が当該送信を行った者のものであることの確認について、第十八条の四第一項の規定により内閣総理大臣が提供するプログラム又は同条第二項の認定を受けたプログラムを用いて行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者は、当該カード代替電磁的記録を記録した第一項の電磁的記録媒体が使用できなくなったときその他当該カード代替電磁的記録を失効させるべき場合として主務省令で定める場合には、主務省令で定めるところにより、速やかにその旨を機構に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録は、次の各号に掲げる事由のいずれかに該当するときは、その効力を失うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第十項の規定により当該カード代替電磁的記録利用者の個人番号カードが失効し、又は公的個人認証法第十五条第一項の規定により当該カード代替電磁的記録利用者の個人番号カード用署名用電子証明書が失効したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録の有効期間が満了したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">機構が当該カード代替電磁的記録利用者から前項の規定による届出を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録に記録された事項について、記録誤り又は記録漏れがあることが判明したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に定めるもののほか、主務省令で定める場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定によりカード代替電磁的記録の効力が失われたときは、主務省令で定めるところにより、直ちに、当該カード代替電磁的記録が記録された電磁的記録媒体が組み込まれた移動端末設備に対して、電気通信回線を通じてその旨の通知を送信する措置を講じなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、機構は、当該移動端末設備が当該通知を受信したことを確認するまでの間、当該措置を継続しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第九項第一号に掲げる事由に該当する場合を除き、同項第二号に掲げる事由その他主務省令で定める事由によりカード代替電磁的記録の効力が失われた場合には、速やかに、当該カード代替電磁的記録の発行を受けていた者に対して新たなカード代替電磁的記録を発行し、これをその者の第一項の移動端末設備に送信するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第三項若しくは前項の規定によりカード代替電磁的記録を発行した場合又は第九項の規定によりカード代替電磁的記録の効力が失われた場合には、主務省令で定めるところにより、当該カード代替電磁的記録に係るカード代替電磁的記録利用者が記録されている住民基本台帳（国外転出者にあっては、戸籍の附票）を備える市町村の長に対し、主務省令で定める事項を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、カード代替電磁的記録に関して、カード代替電磁的記録の発行及び運用に関する状況の管理その他主務省令で定める事務を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、第十一項の規定によるカード代替電磁的記録の発行及び送信の手続その他カード代替電磁的記録に関し必要な事項は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18_3">
+          <ArticleCaption>（カード代替電磁的記録送信用プログラムの認定）</ArticleCaption>
+          <ArticleTitle>第十八条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、移動端末設備からカード代替電磁的記録の送信を行うためのプログラムについて、当該プログラムを提供する者の申請により、次に掲げる基準を満たすものである旨の認定をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録を送信しようとする場合には、自動的に、電気通信回線に接続して当該移動端末設備に対して前条第十項前段の規定による通知（以下この号及び次号において「失効通知」という。）の送信が行われていないことの確認及び当該移動端末設備が受信すべき失効通知があった場合における当該失効通知の受信を行う機能を有するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該移動端末設備が失効通知を受信した場合には、その旨の通知を機構に対して送信するとともに、当該失効通知に係るカード代替電磁的記録の送信を行うことができなくなる機能を有するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録の送信を行うに当たり、当該カード代替電磁的記録に係るカード代替電磁的記録利用者が当該送信を行うことを確認するための措置として主務省令で定めるものを行う機能を有するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他主務省令で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の認定をしたときは、主務省令で定めるところにより、その旨を公示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前条第六項の規定によるカード代替電磁的記録の送信を行おうとするカード代替電磁的記録利用者が第一項の認定を受けたプログラムを容易に利用することができるよう必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、第一項の認定に関して必要な事項は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18_4">
+          <ArticleCaption>（内閣総理大臣による確認用プログラムの提供等）</ArticleCaption>
+          <ArticleTitle>第十八条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、カード代替電磁的記録の送信を受けた者が行う第十八条の二第七項の規定による確認の用に供するため、次に掲げる機能を有するプログラムをインターネットを利用する方法により公衆に提供するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該送信が当該カード代替電磁的記録に係るカード代替電磁的記録利用者によって行われたことを確認するための措置として主務省令で定める措置を行う機能</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該送信を受けたカード代替電磁的記録について改変が行われていないことを確認するための措置として主務省令で定める措置を行う機能</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他主務省令で定める機能</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、カード代替電磁的記録の送信を受けた者が第十八条の二第七項の規定による確認を行うためのプログラム（前項の規定により提供されるプログラムを除く。）について、当該プログラムを提供する者の申請により、前項各号に掲げる機能を有するものである旨の認定をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の認定をしたときは、主務省令で定めるところにより、その旨を公示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、第二項の認定に関して必要な事項は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18_5">
+          <ArticleCaption>（個人番号カードの発行等に関する手数料）</ArticleCaption>
+          <ArticleTitle>第十八条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務並びに第十八条の二第三項及び第十一項の規定によるカード代替電磁的記録の発行に係る事務（第三項において「カード代替電磁的記録発行事務」という。）に関し、機構が定める額の手数料を徴収することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -703,7 +945,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、第一項の手数料の徴収の事務を交付市町村長（第十七条第二項又は第四項の規定により交付市町村長以外の市町村長が同条第一項第二号に掲げる措置をとる場合にあっては、当該市町村長）に委託することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の手数料（カード代替電磁的記録発行事務に関するものを除く。）の徴収の事務を交付市町村長（第十七条第二項又は第四項の規定により交付市町村長以外の市町村長が同条第一項第二号に掲げる措置をとる場合にあっては、当該市町村長）に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1282,7 +1524,7 @@
                       <Sentence Num="1" WritingMode="vertical">又は第六十九条第一項及び第二項の規定に違反して利用されているとき</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律第三十条第一項の規定により読み替えて適用する第六十九条第一項及び第二項（第一号に係る部分に限る。）の規定に違反して利用されているとき、同法第二十条の規定に違反して収集され、若しくは保管されているとき、又は同法第二十九条の規定に違反して作成された特定個人情報ファイル（同法第二条第九項に規定する特定個人情報ファイルをいう。）に記録されているとき</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律第三十条第一項の規定により読み替えて適用する第六十九条第一項及び第二項（第一号に係る部分に限る。）の規定に違反して利用されているとき、同法第二十条の規定に違反して収集され、若しくは保管されているとき、又は同法第二十九条の規定に違反して作成された特定個人情報ファイル（同法第二条第十項に規定する特定個人情報ファイルをいう。）に記録されているとき</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -1304,7 +1546,7 @@
                       <Sentence Num="1" WritingMode="vertical">第十八条若しくは第十九条の規定に違反して取り扱われているとき、又は第二十条の規定に違反して取得されたものであるとき</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律第三十条第二項の規定により読み替えて適用する第十八条第一項、第二項及び第三項（第一号及び第二号に係る部分に限る。）若しくは第十九条の規定に違反して利用されているとき、同法第二十条の規定に違反して収集され、若しくは保管されているとき、又は同法第二十九条の規定に違反して作成された特定個人情報ファイル（同法第二条第九項に規定する特定個人情報ファイルをいう。）に記録されているとき</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律第三十条第二項の規定により読み替えて適用する第十八条第一項、第二項及び第三項（第一号及び第二号に係る部分に限る。）若しくは第十九条の規定に違反して利用されているとき、同法第二十条の規定に違反して収集され、若しくは保管されているとき、又は同法第二十九条の規定に違反して作成された特定個人情報ファイル（同法第二条第十項に規定する特定個人情報ファイルをいう。）に記録されているとき</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -1839,7 +2081,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">主務大臣は、個人番号カード関係事務（第十六条の二及び第十七条第三項の規定により機構が処理する事務並びに電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第三十九条第一項に規定する認証事務をいう。以下この条から第三十八条の十二までにおいて同じ。）の実施に関し、三年以上五年以下の期間において機構が達成すべき業務運営に関する目標（以下「中期目標」という。）を定め、これを機構に指示するとともに、公表しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、個人番号カード関係事務（第十六条の二、第十七条第三項並びに第十八条の二第二項、第三項、第八項及び第十項から第十三項までの規定により機構が処理する事務並びに公的個人認証法第三十九条第一項に規定する認証事務をいう。以下この条から第三十八条の十二までにおいて同じ。）の実施に関し、三年以上五年以下の期間において機構が達成すべき業務運営に関する目標（以下「中期目標」という。）を定め、これを機構に指示するとともに、公表しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これを変更したときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -2279,7 +2521,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">人を欺き、人に暴行を加え、若しくは人を脅迫する行為により、又は財物の窃取、施設への侵入、不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）その他の個人番号を保有する者の管理を害する行為により、個人番号を取得した者は、三年以下の拘禁刑又は百五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">人を欺き、人に暴行を加え、若しくは人を脅迫する行為により、又は財物の窃取、施設への侵入、不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）その他の個人番号を保有する者の管理を害する行為により、個人番号を取得したときは、当該違反行為をした者は、三年以下の拘禁刑又は百五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2321,7 +2563,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十四条第二項又は第三項の規定による命令に違反した者は、二年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十四条第二項又は第三項の規定による命令に違反したときは、当該違反行為をした者は、二年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2330,7 +2572,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十一条の二第八項又は第四十五条の二第九項において準用する第三十四条第二項又は第三項の規定による命令に違反した者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二十一条の二第八項又は第四十五条の二第九項において準用する第三十四条第二項又は第三項の規定による命令に違反したときは、当該違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2339,7 +2581,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十五条第一項の規定による報告若しくは資料の提出をせず、若しくは虚偽の報告をし、若しくは虚偽の資料を提出し、又は当該職員の質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは検査を拒み、妨げ、若しくは忌避した者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十五条第一項の規定による報告若しくは資料の提出をせず、若しくは虚偽の報告をし、若しくは虚偽の資料を提出し、又は当該職員の質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは検査を拒み、妨げ、若しくは忌避したときは、当該違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2348,7 +2590,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により個人番号カードの交付を受けた者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により個人番号カードの交付又はカード代替電磁的記録の発行を受けたときは、当該違反行為をした者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2357,7 +2599,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十一条の二第八項又は第四十五条の二第九項において準用する第三十五条第一項の規定による報告若しくは資料の提出をせず、若しくは虚偽の報告をし、若しくは虚偽の資料を提出し、又は当該職員の質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは検査を拒み、妨げ、若しくは忌避した者は、三十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二十一条の二第八項又は第四十五条の二第九項において準用する第三十五条第一項の規定による報告若しくは資料の提出をせず、若しくは虚偽の報告をし、若しくは虚偽の資料を提出し、又は当該職員の質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは検査を拒み、妨げ、若しくは忌避したときは、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2396,7 +2638,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して次の各号に掲げる違反行為をしたときは、その行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して次の各号に掲げる規定の違反行為をしたときは、その行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -5855,7 +6097,7 @@
               <Sentence Num="1" WritingMode="vertical">四　全国健康保険協会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">船員保険法による保険給付、障害前払一時金若しくは遺族前払一時金の支給、保健事業若しくは福祉事業の実施若しくは保険料等の徴収又は雇用保険法等の一部を改正する法律（平成十九年法律第三十号。以下「平成十九年法律第三十号」という。）附則第三十九条の規定によりなお従前の例によるものとされた平成十九年法律第三十号第四条の規定による改正前の船員保険法による保険給付の支給に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船員保険法による保険給付、障害前払一時金若しくは遺族前払一時金の支給、保健事業若しくは福祉事業の実施若しくは保険料等の徴収又は雇用保険法等の一部を改正する法律（平成十九年法律第三十号。以下この表において「平成十九年法律第三十号」という。）附則第三十九条の規定によりなお従前の例によるものとされた平成十九年法律第三十号第四条の規定による改正前の船員保険法による保険給付の支給に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5908,7 +6150,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十　都道府県知事、市長（特別区の区長を含む。）又は社会福祉法（昭和二十六年法律第四十五号）に規定する福祉に関する事務所を管理する町村長（以下「都道府県知事等」という。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十　都道府県知事、市長（特別区の区長を含む。）又は社会福祉法（昭和二十六年法律第四十五号）に規定する福祉に関する事務所を管理する町村長（以下この表において「都道府県知事等」という。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">児童福祉法による助産施設における助産の実施又は母子生活支援施設における保護の実施に関する事務であって主務省令で定めるもの</Sentence>
@@ -6156,7 +6398,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十六　社会福祉法第百九条第一項に規定する市町村社会福祉協議会又は同法第百十条第一項に規定する都道府県社会福祉協議会（以下「社会福祉協議会」と総称する。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十六　社会福祉法第百九条第一項に規定する市町村社会福祉協議会又は同法第百十条第一項に規定する都道府県社会福祉協議会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">社会福祉法による生計困難者に対して無利子又は低利で資金を融通する事業の実施に関する事務であって主務省令で定めるもの</Sentence>
@@ -6191,7 +6433,7 @@
               <Sentence Num="1" WritingMode="vertical">二十七　公営住宅法（昭和二十六年法律第百九十三号）第二条第十六号に規定する事業主体である都道府県知事又は市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">公営住宅法による公営住宅（同法第二条第二号に規定する公営住宅をいう。以下同じ。）の管理に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公営住宅法による公営住宅（同法第二条第二号に規定する公営住宅をいう。）の管理に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6276,7 +6518,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十七　厚生労働大臣又は共済組合等（日本私立学校振興・共済事業団、国家公務員共済組合連合会、地方公務員共済組合又は全国市町村職員共済組合連合会をいう。以下同じ。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三十七　厚生労働大臣又は日本私立学校振興・共済事業団、国家公務員共済組合連合会、地方公務員共済組合若しくは全国市町村職員共済組合連合会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">厚生年金保険法による年金である保険給付若しくは一時金の支給又は保険料その他徴収金の徴収に関する事務であって主務省令で定めるもの</Sentence>
@@ -6431,7 +6673,7 @@
               <Sentence Num="1" WritingMode="vertical">五十二　住宅地区改良法（昭和三十五年法律第八十四号）第二条第二項に規定する施行者である都道府県知事又は市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">住宅地区改良法による改良住宅（同法第二条第六項に規定する改良住宅をいう。以下同じ。）の管理若しくは家賃若しくは敷金の決定若しくは変更又は収入超過者に対する措置に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">住宅地区改良法による改良住宅（同法第二条第六項に規定する改良住宅をいう。）の管理若しくは家賃若しくは敷金の決定若しくは変更又は収入超過者に対する措置に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6559,7 +6801,7 @@
               <Sentence Num="1" WritingMode="vertical">六十七　都道府県知事等</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当等の支給に関する法律による障害児福祉手当若しくは特別障害者手当又は国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。以下「昭和六十年法律第三十四号」という。）附則第九十七条第一項の福祉手当の支給に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当等の支給に関する法律による障害児福祉手当若しくは特別障害者手当又は国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。以下この表において「昭和六十年法律第三十四号」という。）附則第九十七条第一項の福祉手当の支給に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6695,7 +6937,7 @@
               <Sentence Num="1" WritingMode="vertical">七十八の三　経済産業大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">情報処理の促進に関する法律（昭和四十五年法律第九十号）による情報処理安全確保支援士の登録に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">情報処理の促進に関する法律による情報処理安全確保支援士の登録に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6772,7 +7014,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">八十五　市町村長又は高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第四十八条に規定する後期高齢者医療広域連合（以下「後期高齢者医療広域連合」という。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">八十五　市町村長又は高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第四十八条に規定する後期高齢者医療広域連合</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律による後期高齢者医療給付の支給、保険料の徴収又は同法第百二十五条第一項の高齢者保健事業若しくは同条第五項の事業の実施に関する事務であって主務省令で定めるもの</Sentence>
@@ -6863,7 +7105,7 @@
               <Sentence Num="1" WritingMode="vertical">九十五　都道府県知事等</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付又は配偶者支援金（以下「中国残留邦人等支援給付等」という。）の支給に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付又は配偶者支援金の支給に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6887,7 +7129,7 @@
               <Sentence Num="1" WritingMode="vertical">九十八　厚生労働大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">厚生年金保険法等の一部を改正する法律（平成八年法律第八十二号。以下「平成八年法律第八十二号」という。）附則第十六条第三項の規定により厚生年金保険の実施者たる政府が支給するものとされた年金である給付の支給に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生年金保険法等の一部を改正する法律（平成八年法律第八十二号。以下この表において「平成八年法律第八十二号」という。）附則第十六条第三項の規定により厚生年金保険の実施者たる政府が支給するものとされた年金である給付の支給に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6940,7 +7182,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">百五　都道府県知事又は保健所を設置する市（特別区を含む。以下同じ。）の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百五　都道府県知事又は保健所を設置する市（特別区を含む。）の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）による入院の勧告若しくは措置、費用の負担又は療養費の支給に関する事務であって主務省令で定めるもの</Sentence>
@@ -7007,7 +7249,7 @@
               <Sentence Num="1" WritingMode="vertical">百十二　独立行政法人農業者年金基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">独立行政法人農業者年金基金法（平成十四年法律第百二十七号）による農業者年金事業の給付の支給若しくは保険料その他徴収金の徴収又は同法附則第六条第一項第一号の規定により独立行政法人農業者年金基金が行うものとされた農業者年金基金法の一部を改正する法律（平成十三年法律第三十九号。以下「平成十三年法律第三十九号」という。）による改正前の農業者年金基金法（昭和四十五年法律第七十八号）若しくは農業者年金基金法の一部を改正する法律（平成二年法律第二十一号。以下「平成二年法律第二十一号」という。）による改正前の農業者年金基金法による給付の支給に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">独立行政法人農業者年金基金法（平成十四年法律第百二十七号）による農業者年金事業の給付の支給若しくは保険料その他徴収金の徴収又は同法附則第六条第一項第一号の規定により独立行政法人農業者年金基金が行うものとされた農業者年金基金法の一部を改正する法律（平成十三年法律第三十九号）による改正前の農業者年金基金法（昭和四十五年法律第七十八号）若しくは農業者年金基金法の一部を改正する法律（平成二年法律第二十一号）による改正前の農業者年金基金法による給付の支給に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7124,7 +7366,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">百二十五　地方公務員等共済組合法の一部を改正する法律（平成二十三年法律第五十六号。以下「平成二十三年法律第五十六号」という。）附則第二十三条第一項第三号に規定する存続共済会</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百二十五　地方公務員等共済組合法の一部を改正する法律（平成二十三年法律第五十六号。以下この表において「平成二十三年法律第五十六号」という。）附則第二十三条第一項第三号に規定する存続共済会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">平成二十三年法律第五十六号による年金である給付の支給に関する事務であって主務省令で定めるもの</Sentence>
@@ -7156,7 +7398,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">百二十九　公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律（平成二十五年法律第六十三号。以下「平成二十五年法律第六十三号」という。）附則第三条第十一号に規定する存続厚生年金基金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百二十九　公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律（平成二十五年法律第六十三号。以下この表において「平成二十五年法律第六十三号」という。）附則第三条第十一号に規定する存続厚生年金基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">平成二十五年法律第六十三号附則第五条第一項の規定によりなおその効力を有するものとされた平成二十五年法律第六十三号第一条の規定による改正前の厚生年金保険法による年金である給付又は一時金の支給に関する事務であって主務省令で定めるもの</Sentence>
