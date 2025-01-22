@@ -2032,9 +2032,21 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第六条第三項の規定による認可を受けようとする事業主は、厚生年金保険任意適用申請書（様式第五号）を機構に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第六条第三項の規定による認可を受けようとする事業主は、次に掲げる事項を記載した申請書を機構に提出しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、同時に健康保険法（大正十一年法律第七十号）第三十一条第一項の認可を受けるために、健康保険法施行規則第二十一条第一項の規定によつて申請書を提出するときは、これに併記して行うものとする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業主の氏名及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業所の名称、所在地及び事業の種類</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -2049,9 +2061,21 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第八条第一項の規定による認可を受けようとする事業主は、厚生年金保険任意適用取消申請書（様式第六号）を機構に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第八条第一項の規定による認可を受けようとする事業主は、次に掲げる事項を記載した申請書を機構に提出しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、同時に健康保険法第三十三条第一項の認可を受けるために、健康保険法施行規則第二十二条第一項の規定によつて申請書を提出するときは、これに併記して行うものとする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業主の氏名及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業所の名称及び所在地</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -31695,6 +31719,17 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年一二月二七日厚生労働省令第一六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、子ども・子育て支援法等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（令和七年四月一日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の改正規定（様式第二十号及び様式第二十七号の改正規定を除く。）及び第三条の改正規定（様式第三十一号及び様式第三十六号の改正規定を除く。）は、令和七年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第三十条、第三十条の二、第三十一条の二―第三十一条の四、第三十四条の二の二、第三十五条の三、第三十五条の四、第四十四条、第四十五条、第四十五条の三、第四十七条、第四十七条の二、第五十条、第五十条の二、第五十一条の四、第六十条、第六十一条、第六十一条の三、第六十二条の二、第六十五条、第六十八条の三、附則第十一項関係）</RelatedArticleNum>
@@ -31724,26 +31759,8 @@
       </Item>
     </AppdxTable>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式第一号から様式第四号まで</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">様式第一号から様式第六号まで</AppdxStyleTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
-      <RelatedArticleNum>（第十三条の三関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/2FH00000062836.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
-      <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/2FH00000062837.pdf"/>
-        </Style>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
