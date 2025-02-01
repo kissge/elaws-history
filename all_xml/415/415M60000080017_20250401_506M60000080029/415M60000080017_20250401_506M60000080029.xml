@@ -697,7 +697,11 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第二十条第九項又は第十二項の規定により助成を受ける協力学校法人に対する学校法人会計基準の規定の適用については、同令別表第二中「地方公共団体補助金」とあるのは「／協力地方公共団体補助金／その他の地方公共団体補助金／」と、同令別表第三中「地方公共団体補助金収入」とあるのは「／協力地方公共団体補助金収入／その他の地方公共団体補助金収入／」と、同令第二号様式中「<QuoteStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid"><Sentence Num="1" WritingMode="vertical">地方公共団体補助金</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第二十条第九項又は第十二項の規定により助成を受ける協力学校法人に対する学校法人会計基準の規定の適用については、同令別表第二中「地方公共団体補助金」とあるのは「／協力地方公共団体補助金／その他の地方公共団体補助金／」と、同令別表第三中「地方公共団体補助金収入」とあるのは「／協力地方公共団体補助金収入／その他の地方公共団体補助金収入／」と、同令第二号様式中「<QuoteStruct>
+            <Table>
+            <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+            <Sentence Num="1" WritingMode="vertical">地方公共団体補助金</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical"/>
@@ -739,8 +743,10 @@
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical"/>
                       </TableColumn>
-                    </TableRow></Table></QuoteStruct>」と、同令第三号様式中「</Sentence>
-            <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Table>
+                    </TableRow>
+             		</Table>
+                    </QuoteStruct>」と、同令第三号様式中「<QuoteStruct>
+            <Table>
             <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">地方公共団体補助金収入</Sentence>
@@ -785,53 +791,9 @@
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical"/>
                       </TableColumn>
-                    </TableRow></Table></QuoteStruct>」と、同令第四号様式中「</Sentence>
-            <Sentence Num="1" WritingMode="vertical"><QuoteStruct><Table>
-            <TableRow>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical">地方公共団体補助金</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
                     </TableRow>
-              </Table>
-            </QuoteStruct>」とあるのは「<QuoteStruct>
-              <Table>
-                <TableRow>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical">協力地方公共団体補助金</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                    </TableRow>
-                    <TableRow>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical">その他の地方公共団体補助金</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical"/>
-                      </TableColumn>
-                    </TableRow></Table></QuoteStruct>」とする。</Sentence>
+                    </Table>
+                    </QuoteStruct>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
