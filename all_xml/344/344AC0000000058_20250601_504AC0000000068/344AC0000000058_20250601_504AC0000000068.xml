@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="058" Year="44" PromulgateMonth="07" PromulgateDay="01"><LawNum>昭和四十四年法律第五十八号</LawNum><LawBody><LawTitle Kana="のうぎょうしんこうちいきのせいびにかんするほうりつ" Abbrev="農振法" AbbrevKana="の">農業振興地域の整備に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="44" Num="058" PromulgateMonth="7" PromulgateDay="1" LawType="Act"><LawNum>昭和四十四年法律第五十八号</LawNum><LawBody><LawTitle Kana="のうぎょうしんこうちいきのせいびにかんするほうりつ" Abbrev="農振法" AbbrevKana="の">農業振興地域の整備に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -47,7 +47,29 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律は、自然的経済的社会的諸条件を考慮して総合的に農業の振興を図ることが必要であると認められる地域について、その地域の整備に関し必要な施策を計画的に推進するための措置を講ずることにより、農業の健全な発展を図るとともに、国土資源の合理的な利用に寄与することを目的とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、自然的経済的社会的諸条件を考慮して総合的に農業の振興を図ることが必要であると認められる地域について、その地域の整備に関し必要な施策を計画的に推進するための措置を講ずることにより、農業生産に必要な農用地等の確保及び農業の健全な発展を図るとともに、国民に対する食料の安定供給の確保及び国土資源の合理的な利用に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="1_2">
+          <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、国民に対する食料の安定供給の確保を図るため、我が国全体の農用地等が確保されるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、国との適切な役割分担の下、当該地方公共団体における農用地等が確保されるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、第八条第四項に規定する農用地利用計画を尊重して、同条第二項第一号に規定する農用地区域（第三条の二第二項第二号及び第三号において単に「農用地区域」という。）内にある土地の農業上の利用が確保されるよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -115,23 +137,29 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">確保すべき農用地等の面積の目標その他の農用地等の確保に関する基本的な方向</Sentence>
+                <Sentence Num="1" WritingMode="vertical">食料の安定供給の確保のための農業生産に必要な農用地等の確保に関する基本的な事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県において確保すべき農用地等の面積の目標の設定の基準に関する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前号に規定する農用地等のうち、農用地区域内において確保すべき農用地の面積の目標</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">農業振興地域の指定の基準に関する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県の農用地区域内において確保すべき農用地の面積の目標（以下「都道府県面積目標」という。）の設定の基準に関する事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農業振興地域の指定の基準に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">その他農業振興地域の整備に際し配慮すべき重要事項</Sentence>
               </ItemSentence>
@@ -140,17 +168,23 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、基本指針を定めようとするときは、関係行政機関の長に協議し、かつ、食料・農業・農村政策審議会の意見を聴くとともに、前項第一号の農用地等の面積の目標及び同項第二号に掲げる事項に係る部分については都道府県知事の意見を聴かなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、基本指針を定めようとするときは、関係行政機関の長に協議し、かつ、食料・農業・農村政策審議会の意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の意見を述べようとするときは、あらかじめ、関係市町村の意見を聴かなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、基本指針を定めようとするときは、都道府県知事、市長及び町村長の全国的連合組織（地方自治法（昭和二十二年法律第六十七号）第二百六十三条の三第一項に規定する全国的連合組織で同項の規定による届出をしたものをいう。）その他の関係者による協議の場を設け、協議を行うとともに、第二項第二号及び第三号に掲げる事項に係る部分については都道府県知事の意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の意見を述べようとするときは、あらかじめ、関係市町村の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">農林水産大臣は、基本指針を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
             </ParagraphSentence>
@@ -168,7 +202,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第三項から第五項までの規定は、基本指針の変更について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項から第六項までの規定は、基本指針の変更について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -192,7 +226,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">確保すべき農用地等の面積の目標その他の農用地等の確保に関する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県面積目標その他の農用地等の確保に関する事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -304,18 +338,42 @@
           </Paragraph>
         </Article>
         <Article Num="5_2">
-          <ArticleCaption>（確保すべき農用地等の面積の目標の達成状況に関する資料の提出の要求等）</ArticleCaption>
+          <ArticleCaption>（都道府県面積目標の達成状況に関する資料の提出の要求等）</ArticleCaption>
           <ArticleTitle>第五条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、毎年、都道府県に対し、当該都道府県の農業振興地域整備基本方針に定める確保すべき農用地等の面積の目標の達成状況について、地方自治法（昭和二十二年法律第六十七号）第二百四十五条の四第一項の規定による資料の提出の求めを行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、毎年、都道府県に対し、地方自治法第二百四十五条の四第一項の規定により、次に掲げる資料の提出の求めを行うものとする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県面積目標の達成状況に関する資料</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十三条第五項に規定する協議（当該協議に係る土地が政令で定める規模以上のものに限る。）に関する資料の写し</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、毎年、前項の規定により提出を受けた資料により把握した目標の達成状況を公表するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、前項の規定により提出を受けた資料の内容について、必要があると認めるときは、都道府県知事に対し、説明を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、毎年、第一項の規定により提出を受けた資料又は前項の規定により受けた説明により把握した都道府県面積目標の達成状況を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、都道府県面積目標の達成状況又は当該都道府県における農業振興地域整備計画の変更の状況を勘案して必要があると認めるときは、都道府県知事に対し、農用地等の確保のために必要な措置について、地方自治法第二百四十五条の四第一項の技術的な助言又は勧告を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -325,7 +383,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、前条第一項の規定により提出を受けた資料により把握した目標の達成状況が著しく不十分であると認める場合において、次に掲げる都道府県知事の事務の処理が農用地等の確保に支障を生じさせていることが明らかであるとして地方自治法第二百四十五条の五第一項の規定による求めを行うときは、当該都道府県知事が講ずべき措置の内容を示して行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、前条第一項の規定により提出を受けた資料又は同条第二項の規定により受けた説明により把握した都道府県面積目標の達成状況が著しく不十分であると認める場合において、次に掲げる都道府県知事の事務の処理が農用地等の確保に支障を生じさせていることが明らかであるとして地方自治法第二百四十五条の五第一項の規定による求めを行うときは、当該都道府県知事が講ずべき措置の内容を示して行うものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -572,7 +630,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、果樹又は野菜の生産団地の形成その他の当該農業振興地域における地域の特性に即した農業の振興を図るためその土地の農業上の利用を確保することが必要であると認められる土地</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、農業経営基盤強化促進法（昭和五十五年法律第六十五号）第十九条第一項に規定する地域計画（第十三条第二項第二号において単に「地域計画」という。）の達成又は果樹若しくは野菜の生産団地の形成その他の当該農業振興地域における地域の特性に即した農業の振興を図るためその土地の農業上の利用を確保することが必要であると認められる土地</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -723,7 +781,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該変更により、農用地区域内における農業経営基盤強化促進法（昭和五十五年法律第六十五号）第十九条第一項に規定する地域計画の達成に支障を及ぼすおそれがないと認められること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該変更により、農用地区域内における地域計画の達成に支障を及ぼすおそれがないと認められること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -763,6 +821,30 @@
               <Sentence Num="1" WritingMode="vertical">第八条第四項及び第十一条（第十二項を除く。）の規定は市町村が行う第一項の規定による変更（政令で定める軽微な変更を除く。）について、第九条第二項及び第十一条第十二項の規定は都道府県が行う第一項の規定による変更（政令で定める軽微な変更を除く。）について、第十二条の規定は同項の規定による変更について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「当該農業振興地域整備計画書」とあるのは、「当該変更後の農業振興地域整備計画書」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第二項に規定する農用地区域の変更（以下この条において「除外目的変更」という。）に係る農業振興地域整備計画の変更に関する前項において準用する第八条第四項の規定による協議があつた場合において、当該除外目的変更に係る土地が集団的に存在する農用地であることその他の事由により当該除外目的変更が都道府県面積目標に影響を及ぼすおそれがあると認めるときは、同項の同意をするかどうかを判断するため、当該市町村に対し、当該影響を緩和するために当該市町村が講じようとする措置その他の農林水産省令で定める事項を記載した書面の提出を求めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項に規定する協議があつた場合において、当該協議に係る除外目的変更が、次に掲げる要件の全てを満たすと認めるときは、第四項において準用する第八条第四項の同意をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">除外目的変更が第二項各号に掲げる要件の全てを満たすと認められること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">除外目的変更が、当該都道府県における農用地等の確保の状況（前項の書面の提出を受けた場合にあつては、当該書面により把握した状況を含む。）からみてその都道府県面積目標の達成に支障を及ぼすおそれがないと認められること。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="13_2">
@@ -1099,9 +1181,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="15_4">
+        <Article Num="16">
           <ArticleCaption>（農用地区域以外の区域内における開発行為についての勧告等）</ArticleCaption>
-          <ArticleTitle>第十五条の四</ArticleTitle>
+          <ArticleTitle>第十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1112,16 +1194,6 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県知事等は、前項の規定による勧告をした場合において、その勧告を受けた者がその勧告に従わないときは、その旨及びその勧告の内容を公表することができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="16">
-          <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
-          <ArticleTitle>第十六条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、農用地利用計画を尊重して、農用地区域内にある土地の農業上の利用が確保されるように努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2870,6 +2942,32 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（農用地等の確保等に関する基本指針及び農業振興地域整備基本方針に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日（以下「施行日」という。）前に第一条の規定による改正前の農業振興地域の整備に関する法律（以下「旧農振法」という。）第三条の二又は第三条の三の規定により定められ、又は変更された農用地等の確保等に関する基本指針は、第一条の規定による改正後の農業振興地域の整備に関する法律（以下「新農振法」という。）第三条の二又は第三条の三の規定により定められ、又は変更されるまでの間は、新農振法第三条の二又は第三条の三の規定により定められ、又は変更された農用地等の確保等に関する基本指針とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に旧農振法第四条又は第五条の規定により定められ、又は変更された農業振興地域整備基本方針は、新農振法第四条又は第五条の規定により定められ、又は変更されるまでの間は、新農振法第四条又は第五条の規定により定められ、又は変更された農業振興地域整備基本方針とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（農業振興地域整備計画に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に農業振興地域の整備に関する法律第十三条第四項において準用する同法第八条第四項の規定による協議の申出がされた同法第十三条第二項に規定する農用地区域の変更に係る農業振興地域整備計画の変更については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="6">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
@@ -2877,6 +2975,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の施行の状況を勘案し、必要があると認めるときは、これらの法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
