@@ -1418,6 +1418,12 @@
                     <Sentence Num="1" WritingMode="vertical">前号に掲げる方法による場合において、金融商品取引業者等の使用に係る電子計算機と相手方の使用に係る電子計算機とを接続する電気通信回線を通じて又はこれに類する方法により通信文その他の情報を送信する方法（音声の送受信による通話を伴う場合を除く。）</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第一号に掲げる方法による場合において、金融商品取引業者等が、一の相手方（その代理人を含み、当該相手方が法人である場合にあっては、その役員及び使用人を含む。）に対し、当該相手方からの求めに応じ、音声の送受信による通話の方法により前二号に規定する情報（前二号に掲げる方法により当該相手方の閲覧に供し、又は当該相手方の使用に係る電子計算機に送信したものに限る。）に係る事項について説明する方法</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
             <Article Num="6_3">
@@ -2192,7 +2198,7 @@
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
                       <Column Num="1">
-                        <Sentence Num="1" WritingMode="vertical">電子募集取扱業務（法第二十九条の二第一項第六号に規定する電子募集取扱業務をいい、同号に規定する有価証券について行うものに限る。以下同じ。）を行う場合</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">電子募集取扱業務（法第二十九条の二第一項第六号に規定する電子募集取扱業務をいい、第一種少額電子募集取扱業務若しくは第二種少額電子募集取扱業務に該当するもの又は同号に規定する有価証券について行うものに限る。第百四十六条の二を除き、以下同じ。）を行う場合</Sentence>
                       </Column>
                       <Column Num="2">
                         <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
@@ -2982,13 +2988,129 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">令第十五条の十の三第一号に規定する内閣府令で定める方法は、募集又は私募に係る有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその募集の取扱い又は私募の取扱いが行われるものに限る。）の発行価額の総額（当該有価証券が新株予約権証券である場合には、当該新株予約権証券の発行価額の総額に当該新株予約権証券に係る新株予約権の行使に際して払い込むべき金額の合計額を合算した金額。以下この項において同じ。）に、当該有価証券の募集又は私募を開始する日前一年以内に同一の発行者により行われた募集又は私募及び当該有価証券の募集又は私募と申込期間（第七十条の二第二項第三号に規定する申込期間をいう。）の重複する同一の発行者により行われる募集又は私募に係る当該有価証券と同一の種類（法第二条第一項第九号に掲げる有価証券であるか同条第二項の規定により有価証券とみなされる同項第五号又は第六号に掲げる権利であるかの別をいう。次項において同じ。）の有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその募集の取扱い又は私募の取扱いが行われた又は行われるものに限る。）の発行価額の総額を合算する方法とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第十五条の十の三第一号に規定する内閣府令で定める方法は、次の各号に掲げる有価証券の区分に応じ、当該各号に定める方法とする。</Sentence>
                 </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">募集又は私募（法第二条第三項第二号イ又はロに該当するものを除く。以下この号において同じ。）に係る有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその募集の取扱い又は私募の取扱いが行われるものに限る。）</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該有価証券の発行価額の総額（当該有価証券が新株予約権証券である場合には、当該新株予約権証券の発行価額の総額に当該新株予約権証券に係る新株予約権の行使に際して払い込むべき金額の合計額を合算した金額。以下この号及び次号において同じ。）に次に掲げる額を合算する方法</Sentence>
+                    </Column>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該有価証券の募集又は私募を開始する日前一年以内に同一の発行者により行われた募集又は私募に係る当該有価証券と同一の種類（法第二条第一項第九号に掲げる有価証券であるか同条第二項の規定により有価証券とみなされる同項第五号又は第六号に掲げる権利であるかの別をいう。以下この項及び次項において同じ。）の有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその募集の取扱い又は私募の取扱いが行われたものに限る。）の発行価額の総額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該有価証券の募集又は私募と申込期間（第七十条の二第二項第三号に規定する申込期間をいう。次号において同じ。）の重複する同一の発行者により行われる募集又は私募に係る当該有価証券と同一の種類の有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその募集の取扱い又は私募の取扱いが行われるものに限る。）の発行価額の総額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">私募（法第二条第三項第二号イ又はロに該当するものに限る。以下この号において同じ。）に係る有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその私募の取扱いが行われるものに限る。）</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該有価証券の発行価額の総額に次に掲げる額を合算する方法</Sentence>
+                    </Column>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該有価証券の私募を開始する日前一年以内に同一の発行者により行われた私募に係る当該有価証券と同一の種類の有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその私募の取扱いが行われたものに限る。）の発行価額の総額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該有価証券の私募と申込期間の重複する同一の発行者により行われる私募に係る当該有価証券と同一の種類の有価証券（第一種少額電子募集取扱業務又は第二種少額電子募集取扱業務としてその私募の取扱いが行われるものに限る。）の発行価額の総額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">令第十五条の十の三第二号に規定する内閣府令で定める方法は、募集又は私募に係る有価証券に対する個別払込額（有価証券を取得する者がそれぞれ払い込む額をいい、当該有価証券が新株予約権証券である場合には、当該額に当該新株予約権証券に係る新株予約権の行使に際して払い込むべき金額を合算した金額とする。以下この項において同じ。）に、当該有価証券の募集又は私募に係る払込みが行われた日前一年以内に応募又は払込みを行った同一の発行者による当該有価証券と同一の種類の有価証券の募集又は私募に係る個別払込額を合算する方法とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">令第十五条の十の三第二号に規定する内閣府令で定める額は、次の各号に掲げる場合の区分に応じ、当該各号に定める額とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">募集又は私募に係る有価証券を取得する者が個人である場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">次に掲げる額のうちいずれか高い額（その額が二百万円を超える場合にあっては、二百万円）</Sentence>
+                    </Column>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、当該有価証券の取得の申込みをした日（以下この項及び次項において「申込日」という。）における当該者の資産（当該者の居住の用に供する建物及びその敷地を除く。）の合計額から負債の合計額を控除した額として見込まれる額に百分の五を乗じて得た額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、申込日の属する年の前年における当該者の収入金額（所得税法（昭和四十年法律第三十三号）第三十五条第三項に規定する公的年金等に係るものを除く。第六十二条第一項第二号ハ及び第四号ハ並びに第二百四十六条の十第一項第二号ハ及び第四号ハにおいて同じ。）として見込まれる額に百分の五を乗じて得た額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">五十万円</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">募集又は私募に係る有価証券を取得する者が法人である場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">次に掲げる額のうちいずれか高い額（その額が二百万円を超える場合にあっては、二百万円）</Sentence>
+                    </Column>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、申込日における当該者の貸借対照表の資産の部に計上されるべき金額の合計額から負債の部に計上されるべき金額の合計額を控除した額として見込まれる額に百分の五を乗じて得た額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、申込日の属する事業年度の直前の事業年度における総収入金額として見込まれる額に百分の五を乗じて得た額</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="3">
+                    <Subitem1Title>ハ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">五十万円</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第二号イの資産及び負債の評価は、申込日において、一般に公正妥当と認められる企業会計の基準に従って評価した価額によらなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6177,7 +6299,7 @@
                   <Subitem1 Num="3">
                     <Subitem1Title>ハ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日の属する年の前年における申出者の収入金額（所得税法（昭和四十年法律第三十三号）第三十五条第三項に規定する公的年金等に係るものを除く。第四号ハ並びに第二百四十六条の十第一項第二号ハ及び第四号ハにおいて同じ。）が一億円以上であると見込まれること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">取引の状況その他の事情から合理的に判断して、承諾日の属する年の前年における申出者の収入金額が一億円以上であると見込まれること。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
@@ -20631,7 +20753,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者等は、第三項に規定する事項を、電子募集業務又は電子募集取扱業務の相手方の使用に係る電子計算機の映像面において、当該相手方にとって見やすい箇所に明瞭かつ正確に表示されるようにしなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者等は、第三項に規定する事項を、電子募集業務又は電子募集取扱業務（法第二十九条の二第一項第六号に規定する電子募集取扱業務をいい、同号に規定する有価証券について行うものに限る。以下この条において同じ。）の相手方の使用に係る電子計算機の映像面において、当該相手方にとって見やすい箇所に明瞭かつ正確に表示されるようにしなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -20916,13 +21038,13 @@
                     <Subitem2 Num="1">
                       <Subitem2Title>（１）</Subitem2Title>
                       <Subitem2Sentence>
-                        <Sentence Num="1" WritingMode="vertical">法第二条第一項第九号に掲げる有価証券（金融商品取引所に上場されていないものに限り、令第十五条の十の二第一項第一号に掲げるものを除く。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">法第二条第一項第九号に掲げる有価証券（金融商品取引所に上場されていないものに限る。）</Sentence>
                       </Subitem2Sentence>
                     </Subitem2>
                     <Subitem2 Num="2">
                       <Subitem2Title>（２）</Subitem2Title>
                       <Subitem2Sentence>
-                        <Sentence Num="1" WritingMode="vertical">法第二条第二項の規定により有価証券とみなされる同項第五号又は第六号に掲げる権利（法第三条第三号に掲げるもの又は金融商品取引所に上場されていないものに限り、令第十五条の十の二第一項第二号に掲げるものを除く。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">法第二条第二項の規定により有価証券とみなされる同項第五号又は第六号に掲げる権利（法第三条第三号に掲げるもの又は金融商品取引所に上場されていないものに限り、令第十五条の十の二に規定するものを除く。）</Sentence>
                       </Subitem2Sentence>
                     </Subitem2>
                   </Subitem1>
@@ -21062,13 +21184,13 @@
                     <Subitem2 Num="1">
                       <Subitem2Title>（１）</Subitem2Title>
                       <Subitem2Sentence>
-                        <Sentence Num="1" WritingMode="vertical">法第二条第一項第九号に掲げる有価証券（金融商品取引所に上場されていないものに限り、令第十五条の十の二第一項第一号に掲げるものを除く。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">法第二条第一項第九号に掲げる有価証券（金融商品取引所に上場されていないものに限る。）</Sentence>
                       </Subitem2Sentence>
                     </Subitem2>
                     <Subitem2 Num="2">
                       <Subitem2Title>（２）</Subitem2Title>
                       <Subitem2Sentence>
-                        <Sentence Num="1" WritingMode="vertical">法第二条第二項の規定により有価証券とみなされる同項第五号又は第六号に掲げる権利（法第三条第三号に掲げるもの又は金融商品取引所に上場されていないものに限り、令第十五条の十の二第一項第二号に掲げるものを除く。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">法第二条第二項の規定により有価証券とみなされる同項第五号又は第六号に掲げる権利（法第三条第三号に掲げるもの又は金融商品取引所に上場されていないものに限り、令第十五条の十の二に規定するものを除く。）</Sentence>
                       </Subitem2Sentence>
                     </Subitem2>
                   </Subitem1>
@@ -54701,6 +54823,29 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この府令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年二月二一日内閣府令第一三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、令和七年二月二十五日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
