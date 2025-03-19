@@ -1922,6 +1922,12 @@
               <Sentence Num="1" WritingMode="vertical">前項各号に規定するもののほか、無線局の種別を別に定めることがある。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">設備規則第三条第十五号に規定するローカル５Ｇの無線局についての前条第一項及び第一項の規定の適用については、前条第一項第五号中「河川、湖沼」とあるのは、「河川、湖沼、領海の外側を除く海域」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="4_2">
           <ArticleCaption>（電波の型式の表示）</ArticleCaption>
@@ -3385,6 +3391,12 @@
                   <Subitem1Title>（１３）</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">人・動物検知通報システム（国内において主として人又は動物の行動及び状態に関する情報の通報又はこれに付随する制御をするための無線通信を行う無線局の無線設備をいう。）用で使用するものであつて、一四二・九三ＭＨｚを超え一四二・九九ＭＨｚ以下及び一四六・九三ＭＨｚを超え一四六・九九ＭＨｚ以下の周波数の電波を使用するもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="14">
+                  <Subitem1Title>（１４）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">タイヤ空気圧モニタリングシステム（設備規則第四十九条の十四第五号ロに規定するタイヤ空気圧モニタリングシステムをいう。）又はキーレスエントリシステム（同号ロに規定するキーレスエントリシステムをいう。）であつて、四三三・七九五ＭＨｚを超え四三四・〇四五ＭＨｚ以下の周波数の電波を使用するもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -13354,7 +13366,6 @@
                         <Sentence Num="1" WritingMode="vertical">※を付した値は、周波数の対数に対して直線的に減少した値とする。</Sentence>
                       </Remarks>
                     </TableStruct>
-
                   </Subitem2>
                   <Subitem2 Num="2">
                     <Subitem2Title>（二）</Subitem2Title>
@@ -13526,7 +13537,7 @@
                     </Item>
                     </Remarks>
                     </TableStruct>
-                                      </Subitem2>
+                  </Subitem2>
                   <Subitem2 Num="4">
                     <Subitem2Title>（四）</Subitem2Title>
                     <Subitem2Sentence>
@@ -14571,7 +14582,7 @@
                       </TableRow>
                     </Table>
                   </TableStruct>
-                  <List>
+                 <List>
                     <ListSentence>
                     <Sentence Num="1" WritingMode="vertical">注</Sentence>
                     </ListSentence>
@@ -24547,6 +24558,24 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年二月二七日総務省令第五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年二月二八日総務省令第七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第一号</AppdxStyleTitle>
       <RelatedArticleNum>　呼出符号又は呼出名称指定申請書の様式（第６条の２の２第１項関係）</RelatedArticleNum>
@@ -32907,7 +32936,7 @@
               <Sentence Num="1" WritingMode="vertical">＊印を付した周波数は、ＩＬＳのローカライザを使用する無線局に限る。</Sentence>
             </ItemSentence>
           </Item>
-                    <Item Num="2">
+          <Item Num="2">
             <ItemTitle>（２）</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">ＩＬＳのマーカ・ビーコンを使用する無線局の周波数</Sentence>
@@ -34132,7 +34161,7 @@
             </Subitem1Sentence>
           </Subitem1>
          <Subitem1 Num="16">
-            <Subitem1Title>１６</Subitem1Title>
+              <Subitem1Title>１６</Subitem1Title>
             <Subitem1Sentence>
               <Sentence Num="1" WritingMode="vertical">固定地点の地球局又は移動する地球局と宇宙無線通信を行う人工衛星局に限る。</Sentence>
             </Subitem1Sentence>
@@ -34910,7 +34939,7 @@
       <RelatedArticleNum>（第４２条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src=""/>
+          <Fig src="./pict/2FH00000076434.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
