@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="27" Num="368" PromulgateMonth="8" PromulgateDay="27" LawType="CabinetOrder"><LawNum>昭和二十七年政令第三百六十八号</LawNum><LawBody><LawTitle Kana="ぼうえいしょうのしょくいんのきゅうよとうにかんするほうりつせこうれい" Abbrev="防衛省給与法施行令,防衛省職員給与法施行令" AbbrevKana="ぼ,ぼ">防衛省の職員の給与等に関する法律施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="27" Num="368" PromulgateMonth="08" PromulgateDay="27" LawType="CabinetOrder"><LawNum>昭和二十七年政令第三百六十八号</LawNum><LawBody><LawTitle Kana="ぼうえいしょうのしょくいんのきゅうよとうにかんするほうりつせこうれい" Abbrev="防衛省給与法施行令,防衛省職員給与法施行令" AbbrevKana="ぼ,ぼ">防衛省の職員の給与等に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、保安庁職員給与法（昭和二十七年法律第二百六十六号）及び国家公務員に対する寒冷地手当及び石炭手当の支給に関する法律（昭和二十四年法律第二百号）第四条の規定に基き、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -253,7 +253,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第二自衛官俸給表の備考（一）の政令で定める官職は、統合幕僚長、陸上幕僚長、海上幕僚長、航空幕僚長、陸上総隊司令官、方面総監、自衛艦隊司令官、横須賀地方総監、佐世保地方総監、航空総隊司令官、航空支援集団司令官、航空教育集団司令官、情報本部長その他これらに準ずる防衛省令で定める官職とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第二自衛官俸給表の備考（一）の政令で定める官職は、統合幕僚長、陸上幕僚長、海上幕僚長、航空幕僚長、陸上総隊司令官、方面総監、自衛艦隊司令官、横須賀地方総監、佐世保地方総監、航空総隊司令官、航空支援集団司令官、航空教育集団司令官、統合作戦司令官、情報本部長その他これらに準ずる防衛省令で定める官職とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -836,6 +836,7 @@
                   <Sentence Num="1" WritingMode="vertical">陸上幕僚長</Sentence>
                   <Sentence Num="2" WritingMode="vertical">海上幕僚長</Sentence>
                   <Sentence Num="3" WritingMode="vertical">航空幕僚長</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">統合作戦司令官</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">七号俸</Sentence>
@@ -1158,7 +1159,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第十四条第二項において準用する一般職給与法第十条の三第一項第二号に規定する政令で定める業務は、統合幕僚監部（統合幕僚学校を除く。）、陸上幕僚監部、海上幕僚監部及び航空幕僚監部並びに情報本部（その内部組織のうち防衛大臣が定めるものを除く。）の業務とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第十四条第二項において準用する一般職給与法第十条の三第一項第二号に規定する政令で定める業務は、統合幕僚監部（統合幕僚学校を除く。）、陸上幕僚監部、海上幕僚監部及び航空幕僚監部、情報本部（その内部組織のうち防衛大臣が定めるものを除く。）並びに統合作戦司令部の業務とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -19335,6 +19336,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月一四日政令第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、防衛省設置法等の一部を改正する法律の施行の日（令和七年三月二十四日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第六条の六関係）</RelatedArticleNum>
@@ -36772,7 +36783,7 @@
               <Sentence Num="1" WritingMode="vertical">統合幕僚監部</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">防衛省組織令第六十七条第一号に掲げる事務に従事することを本務とする職員（防衛大臣の定める者に限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">防衛省組織令第七十三条第三項第一号に掲げる事務に従事することを本務とする職員（防衛大臣の定める者に限る。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一</Sentence>
@@ -36946,7 +36957,7 @@
               <Sentence Num="6" WritingMode="vertical">参事官</Sentence>
               <Sentence Num="7" WritingMode="vertical">報道官</Sentence>
               <Sentence Num="8" WritingMode="vertical">首席法務官</Sentence>
-              <Sentence Num="9" WritingMode="vertical">首席後方補給官</Sentence>
+              <Sentence Num="9" WritingMode="vertical">首席指揮通信システム官</Sentence>
               <Sentence Num="10" WritingMode="vertical">統合幕僚学校長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -37216,6 +37227,17 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">地区総監部</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">地区総監</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一種</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">教育航空集団司令部</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -37406,6 +37428,18 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">統合作戦司令部</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">統合作戦副司令官</Sentence>
+              <Sentence Num="2" WritingMode="vertical">幕僚長</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一種</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">自衛隊情報保全隊本部</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -37424,6 +37458,17 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一種</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">自衛隊海上輸送群司令部</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">自衛隊海上輸送群司令</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三種</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -39112,7 +39157,7 @@
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">航空医学実験隊の行う加速度実験の被験者となる職員</Sentence>
+              <Sentence Num="1" WritingMode="vertical">航空医学安全研究隊の行う加速度実験の被験者となる職員</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">作業一日につき二千百円を超えない範囲内で、防衛大臣の定める額。ただし、一月に支給する額は、一万七千円を超えることとなつてはならない。</Sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="29" Num="179" PromulgateMonth="6" PromulgateDay="30" LawType="CabinetOrder"><LawNum>昭和二十九年政令第百七十九号</LawNum><LawBody><LawTitle Kana="じえいたいほうせこうれい" Abbrev="" AbbrevKana="">自衛隊法施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="29" Num="179" PromulgateMonth="06" PromulgateDay="30" LawType="CabinetOrder"><LawNum>昭和二十九年政令第百七十九号</LawNum><LawBody><LawTitle Kana="じえいたいほうせこうれい" Abbrev="" AbbrevKana="">自衛隊法施行令</LawTitle>
     <EnactStatement>内閣は、自衛隊法（昭和二十九年法律第百六十五号）の規定に基き、及び同法を実施するため、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -48,7 +48,7 @@
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　共同の部隊</SectionTitle>
-          <ArticleRange>（第三十条の十六―第三十条の十九）</ArticleRange>
+          <ArticleRange>（第三十条の十六―第三十条の二十三）</ArticleRange>
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　補職の特例及び委任規定</SectionTitle>
@@ -221,7 +221,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛隊旗は、法第二条第二項に規定する陸上自衛隊（以下「陸上自衛隊」という。）の連隊に、自衛艦旗は、同条第三項に規定する海上自衛隊（以下「海上自衛隊」という。）の部隊の編成に加えられる自衛艦に交付するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛隊旗は、法第二条第二項に規定する陸上自衛隊（以下「陸上自衛隊」という。）の連隊に、自衛艦旗は、同条第三項に規定する海上自衛隊（以下「海上自衛隊」という。）の部隊（主として海において行動する法第二十一条の二第二項に規定する共同の部隊を含む。）の編成に加えられる自衛艦に交付するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1161,7 +1161,43 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">地方隊の地方総監部以外の部隊は、掃海隊、ミサイル艇隊、基地隊、教育隊、警備隊、防備隊その他防衛大臣の定める部隊とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方隊の地方総監部以外の部隊は、掃海隊、ミサイル艇隊、地区隊、基地隊、教育隊、警備隊、防備隊その他防衛大臣の定める部隊とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="21_2">
+              <ArticleCaption>（地区隊）</ArticleCaption>
+              <ArticleTitle>第二十一条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地区隊は、地区総監部及び警備隊その他防衛大臣の定める部隊をもつて編成する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="21_3">
+              <ArticleCaption>（地区総監）</ArticleCaption>
+              <ArticleTitle>第二十一条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地区隊の長は、地区総監とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地区総監は、海将をもつて充てる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="21_4">
+              <ArticleCaption>（地区隊の名称等）</ArticleCaption>
+              <ArticleTitle>第二十一条の四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地区隊及びその属する地方隊の名称並びに地区総監部の名称及び所在地は、別表第二の二のとおりとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1304,7 +1340,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">海上自衛隊の自衛艦その他の船舶は、防衛大臣の定めるところにより、いずれかの地方総監部に籍を置くものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">海上自衛隊の自衛艦その他の船舶は、防衛大臣の定めるところにより、いずれかの地方総監部又は地区総監部に籍を置くものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1517,7 +1553,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">航空開発実験集団は、航空開発実験集団司令部及び飛行開発実験団一、電子開発実験群一、航空医学実験隊一その他防衛大臣の定める部隊をもつて編成する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">航空開発実験集団は、航空開発実験集団司令部及び飛行開発実験団一、電子開発実験群一、航空医学安全研究隊一その他防衛大臣の定める部隊をもつて編成する。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、防衛大臣は、必要があると認めるときは、これらの部隊以外の部隊を編成に加え、又は航空開発実験集団司令部以外の部隊の数を増加し、若しくは航空開発実験集団司令部以外の部隊の一部を編成に加えないことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1850,8 +1886,66 @@
         <Section Num="4">
           <SectionTitle>第四節　共同の部隊</SectionTitle>
           <Article Num="30_16">
-            <ArticleCaption>（自衛隊情報保全隊）</ArticleCaption>
+            <ArticleCaption>（統合作戦司令官）</ArticleCaption>
             <ArticleTitle>第三十条の十六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">統合作戦司令官は、陸将、海将又は空将をもつて充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">統合作戦司令部の事務は、統合作戦司令官が掌理するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30_17">
+            <ArticleCaption>（統合作戦司令部）</ArticleCaption>
+            <ArticleTitle>第三十条の十七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">統合作戦司令部に、統合作戦副司令官一人を置く。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">統合作戦副司令官は、陸将、海将又は空将をもつて充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">統合作戦副司令官は、統合作戦司令部の隊務につき統合作戦司令官を助け、統合作戦司令官に事故があるとき、又は統合作戦司令官が欠けたときは、統合作戦司令官の職務を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">統合作戦司令部に、幕僚長一人を置く。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">幕僚長は、陸将、海将又は空将をもつて充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">幕僚長は、統合作戦司令官を補佐し、統合作戦司令部の部内の事務を整理する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">統合作戦司令部に、所要の部及び課を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、統合作戦司令部の内部組織は、防衛省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30_18">
+            <ArticleCaption>（自衛隊情報保全隊）</ArticleCaption>
+            <ArticleTitle>第三十条の十八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1865,9 +1959,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_17">
+          <Article Num="30_19">
             <ArticleCaption>（自衛隊情報保全隊司令）</ArticleCaption>
-            <ArticleTitle>第三十条の十七</ArticleTitle>
+            <ArticleTitle>第三十条の十九</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1881,9 +1975,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_18">
+          <Article Num="30_20">
             <ArticleCaption>（自衛隊サイバー防衛隊）</ArticleCaption>
-            <ArticleTitle>第三十条の十八</ArticleTitle>
+            <ArticleTitle>第三十条の二十</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1897,9 +1991,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_19">
+          <Article Num="30_21">
             <ArticleCaption>（自衛隊サイバー防衛隊司令）</ArticleCaption>
-            <ArticleTitle>第三十条の十九</ArticleTitle>
+            <ArticleTitle>第三十条の二十一</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1913,6 +2007,38 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="30_22">
+            <ArticleCaption>（自衛隊海上輸送群）</ArticleCaption>
+            <ArticleTitle>第三十条の二十二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">陸上自衛隊、海上自衛隊及び航空自衛隊の共同の部隊として、自衛隊海上輸送群を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">自衛隊海上輸送群は、自衛隊海上輸送群司令部及び海上輸送隊二その他防衛大臣の定める部隊をもつて編成する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30_23">
+            <ArticleCaption>（自衛隊海上輸送群司令）</ArticleCaption>
+            <ArticleTitle>第三十条の二十三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">自衛隊海上輸送群の長は、自衛隊海上輸送群司令とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">自衛隊海上輸送群司令は、一等陸佐、一等海佐又は一等空佐をもつて充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
         </Section>
         <Section Num="5">
           <SectionTitle>第五節　補職の特例及び委任規定</SectionTitle>
@@ -1922,7 +2048,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">本章に定める職は、陸上総隊司令官、方面総監、自衛艦隊司令官、地方総監及び航空総隊司令官を除き、各本条において陸将、海将又は空将をもつて充てることと定められている職にあつては陸将補、海将補又は空将補を、その他の職にあつては各本条で定める階級の一級だけ上位又は下位の階級の自衛官をもつて充てることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">本章に定める職は、統合作戦司令官、陸上総隊司令官、方面総監、自衛艦隊司令官、地方総監及び航空総隊司令官を除き、各本条において陸将、海将又は空将をもつて充てることと定められている職にあつては陸将補、海将補又は空将補を、その他の職にあつては各本条で定める階級の一級だけ上位又は下位の階級の自衛官をもつて充てることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -7984,7 +8110,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第八十一条第一項の規定により都道府県知事が部隊等の出動を要請しようとする場合には、最寄りの駐屯地司令、地方総監、基地隊の長、基地司令又は法第二十二条第二項の規定により臨時に編成される特別の部隊の長で防衛大臣の指定するもの（以下本条中「駐屯地司令等」と総称する。）を経由して、これをするものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第八十一条第一項の規定により都道府県知事が部隊等の出動を要請しようとする場合には、最寄りの駐屯地司令、地方総監、地区総監、基地隊の長、基地司令又は法第二十二条第二項の規定により臨時に編成される特別の部隊の長で防衛大臣の指定するもの（以下本条中「駐屯地司令等」と総称する。）を経由して、これをするものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -9711,11 +9837,17 @@
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">補給統制本部長</Sentence>
+                <Sentence Num="1" WritingMode="vertical">統合作戦司令官</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="12">
               <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">補給統制本部長</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">補給本部長</Sentence>
               </ItemSentence>
@@ -10487,7 +10619,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百三条の二第一項に規定する政令で定める者は、法第七十七条の二の規定により防御施設を構築する措置を命ぜられている者のうち、第百二十七条第一号から第十号までに掲げるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百三条の二第一項に規定する政令で定める者は、法第七十七条の二の規定により防御施設を構築する措置を命ぜられている者のうち、第百二十七条第一号から第十一号までに掲げるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10677,8 +10809,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">自衛隊の行う火薬類の製造、貯蔵、運搬、消費その他の取扱いについての火薬類取締法（昭和二十五年法律第百四十九号）の規定（法第百六条第一項において適用を除外されているものを除く。）の適用については、次の表の上欄に掲げる火薬類取締法の規定の中欄に掲げる字句は、それぞれ当該下欄に掲げる字句に読み替えるものとする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、火薬類取締法第五十条第一項に係る部分は、陸上自衛隊の使用する船舶（水陸両用車両を含む。）及び海上自衛隊（防衛大学校を含む。）の使用する船舶以外の船舶については、適用がないものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自衛隊の行う火薬類の製造、貯蔵、運搬、消費その他の取扱いについての火薬類取締法（昭和二十五年法律第百四十九号）の規定（法第百六条第一項において適用を除外されているものを除く。）の適用については、次の表の上欄に掲げる火薬類取締法の規定の中欄に掲げる字句は、それぞれ当該下欄に掲げる字句に読み替えるものとする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
@@ -11456,7 +11587,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百九条第二項ただし書に規定する政令で定める船舶は、自衛艦以外の船舶とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百九条第一項ただし書に規定する政令で定める船舶は、自衛艦以外の船舶とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -17011,6 +17142,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月一四日政令第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、防衛省設置法等の一部を改正する法律の施行の日（令和七年三月二十四日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第一</AppdxStyleTitle>
       <RelatedArticleNum>（第一条の二関係）</RelatedArticleNum>
@@ -17221,6 +17362,47 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第二の二</AppdxTableTitle>
+      <RelatedArticleNum>（第二十一条の四関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+              <Sentence Num="1" WritingMode="vertical">地区隊の名称</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+              <Sentence Num="1" WritingMode="vertical">その所属する地方隊の名称</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">地区総監部</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">名称</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">所在地</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">大湊地区隊</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">横須賀地方隊</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">大湊地区総監部</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">むつ市</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <TableStruct>
@@ -17249,7 +17431,7 @@
               <Sentence Num="1" WritingMode="vertical">函館基地隊</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">大湊地方隊</Sentence>
+              <Sentence Num="1" WritingMode="vertical">横須賀地方隊</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">函館基地隊本部</Sentence>
@@ -17324,20 +17506,6 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">大湊地方隊</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">大湊警備区</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">大湊地方隊</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">北海道及び青森県の区域並びに青森県と秋田県の境界線が海岸線と交わる点から二百七十度に引いた線と青森県と岩手県の境界線が海岸線と交わる点から九十度に引いた線との間にある北海道及び青森県の沿岸海域</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">横須賀地方隊</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -17347,7 +17515,7 @@
               <Sentence Num="1" WritingMode="vertical">横須賀地方隊</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">岩手県、宮城県、福島県、茨城県、栃木県、群馬県、埼玉県、千葉県、東京都（沖の鳥島を除く。）、神奈川県、山梨県、長野県、岐阜県、静岡県、愛知県及び三重県の区域並びに青森県と岩手県の境界線が海岸線と交わる点から九十度に引いた線と三重県と和歌山県の境界線が海岸線と交わる点から百七十度に引いた線との間にある東京都（沖の鳥島を除く。）及びこれらの県の沿岸海域</Sentence>
+              <Sentence Num="1" WritingMode="vertical">北海道、青森県、岩手県、宮城県、福島県、茨城県、栃木県、群馬県、埼玉県、千葉県、東京都（沖の鳥島を除く。）、神奈川県、山梨県、長野県、岐阜県、静岡県、愛知県及び三重県の区域並びに青森県と秋田県の境界線が海岸線と交わる点から二百七十度に引いた線と三重県と和歌山県の境界線が海岸線と交わる点から百七十度に引いた線との間にある北海道、東京都（沖の鳥島を除く。）及びこれらの県の沿岸海域</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -18860,7 +19028,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="6">
               <Sentence Num="1" WritingMode="vertical">備考</Sentence>
-              <Sentence Num="2" WritingMode="vertical">一　統合幕僚長、陸上幕僚長、海上幕僚長又は航空幕僚長の職にある陸将、海将又は空将である自衛官の定年は、年齢六十二年とする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">一　統合幕僚長、陸上幕僚長、海上幕僚長、航空幕僚長又は統合作戦司令官の職にある陸将、海将又は空将である自衛官の定年は、年齢六十二年とする。</Sentence>
               <Sentence Num="3" WritingMode="vertical">二　医師、歯科医師又は薬剤師である自衛官、音楽の演奏に関する業務又は情報の総合的な分析若しくは画像情報及び地理情報若しくは通信情報の収集及び分析に関する業務に従事する者として指定された自衛官並びに警務官を命ぜられた自衛官のうち、一等陸佐以下、一等海佐以下又は一等空佐以下のものの定年は、年齢六十年とする。</Sentence>
               <Sentence Num="4" WritingMode="vertical">三　定年による退職の日に昇任した自衛官の定年は、その昇任前の階級について定められている年齢とする。</Sentence>
             </TableColumn>
