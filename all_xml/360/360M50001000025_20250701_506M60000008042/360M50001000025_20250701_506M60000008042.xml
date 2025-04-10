@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="60" Num="025" PromulgateMonth="4" PromulgateDay="1" LawType="MinisterialOrdinance"><LawNum>昭和六十年郵政省令第二十五号</LawNum><LawBody><LawTitle Kana="でんきつうしんじぎょうほうしこうきそく" Abbrev="電通事法施行規則" AbbrevKana="で">電気通信事業法施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="60" Num="025" PromulgateMonth="04" PromulgateDay="01" LawType="MinisterialOrdinance"><LawNum>昭和六十年郵政省令第二十五号</LawNum><LawBody><LawTitle Kana="でんきつうしんじぎょうほうしこうきそく" Abbrev="電通事法施行規則" AbbrevKana="で">電気通信事業法施行規則</LawTitle>
     <EnactStatement>電気通信事業法（昭和五十九年法律第八十六号）の規定に基づき、並びに同法を施行するため、電気通信事業法施行規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -27,7 +27,7 @@
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　基礎的電気通信役務支援機関</SectionTitle>
-          <ArticleRange>（第四十条の三―第四十条の八の五）</ArticleRange>
+          <ArticleRange>（第四十条の二の二―第四十条の八の五の三）</ArticleRange>
         </TOCSection>
         <TOCSection Num="6">
           <SectionTitle>第六節　認定送信型対電気通信設備サイバー攻撃対処協会</SectionTitle>
@@ -1966,7 +1966,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第七条第二号の総務省令で定める高速度データ伝送電気通信役務は、次に掲げるもの（卸電気通信役務に該当するものを含む。）であつて、その下り名目速度（端末系伝送路設備から利用者の電気通信設備への通信を行う場合における理論上の最大データ伝送速度をいう。）が毎秒三〇メガビット以上のものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第七条第二号の総務省令で定める高速度データ伝送電気通信役務は、次に掲げるもの（卸電気通信役務に該当するものを含む。）であつて、その下り名目速度（端末系伝送路設備から利用者の電気通信設備への通信を行う場合における理論上の最大データ伝送速度をいう。第四十条の七の二において同じ。）が毎秒三〇メガビット以上のものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2041,17 +2041,17 @@
             </Paragraph>
           </Article>
           <Article Num="14_5">
-            <ArticleCaption>（第二号基礎的電気通信役務に係る単位業務区域ごとの電気通信回線設備の規模等の報告）</ArticleCaption>
+            <ArticleCaption>（第二号基礎的電気通信役務の提供に係る単位区域ごとの電気通信回線設備の規模等の報告）</ArticleCaption>
             <ArticleTitle>第十四条の五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">端末系伝送路設備を設置して第二号基礎的電気通信役務を提供する電気通信事業者は、毎事業年度経過後三月以内に、当該第二号基礎的電気通信役務に係る単位業務区域（当該電気通信事業者の第二号基礎的電気通信役務に係る業務区域を第四十条の八の二第一項に規定する地域の単位に分けた区域をいう。以下同じ。）ごとに、次に掲げる事項を総務大臣に報告するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">端末系伝送路設備を設置して第二号基礎的電気通信役務を提供する電気通信事業者は、毎事業年度経過後五月以内に、当該提供に係る単位区域ごとに、次に掲げる事項を総務大臣に報告するものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該事業年度末における電気通信回線設備の規模（一の単位業務区域の全世帯数に占める当該単位業務区域に自ら設置した端末系伝送路設備を用いて第二号基礎的電気通信役務の提供を行うことが可能な世帯数の割合とする。以下この条、第四十条の四の五、第四十条の五の二、第四十条の六の二及び第四十条の八の五並びに様式第三十八の二の四において同じ。）が第四十条の六の二第二項に規定する規模を超える場合には、その旨</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業年度末における電気通信回線設備の規模（一の単位区域の全世帯数に占める当該単位区域に自ら設置した端末系伝送路設備を用いて第二号基礎的電気通信役務の提供を行うことが可能な世帯数の割合とする。以下この条、第四十条の四の五、第四十条の五の二、第四十条の六の二及び第四十条の八の五並びに様式第三十八の二の四において同じ。）が第四十条の六の二第二項に規定する規模を超える場合には、その旨</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -6908,43 +6908,24 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">電気通信役務（音声を伝送交換するための電気通信設備を用いてその内容を蓄積することなく通信を行うもの（以下この号において「電話等の役務」という。）に限り、交換取扱人を介した通話その他付随的なものを除く。）の提供（本邦外の場所との間で電話等の役務を提供するための電気通信設備を設置する電気通信事業者（電気通信回線設備を設置する電気通信事業者を除く。）が提供する電気通信役務にあつては、当該電気通信役務の提供を受ける契約を締結する者の使用に係る端末設備が電話等の役務を提供するために用いられる電気通信回線設備に接続される態様のものに限る。）に関する提携を内容とする協定又は契約（以下この号において「協定等」という。）にあつては次の事項</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる電気通信役務の提供に関する提携を内容とする協定又は契約（当該電気通信役務の提供に関し、当事者が取得し、又は負担すべき金額のみを変更するものを除く。）にあつては、提供する電気通信役務の種類、対地及び当該電気通信役務の提供に関し、当事者が取得し、又は負担すべき金額</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">電気通信回線を設定し、変更し、又は廃止しようとするときは、その区間並びにこれにより取り扱う電気通信役務の種類及び対地</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国際電話等（電気通信事業報告規則第一条第二項第二十号に規定するものをいい、音声を伝送交換するための電気通信設備を用いてその内容を蓄積することなく通信を行うものに限り、交換取扱人を介した通話その他付随的なものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">電話等の役務の提供に関し、当事者が取得し、又は負担すべき金額。</Sentence>
-                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる場合は、この限りでない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">衛星移動通信サービス（電気通信事業報告規則第一条第二項第五号に規定するものをいい、音声を伝送交換するための電気通信設備を用いてその内容を蓄積することなく通信を行うものに限り、交換取扱人を介した通話その他付随的なものを除く。）</Sentence>
                   </Subitem1Sentence>
-                  <Subitem2 Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence Num="1" WritingMode="vertical">既に音声を伝送交換する機能について協定等を締結している相手方との間で、音声に影像を統合して伝送交換する機能を追加するために協定等の変更をしようとする場合であつて、当事者が取得し、又は負担すべき金額が音声を伝送交換する場合と同一であるか、又はこれを下回ることが明らかなとき。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence Num="1" WritingMode="vertical">協定等の相手方が、特定の対地の区分において着信側の電気通信事業者を追加することに伴い、当該協定等の変更をしようとする場合であつて、当該区分において取得し、又は負担すべき金額が増加しないことが明らかなとき。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="3">
-                    <Subitem2Title>（３）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence Num="1" WritingMode="vertical">（１）又は（２）に掲げる場合のほか、当事者が取得し、又は負担すべき金額が減少する場合（対地ごと、着信側の電気通信役務の種類ごと又は通信量ごとその他の区分により多数の区分を設けている場合にあつては、いずれの区分においても取得し、又は負担すべき金額が増加しないことが明らかなときに限る。）</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">電話等の役務の提供に関し、取り扱う通信量の割合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">携帯電話における国際ローミングサービス（電気通信事業者と外国政府又は外国人若しくは外国法人との提携により、一方の当事者が携帯電話サービスを提供する国又は地域において当該一方の当事者の携帯電話サービスの提供を受ける利用者が、他方の当事者が携帯電話サービスを提供する国又は地域において、当該一方の当事者の携帯電話サービスを利用する場合に使用する移動端末設備と同様の移動端末設備を用いて、当該他方の当事者の音声伝送役務（その内容を蓄積することなく通信を行うものに限り、交換取扱人を介した通話その他付随的なものを除く。）又はデータ伝送役務の提供を受けることを可能とするサービスをいい、仮想移動電気通信サービス（電気通信事業報告規則第一条第二項第十九号に規定するものをいう。）を提供する電気通信事業者が提供するものを含む。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -8707,7 +8688,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第七十三条の二第一項の規定による媒介等の業務の届出をしようとする者が法人である場合であつて法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。次号及び第三号において同じ。）を有するときは、当該者の法人番号</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第七十三条の二第一項の規定による媒介等の業務の届出をしようとする者が法人である場合であつて法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十六項に規定する法人番号をいう。以下この号から第三号までにおいて同じ。）を有するときは、当該者の法人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -9033,6 +9014,376 @@
         </Section>
         <Section Num="5">
           <SectionTitle>第五節　基礎的電気通信役務支援機関</SectionTitle>
+          <Article Num="40_2_2">
+            <ArticleCaption>（法第百六条の規定による指定の申請）</ArticleCaption>
+            <ArticleTitle>第四十条の二の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百六条の規定による指定を受けようとする者は、次に掲げる事項を記載した申請書を総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務を行おうとする事務所の名称及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務を開始しようとする日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の申請書には、次に掲げる書類を添えなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">定款の謄本及び登記事項証明書</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">申請の日の属する事業年度の前事業年度における財産目録及び貸借対照表（ただし、申請の日の属する事業年度に設立された法人にあつては、その設立時における財産目録）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">申請の日の属する事業年度及び当該事業年度の翌事業年度における事業計画書及び収支予算書</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">申請に関する意思の決定を証する書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">役員の氏名及び経歴を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">組織及び運営に関する事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務を行おうとする事務所ごとに支援業務用設備の概要及び整備計画を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">現に行つている業務の概要を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務の実施の方法に関する計画を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他参考となる事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_3">
+            <ArticleCaption>（支援機関の名称等の変更の届出）</ArticleCaption>
+            <ArticleTitle>第四十条の二の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支援機関は、その名称若しくは住所又は支援業務を行う事務所の所在地を変更しようとするときは、変更しようとする日の二週間前までに、その旨を総務大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣は、前項の届出があつたときは、その旨を公示する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_4">
+            <ArticleCaption>（支援業務諮問委員会の委員の任命の認可の申請）</ArticleCaption>
+            <ArticleTitle>第四十条の二の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支援機関は、法第百十三条第三項の認可を受けようとするときは、任命しようとする者の氏名及び履歴を記載した申請書に当該任命しようとする者の就任承諾書を添えて総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_5">
+            <ArticleCaption>（役員の選任及び解任の認可の申請）</ArticleCaption>
+            <ArticleTitle>第四十条の二の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支援機関は、法第百十六条第一項において準用する法第七十七条第一項の認可を受けようとするときは、次に掲げる事項を総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">役員の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">選任又は解任の理由</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">選任の場合にあつては、その者の経歴</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、選任の認可を受けようとするときは、同項の申請書に、当該選任に係る者の就任承諾書を添えなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_6">
+            <ArticleCaption>（支援業務規程の記載事項）</ArticleCaption>
+            <ArticleTitle>第四十条の二の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十六条において読み替えて準用する法第七十九条第一項の総務省令で定める事項は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務を行う時間及び休日に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務を行う事務所に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務の実施の方法に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">交付金（第一種交付金及び第二種交付金をいう。次号、第四十条の二の九第一項及び第四十条の八第一項において同じ。）の額及び負担金（第一種負担金及び第二種負担金をいう。同号及び第四十条の二の九第一項において同じ。）の額の算定方法に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">交付金の交付及び負担金の徴収の方法に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援機関の役員の選任及び解任に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務諮問委員会の委員の任免に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務に関する秘密の保持に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">支援業務に関する帳簿及び書類の管理に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他支援業務の実施に関し必要な事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_7">
+            <ArticleCaption>（支援業務規程の認可の申請）</ArticleCaption>
+            <ArticleTitle>第四十条の二の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支援機関は、法第百十六条において読み替えて準用する法第七十九条第一項前段の規定による認可を受けようとするときは、申請書に、当該認可に係る支援業務規程を添えて、総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支援機関は、法第百十六条において読み替えて準用する法第七十九条第一項後段の規定による認可を受けようとするときは、次に掲げる事項を記載した申請書を総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">変更しようとする事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">変更しようとする年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">変更の理由</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_8">
+            <ArticleCaption>（事業計画及び収支予算の認可の申請）</ArticleCaption>
+            <ArticleTitle>第四十条の二の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十六条第一項において準用する法第八十条第一項前段の規定による認可を受けようとするときは、申請書に、当該認可に係る事業計画書及び収支予算書を添えて、総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支援機関は、法第百十六条第一項において準用する法第八十条第一項後段の規定による認可を受けようとするときは、変更しようとする事項及び変更の理由を記載した申請書を総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_9">
+            <ArticleCaption>（帳簿の記載事項）</ArticleCaption>
+            <ArticleTitle>第四十条の二の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十六条において読み替えて準用する法第八十一条の総務省令で定める事項は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">交付金の交付を受ける適格電気通信事業者（第一種適格電気通信事業者及び第二種適格電気通信事業者をいう。第三号及び第七号において同じ。）の名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">交付金に係る認可の申請の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">適格電気通信事業者ごとの交付金の額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">負担金を納付すべき接続電気通信事業者等又は高速度データ伝送役務提供事業者の名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる接続電気通信事業者等又は高速度データ伝送役務提供事業者ごとの負担金の額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四号に掲げる接続電気通信事業者等又は高速度データ伝送役務提供事業者ごとの負担金の納付の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">適格電気通信事業者ごとの交付金の交付の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十六条において読み替えて準用する法第八十一条の帳簿は、支援業務を行う事務所ごとに備え付け、記載又は記録の日から五年間保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_10">
+            <ArticleCaption>（支援業務の休廃止の許可の申請）</ArticleCaption>
+            <ArticleTitle>第四十条の二の十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支援機関は、法第百十六条において読み替えて準用する法第八十三条第一項の許可を受けようとするときは、次に掲げる事項を記載した申請書を総務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">休止し、又は廃止しようとする支援業務の範囲</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">休止し、又は廃止しようとする年月日及び休止しようとする場合はその期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">休止又は廃止の理由</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="40_2_11">
+            <ArticleCaption>（支援業務に係る公示）</ArticleCaption>
+            <ArticleTitle>第四十条の二の十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十六条第一項において準用する法第八十三条第二項、第八十四条第三項並びに第九十条第一項及び第三項の公示は、官報で告示することによつて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="40_3">
             <ArticleCaption>（第一種適格電気通信事業者の指定の申請様式等）</ArticleCaption>
             <ArticleTitle>第四十条の三</ArticleTitle>
@@ -9091,13 +9442,13 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百八条第一項第一号の規定による第一号基礎的電気通信役務に関する収支の状況の公表は、第一種適格電気通信事業者にあつては毎事業年度経過後五月以内に、同項の規定による申請をしようとする電気通信事業者にあつては当該申請の前に、営業所その他の事業所に備え置き、公衆の縦覧に供するとともに、その備置きの日から七日以内にインターネットを利用することにより、これを行わなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百八条第一項第一号の規定による第一号基礎的電気通信役務に関する収支の状況の公表は、前条の規定による申請をしようとする電気通信事業者にあつては当該申請の前に、第一種適格電気通信事業者にあつては毎事業年度経過後五月以内に、インターネットを利用することにより、これを行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の公表は、同項の備置きの日から起算して五年を経過するまでの間、これを行わなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の公表は、当該公表の日から起算して五年を経過するまでの間、これを行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9266,6 +9617,12 @@
                 <Sentence Num="1" WritingMode="vertical">前項（第五号イに係る部分に限る。）の規定による提出を行おうとする場合における第七十条第一項の規定の適用については、同項中「この省令」とあるのは「第四十条の四の五第一項（第五号イに係る部分に限る。）」と、「が電磁的記録で作成されている場合には」とあるのは「を総務省がホームページに掲載する方法により示す電磁的記録で作成し」と、「ができる」とあるのは「とする」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣は、第一項の提出を行つた電気通信事業者に対して、法第百十条の三第二項の規定による担当支援区域の指定のために必要な書類の提出を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="40_4_6">
             <ArticleCaption>（第二号基礎的電気通信役務収支表の公表等）</ArticleCaption>
@@ -9291,13 +9648,13 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項各号に掲げる書類の公表は、第二種適格電気通信事業者にあつては毎事業年度経過後五月以内に、法第百十条の三第一項の規定による申請をしようとする電気通信事業者にあつては当該申請の前に、営業所その他の事業所に備え置き、公衆の縦覧に供するとともに、その備置きの日から七日以内にインターネットを利用することにより、これを行わなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項各号に掲げる書類の公表は、前条第一項の規定による申請をしようとする電気通信事業者にあつては当該申請の前に、第二種適格電気通信事業者にあつては当該各号に掲げる書類のうち第四十条の五の二第一項の規定により総務大臣に提出するものを毎事業年度経過後五月以内に、インターネットを利用することにより、これを行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の公表は、同項の備置きの日から起算して五年を経過するまでの間、これを行わなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の公表は、当該公表の日から起算して五年を経過するまでの間（第一項第二号に掲げる書類であつて担当支援区域に係るものについては、法第百十条の三第三項の規定により当該担当支援区域の指定を解除された日の属する事業年度の四月一日から起算して五年を経過するまでの間）、これを行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9317,7 +9674,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二種適格電気通信事業者は、毎事業年度経過後五月以内に、当該事業年度に係る次に掲げる書類を総務大臣に提出しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二種適格電気通信事業者は、毎事業年度経過後五月以内に、当該事業年度に係る次に掲げる書類（第五号ロに掲げる書類にあつては、当該書類の内容に変更があつた場合に限る。）を総務大臣に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -9717,7 +10074,14 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百十条の三第一項の規定により新たに指定された第二種適格電気通信事業者に対して当該指定後最初に第二種交付金が交付される場合において、前項の法第百七条第二号の総務省令で定める期間については、同項中「第四十条の六の二第一項及び同条第二項に規定する割合を超えた日」とあるのは、「法第百十条の三第一項の規定により新たに指定された第二種適格電気通信事業者が当該指定を受けた日」とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十条の三第一項の規定により初めて指定された第二種適格電気通信事業者に対して当該指定後最初に第二種交付金が交付される場合において、前項の法第百七条第二号の総務省令で定める期間については、同項中「第四十条の六の二第一項及び同条第二項に規定する割合を超えた日」とあるのは、「法第百十条の三第一項の規定により初めて指定された第二種適格電気通信事業者が当該指定を受けた日」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十条の三第二項後段の規定により追加して担当支援区域を指定された第二種適格電気通信事業者に対して当該指定（以下この項において「追加指定」という。）後最初に当該担当支援区域に係る第二種交付金が交付される場合における第一項の法第百七条第二号の総務省令で定める期間については、同項中「第四十条の六の二第一項及び同条第二項に規定する割合を超えた日から起算して一年」とあるのは、「法第百十条の三第二項後段の規定により追加して担当支援区域を指定された日から最初に到来する八月三十一日から七月を経過する日までの期間」とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該第二種適格電気通信事業者が前項に規定する場合に該当するときは、当該追加指定を四月から八月までの間に受けた者に限り、この項の規定を適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9727,20 +10091,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百八条第二項の総務省令で定める第一号基礎的電気通信役務の種別は、次の各号のいずれかとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百八条第二項の総務省令で定める第一号基礎的電気通信役務の種別は、第十四条各号に掲げる第一号基礎的電気通信役務とする。</Sentence>
               </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第十四条第一号及び第二号に掲げる第一号基礎的電気通信役務をあわせたもの</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第十四条第一号、第二号及び第四号に掲げる第一号基礎的電気通信役務をあわせたもの</Sentence>
-                </ItemSentence>
-              </Item>
             </Paragraph>
           </Article>
           <Article Num="40_7_2">
@@ -9749,7 +10101,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百十条の五第一項の総務省令で定める高速度データ伝送電気通信役務は、次の各号のいずれかに該当するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十条の五第一項の総務省令で定める高速度データ伝送電気通信役務は、次の各号のいずれかに該当するもののほか、その下り名目速度が毎秒一メガビット未満のものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -9760,7 +10112,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前号に掲げるもののほか、次のイからチまでに掲げる電気通信役務</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げるもののほか、次のイからリまでに掲げる電気通信役務</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -9795,17 +10147,23 @@
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">専用役務</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">アンライセンスＬＰＷＡ（電気通信事業報告規則第一条第二項第十八号に規定するものをいう。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
                   <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">仮想移動電気通信サービス（電気通信事業報告規則第一条第二項第十九号に規定するものをいう。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">専用役務</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
                   <Subitem1Title>チ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">仮想移動電気通信サービス（電気通信事業報告規則第一条第二項第十九号に規定するものをいう。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="9">
+                  <Subitem1Title>リ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">通信モジュール（特定の業務の用に供する通信に用途が限定されている利用者の電気通信設備をいう。）向けに提供する電気通信役務</Sentence>
                   </Subitem1Sentence>
@@ -9814,18 +10172,18 @@
             </Paragraph>
           </Article>
           <Article Num="40_8">
-            <ArticleCaption>（第一種交付金及び第二種交付金の額の公表）</ArticleCaption>
+            <ArticleCaption>（交付金の額の公表）</ArticleCaption>
             <ArticleTitle>第四十条の八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第百九条第四項の規定による第一種交付金及び法第百十条の四第五項の規定による第二種交付金の額の公表は、第一種交付金にあつては法第百九条第一項の認可、第二種交付金にあつては法第百十条の四第一項の認可を受けた後、速やかに支援機関の主たる事務所に備え置き、公衆の閲覧に供するとともに、インターネットを利用することにより、これを行わなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第百九条第四項の規定及び法第百十条の四第五項の規定による交付金の額の公表は、第一種交付金にあつては法第百九条第一項の認可、第二種交付金にあつては法第百十条の四第一項の認可を受けた後、速やかにインターネットを利用することにより、これを行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の公表は、同項の備置きの日から起算して十年を経過するまでの間、これを行わなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の公表は、当該公表の日から起算して十年を経過するまでの間、これを行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9851,7 +10209,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">総務大臣は、第十四条の五第一項の規定による報告（以下この条及び次条において「規模報告」という。）があつた場合において、当該規模報告に係る単位区域が法第百十条の二第一項各号又は第二項各号の要件に該当すると認めるときは、毎事業年度経過後五月以内に、同条第一項の規定による一般支援区域の指定又は第二項の規定による特別支援区域の指定を行い、また、同条第一項各号又は第二項各号の要件に該当しないと認められるときは、同条第三項の規定による一般支援区域又は特別支援区域の指定の解除を行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣は、第十四条の五第一項の規定による報告（以下この条及び次条において「規模報告」という。）があつた場合において、当該規模報告に係る単位区域が法第百十条の二第一項各号又は第二項各号の要件に該当すると認めるときは、毎事業年度経過後八月以内に、同条第一項の規定による一般支援区域の指定又は第二項の規定による特別支援区域の指定を行い、また、同条第一項各号又は第二項各号の要件に該当しないと認められるときは、同条第三項の規定による一般支援区域又は特別支援区域の指定の解除を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9957,6 +10315,32 @@
                   <Sentence Num="1" WritingMode="vertical">当該単位区域において設置される第二号基礎的電気通信役務の提供に係る電気通信回線設備を所有する者が地方公共団体である場合</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="40_8_5_2">
+            <ArticleCaption>（担当支援区域の全部又は一部が業務区域の範囲に含まれなくなつた場合等の報告）</ArticleCaption>
+            <ArticleTitle>第四十条の八の五の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二種適格電気通信事業者は、その担当支援区域が法第百十条の三第三項第二号イに掲げる場合に該当することとなつたときは、直ちに、様式第三十八の二の五により、その旨を総務大臣に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第百十条の三第五項に規定する第二種適格電気通信事業者の地位の承継があつた場合には、その地位を承継した電気通信事業者は、直ちに、様式第三十八の二の六により、その旨を総務大臣に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_8_5_3">
+            <ArticleCaption>（第二種適格電気通信事業者の地位の承継があつた場合の通知等）</ArticleCaption>
+            <ArticleTitle>第四十条の八の五の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣は、前条第二項に規定する報告があつた場合には、遅滞なく、その旨を支援機関に通知するとともに、これを公表するものとする。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
         </Section>
@@ -15716,6 +16100,97 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月二五日総務省令第一七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（電気通信事業法施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の日前に提出し、及び公表したこの省令による改正前の電気通信事業法施行規則（以下「旧施行規則」という。）第四十条の四の五第一項第五号ロ及び第四十条の四の六第一項第二号に掲げる様式第三十八の二の四による書類（特別支援区域整備・役務提供計画書）は、この省令による改正後の電気通信事業法施行規則（以下「新施行規則」という。）様式第三十八の二の四による書類とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧施行規則第四十条の七に規定する種別に対する電気通信事業法第百八条第一項の第一種適格電気通信事業者の指定は、当該第一種適格電気通信事業者が、新施行規則第四十条の七に規定する種別に対する同項の第一種適格電気通信事業者の指定を受けるまでの間は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月二六日総務省令第一八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和七年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月二六日総務省令第二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電気通信事業者（電気通信事業法第二条第五号に規定する電気通信事業者をいう。以下同じ。）は、同条第三号に規定する電気通信役務の提供に関する提携を内容とする協定又は契約（以下「協定等」という。）であって第一条の規定による改正後の電気通信事業法施行規則（以下「新施行規則」という。）第二十七条に規定する重要な事項を内容とするものをこの省令の施行の日（以下「施行日」という。）以後に締結し、変更し、又は廃止しようとするときは、施行日前においても、同法第四十条の認可に係る申請をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置等）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新施行規則の規定は、施行日以後に締結し、変更し又は廃止しようとする協定等について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電気通信事業者は、附則様式により、令和七年五月三十一日までに、新施行規則第二十七条第一号ハに掲げる電気通信役務の提供に関する提携を内容とする協定等のうち施行日前に締結し、かつ、この省令の施行の際現に効力を有するもの（新施行規則第二条第二項第二号に規定するデータ伝送役務の提供に関する提携を内容とするものに限り、令和七年五月三十一日までに、附則第二条の申請を行っているものを除く。以下「報告対象契約」という。）について、報告対象契約に係る協定書又は契約書の写しを添えて総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <SupplProvisionAppdxStyle>
+        <SupplProvisionAppdxStyleTitle WritingMode="vertical">別記様式</SupplProvisionAppdxStyleTitle>
+        <StyleStruct>
+          <Style>
+            <Fig src="./pict/2FH00000077050.pdf"/>
+          </Style>
+        </StyleStruct>
+      </SupplProvisionAppdxStyle>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>　電気通信役務の種類（第二十二条の二の三第一項第三号ロ関係）</RelatedArticleNum>
@@ -15916,7 +16391,7 @@
       <RelatedArticleNum>（第４条第１項、第４条の２第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000074451.pdf"/>
+          <Fig src="./pict/2FH00000076989.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15925,7 +16400,7 @@
       <RelatedArticleNum>（第４条第３項、第４条の２第２項、第１０条第４項、第１１条第５項第９号、第４０条の９第３項第９号、第４０条の１０第３項第２号、第４０条の１８第１項第４号、第２項第６号及び第３項第１０号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040953.pdf"/>
+          <Fig src="./pict/2FH00000076990.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15934,7 +16409,7 @@
       <RelatedArticleNum>（第４条第４項、第４条の２第３項、第７条第１項、第９条第１項及び第３項、第１１条第５項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040947.pdf"/>
+          <Fig src="./pict/2FH00000076991.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15979,7 +16454,7 @@
       <RelatedArticleNum>（第５条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040958.pdf"/>
+          <Fig src="./pict/2FH00000076992.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15988,7 +16463,7 @@
       <RelatedArticleNum>（第５条第２項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040959.pdf"/>
+          <Fig src="./pict/2FH00000076993.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15997,7 +16472,7 @@
       <RelatedArticleNum>（第５条第２項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040960.pdf"/>
+          <Fig src="./pict/2FH00000076994.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16006,7 +16481,7 @@
       <RelatedArticleNum>（第５条第２項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040961.pdf"/>
+          <Fig src="./pict/2FH00000076995.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16015,7 +16490,7 @@
       <RelatedArticleNum>（第５条第２項第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040962.pdf"/>
+          <Fig src="./pict/2FH00000076996.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16024,7 +16499,7 @@
       <RelatedArticleNum>（第７条、第９条第３項及び第４項、第４０条の１７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065604.pdf"/>
+          <Fig src="./pict/2FH00000076997.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16033,7 +16508,7 @@
       <RelatedArticleNum>（第８条第１項、第９条第９項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068246.pdf"/>
+          <Fig src="./pict/2FH00000076998.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16042,7 +16517,7 @@
       <RelatedArticleNum>（第８条第２項第１号、第９条第１０項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068247.pdf"/>
+          <Fig src="./pict/2FH00000076999.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16051,7 +16526,7 @@
       <RelatedArticleNum>（第８条第２項第２号、第９条第１０項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068248.pdf"/>
+          <Fig src="./pict/2FH00000077000.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16060,7 +16535,7 @@
       <RelatedArticleNum>（第８条第２項第３号、第９条第１０項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068249.pdf"/>
+          <Fig src="./pict/2FH00000077001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16069,7 +16544,7 @@
       <RelatedArticleNum>（第８条第２項第４号、第９条第１０項第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068250.pdf"/>
+          <Fig src="./pict/2FH00000077002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16078,7 +16553,7 @@
       <RelatedArticleNum>（第９条第１項、第６０条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040964.pdf"/>
+          <Fig src="./pict/2FH00000077003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16087,7 +16562,7 @@
       <RelatedArticleNum>（第９条第５項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065610.pdf"/>
+          <Fig src="./pict/2FH00000077004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16096,7 +16571,7 @@
       <RelatedArticleNum>（第９条第６項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065611.pdf"/>
+          <Fig src="./pict/2FH00000077005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16105,7 +16580,7 @@
       <RelatedArticleNum>（第９条第６項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065612.pdf"/>
+          <Fig src="./pict/2FH00000077006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16114,7 +16589,7 @@
       <RelatedArticleNum>（第９条第６項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065613.pdf"/>
+          <Fig src="./pict/2FH00000077007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16123,7 +16598,7 @@
       <RelatedArticleNum>（第９条第６項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065614.pdf"/>
+          <Fig src="./pict/2FH00000077008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16132,7 +16607,7 @@
       <RelatedArticleNum>（第９条第６項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065615.pdf"/>
+          <Fig src="./pict/2FH00000077009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16141,7 +16616,7 @@
       <RelatedArticleNum>（第９条第６項第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065616.pdf"/>
+          <Fig src="./pict/2FH00000077010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16150,7 +16625,7 @@
       <RelatedArticleNum>（第９条第１４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068251.pdf"/>
+          <Fig src="./pict/2FH00000077011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16159,7 +16634,7 @@
       <RelatedArticleNum>（第１０条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035929.pdf"/>
+          <Fig src="./pict/2FH00000077012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16168,7 +16643,7 @@
       <RelatedArticleNum>（第１０条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035930.pdf"/>
+          <Fig src="./pict/2FH00000077013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16177,7 +16652,7 @@
       <RelatedArticleNum>（第１１条第５項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040972.pdf"/>
+          <Fig src="./pict/2FH00000077014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16186,7 +16661,7 @@
       <RelatedArticleNum>（第１２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035932.pdf"/>
+          <Fig src="./pict/2FH00000077015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16195,7 +16670,7 @@
       <RelatedArticleNum>（第１２条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035933.pdf"/>
+          <Fig src="./pict/2FH00000077016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16204,7 +16679,7 @@
       <RelatedArticleNum>（第１２条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035934.pdf"/>
+          <Fig src="./pict/2FH00000077017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16213,7 +16688,7 @@
       <RelatedArticleNum>（第１２条第５項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035935.pdf"/>
+          <Fig src="./pict/2FH00000077018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16276,7 +16751,7 @@
       <RelatedArticleNum>（第２２条の２の１１第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035942.pdf"/>
+          <Fig src="./pict/2FH00000077019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16456,7 +16931,7 @@
       <RelatedArticleNum>（第２４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035951.pdf"/>
+          <Fig src="./pict/2FH00000077020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16555,7 +17030,7 @@
       <RelatedArticleNum>（第２６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035961.pdf"/>
+          <Fig src="./pict/2FH00000077049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16613,7 +17088,7 @@
       <RelatedArticleNum>（第３９条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000070980.pdf"/>
+          <Fig src="./pict/2FH00000077021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16622,7 +17097,7 @@
       <RelatedArticleNum>（第３９条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035968.pdf"/>
+          <Fig src="./pict/2FH00000077022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16631,7 +17106,7 @@
       <RelatedArticleNum>（第３９条第５項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035969.pdf"/>
+          <Fig src="./pict/2FH00000077023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16640,7 +17115,7 @@
       <RelatedArticleNum>（第３９条第６項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035970.pdf"/>
+          <Fig src="./pict/2FH00000077024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16649,7 +17124,7 @@
       <RelatedArticleNum>（第３９条第７項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035971.pdf"/>
+          <Fig src="./pict/2FH00000077025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16685,7 +17160,7 @@
       <RelatedArticleNum>（第４０条の４の５第１項第２号、第４０条の５の２第１項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068243.pdf"/>
+          <Fig src="./pict/2FH00000076980.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16694,7 +17169,25 @@
       <RelatedArticleNum>（第４０条の４の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000068244.pdf"/>
+          <Fig src="./pict/2FH00000076985.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第３８の２の５</AppdxStyleTitle>
+      <RelatedArticleNum>（第４０条の８の５の２第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000076986.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第３８の２の６</AppdxStyleTitle>
+      <RelatedArticleNum>（第４０条の８の５の２第２項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000076987.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16748,7 +17241,7 @@
       <RelatedArticleNum>（第４０条の９第１項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065624.pdf"/>
+          <Fig src="./pict/2FH00000077026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16757,7 +17250,7 @@
       <RelatedArticleNum>（第４０条の９第１項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065625.pdf"/>
+          <Fig src="./pict/2FH00000077027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16784,7 +17277,7 @@
       <RelatedArticleNum>（第４０条の１０第１項第１号、第４０条の１４第１項第２号ニ関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035980.pdf"/>
+          <Fig src="./pict/2FH00000077028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16793,7 +17286,7 @@
       <RelatedArticleNum>（第４０条の１０第１項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065626.pdf"/>
+          <Fig src="./pict/2FH00000077029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16820,7 +17313,7 @@
       <RelatedArticleNum>（第４０条の１２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035982.pdf"/>
+          <Fig src="./pict/2FH00000077033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16829,7 +17322,7 @@
       <RelatedArticleNum>（第４０条の１３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035983.pdf"/>
+          <Fig src="./pict/2FH00000077035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16838,7 +17331,7 @@
       <RelatedArticleNum>（第４０条の１４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035984.pdf"/>
+          <Fig src="./pict/2FH00000077037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16847,7 +17340,7 @@
       <RelatedArticleNum>（第４０条の１６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035985.pdf"/>
+          <Fig src="./pict/2FH00000077039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16856,7 +17349,7 @@
       <RelatedArticleNum>（第４０条の１８第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035986.pdf"/>
+          <Fig src="./pict/2FH00000077041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16865,7 +17358,7 @@
       <RelatedArticleNum>（第４０条の１８第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035987.pdf"/>
+          <Fig src="./pict/2FH00000077042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16874,7 +17367,7 @@
       <RelatedArticleNum>（第４０条の１８第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035988.pdf"/>
+          <Fig src="./pict/2FH00000077044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16883,7 +17376,7 @@
       <RelatedArticleNum>（第４０条の１９第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035989.pdf"/>
+          <Fig src="./pict/2FH00000077045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -16892,7 +17385,7 @@
       <RelatedArticleNum>（第４０条の１９第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035990.pdf"/>
+          <Fig src="./pict/2FH00000077047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
