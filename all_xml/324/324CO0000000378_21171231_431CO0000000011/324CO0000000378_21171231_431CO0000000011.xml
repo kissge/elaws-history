@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="24" Num="378" PromulgateMonth="12" PromulgateDay="1" LawType="CabinetOrder"><LawNum>昭和二十四年政令第三百七十八号</LawNum><LawBody><LawTitle Kana="ゆしゅつぼうえきかんりれい" Abbrev="輸出令" AbbrevKana="ゆ">輸出貿易管理令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="24" Num="378" PromulgateMonth="12" PromulgateDay="01" LawType="CabinetOrder"><LawNum>昭和二十四年政令第三百七十八号</LawNum><LawBody><LawTitle Kana="ゆしゅつぼうえきかんりれい" Abbrev="輸出令" AbbrevKana="ゆ">輸出貿易管理令</LawTitle>
     <EnactStatement>内閣は、外国為替及び外国貿易管理法（昭和二十四年法律第二百二十八号）第二十六条、第四十八条、第四十九条、第六十七条、第六十九条及び附則第四項の規定に基き、並びに同法の規定を実施するため、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -3757,6 +3757,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月二八日政令第一〇二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、公布の日から起算して二月を経過した日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第一条、第四条関係）</RelatedArticleNum>
@@ -3872,7 +3881,7 @@
               <Sentence Num="64" WritingMode="vertical">（四十六）　放射線による影響を防止するように設計したテレビカメラ又はそのレンズ</Sentence>
               <Sentence Num="65" WritingMode="vertical">（四十七）　トリチウム、トリチウム化合物又はトリチウム混合物</Sentence>
               <Sentence Num="66" WritingMode="vertical">（四十八）　トリチウムの製造、回収若しくは貯蔵に用いられる装置又はトリチウムの製造に用いられる装置の部分品</Sentence>
-              <Sentence Num="67" WritingMode="vertical">（四十九）　重水からトリチウムを回収するため又は重水を製造するための白金を用いた触媒</Sentence>
+              <Sentence Num="67" WritingMode="vertical">（四十九）　水からトリチウムを回収するため又は重水を製造するための白金を用いた触媒</Sentence>
               <Sentence Num="68" WritingMode="vertical">（五十）　ヘリウム三</Sentence>
               <Sentence Num="69" WritingMode="vertical">（五十一）　レニウム、レニウム合金又はレニウムタングステン合金の一次製品</Sentence>
               <Sentence Num="70" WritingMode="vertical">（五十二）　防爆構造の容器</Sentence>
@@ -4007,7 +4016,7 @@
               <Sentence Num="17" WritingMode="vertical">（十六）　ビスマレイミド、芳香族ポリアミドイミド、芳香族ポリイミド、芳香族ポリエーテルイミド、ポリアリーレンケトン、ポリアリーレンスルフィド又はポリビフェニレンエーテルスルホン</Sentence>
               <Sentence Num="18" WritingMode="vertical">（十七）　ふっ化ポリイミド又はふっ化ホスファゼン</Sentence>
               <Sentence Num="19" WritingMode="vertical">（十八）　有機繊維、炭素繊維、無機繊維若しくは（十六）に掲げる貨物を用いた繊維若しくはこれらを使用したプリプレグ、プリフォーム若しくは成型品又はこれらの製造用の装置若しくはその部分品若しくは附属品（二、四及び一五の項の中欄に掲げるものを除く。）</Sentence>
-              <Sentence Num="20" WritingMode="vertical">（十九）　ほう素若しくはその混合物、ほう素合金若しくはその混合物、硝酸グアニジン又はニトログアニジン（二及び四の項の中欄に掲げるものを除く。）</Sentence>
+              <Sentence Num="20" WritingMode="vertical">（十九）　ほう素若しくはその混合物、ほう素合金若しくはその混合物、硝酸グアニジン、ニトログアニジン又は五ふっ化よう素（二及び四の項の中欄に掲げるものを除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">全地域</Sentence>
@@ -4034,6 +4043,7 @@
               <Sentence Num="14" WritingMode="vertical">３　高い高度で使用することができるように設計したもの</Sentence>
               <Sentence Num="15" WritingMode="vertical">（八）　フィードバック装置、複合回転テーブル又は加工中に中心線の他の軸に対する角度を変更することができるスピンドル</Sentence>
               <Sentence Num="16" WritingMode="vertical">（九）　絞りスピニング加工機</Sentence>
+              <Sentence Num="17" WritingMode="vertical">（十）　積層造形用の装置又はその部分品</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">全地域</Sentence>
@@ -4064,15 +4074,18 @@
               <Sentence Num="18" WritingMode="vertical">（十四）　ネットワークアナライザー</Sentence>
               <Sentence Num="19" WritingMode="vertical">（十五）　原子周波数標準器</Sentence>
               <Sentence Num="20" WritingMode="vertical">（十五の二）　スプレー冷却方式の熱制御装置</Sentence>
-              <Sentence Num="21" WritingMode="vertical">（十六）　半導体素子、集積回路若しくは半導体物質の製造用の装置若しくは試験装置又はこれらの部分品若しくは附属品</Sentence>
-              <Sentence Num="22" WritingMode="vertical">（十七）　マスク若しくはレチクル又はこれらの部分品若しくは附属品（一〇の項の中欄に掲げるものを除く。）</Sentence>
-              <Sentence Num="23" WritingMode="vertical">（十七の二）　マスクの製造に用いられる基材</Sentence>
-              <Sentence Num="24" WritingMode="vertical">（十八）　半導体基板</Sentence>
-              <Sentence Num="25" WritingMode="vertical">（十九）　レジスト</Sentence>
-              <Sentence Num="26" WritingMode="vertical">（二十）　アルミニウム、ガリウム若しくはインジウムの有機金属化合物又は<Ruby>燐<Rt>りん</Rt></Ruby>、<Ruby>砒<Rt>ひ</Rt></Ruby>素若しくはアンチモンの有機化合物</Sentence>
-              <Sentence Num="27" WritingMode="vertical">（二十一）　<Ruby>燐<Rt>りん</Rt></Ruby>、<Ruby>砒<Rt>ひ</Rt></Ruby>素又はアンチモンの水素化物</Sentence>
-              <Sentence Num="28" WritingMode="vertical">（二十二）　炭化けい素、窒化ガリウム、窒化アルミニウム、窒化アルミニウムガリウム、三酸化二ガリウム又はダイヤモンドの基板（（十八）に掲げるものを除く。）又はインゴット、ブールその他のプリフォーム</Sentence>
-              <Sentence Num="29" WritingMode="vertical">（二十三）　多結晶の基板（（十八）及び（二十二）に掲げるものを除く。）</Sentence>
+              <Sentence Num="21" WritingMode="vertical">（十五の三）　極低温用に設計した冷却装置又はその部分品</Sentence>
+              <Sentence Num="22" WritingMode="vertical">（十六）　半導体素子、集積回路若しくは半導体物質の製造用の装置若しくは試験装置又はこれらの部分品若しくは附属品</Sentence>
+              <Sentence Num="23" WritingMode="vertical">（十七）　マスク若しくはレチクル又はこれらの部分品若しくは附属品（一〇の項の中欄に掲げるものを除く。）</Sentence>
+              <Sentence Num="24" WritingMode="vertical">（十七の二）　マスクの製造に用いられる基材</Sentence>
+              <Sentence Num="25" WritingMode="vertical">（十八）　半導体基板</Sentence>
+              <Sentence Num="26" WritingMode="vertical">（十九）　レジスト</Sentence>
+              <Sentence Num="27" WritingMode="vertical">（二十）　アルミニウム、ガリウム若しくはインジウムの有機金属化合物又は<Ruby>燐<Rt>りん</Rt></Ruby>、<Ruby>砒<Rt>ひ</Rt></Ruby>素若しくはアンチモンの有機化合物</Sentence>
+              <Sentence Num="28" WritingMode="vertical">（二十一）　<Ruby>燐<Rt>りん</Rt></Ruby>、<Ruby>砒<Rt>ひ</Rt></Ruby>素又はアンチモンの水素化物</Sentence>
+              <Sentence Num="29" WritingMode="vertical">（二十二）　炭化けい素、窒化ガリウム、窒化アルミニウム、窒化アルミニウムガリウム、三酸化二ガリウム又はダイヤモンドの基板（（十八）に掲げるものを除く。）又はインゴット、ブールその他のプリフォーム</Sentence>
+              <Sentence Num="30" WritingMode="vertical">（二十三）　多結晶の基板（（十八）及び（二十二）に掲げるものを除く。）</Sentence>
+              <Sentence Num="31" WritingMode="vertical">（二十四）　シリコン又はゲルマニウムのふっ化物、水素化物又は塩化物</Sentence>
+              <Sentence Num="32" WritingMode="vertical">（二十五）　シリコン、シリコンの酸化物、ゲルマニウム若しくはゲルマニウムの酸化物又はこれらの基板（（十八）及び（二十三）に掲げるものを除く。）若しくはインゴット、ブールその他のプリフォーム</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">全地域</Sentence>
