@@ -821,7 +821,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第十条第一項第十号の事業を行う組合（共同事業組合を除く。）の経営の健全性を判断するための基準に用いる法第十一条の十八第一号の出資の総額、利益準備金の額その他の農林水産省令で定めるものの額は、次に掲げる額から繰延税金資産（税効果会計（貸借対照表に計上されている資産及び負債の金額と課税所得の計算の結果算定された資産及び負債の金額との間に差異がある場合において、当該差異に係る法人税等（法人税、住民税、事業税（利益に関連する金額を課税標準として課される事業税をいう。）をいう。以下同じ。）の金額を適切に期間配分することにより、税引前当期利益の金額と法人税等の金額を合理的に対応させるための会計処理をいう。以下同じ。）の適用により資産として計上される金額をいう。以下同じ。）の不算入額として農林水産大臣が定めるところにより算出した額を控除した額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第十条第一項第十号の事業を行う組合（共同事業組合を除く。）の経営の健全性を判断するための基準に用いる法第十一条の十八第一号の出資の総額、利益準備金の額その他の農林水産省令で定めるものの額は、次に掲げる額から繰延税金資産（税効果会計（貸借対照表に計上されている資産及び負債の金額と課税所得の計算の結果算定された資産及び負債の金額との間に差異がある場合において、当該差異に係る法人税その他利益に関連する金額を課税標準として課される租税（以下「法人税等」という。）の金額を適切に期間配分することにより、税引前当期利益の金額と法人税等の金額を合理的に対応させるための会計処理をいう。以下同じ。）の適用により資産として計上される金額をいう。以下同じ。）の不算入額として農林水産大臣が定めるところにより算出した額を控除した額とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -8568,7 +8568,7 @@
                   <Subitem1 Num="6">
                     <Subitem1Title>ヘ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">未払法人税等（法人税、住民税及び事業税の未払額をいう。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">未払法人税等（法人税、地方法人税、住民税及び事業税の未払額のうち、貸借対照表日の翌日から起算して一年内に支払の期限が到来しないと認められるものを除いたものをいう。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="7">
@@ -8633,23 +8633,29 @@
                   <Subitem1 Num="3">
                     <Subitem1Title>ハ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">繰延税金負債（税効果会計の適用により負債として計上される金額をいう。以下同じ。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">長期未払法人税等（法人税、地方法人税、住民税及び事業税の未払額のうち、前号ヘに掲げるもの以外のものをいう。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="4">
                     <Subitem1Title>ニ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">ファイナンス・リース取引におけるリース債務のうち、前号ルに掲げるもの以外のもの</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">繰延税金負債（税効果会計の適用により負債として計上される金額をいう。以下同じ。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="5">
                     <Subitem1Title>ホ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">資産除去債務のうち、前号ルに掲げるもの以外のもの</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">ファイナンス・リース取引におけるリース債務のうち、前号ヌに掲げるもの以外のもの</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="6">
                     <Subitem1Title>ヘ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">資産除去債務のうち、前号ルに掲げるもの以外のもの</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="7">
+                    <Subitem1Title>ト</Subitem1Title>
                     <Subitem1Sentence>
                       <Sentence Num="1" WritingMode="vertical">その他の負債であって、流動負債に属しないもの</Sentence>
                     </Subitem1Sentence>
@@ -9202,21 +9208,34 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">当該事業年度に係る法人税等</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該事業年度に係る法人税、地方法人税、住民税及び利益に関連する金額を課税標準として課される事業税（以下「法人税、住民税及び事業税」という。）（次号に掲げる項目に該当するものを除く。）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">法人税等調整額（税効果会計の適用により計上される前号に掲げる法人税等の調整額をいう。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該事業年度に係る国際最低課税額（法人税法（昭和四十年法律第三十四号）第八十二条の二第一項に規定する国際最低課税額をいう。）に対する法人税その他当該国際最低課税額に関連する金額を課税標準として課される租税（以下「国際最低課税額に対する法人税等」という。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税等調整額（税効果会計の適用により計上される第一号の法人税、住民税及び事業税の調整額をいう。）</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">法人税等の更正、決定等による納付税額又は還付税額がある場合には、前項第一号に掲げる項目の次に、その内容を示す名称を付した項目をもって表示するものとする。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの金額の重要性が乏しい場合は、同号に掲げる項目の金額に含めて表示することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、同項第二号に掲げる項目の金額は、同項第一号に掲げる項目の内容を示す名称を付した科目に含めて記載することができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合においては、当該金額の重要性が乏しい場合を除き、当該金額を注記しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">前事業年度以前の事業年度に係る法人税、住民税及び事業税の更正、決定等による納付税額又は還付税額がある場合には、第一項第一号及び第二号に掲げる項目の次に、その内容を示す名称を付した項目をもって表示するものとする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの金額の重要性が乏しい場合は、同項第一号又は第二号に掲げる項目の金額に含めて表示することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -9237,7 +9256,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">前条第二項に規定する場合（同項ただし書の場合を除く。）において、還付税額があるときは当該還付金額</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前条第三項に規定する場合（同項ただし書の場合を除く。）において、還付税額があるときは当該還付金額</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -9249,7 +9268,7 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">前条第二項に規定する場合（同項ただし書の場合を除く。）において、納付税額があるときは当該納付税額</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前条第三項に規定する場合（同項ただし書の場合を除く。）において、納付税額があるときは当該納付税額</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -21728,6 +21747,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月二八日農林水産省令第一二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和七年三月三十一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和六年四月一日前に開始した事業年度に係る財務諸表については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十一条の二第三項第九号及び第二十二条の二十九第一項第七号関係（資産の運用対象が受益証券等の場合））</RelatedArticleNum>
@@ -22091,7 +22133,7 @@
               <Sentence Num="2" WritingMode="vertical">二　特別勘定資産残高</Sentence>
             </TableColumn>
           </TableRow>
-        </Table>
+       </Table>
       <Remarks>
       <RemarksLabel LineBreak="true"/>
       <Item Num="1">
@@ -22345,7 +22387,7 @@
       <RelatedArticleNum>（１）（第１０６条第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000047966.pdf"/>
+          <Fig src="./pict/2FH00000077133.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -22354,7 +22396,7 @@
       <RelatedArticleNum>（２）（第１１７条第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000047967.pdf"/>
+          <Fig src="./pict/2FH00000077134.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -22381,7 +22423,7 @@
       <RelatedArticleNum>（２）（第１１７条第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000047970.pdf"/>
+          <Fig src="./pict/2FH00000077135.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -22462,7 +22504,7 @@
       <RelatedArticleNum>（２）（第２０２条第５項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000067122.pdf"/>
+          <Fig src="./pict/2FH00000077136.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -22480,7 +22522,7 @@
       <RelatedArticleNum>（２）（第２０２条第５項第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000067124.pdf"/>
+          <Fig src="./pict/2FH00000077137.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -22489,7 +22531,7 @@
       <RelatedArticleNum>（１）（第２０２条第３項第５号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000073782.pdf"/>
+          <Fig src="./pict/2FH00000077138.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
