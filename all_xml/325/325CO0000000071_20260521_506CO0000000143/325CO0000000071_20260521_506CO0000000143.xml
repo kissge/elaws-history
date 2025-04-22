@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="25" Num="071" PromulgateMonth="3" PromulgateDay="31" LawType="CabinetOrder"><LawNum>昭和二十五年政令第七十一号</LawNum><LawBody><LawTitle Kana="そうぞくぜいほうしこうれい" Abbrev="" AbbrevKana="">相続税法施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="25" Num="071" PromulgateMonth="03" PromulgateDay="31" LawType="CabinetOrder"><LawNum>昭和二十五年政令第七十一号</LawNum><LawBody><LawTitle Kana="そうぞくぜいほうしこうれい" Abbrev="" AbbrevKana="">相続税法施行令</LawTitle>
     <EnactStatement>内閣は、相続税法（昭和二十五年法律第七十三号）に基き、相続税法施行規則（昭和二十二年政令第二十二号）の全部を改正するこの政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2343,18 +2343,24 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第四十一条第一項に規定する政令で定める額は、第十二条第一項第一号に掲げる額から同項第二号に掲げる額及び次の各号に掲げる額を基に算出した延納によつて納付することができる額を控除した残額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第四十一条第一項に規定する政令で定める額は、第十二条第一項第一号に掲げる額から同項第二号に掲げる額並びに第一号及び第二号に掲げる額を基に算出した延納によつて納付することができる額を控除した額に第三号に掲げる額を合算した額（当該合算した額が零を下回る場合には零とし、当該合算した額が同項第一号に掲げる額を超える場合には同号に掲げる額とする。）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十二条第一項第一号の相続税額に係る納期限又は納付すべき日以後において見込まれる納税義務者の収入の額として合理的に計算した額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第一項第一号の相続税額に係る納期限又は納付すべき日の翌日から延納期間の終了する日までの間において見込まれる納税義務者の収入の額として合理的に計算した額</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前号の納期限又は納付すべき日以後において、納税義務者及びその者と生計を一にする配偶者その他の親族（その者と婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者及び当該事情にある者の親族を含む。）の生活のために通常必要とされる費用に相当する額（その者が負担すべきものに限る。）並びにその者の事業の継続のために必要な運転資金の額（これらの額から第十二条第一項第二号に掲げる額を控除した残額に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前号の納期限又は納付すべき日の翌日から延納期間の終了する日までの間において、納税義務者等（納税義務者及びその者と生計を一にする配偶者その他の親族（その者と婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者及び当該事情にある者の親族を含む。）をいう。次号において同じ。）の生活のために通常必要とされる費用に相当する額（その者が負担すべきものに限る。）及びその者の事業の継続のために必要な運転資金の額（これらの額から第十二条第一項第二号に規定する生活のために通常必要とされる費用の三月分に相当する金額及び同号に規定する事業の継続のために当面必要な運転資金の額を控除した残額に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">延納期間の終了した日以後において、納税義務者等の生活のために通常必要とされる費用の三月分に相当する金額（納税義務者が負担すべきものに限る。）と納税義務者の事業の継続のために当面必要な運転資金の額とを合計した額</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3062,7 +3068,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第十七条の規定は、法第四十八条の二第一項に規定する政令で定める額について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第十七条中「第十二条第一項第一号に掲げる額から同項第二号に掲げる額」とあるのは「法第四十八条の二第一項に規定する特定物納対象税額から第一号の申請をする日において第十二条第一項第二号の規定に準じて計算した金額」と、同条第一号中「第十二条第一項第一号の相続税額に係る納期限又は納付すべき日」とあるのは「法第四十八条の二第一項の規定により同条第二項に規定する特定物納の許可の申請をする日」と、同条第二号中「納期限又は納付すべき日」とあるのは「特定物納の許可の申請をする日」と読み替えるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第十七条中「第十二条第一項第一号に掲げる額から同項第二号に掲げる額」とあるのは「法第四十八条の二第一項に規定する特定物納対象税額から第一号の申請をする日において第十二条第一項第二号の規定に準じて計算した金額」と、「同項第一号に掲げる額」とあり、及び「同号に掲げる額」とあるのは「当該特定物納対象税額」と、同条第一号中「第十二条第一項第一号の相続税額に係る納期限又は納付すべき日」とあるのは「法第四十八条の二第一項の規定により同条第二項に規定する特定物納の許可の申請をする日」と、同条第二号中「納期限又は納付すべき日」とあるのは「特定物納の許可の申請をする日」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -5749,6 +5755,23 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この政令は、改正法附則第一条第二号に掲げる規定の施行の日（令和七年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月三一日政令第一二三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、令和七年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">改正後の相続税法施行令（以下「新令」という。）第十七条（相続税法施行令第二十五条の三第一項の規定により読み替えて適用する場合及び新令第二十五条の七第一項において準用する場合を含む。）の規定は、この政令の施行の日以後に相続又は遺贈（贈与をした者の死亡により効力を生ずる贈与を含む。以下同じ。）により取得する財産に係る相続税について適用し、同日前に相続又は遺贈により取得した財産に係る相続税については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
