@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="042" Year="47" PromulgateMonth="05" PromulgateDay="13">
-  <LawNum>昭和四十七年大蔵省令第四十二号</LawNum>
-  <LawBody>
-    <LawTitle Kana="おきなわのふっきにともなうこくぜいかんけいほうれいのてきようのとくべつそちとうにかんするしょうれい" Abbrev="" AbbrevKana="">沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="47" Num="042" PromulgateMonth="05" PromulgateDay="13" LawType="MinisterialOrdinance"><LawNum>昭和四十七年大蔵省令第四十二号</LawNum><LawBody><LawTitle Kana="おきなわのふっきにともなうこくぜいかんけいほうれいのてきようのとくべつそちとうにかんするしょうれい" Abbrev="" AbbrevKana="">沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令</LawTitle>
     <EnactStatement>沖縄の復帰に伴う特別措置に関する法律及び沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令の規定に基づき、沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -871,7 +868,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>削除</Sentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -997,7 +994,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>削除</Sentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2160,7 +2157,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和七年三月三一日財務省令第三四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（令和七年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第一</AppdxStyleTitle>
       <RelatedArticleNum>（第二十条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2168,36 +2174,48 @@
           <Fig src="./pict/2JH00000183965.jpg"/>
         </Style>
       </StyleStruct>
+      <StyleStruct>
+        <Style>
+          <Sentence Num="1" WritingMode="vertical">縦　四十ミリメートル</Sentence>
+          <Sentence Num="2" WritingMode="vertical">横　五十ミリメートル</Sentence>
+        </Style>
+      </StyleStruct>
     </AppdxStyle>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">縦　四十ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">横　五十ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
-    </AppdxStyle>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">第一号</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxStyle Num="2">
+      <StyleStruct>
+        <Style>
+          <Sentence Num="1" WritingMode="vertical">第一号</Sentence>
+        </Style>
+      </StyleStruct>
       <StyleStruct>
         <Style>
           <Fig src="./pict/2JH00000183967.jpg"/>
         </Style>
       </StyleStruct>
-    </AppdxStyle>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">甲　直径五十ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">乙　直径二十五ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="3"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="3" WritingMode="vertical">丙　直径十五ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">第二号</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxStyle Num="2">
+      <StyleStruct>
+        <Style>
+          <Sentence Num="1" WritingMode="vertical">甲　直径五十ミリメートル</Sentence>
+          <Sentence Num="2" WritingMode="vertical">乙　直径二十五ミリメートル</Sentence>
+          <Sentence Num="3" WritingMode="vertical">丙　直径十五ミリメートル</Sentence>
+          <Sentence Num="4" WritingMode="vertical">第二号</Sentence>
+        </Style>
+      </StyleStruct>
       <StyleStruct>
         <Style>
           <Fig src="./pict/2JH00000183968.jpg"/>
         </Style>
       </StyleStruct>
+      <StyleStruct>
+        <Style>
+          <Sentence Num="1" WritingMode="vertical">甲　直径五十ミリメートル</Sentence>
+          <Sentence Num="2" WritingMode="vertical">乙　直径二十五ミリメートル</Sentence>
+          <Sentence Num="3" WritingMode="vertical">丙　直径十五ミリメートル</Sentence>
+        </Style>
+      </StyleStruct>
     </AppdxStyle>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">甲　直径五十ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">乙　直径二十五ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="3"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="3" WritingMode="vertical">丙　直径十五ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第三</AppdxStyleTitle>
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2206,7 +2224,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第四</AppdxStyleTitle>
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -2214,10 +2232,14 @@
           <Fig src="./pict/2JH00000183969.jpg"/>
         </Style>
       </StyleStruct>
+      <StyleStruct>
+        <Style>
+          <Sentence Num="1" WritingMode="vertical">長径　四十ミリメートル</Sentence>
+          <Sentence Num="2" WritingMode="vertical">短径　三十ミリメートル</Sentence>
+        </Style>
+      </StyleStruct>
     </AppdxStyle>
-    <AppdxNote Num="1"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="1" WritingMode="vertical">長径　四十ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxNote Num="2"><AppdxNoteTitle/><NoteStruct><Note><Sentence Num="2" WritingMode="vertical">短径　三十ミリメートル</Sentence></Note></NoteStruct></AppdxNote>
-    <AppdxStyle Num="1">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（用紙の大きさは日本産業規格Ｂ列５）</RelatedArticleNum>
       <StyleStruct>
@@ -2226,7 +2248,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第二</AppdxStyleTitle>
       <RelatedArticleNum>（用紙の大きさは日本工業規格Ｂ列５）</RelatedArticleNum>
       <StyleStruct>
@@ -2235,7 +2257,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第三</AppdxStyleTitle>
       <StyleStruct>
         <Style>
@@ -2243,7 +2265,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第四</AppdxStyleTitle>
       <StyleStruct>
         <Style>
