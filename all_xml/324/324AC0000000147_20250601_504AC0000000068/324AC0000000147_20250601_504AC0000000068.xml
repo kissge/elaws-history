@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="147" Year="24" PromulgateMonth="05" PromulgateDay="31"><LawNum>昭和二十四年法律第百四十七号</LawNum><LawBody><LawTitle Kana="きょういくしょくいんめんきょほう" Abbrev="教育免許法" AbbrevKana="き">教育職員免許法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="24" Num="147" PromulgateMonth="05" PromulgateDay="31" LawType="Act"><LawNum>昭和二十四年法律第百四十七号</LawNum><LawBody><LawTitle Kana="きょういくしょくいんめんきょほう" Abbrev="教育免許法" AbbrevKana="き">教育職員免許法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1552,7 +1552,7 @@
                 <Sentence Num="1" WritingMode="vertical">一〇</Sentence>
               </TableColumn>
             </TableRow>
-          </Table>
+         </Table>
         <Remarks>
           <RemarksLabel LineBreak="true">備考</RemarksLabel>
           <Item Num="1">
@@ -3599,6 +3599,41 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年四月二五日法律第二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和七年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第二十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
