@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="118" Year="15" PromulgateMonth="07" PromulgateDay="16"><LawNum>平成十五年法律第百十八号</LawNum><LawBody><LawTitle Kana="ちほうどくりつぎょうせいほうじんほう" Abbrev="" AbbrevKana="">地方独立行政法人法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="15" Num="118" PromulgateMonth="07" PromulgateDay="16" LawType="Act"><LawNum>平成十五年法律第百十八号</LawNum><LawBody><LawTitle Kana="ちほうどくりつぎょうせいほうじんほう" Abbrev="" AbbrevKana="">地方独立行政法人法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -765,8 +765,32 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">大学又は大学及び高等専門学校の設置及び管理を行うこと並びに当該大学又は大学及び高等専門学校における技術に関する研究の成果の活用を促進する事業であって政令で定めるものを実施する者に対し、出資を行うこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">大学又は大学及び高等専門学校（以下この号において「大学等」という。）の設置及び管理を行うこと並びに次に掲げる出資又は援助を行うこと。</Sentence>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該大学等を設置する地方独立行政法人から委託を受けて、当該地方独立行政法人が保有する教育研究に係る施設、設備又は知的基盤（科学技術・イノベーション創出の活性化に関する法律（平成二十年法律第六十三号）第二十四条の四に規定する知的基盤をいう。）の管理及び当該施設、設備又は知的基盤の他の大学、研究機関その他の者による利用の促進に係る事業を実施する者に対して行う出資</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該大学等における研究の成果を活用する事業（当該大学等における技術に関する研究の成果の提供を受けて商品を開発し、若しくは生産し、又は役務を開発し、若しくは提供する事業を除く。）であって政令で定めるものを実施する者に対して行う出資</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該大学等における技術に関する研究の成果の活用を促進する事業であって政令で定めるものを実施する者に対して行う出資（ニに該当するものを除く。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">産業競争力強化法（平成二十五年法律第九十八号）第二十一条の規定による出資並びに人的及び技術的援助</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
@@ -9703,6 +9727,36 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月一六日法律第三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第二条（地方自治法第十六条第四項の改正規定に限る。）及び第五条の規定並びに次項の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（地方独立行政法人法の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">地方公共団体は、この法律の施行の日前においても、地方独立行政法人法第八十条の規定により読み替えられた同法第七条又は第八条第二項の規定により、その議会の議決を経て、第四条の規定による改正後の地方独立行政法人法第二十一条第二号に掲げる業務のうち同号イ、ロ若しくはニに掲げる出資若しくは援助に関するものを規定した定款を定め、又は定款に当該業務を規定する変更を行い、総務大臣及び文部科学大臣又は都道府県知事の認可を受けることができる。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この場合において、当該認可の効力は、同日から生ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
