@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="028" Year="50" PromulgateMonth="05" PromulgateDay="01"><LawNum>昭和五十年法律第二十八号</LawNum><LawBody><LawTitle Kana="さぎょうかんきょうそくていほう" Abbrev="作環法" AbbrevKana="さ">作業環境測定法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="50" Num="028" PromulgateMonth="05" PromulgateDay="01" LawType="Act"><LawNum>昭和五十年法律第二十八号</LawNum><LawBody><LawTitle Kana="さぎょうかんきょうそくていほう" Abbrev="作環法" AbbrevKana="さ">作業環境測定法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -2220,7 +2220,59 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和七年五月一四日法律第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中労働安全衛生法第三条第三項及び第五十三条第一項第五号の改正規定並びに次条から附則第四条までの規定並びに附則第九条及び第十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中労働安全衛生法第二条第四号の改正規定、同法第六十五条の四を同法第六十五条の五とし、同法第六十五条の三を同法第六十五条の四とし、同法第六十五条の二の次に一条を加える改正規定及び同法第百十九条第一号の改正規定（「第六十五条の四」を「第六十五条の三第一項、第六十五条の五」に改める部分に限る。）及び第三条の規定（作業環境測定法第二十二条、第二十九条から第三十二条まで及び第三十四条第一項の改正規定を除く。）並びに附則第十一条中登録免許税法（昭和四十二年法律第三十五号）別表第一第八十四号（一）の改正規定及び附則第十三条中労働者派遣法第四十五条第三項の改正規定（前号に掲げる改正規定を除く。）、同条第六項の改正規定及び労働者派遣法第四十七条第一項の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和八年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十五条の二関係）</RelatedArticleNum>
       <TableStruct>
@@ -2255,7 +2307,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第三十二条関係）</RelatedArticleNum>
       <TableStruct>
@@ -2291,7 +2343,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第三十二条関係）</RelatedArticleNum>
       <TableStruct>
@@ -2366,7 +2418,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <Item Num="1">
