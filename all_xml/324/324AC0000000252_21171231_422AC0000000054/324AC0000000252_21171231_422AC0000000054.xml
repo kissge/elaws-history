@@ -60,7 +60,7 @@
           <Item Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣官房副長官補、内閣広報官及び内閣情報官</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣官房副長官補、内閣広報官、内閣情報官及び内閣サイバー官</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="9">
@@ -121,6 +121,12 @@
             <ItemTitle>十四の三</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">カジノ管理委員会の委員長及び常勤の委員</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14_4">
+            <ItemTitle>十四の四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">サイバー通信情報監理委員会の委員長及び常勤の委員</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="15">
@@ -367,6 +373,12 @@
             <ItemTitle>四十七の三</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">カジノ管理委員会の非常勤の委員</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="47_4">
+            <ItemTitle>四十七の四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">サイバー通信情報監理委員会の非常勤の委員</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="48">
@@ -4408,6 +4420,63 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二三日法律第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、重要電子計算機に対する不正な行為による被害の防止に関する法律（令和七年法律第　　　号）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定、第三条中特別職の職員の給与に関する法律第一条第八号の改正規定及び同法別表第一の改正規定（「及び内閣情報官」を「、内閣情報官及び内閣サイバー官」に改める部分に限る。）、第五条、第七条、第十二条及び第十五条の規定並びに第十七条中内閣府設置法第四条第一項に一号を加える改正規定及び同条第三項第二十七号の六の次に一号を加える改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">重要電子計算機に対する不正な行為による被害の防止に関する法律附則第一条第二号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（前号に掲げる改正規定を除く。）、第八条から第十一条まで及び第十四条の規定並びに第十七条の規定（同号に掲げる改正規定を除く。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">重要電子計算機に対する不正な行為による被害の防止に関する法律附則第一条第三号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
@@ -4463,9 +4532,10 @@
               <Sentence Num="6" WritingMode="vertical">デジタル監</Sentence>
               <Sentence Num="7" WritingMode="vertical">個人情報保護委員会委員長</Sentence>
               <Sentence Num="8" WritingMode="vertical">カジノ管理委員会委員長</Sentence>
-              <Sentence Num="9" WritingMode="vertical">公害等調整委員会委員長</Sentence>
-              <Sentence Num="10" WritingMode="vertical">運輸安全委員会委員長</Sentence>
-              <Sentence Num="11" WritingMode="vertical">侍従長</Sentence>
+              <Sentence Num="9" WritingMode="vertical">サイバー通信情報監理委員会委員長</Sentence>
+              <Sentence Num="10" WritingMode="vertical">公害等調整委員会委員長</Sentence>
+              <Sentence Num="11" WritingMode="vertical">運輸安全委員会委員長</Sentence>
+              <Sentence Num="12" WritingMode="vertical">侍従長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一、二一六、〇〇〇円</Sentence>
@@ -4473,7 +4543,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">内閣官房副長官補、内閣広報官及び内閣情報官</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣官房副長官補、内閣広報官、内閣情報官及び内閣サイバー官</Sentence>
               <Sentence Num="2" WritingMode="vertical">常勤の内閣総理大臣補佐官</Sentence>
               <Sentence Num="3" WritingMode="vertical">常勤の大臣補佐官</Sentence>
               <Sentence Num="4" WritingMode="vertical">国家公務員倫理審査会の常勤の委員</Sentence>
@@ -4490,17 +4560,18 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">個人情報保護委員会の常勤の委員</Sentence>
               <Sentence Num="2" WritingMode="vertical">カジノ管理委員会の常勤の委員</Sentence>
-              <Sentence Num="3" WritingMode="vertical">公害等調整委員会の常勤の委員</Sentence>
-              <Sentence Num="4" WritingMode="vertical">中央労働委員会の常勤の公益を代表する委員</Sentence>
-              <Sentence Num="5" WritingMode="vertical">運輸安全委員会の常勤の委員</Sentence>
-              <Sentence Num="6" WritingMode="vertical">総合科学技術・イノベーション会議の常勤の議員</Sentence>
-              <Sentence Num="7" WritingMode="vertical">原子力委員会委員長</Sentence>
-              <Sentence Num="8" WritingMode="vertical">再就職等監視委員会委員長</Sentence>
-              <Sentence Num="9" WritingMode="vertical">証券取引等監視委員会委員長</Sentence>
-              <Sentence Num="10" WritingMode="vertical">公認会計士・監査審査会会長</Sentence>
-              <Sentence Num="11" WritingMode="vertical">中央更生保護審査会委員長</Sentence>
-              <Sentence Num="12" WritingMode="vertical">社会保険審査会委員長</Sentence>
-              <Sentence Num="13" WritingMode="vertical">東宮大夫</Sentence>
+              <Sentence Num="3" WritingMode="vertical">サイバー通信情報監理委員会の常勤の委員</Sentence>
+              <Sentence Num="4" WritingMode="vertical">公害等調整委員会の常勤の委員</Sentence>
+              <Sentence Num="5" WritingMode="vertical">中央労働委員会の常勤の公益を代表する委員</Sentence>
+              <Sentence Num="6" WritingMode="vertical">運輸安全委員会の常勤の委員</Sentence>
+              <Sentence Num="7" WritingMode="vertical">総合科学技術・イノベーション会議の常勤の議員</Sentence>
+              <Sentence Num="8" WritingMode="vertical">原子力委員会委員長</Sentence>
+              <Sentence Num="9" WritingMode="vertical">再就職等監視委員会委員長</Sentence>
+              <Sentence Num="10" WritingMode="vertical">証券取引等監視委員会委員長</Sentence>
+              <Sentence Num="11" WritingMode="vertical">公認会計士・監査審査会会長</Sentence>
+              <Sentence Num="12" WritingMode="vertical">中央更生保護審査会委員長</Sentence>
+              <Sentence Num="13" WritingMode="vertical">社会保険審査会委員長</Sentence>
+              <Sentence Num="14" WritingMode="vertical">東宮大夫</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一、〇四九、〇〇〇円</Sentence>
