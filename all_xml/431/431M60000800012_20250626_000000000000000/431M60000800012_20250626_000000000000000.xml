@@ -1218,11 +1218,18 @@
           </Paragraph>
         </Article>
         <Article Num="46">
+          <ArticleCaption>（立入検査の身分証明書）</ArticleCaption>
           <ArticleTitle>第四十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十条第三項（法第三十一条第三項において準用する場合を含む。）において準用する船舶安全法第二十五条の六十一第二項の職員の身分を示す証票は第十九号様式によるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十四条第三項の職員の身分を示す証明書は、第二十号様式によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1263,7 +1270,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前各項の規定による手数料は、手数料の額に相当する収入印紙を手数料納付書（第十九号様式）に貼って納付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定による手数料は、手数料の額に相当する収入印紙を手数料納付書（第二十一号様式）に貼って納付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1394,7 +1401,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前各項の規定による手数料は、手数料の額に相当する収入印紙を手数料納付書（第十九号様式）に貼って納付しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前各項の規定による手数料は、手数料の額に相当する収入印紙を手数料納付書（第二十一号様式）に貼って納付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1410,8 +1417,18 @@
         </Paragraph>
       </Article>
       <Article Num="8">
-        <ArticleCaption>（権限の委任）</ArticleCaption>
+        <ArticleCaption>（立入検査の身分証明書）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法附則第六条第三項において準用する法第三十条第三項において準用する船舶安全法第二十五条の六十一第二項の職員の身分を示す証票は附則第一号様式によるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（権限の委任）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1591,6 +1608,15 @@
           </Table>
         </TableStruct>
       </SupplProvisionAppdxTable>
+      <SupplProvisionAppdxStyle>
+        <SupplProvisionAppdxStyleTitle WritingMode="vertical">附則第一号様式</SupplProvisionAppdxStyleTitle>
+        <RelatedArticleNum>（附則第八条関係）</RelatedArticleNum>
+        <StyleStruct>
+          <Style>
+            <Fig src="./pict/2FH00000044904.pdf"/>
+          </Style>
+        </StyleStruct>
+      </SupplProvisionAppdxStyle>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -1630,20 +1656,6 @@
           <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和六年三月二九日国土交通省令第二六号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和六年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条及び附則第九十条の規定は、船舶の再資源化解体の適正な実施に関する法律（平成三十年法律第六十一号）の施行の日（令和七年六月二十六日）から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和七年二月二八日国土交通省令第一〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -2391,10 +2403,28 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第十九号様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000044901.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第二十号様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000044902.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第二十一号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第四十七条、附則第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000072486.pdf"/>
+          <Fig src="./pict/2FH00000044903.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="34" Num="055" PromulgateMonth="9" PromulgateDay="29" LawType="MinisterialOrdinance"><LawNum>昭和三十四年総理府令第五十五号</LawNum><LawBody><LawTitle Kana="きけんぶつのきせいにかんするきそく" Abbrev="" AbbrevKana="">危険物の規制に関する規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="34" Num="055" PromulgateMonth="09" PromulgateDay="29" LawType="MinisterialOrdinance"><LawNum>昭和三十四年総理府令第五十五号</LawNum><LawBody><LawTitle Kana="きけんぶつのきせいにかんするきそく" Abbrev="" AbbrevKana="">危険物の規制に関する規則</LawTitle>
     <EnactStatement>消防法第三章及び危険物の規制に関する政令の規定に基き、並びにこれらを実施するため、危険物の規制に関する総理府令を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -1342,8 +1342,18 @@
           </Paragraph>
         </Article>
         <Article Num="13_2_3">
-          <ArticleCaption>（避雷設備）</ArticleCaption>
+          <ArticleCaption>（適当な傾斜及び貯留設備並びに油分離装置を設けなくてもよい場合）</ArticleCaption>
           <ArticleTitle>第十三条の二の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">令第九条第一項第十二号の総務省令で定める場合は、前条第二号の措置を講じることにより、漏れた危険物をとどめることができる場合とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_2_4">
+          <ArticleCaption>（避雷設備）</ArticleCaption>
+          <ArticleTitle>第十三条の二の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1702,7 +1712,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">令第十条第一項第四号の総務省令で定める貯蔵倉庫は、次に掲げる基準のすべてに適合する貯蔵倉庫（令第十条第一項第二号の貯蔵倉庫をいう。以下同じ。）とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令第十条第一項第四号の総務省令で定める貯蔵倉庫は、次に掲げる基準の全てに適合する貯蔵倉庫（令第十条第一項第二号の貯蔵倉庫をいう。以下同じ。）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1719,7 +1729,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">貯蔵倉庫には、第十三条の二の三に規定する避雷設備を設けること。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">貯蔵倉庫には、第十三条の二の四に規定する避雷設備を設けること。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、周囲の状況によつて安全上支障がない場合においては、この限りでない。</Sentence>
               </ItemSentence>
             </Item>
@@ -1736,7 +1746,14 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">架台は、不燃材料で造るとともに、堅固な基礎に固定すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">架台は不燃材料で造ること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="1_2">
+              <ItemTitle>一の二</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">架台は堅固な基礎に固定すること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、告示で定める架台にあつては、この限りでない。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -2059,13 +2076,13 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前条に規定する危険物を用いた蓄電池（以下次号及び第三十五条の二第三項第一号において単に「蓄電池」という。）の充電率は、六十パーセント以下とすること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条に規定する危険物を用いた蓄電池（以下この条及び第三十五条の二第三項第一号において単に「蓄電池」という。）の充電率は、六十パーセント以下とすること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">蓄電池の貯蔵方法は、水が浸透する素材で包装し、又は梱包するほか、次のいずれかの方法とすること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">蓄電池の貯蔵方法は、水が浸透する素材で包装し、又はこん包するほか、次のいずれかの方法とすること。</Sentence>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -2137,8 +2154,256 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">消火設備は、第三十五条の二第三項に定めるところにより設けること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">消火設備は、第三十五条の二第三項各号に定めるところにより設けること。</Sentence>
               </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の屋内貯蔵所のうち、次の各号に掲げる基準に適合するもの（法第十七条第一項の政令若しくはこれに基づく命令又は同条第二項の規定に基づく条例で定める技術上の基準（法第十七条の二の五第一項前段又は第十七条の三第一項前段に規定する場合には、それぞれ法第十七条の二の五第一項後段又は第十七条の三第一項後段の規定により適用されることとなる技術上の基準とする。以下「設備等技術基準」という。）の例により、消防用設備等（法第十七条第一項の消防用設備等をいう。以下同じ。）が設置され、及び維持されている建築物に限る。）については、令第十条第一項第一号、第二号及び第四号から第十五号までの規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">貯蔵倉庫の見やすい箇所にリチウムイオン蓄電池により貯蔵される危険物のみを貯蔵し、又は取り扱う屋内貯蔵所である旨を表示すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">貯蔵倉庫は、壁、柱、床、はり、屋根及び階段を不燃材料で造ること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">貯蔵倉庫は、各階の床を地盤面以上に設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">貯蔵倉庫には、危険物を貯蔵し、又は取り扱うために必要な採光、照明及び換気の設備を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">蓄電池の充電率は、六十パーセント以下とすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">蓄電池は、告示で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">蓄電池の周囲三メートル以内に可燃物（蓄電池又は蓄電池の包装材若しくはこん包材（水が浸透する素材のものであつて、蓄電池を包装し、又はこん包しているものに限る。）を除く。）を置かないこと。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次号に規定する貯蔵場所にあつては、この限りでない。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">蓄電池を貯蔵する場所（一の蓄電池と他の蓄電池との水平距離が三メートル未満となる場所をいう。）であつて、当該蓄電池に用いられる危険物の数量の総和が指定数量以上となるもの（以下この条において「貯蔵場所」という。）は、当該蓄電池の充電率の区分に応じ、第二十八条の五十九の二第二項第八号イ又はロの集積場所の規定の例によること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">貯蔵場所（前号においてその例によるものとされる第二十八条の五十九の二第二項第八号イ（１）の空地を含む。）の床面積（第三十五条の二第四項第二号の規定により第二種のスプリンクラー設備を設けた部分の床面積の二分の一に相当する床面積を除く。以下この号において同じ。）の合計が千五百平方メートルを超える場合は、次に定めるところにより、当該場所を床面積の合計千五百平方メートル以内ごとに準耐火構造（建築基準法第二条第七号の二の準耐火構造をいう。以下同じ。）の壁（特定防火設備（随時開けることができる自動閉鎖のもの又は煙感知器の作動と連動して閉鎖するものに限る。）を設けた出入口以外の開口部を有しないものに限る。）で区画すること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定防火設備の周囲に、幅三メートル以上の空地を保有すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">一の区画を形成する特定防火設備のうち、煙感知器の作動と連動して閉鎖するものを設ける区画にあつては、次の要件を満たすこと。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該特定防火設備の部分の水平投影の長さが当該区画の水平投影の長さの二分の一未満であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一の煙感知器が作動した際に形成されることとなる区画に存する全ての特定防火設備が閉鎖されるよう措置すること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">区画の各部分から、直接地上に通ずる出入口、地上に通ずる直通階段（連結送水管の放水口を設けたものに限る。）の出入口、バルコニー（水平投影面積が十平方メートル以上で、かつ、形状等が消防活動に支障がないものに限る。）が設けられた開口部（特定防火設備を設けたものに限る。）その他の消防隊による活動の拠点となる場所の開口部までの水平距離が五十メートル以下となるようにすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十五条の二第四項各号に定めるところにより消火設備を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の屋内貯蔵所のうち、次の各号に掲げる基準に適合するもの（建築物の一部に存するものであつて、当該建築物の屋内貯蔵所の用に供する部分に設備等技術基準の例により、当該建築物の屋内貯蔵所の用に供する部分以外の部分に設備等技術基準に従つて、消防用設備等が設置され、及び維持されているものに限る。）については、令第十条第一項第一号、第二号及び第三号の二から第十五号までの規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第五号から第十号までの規定の例によること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">危険物を取り扱う建築物の見やすい箇所にリチウムイオン蓄電池により貯蔵される危険物のみを貯蔵し、又は取り扱う屋内貯蔵所が存する旨を表示すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">屋内貯蔵所は、壁、柱、床、はり、屋根及び階段が不燃材料で造られた建築物に設置すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の屋内貯蔵所の用に供する部分は、各階の床を地盤面以上に設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の屋内貯蔵所の用に供する部分は、開口部を有しない準耐火構造の床又は出入口（次のイ又はロに掲げる特定防火設備を設けたものに限る。）以外の開口部を有しない準耐火構造の壁で当該建築物の他の部分と区画されたものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">随時開けることができる自動閉鎖の特定防火設備</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">煙感知器の作動と連動して閉鎖する特定防火設備で次に掲げる基準に適合するもの</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一の特定防火設備の面積は、三十平方メートル以下であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">特定防火設備の部分の水平投影の長さが当該区画の水平投影の長さの二分の一未満であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一の区画に特定防火設備を複数設ける場合は、次に掲げる基準に適合するものであること。</Sentence>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">特定防火設備相互間の距離を三メートル以上とすること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">一の特定防火設備の作動に係る煙感知器の作動により、区画を形成する全ての特定防火設備が作動すること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+                <Subitem2 Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">特定防火設備の周囲に、幅三メートル以上の空地を保有すること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の屋内貯蔵所の用に供する部分には、危険物を貯蔵し、又は取り扱うために必要な採光、照明及び換気の設備を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の屋内貯蔵所の用に供する部分以外の部分は、消防法施行令（昭和三十六年政令第三十七号）別表第一（十二）項イ又は（十四）項に掲げる防火対象物の用途以外の用に供しないもので、次のいずれかに該当するものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その管理について権原を有する者が建築物の屋内貯蔵所の用に供する部分の管理について権原を有する者と同一であること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その管理について権原を有する者と建築物の屋内貯蔵所の用に供する部分の管理について権原を有する者との協議により、火災その他の災害が発生した場合における避難その他防火対象物の全体についての防火管理上必要な業務に関する事項を定めた文書が作成されていること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の屋内貯蔵所の用に供する部分以外の部分について、消防法施行令第一条の二第二項後段の規定により同令別表第一（十二）項イ又は（十四）項に掲げる防火対象物の用途に含まれるものとして取り扱われる部分が、令第九条第一項第一号イ又はロに掲げる建築物等の用途（以下「保安対象用途」という。）に供されるものである場合は、次のイ及びロによること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">屋内貯蔵所の用に供する部分から保安対象用途に供する部分までの間に、十メートル（保安対象用途が令第九条第一項第一号ロに掲げる建築物等の用途であるときは、三十メートル）以上の距離を保つこと。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の（１）及び（２）のいずれにも該当する場合は、この限りでない。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">指定数量の倍数が三十未満であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">屋内貯蔵所の用に供する部分は、壁、柱、床、はり及び屋根（上階がある場合には、上階の床）を耐火構造とするとともに、出入口（随時開けることができる自動閉鎖の特定防火設備が設けられているものに限る。）以外の開口部を有しない耐火構造（厚さ七十ミリメートル以上の鉄筋コンクリート造又はこれと同等以上の強度を有するものに限る。）の床又は壁で当該建築物の他の部分と区画されたものであること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保安対象用途に供する部分からの避難経路は、次の（１）及び（２）によること。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">屋内貯蔵所の用に供する部分を経由せずに地上に通ずる出入口に避難できること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">屋内貯蔵所の用に供する部分に通ずる開口部が設けられた居室又は廊下、階段その他の避難施設を経由せずに地上に通ずる出入口に避難できること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
             </Item>
           </Paragraph>
         </Article>
@@ -3464,68 +3729,51 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">高圧ガス保安法第二十条第一項又は第三項の規定の適用を受ける高圧ガスの製造のための施設（水素等供給等促進法第十六条第一項において準用する高圧ガス保安法第二十条第一項又は第三項の規定の適用を受ける高圧低炭素水素等ガスの製造のための施設を含む。）である圧力タンク</Sentence>
+                <Sentence Num="1" WritingMode="vertical">高圧ガス保安法第二十条第一項若しくは第三項の規定の適用を受ける高圧ガスの製造のための施設（水素等供給等促進法第十六条第一項において準用する高圧ガス保安法第二十条第一項又は第三項の規定の適用を受ける高圧低炭素水素等ガスの製造のための施設を含む。）又は同法第三十九条の二十二第一項の規定の適用を受ける高圧ガスの製造のための施設である圧力タンク</Sentence>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">一般高圧ガス保安規則又は液化石油ガス保安規則の適用を受けるもの（ロに掲げるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一般高圧ガス保安規則の適用を受けるもの（ニに掲げるものを除く。）</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">最大常用圧力の一・五倍以上の圧力で行う水圧試験</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同規則第六条第一項第十一号に定めるところにより行う水圧試験又は同規則第九十九条の規定に基づき経済産業大臣が認めたところにより行う水圧試験</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">高圧ガス保安法第五十六条の三第一項に定める特定設備に当たるもの</Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">液化石油ガス保安規則の適用を受けるもの（ニに掲げるものを除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">同規則第六条第一項第十七号に定めるところにより行う水圧試験又は同規則第九十七条の規定に基づき経済産業大臣が認めたところにより行う水圧試験</Sentence>
+                  </Column>
                 </Subitem1Sentence>
-                <Subitem2 Num="1">
-                  <Subitem2Title>（１）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">設計圧力が〇・四三メガパスカル以下のもの（（４）に掲げるものを除く。）</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">設計圧力の二倍の圧力で行う水圧試験</Sentence>
-                    </Column>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="2">
-                  <Subitem2Title>（２）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">設計圧力が〇・四三メガパスカルを超え一・五メガパスカル以下のもの（（４）に掲げるものを除く。）</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">設計圧力の一・三倍に〇・三メガパスカルを加えた圧力で行う水圧試験</Sentence>
-                    </Column>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="3">
-                  <Subitem2Title>（３）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">設計圧力が一・五メガパスカルを超えるもの（（４）に掲げるものを除く。）</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">設計圧力の一・五倍の圧力で行う水圧試験</Sentence>
-                    </Column>
-                  </Subitem2Sentence>
-                </Subitem2>
-                <Subitem2 Num="4">
-                  <Subitem2Title>（４）</Subitem2Title>
-                  <Subitem2Sentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">高合金鋼を材料とするもの</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">設計圧力の一・五倍の圧力で行う水圧試験</Sentence>
-                    </Column>
-                  </Subitem2Sentence>
-                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">コンビナート等保安規則（昭和六十一年通商産業省令第八十八号）の適用を受けるもの（ニに掲げるものを除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">同規則第五条第一項第十七号に定めるところにより行う水圧試験又は同規則第五十四条の規定に基づき経済産業大臣が認めたところにより行う水圧試験</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">高圧ガス保安法第五十六条の三第一項に定める特定設備に当たるもの</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">特定設備検査規則（昭和五十一年通商産業省令第四号）第三十四条に定めるところにより行う水圧試験又は同規則第五十一条の規定に基づき経済産業大臣が認可したところにより行う水圧試験</Sentence>
+                  </Column>
+                </Subitem1Sentence>
               </Subitem1>
             </Item>
             <Item Num="2">
@@ -3535,48 +3783,20 @@
                   <Sentence Num="1" WritingMode="vertical">労働安全衛生法（昭和四十七年法律第五十七号）別表第二第二号又は労働安全衛生法施行令（昭和四十七年政令第三百十八号）第十二条第一項第二号に掲げる機械等である圧力タンク</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">設計圧力の一・五倍の圧力に温度補正係数（水圧試験を行うときの温度における当該圧力タンクの材料の許容引張応力を使用温度における当該圧力タンクの材料の許容引張応力で除して得た値のうち最小の値）を乗じた圧力で行う水圧試験</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">圧力容器構造規格（平成十五年厚生労働省告示第百九十六号）第六十三条第一項に定めるところにより行う水圧試験</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">労働安全衛生法別表第二第四号に掲げる機械等である圧力タンク</Sentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">労働安全衛生法別表第二第四号に掲げる機械等である圧力タンク</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">小型ボイラー及び小型圧力容器構造規格（昭和五十年労働省告示第八十四号）第三十八条に定めるところにより行う水圧試験</Sentence>
+                </Column>
               </ItemSentence>
-              <Subitem1 Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">設計圧力が〇・一メガパスカル以下のもの</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">〇・二メガパスカルの圧力で行う水圧試験</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">設計圧力が〇・一メガパスカルを超え〇・四二メガパスカル以下のもの</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">設計圧力の二倍の圧力で行う水圧試験</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">設計圧力が〇・四二メガパスカルを超えるもの</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">設計圧力の一・三倍に〇・三メガパスカルを加えた圧力で行う水圧試験</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
             </Item>
           </Paragraph>
         </Article>
@@ -4287,6 +4507,16 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">令第十一条第一項第十号の二ルの総務省令で定める措置は、第十三条の二の二第一号又は第二号に掲げる措置とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21_3_3">
+          <ArticleCaption>（ポンプ設備において適当な傾斜及び貯留設備並びに油分離装置を設けなくてもよい場合）</ArticleCaption>
+          <ArticleTitle>第二十一条の三の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">令第十一条第一項第十号の二ルの総務省令で定める場合は、前条の措置（同条に規定する第十三条の二の二第二号に掲げる措置に限る。）を講じることにより、漏れた危険物をとどめることができる場合とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6878,7 +7108,7 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">消防法施行令（昭和三十六年政令第三十七号）別表第一（一）項、（三）項、（四）項、（八）項、（十一）項から（十三）項イまで、（十四）項及び（十五）項に掲げる防火対象物の用途（前各号に掲げるものを除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">消防法施行令別表第一（一）項、（三）項、（四）項、（八）項、（十一）項から（十三）項イまで、（十四）項及び（十五）項に掲げる防火対象物の用途（前各号に掲げるものを除く。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -10215,7 +10445,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">移送取扱所（危険物を移送する配管等の部分を除く。）には、第十三条の二の三に定める避雷設備を設けなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">移送取扱所（危険物を移送する配管等の部分を除く。）には、第十三条の二の四に定める避雷設備を設けなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、周囲の状況によつて安全上支障がない場合においては、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -10503,6 +10733,35 @@
                 </Column>
               </ItemSentence>
             </Item>
+            <Item Num="5_2">
+              <ItemTitle>五の二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">令第十九条第二項第五号の二に掲げる一般取扱所</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">以下のイからハまでに掲げる一般取扱所（建築物に存するもの（建築物の一部に存するものを除く。）にあつては、当該建築物に設備等技術基準の例により、建築物の一部に存するものにあつては、当該建築物の一般取扱所の用に供する部分に設備等技術基準の例により、当該建築物の一般取扱所の用に供する部分以外の部分に設備等技術基準に従つて、消防用設備等が設置され、及び維持されているものに限る。）</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">危険物（リチウムイオン蓄電池により貯蔵される第二類又は第四類の危険物に限る。ロ及びハにおいて同じ。）を用いた蓄電池を製造する作業（告示で定める基準に適合する蓄電池を製造する作業に限る。）（蓄電池又は蓄電池を用いた製品を組み立てる作業を除き、蓄電池を製造する作業に付随して当該蓄電池を充電し、又は放電する作業を含む。）を専ら行う一般取扱所</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">危険物を用いた蓄電池又は蓄電池を用いた製品を組み立てる作業（蓄電池又は蓄電池を用いた製品を組み立てる作業に付随して当該蓄電池を充電し、又は放電する作業を含む。）を専ら行う一般取扱所</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">危険物を用いた蓄電池を充電し、又は放電する作業（当該蓄電池の品質の検査等に伴うものに限る。）（イ又はロの作業に付随するものを除く。）を専ら行う一般取扱所</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
@@ -10550,7 +10809,7 @@
           </Paragraph>
         </Article>
         <Article Num="28_55">
-          <ArticleCaption>（専ら吹付塗装作業等を行う一般取扱所の特例）</ArticleCaption>
+          <ArticleCaption>（吹付塗装作業等を専ら行う一般取扱所の特例）</ArticleCaption>
           <ArticleTitle>第二十八条の五十五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -10614,7 +10873,7 @@
           </Paragraph>
         </Article>
         <Article Num="28_55_2">
-          <ArticleCaption>（専ら洗浄作業を行う一般取扱所の特例）</ArticleCaption>
+          <ArticleCaption>（洗浄作業を専ら行う一般取扱所の特例）</ArticleCaption>
           <ArticleTitle>第二十八条の五十五の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -10692,7 +10951,7 @@
           </Paragraph>
         </Article>
         <Article Num="28_56">
-          <ArticleCaption>（専ら焼入れ作業等を行う一般取扱所の特例）</ArticleCaption>
+          <ArticleCaption>（焼入れ作業等を専ら行う一般取扱所の特例）</ArticleCaption>
           <ArticleTitle>第二十八条の五十六</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -10920,7 +11179,7 @@
           </Paragraph>
         </Article>
         <Article Num="28_58">
-          <ArticleCaption>（専ら充塡作業を行う一般取扱所の特例）</ArticleCaption>
+          <ArticleCaption>（充塡作業を専ら行う一般取扱所の特例）</ArticleCaption>
           <ArticleTitle>第二十八条の五十八</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -10978,7 +11237,7 @@
           </Paragraph>
         </Article>
         <Article Num="28_59">
-          <ArticleCaption>（専ら詰替え作業を行う一般取扱所の特例）</ArticleCaption>
+          <ArticleCaption>（詰替え作業を専ら行う一般取扱所の特例）</ArticleCaption>
           <ArticleTitle>第二十八条の五十九</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -11157,6 +11416,507 @@
                 <Sentence Num="1" WritingMode="vertical">屋根等の水平投影面積は、一般取扱所の敷地面積の三分の一以下であること。</Sentence>
               </ItemSentence>
             </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="28_59_2">
+          <ArticleCaption>（危険物を用いた蓄電池等を製造する作業を専ら行う一般取扱所等の特例）</ArticleCaption>
+          <ArticleTitle>第二十八条の五十九の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二の一般取扱所に係る令第十九条第二項の規定による同条第一項に掲げる基準の特例は、この条の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二イの一般取扱所のうち、次の各号に掲げる基準に適合するものについては、令第十九条第一項において準用する令第九条第一項第一号、第二号、第五号から第九号まで、第十二号及び第十九号の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">一般取扱所の見やすい箇所にリチウムイオン蓄電池により貯蔵される危険物を用いた蓄電池を製造し、組み立て、又は充電し、若しくは放電する作業等のために危険物を取り扱う一般取扱所である旨を表示すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">危険物を取り扱う建築物は、壁、柱、床、はり、屋根及び階段を不燃材料で造ること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">液状の危険物を取り扱う設備の周囲（第五号の空地を含む。）の床は、危険物が浸透しない構造とするとともに、適当な傾斜を付け、かつ、貯留設備及び当該床の周囲に排水溝を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">危険物を取り扱う設備は、当該設備の内部で発生した可燃性の蒸気又は可燃性の微粉が当該設備の外部に拡散しない構造とすること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その蒸気又は微粉を直接屋外の高所に有効に排出することができる設備を設けた場合は、この限りでない。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">危険物を取り扱う設備（当該設備に危険物を移送するための配管を除く。）は、床に固定するとともに、当該設備の周囲に幅三メートル以上の空地を保有すること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該設備から三メートル未満となる建築物の壁（出入口（随時開けることができる自動閉鎖の特定防火設備が設けられているものに限る。）以外の開口部を有しないものに限る。）及び柱が準耐火構造である場合にあつては、当該設備から当該壁及び柱までの距離の幅の空地を保有することをもつて足りる。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二イに規定する危険物を用いた蓄電池（以下この号から第六項まで及び第三十五条の三において単に「蓄電池」という。）の充電率は、蓄電池を充電し、又は放電する作業（当該蓄電池の品質の検査等に伴うものに限る。以下「充放電作業」という。）を行う場合を除き、六十パーセント以下とすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">蓄電池の周囲三メートル以内に可燃物（蓄電池又は蓄電池の包装材若しくはこん包材（水が浸透する素材のものであつて、蓄電池を包装し、又はこん包しているものに限る。）を除く。）を置かないこと。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次号に規定する集積場所又は第九号に規定する充放電作業場所にあつては、この限りでない。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">蓄電池が集積された場所（一の蓄電池と他の蓄電池との水平距離が三メートル未満となる場所をいう。）であつて、当該蓄電池に用いられる危険物の数量の総和が指定数量以上となるもの（次号に規定する充放電作業場所を除く。以下この条において「集積場所」という。）は、次のイ又はロに掲げる充電率の区分に応じ、当該各区分に定める要件を満たすものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">三十パーセントを超え六十パーセント以下</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次の（１）から（４）までに適合すること。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">集積場所の周囲に幅三メートル以上の空地を保有すること。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、集積場所から三メートル未満となる建築物の壁（出入口（随時開けることができる自動閉鎖の特定防火設備が設けられているものに限る。）以外の開口部を有しないものに限る。）及び柱が準耐火構造である場合にあつては、当該集積場所から当該壁及び柱までの距離の幅の空地を保有することをもつて足りる。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一の集積場所の床面積は、二十平方メートル以下とすること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">床面から蓄電池の上端までの高さは、一・八メートル以下とすること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">蓄電池又は蓄電池の包装材若しくはこん包材（水が浸透する素材のものに限る。以下同じ。）以外の可燃物を置かないこと。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">三十パーセント以下</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次の（１）又は（２）に適合すること。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イ（１）から（４）までに適合すること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イ（１）及び（４）のほか、次の（ｉ）から（ｉｉｉ）までに適合すること。</Sentence>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Function="main" Num="1" WritingMode="vertical">一の集積単位（集積場所の部分のうち、集積される蓄電池に用いられる危険物の数量の総和が指定数量未満であつて、床面積が二十平方メートル以下であるものをいう。以下この条において同じ。）と他の集積単位との間に告示で定めるところにより遮蔽板を設けること。</Sentence>
+                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、一の集積単位と他の集積単位との間に幅三メートル以上の空地を保有する部分については、この限りでない。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">床面から蓄電池の上端までの高さは、六メートル以下とすること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="3">
+                    <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">蓄電池の上端から建築物のはり及び屋根（上階がある場合は上階の床、天井を設ける場合は天井）までの高さは、二メートル以上とすること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">充放電作業を行う場所（当該作業を行うための設備（以下「充放電設備」という。）が設けられた部分を含む。以下「充放電作業場所」という。）を設ける場合は、蓄電池又は蓄電池の包装材若しくはこん包材以外の可燃物を置かないこととするとともに、第六項第二号イからハまでのいずれかの例によること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">集積場所（第八号イ（１）の空地を含む。）又は充放電作業場所（第六項第二号ハにおいてその例によるものとされる第八号イ（１）の空地を含む。）の床面積（第三十五条の三第三項第二号イの規定により第二種のスプリンクラー設備を設けた部分の床面積の二分の一に相当する床面積を除く。以下この号において同じ。）の合計が千五百平方メートルを超える場合は、次に定めるところにより、当該集積場所又は充放電作業場所を床面積の合計千五百平方メートル以内ごとに準耐火構造の壁（特定防火設備（随時開けることができる自動閉鎖のもの又は煙感知器の作動と連動して閉鎖するものに限る。）を設けた出入口以外の開口部を有しないものに限る。）で区画すること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定防火設備の周囲に、幅三メートル以上の空地を保有すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">一の区画を形成する特定防火設備のうち、煙感知器の作動と連動して閉鎖するものを設ける区画にあつては、次の要件を満たすこと。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該特定防火設備の部分の水平投影の長さが当該区画の水平投影の長さの二分の一未満であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一の煙感知器が作動した際に形成されることとなる区画に存する全ての特定防火設備が閉鎖されるよう措置すること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">区画の各部分から、直接地上に通ずる出入口、地上に通ずる直通階段（連結送水管の放水口を設けたものに限る。）の出入口、バルコニー（水平投影面積が十平方メートル以上で、かつ、形状等が消防活動に支障がないものに限る。）が設けられた開口部（特定防火設備を設けたものに限る。）その他の消防隊による活動の拠点となる場所の開口部までの水平距離が五十メートル以下となるようにすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">危険物を取り扱うタンクを設ける場合は、その容量の総計を指定数量未満とするとともに、当該タンク（屋内にあるものに限る。）の周囲には、第十三条の三第二項第一号の規定の例による囲いを設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十五条の三第三項各号に定めるところにより消火設備を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二イの一般取扱所のうち、次の各号に掲げる基準に適合するものについては、令第十九条第一項において準用する令第九条第一項第一号、第二号、第五号から第九号まで、第十二号及び第十九号の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第三号から第十二号までの規定の例によること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">危険物を取り扱う建築物の見やすい箇所にリチウムイオン蓄電池により貯蔵される危険物を用いた蓄電池を製造し、組み立て、又は充電し、若しくは放電する作業等のために危険物を取り扱う一般取扱所が存する旨を表示すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">一般取扱所は、壁、柱、床、はり、屋根及び階段が不燃材料で造られた建築物に設置すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の一般取扱所の用に供する部分は、開口部を有しない耐火構造の床又は出入口（次のイ又はロに掲げる特定防火設備を設けたものに限る。）以外の開口部を有しない耐火構造の壁で当該建築物の他の部分と区画されたものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">随時開けることができる自動閉鎖の特定防火設備</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">煙感知器の作動と連動して閉鎖する特定防火設備で次に掲げる基準に適合するもの</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一の特定防火設備の面積は、三十平方メートル以下であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">特定防火設備の部分の水平投影の長さが当該区画の水平投影の長さの二分の一未満であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一の区画に特定防火設備を複数設ける場合は、次に掲げる基準に適合するものであること。</Sentence>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">特定防火設備相互間の距離を三メートル以上とすること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">一の特定防火設備の作動に係る煙感知器の作動により、区画を形成する全ての特定防火設備が作動すること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+                <Subitem2 Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">特定防火設備の周囲に、幅三メートル以上の空地を保有すること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の一般取扱所の用に供する部分以外の部分は、消防法施行令別表第一（十二）項イ又は（十四）項に掲げる防火対象物の用途以外の用に供しないもので、次のいずれかに該当するものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その管理について権原を有する者が建築物の一般取扱所の用に供する部分の管理について権原を有する者と同一であること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その管理について権原を有する者と建築物の一般取扱所の用に供する部分の管理について権原を有する者との協議により、火災その他の災害が発生した場合における避難その他防火対象物の全体についての防火管理上必要な業務に関する事項を定めた文書が作成されていること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の一般取扱所の用に供する部分以外の部分について、消防法施行令第一条の二第二項後段の規定により同令別表第一（十二）項イ又は（十四）項に掲げる防火対象物の用途に含まれるものとして取り扱われる部分が、保安対象用途に供されるものである場合は、次のイ及びロによること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">一般取扱所の用に供する部分から保安対象用途に供する部分までの間に、十メートル（保安対象用途が令第九条第一項第一号ロに掲げる建築物等の用途であるときは、三十メートル）以上の距離を保つこと。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の（１）及び（２）のいずれにも該当する場合は、この限りでない。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">指定数量の倍数が三十未満であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一般取扱所の用に供する部分は、壁、柱、床、はり及び屋根（上階がある場合には、上階の床）を耐火構造とするとともに、出入口（随時開けることができる自動閉鎖の特定防火設備が設けられているものに限る。）以外の開口部を有しない耐火構造（厚さ七十ミリメートル以上の鉄筋コンクリート造又はこれと同等以上の強度を有するものに限る。）の床又は壁で当該建築物の他の部分と区画されたものであること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保安対象用途に供する部分からの避難経路は、次の（１）及び（２）によること。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一般取扱所の用に供する部分を経由せずに地上に通ずる出入口に避難できること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一般取扱所の用に供する部分に通ずる開口部が設けられた居室又は廊下、階段その他の避難施設を経由せずに地上に通ずる出入口に避難できること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二ロの一般取扱所のうち、次の各号に掲げる基準に適合するものについては、令第十九条第一項において準用する令第九条第一項第一号、第二号、第五号から第九号まで、第十一号、第十二号、第十七号及び第十九号の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項第一号、第二号及び第六号から第十一号までの規定の例によること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">蓄電池は、告示で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">危険物（蓄電池により貯蔵されるものを除く。）を取り扱う部分は、次によること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">液状の危険物を取り扱う部分の周囲の床は、危険物が浸透しない構造とするとともに、適当な傾斜を付け、かつ、貯留設備及び当該床の周囲に排水溝を設けること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">可燃性の蒸気又は可燃性の微粉が滞留するおそれのある部分には、その蒸気又は微粉を屋外の高所に排出する設備を設けること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">電気設備は、電気工作物に係る法令の規定によること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十五条の三第四項各号に定めるところにより消火設備を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二ロの一般取扱所のうち、次の各号に掲げる基準に適合するものについては、令第十九条第一項において準用する令第九条第一項第一号、第二号、第五号から第九号まで、第十一号、第十二号、第十七号及び第十九号の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項第六号から第十一号まで、第三項第二号、第三号、第五号及び第六号並びに前項第二号から第四号までの規定の例によること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の一般取扱所の用に供する部分は、開口部を有しない準耐火構造の床又は出入口（第三項第四号イ又はロに掲げる特定防火設備を設けたものに限る。）以外の開口部を有しない準耐火構造の壁で当該建築物の他の部分と区画されたものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二ハの一般取扱所のうち、次の各号に掲げる基準に適合するものについては、令第十九条第一項において準用する令第九条第一項第一号、第二号、第五号から第九号まで、第十一号、第十二号、第十七号及び第十九号の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項第一号、第二号、第六号から第八号まで及び第十号並びに第四項第二号の規定の例によること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">充放電作業場所は、蓄電池又は蓄電池の包装材若しくはこん包材以外の可燃物を置かないこととするとともに、次のイからハまでのいずれかに適合するものであること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">充放電設備は、キュービクル式のものとすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">一の充放電作業場所で同時に充放電作業を行う蓄電池に用いられる危険物の数量の総和を指定数量未満とし、かつ、次の（１）及び（２）を満たすこと。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">充放電作業場所は、次に掲げる基準に適合するものであること。</Sentence>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">一の充放電作業場所の床面積は、二十平方メートル以下とすること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">床面から蓄電池の上端までの高さは、一・八メートル以下とすること。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="3">
+                    <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Function="main" Num="1" WritingMode="vertical">充放電作業場所の周囲に告示で定めるところにより遮蔽板を設けること。</Sentence>
+                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二項第八号イ（１）の集積場所の規定の例により空地を保有する部分については、この限りでない。</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次のいずれかの措置を講ずること。</Sentence>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">建築物で火災が発生した場合又は蓄電池の温度が過度に上昇した場合（（ｉｉ）において、「火災等の場合」という。）に、充放電設備内の蓄電池を水没させる措置</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">火災等の場合に、耐火性能を有する材料で造られた箱（蓄電池から発生した可燃性の蒸気を箱の外部へ安全に放出できる構造を有するものに限る。）の中に充放電設備内の蓄電池を収納して密閉する措置</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="3">
+                    <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence Num="1" WritingMode="vertical">延焼防止上（ｉ）又は（ｉｉ）と同等以上の効果があると認められる措置</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">蓄電池の充電率を六十パーセント以下に制御し、かつ、充放電作業場所は、第二項第八号イ又はロに掲げる充電率の区分に応じ、当該各区分に定める要件の例によること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十五条の三第五項各号に定めるところにより消火設備を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二ハの一般取扱所のうち、第二項第六号から第八号まで及び第十号、第三項第二号、第三号、第五号及び第六号、第四項第二号、第五項第二号並びに第六項第二号及び第三号の規定の例によるものについては、令第十九条第一項において準用する令第九条第一項第一号、第二号、第五号から第九号まで、第十一号、第十二号、第十七号及び第十九号の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="28_60">
@@ -11677,7 +12437,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">開放型スプリンクラーヘッドを用いるスプリンクラー設備の放射区域（一の一斉開放弁により同時に放射する区域をいう。以下この条、第三十二条の五及び第三十五条の二において同じ。）は、百五十平方メートル以上（防護対象物の床面積が百五十平方メートル未満であるときは、当該床面積）とすること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">開放型スプリンクラーヘッドを用いるスプリンクラー設備の放射区域（一の一斉開放弁により同時に放射する区域をいう。以下この条、第三十二条の五、第三十五条の二及び第三十五条の四において同じ。）は、百五十平方メートル以上（防護対象物の床面積が百五十平方メートル未満であるときは、当該床面積）とすること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -12239,13 +12999,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">令第二十条第三項の蓄電池により貯蔵される総務省令で定める危険物は、第十六条の二の七に規定する危険物とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十条第三項第一号の蓄電池により貯蔵される総務省令で定める危険物は、第十六条の二の七に規定する危険物とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">蓄電池により貯蔵される前項に規定する危険物のみを貯蔵し、又は取り扱う屋内貯蔵所に係る令第二十条第三項の規定による同条第一項及び第二項に掲げる基準の特例は、次項に定めるところによる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">蓄電池により貯蔵される前項に規定する危険物のみを貯蔵し、又は取り扱う屋内貯蔵所に係る令第二十条第三項の規定による同条第一項及び第二項に掲げる基準の特例は、次項及び第四項に定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -12337,6 +13097,273 @@
                   <Sentence Num="1" WritingMode="vertical">第三十二条の十一の規定の例によること。</Sentence>
                 </Column>
               </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の屋内貯蔵所のうち、第十六条の二の八第三項各号（当該屋内貯蔵所が建築物の一部に存する場合にあつては、同条第四項各号）に掲げる基準に適合し、かつ、次の各号に掲げる基準に適合するものについては、令第二十条第一項各号及び第二項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">貯蔵倉庫（建築物の一部に屋内貯蔵所が存する場合は、屋内貯蔵所の用に供する部分）に設備等技術基準の例により、消防用設備等が設置され、及び維持されていること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二種のスプリンクラー設備を次号に掲げる基準に適合するように設置した場合（同号に規定する貯蔵場所以外の部分にあつては、当該基準の例により設置した場合）は、設備等技術基準の例にかかわらず、当該スプリンクラー設備の有効範囲内の部分についてスプリンクラー設備以外の消防用設備等（消火設備に限る。）（消防法施行令第十条に規定する消火器具を除く。）を設置しないことができる。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条の二の八第三項第八号に規定する貯蔵場所（同号においてその例によるものとされる第二十八条の五十九の二第二項第八号イ又はロに掲げる充電率の区分に応じ、当該同号イ又はロ（（１）に適合する場合に限る。）に定める要件の例による場合に限る。）（以下この号において「貯蔵場所」という。）に第二種のスプリンクラー設備を次に掲げる基準に適合するように設けること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">スプリンクラーヘッドは、床面からの高さが九メートル以下の位置にある天井（天井のない場合にあつては、屋根の下面）に設けること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">スプリンクラー設備の放射能力範囲（開放型スプリンクラーヘッドを設けるものにあつては、放射区域。ハ及びニにおいて同じ。）が貯蔵場所及びその周囲六メートルの範囲を包含するように設けること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、貯蔵場所から六メートル未満となる建築物の壁（出入口（随時開けることができる自動閉鎖の特定防火設備が設けられているものに限る。）以外の開口部を有しないものに限る。）及び柱が準耐火構造である場合にあつては、当該貯蔵場所から当該壁及び柱までの範囲を包含することをもつて足りる。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">水源は、その水量がロの放射能力範囲（当該範囲の床面積が二百三十平方メートル以上となる場合にあつては、床面積二百三十平方メートルの範囲）にニの性能により六十分間（告示で定める要件を満たす場合は、三十分間。ホにおいて同じ。）放水することができる量以上の量となるように設けること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">ロの放射能力範囲内の放水密度が十二ミリメートル毎分以上となる性能のものとすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">スプリンクラー設備を六十分間以上有効に作動させることができる容量の予備動力源を附置すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="35_3">
+          <ArticleCaption>（危険物を用いた蓄電池を製造し、又は充電し、若しくは放電する作業を専ら行う一般取扱所その他これに類する一般取扱所の消火設備の特例）</ArticleCaption>
+          <ArticleTitle>第三十五条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十条第三項第二号の総務省令で定める一般取扱所は、第二十八条の五十四第五号の二イからハまでに規定する一般取扱所とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の一般取扱所に係る令第二十条第三項の規定による同条第一項及び第二項に掲げる基準の特例は、次項から第五項までに定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二イに規定する一般取扱所のうち、第二十八条の五十九の二第二項各号（当該一般取扱所が建築物の一部に存する場合にあつては、同条第三項各号）に掲げる基準に適合し、かつ、次の各号に掲げる基準に適合するものについては、令第二十条第一項各号及び第二項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">危険物を取り扱う建築物（建築物の一部に一般取扱所が存する場合は、一般取扱所の用に供する部分）のうち、次号ロに掲げる基準に適合するように第三種、第四種及び第五種の消火設備（第三種の消火設備にあつては、火災のとき煙が充満するおそれのある場所等に設けるものは、移動式以外のものに限る。）を設ける部分以外の部分に設備等技術基準の例により、消防用設備等（消火設備に限る。以下この条において同じ。）が設置され、及び維持されていること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二種のスプリンクラー設備を次号イに掲げる基準に適合するように又は次号イに規定する集積場所等以外の部分にあつては当該基準の例により設置した場合は、設備等技術基準の例にかかわらず、当該スプリンクラー設備の有効範囲内の部分についてスプリンクラー設備以外の消防用設備等（消防法施行令第十条に規定する消火器具を除く。）を設置しないことができる。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる消火設備をそれぞれイ及びロに掲げる基準に適合するように設けること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二種のスプリンクラー設備</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第二十八条の五十九の二第二項第八号に規定する集積場所（同号イ又はロに掲げる充電率の区分に応じ、当該同号イ又はロ（（１）に適合する場合に限る。）に定める要件を満たす場合に限る。）及び同項第九号に規定する充放電作業場所（同号においてその例によるものとされる同条第六項第二号イ又はハ（同条第二項第八号イ又はロに掲げる充電率の区分に応じ、当該同号イ又はロ（（１）に適合する場合に限る。）に定める要件の例による場合に限る。）に適合する場合に限る。）（以下この条において「集積場所等」という。）に前条第四項第二号イからホまでに掲げる基準の例により設けること。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三種、第四種及び第五種の消火設備（第三種の消火設備にあつては、火災のとき煙が充満するおそれのある場所等に設けるものは、移動式以外のものに限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第三十二条の四から第三十二条の十一までの規定の例により、次に掲げる部分の火災を有効に消火することができるように設けること。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">この場合において、第三十二条の五から第三十二条の七までの規定中「防護対象物」とあるのは、「液状の危険物（蓄電池により貯蔵されるものを除く。）を取り扱う設備又は危険物を取り扱うタンク」とする。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">液状の危険物（蓄電池により貯蔵されるものを除く。）を取り扱う設備及びその周囲</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">危険物を取り扱うタンク及びその周囲</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二ロに規定する一般取扱所のうち、第二十八条の五十九の二第四項各号（当該一般取扱所が建築物の一部に存する場合にあつては、同条第五項各号）に掲げる基準に適合し、かつ、次の各号に掲げる基準に適合するものについては、令第二十条第一項各号及び第二項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">危険物を取り扱う建築物（建築物の一部に一般取扱所が存する場合は、一般取扱所の用に供する部分）のうち、前項第二号ロの規定の例により第三種、第四種及び第五種の消火設備（第三種の消火設備にあつては、火災のとき煙が充満するおそれのある場所等に設けるものは、移動式以外のものに限る。）を設ける部分以外の部分に設備等技術基準の例により、消防用設備等が設置され、及び維持されていること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二種のスプリンクラー設備を次号イに掲げる基準に適合するように又は集積場所等以外の部分にあつては当該基準の例により設置した場合は、設備等技術基準の例にかかわらず、当該スプリンクラー設備の有効範囲内の部分についてスプリンクラー設備以外の消防用設備等（消防法施行令第十条に規定する消火器具を除く。）を設置しないことができる。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる消火設備をそれぞれイ及びロに掲げる基準に適合するように設けること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二種のスプリンクラー設備</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">前項第二号イの規定の例によること。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三種、第四種及び第五種の消火設備（第三種の消火設備にあつては、火災のとき煙が充満するおそれのある場所等に設けるものは、移動式以外のものに限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">前項第二号ロの規定の例によること。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十八条の五十四第五号の二ハに規定する一般取扱所のうち、第二十八条の五十九の二第六項各号に掲げる基準に適合するもの（当該一般取扱所が建築物の一部に存する場合にあつては、第二十八条の五十九の二第二項第六号から第八号まで及び第十号、第三項第二号、第三号、第五号及び第六号、第四項第二号、第五項第二号並びに第六項第二号及び第三号の規定の例によるもの）であり、かつ、次の各号に掲げる基準に適合するものについては、令第二十条第一項各号及び第二項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">危険物を取り扱う建築物（建築物の一部に一般取扱所が存する場合は、一般取扱所の用に供する部分）に設備等技術基準の例により、消防用設備等が設置され、及び維持されていること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二種のスプリンクラー設備を次号に掲げる基準に適合するように又は集積場所等以外の部分にあつては当該基準の例により設置した場合は、設備等技術基準の例にかかわらず、当該スプリンクラー設備の有効範囲内の部分についてスプリンクラー設備以外の消防用設備等（消防法施行令第十条に規定する消火器具を除く。）を設置しないことができる。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二種のスプリンクラー設備を第三項第二号イの規定の例により設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="35_4">
+          <ArticleCaption>（危険物を用いた蓄電池設備以外では危険物を取り扱わない一般取扱所の消火設備の特例）</ArticleCaption>
+          <ArticleTitle>第三十五条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十条第三項第三号の総務省令で定める一般取扱所は、第二十八条の五十四第九号に規定する一般取扱所とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の一般取扱所に係る令第二十条第三項の規定による同条第一項及び第二項に掲げる基準の特例は、次項に定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の一般取扱所のうち、蓄電池設備（告示で定める基準に適合するものに限る。）をキュービクル式のものとし、又は告示で定める基準に適合する蓄電池を鋼製の棚（告示で定める基準に適合するものに限る。）若しくはこれと同等以上の性能を有するもの（以下この条において「鋼製の棚等」という。）に収納して設けるとともに、次の各号に掲げる基準に適合するものについては、令第二十条第一項各号及び第二項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">一般取扱所が建築物に存するもの（建築物の一部に存するものを除く。）にあつては、当該一般取扱所の見やすい箇所にリチウムイオン蓄電池により貯蔵される危険物を用いた蓄電池設備以外では危険物を取り扱わない一般取扱所である旨を表示し、一般取扱所が建築物の一部に存するものにあつては、当該建築物の見やすい箇所にリチウムイオン蓄電池により貯蔵される危険物を用いた蓄電池設備以外では危険物を取り扱わない一般取扱所が存する旨を表示すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次のイ及びロに掲げる消火設備をそれぞれイ及びロに掲げる基準に適合するように設けること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二種のスプリンクラー設備</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">蓄電池設備の存する部分に、次に掲げる基準に適合するように設けること。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">スプリンクラーヘッドは、床面からの高さが九メートル以下の位置にある天井（天井のない場合にあつては、屋根の下面）に設けること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">スプリンクラー設備の放射能力範囲（開放型スプリンクラーヘッドを設けるものにあつては、放射区域。（３）及び（４）において同じ。）が蓄電池設備（鋼製の棚等に収納して設ける場合にあつては、鋼製の棚等を含む。以下（２）において同じ。）及びその周囲六メートルの範囲を包含するように設けること。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該蓄電池設備から六メートル未満となる建築物の壁（出入口（随時開けることができる自動閉鎖の特定防火設備が設けられているものに限る。）以外の開口部を有しないものに限る。）及び柱が準耐火構造である場合にあつては、当該蓄電池設備から当該壁及び柱までの範囲を包含することをもつて足りる。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">水源は、その水量が（２）の放射能力範囲（当該範囲の床面積が二百三十平方メートル以上となる場合にあつては、床面積二百三十平方メートルの範囲）に（４）の性能により六十分間（告示で定める要件を満たす場合は、三十分間。（５）において同じ。）放水することができる量以上の量となるように設けること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">（２）の放射能力範囲内の放水密度が十二ミリメートル毎分以上となる性能のものとすること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="5">
+                  <Subitem2Title>（５）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">スプリンクラー設備を六十分間以上有効に作動させることができる容量の予備動力源を附置すること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第四種及び第五種の消火設備</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第三十二条の十及び第三十二条の十一の規定の例により設けること。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
           </Paragraph>
         </Article>
@@ -12588,7 +13615,7 @@
               <Subitem1 Num="7">
                 <Subitem1Title>ト</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">第十六条の二の七に規定する危険物（第三十五条の二第三項第一号に掲げる基準により第二種のスプリンクラー設備が設置されている屋内貯蔵所において貯蔵するものに限る。）と危険物に該当しない物品（水又は当該危険物と危険な反応を起こさないものに限る。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十六条の二の七に規定する危険物（第三十五条の二第三項第一号又は同条第四項第二号に掲げる基準により第二種のスプリンクラー設備が設置されている屋内貯蔵所において貯蔵するものに限る。）と危険物に該当しない物品（水又は当該危険物と危険な反応を起こさないものに限る。）</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -12848,8 +13875,62 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">令第二十六条第一項第二号ただし書の総務省令で定める危険物は、塊状の硫黄等及び第七十二条第一項に規定する危険物とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十六条第一項第二号ただし書の総務省令で定める危険物は、次に掲げる危険物とする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">塊状の硫黄等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">リチウムイオン蓄電池により貯蔵される第二類又は第四類の危険物のうち、次のいずれかの方法により貯蔵されるもの。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">告示で定める基準に適合する蓄電池（第二類又は第四類の危険物を用いたリチウムイオン蓄電池に限る。以下この号において同じ。）を水が浸透する素材で包装し、又はこん包して貯蔵する方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">告示で定める基準に適合するキュービクル式の設備により貯蔵する方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">告示で定める基準に適合する蓄電池を次に掲げる基準に適合するように貯蔵する方法</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">蓄電池を貯蔵する場所は、第十六条の二の八第三項第八号の規定の例によること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">蓄電池の充電率は、六十パーセント以下であること。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">告示で定める基準に適合する箱に入れて貯蔵する方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七十二条第一項に規定する危険物</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -13057,7 +14138,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">令第二十七条第六項第一号リの総務省令で定めるとき及び同号チの総務省令で定める部分は、次の各号のとおりとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十七条第六項第一号リの総務省令で定めるとき及び同号リの総務省令で定める部分は、次の各号のとおりとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -14001,6 +15082,36 @@
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">前各号に規定するもののほか、運搬容器への収納に関し必要な事項は、告示で定める。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十九条第一号ロの総務省令で定める場合は、第二類又は第四類の危険物を用いたリチウムイオン蓄電池（以下この項において単に「蓄電池」という。）を次のいずれかの方法により運搬する場合とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">告示で定める基準に適合する蓄電池を水が浸透する素材で包装し、若しくはこん包し、又は鋼製の箱に収納し、及び固定して運搬する方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">告示で定める基準に適合するキュービクル式の設備により運搬する方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">告示で定める基準に適合する箱に入れて運搬する方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">告示で定めるところにより運搬する方法</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -19672,13 +20783,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に設置されている製造所、貯蔵所又は取扱所で、十六号改正政令による令第一条第三項の規定の改正により新たに法第十一条第一項の規定により許可を受けなければならないこととなるもの（指定数量の倍数が施行日における指定数量の倍数を超えないものに限る。）の避雷設備で、この省令の施行の際現に存するもののうち、規則第十三条の二の三に定める技術上の基準に適合しないものに係る同条の規定の適用については、同条中「日本産業規格Ｚ九二九〇―三「雷保護―第三部：建築物等への物的損傷及び人命の危険」」とあるのは、「日本工業規格Ａ四二〇一（一九九二）「建築物等の避雷設備（避雷針）」」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に設置されている製造所、貯蔵所又は取扱所で、十六号改正政令による令第一条第三項の規定の改正により新たに法第十一条第一項の規定により許可を受けなければならないこととなるもの（指定数量の倍数が施行日における指定数量の倍数を超えないものに限る。）の避雷設備で、この省令の施行の際現に存するもののうち、規則第十三条の二の四に定める技術上の基準に適合しないものに係る同条の規定の適用については、同条中「日本産業規格Ｚ九二九〇―三「雷保護―第三部：建築物等への物的損傷及び人命の危険」」とあるのは、「日本工業規格Ａ四二〇一（一九九二）「建築物等の避雷設備（避雷針）」」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に法第十一条第一項の規定により許可を受けて設置されている製造所、貯蔵所又は取扱所（指定数量の倍数が施行日における指定数量の倍数を超えないものに限る。）の避雷設備で、この省令の施行の際現に存するもののうち、十六号改正政令による令第一条第三項の規定の改正により規則第十三条の二の三に定める技術上の基準に適合しないこととなるものに係る同条の規定の適用については、同条中「日本産業規格Ｚ九二九〇―三「雷保護―第三部：建築物等への物的損傷及び人命の危険」」とあるのは、「日本工業規格Ａ四二〇一（一九九二）「建築物等の避雷設備（避雷針）」」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に法第十一条第一項の規定により許可を受けて設置されている製造所、貯蔵所又は取扱所（指定数量の倍数が施行日における指定数量の倍数を超えないものに限る。）の避雷設備で、この省令の施行の際現に存するもののうち、十六号改正政令による令第一条第三項の規定の改正により規則第十三条の二の四に定める技術上の基準に適合しないこととなるものに係る同条の規定の適用については、同条中「日本産業規格Ｚ九二九〇―三「雷保護―第三部：建築物等への物的損傷及び人命の危険」」とあるのは、「日本工業規格Ａ四二〇一（一九九二）「建築物等の避雷設備（避雷針）」」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -20569,7 +21680,24 @@
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">令和七年四月一日に現に消防法（昭和二十三年法律第百八十六号）第十一条第一項の規定により許可を受けて設置されている製造所、貯蔵所若しくは取扱所の避雷設備又は令和八年三月三十一日までにその工事に着手する製造所、貯蔵所若しくは取扱所の避雷設備のうち、この省令による改正後の危険物の規制に関する規則第十三条の二の三に定める技術上の基準に適合しないものに係る技術上の基準については、同条の規定にかかわらず、なお従前の例による。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">令和七年四月一日に現に消防法（昭和二十三年法律第百八十六号）第十一条第一項の規定により許可を受けて設置されている製造所、貯蔵所若しくは取扱所の避雷設備又は令和八年三月三十一日までにその工事に着手する製造所、貯蔵所若しくは取扱所の避雷設備のうち、この省令による改正後の危険物の規制に関する規則第十三条の二の四に定める技術上の基準に適合しないものに係る技術上の基準については、同条の規定にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月一四日総務省令第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日の翌日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

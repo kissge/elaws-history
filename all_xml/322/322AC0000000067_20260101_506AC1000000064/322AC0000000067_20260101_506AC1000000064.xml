@@ -1124,7 +1124,7 @@
             <Paragraph Num="4" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">当該普通地方公共団体の長の署名、施行期日の特例その他条例の公布に関し必要な事項は、条例でこれを定めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該普通地方公共団体の長の署名（総務省令で定める署名に代わる措置を含む。）、施行期日の特例その他条例の公布に関し必要な事項は、条例でこれを定めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5" OldNum="true" OldStyle="false">
@@ -15637,7 +15637,7 @@
               <Sentence Num="1" WritingMode="vertical">建築基準法（昭和二十五年法律第二百一号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第十五条第四項、第十六条及び第七十七条の六十三の規定により都道府県が処理することとされている事務並びに第十五条第一項から第三項までの規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十五条第四項及び第十六条の規定により都道府県が処理することとされている事務並びに第十五条第一項から第三項までの規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -30561,6 +30561,39 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月一六日法律第三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第二条（地方自治法第十六条第四項の改正規定に限る。）及び第五条の規定並びに次項の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第二条（前号に掲げる改正規定を除く。）、第三条（住民基本台帳法別表第一の百八の項の改正規定、同法別表第三の改正規定（同表中二十五の項を削り、二十四の項を二十五の項とし、二十三の三の項を二十四の項とする部分に限る。）及び同法別表第五の改正規定（同表中第三十号を削り、第二十九号を第三十号とし、第二十八号の三を第二十九号とする部分に限る。）に限る。）及び第八条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">令和七年十二月一日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
