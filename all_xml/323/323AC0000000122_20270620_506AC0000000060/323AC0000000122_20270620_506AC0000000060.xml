@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="122" Year="23" PromulgateMonth="07" PromulgateDay="10"><LawNum>昭和二十三年法律第百二十二号</LawNum><LawBody><LawTitle Kana="ふうぞくえいぎょうとうのきせいおよびぎょうむのてきせいかとうにかんするほうりつ" Abbrev="風営法,風営適正化法,風適法" AbbrevKana="ふ,ふ,ふ">風俗営業等の規制及び業務の適正化等に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="23" Num="122" PromulgateMonth="07" PromulgateDay="10" LawType="Act"><LawNum>昭和二十三年法律第百二十二号</LawNum><LawBody><LawTitle Kana="ふうぞくえいぎょうとうのきせいおよびぎょうむのてきせいかとうにかんするほうりつ" Abbrev="風営法,風営適正化法,風適法" AbbrevKana="ふ,ふ,ふ">風俗営業等の規制及び業務の適正化等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -73,7 +73,7 @@
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　罰則</ChapterTitle>
-        <ArticleRange>（第四十九条―第五十七条）</ArticleRange>
+        <ArticleRange>（第四十九条―第五十八条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -317,7 +317,7 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">第四十九条又は第五十条第一項の罪</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十九条、第五十条又は第五十一条第一項の罪</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
@@ -426,32 +426,74 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十六条第一項の規定による風俗営業の許可の取消処分に係る聴聞の期日及び場所が公示された日から当該処分をする日又は当該処分をしないことを決定する日までの間に第十条第一項第一号の規定による許可証の返納をした者（風俗営業の廃止について相当な理由がある者を除く。）で当該返納の日から起算して五年を経過しないもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該許可を受けようとする者（法人に限る。イ及びハにおいて同じ。）と密接な関係を有する次に掲げる法人が第二十六条第一項の規定により風俗営業の許可を取り消され、当該取消しの日から起算して五年を経過しない者である者</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該許可を受けようとする者の株式の所有その他の事由を通じて当該許可を受けようとする者の事業を実質的に支配し、又はその事業に重要な影響を与える関係にある者として国家公安委員会規則で定めるもの（ロにおいて「親会社等」という。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">親会社等が株式の所有その他の事由を通じてその事業を実質的に支配し、又はその事業に重要な影響を与える関係にある者として国家公安委員会規則で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該許可を受けようとする者が株式の所有その他の事由を通じてその事業を実質的に支配し、又はその事業に重要な影響を与える関係にある者として国家公安委員会規則で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前号に規定する期間内に合併により消滅した法人又は第十条第一項第一号の規定による許可証の返納をした法人（合併又は風俗営業の廃止について相当な理由がある者を除く。）の前号の公示の日前六十日以内に役員であつた者で当該消滅又は返納の日から起算して五年を経過しないもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次のいずれかに掲げる期間内に第十条第一項第一号の規定による許可証の返納をした者（風俗営業の廃止について相当な理由がある者を除く。）で当該返納の日から起算して五年を経過しないもの</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十六条第一項の規定による風俗営業の許可の取消処分に係る聴聞の期日及び場所が公示された日から当該処分をする日又は当該処分をしないことを決定する日までの間</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十七条第二項の規定による風俗営業の営業所への立入りが行われた日から聴聞決定予定日（当該立入りの結果に基づき第二十六条第一項の規定による風俗営業の許可の取消処分に係る聴聞を行うか否かの決定をすることが見込まれる日として国家公安委員会規則で定めるところにより公安委員会が当該立入りを受けた者に当該立入りが行われた日から十日以内に特定の日を通知した場合における当該特定の日をいう。）までの間</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第七号に規定する期間内に分割により同号の聴聞に係る風俗営業を承継させ、若しくは分割により当該風俗営業以外の風俗営業を承継した法人（分割について相当な理由がある者を除く。）又はこれらの法人の同号の公示の日前六十日以内に役員であつた者で当該分割の日から起算して五年を経過しないもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前号イに掲げる期間内に合併により消滅した法人若しくは第十条第一項第一号の規定による許可証の返納をした法人（合併又は風俗営業の廃止について相当な理由がある者を除く。）の前号イの公示の日前六十日以内に役員であつた者又は同号ロに掲げる期間内に合併により消滅した法人若しくは同項第一号の規定による許可証の返納をした法人（合併又は風俗営業の廃止について相当な理由がある者を除く。）の前号ロの立入りが行われた日前六十日以内に役員であつた者で、当該消滅又は返納の日から起算して五年を経過しないもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">営業に関し成年者と同一の行為能力を有しない未成年者。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が風俗営業者の相続人であつて、その法定代理人が前各号及び次号のいずれにも該当しない場合を除くものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八号イに掲げる期間内に分割により同号イの聴聞に係る風俗営業を承継させ、若しくは分割により当該風俗営業以外の風俗営業を承継した法人（分割について相当な理由がある者を除く。）若しくはこれらの法人の同号イの公示の日前六十日以内に役員であつた者又は同号ロに掲げる期間内に分割により同号ロの立入りに係る風俗営業を承継させ、若しくは分割により当該風俗営業以外の風俗営業を承継した法人（分割について相当な理由がある者を除く。）若しくはこれらの法人の当該立入りが行われた日前六十日以内に役員であつた者で、当該分割の日から起算して五年を経過しないもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法人でその役員のうちに第一号から第九号までのいずれかに該当する者があるもの</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">営業に関し成年者と同一の行為能力を有しない未成年者。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が風俗営業者の相続人であつて、その法定代理人が前各号（第七号を除く。）、次号及び第十三号のいずれにも該当しない場合を除くものとする。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法人でその役員のうちに第一号から第六号まで又は第八号から第十号までのいずれかに該当する者があるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三号に該当する者が出資、融資、取引その他の関係を通じてその事業活動に支配的な影響力を有する者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -621,7 +663,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四条第一項の規定は、第一項の承認の申請をした相続人について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第一項の規定は、第一項の承認について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -656,7 +698,6 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第四条第一項の規定は、前項の承認について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「前条第一項の許可を受けようとする者」とあるのは、「第七条の二第一項の承認を受けようとする法人」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -680,7 +721,6 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第四条第一項の規定は、前項の承認について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「前条第一項の許可を受けようとする者」とあるのは、「第七条の三第一項の承認を受けようとする法人」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1168,6 +1208,46 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="18_3">
+          <ArticleCaption>（客の正常な判断を著しく阻害する行為の規制）</ArticleCaption>
+          <ArticleTitle>第十八条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第一号の営業を営む風俗営業者は、その営業に関し、次に掲げる行為をしてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条に規定する料金について、事実に相違する説明をし、又は客を誤認させるような説明をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">客が、接客従業者に対して恋愛感情その他の好意の感情を抱き、かつ、当該接客従業者も当該客に対して同様の感情を抱いているものと誤信していることを知りながら、これに乗じ、次に掲げる行為により当該客を困惑させ、それによつて遊興又は飲食をさせること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該客が遊興又は飲食をしなければ当該接客従業者との関係が破綻することになる旨を告げること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該接客従業者がその意に反して受ける降格、配置転換その他の業務上の不利益を回避するためには、当該客が遊興又は飲食をすることが必要不可欠である旨を告げること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">客が注文その他の遊興又は飲食の提供を受ける旨の意思表示（第二十二条の二第一号において「注文等」という。）をする前に遊興又は飲食の全部又は一部を提供することにより、当該客を困惑させ、それによつて当該遊興をさせ、若しくはしたものとさせ、又は当該飲食をさせること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
         <Article Num="19">
           <ArticleCaption>（遊技料金等の規制）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
@@ -1260,7 +1340,7 @@
           </Paragraph>
         </Article>
         <Article Num="22">
-          <ArticleCaption>（禁止行為等）</ArticleCaption>
+          <ArticleCaption>（風俗営業を営む者の禁止行為等）</ArticleCaption>
           <ArticleTitle>第二十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -1311,13 +1391,65 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="22_2">
+          <ArticleCaption>（接待飲食営業を営む者の禁止行為）</ArticleCaption>
+          <ArticleTitle>第二十二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第一号の営業を営む者は、その営業に関し、次に掲げる行為をしてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">客に注文等をさせ、又は当該営業に係る料金の支払その他の財産上の給付若しくは財産の預託若しくはこれらに充てるために行われた金銭の借入れ（これと同様の経済的性質を有するものを含む。）に係る債務の弁済（次号において「料金の支払等」という。）をさせる目的で、当該客を威迫して困惑させること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">客に対し、威迫し、又は誘惑して、料金の支払等のために当該客が次に掲げる行為により金銭その他の財産を得ることを要求すること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">売春防止法その他の法令に違反する行為をすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">対償を受け、又は受ける約束で、不特定の相手方と性交類似行為等（性交類似行為をし、又は他人の性的好奇心を満たす目的で、当該他人の性器等（性器、<Ruby>肛<Rt>こう</Rt></Ruby>門又は乳首をいう。以下ロにおいて同じ。）を触り、若しくは当該他人に自己の性器等を触らせることをいう。）をすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二条第六項第一号若しくは第二号又は第七項第一号の営業において異性の客に接触する役務を提供する業務に従事すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律（令和四年法律第七十八号）第二条第三項に規定する性行為映像制作物への出演をすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">外国において売春をすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
         <Article Num="23">
-          <ArticleCaption>（遊技場営業者の禁止行為）</ArticleCaption>
+          <ArticleCaption>（遊技場営業を営む者の禁止行為）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二条第一項第四号の営業（ぱちんこ屋その他政令で定めるものに限る。）を営む者は、前条第一項の規定によるほか、その営業に関し、次に掲げる行為をしてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第四号の営業（ぱちんこ屋その他政令で定めるものに限る。）を営む者は、その営業に関し、次に掲げる行為をしてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1347,7 +1479,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二条第一項第四号のまあじやん屋又は同項第五号の営業を営む者は、前条第一項の規定によるほか、その営業に関し、遊技の結果に応じて賞品を提供してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第四号のまあじやん屋又は同項第五号の営業を営む者は、その営業に関し、遊技の結果に応じて賞品を提供してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1381,7 +1513,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四条第一項第一号から第四号まで又は第六号から第九号までのいずれかに該当する者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四条第一項第一号から第四号まで、第六号又は第八号から第十号までのいずれかに該当する者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1671,6 +1803,12 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
+              <Paragraph Num="13">
+                <ParagraphNum>１３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二条第六項第一号又は第二号の営業を営む者は、営業所で異性の客に接触する役務を提供する業務に従事しようとする者の紹介を受けた場合において、当該紹介をした者又は第三者に対し、当該紹介の対価として金銭その他の財産上の利益を提供し、又は第三者をして提供させてはならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
             <Article Num="29">
               <ArticleCaption>（指示）</ArticleCaption>
@@ -1854,8 +1992,8 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第十八条の二第一項並びに第二十八条第五項及び第七項から第九項までの規定は、無店舗型性風俗特殊営業を営む者について準用する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、第十八条の二第一項第一号中「営業所で客に」とあるのは「客に」と、第二十八条第五項中「前条」とあるのは「第三十一条の二の二」と、同項第一号ロ中「地域のうち」とあるのは「地域（第二条第七項第一号の営業にあつては同条第六項第二号の営業について、同条第七項第二号の営業にあつては同条第六項第五号の営業について、それぞれ当該条例で定める地域をいう。）のうち」と、同条第七項中「第五項第一号」とあるのは「第三十一条の三第一項において準用する第五項第一号」と、「第二十七条第一項」とあるのは「第三十一条の二第一項」と、同条第八項中「前条及び第五項」とあるのは「第三十一条の二の二及び第三十一条の三第一項において準用する第五項」と、同条第九項中「その営業所に立ち入つて」とあるのは「客となつて」と読み替えるものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十八条の二第一項並びに第二十八条第五項及び第七項から第九項までの規定は無店舗型性風俗特殊営業を営む者について、同条第十三項の規定は第二条第七項第一号の営業を営む者について、それぞれ準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、第十八条の二第一項第一号中「営業所で客に」とあるのは「客に」と、第二十八条第五項中「前条」とあるのは「第三十一条の二の二」と、同項第一号ロ中「地域のうち」とあるのは「地域（第二条第七項第一号の営業にあつては同条第六項第二号の営業について、同条第七項第二号の営業にあつては同条第六項第五号の営業について、それぞれ当該条例で定める地域をいう。）のうち」と、同条第七項中「第五項第一号」とあるのは「第三十一条の三第一項において準用する第五項第一号」と、「第二十七条第一項」とあるのは「第三十一条の二第一項」と、同条第八項中「前条及び第五項」とあるのは「第三十一条の二の二及び第三十一条の三第一項において準用する第五項」と、同条第九項中「その営業所に立ち入つて」とあるのは「客となつて」と、同条第十三項中「営業所で異性」とあるのは「異性」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -2269,7 +2407,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">公安委員会は、店舗型電話異性紹介営業を営む者若しくはその代理人等が当該営業に関しこの法律に規定する罪（第四十九条第五号及び第六号の罪を除く。）若しくは第四条第一項第二号ロからトまで、リ、ヌ、ヲ若しくはワに掲げる罪に当たる違法な行為その他善良の風俗を害し若しくは少年の健全な育成に障害を及ぼす重大な不正行為で政令で定めるものをしたとき、又は店舗型電話異性紹介営業を営む者がこの法律に基づく処分に違反したときは、当該店舗型電話異性紹介営業を営む者に対し、当該施設を用いて営む店舗型電話異性紹介営業について、八月を超えない範囲内で期間を定めて当該店舗型電話異性紹介営業の全部又は一部の停止を命ずることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公安委員会は、店舗型電話異性紹介営業を営む者若しくはその代理人等が当該営業に関しこの法律に規定する罪（第五十条第一号及び第二号の罪を除く。）若しくは第四条第一項第二号ロからトまで、リ、ヌ、ヲ若しくはワに掲げる罪に当たる違法な行為その他善良の風俗を害し若しくは少年の健全な育成に障害を及ぼす重大な不正行為で政令で定めるものをしたとき、又は店舗型電話異性紹介営業を営む者がこの法律に基づく処分に違反したときは、当該店舗型電話異性紹介営業を営む者に対し、当該施設を用いて営む店舗型電話異性紹介営業について、八月を超えない範囲内で期間を定めて当該店舗型電話異性紹介営業の全部又は一部の停止を命ずることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -2511,7 +2649,7 @@
                   <Table WritingMode="vertical">
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence Num="1" WritingMode="vertical">第四条第一項第六号及び第七号</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">第四条第一項第六号から第八号まで</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence Num="1" WritingMode="vertical">第二十六条第一項</Sentence>
@@ -2944,7 +3082,7 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法第二条の二第一項に規定する在留資格及び同条第三項に規定する在留期間並びに同法第十九条第二項の許可の有無及び当該許可があるときはその内容</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法第二条の二第一項に規定する在留資格及び同条第三項に規定する在留期間の満了の日並びに同法第十九条第二項の許可の有無及び当該許可があるときはその内容</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
@@ -3517,48 +3655,42 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五年以下の拘禁刑若しくは千万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三条第一項の規定に違反して同項の許可を受けないで風俗営業を営んだ者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条第一項の規定に違反して同項の許可を受けないで風俗営業を営んだとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第三条第一項若しくは第三十一条の二十二の許可又は第七条第一項、第七条の二第一項若しくは第七条の三第一項（これらの規定を第三十一条の二十三において準用する場合を含む。）の承認を受けた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第三条第一項の許可又は第七条第一項、第七条の二第一項若しくは第七条の三第一項の承認を受けたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十一条（第三十一条の二十三において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十一条の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十六条、第三十条、第三十一条の五第一項若しくは第二項、第三十一条の六第二項第二号若しくは第三号、第三十一条の十五、第三十一条の二十、第三十一条の二十一第二項第二号、第三十一条の二十五、第三十四条第二項、第三十五条、第三十五条の二又は第三十五条の四第二項若しくは第四項第二号の規定による公安委員会の処分に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十六条、第三十条、第三十一条の五第一項若しくは第二項又は第三十一条の六第二項第二号若しくは第三号の規定による公安委員会の処分に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十八条第一項（第三十一条の三第二項の規定により適用する場合及び第三十一条の十三第一項において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第一項（第三十一条の三第二項の規定により適用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十八条第二項（第三十一条の三第二項の規定により適用する場合及び第三十一条の十三第一項において準用する場合を含む。）の規定に基づく都道府県の条例の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="7">
-              <ItemTitle>七</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条の二十二の規定に違反して同条の許可を受けないで特定遊興飲食店営業を営んだ者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第二項（第三十一条の三第二項の規定により適用する場合を含む。）の規定に基づく都道府県の条例の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3568,66 +3700,111 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、一年以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、二年以下の拘禁刑若しくは二百万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第九条第一項（第二十条第十項及び第三十一条の二十三において準用する場合を含む。以下この号及び次号において同じ。）の規定に違反して第九条第一項の承認を受けないで営業所の構造又は設備（第四条第四項に規定する遊技機を含む。）の変更をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の十三第一項において準用する第二十八条第一項の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第九条第一項の承認を受けた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の十三第一項において準用する第二十八条第二項の規定に基づく都道府県の条例の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第十条の二第一項（第三十一条の二十三において準用する場合を含む。）の認定を受けた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の十五、第三十一条の二十、第三十一条の二十一第二項第二号、第三十一条の二十五、第三十四条第二項、第三十五条、第三十五条の二又は第三十五条の四第二項若しくは第四項第二号の規定による公安委員会の処分に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十二条第一項第三号の規定又は同項第四号から第六号まで（これらの規定を第三十一条の二十三及び第三十二条第三項において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の二十二の規定に違反して同条の許可を受けないで特定遊興飲食店営業を営んだとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十八条第十二項第三号の規定又は同項第四号若しくは第五号（これらの規定を第三十一条の三第二項の規定により適用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第三十一条の二十二の許可又は第三十一条の二十三において準用する第七条第一項、第七条の二第一項若しくは第七条の三第一項の承認を受けたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条の三第三項第一号の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の二十三において準用する第十一条の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第九条第一項（第二十条第十項及び第三十一条の二十三において準用する場合を含む。以下この号及び次号において同じ。）の規定に違反して第九条第一項の承認を受けないで営業所の構造又は設備（第四条第四項に規定する遊技機を含む。）の変更をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第九条第一項の承認を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第十条の二第一項（第三十一条の二十三において準用する場合を含む。）の認定を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条第一項第三号の規定又は同項第四号から第六号まで（これらの規定を第三十一条の二十三及び第三十二条第三項において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第十二項第三号の規定又は同項第四号若しくは第五号（これらの規定を第三十一条の三第二項の規定により適用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の三第三項第一号の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条の十又は第三十一条の十一第二項第二号の規定による公安委員会の命令に従わなかつた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の十又は第三十一条の十一第二項第二号の規定による公安委員会の命令に従わなかつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条の十三第二項第三号から第六号までの規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の十三第二項第三号から第六号までの規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条の十八第二項第一号の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の十八第二項第一号の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十三条第四項の規定に基づく都道府県の条例の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条第四項の規定に基づく都道府県の条例の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3639,8 +3816,8 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="51">
-          <ArticleTitle>第五十一条</ArticleTitle>
+        <Article Num="52">
+          <ArticleTitle>第五十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -3648,92 +3825,53 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="52">
-          <ArticleTitle>第五十二条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、六月以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十二条第一項第一号若しくは第二号（これらの規定を第三十一条の二十三及び第三十二条第三項において準用する場合を含む。）、第二十八条第十二項第一号若しくは第二号（これらの規定を第三十一条の三第二項の規定により適用する場合を含む。）又は第三十一条の十三第二項第一号若しくは第二号の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十三条第一項第一号又は第二号の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十三条第二項の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十七条第一項、第三十一条の二第一項、第三十一条の七第一項、第三十一条の十二第一項又は第三十一条の十七第一項の届出書を提出しないで性風俗関連特殊営業を営んだ者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前号に規定する届出書又はこれらの届出書に係る第二十七条第三項（第三十一条の十二第二項において準用する場合を含む。）若しくは第三十一条の二第三項（第三十一条の七第二項及び第三十一条の十七第二項において準用する場合を含む。）の添付書類であつて虚偽の記載のあるものを提出した者</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-        </Article>
         <Article Num="53">
           <ArticleTitle>第五十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、六月以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十七条の二又は第三十一条の二の二の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条第一項第一号若しくは第二号（これらの規定を第三十一条の二十三及び第三十二条第三項において準用する場合を含む。）、第二十八条第十二項第一号若しくは第二号（これらの規定を第三十一条の三第二項の規定により適用する場合を含む。）又は第三十一条の十三第二項第一号若しくは第二号の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十八条第五項（第三十一条の三第一項、第三十一条の八第一項、第三十一条の十三第一項及び第三十一条の十八第一項において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条の二の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十六条の規定に違反して、従業者名簿を備えず、又はこれに必要な記載をせず、若しくは虚偽の記載をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第一項第一号又は第二号の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十六条の二第一項の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第二項の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十六条の二第二項の規定に違反して、記録を作成せず、若しくは虚偽の記録を作成し、又は記録を保存しなかつた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第一項、第三十一条の二第一項、第三十一条の七第一項、第三十一条の十二第一項又は第三十一条の十七第一項の届出書を提出しないで性風俗関連特殊営業を営んだとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十七条第一項の規定に違反して、報告をせず、若しくは資料を提出せず、又は同項の報告若しくは資料の提出について虚偽の報告をし、若しくは虚偽の資料を提出した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前号に規定する届出書又はこれらの届出書に係る第二十七条第三項（第三十一条の十二第二項において準用する場合を含む。）若しくは第三十一条の二第三項（第三十一条の七第二項及び第三十一条の十七第二項において準用する場合を含む。）の添付書類であつて虚偽の記載のあるものを提出したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十七条第二項又は第三十八条の二第一項の規定による立入りを拒み、妨げ、又は忌避した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第十三項（第三十一条の三第一項において準用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3743,42 +3881,48 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五条第一項（第三十一条の二十三において準用する場合を含む。）の許可申請書又は添付書類であつて虚偽の記載のあるものを提出した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の二又は第三十一条の二の二の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第九条第五項後段（第三十一条の二十三において準用する場合を含む。以下この号において同じ。）の規定に違反して、届出書を提出せず、又は同項後段の届出書若しくは添付書類であつて虚偽の記載のあるものを提出した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第五項（第三十一条の三第一項、第三十一条の八第一項、第三十一条の十三第一項及び第三十一条の十八第一項において準用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十条の二第二項（第三十一条の二十三において準用する場合を含む。）の認定申請書又は添付書類であつて虚偽の記載のあるものを提出した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十六条の規定に違反して、従業者名簿を備えず、又はこれに必要な記載をせず、若しくは虚偽の記載をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十三条第一項第三号又は第四号（これらの規定を同条第三項において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十六条の二第一項の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十四条第一項（第三十一条の二十三において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十六条の二第二項の規定に違反して、記録を作成せず、若しくは虚偽の記録を作成し、又は記録を保存しなかつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十七条第二項（第三十一条の十二第二項において準用する場合を含む。以下この号において同じ。）、第三十一条の二第二項（第三十一条の七第二項及び第三十一条の十七第二項において準用する場合を含む。以下この号において同じ。）又は第三十三条第一項の規定に違反して、届出書を提出せず、又は第二十七条第二項、第三十一条の二第二項若しくは第三十三条第一項の届出書若しくはこれらの届出書に係る第二十七条第三項（第三十一条の十二第二項において準用する場合を含む。）、第三十一条の二第三項（第三十一条の七第二項及び第三十一条の十七第二項において準用する場合を含む。）若しくは第三十三条第三項の添付書類であつて虚偽の記載のあるものを提出した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十七条第一項の規定に違反して、報告をせず、若しくは資料を提出せず、又は同項の報告若しくは資料の提出について虚偽の報告をし、若しくは虚偽の資料を提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十七条第二項又は第三十八条の二第一項の規定による立入りを拒み、妨げ、又は忌避したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3788,42 +3932,42 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六条（第三十一条の二十三において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項（第三十一条の二十三において準用する場合を含む。）の許可申請書又は添付書類であつて虚偽の記載のあるものを提出したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第七条第五項（第七条の二第三項及び第七条の三第三項（これらの規定を第三十一条の二十三において準用する場合を含む。）並びに第三十一条の二十三において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第九条第五項後段（第三十一条の二十三において準用する場合を含む。以下この号において同じ。）の規定に違反して、届出書を提出せず、又は同項後段の届出書若しくは添付書類であつて虚偽の記載のあるものを提出したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第九条第三項（第二十条第十項及び第三十一条の二十三において準用する場合を含む。以下この号において同じ。）又は第三十三条第二項の規定に違反して、届出書を提出せず、又は第九条第三項若しくは第三十三条第二項の届出書若しくはこれらの届出書に係る第九条第三項若しくは第三十三条第三項の添付書類であつて虚偽の記載のあるものを提出した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の二第二項（第三十一条の二十三において準用する場合を含む。）の認定申請書又は添付書類であつて虚偽の記載のあるものを提出したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十条第一項（第三十一条の二十三において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第一項第三号又は第四号（これらの規定を同条第三項において準用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十条の二第七項（第三十一条の二十三において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第一項（第三十一条の二十三において準用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条第四項（第三十一条の五第三項及び第三十一条の六第三項において準用する場合を含む。）又は第三十一条の十六第四項の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第二項（第三十一条の十二第二項において準用する場合を含む。以下この号において同じ。）、第三十一条の二第二項（第三十一条の七第二項及び第三十一条の十七第二項において準用する場合を含む。以下この号において同じ。）又は第三十三条第一項の規定に違反して、届出書を提出せず、又は第二十七条第二項、第三十一条の二第二項若しくは第三十三条第一項の届出書若しくはこれらの届出書に係る第二十七条第三項（第三十一条の十二第二項において準用する場合を含む。）、第三十一条の二第三項（第三十一条の七第二項及び第三十一条の十七第二項において準用する場合を含む。）若しくは第三十三条第三項の添付書類であつて虚偽の記載のあるものを提出したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3833,12 +3977,85 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法人の代表者、法人又は人の代理人、使用人その他の従業者が、法人又は人の営業に関し、第四十九条、第五十条第一項又は第五十二条から前条までの違反行為をしたときは、行為者を罰するほか、その法人又は人に対し、各本条の罰金刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六条（第三十一条の二十三において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第五項（第七条の二第三項及び第七条の三第三項（これらの規定を第三十一条の二十三において準用する場合を含む。）並びに第三十一条の二十三において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第九条第三項（第二十条第十項及び第三十一条の二十三において準用する場合を含む。以下この号において同じ。）又は第三十三条第二項の規定に違反して、届出書を提出せず、又は第九条第三項若しくは第三十三条第二項の届出書若しくはこれらの届出書に係る第九条第三項若しくは第三十三条第三項の添付書類であつて虚偽の記載のあるものを提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条第一項（第三十一条の二十三において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の二第七項（第三十一条の二十三において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条第四項（第三十一条の五第三項及び第三十一条の六第三項において準用する場合を含む。）又は第三十一条の十六第四項の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="57">
           <ArticleTitle>第五十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第四十九条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">三億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第五十条、第五十一条第一項又は第五十三条から前条まで</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">各本条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により第四十九条の違反行為につき法人又は人に罰金刑を科する場合における時効の期間は、同条の罪についての時効の期間による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="58">
+          <ArticleTitle>第五十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5511,6 +5728,69 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条第一項の改正規定（同項第二号イの改正規定を除く。）、第二十四条第二項第二号の改正規定及び第三十一条の二十三の表第四条第一項第六号及び第七号の項の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日（次項及び附則第五条において「施行日」という。）が刑法等の一部を改正する法律（令和四年法律第六十七号）の施行の日（以下この項において「刑法施行日」という。）前である場合には、刑法施行日の前日までの間におけるこの法律による改正後の風俗営業等の規制及び業務の適正化等に関する法律第四十九条の規定の適用については、同条中「拘禁刑」とあるのは、「懲役」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">刑法施行日以後における刑法施行日前にした行為に対する同条の規定の適用についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日が刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）の施行の日前である場合には、同法第九十六条のうち風俗営業等の規制及び業務の適正化等に関する法律第四十九条、第五十条第一項、第五十一条及び第五十二条の改正規定中「第四十九条、第五十条第一項、第五十一条及び第五十二条」とあるのは、「第五十条、第五十一条第一項、第五十二条及び第五十三条」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

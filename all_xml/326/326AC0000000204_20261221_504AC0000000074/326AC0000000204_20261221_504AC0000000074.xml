@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="204" Year="26" PromulgateMonth="06" PromulgateDay="07"><LawNum>昭和二十六年法律第二百四号</LawNum><LawBody><LawTitle Kana="こうあつがすほあんほう" Abbrev="保安四法" AbbrevKana="ほ">高圧ガス保安法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="26" Num="204" PromulgateMonth="06" PromulgateDay="07" LawType="Act"><LawNum>昭和二十六年法律第二百四号</LawNum><LawBody><LawTitle Kana="こうあつがすほあんほう" Abbrev="保安四法" AbbrevKana="ほ">高圧ガス保安法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -185,7 +185,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">船舶安全法（昭和八年法律第十一号）第二条第一項の規定の適用を受ける船舶及び自衛隊の使用する船舶（水陸両用車両を含む。）内における高圧ガス</Sentence>
+                <Sentence Num="1" WritingMode="vertical">船舶安全法（昭和八年法律第十一号）第二条第一項の規定の適用を受ける船舶内並びに自衛隊の使用する船舶（水陸両用車両を含む。）及び装備移転（防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律（令和五年法律第五十四号）第二条第四項に規定する装備移転をいう。）の対象となる船舶として製造されるもの（水陸両用車両を含む。）内における高圧ガス</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -8663,6 +8663,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和八年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中自衛隊法第百九条第一項の改正規定及び同法第百十一条の次に二条を加える改正規定並びに附則第七条及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して九月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>

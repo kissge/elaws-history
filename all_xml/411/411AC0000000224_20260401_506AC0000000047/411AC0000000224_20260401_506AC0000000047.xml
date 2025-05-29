@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="224" Year="11" PromulgateMonth="12" PromulgateDay="22"><LawNum>平成十一年法律第二百二十四号</LawNum><LawBody><LawTitle Kana="くにとみんかんきぎょうとのあいだのじんじこうりゅうにかんするほうりつ" Abbrev="官民人事交流法,官民交流法" AbbrevKana="か,か">国と民間企業との間の人事交流に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="11" Num="224" PromulgateMonth="12" PromulgateDay="22" LawType="Act"><LawNum>平成十一年法律第二百二十四号</LawNum><LawBody><LawTitle Kana="くにとみんかんきぎょうとのあいだのじんじこうりゅうにかんするほうりつ" Abbrev="官民人事交流法,官民交流法" AbbrevKana="か,か">国と民間企業との間の人事交流に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -606,7 +606,7 @@
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項において準用する第七条第一項の規定により交流派遣をされた自衛官（次項において「交流派遣自衛官」という。）に関する自衛隊法第九十八条第四項及び第九十九条第一項の規定の適用については、派遣先企業の業務を公務とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項において準用する第七条第一項の規定により交流派遣をされた自衛官（次項において「交流派遣自衛官」という。）に関する自衛隊法第九十八条第四項、第九十九条第一項及び第九十九条の二第一項第二号の規定の適用については、派遣先企業の業務を公務とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
@@ -1778,6 +1778,54 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和八年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中自衛隊法第三十三条の改正規定（「、自衛官候補生」を削る部分を除く。）及び同法第九十九条の次に一条を加える改正規定並びに第四条の規定（第四号に掲げる改正規定を除く。）並びに附則第四条、第十一条及び第十二条（国と民間企業との間の人事交流に関する法律（平成十一年法律第二百二十四号）第二十四条第一項の改正規定を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日又は令和七年四月一日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3:6">
+            <ItemTitle>三から六まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中自衛隊法第二十九条第一項の改正規定、同法第三十三条の改正規定（「、自衛官候補生」を削る部分に限る。）、同法第三十六条の改正規定、同法第五十八条第二項の改正規定並びに同法第九十七条第一項及び第二項の改正規定並びに第五条の規定並びに附則第五条、第六条、第十条及び第十二条（国と民間企業との間の人事交流に関する法律第二十四条第一項の改正規定に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
