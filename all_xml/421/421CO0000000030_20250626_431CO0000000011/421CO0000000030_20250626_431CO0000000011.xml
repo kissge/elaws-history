@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="030" Year="21" PromulgateMonth="03" PromulgateDay="06">
-  <LawNum>平成二十一年政令第三十号</LawNum>
-  <LawBody>
-    <LawTitle Kana="ひょうじゅんてきなかんしょくをさだめるせいれい" Abbrev="" AbbrevKana="">標準的な官職を定める政令</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="21" Num="030" PromulgateMonth="03" PromulgateDay="06" LawType="CabinetOrder"><LawNum>平成二十一年政令第三十号</LawNum><LawBody><LawTitle Kana="ひょうじゅんてきなかんしょくをさだめるせいれい" Abbrev="" AbbrevKana="">標準的な官職を定める政令</LawTitle>
     <EnactStatement>内閣は、国家公務員法（昭和二十二年法律第百二十号）第三十四条第二項の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Paragraph Num="1">
@@ -300,7 +297,7 @@
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="31">
-                <Sentence Num="1" WritingMode="vertical">二　警察職員の行う事務、公安調査官の行う事務、検察事務官若しくは検察技官の行う事務、海上保安官若しくは海上保安官補の行う事務（警備救難に関するものその他の内閣官房令で定めるものに限る。）、懲役、禁錮若しくは拘留の刑の執行のため拘置される者等の収容若しくは被収容者等に対する処遇、矯正教育、鑑別、補導若しくは送還に関する事務、入国警備官の行う事務又は麻薬取締官の行う事務をつかさどる官職の職務（五の項から十一の項まで、十五の項及び十七の項に掲げる職務を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">二　警察職員の行う事務、公安調査官の行う事務、検察事務官若しくは検察技官の行う事務、海上保安官若しくは海上保安官補の行う事務（警備救難に関するものその他の内閣官房令で定めるものに限る。）、拘禁刑若しくは拘留の刑の執行のため拘置される者等の収容若しくは被収容者等に対する処遇、矯正教育、鑑別若しくは送還に関する事務、入国警備官の行う事務又は麻薬取締官の行う事務をつかさどる官職の職務（五の項から十一の項まで、十五の項及び十七の項に掲げる職務を除く。）</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="8">
                 <Sentence Num="1" WritingMode="vertical">一　警察庁並びに公安調査庁及び最高検察庁並びに海上保安庁（次号から第八号まで及び第十号に掲げる部局又は機関等を除く。）</Sentence>
@@ -1367,7 +1364,7 @@
         </TableStruct>
       </Paragraph>
     </MainProvision>
-    <SupplProvision Extract="true">
+    <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -1376,6 +1373,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この政令は、国家公務員法等の一部を改正する法律（平成十九年法律第百八号）附則第一条第三号に掲げる規定の施行の日（平成二十一年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（職務の種類に関する特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百四十二条の規定によりなお従前の例によることとされる場合における本則の表二の項第一欄の規定の適用については、同欄中「拘禁刑若しくは拘留」とあるのは、「刑法等の一部を改正する法律（令和四年法律第六十七号）第二条の規定による改正前の刑法（明治四十年法律第四十五号。以下この欄において「旧刑法」という。）第十二条に規定する懲役、旧刑法第十三条に規定する禁錮若しくは旧刑法第十六条に規定する拘留」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1540,6 +1547,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この政令は、令和四年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二三日政令第一九三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、刑法等一部改正法の施行の日（令和七年六月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
