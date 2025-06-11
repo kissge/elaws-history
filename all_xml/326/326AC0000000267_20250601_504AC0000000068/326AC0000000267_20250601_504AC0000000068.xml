@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="267" Year="26" PromulgateMonth="11" PromulgateDay="28"><LawNum>昭和二十六年法律第二百六十七号</LawNum><LawBody><LawTitle Kana="りょけんほう" Abbrev="" AbbrevKana="">旅券法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="26" Num="267" PromulgateMonth="11" PromulgateDay="28" LawType="Act"><LawNum>昭和二十六年法律第二百六十七号</LawNum><LawBody><LawTitle Kana="りょけんほう" Abbrev="" AbbrevKana="">旅券法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -1178,12 +1178,12 @@
         </ParagraphSentence>
         <List>
           <ListSentence>
-            <Sentence WritingMode="vertical">連合国最高司令官の許可を得て海外に渡航する者に対して発給する旅券に関する政令（昭和二十五年政令第十一号）</Sentence>
+            <Sentence Num="1" WritingMode="vertical">連合国最高司令官の許可を得て海外に渡航する者に対して発給する旅券に関する政令（昭和二十五年政令第十一号）</Sentence>
           </ListSentence>
         </List>
         <List>
           <ListSentence>
-            <Sentence WritingMode="vertical">日本政府在外事務所の発給する旅券及びその取り扱う旅券事務に関する政令（昭和二十六年政令第二百八十五号）</Sentence>
+            <Sentence Num="1" WritingMode="vertical">日本政府在外事務所の発給する旅券及びその取り扱う旅券事務に関する政令（昭和二十六年政令第二百八十五号）</Sentence>
           </ListSentence>
         </List>
       </Paragraph>
@@ -2186,6 +2186,52 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二三日法律第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三条第四項、第五条第四項、第十条第二項、第十八条第二項、第三十九条及び第四十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条のうち、刑事訴訟法第三百七条の二の改正規定、同法中同条を第三百七条の三とし、第三百七条の次に一条を加える改正規定並びに同法第三百二十一条第一項第一号及び第三百五十条の二十四第一項の改正規定、第三条の規定、第十七条の規定、第二十二条中不正競争防止法第二十八条の改正規定、第二十三条中組織的な犯罪の処罰及び犯罪収益の規制等に関する法律（以下「組織的犯罪処罰法」という。）別表第一第四号及び第十号並びに別表第三第二号ヌの改正規定、第二十四条中犯罪捜査のための通信傍受に関する法律別表第二第二号の改正規定並びに第三十条中国際刑事裁判所に対する協力等に関する法律第六十四条の次に一条を加える改正規定並びに附則第八条、第二十一条第二項及び第二十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
