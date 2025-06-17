@@ -11965,6 +11965,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月六日法律第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月六日法律第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十三条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>　課税範囲、課税標準及び税率の表（第二条、第五条、第九条、第十条、第十三条、第十五条―第十七条、第十七条の三―第十九条、第二十三条、第二十四条、第三十四条―第三十四条の六関係）</RelatedArticleNum>
@@ -14230,12 +14253,12 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">九　動産の譲渡又は債権の譲渡若しくは質権の設定の登記</Sentence>
+              <Sentence Num="1" WritingMode="vertical">九　動産及び債権の譲渡の対抗要件に関する民法の特例等に関する法律（平成十年法律第百四号）の規定による登記</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（一）　動産の譲渡の登記</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（一）　動産の譲渡又は所有権の留保の登記</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
@@ -14267,8 +14290,107 @@
             </TableColumn>
           </TableRow>
           <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（四）　転譲渡担保権の設定等（転動産譲渡担保権の設定、転債権譲渡担保権の設定又は留保所有権を目的とする譲渡担保権の設定をいう。（六）において同じ。）の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（五）　譲渡担保権の移転による譲渡担保権者の変更、留保所有権の移転による留保所有権を有する者の変更又は質権の移転による質権者の変更の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">イ　相続又は法人の合併による変更の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき三千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">ロ　その他の原因による変更の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき七千五百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（六）　転譲渡担保権者等（転譲渡担保権の設定等を受けた者をいう。以下（六）及び（十）において同じ。）が取得した権利の移転による転譲渡担保権者等の変更の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（七）　根譲渡担保権又は根留保所有権の分割譲渡の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき七千五百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（八）　譲渡担保権又は留保所有権と他の譲渡担保権又は留保所有権とが競合する旨の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（九）　譲渡担保権又は留保所有権の順位の変更の合意の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">譲渡担保権及び留保所有権の件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（十）　譲渡担保権者、留保所有権を有する者若しくは質権者又は転譲渡担保権者等に関する事項の変更の登記（（一）から（九）までに掲げるものを除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（四）　登記の抹消</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十一）　登記の抹消</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
@@ -24961,7 +25083,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">百三十八　空港等若しくは航空保安施設の設置の許可、設計検査等に係る事業場の認定又は航空運送事業若しくは航空機使用事業の許可</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百三十八　航空法の規定による許可、認定又は登録（第三十二号及び次号に掲げるものを除く。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -25031,14 +25153,25 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">（五）　航空法第百二十九条第一項（外国人国際航空運送事業）の規定による旅客又は貨物を運送する事業の許可</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">一件につき十五万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（六）　航空法第九十九条の二（登録訓練機関の登録）の登録訓練機関の登録（更新の登録を除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
