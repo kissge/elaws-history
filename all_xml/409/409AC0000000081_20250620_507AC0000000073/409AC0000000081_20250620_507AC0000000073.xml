@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="081" Year="09" PromulgateMonth="06" PromulgateDay="13">
-  <LawNum>平成九年法律第八十一号</LawNum>
-  <LawBody>
-    <LawTitle Kana="かんきょうえいきょうひょうかほう" Abbrev="環境アセスメント法,環境アセス法" AbbrevKana="か,か">環境影響評価法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="09" Num="081" PromulgateMonth="06" PromulgateDay="13" LawType="Act"><LawNum>平成九年法律第八十一号</LawNum><LawBody><LawTitle Kana="かんきょうえいきょうひょうかほう" Abbrev="環境アセスメント法,環境アセス法" AbbrevKana="か,か">環境影響評価法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1768,7 +1765,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都市計画決定権者は、第四十条第一項の規定により環境影響評価その他の手続を行う場合には、同条第二項の規定により読み替えて適用される第二十五条第三項の規定による都道府県都市計画審議会又は市町村都市計画審議会への付議を、都市計画法第十八条第二項（同法第二十一条第二項において準用する場合及び同法第二十二条第一項の規定により読み替えて適用される場合を含む。）の規定による都道府県都市計画審議会への付議又は同法第十九条第二項（同法第二十一条第二項において準用する場合を含む。）の規定による市町村都市計画審議会若しくは都道府県都市計画審議会への付議と併せて行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都市計画決定権者は、第三十八条の六第一項又は第四十条第一項の規定により環境影響評価その他の手続を行う場合には、同条第二項の規定により読み替えて適用される第二十五条第三項の規定による都道府県都市計画審議会又は市町村都市計画審議会への付議を、都市計画法第十八条第二項（同法第二十一条第二項において準用する場合及び同法第二十二条第一項の規定により読み替えて適用される場合を含む。）の規定による都道府県都市計画審議会への付議又は同法第十九条第二項（同法第二十一条第二項において準用する場合を含む。）の規定による市町村都市計画審議会若しくは都道府県都市計画審議会への付議と併せて行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3270,6 +3267,52 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月二〇日法律第七三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四十一条第五項の改正規定及び附則第三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">目次の改正規定、第二十一条第二項の改正規定、第四十八条第二項の改正規定、第四十九条の改正規定、第六十二条を第六十三条とし、第五十六条から第六十一条までを一条ずつ繰り下げる改正規定、第五十五条第二項の改正規定、同条を第五十六条とする改正規定、第五十四条第二項の改正規定、同条を第五十五条とする改正規定、第五十三条の前の見出しを削る改正規定、同条を第五十四条とし、同条の前に見出しを付する改正規定、第五十二条を第五十三条とし、第五十一条の次に一条を加える改正規定及び附則第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>

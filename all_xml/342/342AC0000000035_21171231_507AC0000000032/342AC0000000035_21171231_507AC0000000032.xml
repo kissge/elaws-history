@@ -11988,6 +11988,43 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一一日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一三日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第八条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条及び前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>　課税範囲、課税標準及び税率の表（第二条、第五条、第九条、第十条、第十三条、第十五条―第十七条、第十七条の三―第十九条、第二十三条、第二十四条、第三十四条―第三十四条の六関係）</RelatedArticleNum>
@@ -21014,7 +21051,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">四十九　第三者型前払式支払手段の発行者の登録、資金移動業者の登録、電子決済手段等取引業者の登録、暗号資産交換業者の登録、為替取引分析業者の許可、資金清算業の免許又は認定資金決済事業者協会の認定</Sentence>
+              <Sentence Num="1" WritingMode="vertical">四十九　第三者型前払式支払手段の発行者の登録、資金移動業者の登録、電子決済手段等取引業者の登録、暗号資産交換業者の登録、電子決済手段・暗号資産サービス仲介業者の登録、為替取引分析業者の許可、資金清算業の免許又は認定資金決済事業者協会の認定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -21085,7 +21122,29 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（七）　資金決済に関する法律第六十三条の二十三（為替取引分析業者の許可）の為替取引分析業者の許可</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（七）　資金決済に関する法律第六十三条の二十二の二（電子決済手段・暗号資産サービス仲介業者の登録）の電子決済手段・暗号資産サービス仲介業者の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（八）　資金決済に関する法律第六十三条の二十二の六第一項（変更登録等）の変更登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（九）　資金決済に関する法律第六十三条の二十三（為替取引分析業者の許可）の為替取引分析業者の許可</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -21096,7 +21155,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（八）　資金決済に関する法律第六十三条の三十三第一項（業務の種別の変更の許可等）の変更の許可</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十）　資金決済に関する法律第六十三条の三十三第一項（業務の種別の変更の許可等）の変更の許可</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -21107,7 +21166,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（九）　資金決済に関する法律第六十四条第一項（資金清算機関の免許等）の資金清算業の免許</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十一）　資金決済に関する法律第六十四条第一項（資金清算機関の免許等）の資金清算業の免許</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">免許件数</Sentence>
@@ -21118,7 +21177,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十）　資金決済に関する法律第八十七条（認定資金決済事業者協会の認定）の認定資金決済事業者協会の認定</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十二）　資金決済に関する法律第八十七条（認定資金決済事業者協会の認定）の認定資金決済事業者協会の認定</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
@@ -24306,7 +24365,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（四）　貨物自動車運送事業法第三条（一般貨物自動車運送事業の許可）の一般貨物自動車運送事業の許可</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（四）　貨物自動車運送事業法第三条（一般貨物自動車運送事業の許可）の一般貨物自動車運送事業の許可（更新の許可を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -24317,7 +24376,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（五）　貨物自動車運送事業法第三十五条第一項（特定貨物自動車運送事業）の特定貨物自動車運送事業の許可</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（五）　貨物自動車運送事業法第三十五条第一項（特定貨物自動車運送事業）の特定貨物自動車運送事業の許可（更新の許可を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
