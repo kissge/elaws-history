@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="040" Year="46" PromulgateMonth="06" PromulgateDay="05">
-  <LawNum>昭和四十六年農林省令第四十号</LawNum>
-  <LawBody>
-    <LawTitle Kana="さくもつとうけいちょうさきそく" Abbrev="" AbbrevKana="">作物統計調査規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="46" Num="040" PromulgateMonth="06" PromulgateDay="05" LawType="MinisterialOrdinance"><LawNum>昭和四十六年農林省令第四十号</LawNum><LawBody><LawTitle Kana="さくもつとうけいちょうさきそく" Abbrev="" AbbrevKana="">作物統計調査規則</LawTitle>
     <EnactStatement>統計法（昭和二十二年法律第十八号）第三条第二項の規定に基づき、作物統計調査規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -153,36 +150,14 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">耕地面積調査は、全国の区域を区分して抽出した区域（以下「標本単位区」という。）内にある耕地につき統計職員又は統計調査員（次条第一項に規定する統計調査員をいう。）（以下「統計職員等」という。）による実測調査の方法によつて行う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">耕地面積調査は、全国の区域を区分して抽出した区域内にある耕地につき統計職員又は統計調査員（次条第一項に規定する統計調査員をいう。）（以下「統計職員等」という。）による実測調査の方法によつて行う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">作付面積調査は、次の各号に掲げる調査客体につき当該各号に掲げる調査方法によつて行う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">作付面積調査は、地方農政局長（北海道にあつては北海道農政事務所長、沖縄県にあつては沖縄総合事務局の農林水産センターの長。以下「地方農政局等の長」という。）が農業協同組合その他の関係団体（以下「関係団体」という。）又は農林業センサス規則（昭和四十四年農林省令第三十九号）第二条第二項（第三号及び第五号を除く。）に規定する農林業経営体（以下「経営体」という。）のうちから選定したものにつき農林水産大臣が定める調査票を配布して行う自計報告調査の方法によつて行う。</Sentence>
           </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">標本単位区内にある土地</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">統計職員等による実測調査の方法</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">地方農政局長（北海道にあつては北海道農政事務所長、沖縄県にあつては沖縄総合事務局の農林水産センターの長。以下「地方農政局等の長」という。）が農業協同組合その他の関係団体（以下「関係団体」という。）のうちから選定したもの</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">農林水産大臣が定める調査票を配布して行う自計報告調査の方法</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
@@ -243,13 +218,19 @@
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">地方農政局等の長が関係団体又は農林業センサス規則（昭和四十四年農林省令第三十九号）第二条第二項（第三号及び第五号を除く。）に規定する農林業経営体（第十条において「経営体」という。）のうちから選定したもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">地方農政局等の長が関係団体又は経営体のうちから選定したもの</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">農林水産大臣が定める調査票を配布して行う自計報告調査の方法</Sentence>
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第二項及び前項に掲げる調査に係る事務の一部を民間事業者に委託して行うことができる。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="9">
@@ -274,7 +255,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第八条第二項第二号又は第四項第三号の規定により選定された関係団体又は経営体を代表する者は、第七条第二項又は第四項に規定する調査事項について、第八条第二項第二号又は第四項第三号の規定により配布された調査票に記入して地方農政局等の長にその定める期日までに送付しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第八条第二項又は第四項第三号の規定により選定された関係団体又は経営体を代表する者は、第七条第二項又は第四項に規定する調査事項について、第八条第二項又は第四項第三号の規定により配布された調査票に記入して地方農政局等の長又は第八条第五項の規定により調査に係る事務を民間事業者に委託して行う場合の当該民間事業者（以下「受託事業者」という。）にその定める期日までに送付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -416,19 +397,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第十二条第四項の規定により送付された調査票の内容を収録した電磁的記録及び第十四条の規定により作成した全国結果表の内容を収録した電磁的記録を永年保存する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">地方農政局長、北海道農政事務所長及び沖縄総合事務局長は、第十二条第一項又は第三項の規定により集計を行つた都道府県別の集計結果を収録した電磁的記録を永年保存し、同条第一項若しくは第三項又は第十三条第二項の規定により作成した都道府県別結果表を調査の実施された年（次項において「調査年」という。）の翌年の一月一日から起算して五年を経過する日まで保存しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">沖縄総合事務局の農林水産センターの長は、第十二条第二項の規定により集計を行つた結果を収録した電磁的記録を永年保存し、同項の規定により作成した報告書を調査年の翌年の一月一日から起算して五年を経過する日まで保存しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第十二条第四項又は第十三条第二項の規定により送付された都道府県別結果表を調査の実施された年の翌年の四月一日から起算して三年を経過する日まで保存し、並びに第十二条第四項の規定により送付された都道府県別の集計結果及び調査票の内容を収録した電磁的記録並びに第十四条の規定により作成した全国結果表の内容を収録した電磁的記録を永年保存する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -893,6 +862,15 @@
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和六年六月六日農林水産省令第三四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一九日農林水産省令第二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
