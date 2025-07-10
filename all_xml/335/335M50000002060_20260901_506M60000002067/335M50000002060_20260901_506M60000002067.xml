@@ -6097,7 +6097,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第九十条の二第一項各号に掲げる種類の免許に係る免許試験に合格した者で、当該各号に定める講習を受けていないもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">免許試験に合格した者で、当該免許試験に係る免許を受けていないもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -12216,8 +12216,7 @@
       <Paragraph Num="3">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">前項の規定により運転免許証の様式についてなお従前の例による場合においては、従前の様式による運転免許証の裏側の「免許証の更新は、有効期間の満了する誕生日の１箇月前から受けることができます。手続に必要なものは、免許証、写真１枚（縦３．０ｃｍ、横２．４ｃｍ）及び手数料です。</Sentence>
-          <Sentence Num="2" WritingMode="vertical">」の欄に、国家公安委員会の定める書面をはり付けることができる。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">前項の規定により運転免許証の様式についてなお従前の例による場合においては、従前の様式による運転免許証の裏側の「免許証の更新は、有効期間の満了する誕生日の１箇月前から受けることができます。手続に必要なものは、免許証、写真１枚（縦３．０ｃｍ、横２．４ｃｍ）及び手数料です。」の欄に、国家公安委員会の定める書面をはり付けることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -14483,7 +14482,30 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和七年六月二〇日内閣府令第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この府令は、道路交通法の一部を改正する法律（令和六年法律第三十四号）の施行の日（令和八年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この府令の施行前に交付された仮運転免許証の様式については、改正後の道路交通法施行規則別記様式第十五の様式にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この府令による改正前の様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14492,7 +14514,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14501,7 +14523,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14510,7 +14532,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三</AppdxStyleTitle>
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14519,7 +14541,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三の二</AppdxStyleTitle>
       <RelatedArticleNum>（第五条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14528,7 +14550,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三の三</AppdxStyleTitle>
       <RelatedArticleNum>（第五条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14537,7 +14559,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三の四</AppdxStyleTitle>
       <RelatedArticleNum>（第五条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14546,7 +14568,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三の五</AppdxStyleTitle>
       <RelatedArticleNum>（第六条の三の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14555,7 +14577,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三の六</AppdxStyleTitle>
       <RelatedArticleNum>（第六条の三の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14564,7 +14586,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三の七</AppdxStyleTitle>
       <RelatedArticleNum>（第六条の三の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14573,7 +14595,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_3_8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の三の八</AppdxStyleTitle>
       <RelatedArticleNum>（第六条の三の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14582,7 +14604,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の四</AppdxStyleTitle>
       <RelatedArticleNum>（第六条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14591,7 +14613,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の五</AppdxStyleTitle>
       <RelatedArticleNum>（第六条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14600,7 +14622,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="1_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一の六</AppdxStyleTitle>
       <RelatedArticleNum>（第六条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14609,7 +14631,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二</AppdxStyleTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14618,7 +14640,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14627,7 +14649,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二の三</AppdxStyleTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14636,7 +14658,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二の四</AppdxStyleTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14645,7 +14667,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二の五</AppdxStyleTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14654,7 +14676,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第三</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14663,7 +14685,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第三の二</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14672,7 +14694,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第三の三</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14681,7 +14703,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第三の四</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14690,7 +14712,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第三の五</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14699,7 +14721,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第三の六</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14708,7 +14730,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第三の七</AppdxStyleTitle>
       <RelatedArticleNum>（第七条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14717,7 +14739,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第四</AppdxStyleTitle>
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14726,7 +14748,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第四の二</AppdxStyleTitle>
       <RelatedArticleNum>（第八条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14735,7 +14757,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第四の三</AppdxStyleTitle>
       <RelatedArticleNum>（第八条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14744,7 +14766,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五</AppdxStyleTitle>
       <RelatedArticleNum>（第八条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14753,7 +14775,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の二</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14762,7 +14784,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14771,7 +14793,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_2_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の二の三</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14780,7 +14802,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_2_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の二の四</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14789,7 +14811,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の三</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の十五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14798,7 +14820,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の四</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の十六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14807,7 +14829,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の五</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の十七、第九条の十八関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14816,7 +14838,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の六</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の十七、第九条の十八関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14825,7 +14847,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の七</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の十九、第九条の二十三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14834,7 +14856,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の八</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の十九関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14843,7 +14865,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の九</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の二十関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14852,7 +14874,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の十</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の二十三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14861,7 +14883,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の十一</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の二十五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14870,7 +14892,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の十二</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の三十三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14879,7 +14901,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5_13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第五の十三</AppdxStyleTitle>
       <RelatedArticleNum>（第九条の三十五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14888,7 +14910,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第六</AppdxStyleTitle>
       <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14897,7 +14919,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第七</AppdxStyleTitle>
       <RelatedArticleNum>（第十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14906,7 +14928,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第八</AppdxStyleTitle>
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14915,7 +14937,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第九</AppdxStyleTitle>
       <RelatedArticleNum>（第十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14924,7 +14946,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第九の二</AppdxStyleTitle>
       <RelatedArticleNum>（第十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14933,7 +14955,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十</AppdxStyleTitle>
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14942,7 +14964,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十の二</AppdxStyleTitle>
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14951,7 +14973,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十一</AppdxStyleTitle>
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14960,7 +14982,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十二</AppdxStyleTitle>
       <RelatedArticleNum>（第十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14969,7 +14991,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条の二の二、第二十九条、第二十九条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14978,7 +15000,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十三</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条の二の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14987,7 +15009,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十三の二</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条の二の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -14996,7 +15018,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十三の三</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15005,7 +15027,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十三の四</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15014,7 +15036,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十三の五</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15023,7 +15045,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十三の六</AppdxStyleTitle>
       <RelatedArticleNum>（第十八条の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15032,7 +15054,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="14">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十四</AppdxStyleTitle>
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15041,16 +15063,16 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="15">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十五</AppdxStyleTitle>
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000004503.pdf"/>
+          <Fig src="./pict/2FH00000078721.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="16">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十六</AppdxStyleTitle>
       <RelatedArticleNum>（第二十条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15059,7 +15081,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七</AppdxStyleTitle>
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15068,7 +15090,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十一条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15077,7 +15099,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の三</AppdxStyleTitle>
       <RelatedArticleNum>（第二十一条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15086,7 +15108,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の四</AppdxStyleTitle>
       <RelatedArticleNum>（第二十一条の八関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15095,7 +15117,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の五</AppdxStyleTitle>
       <RelatedArticleNum>（第二十一条の九関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15104,7 +15126,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の六</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15113,7 +15135,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_6_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の六の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15122,7 +15144,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の七</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15131,7 +15153,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="17_8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十七の八</AppdxStyleTitle>
       <RelatedArticleNum>（第二十八条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15140,7 +15162,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十八</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15149,7 +15171,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十八の二</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15158,7 +15180,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十八の三</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条の二の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15167,7 +15189,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十八の四</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条の二の四、第三十七条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15176,7 +15198,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十八の五</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条の二の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15185,7 +15207,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="18_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十八の六</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条の二の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15194,7 +15216,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九</AppdxStyleTitle>
       <RelatedArticleNum>（第二十九条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15203,7 +15225,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条、第三十七条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15212,7 +15234,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の二、第三十七条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15221,7 +15243,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15230,7 +15252,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の三の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15239,7 +15261,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15248,7 +15270,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の四</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15257,7 +15279,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_4_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の四の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15266,7 +15288,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の五</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15275,7 +15297,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の六</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15284,7 +15306,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の七</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15293,7 +15315,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の八</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15302,7 +15324,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_3_9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の三の九</AppdxStyleTitle>
       <RelatedArticleNum>（第三十条の九関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15311,7 +15333,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の四</AppdxStyleTitle>
       <RelatedArticleNum>（第三十一条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15320,7 +15342,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_4_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の四の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十一条の四の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15329,7 +15351,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_4_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の四の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十一条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15338,7 +15360,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の五</AppdxStyleTitle>
       <RelatedArticleNum>（第三十四条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15347,7 +15369,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="19_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第十九の六</AppdxStyleTitle>
       <RelatedArticleNum>（第三十四条の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15356,7 +15378,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="20">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十</AppdxStyleTitle>
       <RelatedArticleNum>（第三十五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15365,7 +15387,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十一</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15374,7 +15396,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="21_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十一の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15383,7 +15405,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15392,7 +15414,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15401,7 +15423,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の二の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15410,7 +15432,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の四</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の三関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15419,7 +15441,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の五</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15428,7 +15450,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の六</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の五の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15437,7 +15459,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_6_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の六の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の五の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15446,7 +15468,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_6_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の六の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の五の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15455,7 +15477,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の七</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の七関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15464,7 +15486,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の八</AppdxStyleTitle>
       <RelatedArticleNum>（第三十七条の九関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15473,7 +15495,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の九</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15482,7 +15504,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15491,7 +15513,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15500,7 +15522,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15509,7 +15531,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_2_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の二の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15518,7 +15540,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_2_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の二の四</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15527,7 +15549,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15536,7 +15558,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_3_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の三の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15545,7 +15567,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の四</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15554,7 +15576,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の五</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15563,7 +15585,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_5_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の五の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15572,7 +15594,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_5_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の五の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15581,7 +15603,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の六</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15590,7 +15612,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_6_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の六の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15599,7 +15621,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_10_7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十の七</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15608,7 +15630,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十一</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15617,7 +15639,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_11_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十一の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の四の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15626,7 +15648,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_11_2_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十一の二の二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の四の二の二関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15635,7 +15657,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_11_3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十一の三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の四の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15644,7 +15666,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_11_4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十一の四</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の四の四関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15653,7 +15675,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十二</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15662,7 +15684,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="22_13">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十二の十三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の五関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15671,7 +15693,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="23">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十三</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の六関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15680,7 +15702,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="24">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十四</AppdxStyleTitle>
       <RelatedArticleNum>（第三十八条の八関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15689,25 +15711,25 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="25">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十五</AppdxStyleTitle>
       <RelatedArticleNum>（第四十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000074930.pdf"/>
+          <Fig src="./pict/2FH00000078722.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="26">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十六</AppdxStyleTitle>
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000074931.pdf"/>
+          <Fig src="./pict/2FH00000078723.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="27">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十七</AppdxStyleTitle>
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15716,7 +15738,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="28">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十八</AppdxStyleTitle>
       <RelatedArticleNum>（第四十三条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15725,7 +15747,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="29">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二十九</AppdxStyleTitle>
       <RelatedArticleNum>（第四十五条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -15734,7 +15756,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxTable Num="1">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
       <TableStruct>
@@ -15846,7 +15868,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="1_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一の二</AppdxTableTitle>
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
       <TableStruct>
@@ -15891,7 +15913,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <TableStruct>
@@ -16363,7 +16385,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2_2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二の二</AppdxTableTitle>
       <RelatedArticleNum>（第三十条の十一関係）</RelatedArticleNum>
       <TableStruct>
@@ -16515,7 +16537,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="3">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
       <RelatedArticleNum>（第三十二条関係）</RelatedArticleNum>
       <TableStruct>
@@ -17652,7 +17674,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="4">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <TableStruct>
@@ -22218,7 +22240,7 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxFig Num="0">
+    <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図</AppdxFigTitle>
       <RelatedArticleNum>（第五条の二関係）</RelatedArticleNum>
       <FigStruct>
