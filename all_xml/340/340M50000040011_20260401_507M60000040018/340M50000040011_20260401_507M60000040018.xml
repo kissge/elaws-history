@@ -2276,7 +2276,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">金融機関の振替口座簿（令第五十一条第一号（貸付信託の受益権の収益の分配のうち公共法人等が引き続き所有していた期間の金額）に規定する金融機関の振替口座簿をいう。以下この条及び次条第一項において同じ。）に記載若しくは記録を受け、又は保管の委託をした者の名称及び所在地</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">金融機関の振替口座簿（令第五十一条第一号（貸付信託の受益権の収益の分配のうち公共法人等が引き続き所有していた期間の金額）に規定する金融機関の振替口座簿をいう。以下この条及び次条第一項第四号において同じ。）に記載若しくは記録を受け、又は保管の委託をした者の氏名又は名称及び住所若しくは居所又は所在地</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -2328,7 +2328,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">当該申告書を提出する者の名称、本店又は主たる事務所の所在地及び法人番号</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該申告書を提出する者の氏名又は名称、住所若しくは居所又は本店若しくは主たる事務所の所在地及び個人番号又は法人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -14433,7 +14433,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">ロの寄附金を受領した法人又は法第七十八条第三項（寄附金控除）に規定する特定公益信託の受託者の名称及び所在地並びに当該特定公益信託の名称</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ロの寄附金を受領した法人又は法第十一条第二項（公共法人等及び公益信託等に係る非課税）に規定する公益信託の受託者の氏名又は名称及び住所若しくは居所又は所在地並びに当該公益信託の名称</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -24199,6 +24199,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="7">
+        <ArticleCaption>（信託の計算書に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">改正法附則第三条第一項の規定の適用がある場合における新規則第九十六条の規定の適用については、同条第一項第七号ハ中「規定する公益信託」とあるのは「規定する公益信託若しくは所得税法等の一部を改正する法律（令和六年法律第八号）附則第三条第一項（寄附金控除に関する経過措置）に規定する特定公益信託」と、「当該公益信託」とあるのは「当該公益信託又は特定公益信託」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="8">
         <ArticleCaption>（給与等、退職手当等又は公的年金等の支払明細書に関する経過措置）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
@@ -24218,10 +24228,22 @@
             <Sentence Num="1" WritingMode="vertical">新規則別表第三（五）、別表第四（二）、別表第五（三）及び別表第五（八）に定める書式は、施行日以後に所得税法第二百二十条、第二百二十四条第二項及び第二百二十五条第一項の規定により添付し、又は提出するこれらの規定に規定する計算書、告知書及び調書について適用し、施行日前にこれらの規定により添付し、又は提出したこれらの規定に規定する計算書、告知書及び調書については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新規則別表第七（一）に定める書式は、附則第一条第四号に定める日以後に所得税法第二百二十七条の規定により提出する同条に規定する計算書について適用し、同日前に同条の規定により提出した同条に規定する計算書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前二項に規定する書式は、当分の間、旧規則の相当の規定に定める計算書、告知書又は調書に、新規則別表第三（五）、別表第四（二）、別表第五（三）、別表第五（八）及び別表第七（一）に準じて、記載したものをもってこれに代えることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">改正法附則第三条第一項の規定の適用がある場合において、所得税法第二百二十七条に規定する信託が租税特別措置法（昭和三十二年法律第二十六号）第四条の五第一項に規定する特定寄附信託であるときにおける所得税法第二百二十七条に規定する計算書についての新規則別表第七（一）に定める書式の適用については、同表の備考２（９）ヘ（ｉｉｉ）中「規定する公益信託」とあるのは「規定する公益信託若しくは所得税法等の一部を改正する法律（令和６年法律第８号）附則第３条第１項に規定する特定公益信託」と、「当該公益信託」とあるのは「当該公益信託又は特定公益信託」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
