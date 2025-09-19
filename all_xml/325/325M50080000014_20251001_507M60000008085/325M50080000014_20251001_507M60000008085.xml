@@ -5844,8 +5844,50 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">広範囲の地域において同一の者により開設される無線局に専ら使用させることを目的として総務大臣が別に告示する周波数の電波のみを使用する基地局（次号に掲げるものを除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">広範囲の地域において同一の者により開設される無線局に専ら使用させることを目的として総務大臣が別に告示する周波数の電波のみを使用する基地局（第二号に掲げるものを除く。）</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="1_2">
+                <ItemTitle>一の二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次の表の上欄に掲げる周波数の電波のみを使用する基地局のうち、当該周波数に応じ、それぞれ同表の下欄に掲げる条件に適合するもの（次号に掲げるものを除く。）</Sentence>
+                </ItemSentence>
+                <TableStruct>
+                  <Table WritingMode="vertical">
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">周波数</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">条件</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">二、三三〇ＭＨｚを超え二、三七〇ＭＨｚ以下</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">二、三〇〇ＭＨｚを超え二、四〇〇ＭＨｚ以下の周波数の電波を使用する公共業務用無線局（移動しないものに限る。）の運用を阻害するような混信その他の妨害を与えるおそれがあるものとして総務大臣が別に告示する地域を除く地域に設置し、かつ、二、三三〇ＭＨｚを超え二、三七〇ＭＨｚ以下の周波数の電波を使用する放送事業用無線局及び二、三〇〇ＭＨｚを超え二、四〇〇ＭＨｚ以下の周波数の電波を使用する公共業務用無線局（移動しないものを除く。）の運用を阻害するような混信その他の妨害を防止するためにこれらの無線局の運用に関する情報に基づき電波の発射の停止等の措置を講ずるもの</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">三、四〇〇ＭＨｚを超え四、一〇〇ＭＨｚ以下</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">三、四〇〇ＭＨｚを超え四、二〇〇ＭＨｚ以下の周波数の電波を受信する宇宙無線通信を行う無線局の運用を阻害するような混信その他の妨害を与えるおそれがあるものとして総務大臣が別に告示する地域を除く地域に設置するもの又は当該告示する地域において屋内その他の当該宇宙無線通信を行う無線局の運用を阻害するような混信その他の妨害を与えるおそれがない場所に設置するもの</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">二七・〇ＧＨｚを超え二八・二ＧＨｚ以下又は二九・一ＧＨｚを超え二九・五ＧＨｚ以下</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">屋内その他の二七・〇ＧＨｚを超え三一・〇ＧＨｚ以下の周波数の電波を受信する人工衛星局の運用を阻害するような混信その他の妨害を与えるおそれがない場所に設置するもの</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                  </Table>
+                </TableStruct>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
@@ -5858,6 +5900,48 @@
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">広範囲の地域において同一の者により開設される無線局に専ら使用させることを目的として総務大臣が別に告示する周波数の電波のみを使用する陸上移動中継局</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="3_2">
+                <ItemTitle>三の二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次の表の上欄に掲げる周波数の電波のみを使用する陸上移動中継局のうち、当該周波数に応じ、それぞれ同表の下欄に掲げる条件に適合するもの</Sentence>
+                </ItemSentence>
+                <TableStruct>
+                  <Table WritingMode="vertical">
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">周波数</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">条件</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">二、三三〇ＭＨｚを超え二、三七〇ＭＨｚ以下</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">二、三〇〇ＭＨｚを超え二、四〇〇ＭＨｚ以下の周波数の電波を使用する公共業務用無線局（移動しないものに限る。）の運用を阻害するような混信その他の妨害を与えるおそれがあるものとして総務大臣が別に告示する地域を除く地域に設置し、かつ、二、三三〇ＭＨｚを超え二、三七〇ＭＨｚ以下の周波数の電波を使用する放送事業用無線局及び二、三〇〇ＭＨｚを超え二、四〇〇ＭＨｚ以下の周波数の電波を使用する公共業務用無線局（移動しないものを除く。）の運用を阻害するような混信その他の妨害を防止するためにこれらの無線局の運用に関する情報に基づき電波の発射の停止等の措置を講ずるもの</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">三、四〇〇ＭＨｚを超え三、六〇〇ＭＨｚ以下</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">三、四〇〇ＭＨｚを超え四、二〇〇ＭＨｚ以下の周波数の電波を受信する宇宙無線通信を行う無線局の運用を阻害するような混信その他の妨害を与えるおそれがあるものとして総務大臣が別に告示する地域を除く地域に設置するもの又は当該告示する地域において屋内その他の当該宇宙無線通信を行う無線局の運用を阻害するような混信その他の妨害を与えるおそれがない場所に設置するもの</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                    <TableRow>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">二七・〇ＧＨｚを超え二八・二ＧＨｚ以下又は二九・一ＧＨｚを超え二九・五ＧＨｚ以下</Sentence>
+                      </TableColumn>
+                      <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                        <Sentence Num="1" WritingMode="vertical">屋内その他の二七・〇ＧＨｚを超え三一・〇ＧＨｚ以下の周波数の電波を受信する人工衛星局の運用を阻害するような混信その他の妨害を与えるおそれがない場所に設置するもの</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                  </Table>
+                </TableStruct>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
@@ -5925,7 +6009,7 @@
                 <Subitem1 Num="7">
                   <Subitem1Title>（７）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の九第一項及び第二項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の九第一項及び第二項に規定する技術基準又は設備規則第四十九条の六の十第一項及び第三項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
@@ -5943,7 +6027,7 @@
                 <Subitem1 Num="10">
                   <Subitem1Title>（１０）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十第一項及び第三項に規定する技術基準</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="11">
@@ -5961,7 +6045,7 @@
                 <Subitem1 Num="13">
                   <Subitem1Title>（１３）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第一項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第一項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準、同条第二項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準又は設備規則第四十九条の六の十三第一項（第一号から第三号までに係る部分に限る。）に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="14">
@@ -5979,7 +6063,7 @@
                 <Subitem1 Num="16">
                   <Subitem1Title>（１６）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第二項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="17">
@@ -5997,7 +6081,7 @@
                 <Subitem1 Num="19">
                   <Subitem1Title>（１９）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十三に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="20">
@@ -6033,7 +6117,7 @@
                 <Subitem1 Num="25">
                   <Subitem1Title>（２５）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九第一項、第三項及び第八項並びに第一項、第四項及び第八項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九第一項、第三項及び第八項に規定する技術基準又は同条第一項、第四項及び第八項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="26">
@@ -6311,7 +6395,7 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>（１）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第一項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第一項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準又は同条第二項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -6323,7 +6407,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>（３）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第二項（第一号から第三号までに係る部分に限る。）及び第七項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
@@ -6377,7 +6461,7 @@
               <Item Num="10">
                 <ItemTitle>十</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条第二項第一号に規定する基地局</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第二項第一号及び第一号の二に規定する基地局</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>（１）</Subitem1Title>
@@ -6400,29 +6484,41 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>（４）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第一項に規定する技術基準のうち基地局に係るもの（次号（９）及び（１０）に掲げるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十第一項に規定する技術基準のうち基地局に係るもの（次号（７）及び（８）に掲げるものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
                   <Subitem1Title>（５）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十三に規定する技術基準のうち基地局に係るもの（次号（１３）及び（１４）に掲げるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第一項に規定する技術基準のうち基地局に係るもの（次号（９）及び（１０）に掲げるものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>（６）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十八に規定する技術基準のうち基地局に係るもの（次号（１５）及び（１６）に掲げるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第二項に規定する技術基準のうち基地局に係るもの（次号（１１）及び（１２）に掲げるものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
                   <Subitem1Title>（７）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九に規定する技術基準のうち基地局に係るもの（次号（１７）及び（１８）に掲げるものを除く。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十三に規定する技術基準のうち基地局に係るもの（次号（１３）及び（１４）に掲げるものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
                   <Subitem1Title>（８）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十八に規定する技術基準のうち基地局に係るもの（次号（１５）及び（１６）に掲げるものを除く。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="9">
+                  <Subitem1Title>（９）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九に規定する技術基準のうち基地局に係るもの（次号（１７）及び（１８）に掲げるものを除く。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="10">
+                  <Subitem1Title>（１０）</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九の二に規定する技術基準のうち基地局に係るもの（次号（１９）及び（２０）に掲げるものを除く。）</Sentence>
                   </Subitem1Sentence>
@@ -6557,7 +6653,7 @@
               <Item Num="12">
                 <ItemTitle>十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条第二項第三号に規定する陸上移動中継局</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第二項第三号及び第三号の二に規定する陸上移動中継局</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>（１）</Subitem1Title>
@@ -6568,17 +6664,35 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>（２）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十八に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>（３）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第一項及び第七項に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>（４）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の六の十二第二項及び第七項に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>（５）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十八に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>（６）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>（７）</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">設備規則第四十九条の二十九の二に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
                   </Subitem1Sentence>
@@ -10060,93 +10174,59 @@
                     </TableColumn>
                   </TableRow>
                 </Table>
-              </TableStruct>
-                 <List>
-                    <ListSentence>
-                    <Sentence Num="1" WritingMode="vertical">注</Sentence>
-                   </ListSentence>
-                  </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">一</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">免許記録の備付けは、次に掲げるいずれかの方法により、免許記録に記録されている事項を閲覧することができる状態に置くことにより行うこととする。ただし、免許記録の写しについては、総務大臣が定める方法により電子情報処理組織を使用して作成するものであつて、当該免許記録に記録されている事項と当該免許記録の写しに記録又は記載がされている事項が変わらないものに限る。</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">（一）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">免許記録を、無線局に備え付けた電子計算機その他の機器（当該免許記録の一覧性を確保して表示できる大きさのものであつて、当該免許記録を当該免許記録に係る免許事項証明書の様式と同等程度に大きく、かつ、見やすく表示できるものに限る。）に必要に応じ直ちに表示させる方法</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">（二）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">電磁的記録による免許記録の写しを、無線局に備え付けた電子計算機その他の機器（当該免許記録の一覧性を確保して表示できる大きさのものであつて、当該免許記録を当該免許記録に係る免許事項証明書の様式と同等程度に大きく、かつ、見やすく表示できるものに限る。）に必要に応じ直ちに表示させる方法</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">（三）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">書面等による免許記録の写し（当該免許記録に係る免許事項証明書の様式と同等程度の大きさであつて、かつ、見やすいものに限る。）を、無線局に備え付ける方法</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">（四）</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該免許記録に係る免許事項証明書を、無線局に備え付ける方法</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">二</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">（１）を付した書類は、免許規則第八条第二項（同規則第十二条第四項、第十五条の四第二項、第十五条の五第二項、第十五条の六第二項及び第十九条第二項において準用する場合を含む。以下この号において同じ。）の規定により総務大臣又は総合通信局長が提出書類の写しであることを証明したもの（同規則第八条第二項ただし書の規定により申請者に返したものとみなされた提出書類の写しに係る電磁的記録を含む。）とする。</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">三</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">（２）を付した書類及び（３）を付した書類（第六項に規定する総務大臣の認定するものを含む。）に係る電磁的記録の備付けは、当該電磁的記録を必要に応じ直ちに、かつ、見やすく表示することができる電子計算機その他の機器を備え付けておくことにより行うものとする。ただし、第七項に規定する方法による場合は、この限りでない。</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">四</Sentence>
-                  </Column>
-                  <Column Num="2">
+             <Remarks>
+              <RemarksLabel LineBreak="true">注</RemarksLabel>
+             <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">免許記録の備付けは、次に掲げるいずれかの方法により、免許記録に記録されている事項を閲覧することができる状態に置くことにより行うこととする。ただし、免許記録の写しについては、総務大臣が定める方法により電子情報処理組織を使用して作成するものであつて、当該免許記録に記録されている事項と当該免許記録の写しに記録又は記載がされている事項が変わらないものに限る。</Sentence>
+                    </ItemSentence>
+              <Subitem1 Num="1">
+                 <Subitem1Title>（一）</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Function="main" Num="1">免許記録を、無線局に備え付けた電子計算機その他の機器（当該免許記録の一覧性を確保して表示できる大きさのものであつて、当該免許記録を当該免許記録に係る免許事項証明書の様式と同等程度に大きく、かつ、見やすく表示できるものに限る。）に必要に応じ直ちに表示させる方法</Sentence>
+                    </Subitem1Sentence>
+               </Subitem1>
+              <Subitem1 Num="2">
+                 <Subitem1Title>（二）</Subitem1Title>
+                    <Subitem1Sentence>
+                       <Sentence Num="1" WritingMode="vertical">電磁的記録による免許記録の写しを、無線局に備え付けた電子計算機その他の機器（当該免許記録の一覧性を確保して表示できる大きさのものであつて、当該免許記録を当該免許記録に係る免許事項証明書の様式と同等程度に大きく、かつ、見やすく表示できるものに限る。）に必要に応じ直ちに表示させる方法</Sentence>
+                    </Subitem1Sentence>
+               </Subitem1>
+              <Subitem1 Num="3">
+                 <Subitem1Title>（三）</Subitem1Title>
+                   <Subitem1Sentence>
+                       <Sentence Num="1" WritingMode="vertical">書面等による免許記録の写し（当該免許記録に係る免許事項証明書の様式と同等程度の大きさであつて、かつ、見やすいものに限る。）を、無線局に備え付ける方法</Sentence>
+                   </Subitem1Sentence>
+               </Subitem1>
+              <Subitem1 Num="4">
+                    <Subitem1Title>（四）</Subitem1Title>
+                   <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">当該免許記録に係る免許事項証明書を、無線局に備え付ける方法</Sentence>
+                  </Subitem1Sentence>
+               </Subitem1>
+              </Item>
+              <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">（１）を付した書類は、免許規則第八条第二項（同規則第十二条第四項、第十五条の四第二項、第十五条の五第二項、第十五条の六第二項及び第十九条第二項において準用する場合を含む。以下この号において同じ。）の規定により総務大臣又は総合通信局長が提出書類の写しであることを証明したもの（同規則第八条第二項ただし書の規定により申請者に返したものとみなされた提出書類の写しに係る電磁的記録を含む。）とする。</Sentence>
+                  </ItemSentence>
+               </Item>
+              <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                       <Sentence Num="1" WritingMode="vertical">（２）を付した書類及び（３）を付した書類（第六項に規定する総務大臣の認定するものを含む。）に係る電磁的記録の備付けは、当該電磁的記録を必要に応じ直ちに、かつ、見やすく表示することができる電子計算機その他の機器を備え付けておくことにより行うものとする。ただし、第七項に規定する方法による場合は、この限りでない。</Sentence>
+                  </ItemSentence>
+               </Item>
+              <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">（３）を付した書類は、無線通信規則付録第十六号に掲げる書類とする。</Sentence>
-                  </Column>
-                </ListSentence>
-              </List>
-            </Paragraph>
+                  </ItemSentence>
+               </Item>
+              </Remarks>
+              </TableStruct>
+              </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
@@ -10304,7 +10384,7 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前各項の規定にかかわらず、包括免許に係る特定無線局に備え付けておかなければならない書類は免許記録（第十五条の二第二項第一号、第三号及び第四号に掲げる無線局にあつては、免許記録及び法第二十七条の六第三項の規定による届出書の写し）とし、当該包括免許に係る手続を行う包括免許人の事務所に備え付けなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前各項の規定にかかわらず、包括免許に係る特定無線局に備え付けておかなければならない書類は免許記録（第十五条の二第二項第一号、第一号の二、第三号、第三号の二及び第四号に掲げる無線局にあつては、免許記録及び法第二十七条の六第三項の規定による届出書の写し）とし、当該包括免許に係る手続を行う包括免許人の事務所に備え付けなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第一項の表の注一の規定は、当該免許記録の備付けについて準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -11305,7 +11385,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">無線局の免許（再免許を除く。）の日（包括免許に係る特定無線局（第十五条の二第二項第一号及び第三号に掲げるものに限る。）にあつては、当該特定無線局を開設した日）以後最初に行う定期検査の時期は、総務大臣又は総合通信局長が指定した時期とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">無線局の免許（再免許を除く。）の日（包括免許に係る特定無線局（第十五条の二第二項第一号、第一号の二、第三号及び第三号の二に掲げるものに限る。）にあつては、当該特定無線局を開設した日）以後最初に行う定期検査の時期は、総務大臣又は総合通信局長が指定した時期とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -25050,6 +25130,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年九月一日総務省令第九〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第一号</AppdxStyleTitle>
       <RelatedArticleNum>　呼出符号又は呼出名称指定申請書の様式（第６条の２の２第１項関係）</RelatedArticleNum>
@@ -26171,7 +26260,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">１０　包括免許に係る特定無線局（第１５条の２第２項第１号、第３号及び第４号に掲げる無線局に係るものに限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">１０　包括免許に係る特定無線局（第１５条の２第２項第１号、第１号の２、第３号、第３号の２及び第４号に掲げる無線局に係るものに限る。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">免許規則別表第三号の五の様式の以下の欄に記載された事項</Sentence>
