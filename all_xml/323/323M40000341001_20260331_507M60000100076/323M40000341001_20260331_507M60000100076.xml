@@ -3786,7 +3786,7 @@
             <Item Num="43">
               <ItemTitle>四十三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">貸付けの契約について、債務者等から、当該債務者等が特定公正証書（債務者等が貸付けの契約に基づく債務の不履行の場合に直ちに強制執行に服する旨の陳述が記載された公正証書をいう。以下この条及び第五十七条において同じ。）の作成を公証人に嘱託することを代理人に委任することを証する書面を取得しないようにするための措置</Sentence>
+                <Sentence Num="1" WritingMode="vertical">貸付けの契約について、債務者等から、当該債務者等が特定公正証書（債務者等が貸付けの契約に基づく債務の不履行の場合に直ちに強制執行に服する旨の陳述が記載され、又は記録された公正証書をいう。以下この条及び第五十七条において同じ。）の作成を公証人に嘱託することを代理人に委任することを証する書面又は電磁的記録を取得しないようにするための措置</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="44">
@@ -3809,7 +3809,7 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">特定公正証書に記載された内容の債務の不履行の場合には、組合は、訴訟の提起を行わずに、特定公正証書により債務者等の財産に対する強制執行をすることができる旨</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定公正証書に記載され、又は記録された内容の債務の不履行の場合には、組合は、訴訟の提起を行わずに、特定公正証書により債務者等の財産に対する強制執行をすることができる旨</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -17729,18 +17729,23 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年九月二四日厚生労働省令第九二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和七年十一月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の規定、第二条の規定及び第三条中厚生年金保険法施行規則第七十八条の四第一項の改正規定は同年十月一日から、第三条中厚生年金保険法施行規則第二十五条の四の改正規定は公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第五十一条第一項第二十三号イ関係）</RelatedArticleNum>
       <Item Num="1">
         <ItemTitle>算式</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">
-            <ArithFormula>
-              <QuoteStruct>
-                <Fig src="./pict/3JH00000228186.jpg"/>
-              </QuoteStruct>Ｕ<Sub>ｉ</Sub>・Ｔ<Sub>ｉ</Sub></ArithFormula>
-          </Sentence>
+          <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/3JH00000228186.jpg"/></QuoteStruct>Ｕ<Sub>ｉ</Sub>・Ｔ<Sub>ｉ</Sub></ArithFormula></Sentence>
         </ItemSentence>
       </Item>
       <Item Num="2">
@@ -17786,9 +17791,7 @@
           <Subitem2 Num="1">
             <Subitem2Title/>
             <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">
-                <ArithFormula>Ｕ<Sub>ｉ</Sub>＝Ｕ<Sub>ｉ－１</Sub>－（Ｐ<Sub>ｉ－１</Sub>－Ｒ・Ｕ<Sub>ｉ－１</Sub>・Ｔ<Sub>ｉ－１</Sub>）</ArithFormula>
-              </Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula>Ｕ<Sub>ｉ</Sub>＝Ｕ<Sub>ｉ－１</Sub>－（Ｐ<Sub>ｉ－１</Sub>－Ｒ・Ｕ<Sub>ｉ－１</Sub>・Ｔ<Sub>ｉ－１</Sub>）</ArithFormula></Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -18019,9 +18022,7 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一　責任準備金の積立方式及び積立率</Sentence>
-              <Sentence Num="2" WritingMode="vertical">
-                <ArithFormula>［積立率の算式（実際に積み立てている共済掛金積立金＋未経過共済掛金）／（平準純共済掛金式による共済掛金積立金＋未経過共済掛金）×百パーセント］</ArithFormula>
-              </Sentence>
+              <Sentence Num="2" WritingMode="vertical"><ArithFormula>［積立率の算式（実際に積み立てている共済掛金積立金＋未経過共済掛金）／（平準純共済掛金式による共済掛金積立金＋未経過共済掛金）×百パーセント］</ArithFormula></Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
