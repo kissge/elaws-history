@@ -2797,7 +2797,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第二十条第二項の規定により特定技能の在留資格（法別表第一の二の表の特定技能の項の下欄第一号に係るものに限る。以下この条及び第二十一条の二において同じ。）への変更を申請した場合であつて、当該申請をした者が同在留資格をもつて本邦に在留したことがあるものにあつては、当該在留資格をもつて在留した期間が通算して五年に達しているときは、法第二十条第三項の相当の理由がないものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第二十条第二項の規定により特定技能の在留資格（法別表第一の二の表の特定技能の項の下欄第一号に係るものに限る。以下この条及び第二十一条の二において同じ。）への変更を申請した場合であつて、当該申請をした者が同在留資格をもつて本邦に在留したことがあるものにあつては、当該在留資格をもつて在留した期間（妊娠、出産、育児その他のやむを得ない事情により業務に従事することができなかつた期間を除く。）が通算して五年（当該在留資格をもつて五年を超えて在留することについて相当の理由がある場合にあつては、六年）に達しているときは、法第二十条第三項の相当の理由がないものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2868,7 +2868,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第二十一条第二項の規定により在留期間の更新を申請した場合であつて、当該申請をした者が、特定技能の在留資格をもつて本邦に在留した期間が通算して五年に達しているときは、同条第三項の相当の理由がないものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第二十一条第二項の規定により在留期間の更新を申請した場合であつて、当該申請をした者が、特定技能の在留資格をもつて本邦に在留した期間（妊娠、出産、育児その他のやむを得ない事情により業務に従事することができなかつた期間を除く。）が通算して五年（当該在留資格をもつて五年を超えて在留することについて相当の理由がある場合にあつては、六年）に達しているときは、同条第三項の相当の理由がないものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11495,6 +11495,45 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年九月三〇日法務省令第四五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律（以下「改正法」という。）の施行の日（令和九年四月一日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（第一条の規定による出入国管理及び難民認定法施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">改正法附則第三条に規定する申請をする場合における申請書の様式は、この省令による改正後の出入国管理及び難民認定法施行規則（以下「新規則」という。）別記第六号の三様式の例によるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の申請をする場合における出入国管理及び難民認定法施行規則第六条の二の規定により提出すべき資料については、新規則別表第三の例によるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年九月三〇日法務省令第四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
@@ -12429,8 +12468,8 @@
               <Sentence Num="1" WritingMode="vertical">特定技能</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　法別表第一の二の表の特定技能の項の下欄第一号に掲げる活動を行う者にあつては、一年を超えない範囲内で法務大臣が個々の外国人について指定する期間</Sentence>
-              <Sentence Num="2" WritingMode="vertical">二　法別表第一の二の表の特定技能の項の下欄第二号に掲げる活動を行う者にあつては、三年、一年又は六月</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一　法別表第一の二の表の特定技能の項の下欄第一号に掲げる活動を行う者にあつては、三年を超えない範囲内で法務大臣が個々の外国人について指定する期間</Sentence>
+              <Sentence Num="2" WritingMode="vertical">二　法別表第一の二の表の特定技能の項の下欄第二号に掲げる活動を行う者にあつては、三年、二年、一年又は六月</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14556,7 +14595,7 @@
       <RelatedArticleNum>（第六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/2FH00000078342.pdf"/>
+          <Fig src="./pict/2FH00000079903.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -15123,7 +15162,7 @@
       <RelatedArticleNum>（第二十条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/2FH00000078343.pdf"/>
+          <Fig src="./pict/2FH00000079904.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -15132,7 +15171,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/2FH00000078344.pdf"/>
+          <Fig src="./pict/2FH00000079905.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
