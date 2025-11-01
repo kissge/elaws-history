@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="041" Year="47" PromulgateMonth="09" PromulgateDay="30"><LawNum>昭和四十七年労働省令第四十一号</LawNum><LawBody><LawTitle Kana="でんりほうしゃせんしょうがいぼうしきそく" Abbrev="電離則" AbbrevKana="で">電離放射線障害防止規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="47" Num="041" PromulgateMonth="09" PromulgateDay="30" LawType="MinisterialOrdinance"><LawNum>昭和四十七年労働省令第四十一号</LawNum><LawBody><LawTitle Kana="でんりほうしゃせんしょうがいぼうしきそく" Abbrev="電離則" AbbrevKana="で">電離放射線障害防止規則</LawTitle>
     <EnactStatement>労働安全衛生法（昭和四十七年法律第五十七号）及び労働安全衛生法施行令（昭和四十七年政令第三百十八号）の規定に基づき、並びに同法を実施するため、電離放射線障害防止規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -14860,7 +14860,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１７６</Sup>W</Sentence>
+                <Sup>１７６</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -14879,7 +14879,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１７７</Sup>W</Sentence>
+                <Sup>１７７</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -14898,7 +14898,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１７８</Sup>W</Sentence>
+                <Sup>１７８</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">放射平衡中の子孫核種を含む。</Sentence>
@@ -14917,7 +14917,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１７９</Sup>W</Sentence>
+                <Sup>１７９</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -14936,7 +14936,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１８１</Sup>W</Sentence>
+                <Sup>１８１</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -14955,7 +14955,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１８５</Sup>W</Sentence>
+                <Sup>１８５</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -14974,7 +14974,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１８７</Sup>W</Sentence>
+                <Sup>１８７</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
@@ -14993,7 +14993,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１８８</Sup>W</Sentence>
+                <Sup>１８８</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">放射平衡中の子孫核種を含む。</Sentence>
@@ -18768,9 +18768,19 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">１　濃度の単位Ｂｑ／ｇは、ベクレル毎グラムを示す。</Sentence>
-          <Sentence WritingMode="vertical">２　第２欄及び第３欄に掲げる数量及び濃度について、放射平衡に含める親核種と子孫核種は次表による。</Sentence>
+          <RemarksLabel LineBreak="true">備考</RemarksLabel>
+          <Item Num="1">
+            <ItemTitle>１</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">濃度の単位Ｂｑ／ｇは、ベクレル毎グラムを示す。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>２</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第２欄及び第３欄に掲げる数量及び濃度について、放射平衡に含める親核種と子孫核種は次表による。</Sentence>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
       <TableStruct>
@@ -19006,7 +19016,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１７８</Sup>W</Sentence>
+                <Sup>１７８</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
@@ -19016,7 +19026,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
-                <Sup>１８８</Sup>W</Sentence>
+                <Sup>１８８</Sup>Ｗ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">
