@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="36" Num="011" PromulgateMonth="1" PromulgateDay="26" LawType="CabinetOrder"><LawNum>昭和三十六年政令第十一号</LawNum><LawBody><LawTitle Kana="いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつしこうれい" Abbrev="薬事法施行令,医薬品医療機器等法施行令,薬機法施行令" AbbrevKana="や,い,や">医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="36" Num="011" PromulgateMonth="01" PromulgateDay="26" LawType="CabinetOrder"><LawNum>昭和三十六年政令第十一号</LawNum><LawBody><LawTitle Kana="いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつしこうれい" Abbrev="薬事法施行令,医薬品医療機器等法施行令,薬機法施行令" AbbrevKana="や,い,や">医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令</LawTitle>
     <EnactStatement>内閣は、薬事法（昭和三十五年法律第百四十五号）第二条第四項、第十一条（第三十八条において準用する場合を含む。）、第二十八条第二項、第三十条第三項、第四十三条第二項、第六十七条第一項、第七十七条第三項、第七十八条第一項、第八十条及び第八十二条の規定に基づき、この政令を制定する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -393,7 +393,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第十二条第四項の政令で定める期間は、五年とする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、薬局製造販売医薬品（薬局開設者が当該薬局における設備及び器具をもつて製造し、当該薬局において直接消費者に販売し、又は授与する医薬品（体外診断用医薬品を除く。以下この章において同じ。）であつて、厚生労働大臣の指定する有効成分以外の有効成分を含有しないものをいう。以下同じ。）の製造販売に係る許可については、同項の政令で定める期間は、六年とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第二条第十七項第三号に規定する医薬品（以下「薬局製造販売医薬品」という。）の製造販売に係る許可については、法第十二条第四項の政令で定める期間は、六年とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -403,7 +403,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医薬品、医薬部外品又は化粧品の製造販売業の許可をしたときは、厚生労働省令で定めるところにより、許可を申請した者に許可証を交付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医薬品（体外診断用医薬品を除く。以下この章において同じ。）、医薬部外品又は化粧品の製造販売業の許可をしたときは、厚生労働省令で定めるところにより、許可を申請した者に許可証を交付しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">医薬品、医薬部外品又は化粧品の製造販売業の許可を更新したときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -8609,6 +8609,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一〇月二九日政令第三五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行の日（令和七年十一月二十日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
