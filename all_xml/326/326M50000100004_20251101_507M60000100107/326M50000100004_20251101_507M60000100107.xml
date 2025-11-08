@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="26" Num="004" PromulgateMonth="1" PromulgateDay="23" LawType="MinisterialOrdinance"><LawNum>昭和二十六年厚生省令第四号</LawNum><LawBody><LawTitle Kana="どくぶつおよびげきぶつとりしまりほうしこうきそく" Abbrev="毒劇物取締法施行規則,毒劇法施行規則" AbbrevKana="ど,ど">毒物及び劇物取締法施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="26" Num="004" PromulgateMonth="01" PromulgateDay="23" LawType="MinisterialOrdinance"><LawNum>昭和二十六年厚生省令第四号</LawNum><LawBody><LawTitle Kana="どくぶつおよびげきぶつとりしまりほうしこうきそく" Abbrev="毒劇物取締法施行規則,毒劇法施行規則" AbbrevKana="ど,ど">毒物及び劇物取締法施行規則</LawTitle>
     <EnactStatement>毒物及び劇物取締法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -722,7 +722,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第十四条第二項の規定により作成する書面は、譲受人が押印した書面とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第十四条第二項の規定により作成する書面は、譲受人が押印し、又は署名した書面とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2843,6 +2843,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一〇月二九日厚生労働省令第一〇七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和七年十一月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記第１号様式</AppdxNoteTitle>
       <RelatedArticleNum>（第１条関係）</RelatedArticleNum>
@@ -3415,8 +3425,20 @@
         <Subitem1 Num="25">
           <Subitem1Title>十</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">塩素酸塩類及びこれを含有する製剤。ただし、爆発薬を除く。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">塩素酸塩類及びこれを含有する製剤。ただし、次に掲げるものを除く。</Sentence>
           </Subitem1Sentence>
+          <Subitem2 Num="1">
+            <Subitem2Title>イ</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence Num="1" WritingMode="vertical">塩素酸ナトリウム四七・五％以上五二・五％以下を含有する製剤（粉粒状に加工をしたものを除く。）（炭酸水素ナトリウム二七％以上三七％以下を含有するものに限る。）</Sentence>
+            </Subitem2Sentence>
+          </Subitem2>
+          <Subitem2 Num="2">
+            <Subitem2Title>ロ</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence Num="1" WritingMode="vertical">爆発薬</Sentence>
+            </Subitem2Sentence>
+          </Subitem2>
         </Subitem1>
         <Subitem1 Num="26">
           <Subitem1Title>十の二</Subitem1Title>
@@ -4801,172 +4823,178 @@
         <Subitem1 Num="110">
           <Subitem1Title>四十九の六</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">二―ｔ―ブチル―五―（四―ｔ―ブチルベンジルチオ）―四―クロロピリダジン―三（二Ｈ）―オン及びこれを含有する製剤</Sentence>
+            <Sentence Num="1" WritingMode="vertical">四―［二―（四―ターシヤリ―ブチルフエニル）エトキシ］キナゾリン（別名フエナザキン）及びこれを含有する製剤。ただし、四―［二―（四―ターシヤリ―ブチルフエニル）エトキシ］キナゾリン一九・四％以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="111">
           <Subitem1Title>四十九の七</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+            <Sentence Num="1" WritingMode="vertical">二―ｔ―ブチル―五―（四―ｔ―ブチルベンジルチオ）―四―クロロピリダジン―三（二Ｈ）―オン及びこれを含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="112">
           <Subitem1Title>四十九の八</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">Ｎ―（四―ｔ―ブチルベンジル）―四―クロロ―三―エチル―一―メチルピラゾール―五―カルボキサミド（別名テブフエンピラド）及びこれを含有する製剤</Sentence>
+            <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="113">
+          <Subitem1Title>四十九の九</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">Ｎ―（四―ｔ―ブチルベンジル）―四―クロロ―三―エチル―一―メチルピラゾール―五―カルボキサミド（別名テブフエンピラド）及びこれを含有する製剤</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="114">
           <Subitem1Title>五十</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">ブラストサイジンＳ、その塩類及びこれらのいずれかを含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="114">
+        <Subitem1 Num="115">
           <Subitem1Title>五十一</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">ブロムメチル及びこれを含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="115">
+        <Subitem1 Num="116">
           <Subitem1Title>五十一の二</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">二―（四―ブロモジフルオロメトキシフエニル）―二―メチルプロピル＝三―フエノキシベンジル＝エーテル（別名ハルフエンプロツクス）及びこれを含有する製剤。ただし、二―（四―ブロモジフルオロメトキシフエニル）―二―メチルプロピル＝三―フエノキシベンジル＝エーテル五％以下を含有する徐放性製剤を除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="116">
+        <Subitem1 Num="117">
           <Subitem1Title>五十二</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">二―メチリデンブタン二酸（別名メチレンコハク酸）及びこれを含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="117">
+        <Subitem1 Num="118">
           <Subitem1Title>五十三から五十八の三まで</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="118">
+        <Subitem1 Num="119">
           <Subitem1Title>五十八の四</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">メチルイソチオシアネート及びこれを含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="119">
+        <Subitem1 Num="120">
           <Subitem1Title>五十九</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">メチル＝Ｎ―［二―［一―（四―クロロフエニル）―一Ｈ―ピラゾール―三―イルオキシメチル］フエニル］（Ｎ―メトキシ）カルバマート（別名ピラクロストロビン）及びこれを含有する製剤。ただし、メチル＝Ｎ―［二―［一―（四―クロロフエニル）―一Ｈ―ピラゾール―三―イルオキシメチル］フエニル］（Ｎ―メトキシ）カルバマート六・八％以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="120">
+        <Subitem1 Num="121">
           <Subitem1Title>五十九の二から五十九の五まで</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="121">
+        <Subitem1 Num="122">
           <Subitem1Title>五十九の六</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">メチル―Ｎ′・Ｎ′―ジメチル―Ｎ―［（メチルカルバモイル）オキシ］―一―チオオキサムイミデート〇・八％以下を含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="122">
+        <Subitem1 Num="123">
           <Subitem1Title>五十九の七</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">Ｓ―（四―メチルスルホニルオキシフエニル）―Ｎ―メチルチオカルバマート及びこれを含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="123">
+        <Subitem1 Num="124">
           <Subitem1Title>五十九の八</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">五―メチル―一・二・四―トリアゾロ〔三・四―ｂ〕ベンゾチアゾール（別名トリシクラゾール）及びこれを含有する製剤。ただし、五―メチル―一・二・四―トリアゾロ〔三・四―ｂ〕ベンゾチアゾール八％以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="124">
+        <Subitem1 Num="125">
           <Subitem1Title>六十</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">Ｎ―メチル―一―ナフチルカルバメート及びこれを含有する製剤。ただし、Ｎ―メチル―一―ナフチルカルバメート五％以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="125">
+        <Subitem1 Num="126">
           <Subitem1Title>六十の二</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="126">
+        <Subitem1 Num="127">
           <Subitem1Title>六十の三</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">二―メチルビフエニル―三―イルメチル＝（一ＲＳ・二ＲＳ）―二―（Ｚ）―（二―クロロ―三・三・三―トリフルオロ―一―プロペニル）―三・三―ジメチルシクロプロパンカルボキシラート及びこれを含有する製剤。ただし、二―メチルビフエニル―三―イルメチル＝（一ＲＳ・二ＲＳ）―二―（Ｚ）―（二―クロロ―三・三・三―トリフルオロ―一―プロペニル）―三・三―ジメチルシクロプロパンカルボキシラート二％以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="127">
+        <Subitem1 Num="128">
           <Subitem1Title>六十の四</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="128">
+        <Subitem1 Num="129">
           <Subitem1Title>六十の五</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">Ｓ―（二―メチル―一―ピペリジル―カルボニルメチル）ジプロピルジチオホスフエイト及びこれを含有する製剤。ただし、Ｓ―（二―メチル―一―ピペリジル―カルボニルメチル）ジプロピルジチオホスフエイト四・四％以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="129">
+        <Subitem1 Num="130">
           <Subitem1Title>六十の六</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">二―（一―メチルプロピル）―フエニル―Ｎ―メチルカルバメート及びこれを含有する製剤。ただし、二―（一―メチルプロピル）―フエニル―Ｎ―メチルカルバメート二％（マイクロカプセル製剤にあつては、一五％）以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="130">
+        <Subitem1 Num="131">
           <Subitem1Title>六十の七</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="131">
+        <Subitem1 Num="132">
           <Subitem1Title>六十の八</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">Ｓ―メチル―Ｎ―〔（メチルカルバモイル）―オキシ〕―チオアセトイミデート（別名メトミル）四五％以下を含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="132">
+        <Subitem1 Num="133">
           <Subitem1Title>六十一</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical"><Ruby>沃<Rt>よう</Rt></Ruby>化メチル及びこれを含有する製剤</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="133">
+        <Subitem1 Num="134">
           <Subitem1Title>六十二</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">硫酸及びこれを含有する製剤。ただし、硫酸一〇％以下を含有するものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="134">
+        <Subitem1 Num="135">
           <Subitem1Title>六十三</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">硫酸タリウム及びこれを含有する製剤。ただし、硫酸タリウム〇・三％以下を含有し、黒色に着色され、かつ、トウガラシエキスを用いて著しくからく着味されているものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="135">
+        <Subitem1 Num="136">
           <Subitem1Title>六十四</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="136">
+        <Subitem1 Num="137">
           <Subitem1Title>六十五</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical"><Ruby>燐<Rt>りん</Rt></Ruby>化亜鉛及びこれを含有する製剤。ただし、<Ruby>燐<Rt>りん</Rt></Ruby>化亜鉛一％以下を含有し、黒色に着色され、かつ、トウガラシエキスを用いて著しくからく着味されているものを除く。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="137">
+        <Subitem1 Num="138">
           <Subitem1Title>六十六</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">削除</Sentence>
           </Subitem1Sentence>
         </Subitem1>
-        <Subitem1 Num="138">
+        <Subitem1 Num="139">
           <Subitem1Title>六十七</Subitem1Title>
           <Subitem1Sentence>
             <Sentence Num="1" WritingMode="vertical">ロテノン及びこれを含有する製剤。ただし、ロテノン二％以下を含有するものを除く。</Sentence>

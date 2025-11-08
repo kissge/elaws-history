@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="002" Year="40" PromulgateMonth="01" PromulgateDay="04"><LawNum>昭和四十年政令第二号</LawNum><LawBody><LawTitle Kana="どくぶつおよびげきぶつしていれい" Abbrev="" AbbrevKana="">毒物及び劇物指定令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="40" Num="002" PromulgateMonth="01" PromulgateDay="04" LawType="CabinetOrder"><LawNum>昭和四十年政令第二号</LawNum><LawBody><LawTitle Kana="どくぶつおよびげきぶつしていれい" Abbrev="" AbbrevKana="">毒物及び劇物指定令</LawTitle>
     <EnactStatement>内閣は、毒物及び劇物取締法（昭和二十五年法律第三百三号）別表第一第二十八号、別表第二第九十四号、別表第三第十号及び第二十三条の二の規定に基づき、毒物及び劇物指定令（昭和三十一年政令第百七十九号）の全部を改正するこの政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -1266,8 +1266,20 @@
             <ItemTitle>十八</ItemTitle>
             <ItemSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">塩素酸塩類及びこれを含有する製剤。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、爆発薬を除く。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げるものを除く。</Sentence>
             </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">塩素酸ナトリウム四七・五％以上五二・五％以下を含有する製剤（粉粒状に加工をしたものを除く。）（炭酸水素ナトリウム二七％以上三七％以下を含有するものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">爆発薬</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Num="18_2">
             <ItemTitle>十八の二</ItemTitle>
@@ -3649,47 +3661,54 @@
           <Item Num="85_7">
             <ItemTitle>八十五の七</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">二―セカンダリ―ブチルフエノール及びこれを含有する製剤</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">四―［二―（四―ターシヤリ―ブチルフエニル）エトキシ］キナゾリン（別名フエナザキン）及びこれを含有する製剤。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、四―［二―（四―ターシヤリ―ブチルフエニル）エトキシ］キナゾリン一九・四％以下を含有するものを除く。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="85_8">
             <ItemTitle>八十五の八</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">二―ターシヤリ―ブチルフエノール及びこれを含有する製剤</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二―セカンダリ―ブチルフエノール及びこれを含有する製剤</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="85_9">
             <ItemTitle>八十五の九</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">二―ｔ―ブチル―五―（四―ｔ―ブチルベンジルチオ）―四―クロロピリダジン―三（二Ｈ）―オン及びこれを含有する製剤</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二―ターシヤリ―ブチルフエノール及びこれを含有する製剤</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="85_10">
             <ItemTitle>八十五の十</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">ブチル―Ｓ―ベンジル―Ｓ―エチルジチオホスフエイト及びこれを含有する製剤</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二―ｔ―ブチル―五―（四―ｔ―ブチルベンジルチオ）―四―クロロピリダジン―三（二Ｈ）―オン及びこれを含有する製剤</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="85_11">
             <ItemTitle>八十五の十一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">Ｎ―（四―ｔ―ブチルベンジル）―四―クロロ―三―エチル―一―メチルピラゾール―五―カルボキサミド（別名テブフエンピラド）及びこれを含有する製剤</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ブチル―Ｓ―ベンジル―Ｓ―エチルジチオホスフエイト及びこれを含有する製剤</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="85_12">
             <ItemTitle>八十五の十二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">二―ｔ―ブチル―五―メチルフエノール及びこれを含有する製剤</Sentence>
+              <Sentence Num="1" WritingMode="vertical">Ｎ―（四―ｔ―ブチルベンジル）―四―クロロ―三―エチル―一―メチルピラゾール―五―カルボキサミド（別名テブフエンピラド）及びこれを含有する製剤</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="85_13">
             <ItemTitle>八十五の十三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">ふつ化アンモニウム及びこれを含有する製剤</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二―ｔ―ブチル―五―メチルフエノール及びこれを含有する製剤</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="85_14">
             <ItemTitle>八十五の十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">ふつ化アンモニウム及びこれを含有する製剤</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="85_15">
+            <ItemTitle>八十五の十五</ItemTitle>
             <ItemSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">ふつ化ナトリウム及びこれを含有する製剤。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、ふつ化ナトリウム六％以下を含有するものを除く。</Sentence>
@@ -5722,6 +5741,30 @@
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">前項に規定する物であってこの政令の施行の際現に存するものについては、令和六年八月三十一日までは、法第十二条第一項（法第二十二条第五項において準用する場合を含む。）及び第二項の規定は、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一〇月二九日政令第三五八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、令和七年十一月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条第一項第十八号ただし書の改正規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この政令の施行の際現にこの政令による改正後の第二条第一項第八十五号の七に掲げる物の製造業、輸入業又は販売業を営んでいる者が引き続き行う当該営業については、令和八年一月三十一日までは、毒物及び劇物取締法（次項において「法」という。）第三条、第七条及び第九条の規定は、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前項に規定する物であってこの政令の施行の際現に存するものについては、令和八年一月三十一日までは、法第十二条第一項（法第二十二条第五項において準用する場合を含む。）及び第二項の規定は、適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

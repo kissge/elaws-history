@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="002" Year="41" PromulgateMonth="03" PromulgateDay="02">
-  <LawNum>昭和四十一年文部省・厚生省令第二号</LawNum>
-  <LawBody>
-    <LawTitle Kana="かんりえいようしがっこうしていきそく" Abbrev="" AbbrevKana="">管理栄養士学校指定規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="41" Num="002" PromulgateMonth="03" PromulgateDay="02" LawType="MinisterialOrdinance"><LawNum>昭和四十一年文部省・厚生省令第二号</LawNum><LawBody><LawTitle Kana="かんりえいようしがっこうしていきそく" Abbrev="" AbbrevKana="">管理栄養士学校指定規則</LawTitle>
     <EnactStatement>栄養士法施行令（昭和二十八年政令第二百三十一号）第四条の二、第四条の三、第五条第一項及び第八条の規定に基づき、管理栄養士学校指定規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -21,7 +18,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令第十一条の規定による主務省令で定める基準は、次のとおりとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令第十条の規定による主務省令で定める基準は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -191,7 +188,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令第十二条第一項の規定による内容変更の承認を受けようとする学校の設置者は、学生若しくは生徒の定員又は修業年限を変更しようとする場合は、変更しようとする年度の前年度の九月三十日までに、同時に授業を行う学生若しくは生徒の数を変更しようとする場合又は教育内容ごとの単位数若しくは履修方法を変更しようとする場合は、変更しようとする日の二月前までに、変更の内容を記載した申請書を主務大臣に提出しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令第十一条の規定による内容変更の承認を受けようとする学校の設置者は、学生若しくは生徒の定員又は修業年限を変更しようとする場合は、変更しようとする年度の前年度の九月三十日までに、同時に授業を行う学生若しくは生徒の数を変更しようとする場合又は教育内容ごとの単位数若しくは履修方法を変更しようとする場合は、変更しようとする日の二月前までに、変更の内容を記載した申請書を主務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -201,7 +198,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">指定を受けた学校の設置者に係る令第十四条の主務省令で定める事項は、第三条第一項第一号又は第二号に掲げる事項とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">指定を受けた学校の設置者に係る令第十三条の主務省令で定める事項は、第三条第一項第一号又は第二号に掲げる事項とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -760,7 +757,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和七年一〇月二九日文部科学省・厚生労働省令第三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和七年十一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条第一号関係）</RelatedArticleNum>
       <TableStruct>
@@ -1024,7 +1030,7 @@
           </TableRow>
         </Table>
         <Remarks>
-          <RemarksLabel>備考</RemarksLabel>
+          <RemarksLabel LineBreak="true">備考</RemarksLabel>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
@@ -1046,7 +1052,7 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxTable Num="2">
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
       <RelatedArticleNum>（第二条第九号関係）</RelatedArticleNum>
       <TableStruct>
