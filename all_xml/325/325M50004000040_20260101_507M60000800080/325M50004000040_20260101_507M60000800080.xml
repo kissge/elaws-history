@@ -389,7 +389,7 @@
                   <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">申請に係る建築物が法第三条第二項の規定により法第二十八条の二（同条第一号及び第二号に掲げる基準に係る部分に限る。）の規定の適用を受けない建築物である場合であつて当該建築物について増築、改築、大規模の修繕又は大規模の模様替（以下この項において「増築等」という。）をしようとするときにあつては、当該増築等に係る部分以外の部分について行う令第百三十七条の四の二第三号に規定する措置</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">増築、改築、大規模の修繕又は大規模の模様替（以下この表において「増築等」という。）をしようとする場合にあつては、当該増築等に係る部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -429,11 +429,22 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">延焼のおそれのある部分の外壁及び軒裏の構造</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">増築等をしようとする場合にあつては、当該増築等に係る部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -462,11 +473,22 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical">　</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">各階の床及び天井（天井のない場合は、屋根）の高さ、軒及びひさしの出並びに建築物の各部分の高さ</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">増築等をしようとする場合にあつては、当該増築等に係る部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -11846,7 +11868,7 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -11863,42 +11885,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の二第一項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の二の二第一項の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の二第一項の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の二第一項の規定に適合することを確認するために必要な事項</Sentence>
@@ -11911,25 +11902,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の二第二項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の二の二第二項の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の二第二項の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の二第二項の規定に適合することを確認するために必要な事項</Sentence>
@@ -11942,25 +11919,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の三の規定が適用される建築物</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
+                  <Sentence Num="1" WritingMode="vertical">第百三十七条の二の三の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の二の三の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の三の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の三の規定に適合することを確認するために必要な事項</Sentence>
@@ -11973,25 +11936,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の四の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の二の四の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の四の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の四の規定に適合することを確認するために必要な事項</Sentence>
@@ -12004,25 +11953,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の五の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の二の五の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の五の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の二の五の規定に適合することを確認するために必要な事項</Sentence>
@@ -12035,25 +11970,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の三の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の三の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の三の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の三の規定に適合することを確認するために必要な事項</Sentence>
@@ -12066,25 +11987,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の四の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の四の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の四の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の四の規定に適合することを確認するために必要な事項</Sentence>
@@ -12097,14 +12004,14 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="3">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="3">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の四の二の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">石綿が添加されている部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12118,6 +12025,20 @@
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分以外の部分について行う令第百三十七条の四の二第三号に規定する措置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二面以上の断面図</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">石綿が添加されている部分</Sentence>
                 </TableColumn>
               </TableRow>
@@ -12128,11 +12049,14 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">二面以上の断面図</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">石綿が添加された建築材料を被覆し又は添加された石綿を建築材料に固着する措置</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分以外の部分について行う令第百三十七条の四の二第三号に規定する措置</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12143,38 +12067,7 @@
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の五の規定が適用される建築物</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の規定が適用される建築物</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">二面以上の断面図</Sentence>
@@ -12190,25 +12083,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の二第二項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の六の二第二項の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の二第二項の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の二第二項の規定に適合することを確認するために必要な事項</Sentence>
@@ -12221,25 +12100,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の三第二項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の六の三第二項の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の三第二項の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の三第二項の規定に適合することを確認するために必要な事項</Sentence>
@@ -12252,25 +12117,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の四第二項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の六の四第二項の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の四第二項の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の六の四第二項の規定に適合することを確認するために必要な事項</Sentence>
@@ -12345,25 +12196,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の八の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">増築前におけるエレベーターの昇降路の部分、共同住宅又は老人ホーム等の共用の廊下又は階段の用に供する部分、法第五十二条第六項第三号に掲げる建築物の部分、自動車車庫等部分、備蓄倉庫部分、蓄電池設置部分、自家発電設備設置部分、貯水槽設置部分及び宅配ボックス設置部分以外の部分</Sentence>
@@ -12393,22 +12230,8 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="3">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の九の規定が適用される建築物</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">敷地面積求積図</Sentence>
@@ -12438,7 +12261,7 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="3">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の十の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -12446,20 +12269,6 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分の外壁及び軒裏の構造、材料の種別及び寸法</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12483,7 +12292,7 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="3">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の十一の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -12491,20 +12300,6 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分の外壁及び軒裏の構造、材料の種別及び寸法</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12528,25 +12323,11 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の十一の二の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の十一の二の規定に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十一の二の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の十一の二の規定に適合することを確認するために必要な事項</Sentence>
@@ -12559,7 +12340,7 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="3">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
                   <Sentence Num="1" WritingMode="vertical">令第百三十七条の十一の三の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -12567,20 +12348,6 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分の外壁及び軒裏の構造、材料の種別及び寸法</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                  <Sentence Num="1" WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">増築又は改築に係る部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12604,14 +12371,31 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第三項の規定が適用される建築物</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第一項の規定が適用される建築物</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第一項の規定に適合することの確認に必要な図書</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第一項の規定に適合することを確認するために必要な事項</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第八項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">大規模の修繕又は大規模の模様替に係る部分</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">石綿が添加されている部分</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12625,6 +12409,23 @@
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">大規模の修繕又は大規模の模様替に係る部分以外の部分について行う令第百三十七条の四の二第三号に規定する措置</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二面以上の断面図</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">石綿が添加されている部分</Sentence>
                 </TableColumn>
               </TableRow>
@@ -12635,28 +12436,14 @@
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第四項の規定が適用される建築物</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">大規模の修繕又は大規模の模様替に係る部分</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" colspan="2">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">その他令第百三十七条の十二第四項の規定に適合することの確認に必要な図書</Sentence>
-                </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第四項の規定に適合することを確認するために必要な事項</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">大規模の修繕又は大規模の模様替に係る部分以外の部分について行う令第百三十七条の四の二第三号に規定する措置</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12667,13 +12454,13 @@
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第五項の規定が適用される建築物</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第九項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">各階平面図</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第九項の規定に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">大規模の修繕又は大規模の模様替に係る部分</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第九項の規定に適合することを確認するために必要な事項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -12684,10 +12471,10 @@
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第六項の規定が適用される建築物</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第十一項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第六項の認定の内容に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第十一項の認定の内容に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">当該認定に係る建築物の敷地、構造、建築設備又は用途に関する事項</Sentence>
@@ -12701,13 +12488,30 @@
                   <Sentence Num="1" WritingMode="vertical"/>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第七項の規定が適用される建築物</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第十二項の規定が適用される建築物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第七項の認定の内容に適合することの確認に必要な図書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第十二項の認定の内容に適合することの確認に必要な図書</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
                   <Sentence Num="1" WritingMode="vertical">当該認定に係る建築物の敷地、構造、建築設備又は用途に関する事項</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第十四項の規定が適用される建築物</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第十四項の規定に適合することの確認に必要な図書</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+                  <Sentence Num="1" WritingMode="vertical">令第百三十七条の十二第十四項の規定に適合することを確認するために必要な事項</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -35743,7 +35547,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第四十三条第二項第一号、法第四十四条第一項第三号、法第五十二条第六項第三号、法第五十五条第二項、法第五十七条第一項、法第六十八条第五項、法第六十八条の三第一項から第三項まで若しくは第七項、法第六十八条の四、法第六十八条の五の二、法第六十八条の五の五第一項若しくは第二項、法第六十八条の五の六、法第八十六条の六第二項、令第百三十一条の二第二項若しくは第三項、令第百三十七条の十二第六項若しくは第七項又は令第百三十七条の十六第二号の規定（以下この条において「認定関係規定」という。）による認定を申請しようとする者は、別記第四十八号様式による申請書の正本及び副本に、それぞれ、特定行政庁が規則で定める図書又は書面を添えて、特定行政庁に提出するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第四十三条第二項第一号、法第四十四条第一項第三号、法第五十二条第六項第三号、法第五十五条第二項、法第五十七条第一項、法第六十八条第五項、法第六十八条の三第一項から第三項まで若しくは第七項、法第六十八条の四、法第六十八条の五の二、法第六十八条の五の五第一項若しくは第二項、法第六十八条の五の六、法第八十六条の六第二項、令第百三十一条の二第二項若しくは第三項、令第百三十七条の十二第十一項若しくは第十二項又は令第百三十七条の十六第二号の規定（以下この条において「認定関係規定」という。）による認定を申請しようとする者は、別記第四十八号様式による申請書の正本及び副本に、それぞれ、特定行政庁が規則で定める図書又は書面を添えて、特定行政庁に提出するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -44215,6 +44019,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一〇月二八日国土交通省令第一〇五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、建築基準法施行令の一部を改正する政令附則第一項本文に掲げる規定の施行の日（令和七年十一月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十条の五の九、第十条の五の十四関係）</RelatedArticleNum>
@@ -49245,7 +49058,7 @@
       <RelatedArticleNum>（第一条の三、第三条、第三条の三関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000078838.pdf"/>
+          <Fig src="./pict/2FH00000080350.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -50748,7 +50561,7 @@
       <RelatedArticleNum>（第十条の五の三関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000079813.pdf"/>
+          <Fig src="./pict/2FH00000079805.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -50757,7 +50570,7 @@
       <RelatedArticleNum>（第十条の五の三関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000079814.pdf"/>
+          <Fig src="./pict/2FH00000079806.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -50775,7 +50588,7 @@
       <RelatedArticleNum>（第十条の五の七関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000079815.pdf"/>
+          <Fig src="./pict/2FH00000079807.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -50784,7 +50597,7 @@
       <RelatedArticleNum>（第十条の五の七関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000079816.pdf"/>
+          <Fig src="./pict/2FH00000079808.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -50829,7 +50642,7 @@
       <RelatedArticleNum>（第十条の五の二十二関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000079817.pdf"/>
+          <Fig src="./pict/2FH00000079809.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -50838,7 +50651,7 @@
       <RelatedArticleNum>（第十条の五の二十二関係）（Ａ４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000079818.pdf"/>
+          <Fig src="./pict/2FH00000079810.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -50856,7 +50669,7 @@
       <RelatedArticleNum>（第十条の五の二十四関係）（Ａ４）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/2FH00000079819.pdf"/>
+          <Fig src="./pict/2FH00000079811.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -50865,7 +50678,7 @@
       <RelatedArticleNum>（第十条の五の二十四関係）（Ａ４）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/2FH00000079820.pdf"/>
+          <Fig src="./pict/2FH00000079812.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
