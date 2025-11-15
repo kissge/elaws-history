@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="47" Num="318" PromulgateMonth="8" PromulgateDay="19" LawType="CabinetOrder"><LawNum>昭和四十七年政令第三百十八号</LawNum><LawBody><LawTitle Kana="ろうどうあんぜんえいせいほうしこうれい" Abbrev="労安衛法施行令,安衛法施行令" AbbrevKana="ろ,あ">労働安全衛生法施行令</LawTitle>
+<Law Lang="ja" Era="Showa" Year="47" Num="318" PromulgateMonth="08" PromulgateDay="19" LawType="CabinetOrder"><LawNum>昭和四十七年政令第三百十八号</LawNum><LawBody><LawTitle Kana="ろうどうあんぜんえいせいほうしこうれい" Abbrev="労安衛法施行令,安衛法施行令" AbbrevKana="ろ,あ">労働安全衛生法施行令</LawTitle>
     <EnactStatement>内閣は、労働安全衛生法（昭和四十七年法律第五十七号）の規定に基づき、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -576,7 +576,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第十五条第一項ただし書及び第三項の政令で定める労働者の数は、次の各号に掲げる仕事の区分に応じ、当該各号に定める数とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第十五条第一項ただし書及び第三項の政令で定める作業従事者の数は、次の各号に掲げる仕事の区分に応じ、当該各号に定める数とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -705,17 +705,35 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">別表第七に掲げる建設機械で、動力を用い、かつ、不特定の場所に自走することができるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">フォークリフト</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">不整地運搬車</Sentence>
+              <Sentence Num="1" WritingMode="vertical">別表第七に掲げる建設機械で、動力を用い、かつ、不特定の場所に自走することができるもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">ショベルローダー</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">フォークローダー</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">不整地運搬車</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">作業床の高さ（作業床を最も高く上昇させた場合におけるその床面の高さをいう。以下同じ。）が二メートル以上の高所作業車</Sentence>
             </ItemSentence>
@@ -728,7 +746,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第三十四条の政令で定める建築物は、事務所又は工場の用に供される建築物とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第三十四条の政令で定める建築物は、事務所、工場その他の事業の用に供される建築物とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1313,7 +1331,7 @@
         </Paragraph>
       </Article>
       <Article Num="15_2">
-        <ArticleCaption>（登録製造時等検査機関等の登録の有効期間）</ArticleCaption>
+        <ArticleCaption>（登録設計審査等機関等の登録の有効期間）</ArticleCaption>
         <ArticleTitle>第十五条の二</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
@@ -1323,7 +1341,7 @@
         </Paragraph>
       </Article>
       <Article Num="15_3">
-        <ArticleCaption>（外国登録製造時等検査機関等の事務所における検査に要する費用の負担）</ArticleCaption>
+        <ArticleCaption>（外国登録設計審査等機関等の事務所における検査に要する費用の負担）</ArticleCaption>
         <ArticleTitle>第十五条の三</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
@@ -2265,19 +2283,29 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="23_2">
-        <ArticleCaption>（登録教習機関の登録の有効期間）</ArticleCaption>
-        <ArticleTitle>第二十三条の二</ArticleTitle>
+      <Article Num="24">
+        <ArticleCaption>（法別表第十八備考の政令で定める車両系機械）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第七十七条第四項の政令で定める期間は、五年とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第十八備考の政令で定める車両系機械は、車両系建設機械（整地・運搬・積込み用、掘削用、解体用及び基礎工事用のものに限る。）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="24">
+      <Article Num="25">
+        <ArticleCaption>（登録教習機関の登録の有効期間）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第七十七条第五項の政令で定める期間は、五年とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
         <ArticleCaption>（計画の届出をすべき業種）</ArticleCaption>
-        <ArticleTitle>第二十四条</ArticleTitle>
+        <ArticleTitle>第二十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2285,9 +2313,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="25">
+      <Article Num="27">
         <ArticleCaption>（法第百二条の政令で定める工作物）</ArticleCaption>
-        <ArticleTitle>第二十五条</ArticleTitle>
+        <ArticleTitle>第二十七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -4692,6 +4720,16 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">改正後の第十八条第二号及び第三号に掲げる物（改正前の同条第二号及び第三号に掲げる物を除く。）であって、この政令の施行の日において現に存するものについては、令和十年三月三十一日までの間は、労働安全衛生法第五十七条第一項の規定は、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一〇月三一日政令第三六一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、令和八年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中労働安全衛生法施行令第二十三条の二の改正規定は、令和八年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
