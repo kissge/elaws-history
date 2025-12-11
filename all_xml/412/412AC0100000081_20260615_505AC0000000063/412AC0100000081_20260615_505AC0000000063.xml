@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="081" Year="12" PromulgateMonth="05" PromulgateDay="24"><LawNum>平成十二年法律第八十一号</LawNum><LawBody><LawTitle Kana="すとーかーこういとうのきせいとうにかんするほうりつ" Abbrev="ストーカー規制法,ストーカー法" AbbrevKana="ス,ス">ストーカー行為等の規制等に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="12" Num="081" PromulgateMonth="05" PromulgateDay="24" LawType="Act"><LawNum>平成十二年法律第八十一号</LawNum><LawBody><LawTitle Kana="すとーかーこういとうのきせいとうにかんするほうりつ" Abbrev="ストーカー規制法,ストーカー法" AbbrevKana="ス,ス">ストーカー行為等の規制等に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -94,13 +94,19 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">その承諾を得ないで、その所持する位置情報記録・送信装置（当該装置の位置に係る位置情報（地理空間情報活用推進基本法（平成十九年法律第六十三号）第二条第一項第一号に規定する位置情報をいう。以下この号において同じ。）を記録し、又は送信する機能を有する装置で政令で定めるものをいう。以下この号及び次号において同じ。）（同号に規定する行為がされた位置情報記録・送信装置を含む。）により記録され、又は送信される当該位置情報記録・送信装置の位置に係る位置情報を政令で定める方法により取得すること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">その承諾を得ないで、その所持する位置情報記録・送信装置（当該装置の位置に係る位置情報（地理空間情報活用推進基本法（平成十九年法律第六十三号）第二条第一項第一号に規定する位置情報をいう。以下この号及び次号において同じ。）を記録し、又は送信する機能を有する装置で政令で定めるものをいう。以下この項において同じ。）（第三号に規定する行為がされた位置情報記録・送信装置を含む。）により記録され、又は送信される当該位置情報記録・送信装置の位置に係る位置情報を政令で定める方法により取得すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">その承諾を得ないで、その所持する物に位置情報記録・送信装置を取り付けること、位置情報記録・送信装置を取り付けた物を交付することその他その移動に伴い位置情報記録・送信装置を移動し得る状態にする行為として政令で定める行為をすること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">その承諾を得ないで、その所持する位置特定用識別情報送信装置（当該装置を識別する情報を送信する機能を有し、当該装置の周辺において当該情報を受信した識別情報送受信装置（位置情報記録・送信装置その他の装置であって、当該情報を受信し、及び送信する機能を有するものをいう。）の位置に係る位置情報を利用して、その所在する地点又は区域の位置を特定するために用いられる装置をいう。以下この号及び次号において同じ。）（同号に規定する行為がされた位置特定用識別情報送信装置を含む。）の位置に係る位置情報を取得すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">その承諾を得ないで、その所持する物に位置情報記録・送信装置又は位置特定用識別情報送信装置（以下この号において「位置情報記録・送信装置等」という。）を取り付けること、位置情報記録・送信装置等を取り付けた物を交付することその他その移動に伴い位置情報記録・送信装置等を移動し得る状態にする行為として政令で定める行為をすること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -127,7 +133,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">警視総監若しくは道府県警察本部長又は警察署長（以下「警察本部長等」という。）は、つきまとい等又は位置情報無承諾取得等をされたとして当該つきまとい等又は位置情報無承諾取得等に係る警告を求める旨の申出を受けた場合において、当該申出に係る前条の規定に違反する行為があり、かつ、当該行為をした者が更に反復して当該行為をするおそれがあると認めるときは、当該行為をした者に対し、国家公安委員会規則で定めるところにより、更に反復して当該行為をしてはならない旨を警告することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">警視総監若しくは道府県警察本部長又は警察署長（以下「警察本部長等」という。）は、前条の規定に違反する行為があり、かつ、当該行為をした者が更に反復して当該行為をするおそれがあると認めるときは、その相手方の申出により、又は職権で、当該行為をした者に対し、国家公安委員会規則で定めるところにより、更に反復して当該行為をしてはならない旨を警告することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -139,19 +145,20 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">警察本部長等は、警告をしたときは、速やかに、当該警告の内容及び日時を第一項の申出をした者に通知しなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">警察本部長等は、警告をしたときは、速やかに、当該警告の内容及び日時を当該警告に係る前条の規定に違反する行為の相手方に通知しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該相手方の所在が不明であることその他の理由により当該相手方に通知することができない場合は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">警察本部長等は、警告をしなかったときは、速やかに、その旨及びその理由を第一項の申出をした者に書面により通知しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">警察本部長等は、第一項の申出を受けた場合において、警告をしなかったときは、速やかに、その旨及びその理由を当該申出をした者に書面により通知しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、第一項の申出の受理及び警告の実施に関し必要な事項は、国家公安委員会規則で定める。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、警告の実施に関し必要な事項は、国家公安委員会規則で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -205,7 +212,8 @@
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">公安委員会は、第一項又は第三項の申出を受けた場合において、禁止命令等をしたときは、速やかに、当該禁止命令等の内容及び日時を当該申出をした者に通知しなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">公安委員会は、禁止命令等をしたときは、速やかに、当該禁止命令等の内容及び日時を当該禁止命令等に係る第三条の規定に違反する行為の相手方に通知しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該相手方の所在が不明であることその他の理由により当該相手方に通知することができない場合は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="7">
@@ -223,15 +231,15 @@
         <Paragraph Num="9">
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">公安委員会は、禁止命令等をした場合において、前項の期間の経過後、当該禁止命令等を継続する必要があると認めるときは、当該禁止命令等に係る事案に関する第三条の規定に違反する行為の相手方の申出により、又は職権で、当該禁止命令等の有効期間を一年間延長することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">公安委員会は、禁止命令等をした場合において、前項の期間の経過後、当該禁止命令等を継続する必要があると認めるときは、当該禁止命令等に係る第三条の規定に違反する行為の相手方の申出により、又は職権で、当該禁止命令等の有効期間を一年間延長することができる。</Sentence>
             <Sentence Num="2" WritingMode="vertical">当該延長に係る期間の経過後、これを更に延長しようとするときも、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="10">
           <ParagraphNum>１０</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二項の規定は禁止命令等の有効期間の延長をしようとする場合について、第六項及び第七項の規定は前項の申出を受けた場合について準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、第六項中「禁止命令等を」とあるのは「第九項の規定による禁止命令等の有効期間の延長の処分を」と、「当該禁止命令等の」とあるのは「当該処分の」と、第七項中「禁止命令等」とあるのは「第九項の規定による禁止命令等の有効期間の延長の処分」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二項、第六項及び第七項の規定は、前項の規定による禁止命令等の有効期間の延長の処分について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、第七項中「第一項又は第三項」とあるのは、「第九項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="11">
@@ -267,12 +275,19 @@
         </Paragraph>
       </Article>
       <Article Num="6">
-        <ArticleCaption>（ストーカー行為等に係る情報提供の禁止）</ArticleCaption>
+        <ArticleCaption>（特定相手方情報の提供の禁止等）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">何人も、ストーカー行為又は第三条の規定に違反する行為（以下「ストーカー行為等」という。）をするおそれがある者であることを知りながら、その者に対し、当該ストーカー行為等の相手方の氏名、住所その他の当該ストーカー行為等の相手方に係る情報でストーカー行為等をするために必要となるものを提供してはならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">何人も、ストーカー行為又は第三条の規定に違反する行為（以下「ストーカー行為等」という。）をするおそれがある者であることを知りながら、その者に対し、当該ストーカー行為等の相手方の氏名、住所その他の当該ストーカー行為等の相手方に係る情報でストーカー行為等をするために必要となるもの（次項において「特定相手方情報」という。）を提供してはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警察本部長等は、警告又は禁止命令等（以下この項において「警告等」という。）があった場合において、当該警告等に係る第三条の規定に違反する行為の相手方に係る情報を保有し、又は保有しようとしている者（以下この項において「相手方情報保有者等」という。）が、当該警告等を受けた者であって現にストーカー行為等をするおそれがあるものに対して当該相手方に係る特定相手方情報を提供するおそれがあると認めるときは、当該相手方情報保有者等に対し、国家公安委員会規則で定めるところにより、当該提供の相手方がストーカー行為等をするおそれがある者であることを通知して、当該提供を行わないよう求めることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、警察本部長等は、当該相手方情報保有者等に対し、当該通知に係る事項をみだりに第三者に漏らさないよう求めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -344,7 +359,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">ストーカー行為等が行われている場合には、当該ストーカー行為等が行われている地域の住民は、当該ストーカー行為等の相手方に対する援助に努めるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">ストーカー行為等が行われている場合には、当該ストーカー行為等が行われている地域の住民並びに当該ストーカー行為等の相手方を雇用する者及び当該相手方が就学する学校の長は、当該相手方に対する援助に努めるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -408,13 +423,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">警察本部長等は、警告をするために必要があると認めるときは、その必要な限度において、第四条第一項の申出に係る第三条の規定に違反する行為をしたと認められる者その他の関係者に対し、報告若しくは資料の提出を求め、又は警察職員に当該行為をしたと認められる者その他の関係者に質問させることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">警察本部長等は、警告をするために必要があると認めるときは、その必要な限度において、第三条の規定に違反する行為をしたと認められる者その他の関係者に対し、報告若しくは資料の提出を求め、又は警察職員に当該行為をしたと認められる者その他の関係者に質問させることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">公安委員会は、禁止命令等（第五条第九項の規定による禁止命令等の有効期間の延長の処分を含む。）をするために必要があると認めるときは、その必要な限度において、当該第三条の規定に違反する行為をしたと認められる者その他の関係者に対し、報告若しくは資料の提出を求め、又は警察職員に当該行為をしたと認められる者その他の関係者に質問させることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">公安委員会は、禁止命令等（第五条第九項の規定による禁止命令等の有効期間の延長の処分を含む。）をするために必要があると認めるときは、その必要な限度において、第三条の規定に違反する行為をしたと認められる者その他の関係者に対し、報告若しくは資料の提出を求め、又は警察職員に当該行為をしたと認められる者その他の関係者に質問させることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -424,7 +439,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律における公安委員会は、禁止命令等及び第五条第二項の聴聞に関しては、当該禁止命令等及び同項の聴聞に係る事案に関する第三条の規定に違反する行為の相手方の住所若しくは居所若しくは当該禁止命令等及び第五条第二項の聴聞に係る第三条の規定に違反する行為をした者の住所（日本国内に住所がないとき又は住所が知れないときは居所）の所在地又は当該行為が行われた地を管轄する公安委員会とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律における公安委員会は、禁止命令等及び第五条第二項の聴聞に関しては、当該禁止命令等若しくは当該聴聞に係る第三条の規定に違反する行為の相手方の現在の住所若しくは居所の所在地、当該相手方の当該行為が行われた時における住所若しくは居所の所在地、当該行為をした者の現在の住所（日本国内に住所がないとき又は住所が知れないときは居所）の所在地又は当該行為が行われた地を管轄する公安委員会とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -435,20 +450,20 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">当該聴聞に係る事案に関する第三条の規定に違反する行為の相手方がその住所又は居所を他の公安委員会の管轄区域内に移転したこと。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">当該聴聞に係る第三条の規定に違反する行為の相手方がその住所又は居所を他の公安委員会の管轄区域内に移転したこと。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">当該聴聞に係る事案に関する第三条の規定に違反する行為をした者がその住所（日本国内に住所がないとき又は住所が知れないときは居所）を他の公安委員会の管轄区域内に移転したこと。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">当該聴聞に係る第三条の規定に違反する行為をした者がその住所（日本国内に住所がないとき又は住所が知れないときは居所）を他の公安委員会の管轄区域内に移転したこと。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律における警察本部長等は、警告に関しては、当該警告に係る第四条第一項の申出をした者の住所若しくは居所若しくは当該申出に係る第三条の規定に違反する行為をした者の住所（日本国内に住所がないとき又は住所が知れないときは居所）の所在地又は当該行為が行われた地を管轄する警察本部長等とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律における警察本部長等は、警告に関しては、当該警告に係る第三条の規定に違反する行為の相手方の現在の住所若しくは居所の所在地、当該相手方の当該行為が行われた時における住所若しくは居所の所在地、当該行為をした者の現在の住所（日本国内に住所がないとき又は住所が知れないときは居所）の所在地又は当該行為が行われた地を管轄する警察本部長等とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -892,6 +907,53 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一〇日法律第八三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">附則第三項の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第六条（見出しを含む。）の改正規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日から起算して三月を経過した日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（通知に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律による改正後の第五条第六項（同条第十項において準用する場合を含む。）の規定は、この法律の施行後にした同条第一項の規定による命令及び同条第九項の規定による処分（以下この項において「命令等」という。）について適用し、この法律の施行前にした命令等に係る通知については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphCaption>（政令への委任）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
