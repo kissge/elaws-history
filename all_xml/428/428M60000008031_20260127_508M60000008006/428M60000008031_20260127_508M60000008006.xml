@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="031" Year="28" PromulgateMonth="03" PromulgateDay="29"><LawNum>平成二十八年総務省令第三十一号</LawNum><LawBody><LawTitle Kana="だいにしゅしていでんきつうしんせつびせつぞくりょうきそく" Abbrev="二種接続料規則" AbbrevKana="に">第二種指定電気通信設備接続料規則</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="28" Num="031" PromulgateMonth="03" PromulgateDay="29" LawType="MinisterialOrdinance"><LawNum>平成二十八年総務省令第三十一号</LawNum><LawBody><LawTitle Kana="だいにしゅしていでんきつうしんせつびせつぞくりょうきそく" Abbrev="二種接続料規則" AbbrevKana="に">第二種指定電気通信設備接続料規則</LawTitle>
     <EnactStatement>電気通信事業法（昭和五十九年法律第八十六号）の規定に基づき、及び同法を施行するため、第二種指定電気通信設備接続料規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -161,22 +161,11 @@
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                    <Sentence Num="1" WritingMode="vertical"/>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">ハ　番号ポータビリティ転送機能</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">番号ポータビリティにより、電気通信役務の提供を受ける電気通信事業者を変更した利用者に係る特定移動端末設備へ着信する通信を第二種指定中継交換機を介して他事業者との相互接続点に転送する機能</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                     <Sentence Num="1" WritingMode="vertical"/>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">ニ　ショートメッセージ伝送交換機能</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ハ　ショートメッセージ伝送交換機能</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">特定移動端末設備間において電気通信番号を使用して行われる文字の伝送交換を行う機能</Sentence>
@@ -396,7 +385,7 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の他人資本利子率は、社債、借入金及びリース債務（以下「有利子負債」という。）に対する利子率並びに有利子負債以外の負債に対する利子相当率を、有利子負債及び有利子負債以外の負債が負債の合計に占める比率により加重平均したものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の他人資本利子率は、社債、借入金及びリース負債（以下「有利子負債」という。）に対する利子率並びに有利子負債以外の負債に対する利子相当率を、有利子負債及び有利子負債以外の負債が負債の合計に占める比率により加重平均したものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
@@ -645,12 +634,11 @@
           </Paragraph>
         </Article>
         <Article Num="14">
-          <ArticleCaption>（番号ポータビリティ転送機能の接続料）</ArticleCaption>
           <ArticleTitle>第十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四条第一項の表一の項ハに掲げる機能の接続料は、通信時間を単位として、実績原価方式に基づき設定するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -660,7 +648,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四条第一項の表一の項ニに掲げる機能の接続料は、通信回数を単位として、実績原価方式に基づき設定するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第一項の表一の項ハに掲げる機能の接続料は、通信回数を単位として、実績原価方式に基づき設定するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1049,6 +1037,45 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年一月二七日総務省令第四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年一月二七日総務省令第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">新二種接続料規則の規定は、基礎事業年度が令和九年度以降である接続料の算定から適用し、基礎事業年度が令和八年度以前である接続料の算定については、なお従前の例による。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、基礎事業年度が令和七年度以降である接続料の算定については、新二種接続料規則の規定を適用することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
