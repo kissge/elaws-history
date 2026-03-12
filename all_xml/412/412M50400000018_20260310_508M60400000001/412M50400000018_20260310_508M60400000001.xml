@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="Rule" Num="018" Year="12" PromulgateMonth="11" PromulgateDay="21">
-  <LawNum>平成十二年国家公安委員会規則第十八号</LawNum>
-  <LawBody>
-    <LawTitle Kana="すとーかーこういとうのきせいとうにかんするほうりつせこうきそく" Abbrev="ストーカー規制法施行規則,ストーカー法施行規則" AbbrevKana="ス,ス">ストーカー行為等の規制等に関する法律施行規則</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="12" Num="018" PromulgateMonth="11" PromulgateDay="21" LawType="Rule"><LawNum>平成十二年国家公安委員会規則第十八号</LawNum><LawBody><LawTitle Kana="すとーかーこういとうのきせいとうにかんするほうりつせこうきそく" Abbrev="ストーカー規制法施行規則,ストーカー法施行規則" AbbrevKana="ス,ス">ストーカー行為等の規制等に関する法律施行規則</LawTitle>
     <EnactStatement>ストーカー行為等の規制等に関する法律（平成十二年法律第八十一号）第四条第一項、第三項及び第四項、第五条第一項及び第三項、第六条第一項、第四項及び第十一項、第七条第一項及び第四項並びに第十条第三項の規定に基づき、ストーカー行為等の規制等に関する法律施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -195,18 +192,35 @@
         </Paragraph>
       </Article>
       <Article Num="14">
-        <ArticleCaption>（援助の申出の受理）</ArticleCaption>
+        <ArticleCaption>（相手方情報保有者等に対する通知等の方法）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第七条第一項の申出の受理は、警察本部長等が別記様式第十号の援助申出書の提出を受けることにより（当該申出が口頭によるものであるときは、別記様式第十号の援助申出書に記入を求め、又は警察職員が代書することにより）、行うものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第六条第二項前段の規定による通知及び求め（次項において「通知等」という。）は、別記様式第十号の通知・要請書を交付して行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、緊急を要し別記様式第十号の通知・要請書を交付するいとまがないときは、通知等を口頭で行うことができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、別記様式第十号の通知・要請書は、可能な限り速やかにこれを交付するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="15">
-        <ArticleCaption>（警察本部長等による援助）</ArticleCaption>
+        <ArticleCaption>（援助の申出の受理）</ArticleCaption>
         <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第七条第一項の申出の受理は、警察本部長等が別記様式第十一号の援助申出書の提出を受けることにより（当該申出が口頭によるものであるときは、別記様式第十一号の援助申出書に記入を求め、又は警察職員が代書することにより）、行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（警察本部長等による援助）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -416,12 +430,35 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年二月二七日国家公安委員会規則第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この規則は、ストーカー行為等の規制等に関する法律の一部を改正する法律（令和七年法律第八十三号）附則第一項第二号に掲げる規定の施行の日（令和八年三月十日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（様式に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この規則の施行の際現に提出されているこの規則による改正前のストーカー行為等の規制等に関する法律施行規則に規定する様式による書面は、この規則による改正後のストーカー行為等の規制等に関する法律施行規則に規定する様式による書面とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_001.pdf"/>
+          <Fig src="./pict/2FH00000070054.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -430,7 +467,7 @@
       <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H12F30301000018-002.pdf"/>
+          <Fig src="./pict/2FH00000070027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -439,7 +476,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H12F30301000018-003.pdf"/>
+          <Fig src="./pict/2FH00000070028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -448,7 +485,7 @@
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_002.pdf"/>
+          <Fig src="./pict/2FH00000070055.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -457,7 +494,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_005.pdf"/>
+          <Fig src="./pict/2FH00000070033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -466,7 +503,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_006.pdf"/>
+          <Fig src="./pict/2FH00000070034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -475,7 +512,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_007.pdf"/>
+          <Fig src="./pict/2FH00000070035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -484,7 +521,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_008.pdf"/>
+          <Fig src="./pict/2FH00000070036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -493,7 +530,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_009.pdf"/>
+          <Fig src="./pict/2FH00000070037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -502,7 +539,16 @@
       <RelatedArticleNum>（第１４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/412M50400000018_202109031424_010.pdf"/>
+          <Fig src="./pict/2FH00000082454.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第１１号</AppdxStyleTitle>
+      <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000082453.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
