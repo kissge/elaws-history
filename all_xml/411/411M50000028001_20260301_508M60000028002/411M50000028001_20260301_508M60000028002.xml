@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="11" Num="001" PromulgateMonth="1" PromulgateDay="26" LawType="MinisterialOrdinance"><LawNum>平成十一年外務省・自治省令第一号</LawNum><LawBody><LawTitle Kana="ざいがいせんきょにんめいぼおよびざいがいとうひょうにんめいぼにかんするじむについてのりょうじかんのかんかつくいきをさだめるしょうれい" Abbrev="" AbbrevKana="">在外選挙人名簿及び在外投票人名簿に関する事務についての領事官の管轄区域を定める省令</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="11" Num="001" PromulgateMonth="01" PromulgateDay="26" LawType="MinisterialOrdinance"><LawNum>平成十一年外務省・自治省令第一号</LawNum><LawBody><LawTitle Kana="ざいがいせんきょにんめいぼおよびざいがいとうひょうにんめいぼにかんするじむについてのりょうじかんのかんかつくいきをさだめるしょうれい" Abbrev="" AbbrevKana="">在外選挙人名簿及び在外投票人名簿に関する事務についての領事官の管轄区域を定める省令</LawTitle>
     <EnactStatement>公職選挙法（昭和二十五年法律第百号）第三十条の四の規定に基づき、在外選挙人名簿の登録申請に関する領事官の管轄区域を定める省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Paragraph Num="1">
@@ -1552,6 +1552,53 @@
         </TableStruct>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年二月二七日総務省・外務省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和八年三月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行前に次の表の上欄に掲げる領事官（領事官の職務を行う大使館若しくは公使館の長又はその事務を代理する者を含む。以下同じ。）が公職選挙法若しくは日本国憲法の改正手続に関する法律（平成十九年法律第五十一号）又はこれらに基づく命令の規定により行った送付その他の行為（以下この項において「送付等」という。）は、この省令の施行後は、それぞれ同表の下欄に掲げる領事官が行った送付等とみなし、この省令の施行前にこれらの法律又はこれらに基づく命令の規定により同表の上欄に掲げる領事官に対して行った申請その他の行為（以下この項において「申請等」という。）は、この省令の施行後は、それぞれ同表の下欄に掲げる領事官に対して行った申請等とみなす。</Sentence>
+        </ParagraphSentence>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">在アイルランド日本国大使（英国（北アイルランドの区域に限る。）を管轄する場合に限る。）</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">在英国日本国大使</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の日（以下この項において「施行日」という。）の三箇月前の日から施行日の前日までの間に次の表の上欄に掲げる区域から下欄に掲げる区域に住所を移した者で施行日以後も引き続き当該区域に住所を有するもの又は施行日の三箇月前の日から施行日の前日までの間に同表の下欄に掲げる区域から上欄に掲げる区域に住所を移した者で施行日以後も引き続き当該区域に住所を有するものがした公職選挙法第三十条の四第一項に規定する在外選挙人名簿の登録の申請に関する領事官の管轄区域は、この省令による改正後の在外選挙人名簿及び在外投票人名簿に関する事務についての領事官の管轄区域を定める省令別表の規定にかかわらず、次の表の上欄に掲げる区域と下欄に掲げる区域を合わせた区域とする。</Sentence>
+        </ParagraphSentence>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">アイルランド</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">英国（北アイルランドの区域に限る。）</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <TableStruct>
@@ -2943,14 +2990,13 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">　</Sentence>
+              <Sentence Num="1" WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">在アイルランド日本国大使</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">アイルランド</Sentence>
-              <Sentence Num="2" WritingMode="vertical">英国（北アイルランドの区域に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3049,7 +3095,7 @@
               <Sentence Num="1" WritingMode="vertical">在英国日本国大使</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">英国（在アイルランド日本国大使及び在エディンバラ日本国総領事の管轄区域を除く。）及びその属領（植民地、保護領及び保護国を含み、他の領事官の管轄区域を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">英国（在エディンバラ日本国総領事の管轄区域を除く。）及びその属領（植民地、保護領及び保護国を含み、他の領事官の管轄区域を除く。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
