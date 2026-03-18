@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="023" Year="60" PromulgateMonth="04" PromulgateDay="01"><LawNum>昭和六十年郵政省令第二十三号</LawNum><LawBody><LawTitle Kana="にほんでんしんでんわかぶしきがいしゃとうにかんするほうりつしこうきそく" Abbrev="ＮＴＴ法施行規則" AbbrevKana="Ｎ">日本電信電話株式会社等に関する法律施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="60" Num="023" PromulgateMonth="04" PromulgateDay="01" LawType="MinisterialOrdinance"><LawNum>昭和六十年郵政省令第二十三号</LawNum><LawBody><LawTitle Kana="にほんでんしんでんわかぶしきがいしゃとうにかんするほうりつしこうきそく" Abbrev="ＮＴＴ法施行規則" AbbrevKana="Ｎ">日本電信電話株式会社等に関する法律施行規則</LawTitle>
     <EnactStatement>日本電信電話株式会社法（昭和五十九年法律第八十五号）第一条第二項の規定に基づき、及び同法を実施するため、日本電信電話株式会社法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -82,89 +82,37 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第二条第五項ただし書に規定する電話の役務をあまねく目的業務区域において適切、公平かつ安定的に提供することを確保するために必要があると認められる場合は、次の各号のいずれかに該当する場合とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第二条第五項ただし書に規定する電話の役務をあまねく目的業務区域において適切、公平かつ安定的に提供することを確保するために必要があると認められる場合は、ワイヤレス固定電話役務（電気通信事業法施行規則（昭和六十年郵政省令第二十五号）第十四条第四号に掲げる電気通信役務をいう。以下この条において同じ。）を提供するために他の電気通信事業者の電気通信設備を利用する場合であつて、次に掲げる要件を満たす方針を定めているときとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">特例地域のうち、法第二条第五項ただし書に規定する認可の申請の時において加入者密度が十八未満である市町村内の町又は字その他の区域において、当該申請の際現にアナログ加入者回線により電話の役務の提供を受けている者又は新たに電話の役務の提供を受けることとなる者に対して電話の役務を提供するとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ワイヤレス固定電話役務は、光提供区域（地域会社が電気通信事業報告規則（昭和六十三年郵政省令第四十六号）第一条第二項第七号に規定するＦＴＴＨアクセスサービスを提供する区域をいう。次号において同じ。）以外の区域において提供することを基本とすること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">市町村内の一定の区域において著しく少数の者に対して電話の役務を提供する場合であつて、海底ケーブルその他の通常用いられる設備に比して著しく高額なものを用いることを余儀なくされることその他の当該区域における特別の事情により、当該提供が著しく不経済であると認められるとき（前号に該当する場合を除く。）。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">災害その他非常の場合において通信手段を確保するために応急的に電話の役務を提供するとき。</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">特例地域</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">次に掲げる地域をいう。</Sentence>
-              </Column>
+              <Sentence Num="1" WritingMode="vertical">光提供区域においては、次のイからハまでのいずれかに該当するときに限り、ワイヤレス固定電話役務を提供すること。</Sentence>
             </ItemSentence>
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">離島振興法（昭和二十八年法律第七十二号）第二条第一項の規定により指定された離島振興対策実施地域</Sentence>
+                <Sentence Num="1" WritingMode="vertical">利用者（電話の役務の提供を受けようとする者を含む。ロにおいて同じ。）に対し光電話役務（電気通信事業法施行規則第十四条第三号に掲げる電気通信役務をいう。ロにおいて同じ。）も提供することができる旨を勧奨した場合において、当該利用者がワイヤレス固定電話役務の提供を受けることを希望したとき。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">奄美群島振興開発特別措置法（昭和二十九年法律第百八十九号）第一条に規定する奄美群島</Sentence>
+                <Sentence Num="1" WritingMode="vertical">利用者の居住する建物の状況その他の特別の事情により、光電話役務の提供が著しく不経済又は技術的に著しく困難であると認められるとき。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">山村振興法（昭和四十年法律第六十四号）第七条第一項の規定により指定された振興山村</Sentence>
+                <Sentence Num="1" WritingMode="vertical">災害その他非常の場合において通信手段を確保するために応急的にワイヤレス固定電話役務を提供するとき。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Num="4">
-              <Subitem1Title>ニ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">小笠原諸島振興開発特別措置法（昭和四十四年法律第七十九号）第四条第一項に規定する小笠原諸島</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="5">
-              <Subitem1Title>ホ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">半島振興法（昭和六十年法律第六十三号）第二条第一項の規定により指定された半島振興対策実施地域</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="6">
-              <Subitem1Title>ヘ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">沖縄振興特別措置法（平成十四年法律第十四号）第三条第三号に規定する離島</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">加入者密度</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">市町村内の町又は字その他の区域においてアナログ加入者回線により電話の役務の提供を受ける者の数の合計数を当該町又は字その他の区域の面積（表示単位は平方キロメートルとする。）で除して得た数をいう。</Sentence>
-              </Column>
-            </ItemSentence>
           </Item>
         </Paragraph>
       </Article>
@@ -174,7 +122,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">地域会社は、法第二条第五項ただし書の規定により地域電気通信業務を営むことの認可を受けようとするときは、次に掲げる事項を記載した申請書を総務大臣に提出しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社は、法第二条第五項ただし書の規定により地域電気通信業務を営むことの認可を受けようとするときは、次に掲げる事項を記載した申請書に、前条の規定により地域会社が定める方針が同条各号に掲げる要件に適合していることを証する書類を添えて、総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -203,23 +151,17 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">業務が前条第一項各号に掲げる場合に該当すると認められる理由</Sentence>
+              <Sentence Num="1" WritingMode="vertical">業務管理体制の整備その他適切かつ安定的な電話の役務の提供を確保するために講ずる具体的な措置</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">業務管理体制の整備その他適切かつ安定的な電話の役務の提供を確保するために講ずる具体的な措置</Sentence>
+              <Sentence Num="1" WritingMode="vertical">業務の用に供する電気通信設備の調達に係る適正性を確保するために講ずる具体的な措置</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">業務の用に供する電気通信設備の調達に係る適正性を確保するために講ずる具体的な措置</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="8">
-            <ItemTitle>八</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">業務に係る加入者の保護を図るために講ずる具体的な措置</Sentence>
             </ItemSentence>
@@ -1363,6 +1305,23 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、日本電信電話株式会社等に関する法律の一部を改正する法律の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月四日総務省令第二〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">日本電信電話株式会社等に関する法律（以下「法」という。）第二条第一項第一号に規定する地域会社は、この省令の施行の際現に、法第二条第五項ただし書の規定により認可を受けて地域電気通信業務を営んでいるときは、この省令の施行後においても、この省令による改正後の日本電信電話株式会社等に関する法律施行規則第二条の二及び第二条の三の規定にかかわらず、当該地域電気通信業務を従前の例により営むことができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
