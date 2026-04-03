@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="037" Year="30" PromulgateMonth="06" PromulgateDay="30"><LawNum>昭和三十年法律第三十七号</LawNum><LawBody><LawTitle Kana="ゆにゅうひんにたいするないこくしょうひぜいのちょうしゅうとうにかんするほうりつ" Abbrev="輸徴法" AbbrevKana="ゆ">輸入品に対する内国消費税の徴収等に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="30" Num="037" PromulgateMonth="06" PromulgateDay="30" LawType="Act"><LawNum>昭和三十年法律第三十七号</LawNum><LawBody><LawTitle Kana="ゆにゅうひんにたいするないこくしょうひぜいのちょうしゅうとうにかんするほうりつ" Abbrev="輸徴法" AbbrevKana="ゆ">輸入品に対する内国消費税の徴収等に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（趣旨）</ArticleCaption>
@@ -657,44 +657,83 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">輸入された課税物品のうち次に掲げる規定により当該課税物品に係る関税額の全部又は一部が還付されるものについては、当該還付される関税額に係る消費税額に相当する金額として政令で定めるところにより計算した金額を還付する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">輸入された課税物品のうち次に掲げる規定により当該課税物品に係る関税額の全部又は一部が還付されるものについては、その還付される関税額に係る消費税額に相当する金額として政令で定めるところにより計算した金額を還付する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">関税定率法第七条第三十項（相殺関税の還付）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">関税定率法第七条第三十項（相殺関税）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">関税定率法第八条第十一項又は第三十三項（不当廉売関税の還付）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">関税定率法第八条第十一項又は第三十三項（不当廉売関税）（同法第八条の二第十六項（不当廉売関税の課税の回避のために第三国から輸入される貨物等に対して課する関税）において準用する場合を含む。次項及び第三項において同じ。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">関税定率法第九条第九項（暫定緊急関税の還付）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">関税定率法第八条の二第十四項</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">関税暫定措置法第七条の七第八項（経済連携協定に基づく特定の貨物に係る暫定緊急措置に係る関税の還付）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">関税定率法第九条第九項（緊急関税等）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">関税暫定措置法第七条の七第八項（経済連携協定に基づく関税の緊急措置）</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項（第一号及び第二号（関税定率法第八条第三十三項に係る部分に限る。）に係る部分を除く。）の規定による還付金については、国税通則法第五十八条第一項（還付加算金）の規定は、適用しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項（第一号、第二号（関税定率法第八条第三十三項に係る部分に限る。）及び第三号に係る部分を除く。）の規定による還付金については、国税通則法第五十八条第一項（還付加算金）の規定は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項（第一号及び第二号（関税定率法第八条第三十三項に係る部分に限る。）に係る部分に限る。）の規定による還付金について還付加算金（国税通則法第五十八条第一項に規定する還付加算金をいう。）を計算する場合には、その計算の基礎となる同条第一項の期間は、関税定率法第七条第二十九項又は第八条第三十二項の規定による還付の請求があつた日の翌日からその還付のための支払決定をする日又はその還付金につき充当（国税通則法第五十七条第一項（充当）の規定による充当をいう。以下この項において同じ。）をする日（同日前に充当をするのに適することとなつた日がある場合には、その適することとなつた日）までの期間とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項（第一号、第二号（関税定率法第八条第三十三項に係る部分に限る。）及び第三号に係る部分に限る。）の規定による還付金について還付加算金（国税通則法第五十八条第一項に規定する還付加算金をいう。）を計算する場合には、その計算の基礎となる同条第一項の期間は、次の各号に掲げる場合の区分に応じ当該各号に定める日の翌日からその還付のための支払決定をする日又はその還付金につき充当（同法第五十七条第一項（充当）の規定による充当をいう。以下この項において同じ。）をする日（同日前に充当をするのに適することとなつた日がある場合には、その適することとなつた日）までの期間とする。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">関税定率法第七条第二十九項の規定による還付の請求があつた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該還付の請求があつた日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">関税定率法第八条第三十二項（同法第八条の二第十六項において準用する場合を含む。）の規定による還付の請求があつた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該還付の請求があつた日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">関税定率法第八条の二第十項の規定による求めがあつた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該求めがあつた日と当該求めに係る同条第一項の規定により関税が課された課税物品に係る消費税の納付があつた日とのいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="15">
@@ -3330,6 +3369,111 @@
       <Article Num="73">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第七十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月三一日法律第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月三一日法律第一二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:6">
+            <ItemTitle>一から六まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和九年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからニまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第九条の規定（同条中輸入品に対する内国消費税の徴収等に関する法律第七条に一項を加える改正規定を除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和十年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからハまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第九条中輸入品に対する内国消費税の徴収等に関する法律第七条に一項を加える改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="99">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="100">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
