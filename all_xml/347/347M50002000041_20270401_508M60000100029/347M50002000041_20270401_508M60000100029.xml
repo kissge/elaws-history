@@ -847,7 +847,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、次の場合には、関係者が確実に認識できる方法によって、その旨を関係者に周知させる措置を講じなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事業者は、次の場合には、その旨を関係者に周知させる措置を講じなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、その周知の方法は、その放射線装置を放射線装置室以外の場所で使用するとき、又は管電圧百五十キロボルト以下のエックス線装置若しくは数量が四百ギガベクレル未満の放射性物質を装備している機器を使用するときを除き、自動警報装置によらなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -870,66 +871,6 @@
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の周知の方法は、次の装置又は機器を放射線装置室で使用する場合は、自動警報装置によらなければならない。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">工業用等の特定エックス線装置</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">エックス線又はエックス線装置の研究又は教育のため使用の都度組み立てる工業用等のエックス線装置であって波高値による定格管電圧が百五十キロボルトを超えるもの</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">荷電粒子を加速する装置</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">エックス線管若しくはケノトロンのガス抜き又はエックス線の発生を伴うこれらの検査を行う装置</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">数量が四百ギガベクレル以上の放射性物質を装備している機器</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、放射線装置室又は放射線装置室に設置された工業用等の特定エックス線装置には、インターロックその他の偶発的な被ばくを防止するための安全装置（以下次項及び第四十七条において単に「安全装置」という。）を設けなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">安全装置について、労働安全衛生規則（昭和四十七年労働省令第三十二号。以下「安衛則」という。）第二十九条第一項第二号に基づき、取りはずし又はその機能を失わせたときは、事業者は、警報機能を有する放射線測定器の装着その他の安全装置の設置に代わる措置により偶発的な被ばくを防止する措置を講じなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、放射線装置室に設置された医療用の特定エックス線装置のうち、医師、歯科医師又は診療放射線技師が管理する装置については、当該放射線装置室が医療法施行規則（昭和二十三年厚生省令第五十号）第三十条の四第二号に規定する基準を満たさなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">事業者は、放射線装置室に設置された医療用の特定エックス線装置のうち、獣医師が管理する装置については、獣医療法施行規則（平成四年農林水産省令第四十四号）第十六条第一項（第六号から第八号を除く。）に規定する措置を講じなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">事業者は、荷電粒子を加速する装置又は百テラベクレル以上の放射性物質を装備している機器を使用する放射線装置室の出入口で人が通常出入りするものには、インターロックを設けなければならない。</Sentence>
             </ParagraphSentence>
@@ -2664,35 +2605,17 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第三項の安全装置を点検すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">照射開始前及び照射中、第十八条第一項の場所に労働者が立ち入っていないことを確認すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第三項の安全装置に異常を認めたときは、直ちに必要な措置を講ずること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八条第三項の放射線測定器が同項の規定に適合して装着されているかどうかについて点検すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第四項に定める措置が講じられていることを確認すること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="10">
-              <ItemTitle>十</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">照射開始前及び照射中、第十八条第一項の場所に労働者が立ち入っていないことを確認すること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="11">
-              <ItemTitle>十一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第八条第三項の放射線測定器が同項の規定に適合して装着されているかどうかについて点検すること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="12">
-              <ItemTitle>十二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、労働者が電離放射線を受けることをできるだけ少なくするように、作業の方法を決定し、放射線業務従事者を指揮すること。</Sentence>
               </ItemSentence>
@@ -2804,12 +2727,12 @@
           </Paragraph>
         </Article>
         <Article Num="52">
-          <ArticleCaption>（エックス線作業主任者免許試験の細目）</ArticleCaption>
+          <ArticleCaption>（エツクス線作業主任者免許試験の細目）</ArticleCaption>
           <ArticleTitle>第五十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">安衛則第七十一条及び前二条に定めるもののほか、エックス線作業主任者免許試験の実施について必要な事項は、厚生労働大臣が定める。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働安全衛生規則（昭和四十七年労働省令第三十二号。以下「安衛則」という。）第七十一条及び前二条に定めるもののほか、エツクス線作業主任者免許試験の実施について必要な事項は、厚生労働大臣が定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4264,7 +4187,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に存する放射性物質を装備している機器を使用する放射線装置室（電離放射線障害防止規則第十五条第一項に規定する放射線装置室をいう。）の出入口で人が通常出入りするものに対する新電離則第十七条第七項の規定の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に存する放射性物質を装備している機器を使用する放射線装置室（電離放射線障害防止規則第十五条第一項に規定する放射線装置室をいう。）の出入口で人が通常出入りするものに対する新電離則第十七条第二項の規定の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4755,35 +4678,8 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="2">
-        <ArticleCaption>（経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第一条第三号に掲げる規定の施行の際現に存する電離放射線障害防止規則第十条第一項に規定する特定エックス線装置（次条において単に「特定エックス線装置」という。）について、改修等により自動警報装置を設置することにつき著しく困難な事情があるときは、事業者は、警報機能を有する放射線測定器の装着その他自動警報装置の設置に代わる措置により第三条の規定による改正後の電離放射線障害防止規則第十七条第一項の関係者に周知させる措置を講じなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="3">
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第一条第三号に掲げる規定の施行の際現に存する特定エックス線装置について、改修等により第三条の規定による改正後の電離放射線障害防止規則第十七条第三項に規定する安全装置（以下この条において単に「安全装置」という。）を設置することにつき著しく困難な事情があるときは、事業者は、警報機能を有する放射線測定器の装着その他安全装置の設置に代わる措置により偶発的な被ばくを防止する措置を講じなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="4">
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">事業者は、エックス線作業主任者に前条に定める措置が講じられていることを確認させなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="5">
+        <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
