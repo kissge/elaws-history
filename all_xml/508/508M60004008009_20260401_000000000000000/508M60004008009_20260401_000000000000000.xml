@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="08" Num="009" PromulgateMonth="03" PromulgateDay="24" LawType="MinisterialOrdinance"><LawNum>令和八年デジタル庁・総務省令第九号</LawNum><LawBody><LawTitle Kana="ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいななじょうだいいっこうにきていするかくちほうこうきょうだんたいじょうほうしすてむにきょうつうするきじゅんのうちさいばーせきゅりてぃとうにかんするひょうじゅんをさだめるめいれい" Abbrev="" AbbrevKana="">地方公共団体情報システムの標準化に関する法律第七条第一項に規定する各地方公共団体情報システムに共通する基準のうちサイバーセキュリティ等に関する標準を定める命令</LawTitle>
+    <EnactStatement>地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号）第七条第一項の規定に基づき、各地方公共団体情報システムに共通する基準のうちサイバーセキュリティ等に関する標準を定める命令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令は、地方公共団体情報システムの標準化に関する法律（以下「法」という。）第七条第一項の規定に基づき、各地方公共団体情報システムに共通する基準のうちサイバーセキュリティ等に関する標準（以下「非機能要件の標準」という。）を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（用語の意義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システム</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">法第二条第一項に規定するものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">クラウド利用情報システム</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">クラウド・コンピューティング・サービス関連技術（官民データ活用推進基本法（平成二十八年法律第百三号）第二条第四項に規定するクラウド・コンピューティング・サービス関連技術をいう。）を活用した地方公共団体情報システムをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（非機能要件の標準）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">クラウド利用情報システムの非機能要件の標準は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">クラウド利用情報システムは、次に掲げる事項に係る要件に適合しなければならないものとし、その細目は、内閣総理大臣及び総務大臣が告示で定める。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">可用性（クラウド利用情報システムの継続的な利用の実現に関する事項をいう。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">性能・拡張性（クラウド利用情報システムの性能又は将来におけるクラウド利用情報システムの拡張に関する事項をいう。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">運用・保守性（クラウド利用情報システムの運用又は保守に係るサービスに関する事項をいう。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">移行性（クラウド利用情報システムを再構築する場合における設備若しくは機器又はデータの移行に関する事項をいう。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">セキュリティ（クラウド利用情報システムの安全性の確保に関する事項をいう。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">システム環境・エコロジー（クラウド利用情報システムの設置環境又は環境に及ぼす影響への配慮に関する事項をいう。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">クラウド利用情報システムは、安全性及び信頼性を確保するために必要な措置等が講じられるものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この命令は、令和八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地方公共団体が利用するクラウド利用情報システムで、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令（令和四年デジタル庁・総務省令第一号）第七条第三号、同条第四号、第九条各号、第十一条、第十二条各号、第十三条各号、第十四条、第十五条及び第十六条各号に規定する事務の処理に関するシステムについては、法第六条第一項の規定に基づく当該各システムに係る主務省令の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（要件に適合することが困難なシステムに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に地方公共団体が利用するクラウド利用情報システムで、機能標準化基準（法第六条第一項の基準をいう。以下この条において同じ。）又は共通機能の標準（法第七条第一項の基準のうち、各地方公共団体情報システムに共通する基準のうち全ての地方公共団体情報システムに共通して実装することができる機能の標準をいう。以下この条において同じ。）に適合するもののうち、非機能要件の標準に適合することが困難なものとして内閣総理大臣及び総務大臣が認める地方公共団体のクラウド利用情報システムについては、この命令の規定は、この命令の施行の日から起算して五年を超えない範囲内において内閣総理大臣及び総務大臣が定める日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に地方公共団体が利用する地方公共団体情報システムで、機能標準化基準又は共通機能の標準に適合することが困難なものとして所管大臣が認めるシステムについては、この命令の規定は、当該システムの機能標準化基準又は共通機能の標準の適用日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

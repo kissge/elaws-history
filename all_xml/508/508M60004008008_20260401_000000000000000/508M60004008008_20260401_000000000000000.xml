@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="08" Num="008" PromulgateMonth="03" PromulgateDay="24" LawType="MinisterialOrdinance"><LawNum>令和八年デジタル庁・総務省令第八号</LawNum><LawBody><LawTitle Kana="ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいななじょうだいいっこうにきていするかくちほうこうきょうだんたいじょうほうしすてむにきょうつうするきじゅんのうちでんじてききろくにおいてもちいられるようごおよびふごうのそうごうんようせいのかくほそのたのちほうこうきょうだんたいじょうほうしすてむにかかるごかんせいのかくほにかんするひょうじゅんをさだめるめいれい" Abbrev="" AbbrevKana="">地方公共団体情報システムの標準化に関する法律第七条第一項に規定する各地方公共団体情報システムに共通する基準のうち電磁的記録において用いられる用語及び符号の相互運用性の確保その他の地方公共団体情報システムに係る互換性の確保に関する標準を定める命令</LawTitle>
+    <EnactStatement>地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号）第七条第一項の規定に基づき、各地方公共団体情報システムに共通する基準のうち電磁的記録において用いられる用語及び符号の相互運用性の確保その他の地方公共団体情報システムに係る互換性の確保に関する標準を定める命令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令は、地方公共団体情報システムの標準化に関する法律（以下「法」という。）第七条第一項の規定に基づき、各地方公共団体情報システムに共通する基準のうち電磁的記録において用いられる用語及び符号の相互運用性の確保その他の地方公共団体情報システムに係る互換性の確保に関する標準（以下「データ要件・連携要件の標準」という。）を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（用語の意義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システム</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">法第二条第一項に規定するものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">データ要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムが機能標準化基準（法第六条第一項の基準をいう。以下同じ。）に適合するために必要なデータのレイアウトに関し要件を規定したもので、次条に定めるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">連携要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムが機能標準化基準に適合し、かつ、他の地方公共団体情報システム、独自施策システム等又は外部システムと円滑なデータ連携（その保有するデータを共有し、及び活用することをいう。以下同じ。）を行うための要件を規定したもので、第四条第一項に定めるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">基本データリスト</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムで管理するデータの項目（以下「データ項目」という。）及び属性等に係る標準で、次条第一号の規定に基づき標準化対象事務（法第二条第一項に規定するものをいう。以下この条において同じ。）ごとに定めるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">文字要件</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">文字セット（文字の集合をいう。以下同じ。）及び文字コード（文字とビット組合せの対応関係を示したものをいう。以下同じ。）で構成される地方公共団体情報システムの標準化のための要件で、次条第二号に定めるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">機能別連携仕様</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能標準化基準が規定するデータ連携に関する連携方法等についての標準で、第四条第一項第一号の規定に基づき標準化対象事務ごとに定めるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">独自施策システム等</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システム以外のシステムのうち、地方公共団体が条例や予算に基づいて行う施策等に関する事務の処理に係るシステムで、かつ、地方公共団体情報システムを利用する地方公共団体が当該地方公共団体情報システムとのデータ連携を認めるものをいう。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、連携するデータ項目は、第四条第一項第一号の規定に基づき定める機能別連携仕様に規定されたデータ項目を利用するものとし、当該データ項目以外のデータが必要な場合に限り、第三条第一号の規定に基づき定める基本データリストに規定されたグループ単位のファイルで対応するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">外部システム</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システム及び独自施策システム等以外のシステムで、整備又は運用を行うに当たり地方公共団体以外の者が主たる責任を有するシステムをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（データ要件の標準）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムのデータ要件の標準は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">地方公共団体情報システムは、機能標準化基準に適合するために必要なデータ項目を、当該データ項目の属性及び次号に定める文字要件に従い、基本データリストに規定するグループを単位にして、必要なときに入出力できなければならないものとし、データ項目、属性、グループその他の細目については、基本データリストとして内閣総理大臣及び総務大臣が告示で定める。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、基本データリストに規定のない外部システムに係る仕様書で規定されるデータ項目については、当該仕様書に従い、必要なときに入出力することができなければならない。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムは、次に定める文字セット及び文字コードを用いなければならない。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムが保持する氏名等（氏名、住民基本台帳法施行令（昭和四十二年政令第二百九十二号）第三十条の十三に規定する旧氏又は同令第三十条の十六第一項に規定する通称、世帯主の氏名、本籍、筆頭者及び住所等（これらの情報を基に記録される他の項目も含む。）をいう。以下同じ。）の文字セットは、内閣総理大臣及び総務大臣が告示で定めるもの（以下この条において「行政事務標準文字」という。）とし、地方公共団体情報システムが保持する氏名等以外の文字セットは、行政事務標準文字又はＪＩＳ（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項の日本産業規格をいう。以下この条において同じ。）　Ｘ　〇二一三とし、いずれの場合においても、文字コードは、ＪＩＳ　Ｘ　〇二二一とする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方公共団体情報システム間において氏名等を情報連携する場合の文字セットは、行政事務標準文字とし、氏名等以外を情報連携する場合の文字セットは、行政事務標準文字又はＪＩＳ　Ｘ　〇二一三とする。いずれの場合においても、文字コードは、ＪＩＳ　Ｘ　〇二二一とし、その細目については内閣総理大臣及び総務大臣が告示で定める。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">外部システムの接続仕様書（システムの間の接続に関する仕様書をいう。以下この条において同じ。）に統一的な文字の連携規定（地方公共団体情報システムと外部システムの間で文字のデータを連携する際の取決めをいう。以下この条において同じ。）がある外部システムと連携する場合の文字セット及び文字コードは、当該接続仕様書の定めによるものとする。外部システムの接続仕様書に統一的な文字の連携規定がない外部システムと連携する場合の文字セットは、ＪＩＳ　Ｘ　〇二一三とし、文字コードは、ＪＩＳ　Ｘ　〇二二一とする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">独自施策システム等と連携する場合の文字セットは、各地方公共団体情報システムにおける要件に応じて行政事務標準文字又はＪＩＳ　Ｘ　〇二一三のいずれかとし、文字コードは、ＪＩＳ　Ｘ　〇二二一とする。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（連携要件の標準）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムの連携要件の標準は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムは、他の地方公共団体情報システム、独自施策システム等（次号によるものを除く。）又は外部システムとの間で前条第一号の規定に基づき定めるデータ項目をデータ連携することができなければならないものとし、データ連携に係る連携方法その他の細目については、機能別連携仕様として内閣総理大臣及び総務大臣が告示で定める。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムと独自施策システム等のデータ連携について、連携方法は、原則として、ファイル連携（データを提供するシステム（以下この条において「提供側業務システム」という。）において、指定するフォルダに、提供するデータを保存したファイルを格納し、データを利用するシステム（以下この条において「利用側業務システム」という。）において、指定するフォルダに利用するデータを取りに行く方法をいう。以下この条において同じ。）によるものとする。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前二号のデータ連携に係る連携方法について、ファイル連携による場合は、更新日時等を活用した差分連携（提供側業務システムから利用側業務システムに前回連携したデータから追加又は変更となったデータを連携することをいう。）の方法によるほか、全件連携（提供側業務システムで管理する全てのデータ又は最新のデータを利用側業務システムに連携することをいう。）の方法によることもできるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">連携方法に係る詳細な技術仕様については、地方公共団体情報システムの標準化に関する法律第七条第一項に規定する各地方公共団体情報システムに共通する基準のうち全ての地方公共団体情報システムに共通して実装することができる機能の標準を定める命令（令和八年デジタル庁・総務省令第十号）第五条第二項に定めるところによる。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムを提供する事業者が、複数の地方公共団体情報システムを一体的に提供する場合は、当該一体的に提供されるシステム間のデータ連携については、この命令の規定にかかわらず、当該システムを提供する事業者が行う方法によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この命令は、令和八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地方公共団体が利用する地方公共団体情報システムで、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令（令和四年デジタル庁・総務省令第一号）第七条第三号、同条第四号、第九条各号、第十一条、第十二条各号、第十三条各号、第十四条、第十五条及び第十六条各号に規定する事務の処理に関するシステムについては、法第六条第一項の規定に基づく当該各システムに係る主務省令の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に地方公共団体が利用する地方公共団体情報システムで、標準化基準（法第五条第二項第四号に規定する基準をいう。以下同じ。）に適合することが困難なものとして所管大臣が認める地方公共団体情報システム（以下「特定移行支援システム」という。）については、各特定移行支援システムの標準化基準の適用日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（基本データリスト及び機能別連携仕様に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムにおけるデータ要件・連携要件の標準については、当分の間、第三条第一号及び第四条第一項第一号の規定にかかわらず、内閣総理大臣及び総務大臣が告示で定める基本データリスト及び機能別連携仕様によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（文字要件に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムは、従来の文字セットを第三条第二号イに規定するものに変換することができる状態で保持することにより、当分の間、同号イの規定にかかわらず、なお従来の文字セット及び文字コードを使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（データ連携に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">標準準拠システム（標準化基準に適合する地方公共団体情報システムをいう。以下この条において同じ。）と特定移行支援システムの間でデータ連携を行う場合は、当該特定移行支援システムの標準化基準の適用日までの間、当該特定移行支援システムにおいて当該標準準拠システムとの変換機能（第四条第一項第一号の規定に基づき定める機能別連携仕様に定めるとおり連携することができるようにするための機能をいう。以下この項において同じ。）を実装し、又は両システム間に変換機能を実装する方法によるものとし、この場合における文字セットは、第三条第二号ロに定めるものとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該方法によるデータ連携又は同号ロに定める文字セットによる連携ができない特段の事情がある場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">標準準拠システムと独自施策システム等の間でデータ連携を行う場合は、当分の間、当該独自施策システム等において当該標準準拠システムとの変換機能（第四条第一項第一号の規定に基づき定める機能別連携仕様又は同項第二号に定めるとおり連携することができるようにするための機能をいう。以下この項において同じ。）を実装し、又は両システム間に変換機能を実装する方法によるものとし、この場合における文字セットは、第三条第二号ニに定めるものとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該方法によるデータ連携又は同号ニに定める文字セットによる連携が困難である場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムを提供する事業者が、当該地方公共団体情報システムと独自施策システム等を一体的に提供する場合は、当該一体的に提供されるシステム間のデータ連携については、当分の間、この命令の規定にかかわらず、当該システムを提供する事業者が行う方法によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

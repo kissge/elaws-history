@@ -588,10 +588,10 @@
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
               <Column LineBreak="true" Num="1"> 
-                <Sentence Num="1" WritingMode="vertical">次の式により算定した額（銭未満は四捨五入するものとし、五万千七百二十円六十八銭を超える場合は五万千七百二十円六十八銭とする。以下「基礎賦課基準応益割額」という。）に、当該都道府県の平均被保険者数（当該都道府県に係る当該年度の前年度の一月から当該年度の十二月までの各月末における被保険者の数の合計数を十二で除した数をいう。以下この条において同じ。）を乗じて得た額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次の式により算定した額（銭未満は四捨五入するものとし、五万千六百九十三円九十銭を超える場合は五万千六百九十三円九十銭とする。以下「基礎賦課基準応益割額」という。）に、当該都道府県の平均被保険者数（当該都道府県に係る当該年度の前年度の一月から当該年度の十二月までの各月末における被保険者の数の合計数を十二で除した数をいう。以下この条において同じ。）を乗じて得た額</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（療養給付費等調整対象需要額／当該都道府県の平均被保険者数）×０．３７０２３４７４９</ArithFormula></Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>（療養給付費等調整対象需要額／当該都道府県の平均被保険者数）×０．３６４２３６５０８</ArithFormula></Sentence>
               </Column>
             </Subitem1Sentence>
             </Subitem1>
@@ -599,10 +599,10 @@
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
               <Column LineBreak="true" Num="1"> 
-                <Sentence Num="1" WritingMode="vertical">当該都道府県の賦課期日（法第七十六条の二に規定する賦課期日をいう。以下この条において同じ。）における被保険者に係る基礎控除後の総所得金額等（施行令第二十九条の七第二項第四号に規定する基礎控除後の総所得金額等をいう。以下同じ。）の合計額に、次の式により算定した率（小数点以下第十三位未満は四捨五入するものとし、〇・〇九二一二三二七〇四六八二〇〇を超える場合は〇・〇九二一二三二七〇四六八二〇〇とする。以下「基礎賦課基準応能割率」という。）を乗じて得た額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該都道府県の賦課期日（法第七十六条の二に規定する賦課期日をいう。以下この条において同じ。）における被保険者に係る基礎控除後の総所得金額等（施行令第二十九条の七第二項第四号に規定する基礎控除後の総所得金額等をいう。以下同じ。）の合計額に、次の式により算定した率（小数点以下第十三位未満は四捨五入するものとし、〇・〇八九八〇三六五九九三一二を超える場合は〇・〇八九八〇三六五九九三一二とする。以下「基礎賦課基準応能割率」という。）を乗じて得た額</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．００００００６５９４５０６×（療養給付費等調整対象需要額／当該都道府県の平均被保険者数）</ArithFormula></Sentence>
+                <Sentence Num="1" WritingMode="vertical"><ArithFormula>０．００００００６３２７５８８×（療養給付費等調整対象需要額／当該都道府県の平均被保険者数）</ArithFormula></Sentence>
               </Column>
             </Subitem1Sentence>
             </Subitem1>
@@ -620,13 +620,13 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">一万四千百六十円五十二銭に、当該都道府県の平均被保険者数を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一万四千十一円四十八銭に、当該都道府県の平均被保険者数を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">〇・〇二五四四〇九三二九五〇に、当該都道府県の賦課期日における被保険者に係る基礎控除後の総所得金額等の合計額を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">〇・〇二四七六二八二二二〇〇に、当該都道府県の賦課期日における被保険者に係る基礎控除後の総所得金額等の合計額を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -643,13 +643,13 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">一万五千八百三十二円七十銭に、当該都道府県の当該年度の前年度の一月から当該年度の十二月までの各月末における国民健康保険の被保険者のうち介護保険法第九条第二号に規定する被保険者（以下「介護納付金賦課被保険者」という。）であるものの数の合計数を十二で除した数を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一万五千四百五十円三十八銭に、当該都道府県の当該年度の前年度の一月から当該年度の十二月までの各月末における国民健康保険の被保険者のうち介護保険法第九条第二号に規定する被保険者（以下「介護納付金賦課被保険者」という。）であるものの数の合計数を十二で除した数を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">〇・〇二一四三七〇七四五三一に、当該都道府県の賦課期日における介護納付金賦課被保険者に係る基礎控除後の総所得金額等の合計額を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">〇・〇一九九三六〇四七一一二に、当該都道府県の賦課期日における介護納付金賦課被保険者に係る基礎控除後の総所得金額等の合計額を乗じて得た額（銭未満は四捨五入するものとする。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -680,33 +680,33 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">当該都道府県の基礎賦課基準応益割額に賦課期日にその世帯に属する被保険者の数を乗じて得た額とこの項の規定による控除をする前の当該世帯に属する被保険者に係る基礎控除後の総所得金額等の合計額に当該都道府県の基礎賦課基準応能割率を乗じて得た額との合計額が六十五万円を超える世帯があるときは、前項第一号ロにおける基礎控除後の総所得金額等の計算上、当該世帯ごとに次の式により算定した額の合計額を、控除するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">当該都道府県の基礎賦課基準応益割額に賦課期日にその世帯に属する被保険者の数を乗じて得た額とこの項の規定による控除をする前の当該世帯に属する被保険者に係る基礎控除後の総所得金額等の合計額に当該都道府県の基礎賦課基準応能割率を乗じて得た額との合計額が六十六万円を超える世帯があるときは、前項第一号ロにおける基礎控除後の総所得金額等の計算上、当該世帯ごとに次の式により算定した額の合計額を、控除するものとする。</Sentence>
           </ParagraphSentence>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/2JH00000229196.jpg"/></QuoteStruct></ArithFormula></Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/2JH00000267085.jpg"/></QuoteStruct></ArithFormula></Sentence>
             </ListSentence>
           </List>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">一万四千百六十円五十二銭に賦課期日にその世帯に属する被保険者の数を乗じて得た額とこの項の規定による控除をする前の当該世帯に属する被保険者に係る基礎控除後の総所得金額等の合計額に〇・〇二五四四〇九三二九五〇を乗じて得た額との合計額が二十四万円を超える世帯があるときは、第一項第二号ロにおける基礎控除後の総所得金額等の計算上、当該世帯ごとに次の式により算定した額の合計額を、控除するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">一万四千十一円四十八銭に賦課期日にその世帯に属する被保険者の数を乗じて得た額とこの項の規定による控除をする前の当該世帯に属する被保険者に係る基礎控除後の総所得金額等の合計額に〇・〇二四七六二八二二二〇〇を乗じて得た額との合計額が二十六万円を超える世帯があるときは、第一項第二号ロにおける基礎控除後の総所得金額等の計算上、当該世帯ごとに次の式により算定した額の合計額を、控除するものとする。</Sentence>
           </ParagraphSentence>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/2JH00000248115.jpg"/></QuoteStruct></ArithFormula></Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/2JH00000267086.jpg"/></QuoteStruct></ArithFormula></Sentence>
             </ListSentence>
           </List>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">一万五千八百三十二円七十銭に賦課期日にその世帯に属する介護納付金賦課被保険者の数を乗じて得た額とこの項の規定による控除をする前の当該世帯に属する介護納付金賦課被保険者に係る基礎控除後の総所得金額等の合計額に〇・〇二一四三七〇七四五三一を乗じて得た額との合計額が十七万円を超える世帯があるときは、第一項第三号ロにおける基礎控除後の総所得金額等の計算上、当該世帯ごとに次の式により算定した額の合計額を、控除するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">一万五千四百五十円三十八銭に賦課期日にその世帯に属する介護納付金賦課被保険者の数を乗じて得た額とこの項の規定による控除をする前の当該世帯に属する介護納付金賦課被保険者に係る基礎控除後の総所得金額等の合計額に〇・〇一九九三六〇四七一一二を乗じて得た額との合計額が十七万円を超える世帯があるときは、第一項第三号ロにおける基礎控除後の総所得金額等の計算上、当該世帯ごとに次の式により算定した額の合計額を、控除するものとする。</Sentence>
           </ParagraphSentence>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/2JH00000248116.jpg"/></QuoteStruct></ArithFormula></Sentence>
+              <Sentence Num="1" WritingMode="vertical"><ArithFormula><QuoteStruct><Fig src="./pict/2JH00000267087.jpg"/></QuoteStruct></ArithFormula></Sentence>
             </ListSentence>
           </List>
         </Paragraph>
@@ -1196,7 +1196,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">調整交付金の額、調整対象需要額又は第五条第一項第一号若しくは第二号の額を算定する場合において、その算定した金額に五百円未満の端数があるときはその端数を切りすて、五百円以上千円未満の端数があるときはその端数金額を千円として計算するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第四条第一項各号の額、第五条第一項各号の額又は第六条の規定による特別調整交付金の額を算定する場合において、その算定した金額に五百円未満の端数があるときはその端数を切りすて、五百円以上千円未満の端数があるときはその端数金額を千円として計算するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1296,12 +1296,12 @@
         </Paragraph>
       </Article>
       <Article Num="6">
-        <ArticleCaption>（令和六年度における基礎賦課基準応益割額、基礎賦課基準応能割率及び介護納付金賦課被保険者に係る基礎控除後の総所得金額等の算定の特例）</ArticleCaption>
+        <ArticleCaption>（令和七年度における基礎賦課基準応益割額、基礎賦課基準応能割率及び介護納付金賦課被保険者に係る基礎控除後の総所得金額等の算定の特例）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和六年度における調整対象収入額については、第五条第二項中「当該都道府県の基礎賦課基準応益割額」とあるのは「前項第一号イ中「五万千七百二十円六十八銭」とあるのは「五万二千二百十四円七十七銭」と、「０．３７０２３４７４９」とあるのは「０．３８２３１５７３３」と読み替えて同号イの規定を適用して算定した当該都道府県の基礎賦課基準応益割額」と、「当該都道府県の基礎賦課基準応能割率」とあるのは「前項第一号ロ中「〇・〇九二一二三二七〇四六八二〇〇」とあるのは「〇・〇九三二一五二五〇九四五」と、「０．００００００６５９４５０６」とあるのは「０．００００００６８２５２０６」と読み替えて同号ロの規定を適用して算定した当該都道府県の基礎賦課基準応能割率」とし、同条第三項中「一万四千百六十円五十二銭」とあるのは「一万四千二百二十二円二十二銭」と、「〇・〇二五四四〇九三二九五〇」とあるのは「〇・〇二五三一五〇九八三四七」と、「１４，１６０円５２銭」とあるのは「１４，２２２円２２銭」と、「０．０２５４４０９３２９５０」とあるのは「０．０２５３１５０９８３４７」とし、同条第四項中「一万五千八百三十二円七十銭」とあるのは「一万五千六百五十五円九十七銭」と、「〇・〇二一四三七〇七四五三一」とあるのは「〇・〇二二〇九四六五九九七六」と、「１５，８３２円７０銭」とあるのは「１５，６５５円９７銭」と、「０．０２１４３７０７４５３１」とあるのは「０．０２２０９４６５９９７６」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令和七年度における調整対象収入額については、第五条第二項中「当該都道府県の基礎賦課基準応益割額」とあるのは「前項第一号イ中「五万千六百九十三円九十銭」とあるのは「五万三千七百二十六円六十四銭」と、「０．３６４２３６５０８」とあるのは「０．３７３５６８６３６」と読み替えて同号イの規定を適用して算定した当該都道府県の基礎賦課基準応益割額」と、「当該都道府県の基礎賦課基準応能割率」とあるのは「前項第一号ロ中「〇・〇八九八〇三六五九九三一二」とあるのは「〇・〇九四三七五二五九二八〇〇」と、「０．００００００６３２７５８８」とあるのは「０．００００００６５６２０４０」と読み替えて同号ロの規定を適用して算定した当該都道府県の基礎賦課基準応能割率」とし、同条第三項中「一万四千十一円四十八銭」とあるのは「一万四千十九円九十七銭」と、「〇・〇二四七六二八二二二〇〇」とあるのは「〇・〇二五一七六五九九二〇五」と、「１４，０１１円４８銭」とあるのは「１４，０１９円９７銭」と、「０．０２４７６２８２２２００」とあるのは「０．０２５１７６５９９２０５」とし、同条第四項中「一万五千四百五十円三十八銭」とあるのは「一万五千七百十一円三十六銭」と、「〇・〇一九九三六〇四七一一二」とあるのは「〇・〇二〇四八二九一三一〇〇」と、「１５，４５０円３８銭」とあるのは「１５，７１１円３６銭」と、「０．０１９９３６０４７１１２」とあるのは「０．０２０４８２９１３１００」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4496,6 +4496,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月二五日厚生労働省令第三五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行し、この省令による改正後の国民健康保険の調整交付金等の交付額の算定に関する省令の規定は、令和七年度分の調整交付金（国民健康保険法（昭和三十三年法律第百九十二号）第七十二条第一項に規定する調整交付金をいう。）から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>

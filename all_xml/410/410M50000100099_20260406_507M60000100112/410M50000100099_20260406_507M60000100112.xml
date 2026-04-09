@@ -6349,8 +6349,8 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">一種病原体等の使用は、実験室の内部に備えられた高度安全キャビネットにおいて行うこと。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、防護服を着用する場合にあっては、安全キャビネットにおいて行うこと。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">一種病原体等の使用は、実験室の内部に備えられた高度安全キャビネット（防護服を着用する場合にあっては、安全キャビネット）において行うこと。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、動物に対して防護服を着用して一種病原体等を使用する場合であって、その大きさその他の理由により安全キャビネットにおいて安全に使用することができないときは、当該一種病原体等の使用方法について安全性の評価を行い、感染症の発生の予防及びまん延の防止のために必要な措置を講じた上で行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -6463,7 +6463,8 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">二種病原体等の使用は、実験室の内部に備えられた安全キャビネットにおいて行うこと。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">二種病原体等の使用は、実験室の内部に備えられた安全キャビネットにおいて行うこと。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、動物に対して二種病原体等を使用する場合であって、その大きさその他の理由により安全キャビネットにおいて安全に使用することができないときは、当該二種病原体等の使用方法について安全性の評価を行い、感染症の発生の予防及びまん延の防止のために必要な措置を講じた上で行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -6587,7 +6588,8 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">三種病原体等の使用は、実験室の内部に備えられた安全キャビネットにおいて行うこと。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">三種病原体等の使用は、実験室の内部に備えられた安全キャビネットにおいて行うこと。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、動物に対して三種病原体等を使用する場合であって、その大きさその他の理由により安全キャビネットにおいて安全に使用することができないときは、当該三種病原体等の使用方法について安全性の評価を行い、感染症の発生の予防及びまん延の防止のために必要な措置を講じた上で行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -6699,7 +6701,8 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">四種病原体等の使用は、実験室の内部に備えられた安全キャビネットにおいて行うこと。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">四種病原体等の使用は、実験室の内部に備えられた安全キャビネットにおいて行うこと。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、動物に対して四種病原体等を使用する場合であって、その大きさその他の理由により安全キャビネットにおいて安全に使用することができないときは、当該四種病原体等の使用方法について安全性の評価を行い、感染症の発生の予防及びまん延の防止のために必要な措置を講じた上で行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -9259,6 +9262,15 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令による改正後の感染症の予防及び感染症の患者に対する医療に関する法律施行規則第二十七条の五第一項（同条第三項において準用する場合を含む。）及び第二項の規定は、この省令の施行の日以降に感染症の予防及び感染症の患者に対する医療に関する法律第十七条第一項及び第二項の規定によって行った結核にかかっているかどうかに関する医師の健康診断、同法第五十三条の二の規定によって行った定期の健康診断並びに同法第五十三条の四及び第五十三条の五の規定によって診断書その他の文書の提出を受けた健康診断について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月二六日厚生労働省令第三六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和八年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
