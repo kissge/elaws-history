@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="08" Num="033" PromulgateMonth="03" PromulgateDay="25" LawType="MinisterialOrdinance"><LawNum>令和八年総務省令第三十三号</LawNum><LawBody><LawTitle Kana="ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいにじょうだいいっこうにきていするひょうじゅんかたいしょうじむをさだめるせいれいだいごごうにきていするじむのしょりにかかるしすてむにひつようとされるきのうとうにかんするひょうじゅんかきじゅんをさだめるしょうれい" Abbrev="" AbbrevKana="">地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令第五号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令</LawTitle>
+    <EnactStatement>地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号）第六条第一項の規定に基づき、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令第五号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、地方公共団体情報システムの標準化に関する法律（以下「法」という。）第六条第一項の規定に基づき、地方公共団体情報システム（法第二条第一項に規定する地方公共団体情報システムをいう。以下同じ。）のうち、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令（令和四年政令第一号）第五号に規定する事務の処理に係るシステム（以下「印鑑登録システム」という。）に必要とされる機能等（法第二条第二項に規定する機能等（法第五条第二項第三号イからニまでに掲げる事項を除く。）をいう。以下同じ。）に関する標準化基準（法第五条第二項第四号に規定する標準化基準をいう。以下同じ。）を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（用語の意義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">機能要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち地方公共団体情報システムの標準化のための統一的な基準を定めるべき情報システムの機能に関し要件を規定したもので、第四条に規定する事項をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">帳票要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。第四条第一号において同じ。）を出力する書面の様式に関し要件を規定したもので、第五条に規定する事項をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">実装区分</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムに必ず実装しなければならない機能、地方公共団体情報システムに実装するか否かについて当該システムを開発する事業者が判断する機能又は地方公共団体情報システムに実装してはならない機能の別をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">適合基準日</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムが標準化基準に適合していなければならない日をいう。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該日までに適合することを妨げるものではなく、また、当該日以降引き続き適合することを要するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（印鑑登録システムに必要とされる機能等に関する標準化基準の構成）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">印鑑登録システムに必要とされる機能等に関する標準化基準は、次条で定める機能要件の標準及び第五条で定める帳票要件の標準で構成する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（機能要件の標準）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">印鑑登録システムの機能要件の標準は次のとおりとし、その細目並びに実装区分及び適合基準日については総務大臣が告示で定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">登録データ（電磁的記録に記録された情報であって、印影、登録番号、登録年月日、氏名、生年月日、性別、住所その他の印鑑に関する証明に関し必要なものをいう。以下同じ。）、異動履歴データ（電磁的記録に記録された情報であって、登録データの登録、抹消又は修正に関し必要なものをいう。以下同じ。）その他の情報の入力、蓄積、編集、加工、修正、更新、検索、消去、出力又はこれらに類する処理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長（特別区の区長を含む。第四号において同じ。）が請求又は申出を拒む場合に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録証（印鑑の登録を受けている旨を証する書面をいう。）及び印鑑登録者識別カード（印鑑の登録を受けようとする者又はその代理人の申請に基づき、印鑑の登録を受けている者を識別するための磁気又は集積回路を付したカードをもって調製された印鑑登録証をいう。）の交付並びに個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。）の印鑑登録証又は印鑑登録者識別カードとしての利用に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録証明書（印鑑の登録を受けている者に係る印鑑登録原票（登録データを記録した台帳をいう。）に登録されている印影の写しについて市町村長が証明するものをいう。）の交付及び交付の一時的な停止に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">外部システム（地方公共団体情報システムの標準化に関する法律第七条第一項に規定する各地方公共団体情報システムに共通する基準のうち電磁的記録において用いられる用語及び符号の相互運用性の確保その他の地方公共団体情報システムに係る互換性の確保に関する標準を定める命令（令和八年デジタル庁・総務省令第八号）第二条第八号に規定する外部システムをいう。）との連携に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">登録データ、異動履歴データその他の情報について一括して処理する機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、告示で定める機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（帳票要件の標準）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">印鑑登録システムの帳票要件の標準は、次に掲げる書面（第十一号に掲げる書面を除く。）について別記様式に従い出力するものとし、その細目並びに実装区分及び適合基準日については総務大臣が告示で定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録証明書（性別有り）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録証明書（性別無し）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑の登録に関する照会書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録抹消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録原票確認票（性別有り）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録原票確認票（性別無し）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録原票（除票）確認票（性別有り）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">印鑑登録原票（除票）確認票（性別無し）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">世帯内印影票（性別有り）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">世帯内印影票（性別無し）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">その他告示で定める書面</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（印鑑登録システムに実装してはならない機能）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">印鑑登録システムには、前二条の規定及びこれらの規定に基づく告示に実装してはならない機能として定めるもの並びに前二条の規定及びこれらの規定に基づく告示に定めるもの以外は、実装してはならないものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（機能要件の標準及び帳票要件の標準に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に地方公共団体が利用する印鑑登録システムで、この省令の施行の日（以下「施行日」という。）以降第四条に規定する機能要件の標準又は第五条に規定する帳票要件の標準に適合することが困難なものとして総務大臣が認める地方公共団体の印鑑登録システムに係る機能要件の標準又は帳票要件の標準の経過措置については、総務大臣が告示で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に印鑑登録システムを利用する地方公共団体で、施行日以降第六条の規定により実装してはならない機能を有する印鑑登録システムを利用するものとして総務大臣が認める地方公共団体については、同条の規定は、令和十一年四月一日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（要件に適合することが困難なシステムに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に地方公共団体が利用する印鑑登録システムで、第四条に規定する機能要件の標準又は第五条に規定する帳票要件の標準に適合することが困難なものとして総務大臣が認める地方公共団体の印鑑登録システムについては、この省令の規定は、施行日から起算して五年を超えない範囲内において総務大臣が定める日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第一号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083054.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第二号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083055.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第三号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第三号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083056.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第四号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第四号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083057.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第五号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083058.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第六号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083059.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第七号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第七号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083060.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第八号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第八号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083061.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第九号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第九号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083062.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十号</AppdxStyleTitle>
+      <RelatedArticleNum>（第五条第十号関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000083063.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>
