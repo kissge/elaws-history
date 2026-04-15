@@ -19,7 +19,7 @@
         </TOCSection>
         <TOCSection Num="3">
           <SectionTitle>第三節　登記に関する帳簿</SectionTitle>
-          <ArticleRange>（第十七条―第二十七条の八）</ArticleRange>
+          <ArticleRange>（第十七条―第二十七条の九）</ArticleRange>
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　雑則</SectionTitle>
@@ -114,6 +114,14 @@
           <TOCSubsection Num="2_5">
             <SubsectionTitle>第二款の五　検索用情報</SubsectionTitle>
             <ArticleRange>（第百五十八条の三十八―第百五十八条の四十一）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="2_6">
+            <SubsectionTitle>第二款の六　所有権の登記名義人についての符号の表示</SubsectionTitle>
+            <ArticleRange>（第百五十八条の四十二・第百五十八条の四十三）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="2_7">
+            <SubsectionTitle>第二款の七　職権による氏名等の変更の登記</SubsectionTitle>
+            <ArticleRange>（第百五十八条の四十四―第百五十八条の四十六）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Num="3">
             <SubsectionTitle>第三款　用益権に関する登記</SubsectionTitle>
@@ -1186,6 +1194,12 @@
                   <Sentence Num="1" WritingMode="vertical">代替措置等申出書写しつづり込み帳</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="12_6">
+                <ItemTitle>十二の六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">職権氏名等変更登記申出書類つづり込み帳</Sentence>
+                </ItemSentence>
+              </Item>
               <Item Num="13">
                 <ItemTitle>十三</ItemTitle>
                 <ItemSentence>
@@ -1585,8 +1599,24 @@
             </Paragraph>
           </Article>
           <Article Num="27_4">
-            <ArticleCaption>（筆界特定書つづり込み帳等）</ArticleCaption>
+            <ArticleCaption>（職権氏名等変更登記申出書類つづり込み帳）</ArticleCaption>
             <ArticleTitle>第二十七条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">職権氏名等変更登記申出書類つづり込み帳には、法第七十六条の六ただし書の申出に関する書面をつづり込むものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第七十六条の六ただし書の申出が電子情報処理組織を使用する方法によりされた場合は、当該申出に係る情報の内容を書面に出力したものを職権氏名等変更登記申出書類つづり込み帳につづり込むものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27_5">
+            <ArticleCaption>（筆界特定書つづり込み帳等）</ArticleCaption>
+            <ArticleTitle>第二十七条の五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1644,9 +1674,9 @@
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="27_5">
+          <Article Num="27_6">
             <ArticleCaption>（登記簿保存簿等）</ArticleCaption>
-            <ArticleTitle>第二十七条の五</ArticleTitle>
+            <ArticleTitle>第二十七条の六</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1720,9 +1750,9 @@
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="27_6">
+          <Article Num="27_7">
             <ArticleCaption>（登録免許税関係書類つづり込み帳等）</ArticleCaption>
-            <ArticleTitle>第二十七条の六</ArticleTitle>
+            <ArticleTitle>第二十七条の七</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1790,15 +1820,15 @@
                     <Sentence Num="1" WritingMode="vertical">雑書つづり込み帳</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">第十八条第二号から第五号まで、第七号から第九号まで、第十一号、第十二号、第十二号の三、第十二号の五、第十三号、第十八号から第二十号まで及び第二十八号から第三十三号までに掲げる帳簿につづり込まない書類</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十八条第二号から第五号まで、第七号から第九号まで、第十一号、第十二号、第十二号の三、第十二号の五から第十三号まで、第十八号から第二十号まで及び第二十八号から第三十三号までに掲げる帳簿につづり込まない書類</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="27_7">
+          <Article Num="27_8">
             <ArticleCaption>（土地所在図等の副記録）</ArticleCaption>
-            <ArticleTitle>第二十七条の七</ArticleTitle>
+            <ArticleTitle>第二十七条の八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1812,9 +1842,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="27_8">
+          <Article Num="27_9">
             <ArticleCaption>（法定相続情報一覧図つづり込み帳）</ArticleCaption>
-            <ArticleTitle>第二十七条の八</ArticleTitle>
+            <ArticleTitle>第二十七条の九</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -2061,6 +2091,17 @@
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">送付を受けた日から五年間</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="22">
+                <ItemTitle>二十二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">職権氏名等変更登記申出書類つづり込み帳につづり込まれた書類に記載された情報</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">申出を受けた日から五年間</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -3161,7 +3202,13 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第百十条第三項（第百四十四条第二項において準用する場合を含む。）、第百十九条第二項、第百二十四条第八項（第百二十条第七項、第百二十六条第三項、第百三十四条第三項及び第百四十五条第一項において準用する場合を含む。）、第百五十九条第二項（同条第四項において準用する場合を含む。）又は第百六十八条第五項（第百七十条第三項において準用する場合を含む。）の通知があった場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第百十条第三項（第百四十四条第二項において準用する場合を含む。）、第百十九条第二項、第百二十四条第八項（第百二十条第七項、第百二十六条第三項、第百三十四条第三項及び第百四十五条第一項において準用する場合を含む。）、第百五十八条の四十三、第百五十八条の四十五第六項（第百五十八条の四十六第二項において準用する場合を含む。）、第百五十九条第二項（同条第四項において準用する場合を含む。）又は第百六十八条第五項（第百七十条第三項において準用する場合を含む。）の通知があった場合</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第百五十八条の四十四第一項第二号の確認をした場合</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -4037,7 +4084,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">法第二十三条第二項の登記の申請の日が、同項の登記義務者の住所についてされた最後の変更の登記の申請に係る受付の日から三月を経過している場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法第二十三条第二項の登記の申請の日が、同項の登記義務者の住所についてされた最後の変更の登記の申請に係る受付の日（当該最後の変更の登記が職権による登記である場合にあっては、当該最後の変更の登記の日）から三月を経過している場合</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -7638,7 +7685,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">次の各号に掲げる登記を申請する場合において、当該各号に定める者が日本の国籍を有しない者であるときは、当該登記の申請人は、登記官に対し、当該各号に定める者の氏名の表音をローマ字で表示したもの（以下この款において「ローマ字氏名」という。）を申請情報の内容として、当該ローマ字氏名を登記記録に記録するよう申し出るものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次の各号に掲げる登記を申請する場合において、当該各号に定める者が日本の国籍を有しない者であるときは、当該登記の申請人は、登記官に対し、当該各号に定める者の氏名の表音をローマ字で表示したもの（以下この款、第百五十八条の四十四第三項及び第百五十八条の四十五第六項において「ローマ字氏名」という。）を申請情報の内容として、当該ローマ字氏名を登記記録に記録するよう申し出るものとする。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -7922,7 +7969,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">次の各号に掲げる登記を申請する場合において、当該各号に定める者（当該登記の申請人である場合に限る。）は、登記官に対し、その一の旧氏（住民基本台帳法施行令（昭和四十二年政令第二百九十二号）第三十条の十三に規定する旧氏をいう。以下この款において同じ。）を申請情報の内容として、当該旧氏を登記記録に記録するよう申し出ることができる。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">次の各号に掲げる登記を申請する場合において、当該各号に定める者（当該登記の申請人である場合に限る。）は、登記官に対し、その一の旧氏（住民基本台帳法施行令（昭和四十二年政令第二百九十二号）第三十条の十三に規定する旧氏をいう。以下同じ。）を申請情報の内容として、当該旧氏を登記記録に記録するよう申し出ることができる。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該旧氏が登記すべき氏と同一であるときは、この限りでない。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
@@ -8405,7 +8452,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定による申出（以下この条において「検索用情報単独申出」という。）は、次に掲げる事項を明らかにしてしなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による申出（以下この条及び第百五十八の四十六第一項において「検索用情報単独申出」という。）は、次に掲げる事項を明らかにしてしなければならない。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -8442,7 +8489,7 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第二項第四号の規定にかかわらず、不動産番号（申出を受ける登記所以外の登記所の管轄区域内にある不動産について申出をする場合にあっては、不動産番号及び当該申出を受ける登記所以外の登記所の表示）を同項各号に掲げる事項に係る情報（以下この条において「検索用情報申出情報」という。）の内容としたときは、同項第四号に掲げる事項を検索用情報申出情報の内容とすることを要しない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項第四号の規定にかかわらず、不動産番号（申出を受ける登記所以外の登記所の管轄区域内にある不動産について申出をする場合にあっては、不動産番号及び当該申出を受ける登記所以外の登記所の表示）を同項各号に掲げる事項に係る情報（以下この条及び第百五十八の四十六第一項において「検索用情報申出情報」という。）の内容としたときは、同項第四号に掲げる事項を検索用情報申出情報の内容とすることを要しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
@@ -8595,6 +8642,195 @@
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">検索用情報管理ファイルに第百五十八条の三十八第一項第五号に掲げる事項が記録されている所有権の登記名義人は、法務大臣の定めるところにより検索用情報管理ファイルに記録された当該事項の変更又は削除をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2_6">
+            <SubsectionTitle>第二款の六　所有権の登記名義人についての符号の表示</SubsectionTitle>
+            <Article Num="158_42">
+              <ArticleCaption>（符号の表示）</ArticleCaption>
+              <ArticleTitle>第百五十八条の四十二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第七十六条の四の法務省令で定めるものは、自然人とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第七十六条の四の法務省令で定める場合は、次に掲げる場合とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">関係行政機関の長その他の者から提供を受けた情報により、所有権の登記名義人が死亡し、又は失踪の宣告を受けたことを確認した場合</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次条の規定による通知があった場合</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">登記官は、法第七十六条の四の規定による符号の表示をするときは、付記登記によって、登記の目的、所有権の登記名義人の氏名及びその者が権利能力を有しないこととなった旨を示す記号並びに登記の年月日を記録しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="158_43">
+              <ArticleCaption>（通知）</ArticleCaption>
+              <ArticleTitle>第百五十八条の四十三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">所有権の登記名義人（検索用情報管理ファイルに記録されている者であって、国内に住所を有するものに限る。以下この条において同じ。）について最後に第百五十八条の三十九第五項又は第百五十八条の四十第十七項の規定による記録をした登記官は、関係行政機関の長その他の者から提供を受けた情報により、当該所有権の登記名義人が死亡し、又は失踪の宣告を受けたことを確認した場合には、当該所有権の登記名義人に係る検索用情報管理ファイルに記録された不動産の所在地を管轄する登記所に、その旨を通知することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2_7">
+            <SubsectionTitle>第二款の七　職権による氏名等の変更の登記</SubsectionTitle>
+            <Article Num="158_44">
+              <ArticleCaption>（職権による氏名等の変更の登記）</ArticleCaption>
+              <ArticleTitle>第百五十八条の四十四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第七十六条の六本文の法務省令で定める場合は、次に掲げる場合とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">次条第六項（第百五十八条の四十六第二項において準用する場合を含む。）の規定による通知があった場合</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">会社法人等番号が登記された所有権の登記名義人の法人の登記簿に記録された情報の提供を受けてその名称又は住所について変更があったことを確認した場合</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">登記官は、法第七十六条の六本文の規定による登記をするときは、登記の目的、登記原因及びその日付並びに登記の年月日を記録しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">登記官は、法第七十六条の六本文の規定により所有権の登記名義人（検索用情報管理ファイルに記録されている者であって、国内に住所を有するものに限る。以下この款において同じ。）の氏名についての変更の登記をする場合において、第一項第一号の通知により当該所有権の登記名義人のローマ字氏名を確認したときは、職権で、当該ローマ字氏名を登記記録に記録するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">登記官は、法第七十六条の六本文の規定により所有権の登記名義人の氏名についての変更の登記をする場合において、第一項第一号の通知により当該所有権の登記名義人がその一の旧氏を登記記録に記録するよう申し出たことを確認したときは、職権で、当該旧氏を登記記録に記録するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="158_45">
+              <ArticleCaption>（法第七十六条の六ただし書の申出）</ArticleCaption>
+              <ArticleTitle>第百五十八条の四十五</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">所有権の登記名義人について最後に第百五十八条の三十九第五項又は第百五十八条の四十第十七項の規定による記録をした登記官は、住民基本台帳法第三十条の九の規定により提供を受けた当該所有権の登記名義人についての機構保存本人確認情報により、その氏名又は住所について変更があったことを確認した場合には、当該所有権の登記名義人に対し、その旨及び当該所有権の登記名義人が法第七十六条の六ただし書の申出をすることができる旨を通知することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による通知は、電子メールの送信によってするものとする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、検索用情報管理ファイルに電子メールアドレスが記録されていないことその他の事由により電子メールの送信による通知をすることができない所有権の登記名義人に対しては、書面を送付してするものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定による通知を受けた所有権の登記名義人は、当該通知の発送の日から一月以内に、同項に規定する登記官に対し、法第七十六条の六ただし書の申出をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の申出は、次に掲げる事項（次項において「申出情報」という。）を明らかにしてしなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">法第七十六条の六ただし書の申出をする旨</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">申出に係る不動産の不動産所在事項又は不動産番号</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">申出人（氏名について変更があったことが確認された者に限る。次号において同じ。）が日本の国籍を有しない者であるときは、その変更後の氏名</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">申出人がその一の旧氏（第二号の不動産の登記記録に旧氏が記録されている場合にあっては、当該登記記録に記録されている旧氏又は当該旧氏より後に称していた旧氏に限る。）を登記記録に記録するよう申し出るときは、その旨</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">申出人の電話番号その他の連絡先</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三項の申出は、次に掲げる方法のいずれかにより、申出情報を登記所に提供してしなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">法務大臣が定めるところにより電子情報処理組織を使用して申出情報を送信する方法</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">申出情報を記載した書面を提出する方法</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項に規定する登記官は、同項に規定する場合において、第三項の申出を受けたときは、当該申出に係る不動産の所在地を管轄する登記所に、その旨及び当該所有権の登記名義人の氏名又は住所の変更についての登記をする場合に記録すべき事項（ローマ字氏名及び旧氏に関する事項を含む。）を通知することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="158_46">
+              <ArticleTitle>第百五十八条の四十六</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">所有権の登記名義人は、氏名又は住所について変更があったときは、法務大臣の定めるところにより、検索用情報単独申出と同時に、当該変更についての法第七十六条の六ただし書の申出をすることができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合には、前条第四項第一号、第三号及び第四号に掲げる事項をも検索用情報申出情報の内容としなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第六項の規定は、前項の申出を受けた登記官が、住民基本台帳法第三十条の九の規定により提供を受けた所有権の登記名義人についての機構保存本人確認情報により、その氏名又は住所について変更があったことを確認した場合について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -15013,6 +15249,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、ストーカー行為等の規制等に関する法律の一部を改正する法律附則第一項第二号に掲げる規定の施行の日（令和八年三月十日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月二七日法務省令第二一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、民法等の一部を改正する法律（令和三年法律第二十四号）附則第一条第三号に掲げる規定（同法第二条中不動産登記法第百十九条の次に一条を加える改正規定及び同法第百二十条第三項の改正規定を除く。）の施行の日（令和八年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

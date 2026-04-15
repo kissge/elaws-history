@@ -2062,6 +2062,12 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法第五十条第四項ただし書に規定する書面（船員手帳により船員の勤務に関する事項を確認することができる場合を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">海技免状又は小型船舶操縦免許証その他の資格証明書を受有することを要する船員については、海技免状又は小型船舶操縦免許証その他の資格証明書（雇入契約の終了の届出をする場合を除く。）</Sentence>
               </ItemSentence>
             </Item>
@@ -2087,13 +2093,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">雇入契約の成立等の届出をする場合において、船員が地方運輸局等の事務所のない港で下船したことその他のやむを得ない事由があるときは、第十九条第一項の規定にかかわらず、船員手帳を提示することを要しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船舶所有者は、雇入契約の成立等の届出をする場合において、船員が地方運輸局等の事務所のない港で下船したことその他のやむを得ない事由があるときは、第十九条第一項の規定にかかわらず、船員手帳及び法第五十条第四項ただし書に規定する書面を提示することを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船長は、船員が下船する際に雇入契約の終了の届出をすることができないときは、当該船員の受有する船員手帳の該当欄にその事由を記載しておかなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船長は、船舶所有者が、船員が下船する際に雇入契約の終了の届出をすることができないときは、当該船員の受有する船員手帳の該当欄又は法第五十条第四項ただし書に規定する書面にその事由を記載しておかなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2273,12 +2279,19 @@
       <Chapter Num="4">
         <ChapterTitle>第四章　船員手帳</ChapterTitle>
         <Article Num="27_2">
-          <ArticleCaption>（船員手帳への記載）</ArticleCaption>
+          <ArticleCaption>（船員の勤務に関する事項を記載した書面の交付等）</ArticleCaption>
           <ArticleTitle>第二十七条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船長は、雇入契約の成立等があつたときは、遅滞なく、船内における職務、雇入期間その他の船員の勤務に関する事項を船員手帳に記載しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法第五十条第四項ただし書に規定する書面の様式は、第十一号の二書式とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該様式に掲げる事項を記載することができる別の様式を使用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第五十条第四項ただし書の規定による書面の交付については、船員について雇入契約の成立等があつたときは、遅滞なくこれを行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2614,19 +2627,41 @@
           </Paragraph>
         </Article>
         <Article Num="39">
-          <ArticleCaption>（船員手帳記載事項の証明）</ArticleCaption>
+          <ArticleCaption>（船員手帳等記載事項の証明）</ArticleCaption>
           <ArticleTitle>第三十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船員又は船員であつた者は、船員手帳に記載されている事項であつて、雇入契約の成立等の届出又は第二十四条第一項の規定による証明を受けたものについて地方運輸局長の証明を申請することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船員又は船員であつた者は、船員手帳又は法第五十条第四項ただし書に規定する書面に記載されている事項であつて、雇入契約の成立等の届出又は第二十四条第一項の規定による証明を受けたものについて地方運輸局長の証明を申請することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の証明を申請しようとする者は、地方運輸局の事務所において船員手帳を提示して第十六号の二書式による申請書を提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の証明を申請しようとする者は、地方運輸局の事務所において次の各号に掲げる区分に応じ、当該各号に定める書類を提示して第十六号の二書式による申請書を提出しなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">船員手帳に記載されている事項のみの証明を申請する場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">船員手帳</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法第五十条第四項ただし書に規定する書面に記載されている事項の証明を申請する場合（船員手帳の記載事項の証明を併せて申請する場合を含む。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">船員手帳及び当該書面</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -5109,7 +5144,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船舶所有者は、法第八十五条第三項の認証を受けようとするときは、当該船員の雇入契約の成立の届出の際、船員手帳の該当欄に年齢十八年に達する年月日を朱書し、これを地方運輸局長等に提示しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船舶所有者は、法第八十五条第三項の認証を受けようとするときは、当該船員の雇入契約の成立の届出の際、船員手帳の該当欄又は法第五十条第四項ただし書に規定する書面に年齢十八年に達する年月日を朱書し、これを地方運輸局長等に提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6155,7 +6190,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百十三条第一項の規定により船内及びその他の事業場内に掲示し、又は備え置かなければならない就業規則は、所轄地方運輸局長の届出受理証明のある有効なものでなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百十三条第一項の規定により船内及びその他の事業場内に掲示し、又は備え置かなければならない就業規則は、法第九十七条の規定により届出されたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -6181,7 +6216,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船舶所有者は、甲板部又は機関部の航海当直部員として部員を乗り組ませようとする場合には、それぞれ甲板部航海当直部員又は機関部航海当直部員の資格の認定をした旨の証印を受けている者を乗り組ませなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船舶所有者は、甲板部又は機関部の航海当直部員として部員を乗り組ませようとする場合には、それぞれ甲板部航海当直部員又は機関部航海当直部員の資格の認定を受けている者を乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6195,13 +6230,13 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">甲種甲板・機関部航海当直部員又は乙種甲板・機関部航海当直部員の資格の認定をした旨の証印を受けている者を乗り組ませること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">甲種甲板・機関部航海当直部員又は乙種甲板・機関部航海当直部員の資格の認定を受けている者を乗り組ませること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">部員の過半数は甲種甲板・機関部航海当直部員の資格の認定をした旨の証印を受けている者とすること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">部員の過半数は甲種甲板・機関部航海当直部員の資格の認定を受けている者とすること。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6246,13 +6281,37 @@
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の認定を申請しようとする者は、船員手帳及び認定を受けようとする資格に係る第八号表下欄に掲げる要件に適合することを証する書類を提示して、第二十二号書式による申請書を地方運輸局の事務所の長に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の認定を申請しようとする者は、第二十二号書式による申請書に次に掲げる書類を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船員手帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定を受けようとする資格に係る第八号表下欄に掲げる要件に適合することを証する書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請の日前六月以内に撮影した自己の写真（単独、無帽、かつ、正面のもの。以下「自己の写真」という。）（航海当直部員適任証書の交付を受けようとする者に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百十七条の二第二項の規定による証印の様式は、第二十二号の二書式による。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百十七条の二第二項の規定による証印の様式は第二十二号の二書式、航海当直部員適任証書の様式は第二十二号の二の二書式による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">航海当直部員適任証書を受有する者は、その記載事項に変更を生じ、若しくはその写真が本人であることを認め難くなつた場合又はこれを失い、若しくは毀損した場合においてその再交付を申請しようとするときは、第二十二号の二の三書式による申請書に船員手帳及び自己の写真を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6278,7 +6337,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船舶所有者は、前条第一項のタンカーには、次の表の上欄に掲げる船長又は海員として、それぞれ同表下欄に掲げる危険物等取扱責任者の資格の認定をした旨の証印を受けている者を乗り組ませなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船舶所有者は、前条第一項のタンカーには、次の表の上欄に掲げる船長又は海員として、それぞれ同表下欄に掲げる危険物等取扱責任者の資格の認定を受けている者を乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
@@ -6328,7 +6387,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船舶所有者は、前条第二項の液化天然ガス等燃料船には、次の表の上欄に掲げる船長又は海員として、それぞれ同表下欄に掲げる危険物等取扱責任者の資格の認定をした旨の証印を受けている者を乗り組ませなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船舶所有者は、前条第二項の液化天然ガス等燃料船には、次の表の上欄に掲げる船長又は海員として、それぞれ同表下欄に掲げる危険物等取扱責任者の資格の認定を受けている者を乗り組ませなければならない。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
@@ -6414,14 +6473,32 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第九号表上欄に掲げる危険物等取扱責任者の資格の区分ごとに、同表下欄に掲げる要件に適合する者又は当該要件と同等の能力を有することを証する千九百七十八年の船員の訓練及び資格証明並びに当直の基準に関する国際条約（第七十七条の十一及び第七十八条の二の五において「船員条約」という。）の締約国が発給した条約に適合する危険物又は有害物の取扱いに関する業務の管理に関する資格証明書（次項及び第七十七条の七第一項において「締約国危険物等取扱責任者資格証明書」という。）を受有する者であつて国土交通大臣が告示で定める基準に適合するものについて、法第百十七条の三第二項の規定による認定を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第九号表上欄に掲げる危険物等取扱責任者の資格の区分ごとに、同表下欄に掲げる要件に適合する者又は当該要件と同等の能力を有することを証する千九百七十八年の船員の訓練及び資格証明並びに当直の基準に関する国際条約（第七十七条の十一及び第七十八条の二の五において「船員条約」という。）の締約国が発給した条約に適合する危険物又は有害物の取扱いに関する業務の管理に関する資格証明書（次項第二号及び第七十七条の七第一項において「締約国危険物等取扱責任者資格証明書」という。）を受有する者であつて国土交通大臣が告示で定める基準に適合するものについて、法第百十七条の三第二項の規定による認定を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の認定を申請しようとする者は、船員手帳並びに認定を受けようとする資格に係る第九号表下欄に掲げる要件に適合することを証する書類又は締約国危険物等取扱責任者資格証明書及び前項の国土交通大臣が告示で定める基準に適合することを証する書類を提示して、第二十二号の三書式による申請書を地方運輸局の事務所の長に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の認定を申請しようとする者は、第二十二号の三書式による申請書に次に掲げる書類を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船員手帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定を受けようとする資格に係る第九号表下欄に掲げる要件に適合することを証する書類又は締約国危険物等取扱責任者資格証明書及び前項の国土交通大臣が告示で定める基準に適合することを証する書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自己の写真（危険物等取扱責任者適任証書の交付を受けようとする者に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true" OldStyle="false">
             <ParagraphNum/>
@@ -6432,7 +6509,13 @@
           <Paragraph Num="4" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百十七条の三第二項の規定による証印の様式は、第二十二号の四書式による。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百十七条の三第二項の規定による証印の様式は第二十二号の四書式、危険物等取扱責任者適任証書の様式は第二十二号の四の二書式による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">危険物等取扱責任者適任証書を受有する者は、その記載事項に変更を生じ、又はこれを失い、若しくは毀損した場合においてその再交付を申請しようとするときは、第二十二号の四の三書式による申請書に船員手帳及び自己の写真を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7674,14 +7757,33 @@
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">前項の有効期間の更新を受けようとする者は、当該有効期間が満了する日前六月以内（以下この項において「更新申請期間」という。）に、船員手帳及び第四項各号に掲げる要件のいずれかに適合することを証する書類を提示して、第二十二号の五書式による申請書を地方運輸局の事務所の長に提出しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の有効期間の更新を受けようとする者は、当該有効期間が満了する日前六月以内（以下この項において「更新申請期間」という。）に、第二十二号の五書式による申請書に次に掲げる書類を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、更新申請期間の全期間を通じて本邦以外の地に滞在することその他のやむを得ない事由により当該期間にその提出をすることができないときは、当該期間前にその提出をすることができる。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船員手帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四項各号に掲げる要件のいずれかに適合することを証する書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自己の写真（危険物等取扱責任者適任証書の交付を受けている者に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前二項の規定は、第七十七条の六第三項において準用する同条第一項の規定による第十号表の危険物等取扱責任者の認定について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、前項第二号中「第四項各号」とあるのは、「第五項各号」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4" OldNum="true" OldStyle="false">
@@ -7765,7 +7867,7 @@
           <Paragraph Num="7" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第四項又は第五項の規定による有効期間の更新を受けた者に対し、その者の船員手帳に第七十七条の六第一項（同条第三項において準用する場合を含む。）の認定がなお効力を有する旨の証印をする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第四項又は第五項の規定による有効期間の更新を受けた者に対し、その者の船員手帳に第七十七条の六第一項（同条第三項において準用する場合を含む。）の認定がなお効力を有する旨の証印をし、又は新たに危険物等取扱責任者適任証書を交付する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8" OldNum="true" OldStyle="false">
@@ -7791,7 +7893,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">船舶所有者は、前条の特定海域を航行する船舶（以下「特定海域航行船舶」という。）には、次の表の上欄に掲げる特定海域の海氷の状況（海氷が存在しない場合を除く。）に応じ、それぞれ同表の中欄に掲げる船長又は海員として、それぞれ同表の下欄に掲げる特定海域運航責任者の資格の認定をした旨の証印を受けている者を乗り組ませなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">船舶所有者は、前条の特定海域を航行する船舶（以下「特定海域航行船舶」という。）には、次の表の上欄に掲げる特定海域の海氷の状況（海氷が存在しない場合を除く。）に応じ、それぞれ同表の中欄に掲げる船長又は海員として、それぞれ同表の下欄に掲げる特定海域運航責任者の資格の認定を受けている者を乗り組ませなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、国土交通大臣が定める基準に適合する場合にあつてはこの限りでない。</Sentence>
             </ParagraphSentence>
             <TableStruct>
@@ -7804,7 +7906,7 @@
                     <Sentence Num="1" WritingMode="vertical">特定海域航行船舶の船長及び甲板部の当直を行う職員</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">乙種特定海域運航責任者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">甲種特定海域運航責任者又は乙種特定海域運航責任者</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -7826,7 +7928,7 @@
                     <Sentence Num="1" WritingMode="vertical">特定海域航行船舶の甲板部の当直を行う職員（一等航海士及び運航士（四号職務）を除く。）</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">乙種特定海域運航責任者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">甲種特定海域運航責任者又は乙種特定海域運航責任者</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -7869,19 +7971,43 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第十五号表上欄に掲げる特定海域運航責任者の資格の区分ごとに、同表下欄に掲げる要件に適合する者又は当該要件と同等の能力を有することを証する船員条約の締約国が発給した条約に適合する海域の特性に応じた運航に関する資格証明書（次項及び第七十七条の十二第一項において「締約国特定海域運航責任者資格証明書」という。）を受有する者であつて国土交通大臣が告示で定める基準に適合するものについて、法第百十七条の四第二項の規定による認定を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第十五号表上欄に掲げる特定海域運航責任者の資格の区分ごとに、同表下欄に掲げる要件に適合する者又は当該要件と同等の能力を有することを証する船員条約の締約国が発給した条約に適合する海域の特性に応じた運航に関する資格証明書（次項第二号及び第七十七条の十二第一項において「締約国特定海域運航責任者資格証明書」という。）を受有する者であつて国土交通大臣が告示で定める基準に適合するものについて、法第百十七条の四第二項の規定による認定を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の認定を申請しようとする者は、船員手帳並びに認定を受けようとする資格に係る第十五号表下欄に掲げる要件に適合することを証する書類又は締約国特定海域運航責任者資格証明書及び前項の国土交通大臣が告示で定める基準に適合することを証する書類を提示して、第二十二号の六書式による申請書を地方運輸局の事務所の長に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の認定を申請しようとする者は、第二十二号の六書式による申請書に次に掲げる書類を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船員手帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定を受けようとする資格に係る第十五号表下欄に掲げる要件に適合することを証する書類又は締約国特定海域運航責任者資格証明書及び前項の国土交通大臣が告示で定める基準に適合することを証する書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自己の写真（特定海域運航責任者適任証書の交付を受けようとする者に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第百十七条の四第二項の規定による証印の様式は、第二十二号の七書式による。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第百十七条の四第二項の規定による証印の様式は第二十二号の七書式、特定海域運航責任者適任証書の様式は第二十二号の七の二書式による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定海域運航責任者適任証書を受有する者は、その記載事項に変更を生じ、又はこれを失い、若しくは毀損した場合においてその再交付を申請しようとするときは、第二十二号の七の三書式による申請書に船員手帳及び自己の写真を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -8177,9 +8303,27 @@
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">前項の有効期間の更新を受けようとする者は、当該有効期間が満了する日前六月以内（以下この項において「更新申請期間」という。）に、船員手帳及び第三項各号又は第四項各号に掲げる要件のいずれかに適合することを証する書類を提示して、第二十二号の八書式による申請書を地方運輸局の事務所の長に提出しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の有効期間の更新を受けようとする者は、当該有効期間が満了する日前六月以内（以下この項において「更新申請期間」という。）に、第二十二号の八書式による申請書に次に掲げる書類を添付して、地方運輸局の事務所の長に提出しなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、更新申請期間の全期間を通じて本邦以外の地に滞在することその他のやむを得ない事由により当該期間にその提出をすることができないときは、当該期間前にその提出をすることができる。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船員手帳</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次項各号又は第四項各号に掲げる要件のいずれかに適合することを証する書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自己の写真（特定海域運航責任者適任証書の交付を受けている者に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3" OldNum="true" OldStyle="false">
             <ParagraphNum/>
@@ -8226,7 +8370,7 @@
           <Paragraph Num="6" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第三項又は第四項の規定による有効期間の更新を受けた者に対し、その者の船員手帳に第七十七条の十一第一項の認定がなお効力を有する旨の証印をする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方運輸局の事務所の長は、第三項又は第四項の規定による有効期間の更新を受けた者に対し、その者の船員手帳に第七十七条の十一第一項の認定がなお効力を有する旨の証印をし、又は新たに特定海域運航責任者適任証書を交付する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7" OldNum="true" OldStyle="false">
@@ -8767,7 +8911,7 @@
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により地方運輸局長に委任された権限のほか、法第百十七条の二第三項（法第百十七条の三第三項及び第百十七条の四第三項において準用する場合を含む。）の規定による証印の拒否及び法第百十七条の二第四項（法第百十七条の三第三項及び第百十七条の四第三項において準用する場合を含む。）の規定による証印の抹消は、地方運輸局長に行わせる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により地方運輸局長に委任された権限のほか、法第百十七条の二第三項（法第百十七条の三第三項及び第百十七条の四第三項において準用する場合を含む。）の規定による証印又は航海当直部員適任証書、危険物等取扱責任者適任証書若しくは特定海域運航責任者適任証書（以下この項において「適任証書」と総称する。）の交付の拒否及び法第百十七条の二第四項（法第百十七条の三第三項及び第百十七条の四第三項において準用する場合を含む。）の規定による証印の抹消又は適任証書の返納の命令は、地方運輸局長に行わせる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -8844,7 +8988,7 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第三十九条第一項の規定による船員手帳の記載事項の証明</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十九条第一項の規定による船員手帳等の記載事項の証明</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">八百七十円</Sentence>
@@ -12126,6 +12270,53 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月二七日国土交通省令第一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、船員法等の一部を改正する法律の施行の日（令和八年五月十三日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（船員法施行規則第十九条第一項、第二十一条、第二十七条の二、第三十九条、第五十七条の二十、第七十五条第一項及び第七十九条第一項の改正規定、同令第十一号書式の次に一書式を加える改正規定並びに同令第十六号の二書式の改正規定を除く。）及び第二条から第四条までの規定並びに次条から附則第八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和八年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（船員法施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定の施行の際現にされている同条の規定による改正前の船員法施行規則第十六号の二書式による申請は、同条の規定による改正後の同令第十六号の二書式による申請とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第二号に規定する規定の施行の際現にされている第一条の規定による改正前の船員法施行規則第二十二号書式、第二十二号の三書式、第二十二号の五書式、第二十二号の六書式又は第二十二号の八書式による申請は、それぞれ同条の規定による改正後の同令第二十二号書式、第二十二号の三書式、第二十二号の五書式、第二十二号の六書式又は第二十二号の八書式による申請とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">第一号表</AppdxTableTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
@@ -14361,7 +14552,7 @@
               <Sentence Num="11" WritingMode="vertical">（９）　独立行政法人海員学校の本科又は専修科を卒業した者</Sentence>
               <Sentence Num="12" WritingMode="vertical">（１０）　独立行政法人海技教育機構の海技士教育科海技課程本科又は専修科を卒業した者</Sentence>
               <Sentence Num="13" WritingMode="vertical">（１１）　（１）から（６）までに掲げる者と同等以上の能力を有すると国土交通大臣が認めた者</Sentence>
-              <Sentence Num="14" WritingMode="vertical">３　甲板部又は機関部の勤務に従事した期間（次号上欄に掲げる航海当直部員の資格の認定をした旨の証印を受けて部員として勤務した期間を除く。）の二分の一の期間及び次号上欄に掲げる航海当直部員の資格の認定をした旨の証印を受けて部員として勤務した期間が通算して四年以上あること。</Sentence>
+              <Sentence Num="14" WritingMode="vertical">３　甲板部又は機関部の勤務に従事した期間（次号上欄に掲げる航海当直部員の資格の認定を受けて部員として勤務した期間を除く。）の二分の一の期間及び次号上欄に掲げる航海当直部員の資格の認定を受けて部員として勤務した期間が通算して四年以上あること。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14438,7 +14629,7 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第三号３の証印を受けて部員として勤務した期間には、船員法施行規則等の一部を改正する省令（平成九年運輸省令第二号）第一条の規定による改正前の第七十七条の五第一項第一号及び第二号の確認を受けて第七十七条の二に規定する船舶において航海当直をすべき職務を有する部員として勤務した期間を含むものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三号３の認定を受けて部員として勤務した期間には、船員法施行規則等の一部を改正する省令（平成九年運輸省令第二号）第一条の規定による改正前の第七十七条の五第一項第一号及び第二号の確認を受けて第七十七条の二に規定する船舶において航海当直をすべき職務を有する部員として勤務した期間を含むものとする。</Sentence>
             </ItemSentence>
           </Item>
         </Remarks>
@@ -14519,13 +14710,13 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">申請日以前五年以内に、次のいずれかに適合すること。</Sentence>
               <Sentence Num="2" WritingMode="vertical">１　次の（１）から（４）までに適合すること。</Sentence>
-              <Sentence Num="3" WritingMode="vertical">（１）　乙種危険物等取扱責任者（低引火点燃料）の資格の認定をした旨の証印を受けていること。</Sentence>
+              <Sentence Num="3" WritingMode="vertical">（１）　乙種危険物等取扱責任者（低引火点燃料）の資格の認定を受けていること。</Sentence>
               <Sentence Num="4" WritingMode="vertical">（２）　低引火点燃料船において、船長又は甲板部若しくは機関部の職員若しくは機関部の部員であつて機関部の部員が行うべき作業全般に関し責任を有するものとしてその職務に一月以上従事した経験を有すること。</Sentence>
               <Sentence Num="5" WritingMode="vertical">（３）　低引火点燃料船における燃料の補給作業に三回以上従事した経験を有すること又は当該作業に一回若しくは二回従事した経験を有すること及び国土交通大臣が告示で定める基準に適合する講習の課程を修了したこと。</Sentence>
               <Sentence Num="6" WritingMode="vertical">（４）　消火、低引火点燃料船の安全の確保、海洋汚染の防止等に関する講習であつて第七十七条の六の二十二及び第七十七条の六の二十三の規定により国土交通大臣の登録を受けた講習の課程を修了したこと。</Sentence>
               <Sentence Num="7" WritingMode="vertical">２　次の（１）から（４）までに適合すること。</Sentence>
-              <Sentence Num="8" WritingMode="vertical">（１）　乙種危険物等取扱責任者（低引火点燃料）の資格の認定をした旨の証印を受けていること。</Sentence>
-              <Sentence Num="9" WritingMode="vertical">（２）　甲種危険物等取扱責任者（液化ガス）の資格の認定をした旨の証印を受けていること。</Sentence>
+              <Sentence Num="8" WritingMode="vertical">（１）　乙種危険物等取扱責任者（低引火点燃料）の資格の認定を受けていること。</Sentence>
+              <Sentence Num="9" WritingMode="vertical">（２）　甲種危険物等取扱責任者（液化ガス）の資格の認定を受けていること。</Sentence>
               <Sentence Num="10" WritingMode="vertical">（３）　低引火点燃料船における燃料の補給作業に三回以上従事した経験を有すること、当該作業に一回若しくは二回従事した経験を有すること及び国土交通大臣が告示で定める基準に適合する講習の課程を修了したこと又は液化ガスタンカーにおいて積荷若しくは揚荷作業に三回以上従事した経験を有すること。</Sentence>
               <Sentence Num="11" WritingMode="vertical">（４）　低引火点燃料船又は液化ガスタンカーに三月以上乗り組んだ履歴を有すること。</Sentence>
             </TableColumn>
@@ -14537,7 +14728,7 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">申請日以前五年以内に、次のいずれかに適合すること。</Sentence>
               <Sentence Num="2" WritingMode="vertical">１　消火並びに低引火点燃料船の安全の確保及び海洋汚染の防止のための基本的な措置に関し国土交通大臣が告示で定める基準に適合する講習の課程を修了したこと。</Sentence>
-              <Sentence Num="3" WritingMode="vertical">２　甲種危険物等取扱責任者（液化ガス）又は乙種危険物等取扱責任者（液化ガス）の資格の認定をした旨の証印を受けていること。</Sentence>
+              <Sentence Num="3" WritingMode="vertical">２　甲種危険物等取扱責任者（液化ガス）又は乙種危険物等取扱責任者（液化ガス）の資格の認定を受けていること。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -15017,7 +15208,7 @@
               <Sentence Num="1" WritingMode="vertical">一　甲種特定海域運航責任者</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">１　乙種特定海域運航責任者の資格の認定をした旨の証印を受けていること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">１　乙種特定海域運航責任者の資格の認定を受けていること。</Sentence>
               <Sentence Num="2" WritingMode="vertical">２　申請日以前五年以内に、特定海域航行船舶において、船長又は甲板部の当直を行う職員として二月以上従事した経験を有すること。</Sentence>
               <Sentence Num="3" WritingMode="vertical">３　申請日以前五年以内に、特定海域航行船舶の安全運航等に関する講習であつて第七十七条の十一の二の規定により国土交通大臣の登録を受けた講習の課程を修了したこと。</Sentence>
             </TableColumn>
@@ -15180,6 +15371,15 @@
       </FormatStruct>
     </AppdxFormat>
     <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第十一号の二書式</AppdxFormatTitle>
+      <RelatedArticleNum>（第二十七の二条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000267162.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第十二号書式</AppdxFormatTitle>
       <RelatedArticleNum>（第二十九条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
@@ -15229,7 +15429,7 @@
       <RelatedArticleNum>（第三十九条関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000060001.pdf"/>
+          <Fig src="./pict/2JH00000267163.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -15332,7 +15532,7 @@
       <RelatedArticleNum>（第七十七条の二の三関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000047246.pdf"/>
+          <Fig src="./pict/2JH00000267144.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -15346,11 +15546,29 @@
       </FormatStruct>
     </AppdxFormat>
     <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第二十二号の二の二書式</AppdxFormatTitle>
+      <RelatedArticleNum>（第七十七条の二の三関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000267152.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第二十二号の二の三書式</AppdxFormatTitle>
+      <RelatedArticleNum>（第七十七条の二の三関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000267153.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の三書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の六関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000047248.pdf"/>
+          <Fig src="./pict/2JH00000267154.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -15364,11 +15582,29 @@
       </FormatStruct>
     </AppdxFormat>
     <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第二十二号の四の二書式</AppdxFormatTitle>
+      <RelatedArticleNum>（第七十七条の六関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000267155.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第二十二号の四の三書式</AppdxFormatTitle>
+      <RelatedArticleNum>（第七十七条の六関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000267156.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の五書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の七関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000047250.pdf"/>
+          <Fig src="./pict/2JH00000267157.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -15377,7 +15613,7 @@
       <RelatedArticleNum>（第七十七条の十一関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000047251.pdf"/>
+          <Fig src="./pict/2JH00000267158.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -15391,11 +15627,29 @@
       </FormatStruct>
     </AppdxFormat>
     <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第二十二号の七の二書式</AppdxFormatTitle>
+      <RelatedArticleNum>（第七十七条の十一関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000267159.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第二十二号の七の三書式</AppdxFormatTitle>
+      <RelatedArticleNum>（第七十七条の十一関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/2JH00000267160.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第二十二号の八書式</AppdxFormatTitle>
       <RelatedArticleNum>（第七十七条の十二関係）（日本産業規格Ａ列４番）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000047253.pdf"/>
+          <Fig src="./pict/2JH00000267161.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
