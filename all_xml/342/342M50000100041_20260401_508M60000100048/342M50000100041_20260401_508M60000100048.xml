@@ -473,7 +473,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">基金は、毎事業年度、前事業年度の末日における法第二十七条に規定する積立金その他の積立金の額が坑内員及び坑内員であつた者に係る責任準備金の額（法第十八条第一項に規定する事業を行うときは坑外員及び坑外員であつた者に係る責任準備金の額を加えた額）以上の額であつて、将来にわたり財政の健全な運営を維持することができるものとして厚生労働大臣の定めるところにより算出した額を上回るときは、当該上回る額に相当する額を限度として、年金経理から業務経理へ繰り入れることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">基金は、毎事業年度、前事業年度の末日における法第二十七条に規定する積立金（第三十五条、第四十一条及び第四十二条において単に「積立金」という。）その他の積立金の額が坑内員及び坑内員であつた者に係る責任準備金の額（法第十八条第一項に規定する事業を行うときは坑外員及び坑外員であつた者に係る責任準備金の額を加えた額）以上の額であつて、将来にわたり財政の健全な運営を維持することができるものとして厚生労働大臣の定めるところにより算出した額を上回るときは、当該上回る額に相当する額を限度として、年金経理から業務経理へ繰り入れることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -784,6 +784,366 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三十一条第二項の規定によつて当該職員が携帯すべき証票は、別記様式による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（一括拠出額の算定方法）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条の三の規定による厚生労働省令で定めるところにより算定した額は、坑内員及び坑内員であつた者並びに坑外員及び坑外員であつた者（以下この条及び次条第一項において「坑内員等」という。）について、次の各号に掲げる者の区分に応じ、当該各号に定める給付に要する費用の予想額の合計額の現価（以下「最低積立金額」という。）とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">基金の解散の日（以下「解散日」という。）において、基金から年金たる給付の支給を受けている者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該年金たる給付</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">解散日において、坑内員又は坑外員でない者であつて坑内員又は坑外員であつた期間（以下「加入期間」という。）が受給資格期間以上である者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者が支給開始年齢に達したときに支給される年金たる給付</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">解散日において、加入期間が受給資格期間以上である坑内員及び坑外員</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者が支給開始年齢に達したときに支給される年金たる給付</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">解散日において、加入期間が受給資格期間に満たない坑内員及び坑外員</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者が受給資格期間に係る要件及び支給開始年齢に係る要件のいずれも満たしたときに支給される年金たる給付の額にその者の解散日までの加入期間を受給資格期間で除して得た率を乗じて得た額の給付</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の現価の計算の基礎となる予定利率及び予定死亡率は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">予定利率は、解散日における確定給付企業年金法施行規則（平成十四年厚生労働省令第二十二号）第五十五条第一項第一号の厚生労働大臣が定める率とする。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">予定死亡率は、坑内員等が男子である場合にあつては解散日における確定給付企業年金法施行規則第五十五条第一項第二号に掲げる加入者等が男子である場合の予定死亡率とし、坑内員等が女子である場合にあつては解散日における同号に掲げる加入者等が女子である場合の予定死亡率とする。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（残余財産の帰属の基準）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条の九に規定する厚生労働省令で定める基準は、以下のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">解散した基金の残余財産は、その全額を、解散日に現に存する坑内員等に分配するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">残余財産の分配は、解散日における坑内員等に係る最低積立金額に応じて<Ruby>按<Rt>あん</Rt></Ruby>分して得た額を分配する方法により行うものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">残余財産を会員に引き渡すものではないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律（令和七年法律第七十四号。以下「令和七年改正法」という。）附則第三十四条第六項の規定により基金が有する権利及び義務が同項に規定する承継企業年金基金（第四十二条において「承継企業年金基金」という。）に承継される場合には、法第三十六条の九に規定する厚生労働省令で定める基準は、前項の規定にかかわらず、以下のとおりとすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">石炭鉱業の坑内労働者の老後の生活の安定と福祉の向上に資するよう資産を活用する団体であつて当該事業を適正かつ確実に行うことができると認められるものに分配するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">残余財産の分配が特定の者の利益を目的とするものでないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（基金の解散の認可の申請）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第一項の規定による基金の解散の認可の申請は、解散の理由を記載した申請書に、次に掲げる書類を添付して、厚生労働大臣に提出することによつて行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認可の申請前一月以内現在における財産目録及び貸借対照表</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の時点における積立金の額並びに最低積立金額及びその算定の基礎を示した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">解散後における財産の処分の方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">基金の事業の継続が不可能となつたことにより解散しようとする場合にあつては、基金の事業を継続することが不可能となつたことを証する書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（清算人の公告等）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基金は、清算人が就任し、又は退任したときは、二週間以内に、その氏名及び住所を公告しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これらの事項に変更を生じたときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基金は、清算人が就任し、退任し、又は死亡したときは、遅滞なく、その旨を厚生労働大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による公告は、官報に掲載して行うほか、基金の事務所の掲示板に掲示し、かつ、電気通信回線に接続して行う自動公衆送信（公衆によつて直接受信されることを目的として公衆からの求めに応じ自動的に送信を行うことをいい、放送又は有線放送に該当するものを除く。次項において同じ。）により行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による自動公衆送信による公告は、基金のウェブサイトへの掲載により行うものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、基金が自ら管理するウェブサイトを有していない場合は、第一項の規定による公告を電気通信回線に接続して行う自動公衆送信により行うことを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（財産の目録等の承認）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">清算人は、就任の後、遅滞なく、基金の財産の状況を調査し、財産目録及び貸借対照表を作成し、厚生労働大臣の承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による承認の申請は、財産目録及び貸借対照表を厚生労働大臣に提出することによつて行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（給付の供託）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">清算人は、法第三十六条第一項の規定により基金が解散日までに支給すべきであつた給付でまだ支給していないものに相当する金額を供託しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による供託は、金銭をもつてしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">清算人は、第一項の規定により供託した場合にあつては、供託書正本の写しを第四十条第一項の決算報告書に添付して厚生労働大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（残余財産の処分の制限）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基金の清算人は、基金の債務を弁済した後でなければ、その残余財産を処分することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleCaption>（決算報告書の承認）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">清算人は、清算が結了したときは、遅滞なく、決算報告書を作成し、厚生労働大臣の承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による決算報告書の承認の申請は、決算報告書を厚生労働大臣に提出することによつて行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（基金から企業年金基金への移行の申請）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">令和七年改正法附則第三十四条第一項の規定による基金が確定給付企業年金法（平成十三年法律第五十号）第二条第四項に規定する企業年金基金となることについての認可の申請は、申請書に、次に掲げる書類を添付して、厚生労働大臣に提出することによつて行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">令和七年改正法附則第三十四条第二項の同意を得たことを証する書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">確定給付企業年金法施行規則第十一条第一号、第二号及び第四号に掲げる書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">確定給付企業年金法施行規則第四条第三号、第五号及び第六号に掲げる書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認可の申請前一月以内現在における基金の財産目録、貸借対照表並びに積立金の額、最低積立金額及び令和七年改正法附則第三十四条第七項の規定による厚生労働省令で定めるところにより算定した額並びにこれらの額の明細を示した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、認可に当たつて必要な書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（基金から企業年金基金に移換する額）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">令和七年改正法附則第三十四条第七項の規定による厚生労働省令で定めるところにより算定した額は、次の各号に定める額のうちいずれか大きい額に一・五を乗じて得た額（以下この条において「移換下限額」という。）から令和七年改正法附則第三十四条第五項に規定する企業年金基金の成立の日（以下この条において「移行の日」という。）における積立金の額に達するまでの範囲で、定款で定めた額とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、移行の日における積立金の額が移換下限額を下回る場合は、移換下限額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次の要件を満たす予定利率及び予定死亡率を基礎率として用いて計算した移行の日における通常予測給付額（承継企業年金基金が承継する給付に要する費用の通常の予測に基づく予想額をいう。）の現価</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">予定利率は、移行の日における確定給付企業年金法施行規則第四十三条第二項第一号の厚生労働大臣が定める率とすること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">予定死亡率は、次に掲げる区分に応じそれぞれ定める率とすること。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">坑内員又は坑外員</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">移行の日における確定給付企業年金法施行規則第六十二条第一号ロの規定による同号ロ（１）の区分の予定死亡率</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">男子であつて、坑内員であつた者又は坑外員であつた者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">移行の日における同号ロの規定による同号ロ（２）の区分の予定死亡率</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">女子であつて、坑内員であつた者又は坑外員であつた者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">移行の日における同号ロの規定による同号ロ（３）の区分の予定死亡率</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">移行の日を解散日とみなして第三十三条第一項の規定の例により計算した最低積立金額</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項各号に掲げる額を算定するに当たっては、賃金水準及び物価等に関する事情を勘案したものであるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1177,6 +1537,29 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月二七日厚生労働省令第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（石炭鉱業年金基金から企業年金基金へ移行する場合の財政計算）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律附則第三十四条第一項の認可を受けようとするときは、承継企業年金基金（同条第六項に規定する承継企業年金基金をいう。）が成立することとなる日（以下この条において「制度施行日」という。）前一年以内のいずれかの日又は制度施行日の前日において設立されていた石炭鉱業年金基金（石炭鉱業年金基金法（昭和四十二年法律第百三十五号）第二条に規定する石炭鉱業年金基金をいう。）の事業年度の末日（制度施行日前一年六月以内の日に限る。）を計算基準日として、確定給付企業年金法施行規則第二十四条の三第一号に規定する財政計算を行って掛金の額を算定するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
