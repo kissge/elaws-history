@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Law Lang="ja" Era="Showa" Year="32" Num="043" PromulgateMonth="03" PromulgateDay="31" LawType="CabinetOrder"><LawNum>昭和三十二年政令第四十三号</LawNum><LawBody><LawTitle Kana="そぜいとくべつそちほうしこうれい" Abbrev="租特法施行令" AbbrevKana="そ">租税特別措置法施行令</LawTitle>
     <EnactStatement>内閣は、租税特別措置法（昭和三十二年法律第二十六号）の規定に基き、及び同法を実施するため、この政令を制定する。</EnactStatement>
     <TOC>
@@ -45,13 +45,17 @@
           <SectionTitle>第七節の三　山林所得の課税の特例</SectionTitle>
           <ArticleRange>（第十九条の五・第十九条の六）</ArticleRange>
         </TOCSection>
-        <TOCSection Num="8">
-          <SectionTitle>第八節　譲渡所得等の課税の特例</SectionTitle>
+        <TOCSection Num="7_4">
+          <SectionTitle>第七節の四　譲渡所得等の課税の特例</SectionTitle>
           <ArticleRange>（第二十条―第二十五条の七）</ArticleRange>
         </TOCSection>
-        <TOCSection Num="8_2">
-          <SectionTitle>第八節の二　有価証券の譲渡による所得の課税の特例等</SectionTitle>
+        <TOCSection Num="8">
+          <SectionTitle>第八節　有価証券の譲渡による所得の課税の特例等</SectionTitle>
           <ArticleRange>（第二十五条の八―第二十五条の十五）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="8_2">
+          <SectionTitle>第八節の二　特定暗号資産の譲渡による所得の課税の特例等</SectionTitle>
+          <ArticleRange>（第二十五条の十五の二・第二十五条の十五の三）</ArticleRange>
         </TOCSection>
         <TOCSection Num="8_3">
           <SectionTitle>第八節の三　その他の譲渡所得等の課税の特例</SectionTitle>
@@ -8019,13 +8023,13 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その証券投資信託等（法第九条の四の二第一項第一号に掲げる証券投資信託又は同項第二号に掲げる特定受益証券発行信託をいう。次号において同じ。）の受益権が同項に規定する金融商品取引所（次号において「金融商品取引所」という。）に上場されていること又は上場されていたこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その証券投資信託等（法第九条の四の二第一項第一号に掲げる証券投資信託、同項第二号に掲げる投資信託及び投資法人に関する法律第二条第三項に規定する投資信託及び同条第二十四項に規定する外国投資信託又は法第九条の四の二第一項第三号に掲げる特定受益証券発行信託をいう。次号において同じ。）の受益権が同項に規定する金融商品取引所（同号において「金融商品取引所」という。）に上場されていること又は上場されていたこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その証券投資信託等の投資信託及び投資法人に関する法律第四条第一項に規定する委託者指図型投資信託約款又は信託法（平成十八年法律第百八号）第三条第一号に規定する信託契約に、全ての金融商品取引所において当該証券投資信託等の受益権の上場が廃止された場合には、その廃止された日に当該証券投資信託等を終了するための手続を開始する旨の定めがあること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その証券投資信託等の投資信託及び投資法人に関する法律第四条第一項に規定する委託者指図型投資信託約款（当該証券投資信託等が同法第二条第二十四項に規定する外国投資信託である場合には、当該委託者指図型投資信託約款に類するもの）又は信託法（平成十八年法律第百八号）第三条第一号に規定する信託契約に、全ての金融商品取引所において当該証券投資信託等の受益権の上場が廃止された場合には、その廃止された日に当該証券投資信託等を終了するための手続を開始する旨の定めがあること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -9626,7 +9630,7 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第十条第八項第四号に規定する所得税の額として政令で定める金額は、同条第一項、第四項及び第七項並びに法第十条の二第一項、第十条の三第三項及び第四項、第十条の四第三項、第十条の五第三項、第十条の五の三第三項及び第四項、第十条の五の四第一項から第三項まで、第十条の五の五第三項、第四十一条第一項、第四十一条の三の三第一項、第四十一条の十八第二項、第四十一条の十八の二第二項、第四十一条の十八の三第一項、第四十一条の十九の二第一項、第四十一条の十九の三第一項から第八項まで並びに第四十一条の十九の四第一項及び第二項の規定並びに所得税法第九十三条、第九十五条、第百六十五条の五の三及び第百六十五条の六の規定を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額（法第四十一条の三の十一第一項又は第二項の規定の適用がある場合には、当該給与所得の金額からこれらの規定による控除をした残額）、譲渡所得の金額（所得税法第三十三条第三項第二号に掲げる所得に係る部分については、その金額の二分の一に相当する金額）、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに事業所得の金額の占める割合を乗じて計算した金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条第八項第四号に規定する所得税の額として政令で定める金額は、同条第一項、第四項及び第七項並びに法第十条の二第一項、第十条の三第三項及び第四項、第十条の四第三項、第十条の五第三項、第十条の五の三第三項及び第四項、第十条の五の四第一項から第三項まで、第十条の五の五第三項、第十条の五の六第三項及び第四項、第四十一条第一項、第四十一条の三の三第一項、第四十一条の十八第二項、第四十一条の十八の二第二項、第四十一条の十八の三第一項、第四十一条の十九の二第一項、第四十一条の十九の三第一項から第八項まで並びに第四十一条の十九の四第一項及び第二項の規定並びに所得税法第九十三条、第九十五条、第百六十五条の五の三及び第百六十五条の六の規定を適用しないで計算したその年分の総所得金額に係る所得税の額に利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額（法第四十一条の三の十一第一項又は第二項の規定の適用がある場合には、当該給与所得の金額からこれらの規定による控除をした残額）、譲渡所得の金額（所得税法第三十三条第三項第二号に掲げる所得に係る部分については、その金額の二分の一に相当する金額）、一時所得の金額の二分の一に相当する金額及び雑所得の金額の合計額のうちに事業所得の金額の占める割合を乗じて計算した金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
@@ -10542,6 +10546,174 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="5_6_6">
+            <ArticleCaption>（特定生産性向上設備等を取得した場合の特別償却又は所得税額の特別控除）</ArticleCaption>
+            <ArticleTitle>第五条の六の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第一項に規定する政令で定めるソフトウエアは、電子計算機に対する指令であつて一の結果を得ることができるように組み合わされたもの（これに関連する財務省令で定める書類を含むものとし、複写して販売するための原本及び開発研究（新たな製品の製造若しくは新たな技術の発明又は現に企業化されている技術の著しい改善を目的として特別に行われる試験研究をいう。）の用に供されるものを除く。）とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第一項に規定する政令で定める規模のものは、次の各号に掲げる当該特定生産性向上設備等（同項に規定する特定生産性向上設備等をいう。第二号及び第四号において同じ。）の区分に応じ当該各号に定める規模のものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">機械及び装置</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一台又は一基（通常一組又は一式をもつて取引の単位とされるものにあつては、一組又は一式。次号において同じ。）の取得価額（所得税法施行令第百二十六条第一項各号の規定により計算した取得価額をいう。以下この項において同じ。）が百六十万円以上のもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">工具、器具及び備品</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一台又は一基の取得価額が百二十万円以上のもの（当該個人がその年（当該特定生産性向上設備等に係る法第十条の五の六第一項に規定する確認を受けた日以後五年を経過する日の属する年にあつては、その年の一月一日から当該五年を経過する日までの期間に限る。第四号において同じ。）において取得（その製作の後事業の用に供されたことのないものの取得に限る。）又は製作をして国内にある当該個人の事業の用（貸付けの用を除く。同号において同じ。）に供した工具又は器具及び備品（それぞれ一台又は一基の取得価額が四十万円以上のものに限る。）で、当該特定生産性向上設備等の投資に関する計画として財務省令で定めるもの（以下この号及び第四号において「投資計画」という。）と同一の投資計画に記載されたものの取得価額の合計額がそれぞれ百二十万円以上である場合の当該特定生産性向上設備等である工具又は器具及び備品を含む。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">建物</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一の建物の取得価額が千万円以上のもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">建物附属設備及び構築物</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一の建物附属設備又は構築物の取得価額が百二十万円以上のもの（当該個人がその年において取得（その建設の後事業の用に供されたことのないものの取得に限る。）又は建設をして国内にある当該個人の事業の用に供した建物附属設備（一の建物附属設備の取得価額が六十万円以上のものに限る。）で、当該特定生産性向上設備等の投資計画と同一の投資計画に記載されたものの取得価額の合計額が百二十万円以上である場合の当該特定生産性向上設備等である建物附属設備を含む。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ソフトウエア</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一のソフトウエアの取得価額が七十万円以上のもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第三項の規定による控除をすべき金額は、その年分の所得税法第九十二条第二項に規定する課税総所得金額に係る所得税額から控除する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該所得税額から控除をすべき同条第三項に規定する配当控除の額があるときは、まず当該配当控除の額を控除し、次に法第十条の五の六第三項の規定による控除をすべき金額を控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第四項の規定による控除をすべき金額は、その年分の所得税法第九十二条第二項に規定する課税総所得金額に係る所得税額から控除する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該所得税額から控除をすべき同条第三項に規定する配当控除の額及び法第十条の五の六第三項の規定による控除をすべき金額があるときは、まず当該配当控除の額及び同項の規定による控除をすべき金額を控除し、次に同条第四項の規定による控除をすべき金額を控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第九項第一号ロに規定する政令で定める場合は、第八項第二号に掲げる金額が零を超える場合とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第九項第二号イに規定する政令で定める取得は、代物弁済としての取得とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第九項第二号イに規定する政令で定めるものは、所得税法第二条第一項第十六号に規定する棚卸資産、有価証券及び繰延資産以外の資産のうち所得税法施行令第六条各号に掲げるもの（時の経過によりその価値の減少しないものを除く。）とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第九項各号列記以外の部分に規定する政令で定める場合は、第一号に掲げる金額が第二号に掲げる金額以下である場合とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第十条の五の六第九項の年分（次号及び第十二項において「対象年分」という。）の基準所得金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象年分の前年分の基準所得金額（当該対象年分の前年において事業を開始した場合には、当該基準所得金額に十二を乗じてこれを当該対象年分の前年において事業を営んでいた期間の月数で除して計算した金額）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第二号の月数は、暦に従つて計算し、一月に満たない端数を生じたときは、これを一月とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八項に規定する基準所得金額とは、法第二十五条の二第一項及び第四項の規定を適用しないで計算した場合のその年分の事業所得の金額をいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第九項に規定する個人が恒久的施設を有する非居住者である場合には、第八項に規定する基準所得金額は、前項の規定にかかわらず、次の各号に掲げる所得税法第百六十一条第一項に規定する国内源泉所得の区分に応じ当該各号に定める金額とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該各号に定める金額は、法第二十五条の二第一項及び第四項の規定を適用しないで計算した金額とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">所得税法第百六十四条第一号イに掲げる国内源泉所得</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その年分の同法第百六十五条第二項に規定する恒久的施設帰属所得に係る事業所得の金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">所得税法第百六十四条第一号ロに掲げる国内源泉所得</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その年分の同号ロに掲げる国内源泉所得に係る事業所得の金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十条の五の六第九項に規定する個人の対象年分に係る同項第一号に規定する継続雇用者給与等支給額及び同号に規定する継続雇用者比較給与等支給額が零である場合には、同号に掲げる要件に該当するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="5_7">
             <ArticleCaption>（所得税の額から控除される特別控除額の特例）</ArticleCaption>
             <ArticleTitle>第五条の七</ArticleTitle>
@@ -10554,7 +10726,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">その年分の所得税について法第十条の六第一項の規定の適用を受ける場合における所得税法第百二十条第一項第三号に掲げる所得税の額の計算については、法第十条第十三項、第十条の二第四項、第十条の三第十項、第十条の四第七項、第十条の五第八項、第十条の五の三第十項、第十条の五の四第九項、第十条の五の五第八項の規定にかかわらず、同号中「規定」とあるのは、「規定並びに租税特別措置法第十条の六第一項（所得税の額から控除される特別控除額の特例）の規定及び同項各号に掲げる規定」とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">その年分の所得税について法第十条の六第一項の規定の適用を受ける場合における所得税法第百二十条第一項第三号に掲げる所得税の額の計算については、法第十条第十三項、第十条の二第四項、第十条の三第十項、第十条の四第七項、第十条の五第八項、第十条の五の三第十項、第十条の五の四第九項、第十条の五の五第八項及び第十条の五の六第十一項の規定にかかわらず、同号中「規定」とあるのは、「規定並びに租税特別措置法第十条の六第一項（所得税の額から控除される特別控除額の特例）の規定及び同項各号に掲げる規定」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -13653,8 +13825,8 @@
             </Paragraph>
           </Article>
         </Section>
-        <Section Num="8">
-          <SectionTitle>第八節　譲渡所得等の課税の特例</SectionTitle>
+        <Section Num="7_4">
+          <SectionTitle>第七節の四　譲渡所得等の課税の特例</SectionTitle>
           <Article Num="20">
             <ArticleCaption>（長期譲渡所得の課税の特例）</ArticleCaption>
             <ArticleTitle>第二十条</ArticleTitle>
@@ -17848,8 +18020,8 @@
             </Paragraph>
           </Article>
         </Section>
-        <Section Num="8_2">
-          <SectionTitle>第八節の二　有価証券の譲渡による所得の課税の特例等</SectionTitle>
+        <Section Num="8">
+          <SectionTitle>第八節　有価証券の譲渡による所得の課税の特例等</SectionTitle>
           <Article Num="25_8">
             <ArticleCaption>（一般株式等に係る譲渡所得等の課税の特例）</ArticleCaption>
             <ArticleTitle>第二十五条の八</ArticleTitle>
@@ -21603,7 +21775,7 @@
             <Paragraph Num="13">
               <ParagraphNum>１３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二十八条の四第一項、第三十一条第一項、第三十二条第一項（同条第二項において準用する場合を含む。）、第三十七条の十第一項又は第四十一条の十四第一項の規定の適用がある場合における前項の規定の適用については、同項第三号及び第四号中「総所得金額」とあるのは「総所得金額、法第二十八条の四第一項に規定する土地等に係る事業所得等の金額」と、「及び山林所得金額」とあるのは「、山林所得金額、法第三十一条第一項に規定する長期譲渡所得の金額、法第三十二条第一項に規定する短期譲渡所得の金額、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額及び法第四十一条の十四第一項に規定する先物取引に係る雑所得等の金額」とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第二十八条の四第一項、第三十一条第一項、第三十二条第一項（同条第二項において準用する場合を含む。）、第三十七条の十第一項、第三十八条の二第一項又は第四十一条の十四第一項の規定の適用がある場合における前項の規定の適用については、同項第三号及び第四号中「総所得金額」とあるのは「総所得金額、法第二十八条の四第一項に規定する土地等に係る事業所得等の金額」と、「及び山林所得金額」とあるのは「、山林所得金額、法第三十一条第一項に規定する長期譲渡所得の金額、法第三十二条第一項に規定する短期譲渡所得の金額、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額、法第三十八条の二第一項に規定する特定暗号資産に係る譲渡所得等の金額及び法第四十一条の十四第一項に規定する先物取引に係る雑所得等の金額」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="14">
@@ -22848,8 +23020,8 @@
             <Paragraph Num="18">
               <ParagraphNum>１８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十五条の十一の二第十三項の規定は、法第二十八条の四第一項、第三十一条第一項、第三十二条第一項（同条第二項において準用する場合を含む。）又は第四十一条の十四第一項の規定の適用がある場合における前項の規定により読み替えられた第二十五条の十一の二第十二項の規定の適用について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条第十三項中「、第三十七条の十第一項又は」とあるのは「又は」と、「前項」とあるのは「第二十五条の十二の三第十七項において準用する前項」と、「、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額及び」とあるのは「及び」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の十一の二第十三項の規定は、法第二十八条の四第一項、第三十一条第一項、第三十二条第一項（同条第二項において準用する場合を含む。）、第三十八条の二第一項又は第四十一条の十四第一項の規定の適用がある場合における前項の規定により読み替えられた第二十五条の十一の二第十二項の規定の適用について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第十三項中「含む。）、第三十七条の十第一項」とあるのは「含む。）」と、「前項」とあるのは「第二十五条の十二の三第十七項において準用する前項」と、「、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額、法」とあるのは「、法」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="19">
@@ -25669,6 +25841,775 @@
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">法第三十八条第五項に規定する投資信託等又は公社債等に係る同項に規定する償還金等につき国内における同項に規定する交付の取扱者を通じてその交付を受ける場合には、所得税法第二百二十八条第二項又は所得税法施行令第三百四十六条第五項において準用する同令第三百四十二条第五項の規定の適用については、当該償還金等の交付を受ける者をこれらの規定に規定する株式等の譲渡の対価のこれらの規定に規定する支払を受ける者とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="8_2">
+          <SectionTitle>第八節の二　特定暗号資産の譲渡による所得の課税の特例等</SectionTitle>
+          <Article Num="25_15_2">
+            <ArticleCaption>（特定暗号資産に係る譲渡所得等の金額の計算等）</ArticleCaption>
+            <ArticleTitle>第二十五条の十五の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の二第一項に規定する特定暗号資産の譲渡に係る事業所得の金額、譲渡所得の金額及び雑所得の金額として政令で定めるところにより計算した金額は、その年中の同項に規定する特定暗号資産の譲渡（同項に規定する譲渡をいう。以下この項及び次項並びに次条第二項において同じ。）に係る事業所得の金額、譲渡所得の金額及び雑所得の金額の合計額とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、これらの金額の計算上生じた損失の金額があるときは、当該損失の金額は、次の各号に掲げる損失の金額の区分に応じ当該各号に定める所得の金額から控除する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">当該特定暗号資産の譲渡に係る事業所得の金額の計算上生じた損失の金額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該特定暗号資産の譲渡に係る譲渡所得の金額及び雑所得の金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">当該特定暗号資産の譲渡に係る譲渡所得の金額の計算上生じた損失の金額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該特定暗号資産の譲渡に係る事業所得の金額及び雑所得の金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">当該特定暗号資産の譲渡に係る雑所得の金額の計算上生じた損失の金額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該特定暗号資産の譲渡に係る事業所得の金額及び譲渡所得の金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">その年において法第三十八条の二第一項に規定する特定暗号資産の譲渡による事業所得、譲渡所得及び雑所得（以下この項において「特定暗号資産に係る譲渡所得等」という。）を有する居住者又は恒久的施設を有する非居住者が確定申告書を提出する場合には、財務省令で定めるところにより、当該特定暗号資産に係る譲渡所得等の金額の計算に関する明細書を当該申告書に添付しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、所得税法第百二十条第八項の規定の適用については、同項中「事業所得」とあるのは、「事業所得（租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産の同項に規定する譲渡による事業所得を除く。）」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の二第一項の規定の適用がある場合における所得税法の規定の適用については、次の表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百十一条第四項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">及び課税山林所得金額の見積額につき第三章（税額の計算）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る課税譲渡所得等の金額（以下「特定暗号資産に係る課税譲渡所得等の金額」という。）及び課税山林所得金額の見積額につき第三章（税額の計算）及び同項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百二十条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">、その年分の総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">、その年分の総所得金額、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る譲渡所得等の金額（以下「特定暗号資産に係る譲渡所得等の金額」という。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当該総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当該総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第八十九条（税率）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第八十九条（税率）及び同法第三十八条の二第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、退職所得金額及び山林所得金額並びに</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額、退職所得金額及び山林所得金額並びに</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章（税額の計算）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章（税額の計算）及び租税特別措置法第三十八条の二第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百二十一条第一項及び第三項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百二十三条第一項及び第二項第三号から第五号まで、第百二十七条第一項及び第二項、第百五十五条、第百五十九条第三項第二号並びに第百六十条第三項第一号ロ</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の二第一項の規定の適用がある場合における所得税法施行令の規定の適用については、次の表の上欄に掲げる同令の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条の二第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る譲渡所得等の金額（以下「特定暗号資産に係る譲渡所得等の金額」という。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十七条第四項第五号、第百七十九条第一号イ及び第二号イ、第百八十条第二項第一号、第二百四条第一項第二号、第二百五条、第二百十九条第二項第二号、第二百二十一条の三第二項、第二百二十一条の六第一項並びに第二百二十二条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百五十八条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、退職所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額、退職所得金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">して課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">して課税総所得金額、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る課税譲渡所得等の金額（以下「特定暗号資産に係る課税譲渡所得等の金額」という。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）及び租税特別措置法第三十八条の二第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百五十八条第三項第一号及び第二号並びに第五項第一号イ</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百六十一条第一号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）及び租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百六十六条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の規定に準じて</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">及び租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）の規定に準じて</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の二第一項の規定の適用がある場合における災害被害者に対する租税の減免、徴収猶予等に関する法律第二条の規定の適用については、同条中「山林所得金額」とあるのは「山林所得金額並びに租税特別措置法第三十八条の二第一項に規定する特定暗号資産に係る譲渡所得等の金額」と、「同法」とあるのは「所得税法」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の二第一項の規定の適用がある場合における所得税法第百十二条第一項の規定により提出する申請書の記載に関し必要な事項は、財務省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の二第四項の報告書の様式は、財務省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国税通則法施行令第三十条の三の規定は、法第三十八条の二第六項の規定により物件を留め置く場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_15_3">
+            <ArticleCaption>（特定暗号資産に係る譲渡損失の繰越控除）</ArticleCaption>
+            <ArticleTitle>第二十五条の十五の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第一項の規定による特定暗号資産に係る譲渡損失の金額（同条第二項に規定する特定暗号資産に係る譲渡損失の金額をいう。以下この条において同じ。）の控除については、次に定めるところによる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">控除する特定暗号資産に係る譲渡損失の金額が前年以前三年内の二以上の年に生じたものである場合には、これらの年のうち最も古い年に生じた特定暗号資産に係る譲渡損失の金額から順次控除する。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第七十一条第一項の規定による控除が行われる場合には、まず、法第三十八条の三第一項の規定による控除を行つた後、所得税法第七十一条第一項の規定による控除を行う。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第二項に規定する特定暗号資産の譲渡をしたことにより生じた損失の金額として政令で定めるところにより計算した金額は、法第三十八条の二第一項に規定する特定暗号資産の譲渡（次項において「特定暗号資産の譲渡」という。）による事業所得の金額、譲渡所得の金額又は雑所得の金額の計算上生じた損失の金額として財務省令で定めるところにより計算した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第二項に規定する控除しきれない部分の金額として政令で定めるところにより計算した金額は、特定暗号資産の譲渡をした日の属する年分の同項に規定する特定暗号資産に係る譲渡所得等の金額（以下この条において「特定暗号資産に係る譲渡所得等の金額」という。）の計算上生じた損失の金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">その年の翌年以後又はその年において法第三十八条の三第一項の規定の適用を受けようとする場合に提出すべき所得税法第百二十条第一項の規定による申告書及び提出することができる同法第百二十二条第一項又は第百二十三条第一項の規定による申告書には、同法第百二十条第一項各号若しくは第百二十二条第一項各号又は第百二十三条第二項各号に掲げる事項のほか、次に掲げる事項を併せて記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その年において生じた特定暗号資産に係る譲渡損失の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その年の前年以前三年内の各年において生じた特定暗号資産に係る譲渡損失の金額（法第三十八条の三第一項の規定により前年以前において控除されたものを除く。次項第二号において同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その年において生じた特定暗号資産に係る譲渡損失の金額がある場合には、その年分の特定暗号資産に係る譲渡所得等の金額の計算上生じた損失の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二号に掲げる特定暗号資産に係る譲渡損失の金額がある場合には、当該損失の金額を控除しないで計算した場合のその年分の特定暗号資産に係る譲渡所得等の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第三十八条の三第一項の規定により翌年以後において特定暗号資産に係る譲渡所得等の金額の計算上控除することができる特定暗号資産に係る譲渡損失の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第五項において準用する所得税法第百二十三条第一項に規定する政令で定める事項は、次に掲げる事項とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その年において生じた特定暗号資産に係る譲渡損失の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その年の前年以前三年内の各年において生じた特定暗号資産に係る譲渡損失の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その年において生じた特定暗号資産に係る譲渡損失の金額がある場合には、その年分の総所得金額、退職所得金額及び山林所得金額の合計額又は純損失の金額（所得税法第二条第一項第二十五号に規定する純損失の金額をいう。次号において同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二号に掲げる特定暗号資産に係る譲渡損失の金額がある場合には、その年分の総所得金額、退職所得金額及び山林所得金額の合計額並びに当該損失の金額を控除しないで計算した場合のその年分の特定暗号資産に係る譲渡所得等の金額又は純損失の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第三十八条の三第一項の規定により翌年以後において特定暗号資産に係る譲渡所得等の金額の計算上控除することができる特定暗号資産に係る譲渡損失の金額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第八条の四第一項、第二十八条の四第一項、第三十一条第一項、第三十二条第一項（同条第二項において準用する場合を含む。）、第三十七条の十第一項、第三十七条の十一第一項又は第四十一条の十四第一項の規定の適用がある場合における前項の規定の適用については、同項第三号及び第四号中「総所得金額」とあるのは「総所得金額、法第八条の四第一項に規定する上場株式等に係る配当所得等の金額、法第二十八条の四第一項に規定する土地等に係る事業所得等の金額」と、「及び山林所得金額」とあるのは「、山林所得金額、法第三十一条第一項に規定する長期譲渡所得の金額、法第三十二条第一項に規定する短期譲渡所得の金額、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額、法第三十七条の十一第一項に規定する上場株式等に係る譲渡所得等の金額及び法第四十一条の十四第一項に規定する先物取引に係る雑所得等の金額」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所得税法第百二十条第三項から第九項までの規定は、法第三十八条の三第五項において準用する所得税法第百二十三条第一項（同法第百六十六条において準用する場合を含む。）の規定による申告書の提出について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第百二十条第五項及び第七項中「確定申告期限」とあるのは「確定申告期限（当該申告書が国税通則法第六十一条第一項第二号（延滞税の額の計算の基礎となる期間の特例）に規定する還付請求申告書である場合には、当該申告書の提出があつた日）」と、「国税通則法」とあるのは「同法」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第一項の規定の適用がある場合における法第三十八条の二第二項の規定により読み替えられた所得税法の規定の適用については、同項第三号中「これらの規定」とあるのは「同法第七十一条第一項中「総所得金額」とあるのは「総所得金額、特定暗号資産に係る譲渡所得等の金額」と、同法第七十二条第一項各号列記以外の部分中「総所得金額」とあるのは「総所得金額、特定暗号資産に係る譲渡所得等の金額（租税特別措置法第三十八条の三第一項（特定暗号資産に係る譲渡損失の繰越控除）の規定の適用がある場合には、その適用後の金額。以下同じ。）」と、同項第一号中「総所得金額」とあるのは「総所得金額、特定暗号資産に係る譲渡所得等の金額」と、同法第七十三条から第八十七条までの規定」と、「あるのは、」とあるのは「あるのは」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第一項の規定の適用がある場合における前条第三項の規定により読み替えて適用される所得税法第百二十条第一項第一号、第百二十三条第一項及び第二項第三号から第五号まで、第百二十七条第一項及び第二項、第百五十五条、第百五十九条第三項第二号並びに第百六十条第三項第一号ロに規定する特定暗号資産に係る譲渡所得等の金額は、これらの規定にかかわらず、法第三十八条の三第一項の規定の適用後の金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、法第三十八条の三第一項又は第五項の規定の適用がある場合における所得税法の規定の適用については、次に定めるところによる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第二条第一項第四十号の規定の適用については、同号中「確定申告書及び」とあるのは、「確定申告書（租税特別措置法第三十八条の三第五項（特定暗号資産に係る譲渡損失の繰越控除）において準用する第百二十三条第一項（特定暗号資産の譲渡損失に係る確定損失申告書）（第百六十六条において準用する場合を含む。）の規定による申告書を含む。以下この号において同じ。）及び」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第四十二条第三項の規定の適用については、同項中「確定申告書」とあるのは、「確定申告書（租税特別措置法第三十八条の三第五項（特定暗号資産に係る譲渡損失の繰越控除）において準用する第百二十三条第一項（特定暗号資産の譲渡損失に係る確定損失申告書）（第百六十六条（非居住者に対する準用）において準用する場合を含む。）の規定による申告書を含む。以下第二百三十三条までにおいて同じ。）」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百二十二条第二項の規定の適用については、同項中「次条第一項」とあるのは、「次条第一項（租税特別措置法第三十八条の三第五項（特定暗号資産に係る譲渡損失の繰越控除）において準用する場合を含む。）」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百二十五条の規定の適用については、同条第一項から第三項までの規定中「を記載した」とあるのは、「の記載（財務省令で定める記載を含む。）をした」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百二十七条第一項及び第二項の規定の適用については、同条第一項及び第二項中「事項」とあるのは、「事項その他財務省令で定める事項」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百二十七条第三項及び第四項の規定の適用については、同条第三項中「純損失の金額若しくは雑損失の金額」とあるのは「純損失の金額、雑損失の金額若しくは租税特別措置法第三十八条の三第二項（特定暗号資産に係る譲渡損失の繰越控除）に規定する特定暗号資産に係る譲渡損失の金額（第百五十五条において「特定暗号資産に係る譲渡損失の金額」という。）」と、「の規定による申告書」とあるのは「の規定による申告書又は同法第三十八条の三第五項において準用する第百二十三条第一項（特定暗号資産の譲渡損失に係る確定損失申告書）の規定による申告書」と、「同条第二項各号に掲げる事項」とあるのは「それぞれ第百二十三条第二項各号に掲げる事項その他財務省令で定める事項又は同法第三十八条の三第五項において準用する第百二十三条第一項に規定する政令で定める事項」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百五十二条の規定の適用については、同条中「若しくは第三号」とあるのは「又は第三号」と、「又は第百二十三条第二項第一号」とあるのは「、第百二十三条第二項第一号」と、「若しくは第八号」とあるのは「又は第八号」と、「に掲げる金額」とあるのは「その他財務省令で定める規定に掲げる金額」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百五十三条の規定の適用については、同条各号列記以外の部分中「若しくは第三号」とあるのは「又は第三号」と、「又は第百二十三条第二項第一号若しくは」とあるのは「、第百二十三条第二項第一号又は」と、「に掲げる金額」とあるのは「その他財務省令で定める規定に掲げる金額」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百五十五条の規定の適用については、同条中「純損失の金額」とあるのは「純損失の金額若しくは特定暗号資産に係る譲渡損失の金額」と、「の規定の適用」とあるのは「若しくは租税特別措置法第三十八条の三第一項（特定暗号資産に係る譲渡損失の繰越控除）の規定の適用」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所得税法第百五十七条の規定の適用については、同条第一項中「若しくは第三号」とあるのは「又は第三号」と、「又は第百二十三条第二項第一号」とあるのは「、第百二十三条第二項第一号」と、「若しくは第七号」とあるのは「又は第七号」と、「に掲げる金額」とあるのは「その他財務省令で定める規定に掲げる金額」と、同条第四項中「若しくは第三号」とあるのは「又は第三号」と、「又は第百二十三条第二項第一号」とあるのは「、第百二十三条第二項第一号」と、「若しくは第七号」とあるのは「又は第七号その他財務省令で定める規定」とする。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の二第一項の規定の適用があり、かつ、法第三十八条の三第一項の規定の適用がある場合又は同条第五項の規定の適用がある場合における所得税法施行令の規定の適用については、前条第四項の規定にかかわらず、次の表の上欄に掲げる同令の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条の二第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る譲渡所得等の金額（同法第三十八条の三第一項（特定暗号資産に係る譲渡損失の繰越控除）の規定の適用がある場合には、その適用後の金額。以下第二百十九条までにおいて「特定暗号資産に係る譲渡所得等の金額」という。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十七条第四項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第九十七条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">確定申告書</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">確定申告書（租税特別措置法第三十八条の三第五項（特定暗号資産に係る譲渡損失の繰越控除）において準用する法第百二十三条第一項（特定暗号資産の譲渡損失に係る確定損失申告書）（法第百六十六条（非居住者に対する準用）において準用する場合を含む。）の規定による申告書を含む。以下第三百三十条までにおいて同じ。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百七十九条第一号イ及び第二号イ、第百八十条第二項第一号、第二百四条第一項第二号、第二百五条並びに第二百十九条第二項第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百二十一条の三第二項、第二百二十一条の六第一項及び第二百二十二条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百五十八条第一項第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る譲渡所得等の金額（同法第三十八条の三第一項（特定暗号資産に係る譲渡損失の繰越控除）の規定の適用がある場合には、その適用後の金額。以下第三項までにおいて「特定暗号資産に係る譲渡所得等の金額」という。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百五十八条第一項第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、租税特別措置法第三十八条の二第一項に規定する特定暗号資産に係る課税譲渡所得等の金額（以下「特定暗号資産に係る課税譲渡所得等の金額」という。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百五十八条第一項第四号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）及び租税特別措置法第三十八条の二第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百五十八条第三項第一号及び第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百五十八条第五項第一号イ</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">総所得金額、租税特別措置法第三十八条の二第一項に規定する特定暗号資産に係る譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百六十一条第一号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の総所得金額、租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）に規定する特定暗号資産に係る譲渡所得等の金額（同法第三十八条の三第一項（特定暗号資産に係る譲渡損失の繰越控除）の規定の適用がある場合には、その適用後の金額）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三章第一節（税率）及び租税特別措置法第三十八条の二第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百六十二条第一項及び第三項から第五項まで</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">において準用する場合</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">並びに租税特別措置法施行令第二十五条の十五の三第七項（確定所得申告書の添付書類の添付等の準用）において準用する場合</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百六十六条第一項及び第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の規定に準じて</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">及び租税特別措置法第三十八条の二第一項（特定暗号資産に係る譲渡所得等の課税の特例）の規定に準じて</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百六十六条第三項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">課税総所得金額、特定暗号資産に係る課税譲渡所得等の金額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第五項の規定の適用がある場合における国税通則法第七十四条の二の規定の適用については、同条第一項第一号イ中「する場合の確定申告）」とあるのは、「する場合の確定申告）若しくは租税特別措置法第三十八条の三第五項（特定暗号資産に係る譲渡損失の繰越控除）において準用する所得税法第百二十三条第一項（特定暗号資産の譲渡損失に係る確定損失申告書）」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="13">
+              <ParagraphNum>１３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第三十八条の三第一項の規定の適用がある場合における前条第五項の規定により読み替えられた災害被害者に対する租税の減免、徴収猶予等に関する法律第二条の規定の適用については、同項中「特定暗号資産に係る譲渡所得等の金額」とあるのは、「特定暗号資産に係る譲渡所得等の金額（同法第三十八条の三第一項の規定の適用がある場合には、その適用後の金額）」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -33790,7 +34731,7 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第八条の四第一項、第二十八条の四第一項、第三十一条第一項、第三十二条第一項（同条第二項において準用する場合を含む。）、第三十七条の十第一項又は第三十七条の十一第一項の規定の適用がある場合における前項の規定の適用については、同項第三号及び第四号中「総所得金額」とあるのは「総所得金額、法第八条の四第一項に規定する上場株式等に係る配当所得等の金額、法第二十八条の四第一項に規定する土地等に係る事業所得等の金額」と、「及び山林所得金額」とあるのは「、山林所得金額、法第三十一条第一項に規定する長期譲渡所得の金額、法第三十二条第一項に規定する短期譲渡所得の金額、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額及び法第三十七条の十一第一項に規定する上場株式等に係る譲渡所得等の金額」とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第八条の四第一項、第二十八条の四第一項、第三十一条第一項、第三十二条第一項（同条第二項において準用する場合を含む。）、第三十七条の十第一項、第三十七条の十一第一項又は第三十八条の二第一項の規定の適用がある場合における前項の規定の適用については、同項第三号及び第四号中「総所得金額」とあるのは「総所得金額、法第八条の四第一項に規定する上場株式等に係る配当所得等の金額、法第二十八条の四第一項に規定する土地等に係る事業所得等の金額」と、「及び山林所得金額」とあるのは「、山林所得金額、法第三十一条第一項に規定する長期譲渡所得の金額、法第三十二条第一項に規定する短期譲渡所得の金額、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額、法第三十七条の十一第一項に規定する上場株式等に係る譲渡所得等の金額及び法第三十八条の二第一項に規定する特定暗号資産に係る譲渡所得等の金額」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
@@ -34219,7 +35160,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第四十一条の十八第二項に規定する総所得金額、退職所得金額及び山林所得金額の合計額の百分の四十に相当する金額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十一条の十八第二項に規定する総所得金額、退職所得金額及び山林所得金額の合計額の百分の四十に相当する金額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）、第三十八条の二第二項第三号又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -34235,7 +35176,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第四十一条の十八の二第二項に規定する総所得金額、退職所得金額及び山林所得金額の合計額の百分の四十に相当する金額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十一条の十八の二第二項に規定する総所得金額、退職所得金額及び山林所得金額の合計額の百分の四十に相当する金額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）、第三十八条の二第二項第三号又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -34912,7 +35853,7 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第四十一条の十八の三第一項に規定する総所得金額、退職所得金額及び山林所得金額の合計額の百分の四十に相当する金額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十一条の十八の三第一項に規定する総所得金額、退職所得金額及び山林所得金額の合計額の百分の四十に相当する金額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）、第三十八条の二第二項第三号又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="9">
@@ -35086,7 +36027,7 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項第二号イに規定する基準額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項第二号イに規定する基準額は、法第八条の四第三項第三号、第二十八条の四第五項第二号、第三十一条第三項第三号（法第三十二条第四項において準用する場合を含む。）、第三十七条の十第六項第五号（法第三十七条の十一第六項及び第三十七条の十二第七項において準用する場合を含む。）、第三十八条の二第二項第三号又は第四十一条の十四第二項第四号の規定の適用がある場合には、これらの規定により読み替えられた所得税法第七十八条第一項第一号に規定する百分の四十に相当する金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
@@ -36086,7 +37027,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">配当所得の金額、不動産所得の金額、事業所得の金額、山林所得の金額、譲渡所得の金額、雑所得の金額、法第八条の四第一項に規定する上場株式等に係る配当所得等の金額、法第二十八条の四第一項に規定する土地等に係る事業所得等の金額、法第三十一条第一項に規定する長期譲渡所得の金額、法第三十二条第一項に規定する短期譲渡所得の金額、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額、法第三十七条の十一第一項に規定する上場株式等に係る譲渡所得等の金額及び法第四十一条の十四第一項に規定する先物取引に係る雑所得等の金額の計算上生じた損失の金額に相当する金額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">配当所得の金額、不動産所得の金額、事業所得の金額、山林所得の金額、譲渡所得の金額、雑所得の金額、法第八条の四第一項に規定する上場株式等に係る配当所得等の金額、法第二十八条の四第一項に規定する土地等に係る事業所得等の金額、法第三十一条第一項に規定する長期譲渡所得の金額、法第三十二条第一項に規定する短期譲渡所得の金額、法第三十七条の十第一項に規定する一般株式等に係る譲渡所得等の金額、法第三十七条の十一第一項に規定する上場株式等に係る譲渡所得等の金額、法第三十八条の二第一項に規定する特定暗号資産に係る譲渡所得等の金額及び法第四十一条の十四第一項に規定する先物取引に係る雑所得等の金額の計算上生じた損失の金額に相当する金額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -40064,6 +41005,321 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="27_12_7">
+            <ArticleCaption>（特定生産性向上設備等を取得した場合の特別償却又は法人税額の特別控除）</ArticleCaption>
+            <ArticleTitle>第二十七条の十二の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第一項に規定する政令で定めるソフトウエアは、電子計算機に対する指令であつて一の結果を得ることができるように組み合わされたもの（これに関連する財務省令で定める書類を含むものとし、複写して販売するための原本及び開発研究（新たな製品の製造若しくは新たな技術の発明又は現に企業化されている技術の著しい改善を目的として特別に行われる試験研究をいう。）の用に供されるものを除く。）とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第一項に規定する政令で定める規模のものは、次の各号に掲げる当該特定生産性向上設備等（同項に規定する特定生産性向上設備等をいう。第二号及び第四号において同じ。）の区分に応じ当該各号に定める規模のものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">機械及び装置</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一台又は一基（通常一組又は一式をもつて取引の単位とされるものにあつては、一組又は一式。次号において同じ。）の取得価額（法人税法施行令第五十四条第一項各号の規定により計算した取得価額をいう。以下この項において同じ。）が百六十万円以上のもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">工具、器具及び備品</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一台又は一基の取得価額が百二十万円以上のもの（当該法人が当該事業年度（当該特定生産性向上設備等に係る法第四十二条の十二の七第一項に規定する確認を受けた日以後五年を経過する日以前に開始し、かつ、同日後に終了する事業年度にあつては、当該事業年度開始の日から当該五年を経過する日までの期間に限る。第四号において同じ。）において取得（その製作の後事業の用に供されたことのないものの取得に限る。）又は製作をして国内にある当該法人の事業の用（貸付けの用を除く。同号において同じ。）に供した工具又は器具及び備品（それぞれ一台又は一基の取得価額が四十万円以上のものに限る。）で、当該特定生産性向上設備等の投資に関する計画として財務省令で定めるもの（以下この号及び第四号において「投資計画」という。）と同一の投資計画に記載されたものの取得価額の合計額がそれぞれ百二十万円以上である場合の当該特定生産性向上設備等である工具又は器具及び備品を含む。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">建物</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一の建物の取得価額が千万円以上のもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">建物附属設備及び構築物</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一の建物附属設備又は構築物の取得価額が百二十万円以上のもの（当該法人が当該事業年度において取得（その建設の後事業の用に供されたことのないものの取得に限る。）又は建設をして国内にある当該法人の事業の用に供した建物附属設備（一の建物附属設備の取得価額が六十万円以上のものに限る。）で、当該特定生産性向上設備等の投資計画と同一の投資計画に記載されたものの取得価額の合計額が百二十万円以上である場合の当該特定生産性向上設備等である建物附属設備を含む。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">ソフトウエア</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一のソフトウエアの取得価額が七十万円以上のもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項第一号ロに規定する政令で定める場合は、第六項第二号に掲げる金額が零を超える場合とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項第二号イに規定する政令で定める取得は、代物弁済としての取得とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項第二号イに規定する政令で定めるものは、棚卸資産、有価証券及び繰延資産以外の資産のうち法人税法施行令第十三条各号に掲げるもの（時の経過によりその価値の減少しないものを除く。）とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項各号列記以外の部分に規定する政令で定める場合は、第一号に掲げる金額が第二号に掲げる金額以下である場合とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項の事業年度（以下この項及び第十項において「対象年度」という。）の基準所得等金額（当該対象年度開始の日前一年（当該対象年度が一年に満たない場合には、当該対象年度の期間。次号において同じ。）以内に終了した各事業年度（最初課税事業年度開始の日前に終了した各事業年度及び外国法人である人格のない社団等の第八項第二号ホに規定する収益事業から生ずるものを有することとなつた日を含む事業年度開始の日からその有することとなつた日の前日までの期間を除く。次号において「前事業年度」という。）の月数を合計した数が当該対象年度の月数に満たない場合には、当該基準所得等金額を当該対象年度の月数で除し、これに当該合計した数を乗じて計算した金額）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前事業年度の基準所得等金額（対象年度開始の日から起算して一年前の日を含む前事業年度にあつては、当該前事業年度の基準所得等金額を当該前事業年度の月数で除し、これに当該一年前の日から当該前事業年度終了の日までの期間の月数を乗じて計算した金額）の合計額</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の月数は、暦に従つて計算し、一月に満たない端数を生じたときは、これを一月とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第六項において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">基準所得等金額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">各事業年度のイ及びロに掲げる金額の合計額からハに掲げる金額を控除した金額をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該事業年度の所得の金額（法人税法第六十二条第二項に規定する最後事業年度にあつては、同項に規定する資産及び負債の同項に規定する譲渡がないものとして計算した場合における所得の金額。次項第二号イ及びロにおいて同じ。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税法第五十七条、第五十九条、第六十四条の五第一項又は第六十四条の八の規定により当該事業年度の所得の金額の計算上損金の額に算入された金額</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税法第二十七条、第六十四条の五第三項又は第六十四条の七第六項の規定により当該事業年度の所得の金額の計算上益金の額に算入された金額</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">最初課税事業年度</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項に規定する法人が次に掲げる法人に該当する場合におけるそれぞれ次に定める日を含む事業年度をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">新たに収益事業を開始した内国法人である公益法人等又は人格のない社団等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">その開始した日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">公共法人に該当していた収益事業を行う公益法人等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該公益法人等に該当することとなつた日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">公共法人又は収益事業を行つていない公益法人等に該当していた普通法人又は協同組合等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該普通法人又は協同組合等に該当することとなつた日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">普通法人又は協同組合等に該当していた公益法人等</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該公益法人等に該当することとなつた日</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">外国法人</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">恒久的施設を有することとなつた日（人格のない社団等については、法人税法第百四十一条第一号に定める国内源泉所得のうち収益事業から生ずるものを有することとなつた日）</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項に規定する法人が次の各号に掲げる法人に該当する場合には、第六項に規定する基準所得等金額は、前項の規定にかかわらず、当該各号に掲げる法人の区分に応じ当該各号に定める金額とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">内国法人である公益法人等又は人格のない社団等</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該事業年度の収益事業から生じた所得の金額及び前項第一号ロに掲げる金額の合計額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">恒久的施設を有する外国法人</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる法人税法第百三十八条第一項に規定する国内源泉所得の区分に応じそれぞれ次に定める金額</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">法人税法第百四十一条第一号イに掲げる国内源泉所得</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該事業年度の恒久的施設帰属所得（同法第百四十二条第一項に規定する恒久的施設帰属所得をいう。イにおいて同じ。）に係る所得の金額（人格のない社団等については、収益事業から生じた所得の金額に限る。）及び同法第百四十二条第二項の規定により同法第五十七条又は第五十九条の規定に準じて計算する場合に当該事業年度の恒久的施設帰属所得に係る所得の金額の計算上損金の額に算入された金額の合計額から同法第百四十二条の二の二の規定により当該事業年度の恒久的施設帰属所得に係る所得の金額の計算上益金の額に算入された金額を控除した金額</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">法人税法第百四十一条第一号ロに掲げる国内源泉所得</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該事業年度の同号ロに掲げる国内源泉所得に係る所得の金額（人格のない社団等については、収益事業から生じた所得の金額に限る。）及び同法第百四十二条の十の規定により準じて計算する同法第百四十二条第二項の規定により同法第五十七条又は第五十九条の規定に準じて計算する場合に当該事業年度の同号ロに掲げる国内源泉所得に係る所得の金額の計算上損金の額に算入された金額の合計額から同法第百四十二条の十の規定により同法第百四十二条の二の二の規定に準じて計算する場合に当該事業年度の同号ロに掲げる国内源泉所得に係る所得の金額の計算上益金の額に算入された金額を控除した金額</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第八項に規定する法人の対象年度に係る同項第一号に規定する継続雇用者給与等支給額及び同号に規定する継続雇用者比較給与等支給額が零である場合には、同号に掲げる要件に該当するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第九項に規定する政令で定める場合は、同項の法人に次の各号に掲げる事実のいずれかが生じた場合とし、同項に規定する政令で定める日は、当該各号に掲げる事実の区分に応じ当該各号に定める日とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">法人税法第六十四条の九第一項に規定する親法人である当該法人について同項の規定による承認の効力が生じたこと</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その承認の効力が生じた日</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">当該法人が通算親法人との間に通算完全支配関係を有することとなつたこと</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その有することとなつた日</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">当該法人が通算親法人（当該法人が通算親法人である場合には、他の通算法人の全て）との間に通算完全支配関係を有しなくなつたこと</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その有しなくなつた日</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十二の七第九項の法人が法人税法施行令第二十四条の三に規定する初年度離脱通算子法人に該当する場合における前項の規定の適用については、当該法人に生じた同項第二号及び第三号に掲げる事実は、これらの号に掲げる事実に該当しないものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="27_13">
             <ArticleCaption>（法人税の額から控除される特別控除額の特例）</ArticleCaption>
             <ArticleTitle>第二十七条の十三</ArticleTitle>
@@ -40076,7 +41332,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第四十二条の十三第一項の規定の適用がある場合における法第四十二条の四第二十三項及び第二十四項（これらの規定を法第四十二条の四の二第五項、第四十二条の六第九項、第四十二条の九第六項、第四十二条の十第六項、第四十二条の十一第七項、第四十二条の十一の二第六項、第四十二条の十二第七項、第四十二条の十二の二第三項、第四十二条の十二の四第九項、第四十二条の十二の五第九項、第四十二条の十二の六第十七項において準用する場合を含む。）の規定の適用については、法第四十二条の四第二十三項中「規定を」とあるのは、「規定（第四十二条の十三第一項の規定を含む。）を」とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法第四十二条の十三第一項の規定の適用がある場合における法第四十二条の四第二十三項及び第二十四項（これらの規定を法第四十二条の四の二第五項、第四十二条の六第九項、第四十二条の九第六項、第四十二条の十第六項、第四十二条の十一第七項、第四十二条の十一の二第六項、第四十二条の十二第七項、第四十二条の十二の二第三項、第四十二条の十二の四第九項、第四十二条の十二の五第九項、第四十二条の十二の六第十七項又は第四十二条の十二の七第十一項において準用する場合を含む。）の規定の適用については、法第四十二条の四第二十三項中「規定を」とあるのは、「規定（第四十二条の十三第一項の規定を含む。）を」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -55612,7 +56868,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、当該株式の取得が法第六十六条の十三第一項に規定する対象法人（第三項第一号において「対象法人」という。）及び当該特別新事業開拓事業者の産業競争力強化法第二条第二十七項に規定する特定事業活動に特に有効なものとなると認められるものであること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、当該株式の取得が法第六十六条の十三第一項に規定する対象法人（第三項第一号において「対象法人」という。）及び当該特別新事業開拓事業者の産業競争力強化法第二条第二十八項に規定する特定事業活動に特に有効なものとなると認められるものであること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -135892,6 +137148,16 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（特定生産性向上設備等を取得した場合の特別償却又は所得税額の特別控除に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第七号に定める日から令和八年十二月三十一日までの間における新令第五条の六の六第十項及び第十一項の規定の適用については、これらの規定中「第四項」とあるのは、「第三項」とする。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="7">
