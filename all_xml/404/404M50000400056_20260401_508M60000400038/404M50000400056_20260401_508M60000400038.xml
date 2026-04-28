@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="04" PromulgateMonth="09" PromulgateDay="22"><LawNum>平成四年通商産業省令第五十六号</LawNum><LawBody><LawTitle Kana="けいざいさんぎょうしょうきぎょうかつどうきほんちょうさきそく" Abbrev="" AbbrevKana="">経済産業省企業活動基本調査規則</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="04" Num="056" PromulgateMonth="09" PromulgateDay="22" LawType="MinisterialOrdinance"><LawNum>平成四年通商産業省令第五十六号</LawNum><LawBody><LawTitle Kana="けいざいさんぎょうしょうきぎょうかつどうきほんちょうさきそく" Abbrev="" AbbrevKana="">経済産業省企業活動基本調査規則</LawTitle>
     <EnactStatement>統計法（昭和二十二年法律第十八号）第三条第二項の規定に基づき、通商産業省企業活動基本調査規則を次のように制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -38,13 +38,23 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">企業活動基本調査は、毎年六月一日（以下「調査日」という。）現在によって行う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">企業活動基本調査は、毎年三月三十一日（以下「調査日」という。）現在によって行う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="5">
-        <ArticleCaption>（調査の範囲）</ArticleCaption>
+        <ArticleCaption>（調査の種類）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">企業活動基本調査は、本社企業調査及び海外現地法人調査とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（調査の範囲）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -52,13 +62,13 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="6">
+      <Article Num="7">
         <ArticleCaption>（調査事項）</ArticleCaption>
-        <ArticleTitle>第六条</ArticleTitle>
+        <ArticleTitle>第七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">企業活動基本調査は、次の各号に掲げる事項について行う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">本社企業調査は、次の各号に掲げる事項について行う。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -81,7 +91,7 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">直近一年間の組織再編行為の状況</Sentence>
+              <Sentence Num="1" WritingMode="vertical">最近決算期間の組織再編行為の状況</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
@@ -129,7 +139,7 @@
           <Item Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">研究開発及び人材の能力開発</Sentence>
+              <Sentence Num="1" WritingMode="vertical">研究開発、能力開発</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="13">
@@ -145,14 +155,68 @@
             </ItemSentence>
           </Item>
         </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">海外現地法人調査は、次の各号に掲げる事項について行う。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現地法人の概要</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">出資状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">操業状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">解散、撤退、出資比率の低下の時期</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">雇用の状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">事業活動の状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">費用、収益・利益処分、研究開発の状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">設備投資の状況</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
       </Article>
-      <Article Num="7">
+      <Article Num="8">
         <ArticleCaption>（調査票の様式）</ArticleCaption>
-        <ArticleTitle>第七条</ArticleTitle>
+        <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">企業活動基本調査は、経済産業大臣が定める様式による企業活動基本調査票（以下「調査票」という。）によって行う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">企業活動基本調査は、経済産業大臣が定める様式による本社企業調査票及び海外現地法人調査票（以下「調査票」という。）によって行う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -162,19 +226,19 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="8">
+      <Article Num="9">
         <ArticleCaption>（報告義務）</ArticleCaption>
-        <ArticleTitle>第八条</ArticleTitle>
+        <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">調査企業を代表する者（以下「報告義務者」という。）は、第六条各号に掲げる事項について報告しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">調査企業を代表する者（以下「報告義務者」という。）は、第七条第一項各号及び第二項各号に掲げる事項について報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="9">
+      <Article Num="10">
         <ArticleCaption>（調査の方法及び期間）</ArticleCaption>
-        <ArticleTitle>第九条</ArticleTitle>
+        <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -190,13 +254,13 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項の規定による調査は、調査日の属する年の五月十五日から六月三十日までの間において行う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定による調査は、調査日の属する年の五月十五日から七月十五日までの間において行う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="10">
+      <Article Num="11">
         <ArticleCaption>（期間の変更）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
+        <ArticleTitle>第十一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -210,9 +274,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="11">
+      <Article Num="12">
         <ArticleCaption>（調査票の提出）</ArticleCaption>
-        <ArticleTitle>第十一条</ArticleTitle>
+        <ArticleTitle>第十二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -226,9 +290,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="12">
+      <Article Num="13">
         <ArticleCaption>（集計及び公表）</ArticleCaption>
-        <ArticleTitle>第十二条</ArticleTitle>
+        <ArticleTitle>第十三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -236,9 +300,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="13">
+      <Article Num="14">
         <ArticleCaption>（調査票の保存期間）</ArticleCaption>
-        <ArticleTitle>第十三条</ArticleTitle>
+        <ArticleTitle>第十四条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -248,7 +312,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">経済産業大臣は、調査票を収録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られた記録をいう。以下同じ。）を永年保存する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">経済産業大臣は、調査票を収録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られた記録をいう。）を永年保存する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -616,9 +680,42 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年四月一日経済産業省令第三八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令による改正後の経済産業省企業活動基本調査規則（以下「新規則」という。）第六条に規定する調査企業であって、法人企業統計調査規則（昭和四十五年大蔵省令第四十八号）第五条に規定する調査対象法人に該当するもの（資本金五億円以上のものに限る。）について行う経済産業省企業活動基本調査規則第一条に規定する企業活動基本調査のうち新規則第七条第一項第八号及び第九号に掲げる事項に係るものについては、新規則第八条第一項及び第十条第一項の規定にかかわらず、法人企業統計調査規則第八条第二項の規定により財務大臣に提出された当該調査企業の年次別法人企業統計調査の調査票から同令第六条第一項第三号から第七号までに掲げる事項に係る内容を、経済産業大臣が電磁的記録（新規則第十四条第二項に規定する電磁的記録をいう。第三項において同じ。）に記録することによって行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に規定する調査企業を代表する者が、法人企業統計調査規則第八条第一項の規定により年次別法人企業統計調査の調査票を同項に規定する提出先に提出したときは、当該者については、新規則第九条（新規則第七条第一項第八号及び第九号に掲げる事項に係る部分に限る。）の規定は適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定により記録された電磁的記録については、これを新規則第十二条第一項の規定により経済産業大臣に提出された新規則第八条第一項に規定する調査票の内容とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
-      <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -670,7 +767,7 @@
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
-      <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -733,7 +830,7 @@
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
-      <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -785,7 +882,7 @@
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
-      <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -815,7 +912,7 @@
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第五</AppdxTableTitle>
-      <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
