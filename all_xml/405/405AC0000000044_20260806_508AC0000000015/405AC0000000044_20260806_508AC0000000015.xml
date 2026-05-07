@@ -475,7 +475,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">銀行等（銀行法（昭和五十六年法律第五十九号）第二条第一項に規定する銀行、信託業法（平成十六年法律第百五十四号）第二条第二項に規定する信託会社その他これに準ずるものとして主務省令で定めるものをいう。）の払込みの取扱いの場所</Sentence>
+                <Sentence Num="1" WritingMode="vertical">銀行等（銀行法（昭和五十六年法律第五十九号）第二条第一項に規定する銀行、信託業法（平成十六年法律第百五十四号）第二条第二項に規定する信託会社（第四十四条の三第五項において「信託会社」という。）その他これに準ずるものとして主務省令で定めるものをいう。）の払込みの取扱いの場所</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -506,8 +506,8 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の申込みをする者は、同項の書面の交付に代えて、政令で定めるところにより、協同組織金融機関の承諾を得て、同項の書面に記載すべき事項を電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって、主務省令で定めるものをいう。以下同じ。）により提供することができる。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該申込みをした者は、同項の書面を交付したものとみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申込みをする者は、同項の書面の交付に代えて、政令で定めるところにより、協同組織金融機関の承諾を得て、同項の書面に記載すべき事項を電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって、主務省令で定めるものをいう。第四十四条の三第三項第二号を除き、以下同じ。）により提供することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該申込みをした者は、前項の書面を交付したものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -707,7 +707,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">協同組織金融機関は、次に掲げる場合には、普通出資者総会の決議によって、資本金の額を変更することなく、優先出資の消却を行うことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">協同組織金融機関は、次に掲げる場合には、普通出資者総会の決議によって、優先出資の消却を行うことができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -721,6 +721,24 @@
                 <Sentence Num="1" WritingMode="vertical">普通出資の増加によって得た資金をもって自己の優先出資を取得して消却を行う場合</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十四条第三項の規定により増加した剰余金の額をもって自己の優先出資を取得して消却を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十四条第四項の規定により増加した剰余金の額をもって自己の優先出資を取得して消却を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">新たに発行する優先出資の払込金をもって自己の優先出資を取得して消却を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -731,7 +749,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">額面金額を超える額を取得の対価として第一項第二号の優先出資の消却を行う場合には、消却後の普通出資の総額と優先出資の額面金額に消却後の発行済優先出資の総口数を乗じて得た額の合計額は、資本金の額を超えてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">額面金額を超える額を取得の対価として第一項第二号、第四号又は第五号の優先出資の消却を行う場合には、消却後の普通出資の総額と優先出資の額面金額に消却後の発行済優先出資の総口数を乗じて得た額の合計額は、資本金の額を超えてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -1734,7 +1752,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">優先出資を発行する協同組織金融機関の資本金は、第十五条第一項、次項、第四項ただし書及び第四十四条第二項に規定する場合を除くほか、その普通出資の総額及び優先出資について払い込まれた払込金額の総額の合計額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">優先出資を発行する協同組織金融機関の資本金は、第十五条第一項第二号及び第五号に掲げる場合、次項の場合、第四項ただし書に規定する場合並びに第四十四条第二項及び第四項の場合を除くほか、その普通出資の総額及び優先出資について払い込まれた払込金額の総額の合計額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1918,7 +1936,7 @@
           </Paragraph>
         </Article>
         <Article Num="44">
-          <ArticleCaption>（優先出資に係る資本金の額の減少）</ArticleCaption>
+          <ArticleCaption>（優先出資に係る資本金等の額の減少）</ArticleCaption>
           <ArticleTitle>第四十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -1935,7 +1953,204 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">優先出資を発行している協同組織金融機関は、前二項に定める場合のほか、資本金の額の減少を行うことはできない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">優先出資を発行している協同組織金融機関は、優先出資の消却を行うため、第四十二条第四項、農林中央金庫法第七十六条第三項（準備金の積立て）、中小企業等協同組合法第五十八条第三項（準備金及び繰越金）、信用金庫法第五十六条第二項（法定準備金）、労働金庫法第六十条第二項（法定準備金）、農業協同組合法第五十一条第五項（準備金）及び水産業協同組合法第五十五条第五項（準備金及び繰越金）（同法第九十二条第三項、第九十六条第三項及び第百条第三項において準用する場合を含む。）の規定にかかわらず、普通出資者総会の決議によって、消却に必要な額に限り、資本準備金又は法定準備金の額を減少して、剰余金の額を増加することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">優先出資を発行している協同組織金融機関は、前項の規定による資本準備金若しくは法定準備金の額の減少及び剰余金の額の増加を行った場合又は資本準備金及び法定準備金を計上していない場合には、優先出資の消却を行うため、普通出資者総会の決議によって、消却に必要な額に限り、資本金の額を減少して、剰余金の額を増加することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">優先出資を発行している協同組織金融機関は、前二項の規定により資本準備金若しくは法定準備金又は資本金（以下「資本金等」という。）の額を減少しようとするときは、行政庁の認可を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">優先出資を発行している協同組織金融機関は、第一項及び第二項又は第四項の規定による場合のほか、資本金の額の減少を行うことはできない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項及び第四項の決議は、協同組織金融機関の定款の変更の決議の例による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44_2">
+          <ArticleCaption>（債権者の異議）</ArticleCaption>
+          <ArticleTitle>第四十四条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">優先出資を発行している協同組織金融機関（農林中央金庫、信用協同組合若しくは中小企業等協同組合法第九条の九第一項第一号（信用協同組合連合会）の事業を行う協同組合連合会、信用金庫若しくは信用金庫連合会又は労働金庫若しくは労働金庫連合会に限る。第三項及び次条において「特定優先出資発行協同組織金融機関」という。）は、普通出資者総会において前条第三項又は第四項の決議があったときは、その決議の日から二週間以内に、財産目録及び貸借対照表を作成し、かつ、次条第二項第二号の期間の最終日から六月を経過する日までの間、これらを主たる事務所に備え置かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の財産目録及び貸借対照表は、電磁的記録により作成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定優先出資発行協同組織金融機関の債権者は、当該特定優先出資発行協同組織金融機関の業務取扱時間内は、いつでも、次に掲げる請求をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の財産目録及び貸借対照表が書面をもって作成されているときは、当該書面の閲覧の請求</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の財産目録及び貸借対照表が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を主務省令で定める方法により表示したものの閲覧の請求</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="44_3">
+          <ArticleTitle>第四十四条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定優先出資発行協同組織金融機関が第四十四条第三項又は第四項の規定により資本金等の額の減少をする場合には、当該特定優先出資発行協同組織金融機関の債権者は、当該特定優先出資発行協同組織金融機関に対し、資本金等の額の減少について異議を述べることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の場合には、特定優先出資発行協同組織金融機関は、普通出資者総会において資本金等の額の減少の決議があった日から二週間以内に、次に掲げる事項を官報に公告し、かつ、預金者、定期積金の積金者その他政令で定める債権者以外の知れている債権者には、各別にこれを催告しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二号の期間は、一月を下ることができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">資本金等の額を減少する旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">債権者が一定の期間内に異議を述べることができる旨</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、特定優先出資発行協同組織金融機関が同項の公告を、官報のほか、定款の定めに従い、次に掲げる方法のいずれかによりするときは、同項の規定による各別の催告は、することを要しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">時事に関する事項を掲載する日刊新聞紙に掲載する方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子公告（公告の方法のうち、電磁的方法（会社法第二条第三十四号に規定する電磁的方法をいう。）により不特定多数の者が公告すべき内容である情報の提供を受けることができる状態に置く措置であって同号に規定するものをとる方法をいう。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">債権者が第二項第二号の期間内に異議を述べなかったときは、当該債権者は、資本金等の額の減少について承認をしたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">債権者が第二項第二号の期間内に異議を述べたときは、特定優先出資発行協同組織金融機関は、当該債権者に対し、弁済し、若しくは相当の担保を提供し、又は当該債権者に弁済を受けさせることを目的として信託会社若しくは信託業務を営む金融機関（金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項（兼営の認可）の認可を受けた金融機関をいう。）に相当の財産を信託しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、資本金等の額の減少をしても当該債権者を害するおそれがないときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定は、優先出資を発行している協同組織金融機関（農業協同組合若しくは農業協同組合連合会、漁業協同組合若しくは漁業協同組合連合会又は水産加工業協同組合若しくは水産加工業協同組合連合会に限る。）が第四十四条第三項又は第四項の規定により資本金等の額の減少をする場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">普通出資者総会において資本金等の額の減少の決議があった日から二週間以内に、次に</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">次に</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                    <Sentence Num="1" WritingMode="vertical"/>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">預金者</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">貯金者</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                    <Sentence Num="1" WritingMode="vertical"/>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第三号</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                    <Sentence Num="1" WritingMode="vertical"/>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">一　資本金等の額を減少する旨</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">二　債権者が一定の期間内に異議を述べることができる旨</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">一　資本金等の額の減少の内容</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">二　当該農業協同組合若しくは農業協同組合連合会、漁業協同組合若しくは漁業協同組合連合会又は水産加工業協同組合若しくは水産加工業協同組合連合会の計算書類（農業協同組合法第三十六条第二項又は水産業協同組合法第四十条第二項（同法第九十二条第三項、第九十六条第三項及び第百条第三項において準用する場合を含む。）に規定する計算書類をいう。）に関する事項として主務省令で定めるもの</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">三　債権者が一定の期間内に異議を述べることができる旨</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第四項及び前項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二項第二号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第二項第三号</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+        </Article>
+        <Article Num="44_4">
+          <ArticleCaption>（資本金等の額の減少の無効の訴え）</ArticleCaption>
+          <ArticleTitle>第四十四条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">優先出資を発行している協同組織金融機関の資本金等の額の減少の無効の訴えについては、会社法第八百二十八条第一項（第五号に係る部分に限る。）及び第二項（第五号に係る部分に限る。）（会社の組織に関する行為の無効の訴え）、第八百三十四条（第五号に係る部分に限る。）（被告）、第八百三十五条第一項（訴えの管轄）、第八百三十六条から第八百三十九条まで（担保提供命令、弁論等の必要的併合、認容判決の効力が及ぶ者の範囲、無効又は取消しの判決の効力）並びに第八百四十六条（原告が敗訴した場合の損害賠償責任）の規定を準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第八百二十八条第二項第五号中「株主等」とあるのは「普通出資者、優先出資者、理事、経営管理委員、監事、清算人」と、同法第八百三十六条第一項中「株主又は設立時株主」とあるのは「普通出資者又は優先出資者」と、同項ただし書中「当該株主が取締役、監査役、執行役」とあるのは「当該普通出資者又は優先出資者が理事、経営管理委員、監事」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2290,7 +2505,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六条第一項、第八条第一項、第十五条第二項、第十六条第三項又は第四十二条第四項ただし書の規定により、行政庁又は主務大臣の認可を受けるべき場合に、その認可を受けなかったとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条第一項、第八条第一項、第十五条第二項、第十六条第三項、第四十二条第四項ただし書又は第四十四条第五項の規定により、行政庁又は主務大臣の認可を受けるべき場合に、その認可を受けなかったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -2385,6 +2600,12 @@
             </Item>
             <Item Num="19">
               <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十四条の二第一項の規定又は第四十四条の三第二項若しくは第五項（これらの規定を同条第六項において準用する場合を含む。）の規定に違反して資本金等の額を減少したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第四十五条の登記をすることを怠ったとき。</Sentence>
               </ItemSentence>
@@ -3328,6 +3549,26 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="16">
+        <ArticleCaption>（優先出資の消却を行うためにする資本金等の額の減少についての経過措置）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定による改正後の協同組織金融機関の優先出資に関する法律第四十四条第三項から第五項まで及び第七項の規定は、施行日以後にする同条第五項に規定する資本金等の額の減少について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの法律の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="21">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第二十一条</ArticleTitle>
@@ -3335,6 +3576,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から第十六条まで及び前条に定めるもののほか、この法律の施行に際し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年ごとに、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
