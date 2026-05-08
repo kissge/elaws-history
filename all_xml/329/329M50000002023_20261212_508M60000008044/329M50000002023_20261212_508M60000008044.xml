@@ -8808,7 +8808,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三百二十一条の五の二第一項（法第三百二十八条の五第三項において準用する場合を含む。）の承認を受けようとする同項に規定する事務所等に係る給与の支払を受ける者の数（臨時に雇用している者がある場合には、給与の支払を受ける者の数及び臨時に雇用している者の数）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三百二十一条の五の二第一項（法第三百二十八条の五第三項において準用する場合を含む。）の承認を受けようとする同項に規定する事務所等に係る最近における六月間の月別の給与の支払を受ける者の数及び当該給与の金額並びに臨時に雇用している者がある場合には、その者に係るこれらの内訳</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
@@ -8819,6 +8819,12 @@
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一号の申請書を提出した日以前一年以内において政令第四十八条の九の十第四項（政令第四十八条の十七において準用する場合を含む。）の規定による取消しの通知を受けたことの有無</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">その他参考となるべき事項</Sentence>
             </ItemSentence>
@@ -46172,7 +46178,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和五年三月三一日総務省令第三七号">
+    <SupplProvision AmendLawNum="令和五年三月三一日総務省令第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -46180,13 +46186,6 @@
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和七年四月一日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十条の二の二の改正規定及び次項の規定は、令和九年一月一日から施行する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphCaption>（道府県民税及び市町村民税に関する経過措置）</ParagraphCaption>
-        <ParagraphNum>２</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">この省令による改正後の地方税法施行規則第十条の二の二の規定は、令和九年一月一日以後に支払うべき地方税法第三百十七条の二第一項ただし書に規定する給与及び同法第三百二十八条に規定する退職手当等について適用し、同日前に支払うべき同項ただし書に規定する給与及び同条に規定する退職手当等については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
