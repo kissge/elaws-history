@@ -8360,6 +8360,12 @@
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国籍等（国籍の属する国又は出入国管理及び難民認定法第二条第五号ロに規定する地域をいう。以下この款において同じ。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">所有権の登記名義人として記録されている登記記録を特定するために必要な事項</Sentence>
                   </ItemSentence>
                 </Item>
@@ -8383,7 +8389,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">所有権の保存若しくは移転の登記、合体による登記等（法第四十九条第一項後段の規定により併せて申請をする所有権の登記があるときに限る。）又は所有権の更正の登記（その登記によって所有権の登記名義人となる者があるときに限る。）を申請する場合において、所有権の登記名義人となる者（これらの登記の申請人である場合に限る。）が国内に住所を有するときは、これらの登記の申請人は、登記官に対し、当該所有権の登記名義人となる者についての次に掲げる事項（以下この条及び次条において「検索用情報」という。）を申請情報の内容として申し出るものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">所有権の保存若しくは移転の登記、合体による登記等（法第四十九条第一項後段の規定により併せて申請をする所有権の登記があるときに限る。）又は所有権の更正の登記（その登記によって所有権の登記名義人となる者があるときに限る。）を申請する場合には、これらの登記の申請人は、登記官に対し、所有権の登記名義人となる者（これらの登記の申請人である場合に限る。）についての次に掲げる事項（以下この条及び次条において「検索用情報」という。）を申請情報の内容として申し出るものとする。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -8415,17 +8421,24 @@
                     <Sentence Num="1" WritingMode="vertical">電子メールアドレス</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国籍等</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定による申出（次項及び第五項において「検索用情報同時申出」という。）をする場合には、当該所有権の登記名義人となる者の前項第二号及び第四号に掲げる事項を証する市町村長その他の公務員が職務上作成した情報をその申請情報と併せて登記所に提供しなければならない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による申出（次項及び第五項において「検索用情報同時申出」という。）をする場合には、当該所有権の登記名義人となる者の前項第二号、第四号及び第六号に掲げる事項を証する市町村長その他の公務員が職務上作成した情報（公務員が職務上作成した情報がない場合にあっては、これに代わるべき情報）をその申請情報と併せて登記所に提供しなければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同号に掲げる事項を証する情報にあっては、当該申出に係る国籍等が当該所有権の登記名義人となる者の国籍等であることを登記官が確認することができる事項を申請情報の内容としたときを除く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">電子申請の申請人が検索用情報同時申出をする場合において、その者が第四十三条第一項第一号に掲げる電子証明書（登記官が第一項第二号及び第四号に掲げる事項を確認することができるものに限る。）を提供したときは、当該電子証明書の提供をもって、前項の市町村長その他の公務員が職務上作成した情報の提供に代えることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">電子申請の申請人が検索用情報同時申出をする場合において、その者が第四十三条第一項第一号に掲げる電子証明書（登記官が第一項第二号及び第四号に掲げる事項を確認することができるものに限る。）を提供したときは、当該電子証明書の提供をもって、前項の市町村長その他の公務員が職務上作成した情報（第一項第二号及び第四号に掲げる事項を証する情報に限る。）の提供に代えることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
@@ -8446,7 +8459,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">国内に住所を有する所有権の登記名義人は、登記官に対し、当該所有権の登記名義人についての検索用情報を検索用情報管理ファイルに記録するよう申し出ることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">所有権の登記名義人は、登記官に対し、当該所有権の登記名義人についての検索用情報を検索用情報管理ファイルに記録するよう申し出ることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -8599,8 +8612,8 @@
               <Paragraph Num="13">
                 <ParagraphNum>１３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">第六項第一号に掲げる方法により検索用情報単独申出をする申出人が検索用情報申出情報又は委任による代理人の権限を証する情報に第四十二条の電子署名を行い、当該申出人の第四十三条第一項第一号に掲げる電子証明書を提供したときは、当該電子証明書の提供をもって、第八項第一号及び第三号に掲げる情報の提供に代えることができる。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同号に掲げる情報については、登記官が所有権の登記名義人の検索用情報（電子メールアドレスを除く。）を確認することができるものを提供したときに限る。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">第六項第一号に掲げる方法により検索用情報単独申出をする申出人が検索用情報申出情報又は委任による代理人の権限を証する情報に第四十二条の電子署名を行い、当該申出人の第四十三条第一項第一号に掲げる電子証明書を提供したときは、当該電子証明書の提供をもって、第八項第一号及び第三号に掲げる情報（国籍等を証する情報を除く。以下この号において同じ。）の提供に代えることができる。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同号に掲げる情報については、登記官が所有権の登記名義人の検索用情報（電子メールアドレス及び国籍等を除く。）を確認することができるものを提供したときに限る。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="14">
@@ -8626,6 +8639,12 @@
                 <ParagraphNum>１７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">登記官は、検索用情報単独申出があったときは、職権で、申出のあった所有権の登記名義人についての検索用情報及び登記記録を特定するために必要な事項を検索用情報管理ファイルに記録するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="18">
+                <ParagraphNum>１８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の場合のほか、登記官は、所有権の登記名義人についての国籍等を確認したときは、当該所有権の登記名義人についての国籍等及び登記記録を特定するために必要な事項を検索用情報管理ファイルに記録するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -15258,6 +15277,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、民法等の一部を改正する法律（令和三年法律第二十四号）附則第一条第三号に掲げる規定（同法第二条中不動産登記法第百十九条の次に一条を加える改正規定及び同法第百二十条第三項の改正規定を除く。）の施行の日（令和八年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月三一日法務省令第二三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和八年十月五日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
