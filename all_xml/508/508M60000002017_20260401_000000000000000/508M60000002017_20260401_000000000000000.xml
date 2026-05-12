@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="08" Num="017" PromulgateMonth="03" PromulgateDay="31" LawType="MinisterialOrdinance"><LawNum>令和八年内閣府令第十七号</LawNum><LawBody><LawTitle Kana="ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいにじょうだいいっこうにきていするひょうじゅんかたいしょうじむをさだめるせいれいにきていするでじたるちょうれいそうむしょうれいでさだめるじむをさだめるめいれいだいにじょうかくごうにきていするじむのしょりにかかるしすてむにひつようとされるきのうとうにかんするひょうじゅんかきじゅんをさだめるないかくふれい" Abbrev="" AbbrevKana="">地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令</LawTitle>
+    <EnactStatement>地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号）第六条第一項の規定に基づき、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号。以下「法」という。）第六条第一項の規定に基づき、地方公共団体情報システム（法第二条第一項に規定する地方公共団体情報システムをいう。以下同じ。）のうち、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令（令和四年デジタル庁・総務省令第一号）第二条各号に規定する事務の処理に係るシステム（以下「子ども・子育て支援システム」という。）に必要とされる機能等（法第二条第二項に規定する機能等（法第五条第二項第三号イからニまでに掲げる事項を除く。）をいう。以下同じ。）に関する標準化基準（法第五条第二項第四号に規定する標準化基準をいう。以下同じ。）を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（用語の意義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">機能要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち地方公共団体情報システムの標準化のための統一的な基準を定めるべき情報システムの機能に関し要件を規定したものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">帳票要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち地方公共団体情報システムの標準化のための統一的な基準を定めるべき電磁的記録を出力する書面の様式に関し要件を規定したものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">実装区分</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムに必ず実装しなければならない機能、地方公共団体情報システムに実装するか否かについて当該システムを開発する事業者が判断する機能又は地方公共団体情報システムに実装してはならない機能の別をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">適合基準日</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムが標準化基準に適合していなければならない日をいう。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">なお、適合基準日の定めは、地方公共団体情報システムが適合基準日前に標準化基準に適合することを妨げるものではなく、また、適合基準日以降引き続き適合することを要するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（子ども・子育て支援システムに必要とされる機能等に関する標準化基準の構成）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">子ども・子育て支援システムに必要とされる機能等に関する標準化基準は、機能要件の標準及び帳票要件の標準で構成する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（機能要件の標準）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">子ども・子育て支援システムの機能要件の標準は次のとおりとし、その細目並びに実装区分及び適合基準日については、内閣総理大臣が定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法（平成二十四年法律第六十五号）第二十条第四項に規定する教育・保育給付認定の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童福祉法（昭和二十二年法律第百六十四号）第二十四条第三項（同法第七十三条第一項の規定により読み替えて適用する場合を含む。）の規定による利用の調整に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定教育・保育施設（子ども・子育て支援法第二十七条第一項に規定する特定教育・保育施設をいう。第五号において同じ。）又は同法第四十三条第四項に規定する特定地域型保育事業の利用に係る契約その他の契約に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第二十条第四項に規定する支給認定証の発行及び返還に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定教育・保育施設及び子ども・子育て支援法第二十九条第一項に規定する特定地域型保育事業者の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第十一条の施設型給付費、特例施設型給付費、地域型保育給付費及び特例地域型保育給付費の請求の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額（子ども・子育て支援法第二十七条第三項第二号及び第二十九条第三項第二号に掲げる額をいう。）等の納付の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第十一条の施設型給付費、特例施設型給付費、地域型保育給付費及び特例地域型保育給付費に関する統計又は報告等の集計に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第三十条の五第二項に規定する施設等利用給付認定の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第三十条の十一第一項に規定する特定子ども・子育て支援施設等の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第三十条の二の施設等利用費の請求の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第三十条の二の施設等利用費に関する統計又は報告等の集計に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第五十九条の地域子ども・子育て支援事業（同条第二号に掲げるものに限る。）に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法第五十九条の地域子ども・子育て支援事業（同条第三号に掲げるものに限る。）に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、内閣総理大臣が定める機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（帳票要件の標準）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">子ども・子育て支援システムの帳票要件の標準は、次に掲げる書面の様式を出力する機能を備えるものとし、その実装区分及び適合基準日並びに様式及び細目については内閣総理大臣が定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定申請却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定決定通知書兼支給認定証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定延期通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定申請者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定変更通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定変更通知書兼支給認定証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付認定区分更新予定者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付認定区分変更対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">認定期間満了（予定）対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・保育給付認定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">認定取消対象者一覧表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届対象者・対象外一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届提出状況一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届提出先一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="17">
+            <ItemTitle>十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届変更情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="18">
+            <ItemTitle>十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設利用申請者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="19">
+            <ItemTitle>十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設利用内定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="20">
+            <ItemTitle>二十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設利用保留通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="21">
+            <ItemTitle>二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">選考対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="22">
+            <ItemTitle>二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設利用保留証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="23">
+            <ItemTitle>二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">契約締結登録者一覧（第十九条の児童向け）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="24">
+            <ItemTitle>二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育利用あっせん通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="25">
+            <ItemTitle>二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">選考結果一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="26">
+            <ItemTitle>二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">内定者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="27">
+            <ItemTitle>二十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保留者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="28">
+            <ItemTitle>二十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">待機者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="29">
+            <ItemTitle>二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">在園児童一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="30">
+            <ItemTitle>三十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育施設等利用実施状況表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="31">
+            <ItemTitle>三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育委託書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="32">
+            <ItemTitle>三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受託回答書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="33">
+            <ItemTitle>三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">委託解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="34">
+            <ItemTitle>三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">委託取下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="35">
+            <ItemTitle>三十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">入所決定者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="36">
+            <ItemTitle>三十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設利用承諾通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="37">
+            <ItemTitle>三十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">在籍証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="38">
+            <ItemTitle>三十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育実施停止通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="39">
+            <ItemTitle>三十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育実施解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="40">
+            <ItemTitle>四十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">退所者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="41">
+            <ItemTitle>四十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地域型保育所卒園児童一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="42">
+            <ItemTitle>四十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="43">
+            <ItemTitle>四十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育料無償のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="44">
+            <ItemTitle>四十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額変更通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="45">
+            <ItemTitle>四十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額減免申請却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="46">
+            <ItemTitle>四十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額減免通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="47">
+            <ItemTitle>四十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額算定一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="48">
+            <ItemTitle>四十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">多子軽減対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="49">
+            <ItemTitle>四十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育必要量一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="50">
+            <ItemTitle>五十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額未決定一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="51">
+            <ItemTitle>五十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額切替対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="52">
+            <ItemTitle>五十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用承諾兼利用者負担額決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="53">
+            <ItemTitle>五十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">副食費免除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="54">
+            <ItemTitle>五十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">副食費徴収免除対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="55">
+            <ItemTitle>五十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">副食費免除解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="56">
+            <ItemTitle>五十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給認定証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="57">
+            <ItemTitle>五十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給認定証交付一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="58">
+            <ItemTitle>五十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">平均年齢別児童数（見込）一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="59">
+            <ItemTitle>五十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">国基準利用者負担額一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="60">
+            <ItemTitle>六十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付費一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="61">
+            <ItemTitle>六十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付費集計表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="62">
+            <ItemTitle>六十二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">教育・保育給付認定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">情報変更票</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="63">
+            <ItemTitle>六十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付費支弁台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="64">
+            <ItemTitle>六十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">事業所支払一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="65">
+            <ItemTitle>六十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">調定一覧表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="66">
+            <ItemTitle>六十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替開始（変更）通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="67">
+            <ItemTitle>六十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">通知書（納付書）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="68">
+            <ItemTitle>六十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替依頼一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="69">
+            <ItemTitle>六十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替済通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="70">
+            <ItemTitle>七十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">消込結果一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="71">
+            <ItemTitle>七十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">収納消込エラーリスト</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="72">
+            <ItemTitle>七十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替済一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="73">
+            <ItemTitle>七十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替不能一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="74">
+            <ItemTitle>七十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">収入内訳日計表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="75">
+            <ItemTitle>七十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育料等納付証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="76">
+            <ItemTitle>七十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替不能通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="77">
+            <ItemTitle>七十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替不能通知書兼納付書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="78">
+            <ItemTitle>七十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">未納状況一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="79">
+            <ItemTitle>七十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">収納状況一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="80">
+            <ItemTitle>八十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">督促状</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="81">
+            <ItemTitle>八十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">督促状兼納付書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="82">
+            <ItemTitle>八十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">催告書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="83">
+            <ItemTitle>八十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">催告書兼納付書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="84">
+            <ItemTitle>八十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">滞納者調書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="85">
+            <ItemTitle>八十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">過誤納一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="86">
+            <ItemTitle>八十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育料等還付・充当通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="87">
+            <ItemTitle>八十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">還付・充当一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="88">
+            <ItemTitle>八十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">還付金振込口座確認票</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="89">
+            <ItemTitle>八十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">分割納付計画書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="90">
+            <ItemTitle>九十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">分割納付誓約書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="91">
+            <ItemTitle>九十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">納付誓約書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="92">
+            <ItemTitle>九十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">滞納明細書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="93">
+            <ItemTitle>九十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">時効対象一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="94">
+            <ItemTitle>九十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">不納欠損一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="95">
+            <ItemTitle>九十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">繰越調定データ一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="96">
+            <ItemTitle>九十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">決算調書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="97">
+            <ItemTitle>九十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">福祉行政報告例第五十四表・第五十四表の二</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="98">
+            <ItemTitle>九十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付費支弁台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="99">
+            <ItemTitle>九十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="100">
+            <ItemTitle>百</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定申請却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="101">
+            <ItemTitle>百一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定延期通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="102">
+            <ItemTitle>百二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定申請者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="103">
+            <ItemTitle>百三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定申請情報取込エラーリスト</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="104">
+            <ItemTitle>百四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="105">
+            <ItemTitle>百五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定変更通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="106">
+            <ItemTitle>百六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定変更予定者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="107">
+            <ItemTitle>百七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="108">
+            <ItemTitle>百八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定取消対象者一覧表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="109">
+            <ItemTitle>百九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">認定期間満了（予定）対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="110">
+            <ItemTitle>百十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="111">
+            <ItemTitle>百十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届対象者・対象外一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="112">
+            <ItemTitle>百十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届提出状況一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="113">
+            <ItemTitle>百十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届提出先一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="114">
+            <ItemTitle>百十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届変更情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="115">
+            <ItemTitle>百十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付対象外一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="116">
+            <ItemTitle>百十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="117">
+            <ItemTitle>百十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付集計表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="118">
+            <ItemTitle>百十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付費支弁台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="119">
+            <ItemTitle>百十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付支払一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="120">
+            <ItemTitle>百二十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用費支払通知書（償還払い）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="121">
+            <ItemTitle>百二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用費支払通知書（代理受領）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="122">
+            <ItemTitle>百二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用費不支給決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="123">
+            <ItemTitle>百二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子育てのための施設等利用給付支弁台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="124">
+            <ItemTitle>百二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育利用者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="125">
+            <ItemTitle>百二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育申請者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="126">
+            <ItemTitle>百二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育利用承諾通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="127">
+            <ItemTitle>百二十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育利用保留通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="128">
+            <ItemTitle>百二十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育の利用調整結果一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="129">
+            <ItemTitle>百二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育料決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="130">
+            <ItemTitle>百三十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育料変更通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="131">
+            <ItemTitle>百三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育実施解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="132">
+            <ItemTitle>百三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">延長保育事業実績一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="133">
+            <ItemTitle>百三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補足給付費交付対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="134">
+            <ItemTitle>百三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">税未申告者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="135">
+            <ItemTitle>百三十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補足給付費交付認定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="136">
+            <ItemTitle>百三十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補足給付費交付申請却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="137">
+            <ItemTitle>百三十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補足給付費交付決定通知書（償還払い）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="138">
+            <ItemTitle>百三十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補足給付費交付決定通知書（代理受領）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="139">
+            <ItemTitle>百三十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補足給付費交付認定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="140">
+            <ItemTitle>百四十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補足給付費交付実績一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="141">
+            <ItemTitle>百四十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">不現住情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="142">
+            <ItemTitle>百四十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保護者・施設送付先情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="143">
+            <ItemTitle>百四十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保護者等連絡先情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="144">
+            <ItemTitle>百四十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保護者口座情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="145">
+            <ItemTitle>百四十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">世帯情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="146">
+            <ItemTitle>百四十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特記事項情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="147">
+            <ItemTitle>百四十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">世帯員住民税情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="148">
+            <ItemTitle>百四十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">所得照会書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="149">
+            <ItemTitle>百四十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">所得照会情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="150">
+            <ItemTitle>百五十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達対象者情報一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="151">
+            <ItemTitle>百五十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="152">
+            <ItemTitle>百五十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">事業所台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="153">
+            <ItemTitle>百五十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">教育・給付認定結果登録一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="154">
+            <ItemTitle>百五十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">一次選考結果通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="155">
+            <ItemTitle>百五十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付支払通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="156">
+            <ItemTitle>百五十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替開始（変更）通知書（はがき様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="157">
+            <ItemTitle>百五十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振替不能通知書兼納付書（はがき様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="158">
+            <ItemTitle>百五十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">督促状兼納付書（はがき様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="159">
+            <ItemTitle>百五十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">催告書兼納付書（はがき様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="160">
+            <ItemTitle>百六十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">還付金支払一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="161">
+            <ItemTitle>百六十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設等利用給付認定結果登録一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="162">
+            <ItemTitle>百六十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（幼稚園）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="163">
+            <ItemTitle>百六十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（幼稚園）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="164">
+            <ItemTitle>百六十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（保育所）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="165">
+            <ItemTitle>百六十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（保育所）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="166">
+            <ItemTitle>百六十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（認定こども園）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="167">
+            <ItemTitle>百六十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（認定こども園）（教育）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="168">
+            <ItemTitle>百六十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（認定こども園）（保育）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="169">
+            <ItemTitle>百六十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（家庭的保育事業）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="170">
+            <ItemTitle>百七十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（家庭的保育事業）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="171">
+            <ItemTitle>百七十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（小規模保育事業Ａ型）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="172">
+            <ItemTitle>百七十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（小規模保育事業Ａ型）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="173">
+            <ItemTitle>百七十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（小規模保育事業Ｂ型）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="174">
+            <ItemTitle>百七十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（小規模保育事業Ｂ型）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="175">
+            <ItemTitle>百七十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（小規模保育事業Ｃ型）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="176">
+            <ItemTitle>百七十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（小規模保育事業Ｃ型）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="177">
+            <ItemTitle>百七十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（事業所内保育事業（定員十九人以下（小規模保育事業Ａ型基準）））</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="178">
+            <ItemTitle>百七十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（事業所内保育事業（定員十九人以下（小規模保育事業Ａ型基準）））</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="179">
+            <ItemTitle>百七十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（事業所内保育事業（定員十九人以下（小規模保育事業Ｂ型基準）））</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="180">
+            <ItemTitle>百八十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（事業所内保育事業（定員十九人以下（小規模保育事業Ｂ型基準）））</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="181">
+            <ItemTitle>百八十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（事業所内保育事業（定員二十人以上））</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="182">
+            <ItemTitle>百八十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（事業所内保育事業（定員二十人以上））</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="183">
+            <ItemTitle>百八十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">子どものための教育・保育給付請求書（居宅訪問型保育事業）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="184">
+            <ItemTitle>百八十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">給付請求明細書・在籍児童一覧（居宅訪問型保育事業）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="185">
+            <ItemTitle>百八十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">転園申請児童一覧（選考中）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="186">
+            <ItemTitle>百八十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">認定状態一覧表（利用調整中）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="187">
+            <ItemTitle>百八十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">選考結果・同点対象者リスト</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="188">
+            <ItemTitle>百八十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">選考結果一覧（受託児童）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="189">
+            <ItemTitle>百八十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設・事業利用終了通知書（保育）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="190">
+            <ItemTitle>百九十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">入所決定者一覧（幼稚園、認定こども園（教育標準時間認定）及び自治体が独自に運営費助成を行っている認可外保育施設分を含む）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="191">
+            <ItemTitle>百九十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">副食費支払要否決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="192">
+            <ItemTitle>百九十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">契約児童情報変更票（第十九条の児童向け）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="193">
+            <ItemTitle>百九十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">副食費遡及変更対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="194">
+            <ItemTitle>百九十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担額遡及変更対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="195">
+            <ItemTitle>百九十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">月別年齢別入所児童数一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="196">
+            <ItemTitle>百九十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">納入通知書送付対象者一覧（施設別・支払方法別）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="197">
+            <ItemTitle>百九十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">契約締結登録者一覧（第三十条の児童向け）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="198">
+            <ItemTitle>百九十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">契約児童情報変更票（第三十条の児童向け）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="199">
+            <ItemTitle>百九十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に準ずるものとして内閣総理大臣が定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（子ども・子育て支援システムに実装してはならない機能）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">子ども・子育て支援システムには、前二条の規定（これに基づく告示を含む。以下この条において同じ。）において実装してはならない機能として定めるもの及び前二条の規定に定めるもの以外の機能は、実装してはならないものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、令和八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（機能要件の標準及び帳票要件の標準に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行の際現に地方公共団体が利用する子ども・子育て支援システムで、この府令の施行の日（以下「施行日」という。）以降機能要件の標準又は帳票要件の標準に適合することが困難なものとして内閣総理大臣が認める地方公共団体の子ども・子育て支援システムに係る機能要件の標準又は帳票要件の標準の経過措置については、内閣総理大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行の際現に子ども・子育て支援システムを利用する地方公共団体で、施行日以降第六条の規定により実装してはならない機能を有する子ども・子育て支援システムを利用するものとして内閣総理大臣が認めるものについては、同条の規定は、令和十一年四月一日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（要件に適合することが困難なシステムに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行の際現に地方公共団体が利用する子ども・子育て支援システムで、機能要件の標準又は帳票要件の標準に適合することが困難なものとして内閣総理大臣が認めるものについては、この府令の規定は、施行日から起算して五年を超えない範囲内において内閣総理大臣が定める日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

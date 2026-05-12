@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="08" Num="025" PromulgateMonth="03" PromulgateDay="31" LawType="MinisterialOrdinance"><LawNum>令和八年内閣府令第二十五号</LawNum><LawBody><LawTitle Kana="ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいにじょうだいいっこうにきていするひょうじゅんかたいしょうじむをさだめるせいれいにきていするでじたるちょうれいそうむしょうれいでさだめるじむをさだめるめいれいだいいちじょうにきていするじむのしょりにかかるしすてむにひつようとされるきのうとうにかんするひょうじゅんかきじゅんをさだめるないかくふれい" Abbrev="" AbbrevKana="">地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第一条に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令</LawTitle>
+    <EnactStatement>地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号）第六条第一項の規定に基づき、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第一条に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号。以下「法」という。）第六条第一項の規定に基づき、地方公共団体情報システム（法第二条第一項に規定する地方公共団体情報システムをいう。以下同じ。）のうち、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令（令和四年デジタル庁・総務省令第一号）第一条に規定する事務の処理に係るシステム（以下「児童手当システム」という。）に必要とされる機能等（法第二条第二項に規定する機能等（法第五条第二項第三号イからニまでに掲げる事項を除く。）をいう。以下同じ。）に関する標準化基準（法第五条第二項第四号に規定する標準化基準をいう。以下同じ。）を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（用語の意義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">機能要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち地方公共団体情報システムの標準化のための統一的な基準を定めるべき情報システムの機能に関し要件を規定したものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">帳票要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち地方公共団体情報システムの標準化のための統一的な基準を定めるべき電磁的記録を出力する書面の様式に関し要件を規定したものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">実装区分</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムに必ず実装しなければならない機能、地方公共団体情報システムに実装するか否かについて当該システムを開発する事業者が判断する機能又は地方公共団体情報システムに実装してはならない機能の別をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">適合基準日</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムが標準化基準に適合していなければならない日をいう。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">なお、適合基準日の定めは、地方公共団体情報システムが適合基準日前に標準化基準に適合することを妨げるものではなく、また、適合基準日以降引き続き適合することを要するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（児童手当システムに必要とされる機能等に関する標準化基準の構成）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">児童手当システムに必要とされる機能等に関する標準化基準は、機能要件の標準及び帳票要件の標準で構成する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（機能要件の標準）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">児童手当システムの機能要件の標準は次のとおりとし、その細目並びに実装区分及び適合基準日については内閣総理大臣が定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当法（昭和四十六年法律第七十三号）第七条第一項（同法第十七条第一項（子ども・子育て支援法等の一部を改正する法律（令和六年法律第四十七号）附則第十三条第一項の規定によりなお従前の例によることとされた同法第十二条の規定による改正前の児童手当法（以下「旧児童手当法」という。）附則第二条第四項において準用する場合を含む。）の規定により読み替えて適用する場合及び旧児童手当法附則第二条第四項において準用する場合を含む。）に規定する児童手当又は旧児童手当法附則第二条第一項の給付（以下「旧特例給付」という。）並びに児童手当法第七条第二項の児童手当の受給資格並びにその額についての認定に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当法第九条第一項（旧児童手当法附則第二条第四項において準用する場合を含む。）に規定する児童手当又は旧特例給付の額の改定に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当又は旧特例給付を支給すべき事由の消滅及び児童手当法第十二条（旧児童手当法附則第二条第四項において準用する場合を含む。）の規定による未支払の児童手当又は旧特例給付に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当又は旧特例給付の受給者に関する情報の変更に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当法第十一条に規定する同法第二十六条第一項（旧児童手当法附則第二条第四項において準用する場合を含む。）又は児童手当法第二十六条第二項に規定する届出をしなかったことによる児童手当及び旧特例給付の支払の差止め並びに当該届出に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当法第八条第一項（同法第十七条第一項（旧児童手当法附則第二条第四項において準用する場合を含む。）の規定により読み替えて適用する場合及び旧児童手当法附則第二条第四項において準用する場合を含む。）の規定による児童手当又は旧特例給付の支給、児童手当法第十三条（旧児童手当法附則第二条第四項において準用する場合を含む。）の規定による支払の調整、児童手当法第二十一条（旧児童手当法附則第二条第四項において準用する場合を含む。）の規定による受給資格者の申出による学校給食費等の徴収等及び児童手当法第二十二条（旧児童手当法附則第二条第四項において準用する場合を含む。）の規定による特別徴収に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当法第十一条に規定する同法第二十六条第三項（旧児童手当法附則第二条第四項において準用する場合を含む。）に規定する書類の未提出による児童手当又は旧特例給付の支払の差止めに係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">統計又は報告等に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、内閣総理大臣が定める機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（帳票要件の標準）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">児童手当システムの帳票要件の標準は、次に掲げる書面を出力するものとし、その実装区分及び適合基準日並びに書面の出力に際し必要な事項については内閣総理大臣が定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当認定請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当認定請求書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当認定請求者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当関係書類返戻・保留通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">返戻・保留対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">不足書類等の提出について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当関係書類返戻・保留情報</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当認定・認定請求却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当認定・認定請求却下通知書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当における同居父母に係る認定について（通知）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当父母指定者指定届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当額改定認定請求書額改定届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当額改定認定請求書額改定届（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">額改定対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付額改定・額改定請求却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当額改定・額改定請求却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="17">
+            <ItemTitle>十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当額改定・額改定請求却下通知書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="18">
+            <ItemTitle>十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">監護相当・生計費の負担についての確認書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="19">
+            <ItemTitle>十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当受給事由消滅届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="20">
+            <ItemTitle>二十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当受給事由消滅届（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="21">
+            <ItemTitle>二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付支給事由消滅通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="22">
+            <ItemTitle>二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当支給事由消滅通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="23">
+            <ItemTitle>二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当支給事由消滅通知書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="24">
+            <ItemTitle>二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付における父母指定者の受給事由消滅について（通知）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="25">
+            <ItemTitle>二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当における父母指定者の受給事由消滅について（通知）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="26">
+            <ItemTitle>二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">未支払児童手当請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="27">
+            <ItemTitle>二十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">未支払児童手当請求書（施設等受給資格者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="28">
+            <ItemTitle>二十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">未支払児童手当支給決定・請求却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="29">
+            <ItemTitle>二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">未支払児童手当支給決定・請求却下通知書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="30">
+            <ItemTitle>三十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当氏名・住所等変更届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="31">
+            <ItemTitle>三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当氏名・住所等変更届（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="32">
+            <ItemTitle>三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">異動対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="33">
+            <ItemTitle>三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者所得更正一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="34">
+            <ItemTitle>三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届提出対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="35">
+            <ItemTitle>三十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="36">
+            <ItemTitle>三十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="37">
+            <ItemTitle>三十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当現況届（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="38">
+            <ItemTitle>三十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当現況届の提出について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="39">
+            <ItemTitle>三十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給要件変更対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="40">
+            <ItemTitle>四十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届未提出者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="41">
+            <ItemTitle>四十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">必要書類未提出者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="42">
+            <ItemTitle>四十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当現況届の提出について（督促）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="43">
+            <ItemTitle>四十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当支払差止通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="44">
+            <ItemTitle>四十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当支払差止通知書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="45">
+            <ItemTitle>四十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付支払差止解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="46">
+            <ItemTitle>四十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当支払差止解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="47">
+            <ItemTitle>四十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当支払差止解除通知書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="48">
+            <ItemTitle>四十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">差止者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="49">
+            <ItemTitle>四十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">現況届提出切替対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="50">
+            <ItemTitle>五十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">時効成立予定者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="51">
+            <ItemTitle>五十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付継続認定通知書兼支払通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="52">
+            <ItemTitle>五十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当継続認定通知書兼支払通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="53">
+            <ItemTitle>五十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当継続認定通知書兼支払通知書（施設等受給者用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="54">
+            <ItemTitle>五十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付認定通知書及び児童手当・特例給付支給事由消滅通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="55">
+            <ItemTitle>五十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支払対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="56">
+            <ItemTitle>五十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支払対象者一覧（定例払い）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="57">
+            <ItemTitle>五十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支払対象者一覧（随時払い）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="58">
+            <ItemTitle>五十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">口座振込依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="59">
+            <ItemTitle>五十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当・特例給付に係る学校給食費等の徴収（支払）に係る通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="60">
+            <ItemTitle>六十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当に係る学校給食費等の徴収（支払）に係る通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="61">
+            <ItemTitle>六十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保育料特別徴収通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="62">
+            <ItemTitle>六十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童手当に係る寄附受領証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="63">
+            <ItemTitle>六十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者・児童数調べ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="64">
+            <ItemTitle>六十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給状況報告書に必要な基礎資料となる帳票</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="65">
+            <ItemTitle>六十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">交付金概算交付申請書又は必要な基礎資料となる帳票</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="66">
+            <ItemTitle>六十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支払件数（見込）等調べ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="67">
+            <ItemTitle>六十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に準ずるものとして内閣総理大臣が定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（児童手当システムに実装してはならない機能）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">児童手当システムには、前二条の規定（これに基づく告示を含む。以下この条において同じ。）において実装してはならない機能として定めるもの及び前二条の規定に定めるもの以外の機能は、実装してはならないものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令は、令和八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（機能要件の標準及び帳票要件の標準に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行の際現に地方公共団体が利用する児童手当システムで、この府令の施行の日（以下「施行日」という。）以降機能要件の標準又は帳票要件の標準に適合することが困難なものとして内閣総理大臣が認める地方公共団体の児童手当システムに係る機能要件の標準又は帳票要件の標準の経過措置については、内閣総理大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行の際現に児童手当システムを利用する地方公共団体で、施行日以降第六条の規定により実装してはならない機能を有する児童手当システムを利用するものとして内閣総理大臣が認めるものについては、同条の規定は、令和十一年四月一日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（要件に適合することが困難なシステムに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この府令の施行の際現に地方公共団体が利用する児童手当システムで、機能要件の標準又は帳票要件の標準に適合することが困難なものとして内閣総理大臣が認めるものについては、この府令の規定は、施行日から起算して五年を超えない範囲内において内閣総理大臣が定める日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
