@@ -471,7 +471,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">世帯主は、その世帯に属する被保険者に係る資格確認書を破り、汚し、又は失つたときは、第一号に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、第二号に掲げる書類（当該申請書に被保険者の個人番号を記載しない場合に限る。）を提示して、その再交付を申請することができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">世帯主は、その世帯に属する被保険者に係る資格確認書を破り、汚し、又は失つたときは、第一号に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、その再交付を申請することができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申請書に被保険者の個人番号を記載しない場合においては、第二号に掲げる書類を提示し、又は第三号に掲げる記録の送信（行政手続における特定の個人を識別するための番号の利用等に関する法律第十八条の二第六項の規定によりカード代替電磁的記録を送信する方法に限る。以下第二十四条の四を除き同じ。）を行う場合に限り、その再交付を申請することができるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -521,6 +522,12 @@
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">世帯主の個人識別事項に係る記録</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -543,8 +550,8 @@
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">世帯主以外の者が世帯主を代理して第一項の申請をする場合には、同項第一号に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、当該世帯主以外の者の個人識別事項が記載された書類であつて、当該世帯主以外の者に係る同項第二号イからハまでのいずれかに該当するもの（当該申請書に被保険者の個人番号を記載しない場合に限る。）を提示して、その再交付を申請しなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該世帯主以外の者は、当該申請書に、当該世帯主以外の者の個人識別事項が記載された書類であつて、当該個人識別事項により識別される特定の個人が世帯主の依頼により又は法令の規定により世帯主の代理人として再交付の申請をすることを証明するものとして次に掲げるいずれかの書類を添えなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">世帯主以外の者が世帯主を代理して第一項の申請をする場合には、同項第一号に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、その再交付を申請しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該世帯主以外の者は、当該申請書に、当該世帯主以外の者の個人識別事項が記載された書類であつて、当該個人識別事項により識別される特定の個人が世帯主の依頼により又は法令の規定により世帯主の代理人として再交付の申請をすることを証明するものとして次に掲げるいずれかの書類を添えなければならないものとするほか、当該申請書に被保険者の個人番号を記載しない場合においては、当該世帯主以外の者の個人識別事項が記載された書類であつて当該世帯主以外の者に係る同項第二号イからハまでのいずれかに該当するものを提示し、又は当該世帯主以外の者の個人識別事項に係る記録の送信を行わなければならないものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -705,7 +712,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">世帯主は、その世帯に属する被保険者に係る資格情報通知書を破り、汚し、又は失つたときは、次に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、第七条第一項第二号に掲げる書類（当該申請書に被保険者の個人番号を記載しない場合に限る。）を提示して、その再通知を申請することができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">世帯主は、その世帯に属する被保険者に係る資格情報通知書を破り、汚し、又は失つたときは、次に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、その再通知を申請することができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申請書に被保険者の個人番号を記載しない場合においては、第七条第一項第二号に掲げる書類を提示し、又は同項第三号に掲げる記録の送信を行う場合に限り、その再通知を申請することができるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -764,7 +772,8 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">世帯主は、その世帯に属する被保険者に係る高齢受給者証を破り、汚し、又は失つたときは、直ちに次に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、第七条第一項第二号に掲げる書類（当該申請書に被保険者の個人番号を記載しない場合に限る。）を提示して、その再交付を申請しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">世帯主は、その世帯に属する被保険者に係る高齢受給者証を破り、汚し、又は失つたときは、直ちに次に掲げる事項を記載した申請書を当該世帯主が住所を有する市町村に提出し、その再交付を申請しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">また、当該申請書に被保険者の個人番号を記載しない場合においては、第七条第一項第二号に掲げる書類を提示し、又は同項第三号に掲げる記録の送信を行い、その再交付を申請しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -5602,7 +5611,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七条、第七条の四、第二十四条の三、第二十六条の三、第二十六条の五、第二十六条の六の四、第二十七条、第二十七条の五、第二十七条の十一、第二十七条の十三、第二十七条の十四の二、第二十七条の十四の四、第二十七条の十四の五、第二十七条の十六及び前条の申請書には、申請人の氏名、住所、個人番号及び申請年月日（第七条第一項第二号に掲げる書類を提示する場合の同条又は第七条の四の申請書にあつては申請人の氏名、住所及び申請年月日、第二十七条の申請書にあつては申請人の氏名又は個人番号、住所及び申請年月日）を記載しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六条、第七条の二の二、第二十四条の三、第二十六条の三、第二十六条の五、第二十六条の六の四、第二十七条、第二十七条の五、第二十七条の十一、第二十七条の十三、第二十七条の十四の二、第二十七条の十四の四、第二十七条の十四の五、第二十七条の十六、第二十七条の十七の二、第二十七条の十七の三、第二十七条の二十六、第二十七条の二十七及び前条の申請書には、申請人の氏名、住所、個人番号及び申請年月日（第二十七条の申請書にあつては申請人の氏名又は個人番号、住所及び申請年月日）を記載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10441,6 +10450,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、令和八年三月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年三月三一日厚生労働省令第六七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
