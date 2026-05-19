@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="166" Year="26" PromulgateMonth="05" PromulgateDay="31"><LawNum>昭和二十六年法律第百六十六号</LawNum><LawBody><LawTitle Kana="かちくでんせんびょうよぼうほう" Abbrev="家伝法" AbbrevKana="か">家畜伝染病予防法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="26" Num="166" PromulgateMonth="05" PromulgateDay="31" LawType="Act"><LawNum>昭和二十六年法律第百六十六号</LawNum><LawBody><LawTitle Kana="かちくでんせんびょうよぼうほう" Abbrev="家伝法" AbbrevKana="か">家畜伝染病予防法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -16,7 +16,7 @@
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　輸出入検疫等</ChapterTitle>
-        <ArticleRange>（第三十六条―第四十六条の四）</ArticleRange>
+        <ArticleRange>（第三十六条―第四十六条の四の二）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="5">
         <ChapterTitle>第五章　病原体の所持に関する措置</ChapterTitle>
@@ -1168,7 +1168,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">牛疫、口<Ruby>蹄<Rt>てい</Rt></Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザの疑似患畜</Sentence>
+                <Sentence Num="1" WritingMode="vertical">牛疫、口<Ruby>蹄<Rt>てい</Rt></Ruby>疫、アフリカ豚熱、高病原性鳥インフルエンザ若しくは低病原性鳥インフルエンザの疑似患畜又は農林水産省令で定める都道府県の区域において発生した豚熱の疑似患畜</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1202,7 +1202,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">牛肺疫、水<Ruby>疱<Rt>ほう</Rt></Ruby>性口内炎、リフトバレー熱、出血性敗血症、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt></Ruby>、アフリカ馬疫、小反<Ruby>芻<Rt>すう</Rt></Ruby>獣疫、豚水<Ruby>疱<Rt>ほう</Rt></Ruby>病、家きんコレラ又はニューカッスル病の疑似患畜</Sentence>
+                <Sentence Num="1" WritingMode="vertical">牛肺疫、水<Ruby>疱<Rt>ほう</Rt></Ruby>性口内炎、リフトバレー熱、出血性敗血症、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt></Ruby>、アフリカ馬疫、小反<Ruby>芻<Rt>すう</Rt></Ruby>獣疫、豚水<Ruby>疱<Rt>ほう</Rt></Ruby>病、家きんコレラ若しくはニューカッスル病の疑似患畜又は前条第一項第二号の農林水産省令で定める都道府県の区域以外の区域において発生した豚熱の疑似患畜</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1210,6 +1210,12 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">家畜の所有者又はその所在が知れないため前項の命令をすることができない場合において緊急の必要があるときは、都道府県知事は、家畜防疫員に当該家畜を殺させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項第二号に規定する豚熱の疑似患畜の所有者であつて同項の命令を受けたものが同項の期限までに命ぜられた措置を行わないとき、行つても十分でないとき又は行う見込みがないときは、家畜防疫員に当該疑似患畜を殺させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1250,7 +1256,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定による命令を受けた者がその命令に従わないとき、又は指定家畜の所有者若しくはその所在が知れないため同項の規定による命令をすることができない場合において緊急の必要があるときは、同項の都道府県知事は、家畜防疫員に当該指定家畜を殺させることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による命令を受けた者が同項の期限までに命ぜられた措置を行わないとき、行つても十分でないとき若しくは行う見込みがないとき、又は指定家畜の所有者若しくはその所在が知れないため同項の規定による命令をすることができない場合において緊急の必要があるときは、同項の都道府県知事は、家畜防疫員に当該指定家畜を殺させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
@@ -2090,6 +2096,16 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">船舶の所有者等は、動物検疫所長から前項の規定による求めがあつたときは、その求めに応ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46_4_2">
+          <ArticleCaption>（国民等の理解を深めるための措置等）</ArticleCaption>
+          <ArticleTitle>第四十六条の四の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、広報活動その他の活動を行うことにより、輸出入検疫を適切に実施することの重要性について国民その他の者（以下この条において「国民等」という。）の理解を深めるとともに、その実施に関する国民等の協力を求めるよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3000,13 +3016,13 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">農林水産大臣の指定する薬品の購入費の全額（家畜伝染病（第六十二条第一項の規定により指定された疾病を含む。）以外の寄生虫病の発生を予防するために要するものについては、二分の一）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項若しくは第三項の検査であつて農林水産大臣の指定するもの又は第三十一条第二項の検査、注射、薬浴若しくは投薬に要した費用（前三号の動物用生物学的製剤の購入費及び製造費、次号の薬品の購入費並びに第九号の衛生資材の購入費及び賃借料を除く。）の二分の一（農林水産大臣が家畜以外の動物における牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt></Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザのまん延による当該伝染性疾病の病原体の拡散を防止するために特に必要があると認める同項の検査、注射、薬浴又は投薬に要するものについては、その全額）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条第二項の検査、注射、薬浴又は投薬に要した費用（第四号から第六号までの動物用生物学的製剤の購入費及び製造費を除く。）の二分の一（農林水産大臣が家畜以外の動物における牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt></Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザのまん延による当該伝染性疾病の病原体の拡散を防止するために特に必要があると認める同項の検査、注射、薬浴又は投薬に要するものについては、その全額）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣の指定する薬品の購入費の全額（家畜伝染病（第六十二条第一項の規定により指定された疾病を含む。）以外の寄生虫病の発生を予防するために要するものについては、二分の一）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
@@ -3018,7 +3034,7 @@
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">農林水産大臣の指定する消毒に要した費用（第七号の薬品の購入費並びに前号の衛生資材の購入費及び賃借料を除く。）の二分の一</Sentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣の指定する消毒に要した費用（第八号の薬品の購入費並びに前号の衛生資材の購入費及び賃借料を除く。）の二分の一</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
@@ -4957,6 +4973,101 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年五月一九日法律第二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">目次の改正規定、第十六条第一項第二号の改正規定、第十七条の改正規定（同条第一項各号中「リフトバレー熱」の下に「、ランピースキン病」を加える部分を除く。）、第十七条の二第六項の改正規定、第四章に一条を加える改正規定、第六十条第一項の改正規定並びに次条並びに附則第三条、第五条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則に六条を加える改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（手当金等の交付に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第一号に掲げる規定の施行の日前にこの法律による改正前の家畜伝染病予防法（以下「旧法」という。）第十六条の規定により殺された豚熱の疑似患畜に係る家畜伝染病予防法第五十八条第一項の規定による手当金の交付若しくは不交付若しくは当該交付をされた手当金の同項ただし書の規定による返還、同条第二項の規定による特別手当金の交付若しくは不交付若しくは当該交付をされた特別手当金の同項ただし書の規定による返還又は旧法第六十条の規定による負担金の負担については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（登録飼養衛生管理者の登録に関する準備行為）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事は、附則第一条第二号に掲げる規定の施行の日（以下この条において「第二号施行日」という。）前においても、この法律による改正後の家畜伝染病予防法（以下「新法」という。）附則第六条第一項に規定する研修を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法附則第六条第一項の登録を受けようとする者は、第二号施行日前においても、同項の規定の例により、その申請を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により登録の申請があった場合には、第二号施行日前においても、新法附則第六条第一項及び第二項の規定の例により、その登録をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該登録は、第二号施行日以後は、同条第一項の登録とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項及び前項の規定によりその権限に属する事務の一部を家畜保健衛生所長に委任することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第一号に掲げる規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
