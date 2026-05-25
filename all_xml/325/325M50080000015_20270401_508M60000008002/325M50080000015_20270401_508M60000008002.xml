@@ -235,29 +235,35 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>（３）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">航空局</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">高高度基地局</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>（４）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">携帯基地局</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">航空局</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
                   <Subitem1Title>（５）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">無線呼出局</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">携帯基地局</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>（６）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">陸上移動中継局</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">無線呼出局</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
                   <Subitem1Title>（７）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">陸上移動中継局</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="8">
+                  <Subitem1Title>（８）</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">陸上局（（１）から（６）までに該当しないものに限る。以下同じ。）</Sentence>
                   </Subitem1Sentence>
@@ -663,7 +669,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">固定局、地上基幹放送局、航空局、基地局、陸上移動中継局、陸上移動局、携帯局、無線航行陸上局、無線標定陸上局、人工衛星局、構内無線局及び特別業務の局のうち二以上の無線局相互間において使用される同一規格の予備の無線設備（空中線系については、同一型式とする。）の装置</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">固定局、地上基幹放送局、航空局、基地局、高高度基地局、陸上移動中継局、陸上移動局、携帯局、無線航行陸上局、無線標定陸上局、人工衛星局、構内無線局及び特別業務の局のうち二以上の無線局相互間において使用される同一規格の予備の無線設備（空中線系については、同一型式とする。）の装置</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -826,7 +832,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">二　地上一般放送局、非常局、気象援助局、標準周波数局、特別業務の局、海岸局、基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、移動局、特定実験試験局及び実験試験局</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">二　地上一般放送局、非常局、気象援助局、標準周波数局、特別業務の局、海岸局、基地局、高高度基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、移動局、特定実験試験局及び実験試験局</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">別表第二号第２</Sentence>
@@ -1410,7 +1416,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">二　非常局、基地局、携帯基地局、船舶局、船舶地球局（電気通信業務を行うことを目的とするものを除く。）、遭難自動通報局、航空機局、船上通信局、無線航行移動局及び無線標定移動局</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">二　非常局、基地局、高高度基地局、携帯基地局、船舶局、船舶地球局（電気通信業務を行うことを目的とするものを除く。）、遭難自動通報局、航空機局、船上通信局、無線航行移動局及び無線標定移動局</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">無線局事項書及び工事設計書の写し　一通</Sentence>
@@ -2431,7 +2437,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">将来の業務計画等（電気通信業務用無線局（電気通信事業法（昭和五十九年法律第八十六号）第二条第六号の電気通信業務並びに同法第百六十四条第一項第一号及び第二号の電気通信事業を行うことを目的として開設する無線局（エリア放送（放送法施行規則第百四十二条第二号に規定するエリア放送をいう。以下同じ。）を行う地上一般放送局を除く。）をいう。以下同じ。）及び陸上移動中継局（専用陸上移動中継局（基地局及び陸上移動局の免許人が専ら自ら使用するために開設する陸上移動中継局をいう。以下同じ。）を除く。）に限る。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">将来の業務計画等（電気通信業務用無線局（電気通信事業法（昭和五十九年法律第八十六号）第二条第六号の電気通信業務並びに同法第百六十四条第一項第一号及び第二号の電気通信事業を行うことを目的として開設する無線局（エリア放送（放送法施行規則第百四十二条第二号に規定するエリア放送をいう。以下同じ。）を行う地上一般放送局を除く。）をいう。以下同じ。）及び陸上移動中継局（専用陸上移動中継局（基地局、高高度基地局及び陸上移動局の免許人が専ら自ら使用するために開設する陸上移動中継局をいう。以下同じ。）を除く。）に限る。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
@@ -2563,7 +2569,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">地上一般放送局、簡易無線局、構内無線局、気象援助局、標準周波数局、特別業務の局、固定局、基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、船舶局、遭難自動通報局、陸上移動局、航空機局、携帯局、船上通信局、移動局、無線標識局、無線航行移動局、無線標定陸上局、無線標定移動局、無線測位局、特定実験試験局、アマチュア局（人工衛星等のアマチュア局を除く。）、携帯基地地球局、携帯移動地球局及び地球局の再免許を申請しようとする場合であつて、その申請書の添付書類に記載することとなる内容（前条第一項第十一号に規定する事項を除く。）が、現に受けている免許に係る申請書の添付書類の内容（免許の有効期間中に変更があつた場合は、当該変更後のもの）と同一である場合は、前条の規定にかかわらず、第十六条に規定する申請書にその旨を記載して当該申請書に添付する書類の提出を省略することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">地上一般放送局、簡易無線局、構内無線局、気象援助局、標準周波数局、特別業務の局、固定局、基地局、高高度基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、船舶局、遭難自動通報局、陸上移動局、航空機局、携帯局、船上通信局、移動局、無線標識局、無線航行移動局、無線標定陸上局、無線標定移動局、無線測位局、特定実験試験局、アマチュア局（人工衛星等のアマチュア局を除く。）、携帯基地地球局、携帯移動地球局及び地球局の再免許を申請しようとする場合であつて、その申請書の添付書類に記載することとなる内容（前条第一項第十一号に規定する事項を除く。）が、現に受けている免許に係る申請書の添付書類の内容（免許の有効期間中に変更があつた場合は、当該変更後のもの）と同一である場合は、前条の規定にかかわらず、第十六条に規定する申請書にその旨を記載して当該申請書に添付する書類の提出を省略することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3437,7 +3443,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">同一人に属する二以上の簡易無線局、気象援助局、陸上移動局、携帯局、船上通信局、無線標定移動局、携帯移動地球局、ＶＳＡＴ地球局又は実験試験局については、無線設備の常置場所（ＶＳＡＴ地球局にあつてはＶＳＡＴ制御地球局の無線設備の設置場所とする。）を同じくする場合及び同一人に属する二以上のＰＨＳの基地局、設備規則第三条第一号に規定する携帯無線通信を行う基地局若しくは陸上移動中継局、同条第十号に規定する広帯域移動無線アクセスシステムの基地局若しくは陸上移動中継局又は設備規則第四十九条の二十三の八に規定する地球局についてはその無線設備の設置場所がいずれも同一総合通信局の管轄区域内にある場合は、一の免許記録を作成することがある。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">同一人に属する二以上の簡易無線局、気象援助局、陸上移動局、携帯局、船上通信局、無線標定移動局、携帯移動地球局、ＶＳＡＴ地球局又は実験試験局については、無線設備の常置場所（ＶＳＡＴ地球局にあつてはＶＳＡＴ制御地球局の無線設備の設置場所とする。）を同じくする場合及び同一人に属する二以上のＰＨＳの基地局、設備規則第三条第一号に規定する携帯無線通信を行う基地局、高高度基地局若しくは陸上移動中継局、同条第十号に規定する広帯域移動無線アクセスシステムの基地局若しくは陸上移動中継局又は設備規則第四十九条の二十三の八に規定する地球局についてはその無線設備の設置場所がいずれも同一総合通信局の管轄区域内にある場合は、一の免許記録を作成することがある。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9972,6 +9978,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年四月三日総務省令第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第一号</AppdxStyleTitle>
       <RelatedArticleNum>　無線局の免許申請書及び再免許申請書の様式（第３条第２項及び第１６条第２項関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
@@ -10019,10 +10035,10 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二号第２</AppdxStyleTitle>
-      <RelatedArticleNum>　地上一般放送局、非常局、気象援助局、標準周波数局、特別業務の局、海岸局、基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、移動局、特定実験試験局、実験試験局、固定局、航空局、無線標識局、無線航行陸上局、無線標定陸上局、無線標定移動局、無線測位局、海岸地球局、航空地球局、携帯基地地球局、携帯移動地球局及び地球局の無線局事項書の様式（第４条、第１２条関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
+      <RelatedArticleNum>　地上一般放送局、非常局、気象援助局、標準周波数局、特別業務の局、海岸局、基地局、高高度基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、移動局、特定実験試験局、実験試験局、固定局、航空局、無線標識局、無線航行陸上局、無線標定陸上局、無線標定移動局、無線測位局、海岸地球局、航空地球局、携帯基地地球局、携帯移動地球局及び地球局の無線局事項書の様式（第４条、第１２条関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000082438.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10064,10 +10080,10 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第二号の二第２</AppdxStyleTitle>
-      <RelatedArticleNum>　地上一般放送局、非常局、気象援助局、標準周波数局、特別業務の局、海岸局、基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、移動局、特定実験試験局及び実験試験局の工事設計書の様式（第４条、第１２条関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
+      <RelatedArticleNum>　地上一般放送局、非常局、気象援助局、標準周波数局、特別業務の局、海岸局、基地局、高高度基地局、携帯基地局、無線呼出局、陸上移動中継局、陸上局、移動局、特定実験試験局及び実験試験局の工事設計書の様式（第４条、第１２条関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000077616.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10076,7 +10092,7 @@
       <RelatedArticleNum>　固定局の工事設計書の様式（第４条、第１２条関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000060575.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10130,7 +10146,7 @@
       <RelatedArticleNum>　簡易無線局、構内無線局、陸上移動局、携帯局、遭難自動通報局（携帯用位置指示無線標識のみを設置するものに限る。以下この別表において同じ。）及び船上通信局の無線局事項書及び工事設計書の様式（第４条、第１２条関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000083831.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10157,7 +10173,7 @@
       <RelatedArticleNum>　特定無線局の無線局事項書及び工事設計書の様式（第２０条の６、第２０条の９及び第２５条の２関係）（総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000079699.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
