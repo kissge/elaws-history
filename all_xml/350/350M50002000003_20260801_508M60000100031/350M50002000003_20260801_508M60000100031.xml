@@ -496,7 +496,7 @@
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の届出は、特定法人（事業年度（法人税法（昭和四十年法律第三十四号）第十三条及び第十四条に規定する事業年度をいう。）開始の時における資本金の額、出資金の額若しくは銀行等保有株式取得機構がその会員から銀行等の株式等の保有の制限等に関する法律（平成十三年法律第百三十一号）第四十一条第一項及び第三項の規定により納付された同条第一項の当初拠出金の額及び同条第三項の売却時拠出金の額の合計額が一億円を超える法人、保険業法（平成七年法律第百五号）第二条第五項に規定する相互会社、投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十二項に規定する投資法人又は資産の流動化に関する法律（平成十年法律第百五号）第二条第三項に規定する特定目的会社をいう。以下同じ。）にあつては、資格取得届の提出に代えて資格取得届に記載すべき事項を電子情報処理組織（政府の使用に係る電子計算機（入出力装置を含む。以下この項において同じ。）と特定法人の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。第百四十五条を除き、以下同じ。）を使用して提出することにより行うものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の届出は、特定法人（事業年度（法人税法（昭和四十年法律第三十四号）第十三条及び第十四条に規定する事業年度をいう。）開始の時における資本金の額、出資金の額若しくは銀行等保有株式取得機構がその会員から銀行等の株式等の保有の制限等に関する法律（平成十三年法律第百三十一号）第四十一条第一項及び第三項の規定により納付された同条第一項の当初拠出金の額及び同条第三項の売却時拠出金の額の合計額が一億円を超える法人、保険業法（平成七年法律第百五号）第二条第五項に規定する相互会社、投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十二項に規定する投資法人又は資産の流動化に関する法律（平成十年法律第百五号）第二条第三項に規定する特定目的会社をいう。以下同じ。）にあつては、資格取得届の提出に代えて資格取得届に記載すべき事項を電子情報処理組織（公共職業安定所の使用に係る電子計算機（入出力装置を含む。以下同じ。）と特定法人の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。第九条及び第百四十五条を除き、以下同じ。）を使用して提出することにより行うものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電気通信回線の故障、災害その他の理由により電子情報処理組織を使用することが困難であると認められる場合で、かつ、電子情報処理組織を使用しないで当該届出を行うことができると認められる場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -712,13 +712,25 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">公共職業安定所長は、当該確認に係る者又は当該事業主の所在が明らかでないために前項の規定による通知をすることができない場合においては、当該公共職業安定所の掲示場に、その通知すべき事項を記載した文書を掲示しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公共職業安定所長は、当該確認に係る者又は当該事業主の所在が明らかでないために前項の規定による通知をすることができない場合においては、その通知に係る書類が法第九条第一項の規定による労働者が被保険者となつたこと又は被保険者でなくなつたことの確認に係るものであること、その通知を受けるべき者の氏名及び公共職業安定所長がその書類を保管し、いつでも通知を受けるべき者に交付する旨（以下この項において「公示事項」という。）を当該公共職業安定所の使用に係る電子計算機と公示事項の閲覧をする者の使用に係る電子計算機（当該公共職業安定所の使用に係る電子計算機と電気通信回線を通じて接続でき、正常に通信できる機能を備えたものに限る。以下この項において同じ。）とを電気通信回線で接続した電子情報処理組織を使用する方法のうち次の各号のいずれにも該当するものにより、不特定多数の者が閲覧することができる状態に置くとともに、公示事項が記載された書面を当該公共職業安定所の掲示場に掲示し、又は公示事項を当該公共職業安定所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置を講じなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公共職業安定所の使用に係る電子計算機に備えられたファイルに記録された公示事項を当該公示事項の閲覧をする者の使用に係る電子計算機の映像面に表示するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">インターネットに接続された自動公衆送信装置（著作権法（昭和四十五年法律第四十八号）第二条第一項第九号の五イに規定する自動公衆送信装置をいう。）を使用するもの</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定による掲示があつた日の翌日から起算して七日を経過したときは、第一項の規定による通知があつたものとみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による措置を開始した日の翌日から起算して七日を経過したときは、第一項の規定による通知があつたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -32285,6 +32297,46 @@
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">施行日前に旧雇保則附則第三十四条第二項第一号イ（１）の職業訓練実施計画を都道府県労働局長に提出した事業展開等に伴う訓練を実施する事業主に対する旧雇保則附則第三十五条第二項の規定による事業展開等リスキリング支援コース助成金の支給については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年四月二八日厚生労働省令第八八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、次の各号に掲げる区分に応じ、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条、第三条、第四条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（令和八年五月二十一日）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（通知の方法に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第六条の規定による改正後の雇用保険法施行規則第九条第二項及び第三項（同令第十一条第二項（同令第六十五条の六第五項及び第六十五条の八第六項において準用する場合を含む。）、第十二条第二項及び第六十六条第二項において準用する場合を含む。）の規定は、前条第一号に掲げる規定の施行の日以後にする同令第九条第一項（同令第六十六条第二項において準用する場合を含む。）、第十一条第一項（同令第六十五条の六第五項及び第六十五条の八第六項において準用する場合を含む。）又は第十二条第一項の規定による通知（以下この項において単に「通知」という。）について適用し、同日前にした通知については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

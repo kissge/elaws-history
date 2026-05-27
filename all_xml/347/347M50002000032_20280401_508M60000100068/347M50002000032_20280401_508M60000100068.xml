@@ -1715,7 +1715,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、産業医を選任したときは、遅滞なく、電子情報処理組織を使用して、次に掲げる事項を、第十四条第二項各号に掲げる者であることにつき証明することができる電磁的記録等必要な電磁的記録を添えて、所轄労働基準監督署長に報告しなければならない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、法第十三条第一項の規定により産業医を選任したときは、遅滞なく、電子情報処理組織を使用して、次に掲げる事項を、第十四条第二項各号に掲げる者であることにつき証明することができる電磁的記録等必要な電磁的記録を添えて、所轄労働基準監督署長に報告しなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、学校保健安全法（昭和三十三年法律第五十六号）第二十三条（就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号。以下この項及び第四十四条の二第一項において「認定こども園法」という。）第二十七条において準用する場合を含む。）の規定により任命し、又は委嘱された学校医で、当該学校（同条において準用する場合にあつては、認定こども園法第二条第七項に規定する幼保連携型認定こども園）において産業医の職務を行うこととされたものについては、この限りでない。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
@@ -1757,7 +1757,7 @@
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">前任者がいる場合はその氏名及び辞任、解任等の年月日</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前任者がいる場合はその氏名及び辞任、解任又は退任（以下この条において「辞任等」という。）の年月日</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="8">
@@ -1779,6 +1779,25 @@
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">事業者は、産業医が辞任したとき又は産業医を解任したときは、遅滞なく、その旨及びその理由を衛生委員会又は安全衛生委員会に報告しなければならない。</Sentence>
                 </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、法第十三条第一項の規定により選任した産業医の辞任等があつたときは、遅滞なく、電子情報処理組織を使用して、次に掲げる事項を、所轄労働基準監督署長に報告しなければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該報告は、後任者の選任に係る第二項の規定による同項第一号及び第七号に掲げる事項の報告をもつて、これに代えることができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第二条第二項第一号から第三号まで及び第八号に掲げる事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">辞任等があつた産業医の氏名及び辞任等の年月日</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
             <Article Num="14">
@@ -5057,7 +5076,7 @@
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">血清グルタミックオキサロアセチックトランスアミナーゼ（ＧＯＴ）、血清グルタミックピルビックトランスアミナーゼ（ＧＰＴ）及びガンマ―グルタミルトランスペプチダーゼ（γ―ＧＴＰ）の検査（次条第一項第七号において「肝機能検査」という。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">アスパラギン酸アミノトランスフェラーゼ（ＡＳＴ）、アラニンアミノトランスフェラーゼ（ＡＬＴ）及びガンマグルタミルトランスフェラーゼ（γ―ＧＴ）の検査（次条第一項第七号において「肝機能検査」という。）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="8">
@@ -5075,11 +5094,17 @@
                 <Item Num="10">
                   <ItemTitle>十</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">尿中の糖及び<Ruby>蛋<Rt>たん</Rt></Ruby>白の有無の検査（次条第一項第十号において「尿検査」という。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">血清クレアチニン検査</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="11">
                   <ItemTitle>十一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">尿中の糖及び<Ruby>蛋<Rt>たん</Rt></Ruby>白の有無の検査（次条第一項第十号において「尿検査」という。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="12">
+                  <ItemTitle>十二</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">心電図検査</Sentence>
                   </ItemSentence>
@@ -5115,7 +5140,7 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">胸部エックス線検査及び<Ruby>喀痰<Rt>かくたん</Rt></Ruby>検査</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">胸部エックス線検査</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
@@ -5151,11 +5176,17 @@
                 <Item Num="10">
                   <ItemTitle>十</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">尿検査</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">血清クレアチニン検査</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="11">
                   <ItemTitle>十一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">尿検査</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="12">
+                  <ItemTitle>十二</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">心電図検査</Sentence>
                   </ItemSentence>
@@ -5164,7 +5195,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項第三号、第四号、第六号から第九号まで及び第十一号に掲げる項目については、厚生労働大臣が定める基準に基づき、医師が必要でないと認めるときは、省略することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項第三号、第四号、第六号から第十号まで及び第十二号に掲げる項目については、厚生労働大臣が定める基準に基づき、医師が必要でないと認めるときは、省略することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -5209,14 +5240,14 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の健康診断（定期のものに限る。）は、前回の健康診断において第四十四条第一項第六号から第九号まで及び第十一号に掲げる項目について健康診断を受けた者については、前項の規定にかかわらず、医師が必要でないと認めるときは、当該項目の全部又は一部を省略して行うことができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の健康診断（定期のものに限る。）は、前回の健康診断において第四十四条第一項第六号から第十号まで及び第十二号に掲げる項目について健康診断を受けた者については、前項の規定にかかわらず、医師が必要でないと認めるときは、当該項目の全部又は一部を省略して行うことができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">第四十四条第二項及び第三項の規定は、第一項の健康診断について準用する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「一年間」とあるのは、「六月間」と読み替えるものとする。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「第三号、第四号、」とあるのは、「第三号、」と、同条第三項中「一年間」とあるのは、「六月間」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
@@ -5251,7 +5282,7 @@
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">第四十四条第二項の規定は、第一項及び第二項の健康診断について準用する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「、第四号、第六号から第九号まで及び第十一号」とあるのは、「及び第四号」と読み替えるものとする。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「第三号、第四号、第六号から第十号まで及び第十二号」とあるのは、「第三号」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -5456,7 +5487,7 @@
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十四条第一項第三号（聴力の検査に限る。）及び第四号から第十一号までに掲げる項目について健康診断を受けた労働者の当該項目ごとの数並びに当該項目について異常所見があると診断された労働者の当該項目ごとの数</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第四十四条第一項第三号（聴力の検査に限る。）及び第四号から第十二号までに掲げる項目について健康診断を受けた労働者の当該項目ごとの数並びに当該項目について異常所見があると診断された労働者の当該項目ごとの数</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="8">
@@ -6446,7 +6477,7 @@
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">クレーン等安全規則（昭和四十七年労働省令第三十四号。以下「クレーン則」という。）第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を床上運転式クレーン（クレーン則第二百二十三条第三号に規定する床上運転式クレーンをいう。以下同じ。）に限定したクレーン・デリック運転士免許を受けている者</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">クレーン等安全規則（昭和四十七年労働省令第三十四号。以下「クレーン則」という。）第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を床上無線運転式クレーン等（クレーン則第二十二条第二号に規定する床上無線運転式クレーン等をいう。以下同じ。）に限定したクレーン・デリック運転士免許を受けている者</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">取り扱うことのできる機械の種類を限定しないクレーン・デリック運転士免許又は同条第二項の規定により取り扱うことのできる機械の種類をクレーンに限定したクレーン・デリック運転士免許</Sentence>
@@ -6561,7 +6592,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">クレーン則第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を床上運転式クレーンに限定したクレーン・デリック運転士免許を現に受けている者に対し、取り扱うことのできる機械の種類を限定しないクレーン・デリック運転士免許若しくは同条第二項の規定により取り扱うことのできる機械の種類をクレーンに限定したクレーン・デリック運転士免許を与えるとき又は同項の規定により取り扱うことのできる機械の種類をクレーンに限定したクレーン・デリック運転士免許を現に受けている者に対し、取り扱うことのできる機械の種類を限定しないクレーン・デリック運転士免許を与えるときは、クレーン・デリック運転士免許に係る免許証を、その者が現に有する免許証と引換えに交付するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">クレーン則第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を床上無線運転式クレーン等に限定したクレーン・デリック運転士免許を現に受けている者に対し、取り扱うことのできる機械の種類を限定しないクレーン・デリック運転士免許若しくは同条第二項の規定により取り扱うことのできる機械の種類をクレーンに限定したクレーン・デリック運転士免許を与えるとき又は同項の規定により取り扱うことのできる機械の種類をクレーンに限定したクレーン・デリック運転士免許を現に受けている者に対し、取り扱うことのできる機械の種類を限定しないクレーン・デリック運転士免許を与えるときは、クレーン・デリック運転士免許に係る免許証を、その者が現に有する免許証と引換えに交付するものとする。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合において、その者がクレーン・デリック運転士免許と異なる種類の免許を現に受けているときは、当該クレーン・デリック運転士免許に係る免許証に、当該異なる種類の免許に係る事項を記載するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -8551,7 +8582,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法及びこれに基づく命令の規定により、厚生労働大臣、都道府県労働局長又は労働基準監督署長に対して行われる申請書、報告書等の提出及び届出（以下この条において「申請書の提出等」という。）について、社会保険労務士又は社会保険労務士法人（以下この条において「社会保険労務士等」という。）が、第二条第二項、第四条第三項、第七条第三項、第十三条第二項、第三十四条の四から第三十四条の六まで、第三十四条の八、第三十四条の十、第五十二条、第五十二条の二十一、第九十七条、第九十八条の二、第九十八条の五若しくは第九十八条の六又は情報通信技術を活用した行政の推進等に関する法律第六条第一項の規定により同項に規定する電子情報処理組織を使用して社会保険労務士法（昭和四十三年法律第八十九号）第二条第一項第一号の二の規定に基づき当該申請書の提出等を当該申請書の提出等を行おうとする者に代わつて行う場合には、当該社会保険労務士等が当該申請書の提出等を代行する契約を締結していることにつき証明することができる電磁的記録を当該申請書の提出等と併せて送信しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法及びこれに基づく命令の規定により、厚生労働大臣、都道府県労働局長又は労働基準監督署長に対して行われる申請書、報告書等の提出及び届出（以下この条において「申請書の提出等」という。）について、社会保険労務士又は社会保険労務士法人（以下この条において「社会保険労務士等」という。）が、第二条第二項、第四条第三項、第七条第三項、第十三条第二項若しくは第五項、第三十四条の四から第三十四条の六まで、第三十四条の八、第三十四条の十、第五十二条、第五十二条の二十一、第九十七条、第九十八条の二、第九十八条の五若しくは第九十八条の六又は情報通信技術を活用した行政の推進等に関する法律第六条第一項の規定により同項に規定する電子情報処理組織を使用して社会保険労務士法（昭和四十三年法律第八十九号）第二条第一項第一号の二の規定に基づき当該申請書の提出等を当該申請書の提出等を行おうとする者に代わつて行う場合には、当該社会保険労務士等が当該申請書の提出等を代行する契約を締結していることにつき証明することができる電磁的記録を当該申請書の提出等と併せて送信しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -29759,13 +29790,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">作業場所管理事業者は、法第三十条の四に規定する場合を除き、その管理する一の場所においてその労働者である作業従事者（当該労働者である作業従事者のほか、労働者以外の当該作業場所管理事業者に係る作業従事者がある場合には、当該者を含む。）及び当該一の場所において事業を行う他の事業を行う者に係る作業従事者が作業を行う場合には、当該作業が行われることによつて生ずる労働災害を防止するため、随時、作業場所管理事業者と当該事業を行う者との間及び事業を行う者相互間における連絡及び調整を行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">作業場所管理事業者は、法第三十条の四に規定する場合を除き、その管理する一の場所においてその労働者である作業従事者（当該労働者である作業従事者のほか、労働者以外の当該作業場所管理事業者に係る作業従事者がある場合には、当該者を含む。）及び当該一の場所において事業を行う他の事業を行う者に係る作業従事者が周囲で作業を行う作業従事者に危害を生ずるおそれのある作業その他の作業を行う場合には、当該作業が行われることによつて生ずる労働災害を防止するため、随時、作業場所管理事業者と当該事業を行う者との間及び事業を行う者相互間における連絡及び調整を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">事業を行う者は、作業場所管理事業者がいない一の場所においてその作業従事者及び当該一の場所において行われる事業を行う他の事業を行う者に係る作業従事者が作業を行う場合（当該一の場所において作業を行う作業従事者の中に労働者がいない場合を除く。）には、当該作業が行われることによつて生ずる労働災害を防止するため、随時、当該他の事業を行う者と相互に連絡及び調整を行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業を行う者は、作業場所管理事業者がいない一の場所においてその作業従事者及び当該一の場所において行われる事業を行う他の事業を行う者に係る作業従事者が前項の作業を行う場合（当該一の場所において作業を行う作業従事者の中に労働者がいない場合を除く。）には、当該作業が行われることによつて生ずる労働災害を防止するため、随時、当該他の事業を行う者と相互に連絡及び調整を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -36743,7 +36774,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正前のじん肺法施行規則第三十七条第一項及び様式第八号、第五条の規定による改正前の労働安全衛生規則第二条第二項、第四条第二項、第七条第二項、第十三条第二項、第五十二条、第五十二条の二十一、第百条（様式第二十三号に係る部分を除く。）、様式第三号及び様式第六号から様式第六号の三まで並びに第六条の規定による改正前の有機溶剤中毒予防規則第三十条の三及び様式第三号の二の規定の適用については、当分の間、なお従前の例によることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正前のじん肺法施行規則第三十七条第一項及び様式第八号、第五条の規定による改正前の労働安全衛生規則第二条第二項、第四条第二項、第七条第二項、第十三条第二項、第五十二条、第五十二条の二十一、第百条（様式第二十三号に係る部分を除く。）、様式第三号、様式第六号の二及び様式第六号の三並びに第六条の規定による改正前の有機溶剤中毒予防規則第三十条の三及び様式第三号の二の規定の適用については、当分の間、なお従前の例によることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -37054,6 +37085,211 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年四月二八日厚生労働省令第八六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和八年八月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">事業者は、当分の間、この省令による改正後の労働安全衛生規則第十三条第五項に規定する方法による同項の報告に代えて、同項各号に掲げる事項を記載した書面により当該報告をすることができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年四月二八日厚生労働省令第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和九年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">事業者は、当分の間、第一条の規定による改正後の労働安全衛生規則第五十二条第一項に規定する方法による同項の報告に代えて、同項各号に掲げる事項を記載した書面により当該報告をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に交付されている第一条の規定による改正前の労働安全衛生規則様式第八号による健康管理手帳は、同条の規定による改正後の労働安全衛生規則様式第八号による健康管理手帳とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にこの省令による改正前のそれぞれの省令（次項において「旧省令」という。）の規定によりされている報告は、この省令による改正後のそれぞれの省令の規定による報告とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧省令に定める様式による用紙については、合理的に必要と認められる範囲内で、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年四月三〇日厚生労働省令第九〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和九年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（様式に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（就業制限に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">事業者は、第一条の規定による改正後のクレーン等安全規則（以下「新クレーン則」という。）第二十二条及び第二条の規定による改正後の労働安全衛生規則別表第三の規定にかかわらず、労働安全衛生法施行令（昭和四十七年政令第三百十八号）第二十条第六号に掲げる業務のうち新クレーン則第二十二条第一号に規定する床上運転式クレーン及び同条第三号に規定する床上操作式クレーンの運転の業務については、この省令の施行の際現に第一条の規定による改正前のクレーン等安全規則（以下この条において「旧クレーン則」という。）第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を旧クレーン則第二百二十三条第三号に規定する床上運転式クレーンに限定したクレーン・デリック運転士免許（以下「旧床上運転式限定免許」という。）を受けている者及び次条の規定により旧床上運転式限定免許を受けた者を、当該運転の業務に就かせることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、労働安全衛生法（以下「法」という。）第六十一条第二項の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県労働局長は、次に掲げる者に対し、なお従前の例により旧床上運転式限定免許を与えるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">この省令の施行の日（以下「施行日」という。）前に旧床上運転式限定免許を受けることができる資格を取得した者で、施行日において当該免許を受けていないもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">附則第六条第一項の規定により行われる試験に合格した者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（免許試験に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新クレーン則第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を床上無線運転式クレーン等に限定したクレーン・デリック運転士免許試験を受けようとする者は、施行日前においても、労働安全衛生規則様式第十四号を都道府県労働局長（法第七十五条の二の指定試験機関が行う免許試験を受けようとする者にあっては、当該指定試験機関）に提出することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県労働局長は、施行日前に、クレーン・デリック運転士免許試験の学科試験のうち、クレーン等安全規則第二百二十六条第二項第一号に掲げる科目（クレーンに係る部分に限る。）、同項第二号及び第三号に掲げる科目並びに同項第四号に掲げる科目（クレーンに係る部分に限る。）に合格した者であって、当該学科試験が行われた日から起算して一年を超えないものに対し、なお従前の例により床上運転式クレーンを用いて行う実技試験を行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第七十五条の二から第七十五条の十二までの規定及びこれらの規定に基づく命令の規定は、前項の規定による試験について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県労働局長は、新クレーン則第二百二十七条の規定にかかわらず、次の表の上欄に掲げる者については、それぞれ同表の下欄に掲げる試験又は科目の範囲でクレーン・デリック運転士免許試験の学科試験の全部若しくは一部又は実技試験の一部を免除することができる。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">免除を受けることができる者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">免除する試験又は科目の範囲</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">旧床上運転式限定免許を受けた者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">学科試験のうち、クレーン等安全規則第二百二十六条第二項第一号に掲げる科目（クレーンに係る部分に限る。）、同項第二号及び第三号に掲げる科目並びに同項第四号に掲げる科目（クレーンに係る部分に限る。）並びに実技試験のうち、同条第三項第二号に掲げる科目</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧床上運転式限定免許を受けた者に係る労働安全衛生規則別表第五第五号及び別表第六の規定の適用については、「クレーン・デリック運転士免許」とあるのは、「旧床上運転式限定免許」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
@@ -64696,7 +64932,15 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">令第二十条第六号の業務のうち次の項に掲げる業務以外の業務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十条第六号の業務のうち次の二項に掲げる業務以外の業務</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">クレーン・デリック運転士免許を受けた者（クレーン則第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を床上無線運転式クレーン等に限定したクレーン・デリック運転士免許を受けた者を除く。）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">令第二十条第六号に掲げる業務のうち床上無線運転式クレーン等の運転の業務</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">クレーン・デリック運転士免許を受けた者</Sentence>
@@ -64704,7 +64948,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">令第二十条第六号の業務のうち床上で運転し、かつ、当該運転をする者が荷の移動とともに移動する方式のクレーンの運転の業務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">令第二十条第六号の業務のうちクレーン則第二十二条第三号に規定する床上操作式クレーンの運転の業務</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一　クレーン・デリック運転士免許を受けた者</Sentence>
@@ -64733,7 +64977,7 @@
               <Sentence Num="1" WritingMode="vertical">令第二十条第八号の業務</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">クレーン・デリック運転士免許を受けた者</Sentence>
+              <Sentence Num="1" WritingMode="vertical">クレーン・デリック運転士免許を受けた者（クレーン則第二百二十四条の四第一項の規定により取り扱うことのできる機械の種類を床上無線運転式クレーン等に限定したクレーン・デリック運転士免許を受けた者及び同条第二項の規定により取り扱うことのできる機械の種類をクレーンに限定したクレーン・デリック運転士免許を受けた者を除く。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -66411,7 +66655,7 @@
       <RelatedArticleNum>（第５１条関係）（１）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000035119.pdf"/>
+          <Fig src="./pict/2FH00000084170.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -66433,7 +66677,7 @@
       <RelatedArticleNum>（第５４条関係）（１）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065670.pdf"/>
+          <Fig src="./pict/2FH00000084171.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -66442,7 +66686,7 @@
       <RelatedArticleNum>（第５７条関係）（１）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065672.pdf"/>
+          <Fig src="./pict/2FH00000084172.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -66469,7 +66713,7 @@
       <RelatedArticleNum>（第６６条の３、第６７条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000080364.pdf"/>
+          <Fig src="./pict/2FH00000084173.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -66505,7 +66749,7 @@
       <RelatedArticleNum>（第７６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000040588.pdf"/>
+          <Fig src="./pict/2FH00000084174.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
