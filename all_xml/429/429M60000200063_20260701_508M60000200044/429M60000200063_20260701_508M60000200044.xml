@@ -997,7 +997,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">家畜共済、園芸施設共済又は任意共済（法第百六十三条第一項及び第三項の規定による事業を含む。）については、当該事業年度の共済掛金の合計金額及び政府又は都道府県連合会若しくは全国連合会に支払う保険料の額を差し引いて得た金額のうち、まだ経過しない共済責任期間に対する金額</Sentence>
+                <Sentence Num="1" WritingMode="vertical">家畜共済、園芸施設共済又は任意共済（法第百六十三条第一項及び第三項の規定による事業を含む。）については、当該事業年度の共済掛金の合計金額から政府又は都道府県連合会若しくは全国連合会に支払う保険料の額を差し引いて得た金額のうち、まだ経過しない共済責任期間に対する金額</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1477,7 +1477,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第九十八条第二項の農林水産省令で定める生育の程度は、その母牛に対する授精又は受精卵移植の日から起算して二百四十日以上であることとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第九十八条第二項の農林水産省令で定める生育の程度は、その母牛に対する授精の日から起算して二百四十日以上又はその母牛に対する受精卵移植の日から起算して二百三十三日（その受精卵の発育に要した日数が七日でないことが確認できる場合にあっては、二百四十日から当該日数を差し引いた日数）以上であることとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -10103,6 +10103,16 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、令和七年七月二十八日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年六月二日農林水産省令第四四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和八年七月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十九条第一項第二号の改正規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
