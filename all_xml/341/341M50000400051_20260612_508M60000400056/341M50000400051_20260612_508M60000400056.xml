@@ -1004,7 +1004,8 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">冷媒設備は、許容圧力以上の圧力で行う気密試験及び配管以外の部分について許容圧力の一・五倍以上の圧力で水その他の安全な液体を使用して行う耐圧試験（液体を使用することが困難であると認められるときは、許容圧力の一・二五倍以上の圧力で空気、窒素等の気体を使用して行う耐圧試験）又は当該冷媒設備の製造をする者であつて、試験方法、試験設備、試験員等の状況により試験を行うことが適切であると経済産業大臣が認めるものの行う耐圧試験に合格するものであること。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">冷媒設備は、許容圧力以上の圧力で行う気密試験及び配管以外の部分について許容圧力の一・五倍以上の圧力で水その他の安全な液体を使用して行う耐圧試験（液体を使用することが困難であると認められるときは、許容圧力の一・二五倍以上の圧力で空気、窒素等の気体を使用して行う耐圧試験）に合格するものであること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該冷媒設備の製造をする者であつて、試験方法、試験設備、試験員等の状況により試験を行うことが適切であると経済産業大臣が認めるものの行う耐圧試験に合格するもの又は経済産業大臣が認める方法により確認が行われたものにあつては、この限りでない。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
@@ -3937,7 +3938,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">認定指定設備に変更の工事を施したとき、又は認定指定設備の移設等（転用を除く。以下この条及び次条において同じ。）を行つたときは、当該認定指定設備に係る指定設備認定証は無効とする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">認定指定設備に変更の工事を施したとき、認定指定設備の移設等（転用を除き、冷媒ガスの変更を含む。以下この条及び次条において同じ。）を行つたとき、又は認定指定設備の冷媒ガスの種類の変更を行つたときは、当該認定指定設備に係る指定設備認定証は無効とする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる場合にあつては、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -3949,25 +3950,25 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">認定指定設備の移設等を行つた場合であつて、当該認定指定設備の指定設備認定証を交付した指定設備認定機関等により調査を受け、認定指定設備技術基準適合書の交付を受けた場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">認定指定設備の移設等を行つた場合又は認定指定設備の冷媒ガスの種類の変更（経済産業大臣が認めるものに限る。以下この条及び次条において同じ。）を行つた場合であつて、当該認定指定設備の指定設備認定証を交付した指定設備認定機関等により調査を受け、認定指定設備技術基準適合書の交付を受けた場合</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">認定指定設備を設置した者は、その認定指定設備に変更の工事を施したとき、又は認定指定設備の移設等を行つたときは、前項ただし書の場合を除き、前条の規定により当該指定設備に係る指定設備認定証を返納しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定指定設備を設置した者は、その認定指定設備に変更の工事を施したとき、認定指定設備の移設等を行つたとき、又は認定指定設備の冷媒ガスの種類の変更を行つたときは、前項ただし書の場合を除き、前条の規定により当該指定設備に係る指定設備認定証を返納しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項ただし書の場合において、認定指定設備の変更の工事を行つた者又は認定指定設備の移設等を行つた者は、当該認定指定設備に係る指定設備認定証に、変更の工事の内容及び変更の工事を行つた年月日又は移設等を行つた年月日を記載しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項ただし書の場合において、認定指定設備の変更の工事を行つた者、認定指定設備の移設等を行つた者又は認定指定設備の冷媒ガスの種類の変更を行つた者は、当該認定指定設備に係る指定設備認定証に、変更の工事の内容及び変更の工事を行つた年月日又は移設等を行つた年月日を記載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="62_2">
-          <ArticleCaption>（認定指定設備の移設等に係る調査の申請等）</ArticleCaption>
+          <ArticleCaption>（認定指定設備の移設等又は認定指定設備の冷媒ガスの種類の変更に係る調査の申請等）</ArticleCaption>
           <ArticleTitle>第六十二条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -5245,6 +5246,19 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年六月一一日経済産業省令第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和八年六月十二日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
@@ -5319,7 +5333,7 @@
               <Sentence Num="1" WritingMode="vertical">七　第七条第一項第六号の冷媒設備の耐圧試験</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">七　冷媒設備の配管以外の部分を耐圧試験用設備を用いた許容圧力の一・五倍以上の圧力で水その他の安全な液体を使用して行う耐圧試験（液体を使用することが困難であると認められるときは、許容圧力の一・二五倍以上の圧力で空気、窒素等の気体を使用して行う耐圧試験）又はその記録により検査する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">七　冷媒設備の配管以外の部分を耐圧試験用設備を用いた許容圧力の一・五倍以上の圧力で水その他の安全な液体を使用して行う耐圧試験（液体を使用することが困難であると認められるときは、許容圧力の一・二五倍以上の圧力で空気、窒素等の気体を使用して行う耐圧試験）若しくはその記録又は第七条第一項第六号の規定により経済産業大臣が認める方法により検査する。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
