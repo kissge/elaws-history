@@ -7304,7 +7304,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第五条又は法第六条の検査を受けようとする者は、別表第一に定める額（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下この条において「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して検査の申請をする場合にあつては、別表第一の二に定める額）の手数料を納めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第五条又は法第六条の検査（法第五条の検査にあつては、小型船舶（第十四条各号に掲げるものを除く。）に係るものを除く。）を受けようとする者は、別表第一に定める額（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下この条において「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して検査の申請をする場合にあつては、別表第一の二に定める額）の手数料を、法第五条の検査（小型船舶（第十四条各号に掲げるものを除く。）に係るものに限る。）を受けようとする者は、別表第一の三に定める額の手数料を、それぞれ納めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -7379,13 +7379,13 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">準備検査を受けた船舶の定期検査又は準備検査を受けた物件の予備検査（当該準備検査を受けた日から起算して後一年以内に最初に受けるものに限る。）の手数料の額は、第一項の規定にかかわらず、別表第一に定める定期検査又は製造に係る予備検査の手数料の額の二分の一の額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">準備検査を受けた船舶の定期検査又は準備検査を受けた物件の予備検査（当該準備検査を受けた日から起算して後一年以内に最初に受けるものに限る。）の手数料の額は、第一項の規定にかかわらず、別表第一に定める定期検査又は製造に係る予備検査の手数料の額（準備検査を受けた小型船舶（第十四条各号に掲げるものを除く。）の定期検査を受ける場合は、別表第一の三に定める定期検査の手数料の額）の二分の一の額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">外国において法第五条の検査を受ける場合における当該検査の手数料の額は、前各項の規定にかかわらず、これらの規定による手数料の額に十一万三千七百円（初めて航行の用に供するときに行う定期検査を受ける場合（法第八条の船舶について受ける場合を除く。）は、別表第一の三に定める額）を加算した額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国において法第五条の検査を受ける場合における当該検査の手数料の額は、前各項の規定にかかわらず、これらの規定による手数料の額に十一万三千七百円（初めて航行の用に供するときに行う定期検査を受ける場合（法第八条の船舶について受ける場合を除く。）は、別表第一の四に定める額）を加算した額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
@@ -11554,6 +11554,23 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年六月一七日国土交通省令第六一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和八年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第１</AppdxTableTitle>
@@ -25873,6 +25890,198 @@
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+              <Sentence Num="1" WritingMode="vertical">定期検査</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">船舶の長さ（メートル）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">３未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">３以上５未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">５以上１０未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">１０以上２０未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">２０以上</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+              <Sentence Num="1" WritingMode="vertical">金額（円）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">旅客船</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１８，７００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">２７，３００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">３９，１００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">５２，８００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">７２，２００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">旅客船以外の船舶</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１３，１００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">１９，０００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">２７，８００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">３５，２００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４９，８００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+              <Sentence Num="1" WritingMode="vertical">第一種中間検査</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">船舶の長さ（メートル）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">３未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">３以上５未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">５以上１０未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">１０以上２０未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">２０以上</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+              <Sentence Num="1" WritingMode="vertical">金額（円）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">旅客船</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">１０，２００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">１５，４００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">２５，７００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">３４，０００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">４９，３００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">旅客船以外の船舶</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">５，９００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">９，５００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">１７，２００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">２２，２００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">３２，３００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+              <Sentence Num="1" WritingMode="vertical">臨時検査又は臨時航行検査</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">船舶の長さ（メートル）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">５未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">５以上１０未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">１０以上２０未満</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">２０以上</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">臨検回数１回につき（円）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">５，６００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">６，４００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">７，６００</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence Num="1" WritingMode="vertical">９，５００</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+        <Remarks>
+          <RemarksLabel LineBreak="true">備考</RemarksLabel>
+          <Item Num="1">
+            <ItemTitle>１</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">臨検回数は、１日につき４時間を超えない臨検時間をもつて１回とし、１日の臨検時間が４時間を超える場合は、これを２回として算出する。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>２</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">臨時検査又は臨時航行検査の手数料の額は、当該検査が２回以上にわたる場合における手数料の合計額が当該船舶に係る定期検査の手数料の額に相当する額を超えるときは、当該定期検査の手数料の額に相当する額とする。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Remarks>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表第１の４</AppdxTableTitle>
+      <RelatedArticleNum>（第６６条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
               <Sentence Num="1" WritingMode="vertical">初めて航行の用に供するときに行う定期検査（製造検査に合格した船舶について受けるものに限る。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
@@ -36319,6 +36528,17 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5">
+              <Sentence Num="1" WritingMode="vertical">固定式放水モニター</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="12">
+              <Sentence Num="1" WritingMode="vertical">１個につき　７，６００円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2" rowspan="2">
@@ -36689,13 +36909,24 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">　</Sentence>
+              <Sentence Num="1" WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5">
               <Sentence Num="1" WritingMode="vertical">回頭角速度計</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="12">
               <Sentence Num="1" WritingMode="vertical">１個につき　７，７００円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5">
+              <Sentence Num="1" WritingMode="vertical">電子傾斜計</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="12">
+              <Sentence Num="1" WritingMode="vertical">１個につき　２０，４００円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -38481,7 +38712,7 @@
       <RelatedArticleNum>（第６１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000081301.pdf"/>
+          <Fig src="./pict/2FH00000085529.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
