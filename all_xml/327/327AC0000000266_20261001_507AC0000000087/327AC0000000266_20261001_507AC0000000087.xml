@@ -1159,13 +1159,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">自衛官（自衛隊法第四十五条の二第一項の規定により採用された自衛官を除く。第二十七条の四第一項並びに第二十七条の八第一項第一号及び第二項第二号において同じ。）としての引き続いた在職期間（同条から第二十七条の十まで、第二十七条の十二及び第二十七条の十三において単に「在職期間」という。）が二十年以上である者その他これに準ずる者として政令で定める者（第二十七条の十一第三項及び第二十七条の十四第一項において「長期在職自衛官」という。）であつて次の各号のいずれかに該当するもの（以下「若年定年退職者」という。）には、若年定年退職者給付金（以下「給付金」という。）を支給する。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">自衛官（自衛隊法第四十五条の二第一項の規定により採用された自衛官を除く。次項、第二十七条の四第一項並びに第二十七条の八第一項及び第二項第二号において同じ。）としての在職期間が二十年以上である者その他これに準ずる者として政令で定める者（第二十七条の十一第三項及び第二十七条の十四第一項において「長期在職自衛官」という。）であつて次の各号のいずれかに該当するもの（以下「若年定年退職者」という。）には、若年定年退職者給付金（以下「給付金」という。）を支給する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が当該各号に規定する退職の日又はその翌日に国家公務員又は地方公務員（これらの者で臨時的に任用されるものその他の任期を定めて任用されるもの及び非常勤のものを除く。）となつたときは、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">定年（自衛隊法第四十四条の六第二項本文に規定する定年（以下「自衛官以外の職員の定年」という。）以上であるものを除く。以下この条及び第二十七条の十四第一項において「若年定年」という。）に達したことにより退職した者</Sentence>
+              <Sentence Num="1" WritingMode="vertical">定年（自衛隊法第四十四条の六第二項本文に規定する定年（以下「自衛官以外の職員の定年」という。）以上であるものを除く。以下この項及び第二十七条の十四第一項において「若年定年」という。）に達したことにより退職した者</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -1199,6 +1199,35 @@
             </ItemSentence>
           </Item>
         </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前項の在職期間は、自衛官となつた日から自衛官を退職した日までの期間（当該期間が二以上あるときは、これらの期間を合算した期間）とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる場合には、初めて自衛官となつた日から当該各号に定める日（当該各号に掲げる場合のいずれにも該当する場合には、当該各号に定める日のうち最も遅い日）までの期間（自衛官であつた期間に限る。）を除く。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">在職期間中の行為に係る刑事事件に関し拘禁刑以上の刑に処せられ、自衛隊法第三十八条第二項の規定により失職した場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">その失職した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">在職期間中の行為に関し自衛隊法第四十六条の規定による免職の処分を受けた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">その処分を受けた日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
       </Article>
       <Article Num="27_3">
         <ArticleCaption>（給付金の支給時期及び額）</ArticleCaption>
@@ -1212,13 +1241,13 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一回目の給付金及び第二回目の給付金の額は、退職の日においてその者の受けていた俸給月額（退職の日において休職にされていたことにより俸給の一部又は全部を支給されなかつた者その他の政令で定める者については政令で定める俸給月額とし、これらの額が別表第二の三等陸佐、三等海佐及び三等空佐の欄における俸給の幅の最高の号俸による額を超える場合には、その最高の号俸による額とする。次条において単に「俸給月額」という。）に算定基礎期間（退職の日において定められているその者に係る定年に達する日の翌日から自衛官以外の職員の定年に達する日までの期間をいう。以下同じ。）の年数を乗じて得た額に第一回目の給付金にあつては一・七一四を、第二回目の給付金にあつては四・二八六をそれぞれ乗じて得た額に、第一回目の給付金及び第二回目の給付金の支給される時期並びに算定基礎期間の年数を勘案して一を超えない範囲内でそれぞれ算定基礎期間の年数に応じて政令で定める率を乗じて得た額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一回目の給付金及び第二回目の給付金の額は、退職の日においてその者の受けていた俸給月額（退職の日において休職にされていたことにより俸給の一部又は全部を支給されなかつた者その他の政令で定める者については政令で定める俸給月額とし、これらの額が別表第二の三等陸佐、三等海佐及び三等空佐の欄における俸給の幅の最高の号俸による額を超える場合には、その最高の号俸による額とする。次条において単に「俸給月額」という。）に算定基礎期間（退職の日において定められているその者に係る定年に達する日の翌日から自衛官以外の職員の定年に達する日までの期間をいう。以下同じ。）の年数を乗じて得た額に第一回目の給付金にあつては二・五七一を、第二回目の給付金にあつては六・四二九をそれぞれ乗じて得た額に、第一回目の給付金及び第二回目の給付金の支給される時期並びに算定基礎期間の年数を勘案して一を超えない範囲内でそれぞれ算定基礎期間の年数に応じて政令で定める率を乗じて得た額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条第三号に該当する若年定年退職者の第一回目の給付金及び第二回目の給付金の額は、前項の規定にかかわらず、それぞれ同項の規定により計算した額から、その者に係る定年に達する日の翌日の属する月の翌月からその者の退職した日の属する月までの月数を勘案して政令で定めるところにより計算した額を減じた額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前条第一項第三号に該当する若年定年退職者の第一回目の給付金及び第二回目の給付金の額は、前項の規定にかかわらず、それぞれ同項の規定により計算した額から、その者に係る定年に達する日の翌日の属する月の翌月からその者の退職した日の属する月までの月数を勘案して政令で定めるところにより計算した額を減じた額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1228,7 +1257,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">若年定年退職者の退職した日の属する年の翌年（以下「退職の翌年」という。）におけるその者の所得金額が支給調整下限額（その者が退職の翌年まで自衛官として在職していたと仮定した場合においてその年に受けるべき俸給、扶養手当、営外手当、期末手当及び勤勉手当の合計額として政令で定めるところにより計算した額に相当する額（以下「給与年額相当額」という。）からその者に係る俸給月額に六を乗じて得た額を減じた額をいう。以下同じ。）を超え、支給調整上限額（その者に係る給与年額相当額からその者に係る俸給月額に一・七一四を乗じて得た額を減じた額をいう。以下同じ。）に満たない場合には、前条第二項及び第三項の規定にかかわらず、第二回目の給付金の額は、これらの規定により計算した第二回目の給付金の額に相当する額に、その者に係る支給調整上限額から退職の翌年におけるその者の所得金額を減じた額をその者に係る支給調整上限額からその者に係る支給調整下限額を減じた額で除して得た率を乗じて得た額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">若年定年退職者の退職した日の属する年の翌年（以下「退職の翌年」という。）におけるその者の所得金額が支給調整下限額（その者が退職の翌年まで自衛官として在職していたと仮定した場合においてその年に受けるべき俸給、扶養手当、営外手当、期末手当及び勤勉手当の合計額として政令で定めるところにより計算した額に相当する額（以下「給与年額相当額」という。）からその者に係る俸給月額に九を乗じて得た額を減じた額をいう。以下同じ。）を超え、支給調整上限額（その者に係る給与年額相当額からその者に係る俸給月額に二・五七一を乗じて得た額を減じた額をいう。以下同じ。）に満たない場合には、前条第二項及び第三項の規定にかかわらず、第二回目の給付金の額は、これらの規定により計算した第二回目の給付金の額に相当する額に、その者に係る支給調整上限額から退職の翌年におけるその者の所得金額を減じた額をその者に係る支給調整上限額からその者に係る支給調整下限額を減じた額で除して得た率を乗じて得た額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -1429,7 +1458,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">当該若年定年退職者が在職期間中の行為に係る刑事事件に関し起訴をされたとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">当該若年定年退職者が在職期間（自衛官となつた日から自衛官を退職した日までの期間（第二十七条の二第二項ただし書に規定する期間を除く。）をいう。以下この条から第二十七条の十まで、第二十七条の十二及び第二十七条の十三において同じ。）中の行為に係る刑事事件に関し起訴をされたとき。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -2219,7 +2248,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">防衛大臣は、第三条第一項、第十二条第二項若しくは第二十七条の二の規定による政令若しくは第十二条第二項の規定による防衛省令の制定若しくは改廃の立案をしようとするとき、又は第二十七条の六第四項（第二十七条の十一第十項において準用する場合を含む。）の規定に定める処分の理由の通知若しくは弁明の機会に関する手続を定め、若しくは変更しようとするときは、審議会等（国家行政組織法（昭和二十三年法律第百二十号）第八条に規定する機関をいう。）で政令で定めるものの意見を聴かなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">防衛大臣は、第三条第一項、第十二条第二項若しくは第二十七条の二第一項の規定による政令若しくは第十二条第二項の規定による防衛省令の制定若しくは改廃の立案をしようとするとき、又は第二十七条の六第四項（第二十七条の十一第十項において準用する場合を含む。）の規定に定める処分の理由の通知若しくは弁明の機会に関する手続を定め、若しくは変更しようとするときは、審議会等（国家行政組織法（昭和二十三年法律第百二十号）第八条に規定する機関をいう。）で政令で定めるものの意見を聴かなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2404,13 +2433,13 @@
       <Paragraph Num="12">
         <ParagraphNum>１２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">当分の間、定年が年齢六十年に満たないとされている若年定年退職者に対する第二十七条の二第一号及び第二十七条の三の規定の適用については、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">当分の間、定年が年齢六十年に満たないとされている若年定年退職者に対する第二十七条の二第一項第一号及び第二十七条の三の規定の適用については、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
         </ParagraphSentence>
         <TableStruct>
           <Table WritingMode="vertical">
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">第二十七条の二第一号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の二第一項第一号</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">規定する定年（</Sentence>
@@ -2504,7 +2533,7 @@
                 <Sentence Num="1" WritingMode="vertical">得た額とする</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">得た額とし、第三回目の給付金及び第四回目の給付金の額は、退職の日においてその者の受けていた俸給月額に後期算定基礎期間の年数を乗じて得た額に第三回目の給付金にあつては一・三八を、第四回目の給付金にあつては二・〇七をそれぞれ乗じて得た額に、第三回目の給付金及び第四回目の給付金の支給される時期並びに後期算定基礎期間の年数を勘案して一を超えない範囲内でそれぞれ後期算定基礎期間の年数に応じて政令で定める率を乗じて得た額とする</Sentence>
+                <Sentence Num="1" WritingMode="vertical">得た額とし、第三回目の給付金及び第四回目の給付金の額は、退職の日においてその者の受けていた俸給月額に後期算定基礎期間の年数を乗じて得た額に第三回目の給付金にあつては一・八四を、第四回目の給付金にあつては二・七六をそれぞれ乗じて得た額に、第三回目の給付金及び第四回目の給付金の支給される時期並びに後期算定基礎期間の年数を勘案して一を超えない範囲内でそれぞれ後期算定基礎期間の年数に応じて政令で定める率を乗じて得た額とする</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -2524,13 +2553,13 @@
       <Paragraph Num="13">
         <ParagraphNum>１３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">当分の間、定年が年齢六十年以上とされている若年定年退職者に対する第二十七条の二第一号、第二十七条の三第二項及び第二十七条の四第一項の規定の適用については、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">当分の間、定年が年齢六十年以上とされている若年定年退職者に対する第二十七条の二第一項第一号、第二十七条の三第二項及び第二十七条の四第一項の規定の適用については、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
         </ParagraphSentence>
         <TableStruct>
           <Table WritingMode="vertical">
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">第二十七条の二第一号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の二第一項第一号</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence Num="1" WritingMode="vertical">規定する定年（</Sentence>
@@ -2544,10 +2573,10 @@
                 <Sentence Num="1" WritingMode="vertical">第二十七条の三第二項</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">一・七一四</Sentence>
+                <Sentence Num="1" WritingMode="vertical">二・五七一</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">一・三八</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一・八四</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -2555,10 +2584,10 @@
                 <Sentence Num="1" WritingMode="vertical"/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">四・二八六</Sentence>
+                <Sentence Num="1" WritingMode="vertical">六・四二九</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">二・〇七</Sentence>
+                <Sentence Num="1" WritingMode="vertical">二・七六</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -2566,10 +2595,10 @@
                 <Sentence Num="1" WritingMode="vertical">第二十七条の四第一項</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">六</Sentence>
+                <Sentence Num="1" WritingMode="vertical">九</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">三・四五</Sentence>
+                <Sentence Num="1" WritingMode="vertical">四・六</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -2577,10 +2606,10 @@
                 <Sentence Num="1" WritingMode="vertical"/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">一・七一四</Sentence>
+                <Sentence Num="1" WritingMode="vertical">二・五七一</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">一・三八</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一・八四</Sentence>
               </TableColumn>
             </TableRow>
           </Table>
@@ -2707,10 +2736,10 @@
                 <Sentence Num="1" WritingMode="vertical"/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">六</Sentence>
+                <Sentence Num="1" WritingMode="vertical">九</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">三・四五</Sentence>
+                <Sentence Num="1" WritingMode="vertical">四・六</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -2718,10 +2747,10 @@
                 <Sentence Num="1" WritingMode="vertical"/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">一・七一四</Sentence>
+                <Sentence Num="1" WritingMode="vertical">二・五七一</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">一・三八</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一・八四</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -76051,6 +76080,77 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">一般職給与改正法附則第五条の規定は、第二条の規定による改正後の法第十四条第二項において準用する一般職給与改正法第二条の規定による改正後の一般職の職員の給与に関する法律第十条の五第一項の規定の適用について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、一般職給与改正法附則第五条中「一般職の職員の給与に関する法律等の一部を改正する法律」とあるのは、「防衛省の職員の給与等に関する法律の一部を改正する法律（令和六年法律第七十八号）附則第八条において準用する一般職の職員の給与に関する法律等の一部を改正する法律」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年七月三日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条及び第四条（防衛省の職員の給与等に関する法律（以下「防衛省給与法」という。）第五条第一項第二号の改正規定を除く。以下同じ。）の規定並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第五条及び附則第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和十年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（若年定年退職者給付金の支給に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条改正後防衛省給与法第二十七条の二から第二十七条の四まで及び第二十七条の八並びに附則第十二項、第十三項及び第十五項の規定は、令和八年四月一日以後に退職した新若年定年退職者（第四条改正後防衛省給与法第二十七条の二第一項に規定する若年定年退職者をいう。次条から附則第五条までにおいて同じ。）に係る若年定年退職者給付金について適用し、同日前に退職した旧若年定年退職者（第四条の規定による改正前の防衛省給与法第二十七条の二に規定する若年定年退職者をいう。附則第五条において同じ。）に係る若年定年退職者給付金については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和八年四月一日から令和九年三月三十一日までの間に退職した新若年定年退職者に対する第四条改正後防衛省給与法第二十七条の三及び第二十七条の四並びに附則第十二項、第十三項及び第十五項の規定の適用については、第四条改正後防衛省給与法第二十七条の三第二項中「二・五七一」とあるのは「二」と、「六・四二九」とあるのは「五」と、第四条改正後防衛省給与法第二十七条の四第一項中「九」とあるのは「七」と、「二・五七一」とあるのは「二」と、第四条改正後防衛省給与法附則第十二項の表第二十七条の三第二項の項中「一・八四」とあるのは「一・五三二」と、「二・七六」とあるのは「二・二九八」と、第四条改正後防衛省給与法附則第十三項の表第二十七条の三第二項の項中「二・五七一」とあるのは「二」と、「一・八四」とあるのは「一・五三二」と、「六・四二九」とあるのは「五」と、「二・七六」とあるのは「二・二九八」と、同表第二十七条の四第一項の項中「九」とあるのは「七」と、「四・六」とあるのは「三・八三」と、「二・五七一」とあるのは「二」と、「一・八四」とあるのは「一・五三二」と、第四条改正後防衛省給与法附則第十五項の表第二十七条の四第一項の項中「九」とあるのは「七」と、「四・六」とあるのは「三・八三」と、「二・五七一」とあるのは「二」と、「一・八四」とあるのは「一・五三二」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
