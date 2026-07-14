@@ -9434,7 +9434,7 @@
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">当該申請に係る処理を委託して行い、又は行おうとする場合にあつては、当該処理の受託者の氏名又は名称及び住所（法人にあつては、その名称、代表者の氏名及び住所又はその名称及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十六項に規定する法人番号をいう。以下同じ。））</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該申請に係る処理を委託して行い、又は行おうとする場合にあつては、当該処理の受託者の氏名又は名称及び住所並びに法人にあつては、その代表者の氏名</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="4">
@@ -9797,37 +9797,31 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">認定を受けた者の氏名又は名称及び住所並びに法人にあつては、その代表者の氏名</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定を受けた者（当該認定を受けた者の委託を受けて当該認定に係る処理を行う者を含む。第五号において同じ。）の氏名又は名称及び住所並びに法人にあつては、その代表者の氏名</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">当該認定に係る処理を委託して行う場合にあつては、当該処理の受託者の氏名及び住所（法人にあつては、その名称、住所及び代表者の氏名又はその名称及び法人番号）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定の年月日及び認定番号</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">認定の年月日及び認定番号</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一般廃棄物の種類</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">一般廃棄物の種類</Sentence>
+              <Sentence Num="1" WritingMode="vertical">処理を行う区域</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">処理を行う区域</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="6">
-            <ItemTitle>六</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">認定を受けた者（当該認定を受けた者の委託を受けて当該認定に係る処理を行う者を含む。）の事業の内容</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定を受けた者の事業の内容</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -15079,53 +15073,13 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="8_34_3_2">
-        <ArticleCaption>（処分受託者の情報処理センターへの再生に係る報告）</ArticleCaption>
-        <ArticleTitle>第八条の三十四の三の二</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">処分受託者は、法第十二条の五第三項の規定による報告（産業廃棄物の処分が最終処分であるときに限る。）を行うとき又は同条第四項の規定による報告を行うときは、受託した産業廃棄物について最終処分が終了するまで又は再生を行うまでのすべての処分について、各処分ごとに、情報処理センターに次に掲げる事項を報告しなければならない。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">処分を行つた者の氏名又は名称及び許可番号</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">処分を行つた事業場の名称及び所在地</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">処分方法</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="4">
-            <ItemTitle>四</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">処分方法ごとの処分量（当該処分量を的確に算出できると認められる方法により算出される処分量を含む。）</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="5">
-            <ItemTitle>五</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">処分後の産業廃棄物又は再生された物の種類及び数量（当該数量を的確に算出できると認められる方法により算出される数量を含む。）</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
       <Article Num="8_34_4">
         <ArticleCaption>（情報処理センターの電子情報処理組織使用義務者又は電子情報処理組織使用事業者への通知）</ArticleCaption>
         <ArticleTitle>第八条の三十四の四</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">情報処理センターは、法第十二条の五第五項に規定する場合において、当該報告に係る産業廃棄物の処分が最終処分であるときは、最終処分が終了した旨、当該最終処分を行つた場所の所在地、当該最終処分が終了した年月日、当該報告に係る登録番号及び前条各号に掲げる事項を通知するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">情報処理センターは、法第十二条の五第五項に規定する場合において、当該報告に係る産業廃棄物の処分が最終処分であるときは、最終処分が終了した旨、当該最終処分を行つた場所の所在地、当該最終処分が終了した年月日及び当該報告に係る登録番号を通知するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -15165,7 +15119,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第十二条の五第九項の規定による都道府県知事に対する報告は、産業廃棄物を排出する事業場ごとに、毎年六月三十日までに、その年の三月三十一日以前の一年間における同条第一項及び第二項の規定による登録並びに同条第三項及び第四項の規定による報告の内容（第八条の三十四の三の二各号に掲げる事項を除く。）並びに次に掲げる事項を記載した文書又はこれらの事項を電磁的記録媒体（電磁的記録に係る記録媒体をいう。）をもつて調製するファイルに記録したものを当該事業場の所在地を管轄する都道府県知事に提出することにより行うものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第十二条の五第九項の規定による都道府県知事に対する報告は、産業廃棄物を排出する事業場ごとに、毎年六月三十日までに、その年の三月三十一日以前の一年間における同条第一項及び第二項の規定による登録並びに同条第三項の規定による報告の内容並びに次に掲げる事項を記載した文書又はこれらの事項を電磁的記録媒体（電磁的記録に係る記録媒体をいう。）をもつて調製するファイルに記録したものを当該事業場の所在地を管轄する都道府県知事に提出することにより行うものとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
