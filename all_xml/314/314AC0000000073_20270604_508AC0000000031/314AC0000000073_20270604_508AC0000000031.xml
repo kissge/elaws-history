@@ -1837,12 +1837,12 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">遺族年金を受けることができる遺族の範囲は、被保険者又は被保険者であった者の配偶者、子、父母、孫、祖父母及び兄弟姉妹であって、被保険者又は被保険者であった者の死亡の当時その収入によって生計を維持していたものとする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、妻（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあった者を含む。以下同じ。）以外の者にあっては、被保険者又は被保険者であった者の死亡の当時次に掲げる要件に該当した場合に限るものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、配偶者以外の者にあっては、被保険者又は被保険者であった者の死亡の当時次に掲げる要件に該当した場合に限るものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">夫（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあった者を含む。以下同じ。）、父母又は祖父母については、六十歳以上であること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">父母又は祖父母については、六十歳以上であること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1860,7 +1860,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前三号の要件に該当しない夫、子、父母、孫、祖父母又は兄弟姉妹については、厚生労働省令で定める障害の状態にあること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前三号の要件に該当しない子、父母、孫、祖父母又は兄弟姉妹については、厚生労働省令で定める障害の状態にあること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -3672,7 +3672,7 @@
                       <Sentence Num="1" WritingMode="vertical">一人</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">百五十三日（五十五歳以上の妻又は厚生労働省令で定める障害の状態にある妻にあっては、百七十五日）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">百七十五日</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -3759,7 +3759,7 @@
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十五条第一項第四号の厚生労働省令で定める障害の状態にある夫、子、父母、孫、祖父母又は兄弟姉妹については、その事情がなくなったとき（夫、父母又は祖父母については被保険者又は被保険者であった者の死亡の当時六十歳以上であったとき、子又は孫については十八歳に達する日以後の最初の三月三十一日までの間にあるとき、兄弟姉妹については十八歳に達する日以後の最初の三月三十一日までの間にあるか又は被保険者若しくは被保険者であった者の死亡の当時六十歳以上であったときを除く。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第三十五条第一項第四号の厚生労働省令で定める障害の状態にある子、父母、孫、祖父母又は兄弟姉妹については、その事情がなくなったとき（父母又は祖父母については被保険者又は被保険者であった者の死亡の当時六十歳以上であったとき、子又は孫については十八歳に達する日以後の最初の三月三十一日までの間にあるとき、兄弟姉妹については十八歳に達する日以後の最初の三月三十一日までの間にあるか又は被保険者若しくは被保険者であった者の死亡の当時六十歳以上であったときを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -4876,11 +4876,18 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">保険料等を徴収し、又はその還付を受ける権利及び入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、傷病手当金、葬祭料、出産育児一時金、出産手当金、家族療養費、家族訪問看護療養費、家族移送費、家族葬祭料、家族出産育児一時金、高額療養費、高額介護合算療養費、休業手当金、行方不明手当金又は第三十条の規定による給付を受ける権利はこれらを行使することができる時から二年を経過したとき、その他の保険給付を受ける権利はこれらを行使することができる時から五年を経過したときは、時効によって消滅する。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">保険料等を徴収し、又はその還付を受ける権利及び入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、傷病手当金、葬祭料、出産育児一時金、出産手当金、家族療養費、家族訪問看護療養費、家族移送費、家族葬祭料、家族出産育児一時金、高額療養費、高額介護合算療養費、休業手当金、行方不明手当金又は第三十条の規定による給付を受ける権利は、これらを行使することができる時から二年を経過したときは、時効によって消滅する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、休業手当金の原因である事故に係る疾病が、その性質上、第八十五条第一項に規定する休業手当金を支給すべき事由に該当するものかどうかを容易に判断することができない疾病として政令で定めるものである場合には、当該休業手当金を受ける権利については、この項本文中「二年」とあるのは、「五年」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する保険給付以外の保険給付を受ける権利は、これらを行使することができる時から五年を経過したときは、時効によって消滅する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">保険料等の納入の告知又は督促は、時効の更新の効力を有する。</Sentence>
             </ParagraphSentence>
@@ -5813,14 +5820,14 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">当分の間、被保険者又は被保険者であった者の夫、父母、祖父母及び兄弟姉妹であって、被保険者又は被保険者であった者の死亡の当時その収入によって生計を維持し、かつ、五十五歳以上六十歳未満であったもの（第三十五条第一項第四号に規定する者であって、第九十九条第一項第六号に該当しないものを除く。）は、第三十五条第一項の規定にかかわらず、遺族年金を受けることができる遺族とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">当分の間、被保険者又は被保険者であった者の父母、祖父母及び兄弟姉妹であって、被保険者又は被保険者であった者の死亡の当時その収入によって生計を維持し、かつ、五十五歳以上六十歳未満であったもの（第三十五条第一項第四号に規定する者であって、第九十九条第一項第六号に該当しないものを除く。）は、第三十五条第一項の規定にかかわらず、遺族年金を受けることができる遺族とする。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、第九十八条第一項中「遺族の人数」とあるのは「遺族（附則第四条第一項に規定する遺族であって六十歳未満であるものを除く。）の人数」と、第九十九条第二項中「前項各号のいずれか」とあるのは「前項各号（第六号を除く。）のいずれか」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項に規定する遺族の遺族年金を受けるべき順位は、第三十五条第一項に規定する遺族の次の順位とし、前項に規定する遺族のうちにあっては、夫、父母、祖父母及び兄弟姉妹の順序とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項に規定する遺族の遺族年金を受けるべき順位は、第三十五条第一項に規定する遺族の次の順位とし、前項に規定する遺族のうちにあっては、父母、祖父母及び兄弟姉妹の順序とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -18063,6 +18070,76 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年七月一七日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十一条及び第十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（船員保険法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前において支給すべき事由が生じた船員保険法の規定による遺族年金における遺族の範囲及び順位、受給権の消滅並びに支給の停止に係る規定の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前の期間に係る船員保険法の規定による遺族年金の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に生じた第二条の規定による改正後の船員保険法第百四十二条第一項ただし書の政令で定める疾病に相当する疾病による事故を原因とする船員保険法の規定による休業手当金を受ける権利の消滅時効については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後のそれぞれの法律の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
