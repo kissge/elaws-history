@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Rule" Num="009" Year="28" PromulgateMonth="04" PromulgateDay="01"><LawNum>平成二十八年国家公安委員会規則第九号</LawNum><LawBody><LawTitle Kana="じゅうようしせつのしゅうへんちいきのじょうくうにおけるこがたむじんきとうのひこうのきんしにかんするほうりつしこうきそく" Abbrev="小型無人機等飛行禁止法施行規則" AbbrevKana="こ">重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行規則</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="28" Num="009" PromulgateMonth="04" PromulgateDay="01" LawType="Rule"><LawNum>平成二十八年国家公安委員会規則第九号</LawNum><LawBody><LawTitle Kana="じゅうようしせつのしゅうへんちいきのじょうくうにおけるこがたむじんきとうのひこうのきんしにかんするほうりつしこうきそく" Abbrev="小型無人機等飛行禁止法施行規則" AbbrevKana="こ">重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行規則</LawTitle>
     <EnactStatement>国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第八条第三項の規定に基づき、国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -48,6 +48,28 @@
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">下方へ噴出する気体の圧力の反作用により地表又は水面から浮揚した状態で移動することができ、かつ、操縦装置を有する機器であって、当該機器を用いて人が飛行することができるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2_2">
+        <ArticleCaption>（対象特別要人所在施設として指定することができる施設の基準）</ArticleCaption>
+        <ArticleTitle>第二条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第三条の二第一項の規定により警察庁長官が指定することができる施設は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">天皇又は内閣総理大臣が出席する行事（屋外で行われるものに限る。）が行われる施設</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">天皇又は内閣総理大臣が三時間以上滞在する施設その他小型無人機等の飛行による危険を未然に防止することが特に必要であると認められる施設</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -324,7 +346,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和八年七月一〇日国家公安委員会規則第一五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この規則は、重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律の一部を改正する法律（令和八年法律第四十七号）の施行の日（令和八年七月十四日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -333,7 +364,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第二号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>

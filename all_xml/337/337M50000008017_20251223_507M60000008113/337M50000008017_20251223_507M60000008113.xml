@@ -5596,7 +5596,7 @@
                     <Sentence Num="19" WritingMode="vertical">Ａ　測定単位の数値</Sentence>
                     <Sentence Num="20" WritingMode="vertical">Ｂ　「令和７年度における標準準拠システムの利用に伴うガバメントクラウドへの移行状況に関する調査について（照会）」（令和７年２月１８日付けデ社第８１号）に基づいて令和７年５月３１日までに報告された「ガバメントクラウドを利用する業務システム数」欄の数（以下「ガバメントクラウド利用業務システム数」という。）</Sentence>
                     <Sentence Num="21" WritingMode="vertical">Ｃ　「令和７年度における標準準拠システムの利用に伴うガバメントクラウドへの移行状況に関する調査について（照会）」に基づいて令和７年５月３１日までに報告された「平均年間稼働率」欄の数</Sentence>
-                    <Sentence Num="22" WritingMode="vertical">α　当該市町村の人口に別表第１のＡに定める市町村の人口段階による補正率を乗じて得た数（整数未満の端数があるときは、その端数を四捨五入する。）と同表のＢに定める人口段階による数とを合算した数を当該市町村の人口で除して得た数（小数点以下５位未満の端数があるときは、その端数を四捨五入する。）</Sentence>
+                    <Sentence Num="22" WritingMode="vertical">α　当該市町村の人口に別表第１のＡに定める市町村の人口段階による補正率を乗じて得た数（整数未満の端数があるときは、その端数を四捨五入する。）と同表のＢに定める人口段階による数とを合算した数を当該市町村の人口で除して得た数に当該市町村の人口を乗じて得た数（整数未満の端数があるときは、その端数を四捨五入する。）を１００，０００で除して得た数（小数点以下５位未満の端数があるときは、その端数を四捨五入する。）</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -11034,8 +11034,8 @@
                     <Sentence Num="850" WritingMode="vertical">Ｃ<Sub>令６</Sub>＝０．００７１９</Sentence>
                     <Sentence Num="851" WritingMode="vertical">算式ⅩⅨ</Sentence>
                     <Sentence Num="852" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000260294.jpg"/></QuoteStruct></Sentence>
-                    <Sentence Num="853" WritingMode="vertical">平成２８年熊本地震及び令和６年能登半島地震による災害に係る歳入欠かん債については、<ArithFormula>α×０．４７５</ArithFormula>が０．７５０に満たないときは０．７５０とする。</Sentence>
-                    <Sentence Num="854" WritingMode="vertical">また、平成２８年度及び令和５年度において発行について同意又は許可を得た歳入欠かん債（平成２８年熊本地震及び令和６年能登半島地震による災害に係るものを除く。）については、<ArithFormula>α×０．４７５</ArithFormula>が０．５７０に満たないときは０．５７０とする。</Sentence>
+                    <Sentence Num="853" WritingMode="vertical">平成２８年熊本地震、令和６年能登半島地震及び令和６年９月２０日から同月２３日までの間の豪雨による災害に係る歳入欠かん債については、<ArithFormula>α×０．４７５</ArithFormula>が０．７５０に満たないときは０．７５０とする。</Sentence>
+                    <Sentence Num="854" WritingMode="vertical">また、平成２８年度及び令和５年度において発行について同意又は許可を得た歳入欠かん債（平成２８年熊本地震、令和６年能登半島地震及び令和６年９月２０日から同月２３日までの間の豪雨による災害に係るものを除く。）については、<ArithFormula>α×０．４７５</ArithFormula>が０．５７０に満たないときは０．５７０とする。</Sentence>
                     <Sentence Num="855" WritingMode="vertical">ただし、それぞれの災害について、同意等年度ごとに算出し、合算することとする。</Sentence>
                     <Sentence Num="856" WritingMode="vertical">算式ⅩⅨの符号</Sentence>
                     <Sentence Num="857" WritingMode="vertical">Ａ　測定単位の数値</Sentence>
@@ -17517,7 +17517,7 @@
                     <Sentence Num="1360" WritingMode="vertical">イ　令和６年度市場公募都市以外の市町村に係るもの　０．００７９２</Sentence>
                     <Sentence Num="1361" WritingMode="vertical">算式Ⅲ</Sentence>
                     <Sentence Num="1362" WritingMode="vertical"><QuoteStruct><Fig src="./pict/2JH00000260378.jpg"/></QuoteStruct></Sentence>
-                    <Sentence Num="1363" WritingMode="vertical"><ArithFormula>平成２８年熊本地震及び令和６年能登半島地震による災害に係る歳入欠かん債については、α×０．４７５が０．７５０に満たないときは０．７５０とする。また、平成２８年度及び令和５年度において発行について同意又は許可を得た歳入欠かん債（平成２８年熊本地震及び令和６年能登半島地震による災害に係るものを除く。）については、α×０．４７５が０．５７０に満たないときは０．５７０とする。ただし、それぞれの災害について、同意等年度ごとに算出し、合算することとする。</ArithFormula></Sentence>
+                    <Sentence Num="1363" WritingMode="vertical"><ArithFormula>平成２８年熊本地震、令和６年能登半島地震及び令和６年９月２０日から同月２３日までの間の豪雨による災害に係る歳入欠かん債については、α×０．４７５が０．７５０に満たないときは０．７５０とする。また、平成２８年度及び令和５年度において発行について同意又は許可を得た歳入欠かん債（平成２８年熊本地震、令和６年能登半島地震及び令和６年９月２０日から同月２３日までの間の豪雨による災害に係るものを除く。）については、α×０．４７５が０．５７０に満たないときは０．５７０とする。ただし、それぞれの災害について、同意等年度ごとに算出し、合算することとする。</ArithFormula></Sentence>
                     <Sentence Num="1364" WritingMode="vertical">算式Ⅲの符号</Sentence>
                     <Sentence Num="1365" WritingMode="vertical">Ａ　測定単位の数値</Sentence>
                     <Sentence Num="1366" WritingMode="vertical">Ｂ　災害対策基本法第１０２条第１項第１号に掲げる場合に係る経費に充てるため平成２８年度以降の各年度において発行について同意又は許可を得た地方債の当該年度における元利償還金</Sentence>
@@ -95366,7 +95366,7 @@
               <Sentence Num="1" WritingMode="vertical">（イ）　令和６年度市場公募都市以外の市町村に係るもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none" colspan="15">
-              <Sentence Num="1" WritingMode="vertical">０．３４４</Sentence>
+              <Sentence Num="1" WritingMode="vertical">０．３５４</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
