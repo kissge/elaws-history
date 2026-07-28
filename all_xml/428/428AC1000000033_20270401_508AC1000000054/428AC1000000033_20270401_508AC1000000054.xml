@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="033" Year="28" PromulgateMonth="04" PromulgateDay="27">
-  <LawNum>平成二十八年法律第三十三号</LawNum>
-  <LawBody>
-    <LawTitle Kana="ゆうじんこっきょうりとうちいきのほぜんおよびとくていゆうじんこっきょうりとうちいきにかかるちいきしゃかいのいじにかんするとくべつそちほう" Abbrev="有人国境離島法" AbbrevKana="ゆ">有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="28" Num="033" PromulgateMonth="04" PromulgateDay="27" LawType="Act"><LawNum>平成二十八年法律第三十三号</LawNum><LawBody><LawTitle Kana="ゆうじんこっきょうりとうちいきのほぜんおよびとくていゆうじんこっきょうりとうちいきにかかるちいきしゃかいのいじにかんするとくべつそちほう" Abbrev="有人国境離島法" AbbrevKana="ゆ">有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -43,12 +40,18 @@
         </Paragraph>
       </Article>
       <Article Num="3">
-        <ArticleCaption>（国の責務）</ArticleCaption>
+        <ArticleCaption>（国及び都道県の責務）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">国は、有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持のため必要な施策を策定し、及び実施する責務を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道県は、国との連携を図りつつ、有人国境離島地域の保全のため必要な施策を実施するとともに、特定有人国境離島地域に係る地域社会の維持のため必要な施策を策定し、及び実施するよう努めるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -129,11 +132,17 @@
           <Item Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">安定的な漁業経営の確保等に関する基本的な事項</Sentence>
+              <Sentence Num="1" WritingMode="vertical">滞在型観光の促進に関する基本的な事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="12">
             <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">安定的な漁業経営の確保等に関する基本的な事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する重要事項</Sentence>
             </ItemSentence>
@@ -261,11 +270,17 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">安定的な漁業経営の確保等に関する事項</Sentence>
+              <Sentence Num="1" WritingMode="vertical">滞在型観光の促進に関する事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">安定的な漁業経営の確保等に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、特定有人国境離島地域に係る地域社会の維持に関し必要な事項</Sentence>
             </ItemSentence>
@@ -378,8 +393,18 @@
         </Paragraph>
       </Article>
       <Article Num="16">
-        <ArticleCaption>（安定的な漁業経営の確保等）</ArticleCaption>
+        <ArticleCaption>（滞在型観光の促進）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、特定有人国境離島地域と他の地域との間の交流の拡大を図るため、当該特定有人国境離島地域の観光資源を活用した滞在型観光の促進について適切な配慮をするものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（安定的な漁業経営の確保等）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -387,9 +412,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="17">
+      <Article Num="18">
         <ArticleCaption>（啓発活動）</ArticleCaption>
-        <ArticleTitle>第十七条</ArticleTitle>
+        <ArticleTitle>第十八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -416,7 +441,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、平成三十九年三月三十一日限り、その効力を失う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和十九年三月三十一日限り、その効力を失う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -452,7 +477,31 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="0">
+    <SupplProvision AmendLawNum="令和八年七月一五日法律第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二条の改正規定及び附則第三条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国は、この法律の施行後五年を経過した場合において、この法律による改正後の有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
       <TableStruct>
@@ -501,6 +550,20 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">天売・焼尻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">焼尻島　天売島</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">北海道</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">羽幌町</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">奥尻島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -511,6 +574,34 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">奥尻町</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">飛島</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">飛島</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">山形県</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">酒田市</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">新島・式根島</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">新島　式根島</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">東京都</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">新島村</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -567,6 +658,20 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">青ヶ島村</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">粟島</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">粟島</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">新潟県</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">粟島浦村</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

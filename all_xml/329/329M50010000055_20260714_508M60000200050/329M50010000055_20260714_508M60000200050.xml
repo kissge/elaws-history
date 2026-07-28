@@ -47,12 +47,12 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">法第三条の農林水産省令で定める範囲は、次のとおりとする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、中央競馬として一年間に開催できる開催日数の合計は、二百八十八日（天災地変その他日本中央競馬会（以下「競馬会」という。）の責めに帰すことのできない理由により開催日において予定された一日の競走回数の二分の一以上の競走を実施することができないときは、二百八十八日に当該開催日の日数を加えた日数）を超えることができない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、中央競馬として一年間に開催できる開催日数の合計は、二百八十八日を超えることができない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">年間開催回数（毎年一月一日から十二月三十一日までに開催される回数をいう。以下この条において同じ。）については、三十六回</Sentence>
+                <Sentence Num="1" WritingMode="vertical">年間開催回数（毎年一月一日から十二月三十一日までに開催される回数をいう。以下この条及び次条において同じ。）については、三十六回</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -64,7 +64,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">一回の開催日数については、十二日（天災地変その他競馬会の責めに帰すことのできない理由により開催日において予定された一日の競走回数の二分の一以上の競走を実施することができないときは、十二日に当該開催日の日数を加えた日数）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一回の開催日数については、十二日</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -77,6 +77,40 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">日本中央競馬会（以下「競馬会」という。）は、気候の変動により人又は馬の健康に影響が及ぶおそれがある場合においては、中央競馬として一年間に実施する競走の回数が前項ただし書の日数に同項第四号の回数を乗じて得た回数を超えない限りにおいて、中央競馬の一年間の開催日数については同項ただし書の日数を、一回の開催日数については同項第三号の日数を、それぞれ超えて中央競馬を開催することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">競馬会は、天災地変その他競馬会の責めに帰すことのできない理由により競走を実施することができなくなつた場合においては、中央競馬の一年間の開催日数については第一項ただし書の日数（前項の規定により当該日数を超えて開催する場合にはその日数）に、一回の開催日数については第一項第三号の日数（前項の規定により当該日数を超えて開催する場合にはその日数）に、次に掲げる場合の区分に応じそれぞれ次に定める日数を加えた日数を超えない範囲内で中央競馬を開催することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">実施することができなかつた競走の回数が、開催日において予定された一日の競走回数の二分の一以上である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該開催日の日数を合計した日数</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">実施することができなかつた競走の回数が、開催日において予定された一日の競走回数の二分の一未満である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">一日に、当該開催日において実施することができなかつた競走の回数の一年間における合計が十二の倍数を超えるごとに一日を加えた日数</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三条の農林水産省令で定める日取りは、次の各号のいずれかに該当する日取りとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -88,7 +122,60 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前号の日取りによつて定めた開催日を天災地変その他競馬会の責めに帰すことのできない理由により同号の日取り以外の日取りに変更するときは、変更後の開催日が月曜日、火曜日又は金曜日（当該開催日の属する回の次の回の競馬の開催の前日までの間に限る。）である場合（同号の日取りによつて定めた開催日が十二月二十八日である場合にあつては、変更後の開催日がその翌日又は翌々日である場合）に限り変更後の日取り</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二項の規定により中央競馬を開催する場合において、前号の日取り以外の日取りにより開催日を定めるときは、月曜日、火曜日又は金曜日のいずれかの日取り</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一号の日取りによつて定めた開催日を天災地変その他競馬会の責めに帰すことのできない理由により同号の日取り以外の日取りに変更するときは、変更後の開催日が月曜日、火曜日又は金曜日である場合（同号の日取りによつて定めた開催日が十二月二十八日である場合にあつては、変更後の開催日がその翌日又は翌々日である場合）に限り変更後の日取り</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="2_2">
+          <ArticleCaption>（中央競馬の開催の特例）</ArticleCaption>
+          <ArticleTitle>第二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">競馬会は、農林水産大臣の承認を受けて、著しく激甚である災害に係る被害地域に存する競馬の実施のために必要な施設の周辺地域の住民に対する支援に関する事業その他の競馬の健全な発展を図るための事業であつて高度の公益性を有するものが円滑に実施されるために必要な資金を確保するための中央競馬（以下この条において「中央特別競馬」という。）として、前条第一項から第三項までの規定にかかわらず、これらの項（同条第一項第四号を除く。）に規定する開催回数の中央競馬のほか、一回の開催日数が一日の中央競馬を開催することができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、中央特別競馬の年間開催回数は二回以内とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により開催することができる中央特別競馬については、前条第四項の規定にかかわらず、当該中央特別競馬を開催する日を法第三条の農林水産省令で定める日取りとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">競馬会は、第一項の規定による承認を受けようとするときは、次に掲げる事項を記載した申請書を農林水産大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">中央特別競馬の対象となる事業</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">中央特別競馬の開催競馬場</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">中央特別競馬の年間開催回数、開催年月日及び一日の競走回数</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">中央特別競馬開催に関する収支の見込み</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1376,8 +1463,30 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">一回の開催日数については、六日（天災地変その他都道府県又は指定市町村の責めに帰すことのできない理由により開催日において予定された一日の競走回数の二分の一以上の競走を実施することができないときは、六日に当該開催日の日数を加えた日数）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一回の開催日数については、六日（天災地変その他都道府県又は指定市町村の責めに帰すことのできない理由により競走を実施することができなくなつた場合においては、六日に、次に掲げる場合の区分に応じそれぞれ次に定める日数を加えた日数）</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">実施することができなかつた競走の回数が、開催日において予定された一日の競走回数の二分の一以上である場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該開催日の日数を合計した日数</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">実施することができなかつた競走の回数が、開催日において予定された一日の競走回数の二分の一未満である場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">一日に、当該開催日において実施することができなかつた競走の回数の一年間における合計が十二の倍数を超えるごとに一日を加えた日数</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
@@ -1400,7 +1509,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前号の日取りによつて定めた開催日を天災地変その他都道府県又は指定市町村の責めに帰すことのできない理由により前号以外の日取りに変更するときは、変更後の開催日が変更に係る開催日後七日以内（当該開催日の属する回の次の回の競馬の開催の前日までの間に限る。）である場合に限り変更後の日取り</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前号の日取りによつて定めた開催日を天災地変その他都道府県又は指定市町村の責めに帰すことのできない理由により前号以外の日取りに変更するときは、変更後の日取り</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1408,8 +1517,30 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">都道府県又は指定市町村が、令第十四条第二項の規定による農林水産大臣の承認を受けて、法第二十三条の八第二項の認定競馬活性化計画に従つて競馬の事業を実施するために必要があるものとして当該都道府県の区域外又は当該指定市町村を包括する都道府県の区域外において競走を実施する場合においては、当該競走は、第一項第一号の都道府県の区域ごとの年間開催回数の計算に当たつては、当該都道府県の区域内又は当該指定市町村を包括する都道府県の区域内において実施されたものとみなす。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該競走が実施される都道府県の区域内において一年間に競走を実施することができる日数は、別表第一の上欄に掲げる都道府県の区分に応じ、それぞれ同表の下欄に掲げる回数に六日を乗じて得た日数（天災地変その他都道府県又は指定市町村の責めに帰すことのできない理由により開催日において予定された一日の競走回数の二分の一以上の競走を実施することができないときは、当該日数に当該開催日の日数を加えた日数）を超えることができない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該競走が実施される都道府県の区域内において一年間に競走を実施することができる日数は、別表第一の上欄に掲げる都道府県の区分に応じ、それぞれ同表の下欄に掲げる回数に六日を乗じて得た日数（天災地変その他都道府県又は指定市町村の責めに帰すことのできない理由により競走を実施することができなくなつた場合においては、当該日数に、次に掲げる場合の区分に応じそれぞれ次に定める日数を加えた日数）を超えることができない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">実施することができなかつた競走の回数が、開催日において予定された一日の競走回数の二分の一以上である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該開催日の日数を合計した日数</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">実施することができなかつた競走の回数が、開催日において予定された一日の競走回数の二分の一未満である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">一日に、当該開催日において実施することができなかつた競走の回数の一年間における合計が十二の倍数を超えるごとに一日を加えた日数</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="30">
@@ -2580,8 +2711,8 @@
       <Paragraph Num="4">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">都道府県又は指定市町村は、当分の間、次に掲げる事業が円滑に実施されるために必要な資金を確保するための競馬（以下「特別競馬」という。）を開催することができる。</Sentence>
-          <Sentence Num="2" WritingMode="vertical">この場合において、当該特別競馬を開催する都道府県の区域（当該特別競馬を開催する者が指定市町村である場合にあつては、当該指定市町村の区域を包括する都道府県の区域）の年間開催回数については、当該特別競馬の開催回数が別表第一の下欄に掲げる回数に追加されたものとみなす。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">都道府県又は指定市町村は、当分の間、次に掲げる事業が円滑に実施されるために必要な資金を確保するための競馬（以下「地方特別競馬」という。）を開催することができる。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この場合において、当該地方特別競馬を開催する都道府県の区域（当該地方特別競馬を開催する者が指定市町村である場合にあつては、当該指定市町村の区域を包括する都道府県の区域）の年間開催回数については、当該地方特別競馬の開催回数が別表第一の下欄に掲げる回数に追加されたものとみなす。</Sentence>
         </ParagraphSentence>
         <Item Num="1">
           <ItemTitle>一</ItemTitle>
@@ -2599,42 +2730,42 @@
       <Paragraph Num="5">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">前項の規定により開催することができる特別競馬の都道府県の区域ごとの年間開催回数は三回以内とする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">前項の規定により開催することができる地方特別競馬の都道府県の区域ごとの年間開催回数は三回以内とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="6">
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">附則第四項の規定により開催することができる特別競馬については、第二十九条第二項の規定にかかわらず、当該特別競馬を開催する日を法第二十条第一項の農林水産省令で定める日取りとする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">附則第四項の規定により開催することができる地方特別競馬については、第二十九条第二項の規定にかかわらず、当該地方特別競馬を開催する日を法第二十条第一項の農林水産省令で定める日取りとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="7">
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">都道府県又は指定市町村は、附則第四項の規定により特別競馬を開催することとしたときは、次に掲げる事項を農林水産大臣に届け出なければならない。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">都道府県又は指定市町村は、附則第四項の規定により地方特別競馬を開催することとしたときは、次に掲げる事項を農林水産大臣に届け出なければならない。</Sentence>
         </ParagraphSentence>
         <Item Num="1">
           <ItemTitle>一</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">特別競馬の対象となる事業</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地方特別競馬の対象となる事業</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="2">
           <ItemTitle>二</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">特別競馬の開催競馬場</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地方特別競馬の開催競馬場</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="3">
           <ItemTitle>三</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">特別競馬の年間開催回数及び開催年月</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地方特別競馬の年間開催回数及び開催年月</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="4">
           <ItemTitle>四</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">特別競馬開催に関する収支の見込み</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地方特別競馬開催に関する収支の見込み</Sentence>
           </ItemSentence>
         </Item>
       </Paragraph>
@@ -3374,6 +3505,30 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年七月一四日農林水産省令第五〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（中央競馬に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">令和八年一月一日からこの省令の施行の日の前日までの間において、競馬会が天災地変その他競馬会の責めに帰すことのできない理由により競走を実施することができなくなった場合については、この省令による改正後の第二条第三項に規定する競走を実施することができなくなった場合とみなして、同項及び同条第四項の規定を適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphCaption>（地方競馬に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">令和八年四月一日からこの省令の施行の日の前日までの間において、都道府県又は指定市町村が天災地変その他都道府県又は指定市町村の責めに帰すことのできない理由により競走を実施することができなくなった場合については、この省令による改正後の第二十九条第一項第二号又は第三項に規定する競走を実施することができなくなった場合とみなして、同条の規定を適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>

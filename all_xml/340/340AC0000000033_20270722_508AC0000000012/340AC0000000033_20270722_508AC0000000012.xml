@@ -636,7 +636,7 @@
                     <Sentence Num="1">棚卸資産</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1">事業所得を生ずべき事業に係る商品、製品、半製品、仕掛品、原材料その他の資産（有価証券、暗号資産（金融商品取引法第二条第四十九項に規定する暗号資産をいう。第三十三条第三項（譲渡所得）、第四十八条の二（暗号資産の譲渡原価等の計算及びその評価の方法）及び第六十九条第二項（損益通算）において同じ。）及び山林を除く。）で棚卸しをすべきものとして政令で定めるものをいう。</Sentence>
+                    <Sentence Num="1">事業所得を生ずべき事業に係る商品、製品、半製品、仕掛品、原材料その他の資産（有価証券、第四十八条の二第一項（暗号資産の譲渡原価等の計算及びその評価の方法）に規定する暗号資産及び山林を除く。）で棚卸しをすべきものとして政令で定めるものをいう。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -735,7 +735,7 @@
                     <Sentence Num="1">純損失の金額</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1">第六十九条第一項に規定する損失の金額のうち同条の規定を適用してもなお控除しきれない部分の金額をいう。</Sentence>
+                    <Sentence Num="1">第六十九条第一項（損益通算）に規定する損失の金額のうち同条の規定を適用してもなお控除しきれない部分の金額をいう。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -2118,7 +2118,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1">利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額、譲渡所得の金額（第三十三条第三項第一号又は第三号（譲渡所得）に掲げる所得に係る部分の金額に限る。）及び雑所得の金額（これらの金額につき第六十九条（損益通算）の規定の適用がある場合には、その適用後の金額）の合計額</Sentence>
+                    <Sentence Num="1">利子所得の金額、配当所得の金額、不動産所得の金額、事業所得の金額、給与所得の金額、譲渡所得の金額（第三十三条第三項第一号（譲渡所得）に掲げる所得に係る部分の金額に限る。）及び雑所得の金額（これらの金額につき第六十九条（損益通算）の規定の適用がある場合には、その適用後の金額）の合計額</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -2508,6 +2508,12 @@
                   <Item Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
+                      <Sentence Num="1">石炭鉱業年金基金法（昭和四十二年法律第百三十五号）の規定に基づく一時金で同法第十六条第一項（坑内員に関する給付）又は第十八条第一項（坑外員に関する給付）に規定する坑内員又は坑外員の退職に基因して支払われるものその他同法の規定による社会保険に関する制度に類する制度に基づく一時金で政令で定めるもの</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
                       <Sentence Num="1">確定給付企業年金法（平成十三年法律第五十号）の規定に基づいて支給を受ける一時金で同法第二十五条第一項（加入者）に規定する加入者の退職により支払われるもの（同法第三条第一項（確定給付企業年金の実施）に規定する確定給付企業年金に係る規約に基づいて拠出された掛金のうちに当該加入者の負担した金額がある場合には、その一時金の額からその負担した金額を控除した金額に相当する部分に限る。）その他これに類する一時金として政令で定めるもの</Sentence>
                     </ItemSentence>
                   </Item>
@@ -2571,12 +2577,12 @@
                 <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1">譲渡所得の金額は、次の各号に掲げる所得につき、それぞれその年中の当該所得に係る総収入金額から当該所得の基因となつた資産の取得費及びその資産の譲渡に要した費用の額の合計額を控除し、その残額の合計額（当該各号のうちいずれかの号に掲げる所得に係る総収入金額が当該所得の基因となつた資産の取得費及びその資産の譲渡に要した費用の額の合計額に満たない場合には、政令で定める順序によりその不足額に相当する金額を他の号に掲げる所得に係る残額から順次控除した後の当該他の号に掲げる所得に係る金額の合計額。以下この条において「譲渡益」という。）から譲渡所得の特別控除額を控除した金額とする。</Sentence>
+                    <Sentence Num="1">譲渡所得の金額は、次の各号に掲げる所得につき、それぞれその年中の当該所得に係る総収入金額から当該所得の基因となつた資産の取得費及びその資産の譲渡に要した費用の額の合計額を控除し、その残額の合計額（当該各号のうちいずれかの号に掲げる所得に係る総収入金額が当該所得の基因となつた資産の取得費及びその資産の譲渡に要した費用の額の合計額に満たない場合には、その不足額に相当する金額を他の号に掲げる所得に係る残額から控除した金額。以下この条において「譲渡益」という。）から譲渡所得の特別控除額を控除した金額とする。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1">資産（暗号資産を除く。次号において同じ。）の譲渡（前項の規定に該当するものを除く。同号及び第三号において同じ。）でその資産の取得の日以後五年以内にされたものによる所得（政令で定めるものを除く。）</Sentence>
+                      <Sentence Num="1">資産の譲渡（前項の規定に該当するものを除く。次号において同じ。）でその資産の取得の日以後五年以内にされたものによる所得（政令で定めるものを除く。）</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="2">
@@ -2585,45 +2591,17 @@
                       <Sentence Num="1">資産の譲渡による所得で前号に掲げる所得以外のもの</Sentence>
                     </ItemSentence>
                   </Item>
-                  <Item Num="3">
-                    <ItemTitle>三</ItemTitle>
-                    <ItemSentence>
-                      <Sentence Num="1">暗号資産の譲渡による所得</Sentence>
-                    </ItemSentence>
-                  </Item>
                 </Paragraph>
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1">前項に規定する譲渡所得の特別控除額は、次の各号に掲げる場合の区分に応じ当該各号に定める金額とする。</Sentence>
+                    <Sentence Num="1">前項に規定する譲渡所得の特別控除額は、五十万円（譲渡益が五十万円に満たない場合には、当該譲渡益）とする。</Sentence>
                   </ParagraphSentence>
-                  <Item Num="1">
-                    <ItemTitle>一</ItemTitle>
-                    <ItemSentence>
-                      <Column Num="1">
-                        <Sentence Num="1">次号に掲げる場合以外の場合</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1">五十万円</Sentence>
-                      </Column>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="2">
-                    <ItemTitle>二</ItemTitle>
-                    <ItemSentence>
-                      <Column Num="1">
-                        <Sentence Num="1">譲渡益のうち、前項第一号に掲げる所得に係る部分の金額と同項第二号に掲げる所得に係る部分の金額との合計額が五十万円に満たない場合</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence Num="1">当該合計額</Sentence>
-                      </Column>
-                    </ItemSentence>
-                  </Item>
                 </Paragraph>
                 <Paragraph Num="5">
                   <ParagraphNum>５</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1">第三項の規定により譲渡益から同項に規定する譲渡所得の特別控除額を控除する場合には、まず、当該譲渡益のうち同項第一号に掲げる所得に係る部分の金額から控除するものとし、なお控除しきれない金額があるときは、当該譲渡益のうち同項第二号に掲げる所得に係る部分の金額から控除するものとする。</Sentence>
+                    <Sentence Num="1">第三項の規定により譲渡益から同項に規定する譲渡所得の特別控除額を控除する場合には、まず、当該譲渡益のうち同項第一号に掲げる所得に係る部分の金額から控除するものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -2684,7 +2662,7 @@
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1">第三十一条第一号（退職手当等とみなす一時金）に規定する法律の規定に基づく年金その他同号に規定する制度に基づく年金（これに類する給付を含む。第三号において同じ。）で政令で定めるもの</Sentence>
+                      <Sentence Num="1">第三十一条第一号及び第二号（退職手当等とみなす一時金）に規定する法律の規定に基づく年金その他同条第一号及び第二号に規定する制度に基づく年金（これに類する給付を含む。第三号において同じ。）で政令で定めるもの</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="2">
@@ -2696,7 +2674,7 @@
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1">確定給付企業年金法の規定に基づいて支給を受ける年金（第三十一条第二号に規定する規約に基づいて拠出された掛金のうちにその年金が支給される同法第二十五条第一項（加入者）に規定する加入者（同項に規定する加入者であつた者を含む。）の負担した金額がある場合には、その年金の額からその負担した金額のうちその年金の額に対応するものとして政令で定めるところにより計算した金額を控除した金額に相当する部分に限る。）その他これに類する年金として政令で定めるもの</Sentence>
+                      <Sentence Num="1">確定給付企業年金法の規定に基づいて支給を受ける年金（第三十一条第三号に規定する規約に基づいて拠出された掛金のうちにその年金が支給される同法第二十五条第一項（加入者）に規定する加入者（同項に規定する加入者であつた者を含む。）の負担した金額がある場合には、その年金の額からその負担した金額のうちその年金の額に対応するものとして政令で定めるところにより計算した金額を控除した金額に相当する部分に限る。）その他これに類する年金として政令で定めるもの</Sentence>
                     </ItemSentence>
                   </Item>
                 </Paragraph>
@@ -3384,7 +3362,7 @@
                   <Paragraph Num="1">
                     <ParagraphNum/>
                     <ParagraphSentence>
-                      <Sentence Num="1">居住者の暗号資産につき第三十七条第一項（必要経費）の規定によりその者の事業所得の金額若しくは雑所得の金額の計算上必要経費に算入する金額又は第三十八条第一項（譲渡所得の金額の計算上控除する取得費）の規定によりその者の譲渡所得の金額の計算上取得費に算入する金額を算定する場合におけるその算定の基礎となるその年十二月三十一日において有する暗号資産の価額は、その者が暗号資産について選定した評価の方法により評価した金額（評価の方法を選定しなかつた場合又は選定した評価の方法により評価しなかつた場合には、評価の方法のうち政令で定める方法により評価した金額）とする。</Sentence>
+                      <Sentence Num="1">居住者の暗号資産につき第三十七条第一項（必要経費）の規定によりその者の事業所得の金額又は雑所得の金額の計算上必要経費に算入する金額を算定する場合におけるその算定の基礎となるその年十二月三十一日において有する暗号資産の価額は、その者が暗号資産について選定した評価の方法により評価した金額（評価の方法を選定しなかつた場合又は選定した評価の方法により評価しなかつた場合には、評価の方法のうち政令で定める方法により評価した金額）とする。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                   <Paragraph Num="2">
@@ -4984,7 +4962,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1">前項の場合において、同項に規定する損失の金額のうちに第六十二条第一項（生活に通常必要でない資産の災害による損失）に規定する資産又は暗号資産で譲渡所得の基因となるものに係る所得の金額（以下この項において「生活に通常必要でない資産に係る所得の金額」という。）の計算上生じた損失の金額があるときは、当該損失の金額のうち政令で定めるものは政令で定めるところにより他の生活に通常必要でない資産に係る所得の金額から控除するものとし、当該政令で定めるもの以外のもの及び当該控除をしてもなお控除しきれないものは生じなかつたものとみなす。</Sentence>
+                  <Sentence Num="1">前項の場合において、同項に規定する損失の金額のうちに第六十二条第一項（生活に通常必要でない資産の災害による損失）に規定する資産に係る所得の金額（以下この項において「生活に通常必要でない資産に係る所得の金額」という。）の計算上生じた損失の金額があるときは、当該損失の金額のうち政令で定めるものは政令で定めるところにより他の生活に通常必要でない資産に係る所得の金額から控除するものとし、当該政令で定めるもの以外のもの及び当該控除をしてもなお控除しきれないものは生じなかつたものとみなす。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6915,7 +6893,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1">外国の法令に基づく保険又は共済に関する制度で第三十一条第一号（退職手当等とみなす一時金）に規定する法律の規定による社会保険又は共済に関する制度に類するものに基づいて支給される年金（これに類する給付を含む。）</Sentence>
+                      <Sentence Num="1">外国の法令に基づく保険又は共済に関する制度で第三十一条第一号及び第二号（退職手当等とみなす一時金）に規定する法律の規定による社会保険又は共済に関する制度に類するものに基づいて支給される年金（これに類する給付を含む。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
@@ -12226,7 +12204,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1">第三十一条第二号（退職手当等とみなす一時金）の規定により退職手当等とみなされる一時金の支払をする場合において、同号に規定する規約に基づいて拠出された掛金のうちに同号に規定する加入者の負担した金額があるとき（これに類する場合として政令で定める場合を含む。）は、前条の規定の適用については、その退職一時金の額からその負担した金額（政令で定めるものを含む。）を控除した金額に相当する退職手当等の支払があつたものとみなす。</Sentence>
+                <Sentence Num="1">第三十一条第三号（退職手当等とみなす一時金）の規定により退職手当等とみなされる一時金の支払をする場合において、同号に規定する規約に基づいて拠出された掛金のうちに同号に規定する加入者の負担した金額があるとき（これに類する場合として政令で定める場合を含む。）は、前条の規定の適用については、その退職一時金の額からその負担した金額（政令で定めるものを含む。）を控除した金額に相当する退職手当等の支払があつたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -265789,28 +265767,6 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="54">
-        <ArticleCaption>（地方税法等の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第五十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1">旧石炭鉱業年金基金については、附則第四十三条の規定、附則第四十四条の規定（附則第一条第一項第十五号に掲げる改正規定に限る。）及び附則第四十五条から前条までの規定による改正前の次に掲げる法律の規定は、第十五号施行日から当該旧石炭鉱業年金基金の清算結了の登記の時までの間は、なおその効力を有する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:2">
-            <ItemTitle>一及び二</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1">所得税法第三十一条第二号、第三十五条第三項第一号及び別表第一石炭鉱業年金基金の項</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
       <Article Num="55">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第五十五条</ArticleTitle>
@@ -265950,16 +265906,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="4">
-        <ArticleCaption>（譲渡所得に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1">新所得税法第三十三条第三項から第五項までの規定は、附則第一条第十号に定める日の属する年分以後の所得税について適用し、同日の属する年分前の所得税については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="5">
         <ArticleCaption>（雑所得に関する経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
@@ -265976,23 +265922,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1">新所得税法第四十八条の二第一項の規定は、附則第一条第十号に定める日の属する年分以後の所得税について適用し、同日の属する年分前の所得税については、なお従前の例による。</Sentence>
+            <Sentence Num="1"/>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">附則第一条第十一号に定める日から同条第十号に定める日の前日までの間における新所得税法第四十八条の二第一項の規定の適用については、同項中「暗号資産につき」とあるのは、「暗号資産（金融商品取引法第二条第四十九項（定義）に規定する暗号資産をいう。以下この条において同じ。）につき」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="7">
-        <ArticleCaption>（損益通算に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1">新所得税法第六十九条第二項の規定は、附則第一条第十号に定める日の属する年分以後の所得税について適用し、同日の属する年分前の所得税については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -266143,6 +266079,47 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年七月二三日法律第六四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1">第一条中金融商品取引法第百九十七条第一項の改正規定、同法第百九十七条の二第一項の改正規定（同項第一号の改正規定を除く。）及び同法第二百十条第一項の改正規定並びに附則第四十一条、第四十七条及び第八十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1">公布の日から起算して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="89">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この法律（附則第一条第二号及び第四号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -266665,6 +266642,14 @@
             </TableColumn>
             <TableColumn>
               <Sentence Num="1">税理士法（昭和二十六年法律第二百三十七号）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn>
+              <Sentence Num="1">石炭鉱業年金基金</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence Num="1">石炭鉱業年金基金法</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
