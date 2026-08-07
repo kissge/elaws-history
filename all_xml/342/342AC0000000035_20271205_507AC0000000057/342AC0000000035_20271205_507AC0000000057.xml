@@ -12229,6 +12229,47 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年七月三一日法律第七五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二十四条の改正規定、第二十五条第一項の改正規定、同条の次に四条を加える改正規定、第二十六条の改正規定、第二十一条の改正規定、第二十二条第一項の改正規定、同条の次に四条を加える改正規定、第二十三条の改正規定、第十七条第一項の改正規定、第三十条第一項の改正規定、同条の次に三条を加える改正規定、第三十一条の改正規定、第三十五条第一項の改正規定、第五十三条第一項の改正規定、第七十一条の改正規定、第七十二条第一号の改正規定及び同条第二号を同条第五号とし、同条第一号の次に三号を加える改正規定並びに附則第三条、第六条から第八条まで、第十二条（登録免許税法（昭和四十二年法律第三十五号）別表第一第百五十五号の二（一）及び（二）の改正規定を除く。）及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（登録免許税法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日から施行日の前日までの間に受ける前条の規定による改正後の登録免許税法別表第一第百五十五号の二（三）に掲げる登録に係る同法の規定の適用については、同号（三）中「建築物のエネルギー消費性能の向上及び脱炭素化の促進に関する法律第六十四条の十第一項（登録建築物環境性能認証機関の登録）の登録（更新の登録を除く。）」とあるのは、「建築物のエネルギー消費性能の向上等に関する法律の一部を改正する法律（令和八年法律第七十五号）附則第六条第二項（登録建築物環境性能認証機関の登録に関する準備行為）の登録」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>　課税範囲、課税標準及び税率の表（第二条、第五条、第九条、第十条、第十三条、第十五条―第十七条、第十七条の三―第十九条、第二十三条、第二十四条、第三十四条―第三十四条の六関係）</RelatedArticleNum>
@@ -26256,7 +26297,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">百五十五の二　登録建築物エネルギー消費性能判定機関又は登録建築物エネルギー消費性能評価機関の登録</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百五十五の二　登録建築物エネルギー消費性能判定機関、登録建築物エネルギー消費性能評価機関又は登録建築物環境性能認証機関の登録</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -26271,8 +26312,19 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">（二）　建築物のエネルギー消費性能の向上等に関する法律第十七条第一項（登録建築物エネルギー消費性能評価機関の登録）の登録（更新の登録を除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（三）　建築物のエネルギー消費性能の向上及び脱炭素化の促進に関する法律第六十四条の十第一項（登録建築物環境性能認証機関の登録）の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
