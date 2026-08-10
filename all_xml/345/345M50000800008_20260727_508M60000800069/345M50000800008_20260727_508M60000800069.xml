@@ -767,25 +767,74 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新規登録、変更登録、移転登録、永久抹消登録、輸出抹消仮登録、一時抹消登録若しくは新規検査（検査対象軽自動車に係るものを除く。）に係る申請又は変更登録若しくは移転登録と同時にする自動車検査証の変更記録の申請であつて第一号様式又は第三号様式の二によるものについては、当該様式の記載事項を告示で定める方式により記録した光ディスク及び当該光ディスクに記録された内容を告示で定めるところにより記載した書面をもつて当該申請に係る申請書に代えることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">次の各号に掲げる申請（検査対象軽自動車に係るものを除く。）であつて当該各号に定める様式によるものについては、当該様式の記載事項を告示で定める方式により記録した光ディスク（告示で定める規格に適合するものに限る。以下この条において同じ。）及び当該光ディスクに記録された内容を告示で定めるところにより記載した書面をもつて当該申請に係る申請書に代えることができる。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">新規登録、変更登録、移転登録若しくは新規検査に係る申請又は自動車検査証の変更記録の申請</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第一号様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">更正の登録に係る申請</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第一号様式又は第二号様式（第二号様式だけでは記載することができない場合にあつては、第二号様式及び第十号様式）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">永久抹消登録、輸出抹消仮登録又は一時抹消登録に係る申請</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第三号様式の二</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">検査対象軽自動車に係る新規検査又は自動車検査証の変更記録の申請若しくは自動車検査証返納証明書の交付の申請であつて、軽第一号様式又は軽第四号様式によるものについては、当該様式の記載事項を告示で定める方式により記録した光ディスク及び当該光ディスクに記録された内容を告示で定めるところにより記載した書面をもつて当該申請に係る申請書に代えることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">次の各号に掲げる申請（検査対象軽自動車に係るものに限る。）については、当該各号に定める様式の記載事項を告示で定める方式により記録した光ディスク及び当該光ディスクに記録された内容を告示で定めるところにより記載した書面をもつて当該申請に係る申請書に代えることができる。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">新規検査又は自動車検査証の変更記録の申請</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">軽第一号様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">自動車検査証返納証明書の交付の申請</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">軽第四号様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前二項の光ディスクの構造は、産業標準化法（昭和二十四年法律第百八十五号）に基づく日本産業規格（以下「日本産業規格」という。）Ｘ六二八三に適合する情報交換用百二十ミリメートルリライタブル光ディスクでなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項及び第二項の光ディスクには、日本産業規格Ｘ六二八三に規定するラベルに、告示で定める事項を記載しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">光ディスクのラベルには、告示で定める事項を記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1695,6 +1744,15 @@
       </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和八年四月一日国土交通省令第四一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年七月二七日国土交通省令第六九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
