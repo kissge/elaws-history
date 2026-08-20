@@ -976,11 +976,17 @@
             <Subitem1 Num="9">
               <Subitem1Title>リ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">デジタル庁組織令（令和三年政令第百九十二号）第三条第一項に規定する公文書監理官</Sentence>
+                <Sentence Num="1" WritingMode="vertical">金融庁組織令（平成十年政令第三百九十二号）第三条第一項に規定する監督総括審議官、政策立案総括審議官若しくは審議官又は同令第四条第一項に規定する公文書監理官若しくは参事官</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="10">
               <Subitem1Title>ヌ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁組織令（令和三年政令第百九十二号）第三条第一項に規定する公文書監理官</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="11">
+              <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">会計検査院の事務総局に置かれる官房に置かれる総括審議官、公文書監理官、サイバーセキュリティ・情報化審議官又は審議官</Sentence>
               </Subitem1Sentence>
@@ -1123,7 +1129,7 @@
           <Item Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">金融庁設置法（平成十年法律第百三十号）第二十六条第一項に規定する審判官</Sentence>
+              <Sentence Num="1" WritingMode="vertical">金融庁設置法（平成十年法律第百三十号）第二十六条第一項に規定する審判官、金融庁組織令第三条第一項に規定する監督総括審議官、政策立案総括審議官及び審議官並びに同令第四条第一項に規定する公文書監理官及び参事官</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="10">
@@ -1433,7 +1439,7 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣府の事務次官、内閣府審議官、防災監、内閣府設置法第十七条第一項に規定する職、同条第五項に規定する局長、同条第六項に規定する官房の長、同法第六十一条第一項に規定する次長、同条第二項に規定する職、同法第六十二条第一項に規定する職、同法第六十三条第一項に規定する事務局長及び局長並びに同条第二項に規定する官房の長並びに国際連合平和維持活動等に対する協力に関する法律（平成四年法律第七十九号）第五条第十項に規定する事務局長及び日本学術会議法（昭和二十三年法律第百二十一号）第十六条第二項に規定する局長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣府の事務次官、内閣府審議官、防災監、内閣府設置法第十七条第一項に規定する職、同条第五項に規定する局長、同条第六項に規定する官房の長、同法第六十一条第一項に規定する次長、同法第六十二条第一項に規定する職、同法第六十三条第一項に規定する事務局長及び局長並びに同条第二項に規定する官房の長並びに国際連合平和維持活動等に対する協力に関する法律（平成四年法律第七十九号）第五条第十項に規定する事務局長及び日本学術会議法（昭和二十三年法律第百二十一号）第十六条第二項に規定する局長</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="6">
@@ -1457,7 +1463,7 @@
           <Item Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">金融庁長官及び金融庁設置法第十九条第二項に規定する事務局長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">金融庁長官、金融国際審議官及び金融庁設置法第十九条第二項に規定する事務局長</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="10">
@@ -5149,6 +5155,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年八月五日政令第二四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この政令は、令和八年八月七日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条の規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
@@ -5279,11 +5308,12 @@
               <Sentence Num="1" WritingMode="vertical">金融庁</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">総合政策局（金融庁設置法第二十六条第一項に規定する審判官は当該局に属するものとする。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">金融庁（企画市場局、銀行・証券監督局、資産運用・保険監督局、証券取引等監視委員会及び公認会計士・監査審査会を除く。）</Sentence>
               <Sentence Num="2" WritingMode="vertical">企画市場局</Sentence>
-              <Sentence Num="3" WritingMode="vertical">監督局</Sentence>
-              <Sentence Num="4" WritingMode="vertical">証券取引等監視委員会に置かれる事務局</Sentence>
-              <Sentence Num="5" WritingMode="vertical">公認会計士・監査審査会に置かれる事務局</Sentence>
+              <Sentence Num="3" WritingMode="vertical">銀行・証券監督局</Sentence>
+              <Sentence Num="4" WritingMode="vertical">資産運用・保険監督局</Sentence>
+              <Sentence Num="5" WritingMode="vertical">証券取引等監視委員会に置かれる事務局</Sentence>
+              <Sentence Num="6" WritingMode="vertical">公認会計士・監査審査会に置かれる事務局</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5506,10 +5536,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">金融庁</Sentence>
+              <Sentence Num="1" WritingMode="vertical">金融庁企画市場局　銀行・証券監督局　資産運用・保険監督局　証券取引等監視委員会　公認会計士・監査審査会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">金融庁長官　金融国際審議官</Sentence>
+              <Sentence Num="1" WritingMode="vertical">金融庁長官　金融国際審議官　金融庁の次長</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
