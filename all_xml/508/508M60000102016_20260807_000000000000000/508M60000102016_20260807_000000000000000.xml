@@ -1,0 +1,1793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="08" Num="016" PromulgateMonth="08" PromulgateDay="07" LawType="MinisterialOrdinance"><LawNum>令和八年内閣府・厚生労働省令第十六号</LawNum><LawBody><LawTitle Kana="ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいにじょうだいいっこうにきていするひょうじゅんかたいしょうじむをさだめるせいれいにきていするでじたるちょうれいそうむしょうれいでさだめるじむをさだめるめいれいだいじゅうにじょうかくごうにきていするじむのしょりにかかるしすてむにひつようとされるきのうとうにかんするひょうじゅんかきじゅんをさだめるめいれい" Abbrev="" AbbrevKana="">地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第十二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める命令</LawTitle>
+    <EnactStatement>地方公共団体情報システムの標準化に関する法律（令和三年法律第四十号）第六条第一項の規定に基づき、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第十二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める命令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令は、地方公共団体情報システムの標準化に関する法律（以下この条において「法」という。）第六条第一項の規定に基づき、地方公共団体情報システム（法第二条第一項に規定する地方公共団体情報システムをいう。以下同じ。）のうち、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令（令和四年デジタル庁・総務省令第一号）第十二条各号に規定する事務の処理に係るシステム（以下「障害者福祉システム」という。）に必要とされる機能等（法第二条第二項に規定する機能等（法第五条第二項第三号イからニまでに掲げる事項を除く。）をいう。以下同じ。）に関する標準化基準（法第五条第二項第四号に規定する標準化基準をいう。以下同じ。）を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（用語の意義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">機能要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち地方公共団体情報システムの標準化のための統一的な基準を定めるべき情報システムの機能に関し要件を規定したものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">帳票要件の標準</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">機能等のうち地方公共団体情報システムの標準化のための統一的な基準を定めるべき電磁的記録を出力する書面の様式に関し要件を規定したものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">実装区分</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムに必ず実装しなければならない機能、地方公共団体情報システムに実装するか否かについて当該システムを開発する事業者が判断する機能又は地方公共団体情報システムに実装してはならない機能の別をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">適合基準日</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地方公共団体情報システムが標準化基準に適合していなければならない日をいう。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">なお、適合基準日の定めは、地方公共団体情報システムが適合基準日前に標準化基準に適合することを妨げるものではなく、また、適合基準日以降引き続き適合することを要するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（障害者福祉システムに必要とされる機能等に関する標準化基準の構成）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">障害者福祉システムに必要とされる機能等に関する標準化基準は、機能要件の標準及び帳票要件の標準で構成する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（機能要件の標準）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">障害者福祉システムの機能要件の標準は次のとおりとし、その細目並びに実装区分及び適合基準日については内閣総理大臣及び厚生労働大臣が定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者福祉法（昭和二十四年法律第二百八十三号）第十五条に規定する身体障害者手帳に関する事務の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳（知的障害者の福祉の充実を図るため、児童相談所又は知的障害者更生相談所において知的障害と判定された者に対して支給される手帳で、その者の障害の程度その他の事項の記載があるものをいう。）に関する事務の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号）第四十五条に規定する精神障害者保健福祉手帳に関する事務の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当等の支給に関する法律（昭和三十九年法律第百三十四号）第三条に規定する特別児童扶養手当、第十七条に規定する障害児福祉手当、同法第二十六条の二に規定する特別障害者手当及び国民年金法等の一部を改正する法律（昭和六十年法律第三十四号）附則第九十七条第一項の規定による福祉手当（以下「経過的福祉手当」という。）に関する事務の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">児童福祉法（昭和二十二年法律第百六十四号）第二十一条の五の三から第二十一条の五の九まで及び第二十一条の五の十一から第二十一条の五の十三までの規定による障害児通所給付費、特例障害児通所給付費及び高額障害児通所給付費、同法第二十一条の五の二十九の規定による肢体不自由児通所医療費、同法第二十四条の二十六の規定による障害児相談支援給付費並びに同法第二十四条の二十七の規定による特例障害児相談支援給付費の支給並びに障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号）第六条に規定する自立支援給付の支給に関する事務の受給者及び給付の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者の日常生活及び社会生活を総合的に支援するための法律第五条第二十五項に規定する自立支援医療に関する事務の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者の日常生活及び社会生活を総合的に支援するための法律第五条第二十六項に規定する補装具に関する事務の管理に係る機能を備えること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（帳票要件の標準）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">障害者福祉システムの帳票要件の標準は、次に掲げる書面を出力するものとし、その細目並びに実装区分及び適合基準日その他書面の出力に際し必要な事項については内閣総理大臣及び厚生労働大臣が定める。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">宛名シール</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">窓空き宛名</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">窓空き宛名・問合せ先</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付（再交付）について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付（再交付）決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付申請却下決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳の再認定について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳居住地等変更通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者更生指導台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者更生指導台帳（指導記録）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者更生指導台帳（更生医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者更生指導台帳（育成医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者更生指導台帳（補装具）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者更生指導台帳の送付について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付申請者一覧（進達）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="17">
+            <ItemTitle>十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳（紙様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="18">
+            <ItemTitle>十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="19">
+            <ItemTitle>十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳再交付申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="20">
+            <ItemTitle>二十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者死亡通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="21">
+            <ItemTitle>二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者居住地等変更届書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="22">
+            <ItemTitle>二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳返還届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="23">
+            <ItemTitle>二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付証明書発行願</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="24">
+            <ItemTitle>二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳の再認定について（再通知）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="25">
+            <ItemTitle>二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳返還命令書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="26">
+            <ItemTitle>二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳の再認定について（通知）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="27">
+            <ItemTitle>二十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳交付（再交付）について（郵送）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="28">
+            <ItemTitle>二十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">身体障害者手帳取下届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="29">
+            <ItemTitle>二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="30">
+            <ItemTitle>三十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付（再交付）について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="31">
+            <ItemTitle>三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付（再交付）決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="32">
+            <ItemTitle>三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付申請却下決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="33">
+            <ItemTitle>三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳再判定のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="34">
+            <ItemTitle>三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">知的障害者居住地変更通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="35">
+            <ItemTitle>三十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">知的障害者更生指導台帳</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="36">
+            <ItemTitle>三十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">知的障害者更生指導台帳（指導記録）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="37">
+            <ItemTitle>三十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">知的障害者更生指導台帳の送付について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="38">
+            <ItemTitle>三十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付申請者一覧（進達）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="39">
+            <ItemTitle>三十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳（紙様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="40">
+            <ItemTitle>四十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="41">
+            <ItemTitle>四十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳再交付・再判定申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="42">
+            <ItemTitle>四十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳記載事項変更届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="43">
+            <ItemTitle>四十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳返還届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="44">
+            <ItemTitle>四十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳判定資料提供申出書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="45">
+            <ItemTitle>四十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付証明書発行願</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="46">
+            <ItemTitle>四十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳交付（再交付）について（郵送）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="47">
+            <ItemTitle>四十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">知的障害者死亡通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="48">
+            <ItemTitle>四十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療育手帳取下届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="49">
+            <ItemTitle>四十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳交付証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="50">
+            <ItemTitle>五十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳交付（再交付）について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="51">
+            <ItemTitle>五十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳交付決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="52">
+            <ItemTitle>五十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="53">
+            <ItemTitle>五十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳更新のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="54">
+            <ItemTitle>五十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳交付申請者一覧（進達）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="55">
+            <ItemTitle>五十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">進達伺書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="56">
+            <ItemTitle>五十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳（紙様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="57">
+            <ItemTitle>五十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳交付申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="58">
+            <ItemTitle>五十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳記載事項変更届・再発行申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="59">
+            <ItemTitle>五十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳返還届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="60">
+            <ItemTitle>六十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳障害年金等に係る同意書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="61">
+            <ItemTitle>六十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳交付証明書発行願</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="62">
+            <ItemTitle>六十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳交付（再交付）について（郵送）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="63">
+            <ItemTitle>六十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳及び自立支援医療受給者証（精神通院）更新のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="64">
+            <ItemTitle>六十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者手帳取下届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="65">
+            <ItemTitle>六十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">認定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="66">
+            <ItemTitle>六十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">認定請求却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="67">
+            <ItemTitle>六十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">再認定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="68">
+            <ItemTitle>六十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給開始決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="69">
+            <ItemTitle>六十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給停止通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="70">
+            <ItemTitle>七十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給停止解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="71">
+            <ItemTitle>七十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">一時差止通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="72">
+            <ItemTitle>七十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">一時差止解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="73">
+            <ItemTitle>七十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">資格喪失通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="74">
+            <ItemTitle>七十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">診断書の提出について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="75">
+            <ItemTitle>七十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">所得状況届の提出に関するご案内</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="76">
+            <ItemTitle>七十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">所得状況関係連名簿</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="77">
+            <ItemTitle>七十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別障害者手当現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="78">
+            <ItemTitle>七十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害児福祉手当現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="79">
+            <ItemTitle>七十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">経過的福祉手当現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="80">
+            <ItemTitle>八十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害児福祉手当（福祉手当）所得状況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="81">
+            <ItemTitle>八十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別障害者手当所得状況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="82">
+            <ItemTitle>八十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">所得状況届督促通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="83">
+            <ItemTitle>八十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者台帳（表面）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="84">
+            <ItemTitle>八十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者台帳（裏面）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="85">
+            <ItemTitle>八十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">被災非該当通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="86">
+            <ItemTitle>八十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別障害者手当、障害児福祉手当及び経過的福祉手当に関する支払通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="87">
+            <ItemTitle>八十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別障害者手当、障害児福祉手当及び経過的福祉手当に関する支出内訳書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="88">
+            <ItemTitle>八十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別障害者手当、障害児福祉手当及び経過的福祉手当に関する口座振込依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="89">
+            <ItemTitle>八十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者台帳の送付依頼について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="90">
+            <ItemTitle>九十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害児福祉手当認定請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="91">
+            <ItemTitle>九十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別障害者手当認定請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="92">
+            <ItemTitle>九十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別障害者手当、障害児福祉手当及び経過的福祉手当に関する住所・氏名・支払方法変更届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="93">
+            <ItemTitle>九十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">資格喪失届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="94">
+            <ItemTitle>九十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">未支払手当請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="95">
+            <ItemTitle>九十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害状態再審査（診断）請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="96">
+            <ItemTitle>九十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害程度判定協議依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="97">
+            <ItemTitle>九十七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">（介護給付費</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">訓練等給付費</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">特定障害者特別給付費</Sentence>
+              </Column>
+              <Column Num="4">
+                <Sentence Num="1" WritingMode="vertical">地域相談支援給付費）支給申請書兼利用者負担額減額・免除等申請書</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="98">
+            <ItemTitle>九十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害児通所給付費支給申請書兼利用者負担額減額・免除等申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="99">
+            <ItemTitle>九十九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">（介護給付費</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">訓練等給付費</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">特定障害者特別給付費</Sentence>
+              </Column>
+              <Column Num="4">
+                <Sentence Num="1" WritingMode="vertical">地域相談支援給付費）支給変更申請書兼利用者負担額減額・免除等変更申請書</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="100">
+            <ItemTitle>百</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害児通所給付費支給変更申請書兼利用者負担額減額・免除等変更申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="101">
+            <ItemTitle>百一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">計画相談支援給付費・障害児相談支援給付費支給申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="102">
+            <ItemTitle>百二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">計画相談支援・障害児相談支援依頼（変更）届出書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="103">
+            <ItemTitle>百三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">申請内容変更届出書（介護給付費等）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="104">
+            <ItemTitle>百四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">申請内容変更届出書（障害児通所給付費）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="105">
+            <ItemTitle>百五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者証再交付申請書（介護給付費等）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="106">
+            <ItemTitle>百六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者証再交付申請書（障害児通所給付費）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="107">
+            <ItemTitle>百七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担上限額管理事務依頼（変更）届出書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="108">
+            <ItemTitle>百八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">（介護給付費</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">訓練等給付費</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">特定障害者特別給付費</Sentence>
+              </Column>
+              <Column Num="4">
+                <Sentence Num="1" WritingMode="vertical">地域相談支援給付費）支給（給付）決定通知書兼利用者負担額減額・免除等決定通知書</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="109">
+            <ItemTitle>百九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害児通所給付費支給決定通知書兼利用者負担額減額・免除等決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="110">
+            <ItemTitle>百十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">計画相談支援給付費・障害児相談支援給付費支給（却下）通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="111">
+            <ItemTitle>百十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害支援区分認定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="112">
+            <ItemTitle>百十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">却下決定通知書（介護給付費等）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="113">
+            <ItemTitle>百十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">却下決定通知書（障害児通所給付費）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="114">
+            <ItemTitle>百十四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">（介護給付費</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">訓練等給付費</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">特定障害者特別給付費</Sentence>
+              </Column>
+              <Column Num="4">
+                <Sentence Num="1" WritingMode="vertical">地域相談支援給付費）支給変更決定通知書兼利用者負担額減額・免除等変更決定通知書</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="115">
+            <ItemTitle>百十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害児通所給付費支給変更決定通知書兼利用者負担額減額・免除等変更決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="116">
+            <ItemTitle>百十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">モニタリング期間変更通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="117">
+            <ItemTitle>百十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害支援区分変更認定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="118">
+            <ItemTitle>百十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害支援区分認定証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="119">
+            <ItemTitle>百十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害福祉サービス受給者証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="120">
+            <ItemTitle>百二十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害福祉サービス受給者証（プレプリント様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="121">
+            <ItemTitle>百二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地域相談支援受給者証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="122">
+            <ItemTitle>百二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">療養介護医療受給者証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="123">
+            <ItemTitle>百二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">通所受給者証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="124">
+            <ItemTitle>百二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">通所受給者証（プレプリント様式）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="125">
+            <ItemTitle>百二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">肢体不自由児通所医療受給者証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="126">
+            <ItemTitle>百二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給（給付）決定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="127">
+            <ItemTitle>百二十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給決定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="128">
+            <ItemTitle>百二十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">計画相談支援給付費・障害児相談支援給付費支給決定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="129">
+            <ItemTitle>百二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害福祉サービス申請手続きのお知らせ（十八歳到達）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="130">
+            <ItemTitle>百三十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">介護保険要介護（要支援）認定申請のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="131">
+            <ItemTitle>百三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害支援区分更新のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="132">
+            <ItemTitle>百三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給期間更新のお知らせ（介護給付費等）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="133">
+            <ItemTitle>百三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担適用期間更新のお知らせ（介護給付費等）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="134">
+            <ItemTitle>百三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">サービス等利用計画案・障害児支援利用計画案提出依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="135">
+            <ItemTitle>百三十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">支給期間更新のお知らせ（障害児通所給付費）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="136">
+            <ItemTitle>百三十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者負担適用期間更新のお知らせ（障害児通所給付費）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="137">
+            <ItemTitle>百三十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">認定調査依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="138">
+            <ItemTitle>百三十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">医師意見書作成依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="139">
+            <ItemTitle>百三十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">医師意見書作成料請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="140">
+            <ItemTitle>百四十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村審査会対象者一覧</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="141">
+            <ItemTitle>百四十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村審査会対象者一覧（事務局用）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="142">
+            <ItemTitle>百四十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">世帯状況・収入等申告書（介護給付費等）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="143">
+            <ItemTitle>百四十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">世帯状況・収入等申告書（障害児通所給付費）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="144">
+            <ItemTitle>百四十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害支援区分認定結果の情報提供について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="145">
+            <ItemTitle>百四十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村審査会開催通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="146">
+            <ItemTitle>百四十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受診依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="147">
+            <ItemTitle>百四十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費の給付要件確認に関する届出書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="148">
+            <ItemTitle>百四十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高額障害福祉サービス等給付費の代理受領に係る委任状</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="149">
+            <ItemTitle>百四十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費の代理受領に係る委任状（生活保護）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="150">
+            <ItemTitle>百五十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第一項に規定する高額障害福祉サービス等給付費給付のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="151">
+            <ItemTitle>百五十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費給付のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="152">
+            <ItemTitle>百五十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高額障害児（通所・入所）給付費給付のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="153">
+            <ItemTitle>百五十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第一項に規定する高額障害福祉サービス等給付費支給申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="154">
+            <ItemTitle>百五十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費支給申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="155">
+            <ItemTitle>百五十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高額障害児（通所・入所）給付費支給申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="156">
+            <ItemTitle>百五十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第一項に規定する高額障害福祉サービス等給付費支給（不支給）決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="157">
+            <ItemTitle>百五十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費支給（不支給）決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="158">
+            <ItemTitle>百五十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高額障害児（通所・入所）給付費支給（不支給）決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="159">
+            <ItemTitle>百五十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害福祉サービス等に関する口座振込依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="160">
+            <ItemTitle>百六十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害福祉サービス等に関する支払通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="161">
+            <ItemTitle>百六十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害福祉サービス等に関する支出内訳書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="162">
+            <ItemTitle>百六十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第一項に規定する高額障害福祉サービス等給付費給付のお知らせ（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="163">
+            <ItemTitle>百六十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費給付のお知らせ（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="164">
+            <ItemTitle>百六十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高額障害児（通所・入所）給付費給付のお知らせ（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="165">
+            <ItemTitle>百六十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第一項に規定する高額障害福祉サービス等給付費支給申請書（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="166">
+            <ItemTitle>百六十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費支給申請書（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="167">
+            <ItemTitle>百六十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高額障害児（通所・入所）給付費支給申請書（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="168">
+            <ItemTitle>百六十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第一項に規定する高額障害福祉サービス等給付費支給（不支給）決定通知書（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="169">
+            <ItemTitle>百六十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">令第四十七条第六項に規定する高額障害福祉サービス等給付費支給（不支給）決定通知書（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="170">
+            <ItemTitle>百七十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高額障害児（通所・入所）給付費支給（不支給）決定通知書（サービス利用年月別明細）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="171">
+            <ItemTitle>百七十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証（更生医療）（表面）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="172">
+            <ItemTitle>百七十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証（更生医療）（裏面）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="173">
+            <ItemTitle>百七十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）に関する判定依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="174">
+            <ItemTitle>百七十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）に関する調査書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="175">
+            <ItemTitle>百七十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）支給認定決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="176">
+            <ItemTitle>百七十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）に関する却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="177">
+            <ItemTitle>百七十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療費（更生医療）支給認定申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="178">
+            <ItemTitle>百七十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）に関する自己負担上限額管理票</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="179">
+            <ItemTitle>百七十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）支給変更決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="180">
+            <ItemTitle>百八十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）支給認定決定のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="181">
+            <ItemTitle>百八十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証等記載事項変更届（更生医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="182">
+            <ItemTitle>百八十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証（更生医療）の更新について（お知らせ）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="183">
+            <ItemTitle>百八十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（更生医療）支給認定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="184">
+            <ItemTitle>百八十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証再交付申請書（更生医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="185">
+            <ItemTitle>百八十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証返還届（更生医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="186">
+            <ItemTitle>百八十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証（育成医療）（表面）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="187">
+            <ItemTitle>百八十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証（育成医療）（裏面）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="188">
+            <ItemTitle>百八十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（育成医療）支給認定決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="189">
+            <ItemTitle>百八十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（育成医療）に関する却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="190">
+            <ItemTitle>百九十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療費（育成医療）支給認定申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="191">
+            <ItemTitle>百九十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（育成医療）に関する自己負担上限額管理票</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="192">
+            <ItemTitle>百九十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">審査依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="193">
+            <ItemTitle>百九十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（育成医療）に関する調査書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="194">
+            <ItemTitle>百九十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（育成医療）支給変更決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="195">
+            <ItemTitle>百九十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（育成医療）支給認定決定のお知らせ</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="196">
+            <ItemTitle>百九十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証等記載事項変更届（育成医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="197">
+            <ItemTitle>百九十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（育成医療）支給認定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="198">
+            <ItemTitle>百九十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証再交付申請書（育成医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="199">
+            <ItemTitle>百九十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証返還届（育成医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="200">
+            <ItemTitle>二百</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">進達リスト</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="201">
+            <ItemTitle>二百一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="202">
+            <ItemTitle>二百二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（精神通院医療）に関する自己負担上限額管理票</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="203">
+            <ItemTitle>二百三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（精神通院医療）に関する却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="204">
+            <ItemTitle>二百四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">受給者証の交付について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="205">
+            <ItemTitle>二百五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証（精神通院医療）の更新について（お知らせ）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="206">
+            <ItemTitle>二百六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（精神通院医療）に関する調査書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="207">
+            <ItemTitle>二百七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療費（精神通院医療）支給認定申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="208">
+            <ItemTitle>二百八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証等記載事項変更届（精神通院医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="209">
+            <ItemTitle>二百九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（精神通院医療）支給認定決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="210">
+            <ItemTitle>二百十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（精神通院医療）支給変更決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="211">
+            <ItemTitle>二百十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療（精神通院医療）支給認定取消通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="212">
+            <ItemTitle>二百十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証再交付申請書（精神通院医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="213">
+            <ItemTitle>二百十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">自立支援医療受給者証返還届（精神通院医療）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="214">
+            <ItemTitle>二百十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具に関する調査書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="215">
+            <ItemTitle>二百十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具に関する判定依頼書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="216">
+            <ItemTitle>二百十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">判定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="217">
+            <ItemTitle>二百十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具費支給決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="218">
+            <ItemTitle>二百十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具費支給券（補装具の購入及び修理の支給決定時並びに借受けの支給決定時における当該借受け期間の一月目に用いるもの）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="219">
+            <ItemTitle>二百十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具費支給券（補装具の借受けの支給決定時における当該借受け期間（一月目及び最終月を除く。）に用いるもの）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="220">
+            <ItemTitle>二百二十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具費支給券（補装具の借受けの支給決定時における当該借受け期間の最終月に用いるもの）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="221">
+            <ItemTitle>二百二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">却下決定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="222">
+            <ItemTitle>二百二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">代理受領に係る補装具費支払請求書兼委任状</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="223">
+            <ItemTitle>二百二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具費支給決定のお知らせ（事業者向け）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="224">
+            <ItemTitle>二百二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具費（購入・借受け・修理）支給申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="225">
+            <ItemTitle>二百二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">補装具費支給廃止通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="226">
+            <ItemTitle>二百二十六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">市町村</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">特別児童扶養手当受給資格者名簿（表面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="227">
+            <ItemTitle>二百二十七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">市町村</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">特別児童扶養手当受給資格者名簿（裏面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="228">
+            <ItemTitle>二百二十八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">指定都市</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">特別児童扶養手当受給資格者台帳（表面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="229">
+            <ItemTitle>二百二十九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">指定都市</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">特別児童扶養手当受給資格者台帳（裏面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="230">
+            <ItemTitle>二百三十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当関係書類提出書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="231">
+            <ItemTitle>二百三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当住所・支払金融機関変更届処理済報告書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="232">
+            <ItemTitle>二百三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当障害状態再審査（診断）請求書の提出について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="233">
+            <ItemTitle>二百三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当所得状況届の提出について</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="234">
+            <ItemTitle>二百三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当所得状況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="235">
+            <ItemTitle>二百三十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当現況届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="236">
+            <ItemTitle>二百三十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当認定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="237">
+            <ItemTitle>二百三十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当支給停止通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="238">
+            <ItemTitle>二百三十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当請求却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="239">
+            <ItemTitle>二百三十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当額改定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="240">
+            <ItemTitle>二百四十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当額改定請求却下通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="241">
+            <ItemTitle>二百四十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当資格喪失通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="242">
+            <ItemTitle>二百四十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当受給資格者移管通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="243">
+            <ItemTitle>二百四十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当有期認定通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="244">
+            <ItemTitle>二百四十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当認定請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="245">
+            <ItemTitle>二百四十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当額改定請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="246">
+            <ItemTitle>二百四十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当額改定届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="247">
+            <ItemTitle>二百四十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当資格喪失届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="248">
+            <ItemTitle>二百四十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">未支払特別児童扶養手当請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="249">
+            <ItemTitle>二百四十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当記載事項変更届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="250">
+            <ItemTitle>二百五十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当転出届</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="251">
+            <ItemTitle>二百五十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当障害状態再審査（診断）請求書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="252">
+            <ItemTitle>二百五十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当支給停止解除通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="253">
+            <ItemTitle>二百五十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当所得状況届督促通知書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="254">
+            <ItemTitle>二百五十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当支払対象者一覧表</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="255">
+            <ItemTitle>二百五十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当受給証明書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="256">
+            <ItemTitle>二百五十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別児童扶養手当受給証明申請書</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（障害者福祉システムに実装してはならない機能）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">障害者福祉システムには、前二条の規定及びこれらの規定に基づき厚生労働大臣が実装してはならない機能として定めるもの並びに前二条の規定及びこれらの規定に基づき厚生労働大臣が定めるもの以外は、実装してはならないものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（機能要件の標準及び帳票要件の標準に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に地方公共団体が利用する障害者福祉システムで、この命令の施行の日（以下「施行日」という。）以降機能要件の標準又は帳票要件の標準に適合することが困難なものとして内閣総理大臣及び厚生労働大臣が認める地方公共団体の障害者福祉システムに係る機能要件の標準又は帳票要件の標準の経過措置については、内閣総理大臣及び厚生労働大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に障害者福祉システムを利用する地方公共団体で、施行日以降第六条の規定により実装してはならない機能を有する障害者福祉システムを利用するものとして内閣総理大臣及び厚生労働大臣が認めるものについては、同条の規定は、令和十一年四月一日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（要件に適合することが困難なシステムに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に地方公共団体が利用する障害者福祉システムで、機能要件の標準又は帳票要件の標準に適合することが困難なものとして内閣総理大臣及び厚生労働大臣が認めるものについては、この命令の規定は、施行日から起算して五年を超えない範囲内において内閣総理大臣及び厚生労働大臣が定める日から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
