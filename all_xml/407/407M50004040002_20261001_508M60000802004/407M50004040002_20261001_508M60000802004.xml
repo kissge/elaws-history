@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="07" Num="002" PromulgateMonth="3" PromulgateDay="13" LawType="MinisterialOrdinance"><LawNum>平成七年大蔵省・建設省令第二号</LawNum><LawBody><LawTitle Kana="ふどうさんとくていきょうどうじぎょうほうしこうきそく" Abbrev="不特法施行規則" AbbrevKana="ふ">不動産特定共同事業法施行規則</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="07" Num="002" PromulgateMonth="03" PromulgateDay="13" LawType="MinisterialOrdinance"><LawNum>平成七年大蔵省・建設省令第二号</LawNum><LawBody><LawTitle Kana="ふどうさんとくていきょうどうじぎょうほうしこうきそく" Abbrev="不特法施行規則" AbbrevKana="ふ">不動産特定共同事業法施行規則</LawTitle>
     <EnactStatement>不動産特定共同事業法（平成六年法律第七十七号）及び不動産特定共同事業法施行令（平成六年政令第四百十三号）の規定に基づき、並びにこれらの法令を実施するため、不動産特定共同事業法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -448,7 +448,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第三条第一項の規定により主務大臣又は都道府県知事の許可を受けようとする者が法第五条及び前条第二項の規定により提出すべき許可申請書及びその添付書類の部数は、正本一部及びその写し四部とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第三条第一項の規定により主務大臣又は都道府県知事の許可を受けようとする者が法第五条及び前条第二項の規定により提出すべき許可申請書及びその添付書類の部数は、正本一部及び写し一部とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1241,7 +1241,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定により提出すべき廃業等届出書の部数は、正本一部及びその写し四部とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により提出すべき廃業等届出書の部数は、正本一部及び写し一部とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2389,6 +2389,12 @@
               <Sentence Num="1" WritingMode="vertical">不動産特定共同事業者が、電気通信回線に接続している電子計算機を利用してその業務を営む場合において、事業参加者が当該不動産特定共同事業者を他の者と誤認することを防止するための適切な措置を講じていないと認められる状況</Sentence>
             </ItemSentence>
           </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">不動産特定共同事業者又は委託特例事業者が対象不動産の売却等を行う場合（対象不動産を売却するときは、利害関係人に対して対象不動産を売却する場合に限る。）において、利害関係を有しない不動産鑑定士（不動産の鑑定評価に関する法律（昭和三十八年法律第百五十二号）の規定により、不動産の鑑定評価に係る業務をすることができない者を除く。第四十三条第二項第二号イ及び第三号イにおいて同じ。）による対象不動産の鑑定評価の評価額に相当する額での対象不動産の売却等をするために必要な措置を講じていないと認められる状況</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="41">
@@ -2424,7 +2430,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">法第二十四条第一項の主務省令で定める事項は、次に掲げるものとする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、対象不動産変更型契約に基づき不動産特定共同事業を行う場合にあっては、第十六号から第十九号まで及び第三十号に掲げるものは、変更前（追加募集に係る対象不動産の変更にあっては、当該変更の直後）の対象不動産に関するものに限る。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、対象不動産変更型契約に基づき不動産特定共同事業を行う場合にあっては、第十三号ニ及びホ、第十六号から第十九号まで並びに第三十号に掲げるものは、変更前（追加募集に係る対象不動産の変更にあっては、当該変更の直後）の対象不動産に関するものに限る。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2501,8 +2507,38 @@
           <Item Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">利害関係人との間の不動産特定共同事業に係る重要な取引の有無並びに当該取引がある場合には当該利害関係人と不動産特定共同事業者との関係、当該利害関係人の商号若しくは名称又は氏名、住所又は所在地、取引の額及び取引の内容</Sentence>
+              <Sentence Num="1" WritingMode="vertical">利害関係人との間の不動産特定共同事業に係る重要な取引の有無及び当該取引がある場合には、次の事項</Sentence>
             </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該利害関係人と不動産特定共同事業者との関係</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該利害関係人の商号若しくは名称又は氏名及び住所又は所在地</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該取引の額及び内容</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該取引が対象不動産の取得又は自己の財産若しくは他の不動産特定共同事業契約に係る財産を対象不動産とするものである場合には、当該取引の額を妥当と判断する根拠</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該取引が対象不動産の賃貸借である場合にあっては、当該賃貸借に係る賃料の額を妥当と判断する根拠</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Num="14">
             <ItemTitle>十四</ItemTitle>
@@ -2582,6 +2618,42 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
+          <Item Num="16_2">
+            <ItemTitle>十六の二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">対象不動産が宅地の造成又は建物の建築に関する工事の完了前のものであるときは、次の事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該工事の概要</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該工事に関し必要とされる法第十八条第一項に規定する許可及び確認並びに令第七条各号に掲げる許可等の処分（第五十条第十号において「開発許可等の処分」という。）の有無並びに当該処分があった場合には、当該処分の概要及び年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該工事に関する資金計画</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該工事の着手及び完了の予定時期</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該工事の完了時における形状、構造その他宅地建物取引業法施行規則（昭和三十二年建設省令第十二号）第十六条に規定する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
           <Item Num="17">
             <ItemTitle>十七</ItemTitle>
             <ItemSentence>
@@ -2614,42 +2686,36 @@
             <Subitem1 Num="5">
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">対象不動産が宅地の造成又は建築に関する工事の完了前のものであるときは、その完了時における形状、構造その他宅地建物取引業法施行規則（昭和三十二年建設省令第十二号）第十六条に規定する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">対象不動産（建物である場合に限る。）が建物の区分所有等に関する法律（昭和三十七年法律第六十九号）第二条第一項に規定する区分所有権の目的であるものであるときは、宅地建物取引業法施行規則第十六条の二各号に掲げるもの</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="6">
               <Subitem1Title>ヘ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">対象不動産（建物である場合に限る。）が建物の区分所有等に関する法律（昭和三十七年法律第六十九号）第二条第一項に規定する区分所有権の目的であるものであるときは、宅地建物取引業法施行規則第十六条の二各号に掲げるもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">宅地建物取引業法施行規則第十六条の四の二各号に掲げる措置が講じられているときは、その概要</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="7">
               <Subitem1Title>ト</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">宅地建物取引業法施行規則第十六条の四の二各号に掲げる措置が講じられているときは、その概要</Sentence>
+                <Sentence Num="1" WritingMode="vertical">宅地建物取引業法施行規則第十六条の四の三第一号から第六号までに掲げる事項（対象不動産が宅地である場合にあっては、同条第一号から第三号の二までに掲げるものに限る。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="8">
               <Subitem1Title>チ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">宅地建物取引業法施行規則第十六条の四の三第一号から第六号までに掲げる事項（対象不動産が宅地である場合にあっては、同条第一号から第三号までに掲げるものに限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">対象不動産の状況に関する第三者による調査の有無並びに当該調査を受けた場合にはその結果の概要及び調査者の氏名又は名称</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="9">
               <Subitem1Title>リ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">対象不動産の状況に関する第三者による調査の有無並びに当該調査を受けた場合にはその結果の概要及び調査者の氏名又は名称</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="10">
-              <Subitem1Title>ヌ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">対象不動産が既存の建物であるときは、次に掲げる事項</Sentence>
               </Subitem1Sentence>
               <Subitem2 Num="1">
                 <Subitem2Title>（１）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">建物状況調査（宅地建物取引業法第三十四条の二第一項第四号に規定する建物状況調査をいい、実施後一年を経過していないものに限る。）を実施しているかどうか、及びこれを実施している場合におけるその結果の概要</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">建物状況調査（宅地建物取引業法第三十四条の二第一項第四号に規定する建物状況調査をいい、実施後一年（鉄筋コンクリート造又は鉄骨鉄筋コンクリート造の共同住宅等（住宅の品質確保の促進等に関する法律施行規則（平成十二年建設省令第二十号）第一条第四号に規定する共同住宅等をいう。）にあっては、二年）を経過していないものに限る。）を実施しているかどうか、及びこれを実施している場合におけるその結果の概要</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Num="2">
@@ -2663,7 +2729,7 @@
           <Item Num="18">
             <ItemTitle>十八</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">不動産特定共同事業契約に基づく出資の目的である財産が対象不動産である不動産特定共同事業以外の不動産特定共同事業を行う場合にあっては、対象不動産の価格及び当該価格の算定方法（当該算定について算式がある場合においては当該算式を含む。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">不動産特定共同事業契約に基づく出資の目的である財産が対象不動産である不動産特定共同事業以外の不動産特定共同事業を行う場合にあっては、対象不動産の価格、当該価格の算定方法（当該算定について算式がある場合にあっては、当該算式を含む。）及び当該価格を妥当と判断する根拠</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="19">
@@ -2753,7 +2819,7 @@
           <Item Num="20">
             <ItemTitle>二十</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">出資を伴う契約にあっては次の事項</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出資を伴う契約にあっては、次の事項</Sentence>
             </ItemSentence>
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -2777,6 +2843,12 @@
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">払込又は引渡しの期日及び方法</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">金銭をもって出資の目的とする契約にあっては、出資される金銭の使途</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -3046,22 +3118,340 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">不動産特定共同事業者は、法第二十四条第一項の規定による説明をする場合において、前項第十六号、第十八号、第二十三号、第三十一号及び第三十二号に掲げる事項については、少なくとも、次に掲げる事項を説明するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">不動産特定共同事業者は、法第二十四条第一項の規定による説明をする場合において、前項第十三号ハからホまで、第十六号、第十八号、第二十二号、第二十三号、第三十一号及び第三十二号に掲げる事項については、少なくとも、次に掲げる事項を説明するものとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">前項第十六号イのその他の対象不動産を特定するために必要な事項については、自己の固有財産、利害関係人が有する資産を対象不動産とする場合にはその旨</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項第十三号ハに掲げる事項について、当該取引が対象不動産の賃貸借である場合にあっては、次に掲げる事項</Sentence>
             </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">賃料の額及び支払期日等の賃貸借の条件並びにそれらの変更に関する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">損害賠償額の予定又は違約金に関する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">責任及び免責に関する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">契約期間に関する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">更新及び解除に関する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">借地借家法（平成三年法律第九十号）その他当該取引に係る法令に関する事項の概要</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">前項第十八号に掲げる対象不動産の価格については、不動産鑑定士による鑑定評価の有無並びに当該鑑定評価を受けた場合には鑑定評価の結果及び方法の概要（当該鑑定評価の年月日を含む。）並びに鑑定評価を行った者の氏名</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項第十三号ニに掲げる事項について次に掲げる事項</Sentence>
             </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">利害関係を有しない不動産鑑定士による当該対象不動産の鑑定評価の有無</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価を受けた場合には、当該鑑定評価の結果及び方法の概要（当該鑑定評価の年月日を含む。）並びに当該鑑定評価を行った者の氏名</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価を受けていない場合には、次に掲げる事項</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価を受けていない理由</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">利害関係人でない売主が過去に行った当該対象不動産の売買のうち直近のものに関する次に掲げる事項（（ｉｉ）及び（ｉｉｉ）に掲げる事項については、やむを得ない事情により開示できない場合にあっては、その旨）</Sentence>
+                </Subitem2Sentence>
+                <Subitem3 Num="1">
+                  <Subitem3Title>（ｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">売買価格</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="2">
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">売買契約の締結の日</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="3">
+                  <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該売主の商号若しくは名称又は氏名</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+              </Subitem2>
+              <Subitem2 Num="3">
+                <Subitem2Title>（３）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該対象不動産の近傍同種の不動産その他の対象不動産と条件の類似する不動産の売買価格若しくはその水準又は公示価格、路線価若しくは販売公表価格</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価の評価額又はハ（３）に掲げる価格若しくは水準と前項第十三号ハに掲げる額との差額があるときは、その差額及び当該差額を妥当と判断する理由</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第十三号ホに掲げる事項について次に掲げる事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">利害関係を有しない不動産鑑定士による賃料に関する鑑定評価の有無</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価を受けた場合には、当該鑑定評価の結果及び方法の概要（当該鑑定評価の年月日を含む。）並びに当該鑑定評価を行った者の氏名</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価を受けていない場合には、次に掲げる事項</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価を受けていない理由</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該対象不動産の近傍同種の不動産その他の対象不動産と条件の類似する不動産の賃料又はその水準</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる鑑定評価の評価額又はハ（２）に掲げる賃料若しくは水準と第一号イに掲げる賃料の額との差額があるときは、その差額及び当該差額を妥当と判断する理由</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第十六号イのその他の対象不動産を特定するために必要な事項については、自己の固有財産、利害関係人が有する資産を対象不動産とする場合にはその旨</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第十八号に掲げる対象不動産の価格及び当該価格を妥当と判断する根拠について次に掲げる事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">不動産鑑定士による鑑定評価の有無</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該鑑定評価を受けた場合には、当該鑑定評価の結果及び方法の概要（当該鑑定評価の年月日を含む。）並びに当該鑑定評価を行った者の氏名</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該鑑定評価を受けていない場合には、次に掲げる事項</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該鑑定評価を受けていない理由</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二号ハ（３）に掲げる価格若しくは水準又は宅地建物取引業者がその根拠を明らかにして述べた対象不動産の価格に対する意見</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第二十二号に掲げる事項について次に掲げる事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">事業参加者に対し分配すべき収益又は利益の額の算定の方法並びにその分配の時期及び方法に関する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">不動産特定共同事業契約の締結又は更新について勧誘をするに際し、その相手方に対し、収益又は利益の分配により得ることが見込まれる額（以下この号において「分配見込額」という。）の表示をした場合にあっては、次に掲げる事項</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該分配見込額及びその算定の基礎となる期間</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">（１）に掲げる期間が当該不動産特定共同事業契約の期間より長い場合にあっては、当該不動産特定共同契約の期間での分配見込額及びその算定の基礎となる期間</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="3">
+                <Subitem2Title>（３）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該分配見込額が予想に基づくものであり、不確実である旨</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="4">
+                <Subitem2Title>（４）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該分配見込額の算定の根拠となる不動産取引ごとに次に掲げる事項</Sentence>
+                </Subitem2Sentence>
+                <Subitem3 Num="1">
+                  <Subitem3Title>（ｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">不動産取引の額</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="2">
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">対象不動産の所在、地番、用途、土地面積、延べ床面積その他の対象不動産を特定するために必要な事項</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="3">
+                  <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">不動産取引の取引態様の別</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="4">
+                  <Subitem3Title>（ｉｖ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将来行われることが見込まれる不動産取引を算定の根拠とする場合にあっては、当該不動産取引が予想に基づくものである旨</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+              </Subitem2>
+              <Subitem2 Num="5">
+                <Subitem2Title>（５）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">（４）の不動産取引が行われたことの根拠又は行われることが見込まれると判断した根拠</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">不動産特定共同事業契約の締結又は更新について勧誘をするに際し、その相手方に対し、分配見込額の事業参加者の出資額に対する割合その他これに類するもの（以下この号において「利回り等」という。）の表示をした場合にあっては、次に掲げる事項</Sentence>
+              </Subitem1Sentence>
+              <Subitem2 Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該利回り等及びその算定方法（当該算定について算式がある場合にあっては、当該算式を含む。）</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該利回り等の算定の基礎となる分配見込額及びその算定の基礎となる期間</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="3">
+                <Subitem2Title>（３）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">（２）に掲げる期間が当該不動産特定共同事業契約の期間より長い場合にあっては、当該不動産特定共同事業契約の期間での分配見込額及びその算定の基礎となる期間並びに当該分配見込額に基づき算定した利回り等</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="4">
+                <Subitem2Title>（４）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該利回り等が予想に基づくものであり、不確実である旨</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Num="5">
+                <Subitem2Title>（５）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該分配見込額の算定の根拠となる不動産取引ごとに次に掲げる事項</Sentence>
+                </Subitem2Sentence>
+                <Subitem3 Num="1">
+                  <Subitem3Title>（ｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">不動産取引の額</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="2">
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">対象不動産の所在、地番、用途、土地面積、延べ床面積その他の対象不動産を特定するために必要な事項</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="3">
+                  <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">不動産取引の取引態様の別</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+                <Subitem3 Num="4">
+                  <Subitem3Title>（ｉｖ）</Subitem3Title>
+                  <Subitem3Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将来行われることが見込まれる不動産取引を算定の根拠とする場合にあっては、当該不動産取引が予想に基づくものである旨</Sentence>
+                  </Subitem3Sentence>
+                </Subitem3>
+              </Subitem2>
+              <Subitem2 Num="6">
+                <Subitem2Title>（６）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">（５）の不動産取引が行われたことの根拠又は行われることが見込まれると判断した根拠</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">前項第二十三号に掲げる事項について次に掲げる事項</Sentence>
             </ItemSentence>
@@ -3084,8 +3474,8 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Num="4">
-            <ItemTitle>四</ItemTitle>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">前項第三十一号に掲げる事項について次に掲げる事項</Sentence>
             </ItemSentence>
@@ -3108,8 +3498,8 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Num="5">
-            <ItemTitle>五</ItemTitle>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">前項第三十二号に掲げる事項について次に掲げる事項</Sentence>
             </ItemSentence>
@@ -3580,7 +3970,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">不動産特定共同事業者は、一年を超えない期間ごとに、不動産特定共同事業契約に係る財産の管理の状況について次に掲げる事項を記載した法第二十八条第二項に規定する報告書（第五十六条第一項第五号において「財産管理報告書」という。）を作成し、これを事業参加者に対し交付しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">不動産特定共同事業者は、一年を超えない期間ごとに、不動産特定共同事業契約に係る財産の管理の状況について次に掲げる事項を記載した法第二十八条第二項に規定する報告書（第五号及び第十号ヘ並びに第五十六条第一項第五号において「財産管理報告書」という。）を作成し、これを事業参加者に対し交付しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -3629,6 +4019,54 @@
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">第一号の期間における第四十三条第一項第十六号ニに掲げる事項</Sentence>
             </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">金銭をもって出資の目的とする契約にあっては、第一号の期間において支出した金銭の額及び使途</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">対象不動産が宅地の造成又は建物の建築に関する工事の完了前のものであるときは、次に掲げる事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一号の期間の満了の日における既に着手した工事の有無並びに既に着手した工事がある場合には、当該工事の概要、当該工事に着手した年月日及びその完了の予定年月日又はその完了の年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一号の期間の満了の日における今後着手する予定の工事の有無並びに今後着手する予定の工事がある場合には、当該工事の概要並びに着手及び完了の予定年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一号の期間の満了の日までにされた当該工事に関し必要とされる開発許可等の処分の有無並びに当該開発許可等の処分があった場合には、その概要及び年月日</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一号の期間の満了の日までに当該工事に関し必要とされる開発許可等の処分が取り消された場合その他その効力が失われた場合には、その旨、その効力が失われた年月日及びその理由</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一号の期間の満了の日における当該工事に係る資金計画</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">イからホまでに掲げる事項について、直近に交付された財産管理報告書の内容から変更がある場合には、当該変更の内容及び理由</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
         </Paragraph>
       </Article>
@@ -3799,7 +4237,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第三十一条の二第三項の主務省令で定める事項は、第四十三条第一項第一号、第二号、第六号、第八号、第十六号、第十八号、第二十号、第二十三号、第二十六号、第二十八号、第二十九号、第三十一号、第三十二号、第三十五号、第三十七号（対象不動産の追加取得の方針に係る部分に限る。）、第四十三号及び第四十五号に掲げる事項とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第三十一条の二第三項の主務省令で定める事項は、第四十三条第一項第一号、第二号、第六号、第八号、第十三号、第十六号、第十六号の二、第十八号、第二十号、第二十二号、第二十三号、第二十六号、第二十八号、第二十九号、第三十一号、第三十二号、第三十五号、第三十七号（対象不動産の追加取得の方針に係る部分に限る。）、第四十三号及び第四十五号に掲げる事項とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -4370,7 +4808,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第二十条から第四十条まで、第四十二条第一項、第四十三条（同条第一項第四号を除く。）、第四十四条から第四十九条第一項まで及び第五十条から第五十五条までの規定は、小規模不動産特定共同事業者が行う小規模不動産特定共同事業について準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、第二十条中「第十六条第一項」とあるのは「第五十条第二項において準用する法第十六条第一項」と、「別記様式第八号」とあるのは「別記様式第十八号」と、第二十一条第一項中「第十七条第一項」とあるのは「第五十条第二項において準用する法第十七条第一項」と、第二十一条第二項及び第三項中「第十七条第二項」とあるのは「第五十条第二項において準用する法第十七条第二項」と、第三十七条第一項中「第十八条第三項」とあるのは「第五十条第二項において準用する法第十八条第三項」と、第三十八条中「第二十一条第四項」とあるのは「第五十条第二項において準用する法第二十一条第四項」と、第三十九条中「第二十一条の二において準用する金融商品取引法第三十九条第三項」とあるのは「第五十条第二項において準用する準用金融商品取引法第三十九条第三項」と、第四十条中「第二十一条の二において準用する金融商品取引法第四十条第二号」とあるのは「第五十条第二項において準用する準用金融商品取引法第四十条第二号」と、第四十二条第一項中「第二十二条の二第一項及び第二項」とあるのは「第五十条第二項において準用する法第二十二条の二第一項」と、第四十三条中「第二十四条第一項」とあるのは「第五十条第二項において準用する法第二十四条第一項」と、同条第一項第二号及び第四十七条第二項第三号中「許可番号（届出特定信託会社にあっては、法第六十七条第三項の規定による届出の受理番号、届出特別金融機関等にあっては、令第十七条第三項の規定による届出の受理番号）」とあるのは「登録番号」と、第四十三条第一項第六号中「第一号事業」とあるのは「法第二条第六項第一号に掲げる行為に係る事業」と、「三年」とあるのは「二年」と、同項第十一号中「第二条第三項各号」とあるのは「第二条第三項第一号又は第二号」と、同項第二十六号ヘ、第四十七条第三項及び第五十四条第三号中「第二十五条第一項」とあるのは「第五十条第二項において準用する法第二十五条第一項」と、第四十三条第一項第二十六号ト中「第二十六条第二項及び第三項」とあるのは「第五十条第二項において準用する法第二十六条第二項及び第三項」と、同条第二項第三号イ中「第二十七条」とあるのは「第五十条第二項において準用する法第二十七条」と、第四十四条第一項及び第四十六条第一項中「第二十四条第三項」とあるのは「第五十条第二項において準用する法第二十四条第三項」と、第四十四条第一項中「第二十五条第三項」とあるのは「第五十条第二項において準用する法第二十五条第三項」と、第四十五条及び第四十六条第一項中「第八条第一項」とあるのは「第十二条において準用する令第八条第一項」と、第四十七条第一項中「第二十五条第一項第七号」とあるのは「第五十条第二項において準用する法第二十五条第一項第七号」と、同項第六号中「第二十六条第一項」とあるのは「第五十条第二項において準用する法第二十六条第一項」と、同条第二項中「第二十五条第一項第八号」とあるのは「第五十条第二項において準用する法第二十五条第一項第八号」と、第四十八条中「第二十六条の二ただし書」とあるのは「第五十条第二項において準用する法第二十六条の二ただし書」と、第五十条中「第二十八条第二項」とあるのは「第五十条第二項において準用する法第二十八条第二項」と、第五十一条第一項及び第二項中「第二十九条」とあるのは「第五十条第二項において準用する法第二十九条」と、同条第一項中「第三号事業」とあるのは「小規模第二号事業」と、第五十二条第二項中「第三十条第二項」とあるのは「第五十条第二項において準用する法第三十条第二項」と、第五十三条中「第三十一条の二第一項」とあるのは「第五十条第二項において準用する法第三十一条の二第一項」と、同条第一項第二号中「許可番号」とあるのは「登録番号」と、第五十四条中「第三十一条の二第二項」とあるのは「第五十条第二項において準用する法第三十一条の二第二項」と、第五十五条第一項及び第四項中「第三十一条の二第三項」とあるのは「第五十条第二項において準用する法第三十一条の二第三項」と読み替えるものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、第二十条中「第十六条第一項」とあるのは「第五十条第二項において準用する法第十六条第一項」と、「別記様式第八号」とあるのは「別記様式第十八号」と、第二十一条第一項中「第十七条第一項」とあるのは「第五十条第二項において準用する法第十七条第一項」と、第二十一条第二項及び第三項中「第十七条第二項」とあるのは「第五十条第二項において準用する法第十七条第二項」と、第三十七条第一項中「第十八条第三項」とあるのは「第五十条第二項において準用する法第十八条第三項」と、第三十八条中「第二十一条第四項」とあるのは「第五十条第二項において準用する法第二十一条第四項」と、第三十九条中「第二十一条の二において準用する金融商品取引法第三十九条第三項」とあるのは「第五十条第二項において準用する準用金融商品取引法第三十九条第三項」と、第四十条中「第二十一条の二において準用する金融商品取引法第四十条第二号」とあるのは「第五十条第二項において準用する準用金融商品取引法第四十条第二号」と、第四十二条第一項中「第二十二条の二第一項及び第二項」とあるのは「第五十条第二項において準用する法第二十二条の二第一項」と、第四十三条中「第二十四条第一項」とあるのは「第五十条第二項において準用する法第二十四条第一項」と、同条第一項第二号及び第四十七条第二項第三号中「許可番号（届出特定信託会社にあっては、法第六十七条第三項の規定による届出の受理番号、届出特別金融機関等にあっては、令第十七条第三項の規定による届出の受理番号）」とあるのは「登録番号」と、第四十三条第一項第六号中「第一号事業」とあるのは「法第二条第六項第一号に掲げる行為に係る事業」と、「三年」とあるのは「二年」と、同項第十一号中「第二条第三項各号」とあるのは「第二条第三項第一号又は第二号」と、同項第十六号の二ロ中「第十八条第一項」とあるのは「第五十条第二項において準用する法第十八条第一項」と、同項第二十六号ヘ、第四十七条第三項及び第五十四条第三号中「第二十五条第一項」とあるのは「第五十条第二項において準用する法第二十五条第一項」と、第四十三条第一項第二十六号ト中「第二十六条第二項及び第三項」とあるのは「第五十条第二項において準用する法第二十六条第二項及び第三項」と、同条第二項第七号イ中「第二十七条」とあるのは「第五十条第二項において準用する法第二十七条」と、第四十四条第一項及び第四十六条第一項中「第二十四条第三項」とあるのは「第五十条第二項において準用する法第二十四条第三項」と、第四十四条第一項中「第二十五条第三項」とあるのは「第五十条第二項において準用する法第二十五条第三項」と、第四十五条及び第四十六条第一項中「第八条第一項」とあるのは「第十二条において準用する令第八条第一項」と、第四十七条第一項中「第二十五条第一項第七号」とあるのは「第五十条第二項において準用する法第二十五条第一項第七号」と、同項第六号中「第二十六条第一項」とあるのは「第五十条第二項において準用する法第二十六条第一項」と、同条第二項中「第二十五条第一項第八号」とあるのは「第五十条第二項において準用する法第二十五条第一項第八号」と、第四十八条中「第二十六条の二ただし書」とあるのは「第五十条第二項において準用する法第二十六条の二ただし書」と、第五十条中「第二十八条第二項」とあるのは「第五十条第二項において準用する法第二十八条第二項」と、第五十一条第一項及び第二項中「第二十九条」とあるのは「第五十条第二項において準用する法第二十九条」と、同条第一項中「第三号事業」とあるのは「小規模第二号事業」と、第五十二条第二項中「第三十条第二項」とあるのは「第五十条第二項において準用する法第三十条第二項」と、第五十三条中「第三十一条の二第一項」とあるのは「第五十条第二項において準用する法第三十一条の二第一項」と、同条第一項第二号中「許可番号」とあるのは「登録番号」と、第五十四条中「第三十一条の二第二項」とあるのは「第五十条第二項において準用する法第三十一条の二第二項」と、第五十五条第一項及び第四項中「第三十一条の二第三項」とあるのは「第五十条第二項において準用する法第三十一条の二第三項」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5777,6 +6215,48 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年八月二一日内閣府・国土交通省令第四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第九条及び第十七条第二項の改正規定は、令和八年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令による改正後の不動産特定共同事業法施行規則（以下「新規則」という。）第四十条（新規則第七十一条において準用する場合を含む。）の規定は、令和八年十二月一日以後に締結される不動産特定共同事業契約（不動産特定共同事業法（次条において「法」という。）第二条第三項に規定する不動産特定共同事業契約をいう。）に係る対象不動産の売却等（不動産特定共同事業法施行規則第十一条第一項第四号に規定する対象不動産の売却等をいう。）について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に法第三条第一項の許可又は法第四十一条第一項の登録を受けている者についての新規則第四十三条、第五十条及び第五十五条第一項（これらの規定を新規則第七十一条において準用する場合を含む。）の規定の適用については、令和八年十一月三十日までの間は、なお従前の例によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現にあるこの命令による改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
@@ -5791,7 +6271,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000074932.pdf"/>
+          <Fig src="./pict/2FH00000086976.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5800,7 +6280,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048319.pdf"/>
+          <Fig src="./pict/2FH00000086977.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5809,7 +6289,7 @@
       <RelatedArticleNum>（第十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048320.pdf"/>
+          <Fig src="./pict/2FH00000086978.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5818,7 +6298,7 @@
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048321.pdf"/>
+          <Fig src="./pict/2FH00000086979.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5827,7 +6307,7 @@
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048322.pdf"/>
+          <Fig src="./pict/2FH00000086986.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5836,7 +6316,7 @@
       <RelatedArticleNum>（第十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048323.pdf"/>
+          <Fig src="./pict/2FH00000086995.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5872,7 +6352,7 @@
       <RelatedArticleNum>（第五十一条、第五十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048327.pdf"/>
+          <Fig src="./pict/2FH00000086996.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5899,7 +6379,7 @@
       <RelatedArticleNum>（第六十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000074934.pdf"/>
+          <Fig src="./pict/2FH00000086997.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5908,7 +6388,7 @@
       <RelatedArticleNum>（第六十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048330.pdf"/>
+          <Fig src="./pict/2FH00000086998.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5917,7 +6397,7 @@
       <RelatedArticleNum>（第六十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048331.pdf"/>
+          <Fig src="./pict/2FH00000086999.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5926,7 +6406,7 @@
       <RelatedArticleNum>（第六十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048332.pdf"/>
+          <Fig src="./pict/2FH00000087000.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5935,7 +6415,7 @@
       <RelatedArticleNum>（第六十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000048333.pdf"/>
+          <Fig src="./pict/2FH00000087001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
