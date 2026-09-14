@@ -132,7 +132,9 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">予防接種を行うに当たっては、あらかじめ被接種者又はその保護者に対して、予防接種の有効性及び安全性並びに副反応について当該者の理解を得るよう、適切な説明を行い、文書により同意を得なければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">予防接種を行うに当たっては、あらかじめ被接種者又はその保護者に対して、予防接種の有効性及び安全性並びに副反応について当該者の理解を得るよう、適切な説明を行い、同意を得なければならない。</Sentence>
+              <Sentence Function="main" Num="2" WritingMode="vertical">この場合において、予防接種を行う者は、被接種者又はその保護者による同意の有無を電磁的記録（電磁的方式（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式をいう。）で作られる記録をいう。）として記録しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="3" WritingMode="vertical">ただし、被接種者又はその保護者が書面により同意の有無を示したときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1696,6 +1698,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、令和八年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年九月一日厚生労働省令第一三六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
