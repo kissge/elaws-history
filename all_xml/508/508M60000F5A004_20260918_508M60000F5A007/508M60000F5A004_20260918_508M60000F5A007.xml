@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="08" Num="004" PromulgateMonth="05" PromulgateDay="28" LawType="MinisterialOrdinance"><LawNum>令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第四号</LawNum><LawBody><LawTitle Kana="じゅうようでんしけいさんきにたいするふせいなこういによるひがいのぼうしにかんするほうりつにもとづくとくべつしゃかいきばんじぎょうしゃによるとくていしんがいじしょうとうのほうこくとうにかんするめいれい" Abbrev="" AbbrevKana="">重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令</LawTitle>
+    <EnactStatement>重要電子計算機に対する不正な行為による被害の防止に関する法律（令和七年法律第四十二号）第四条第一項及び第三項並びに第五条並びに重要電子計算機に対する不正な行為による被害の防止に関する法律施行令（令和八年政令第四十七号）第一条第三項第二号及び第三号の規定に基づき、重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（重要電子計算機）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">重要電子計算機に対する不正な行為による被害の防止に関する法律施行令（以下この条において「令」という。）第一条第三項第二号の主務省令で定める電子計算機は、特定重要設備（経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（令和四年法律第四十三号。以下「経済安全保障推進法」という。）第五十条第一項に規定する特定重要設備をいう。以下同じ。）と電気通信回線（公衆の用に供されているものを除く。）で直接又は間接に接続されている電子計算機（令第一条第三項第一号に掲げるものを除く。）であって、次のいずれかに該当するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要設備に電磁的記録（重要電子計算機に対する不正な行為による被害の防止に関する法律（以下「法」という。）第二条第八項第二号に規定する電磁的記録をいう。以下同じ。）を送信する機能を有する電子計算機であって、当該電磁的記録を送信するに当たり、経路制御（電気通信信号を送信するに当たり、宛先に至る経路のうちから、経路の状況等に応じて最も適切と判断したものに電気通信信号を送信すること（送信することのできる二以上の経路のうちから、宛先ごとに一に定められた経路に電気通信信号を送信することを除く。）をいう。次号において同じ。）がされないもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">ルーティング機器（電気通信信号を送受信する機器であって、経路制御を行う機能を有するものをいう。以下この号において同じ。）のうち、他のルーティング機器を介さずに一号電子計算機（令第一条第三項第三号に規定する一号電子計算機をいう。以下同じ。）に電気通信信号を送信するもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">ファイアウォール等（電気通信信号を送受信する機器であって、受信した電気通信信号のうち当該電気通信信号に使用されるプログラム（法第二条第二項に規定するプログラムをいう。以下この号並びに次条第一項第一号及び第四項において同じ。）又は当該プログラムを識別するために割り当てられる番号、記号その他の符号が一定の基準に適合するもののみを当該機器に接続されている他の電子計算機に送信する機能を有するものをいう。以下この号及び次号において同じ。）であって、他のファイアウォール等を介さずに一号電子計算機に電気通信信号を送信するもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要設備に送信される電磁的記録を一時的に保存する機能を有する電子計算機であって、ファイアウォール等を介してのみ当該電磁的記録を送受信することができるもの及び当該ファイアウォール等</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げるもののいずれかを保存する電子計算機（一時的に保存するものを除く。）</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">一号電子計算機及びこの条に規定する電子計算機（このイに掲げるものを保存するものを除く。）の総体に係るネットワーク構成図（これらの電子計算機のアイ・ピー・アドレス（電気通信事業法（昭和五十九年法律第八十六号）第百六十四条第二項第三号に規定するアイ・ピー・アドレスをいう。第七号及び次項第二号において同じ。）又は通信の当事者が電気通信信号の送信先となる電気通信設備（同法第二条第二号に規定する電気通信設備をいう。第七号及び同項第二号において同じ。）を識別するために使用する番号、記号その他の符号が記載されているものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">一号電子計算機又はこの項に規定する電子計算機（このロに掲げるものを保存するもの及び次号に規定するものを除く。）のうちの一の電子計算機の利用に係る全ての識別符号（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号。以下「不正アクセス禁止法」という。）第二条第二項に規定する識別符号をいう。第四条第一項第一号ロ、ハ及びホにおいて同じ。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">一号電子計算機又はこの項に規定する電子計算機（前号ロに掲げるものを保存するもの及びこの号に規定するものを除く。）に係るアクセス制御機能（不正アクセス禁止法第二条第三項に規定するアクセス制御機能をいう。以下同じ。）を有する電子計算機</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">アイ・ピー・アドレスを割り当てられた電気通信設備である電子計算機</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令第一条第三項第三号の主務省令で定める電子計算機は、一号電子計算機による情報処理の用に供される電磁的記録を作成するために用いられる電子計算機（一号電子計算機及び前項各号に規定するものを除く。）であって、当該電磁的記録が一定の期間ごとに当該一号電子計算機に入力されるもののうち、次のいずれかに該当するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">次号に規定する電子計算機に係るアクセス制御機能を有する電子計算機</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">アイ・ピー・アドレスを割り当てられた電気通信設備である電子計算機</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（特定重要電子計算機の届出）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第四条第一項の規定による届出は、次に掲げる特定重要電子計算機について、当該特定重要電子計算機を導入した日から四月以内に、様式第一による届出書を特別社会基盤事業所管大臣に提出して行うものとする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該特定重要電子計算機が一の特別社会基盤事業者若しくは複数の特別社会基盤事業者のうち、親法人等（経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律施行令（令和四年政令第三百九十四号）第十条第三項に規定する親法人等をいう。以下この項において同じ。）が同一であるもの若しくは一方の者が他方の者の親法人等であるものの事業の用に供されるものである場合又は広く一般に使用されているものとして特別社会基盤事業所管大臣及び内閣総理大臣が指定するものである場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">アプライアンス（特定の用途に供されるプログラムが組み込まれた特定重要電子計算機であって、当該プログラム以外のプログラムが通常組み込まれないものをいう。次号において同じ。）に係るハードウェア</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">アプライアンス以外の特定重要電子計算機に組み込まれたオペレーティングシステム、ミドルウェア及びアプリケーション</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">特別社会基盤事業者が経済安全保障推進法第五十条第一項の規定による指定を受けた日から二月以内に導入した特定重要電子計算機（当該指定に係る特定社会基盤事業（同項に規定する特定社会基盤事業をいう。第四条第二項第一号において同じ。）の用に供される特定重要設備に係るものに限る。）に対する前項の規定の適用については、同項中「当該特定重要電子計算機を導入した日から四月以内」とあるのは、「経済安全保障推進法第五十条第一項の規定による指定を受けた日から六月以内」とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該特別社会基盤事業者が経済安全保障推進法第五十三条第一項各号のいずれかに掲げる事由により経済安全保障推進法第五十条第一項の主務省令で定める基準に該当することとなった者である場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">経済安全保障推進法第五十条第一項の特定重要設備を定める主務省令の改正により新たに特定重要電子計算機となった電子計算機であって、当該特定重要電子計算機となった日から二月以内に導入したものに対する第一項の規定の適用については、同項中「当該特定重要電子計算機を導入した日から四月以内」とあるのは、「経済安全保障推進法第五十条第一項の特定重要設備を定める主務省令の改正により新たに特定重要電子計算機となった日から六月以内」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">特定重要設備又は構成設備（経済安全保障推進法第五十二条第二項第二号ハの主務省令で定める設備、機器、装置又はプログラムをいう。以下この項及び次条第三項において同じ。）である特定重要電子計算機に係る第一項の届出書については、経済安全保障推進法第五十二条第一項又は第十一項の規定による当該特定重要設備の導入の届出を行っている場合（当該特定重要設備又は当該構成設備の名称が当該特定重要電子計算機の製品名（クラウド・コンピューティング・サービス（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第二十三条第一項に規定するクラウド・コンピューティング・サービスをいう。以下この項において同じ。）の使用に係る特定重要電子計算機にあっては、当該クラウド・コンピューティング・サービスの名称。次項第四号及び次条第三項において同じ。）と同一であり、かつ、当該特定重要設備又は当該構成設備の供給者の名称又は氏名が当該特定重要電子計算機の製造者名（クラウド・コンピューティング・サービスの使用に係る特定重要電子計算機にあっては、当該クラウド・コンピューティング・サービスを提供する事業者名。次項第五号において同じ。）と同一である場合に限る。）には、当該届出に係る経済安全保障推進法第五十二条第一項に規定する導入等計画書（経済安全保障推進法の規定による変更をしたときは、その変更後のもの）又は同条第十一項に規定する緊急導入等届出書（経済安全保障推進法の規定による変更をしたときは、その変更後のもの）及び特別社会基盤事業者の連絡先を記載した書面の提出をもって、当該特定重要電子計算機に係る第一項の規定による届出書の提出に代えることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第四条第一項の主務省令で定める事項は、次に掲げる事項とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別社会基盤事業者の概要</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要電子計算機に係る特定重要設備の区分</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要電子計算機の区分</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要電子計算機の製品名</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要電子計算機の製造者名</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（変更の届出）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第四条第三項の規定による変更の届出は、当該変更の日から四月以内に、様式第二による届出書を特別社会基盤事業所管大臣に提出して行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三項及び第四項の規定は、前項の変更の届出について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「当該特定重要電子計算機を導入した日」とあるのは、「当該変更の日」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">構成設備である特定重要電子計算機の製品名に係る第一項の届出書については、経済安全保障推進法第五十四条第四項（同条第五項において準用する場合を含む。）の規定による当該構成設備に関する事項の変更の内容の報告を行っている場合（当該構成設備の名称が当該特定重要電子計算機の製品名と同一である場合に限る。）には、当該報告をもって、当該届出書の提出に代えることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第四条第三項ただし書の主務省令で定める軽微な変更は、前条第五項第一号に掲げる事項のうち、特別社会基盤事業者の名称の変更とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（特定侵害事象等の報告）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第五条の主務省令で定める事象は、次の各号に掲げる特定重要電子計算機の区分に応じ、当該各号に定める事象とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">一号電子計算機並びに第一条第一項第一号及び第二号に規定する特定重要電子計算機</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる事象</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">正当な理由がないのに、特定重要電子計算機に対し、特別社会基盤事業者が当該特定重要電子計算機を使用するに際してその意図に沿うべき動作をさせず、又はその意図に反する動作をさせるべき不正な指令を与える電磁的記録を受信させる行為が行われる事象</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">アクセス制御機能を有する特定重要電子計算機に対し、電気通信回線を通じて当該アクセス制御機能に係る他人の識別符号が入力される事象（当該アクセス制御機能を付加したアクセス管理者（不正アクセス禁止法第二条第一項に規定するアクセス管理者をいう。以下このロ及びハにおいて同じ。）によりされるもの、当該アクセス管理者又は当該識別符号に係る同条第二項に規定する利用権者の承諾を得てされるもの及び国立研究開発法人情報通信研究機構法（平成十一年法律第百六十二号）第十八条第六項第一号に規定する認可特定アクセス行為等実施計画に基づき同条第一項第一号に掲げる業務に従事する者がする同条第七項第一号に規定する特定アクセス行為を除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">アクセス制御機能を有する特定重要電子計算機に対し、電気通信回線を通じて当該アクセス制御機能による特定利用（不正アクセス禁止法第二条第一項に規定する特定利用をいう。ニにおいて同じ。）の制限を免れることができる情報（識別符号であるものを除く。）又は指令が入力される事象（当該アクセス制御機能を付加したアクセス管理者によりされるもの及び当該アクセス管理者の承諾を得てされるものを除く。ニにおいて同じ。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">電気通信回線で直接又は間接に接続されている他の特定重要電子計算機が有するアクセス制御機能によりその特定利用を制限されている電子計算機に対し、電気通信回線を通じてその制限を免れることができる情報又は指令が入力される事象</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">不正アクセス禁止法第二条第四項第一号に該当する行為の用に供する目的で、特定重要電子計算機のアクセス制御機能に係る他人の識別符号が取得される事象（当該特定重要電子計算機のサイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。次項第三号において同じ。）を害することによって行われるものに限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定侵害事象又はイからホまでに掲げる事象の痕跡が記録される事象</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">前号に掲げる特定重要電子計算機以外の特定重要電子計算機</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">特定侵害事象の痕跡が記録される事象</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第五条の規定による報告は、特定侵害事象又は前項の事象（次に掲げる事象を除く。以下この条において「特定侵害事象等」という。）の発生を認知した後、速やかに、特別社会基盤事業所管大臣及び内閣総理大臣に次項に掲げる事項（同項第三号から第七号までに掲げる事項については、報告をしようとする時点において認知しているものに限る。）を記載した報告書（特別社会基盤事業所管大臣及び内閣総理大臣が定める様式による報告書をいう。以下この項において同じ。）を提出するとともに、当該特定侵害事象等の発生を認知した日から三十日以内に、特別社会基盤事業所管大臣及び内閣総理大臣に次項に掲げる事項を記載した報告書を提出して行うものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別社会基盤事業者（経済安全保障推進法第五十三条第一項各号のいずれかに掲げる事由により経済安全保障推進法第五十条第一項の主務省令で定める基準に該当することとなった者を除く。）が同項の規定による指定を受けた日から六月以内に発生した事象（当該指定に係る特定社会基盤事業の用に供される特定重要設備に係る特定重要電子計算機において発生した事象に限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">経済安全保障推進法第五十条第一項の特定重要設備を定める主務省令の改正により新たに特定重要電子計算機となった日から六月以内に発生した事象（当該特定重要電子計算機において発生した事象に限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要電子計算機（一号電子計算機並びに第一条第一項第一号及び第二号に規定するものを除く。）に対する法第二条第四項第三号に該当する行為（刑法（明治四十年法律第四十五号）第二百三十四条の二第二項の罪に当たる行為に係るものに限る。）により、当該特定重要電子計算機のサイバーセキュリティが害される事象（他の特定不正行為（法第二条第四項に規定する特定不正行為をいう。）に係る事象又は当該事象の痕跡が記録される事象に該当するものを除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第五条の主務省令で定める事項は、次に掲げるもの（特定侵害事象等の発生を認知した後速やかに報告する場合における第三号から第七号までに掲げる事項については、報告をしようとする時点において認知しているものに限る。）とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">報告の区分</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特別社会基盤事業者の概要</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定侵害事象等の概要</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定侵害事象等が発生した特定重要電子計算機</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定侵害事象等に関する技術的な事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定侵害事象等への対応に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">その他特記事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令は、法の施行の日（令和八年十月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令の施行の際現に導入されている特定重要設備に係る特定重要電子計算機（この命令の施行の際現に導入されている特定重要電子計算機を除く。）であって、当該施行の日から二月以内に導入したものに対する第二条第一項の規定の適用については、同項中「当該特定重要電子計算機を導入した日から四月以内」とあるのは、「この命令の施行の日から六月以内」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年八月三一日内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令は、経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律及び株式会社国際協力銀行法の一部を改正する法律附則第一条第三号に掲げる規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令の施行の日前に経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（令和四年法律第四十三号）第五十条第一項の指定を受けた者に対するこの命令による改正後の第二条第二項の規定の適用については、同項中「する。ただし、当該特別社会基盤事業者が経済安全保障推進法第五十三条第一項各号のいずれかに掲げる事由により経済安全保障推進法第五十条第一項の主務省令で定める基準に該当することとなった者である場合は、この限りでない」とあるのは、「する」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令の施行の日前に経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律第五十条第一項の指定を受けた者に対するこの命令による改正後の第四条第二項第一号の規定の適用については、同号中「特別社会基盤事業者（経済安全保障推進法第五十三条第一項各号のいずれかに掲げる事由により経済安全保障推進法第五十条第一項の主務省令で定める基準に該当することとなった者を除く。）が同項」とあるのは、「特別社会基盤事業者が経済安全保障推進法第五十条第一項」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
+      <RelatedArticleNum>（第二条第一項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000084985.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第二</AppdxStyleTitle>
+      <RelatedArticleNum>（第三条第一項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000084986.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>
