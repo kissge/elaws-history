@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="049" Year="33" PromulgateMonth="09" PromulgateDay="16">
-  <LawNum>昭和三十三年大蔵省令第四十九号</LawNum>
-  <LawBody>
-    <LawTitle Kana="とくていのすいとうかんりのすいとうほかんにかんするとくべつとりあつかいきそく" Abbrev="" AbbrevKana="">特定の出納官吏の出納保管に関する特別取扱規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="33" Num="049" PromulgateMonth="09" PromulgateDay="16" LawType="MinisterialOrdinance"><LawNum>昭和三十三年大蔵省令第四十九号</LawNum><LawBody><LawTitle Kana="とくていのすいとうかんりのすいとうほかんにかんするとくべつとりあつかいきそく" Abbrev="" AbbrevKana="">特定の出納官吏の出納保管に関する特別取扱規則</LawTitle>
     <EnactStatement>予算決算及び会計令（昭和二十二年勅令第百六十五号）第百十四条及び第百四十四条の規定に基き、特定の出納官吏の出納保管に関する特別取扱規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -11,14 +8,27 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">財務大臣の指定する分任収入官吏は、その領収した現金（証券を以てする歳入納付に関する法律（大正五年法律第十号）により現金に代えて納付される証券を含む。以下同じ。）で当該領収日に日本銀行（本店、支店、代理店又は歳入代理店をいう。以下同じ。）に払込みできないものがあるときは、これを当該領収日において別紙第一号書式の歳入金現金払込書を添えて主任収入官に払い込むものとする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">財務大臣の指定する分任収入官吏は、その領収した現金（証券を以てする歳入納付に関する法律（大正五年法律第十号）により現金に代えて納付される証券を含む。以下同じ。）で当該領収日に日本銀行（本店、支店、代理店又は歳入代理店をいう。以下同じ。）に払込みできないものがあるときは、これを当該領収日において別紙第一号書式の歳入金現金払込書を添えて主任収入官吏に払い込むものとする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、分任収入官吏が在勤庁外で現金を領収した場合において、当該領収日に帰庁できないときその他当該領収日に主任収入官吏に払い込むことができない特別の事由があるときは、主任収入官吏に払い込む場合にあつては出納官吏事務規程（昭和二十二年大蔵省令第九十五号）第十七条又は第十九条の規定による払込期限の前日までの間において（払込期限が領収日の翌日であるときは、当該日において）、日本銀行に払い込む場合にあつては当該払込期限までの間において、払込みができることとなつた後、すみやかに払込みをすることを妨げない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">主任収入官吏は、前項の規定により分任収入官吏から領収現金の払込みを受けたときは、これをその払込みを受けた日の翌日（当該日が日曜日若しくは土曜日、国民の祝日に関する法律（昭和二十三年法律第百七十八号）に規定する休日又は一月二日、同月三日若しくは十二月三十一日に当たるときは、これらの日の翌日を当該日とみなす。）までに出納官吏事務規程第十七条に規定する現金払込書を添えて日本銀行に払い込まなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合において、国税局の分任収入官吏がその領収した現金を払い込むときは、歳入金現金払込書の添付に代えて、当該書面を送信（書面等の情報を電子情報処理組織（国税局の主任収入官吏及び分任収入官吏がその所掌に属する歳入の収納に関する事務を処理するため、財務省に設置される電子計算機と国税局の主任収入官吏及び分任収入官吏の所在する官署に設置される入出力装置とを電気通信回線で接続した電子情報処理組織をいう。以下この条において同じ。）を使用して電気通信回線を通じて転送することをいう。以下この条において同じ。）することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該払込みは、当該書面を添えて行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">主任収入官吏は、第一項の規定により分任収入官吏から歳入金現金払込書を添えて領収現金の払込みを受けたときは、別紙第一号書式の領収証書を分任収入官吏に交付し、前項の規定により国税局の分任収入官吏から歳入金現金払込書の送信を受けて、領収現金の払込みを受けたときは、領収現金を領収した旨を電子情報処理組織に記録し、記録した旨を分任収入官吏に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">主任収入官吏は、第一項の規定により分任収入官吏から領収現金の払込みを受けたときは、これをその払込みを受けた日の翌日（当該日が日曜日若しくは土曜日、国民の祝日に関する法律（昭和二十三年法律第百七十八号）に規定する休日又は一月二日、同月三日若しくは十二月三十一日に当たるときは、これらの日の翌日を当該日とみなす。）までに出納官吏事務規程第十七条に規定する現金払込書を添えて日本銀行に払い込まなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -50,11 +60,24 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">主任国税収納官吏は、前項の規定により分任国税収納官吏から領収現金の払込みを受けたときは、これをその払込みを受けた日の翌日（当該日が日曜日若しくは土曜日、国民の祝日に関する法律に規定する休日又は一月二日、同月三日若しくは十二月三十一日に当たるときは、これらの日の翌日を当該日とみなす。）までに国税収納金整理資金事務取扱規則第六十二条第一項に規定する国税収納金整理資金現金払込書を添えて日本銀行に払い込まなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合において、分任国税収納官吏がその領収した現金を払い込むときは、国税収納金等現金払込書の添付に代えて、当該書面を送信（書面等の情報を電子情報処理組織（主任国税収納官吏及び分任国税収納官吏がその所掌に属する国税等（国税収納金整理資金に関する法律（昭和二十九年法律第三十六号）第八条第一項に規定する国税等をいう。）の収納に関する事務を処理するため、財務省に設置される電子計算機と主任国税収納官吏及び分任国税収納官吏の所在する官署に設置される入出力装置とを電気通信回線で接続した電子情報処理組織をいう。以下この条において同じ。）を使用して電気通信回線を通じて転送することをいう。以下この条において同じ。）することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該払込みは、当該書面を添えて行われたものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">主任国税収納官吏は、第一項の規定により分任国税収納官吏から国税収納金等現金払込書を添えて領収現金の払込みを受けたときは、別紙第二号書式の領収証書を分任国税収納官吏に交付し、前項の規定により分任国税収納官吏から国税収納金等現金払込書の送信を受けて、領収現金の払込みを受けたときは、領収現金を領収した旨を電子情報処理組織に記録し、記録した旨を分任国税収納官吏に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">主任国税収納官吏は、第一項の規定により分任国税収納官吏から領収現金の払込みを受けたときは、これをその払込みを受けた日の翌日（当該日が日曜日若しくは土曜日、国民の祝日に関する法律に規定する休日又は一月二日、同月三日若しくは十二月三十一日に当たるときは、これらの日の翌日を当該日とみなす。）までに国税収納金整理資金事務取扱規則第六十二条第一項に規定する国税収納金整理資金現金払込書を添えて日本銀行に払い込まなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前条の規定は、第一項に規定する分任国税収納官吏又はその主任国税収納官吏が国税収納金整理資金事務取扱規則第六十三条第一項の規定により国税収納金整理資金現金払込仕訳書を作成する場合について準用する。</Sentence>
           </ParagraphSentence>
@@ -213,11 +236,28 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年九月一〇日財務省令第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和八年九月二十四日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際、現に存するこの省令による改正前の書式による用紙は、当分の間、これを使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S33F03401000049_2103251403_001.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -225,7 +265,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S33F03401000049_2103251403_002.pdf"/>
+          <Fig src="./pict/2FH00000046775.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -233,7 +273,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S33F03401000049_2103251403_003.pdf"/>
+          <Fig src="./pict/2FH00000046776.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
