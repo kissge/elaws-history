@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="039" Year="29" PromulgateMonth="05" PromulgateDay="31"><LawNum>昭和二十九年大蔵省令第三十九号</LawNum><LawBody><LawTitle Kana="こくぜいしゅうのうきんせいりしきんじむとりあつかいきそく" Abbrev="" AbbrevKana="">国税収納金整理資金事務取扱規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="29" Num="039" PromulgateMonth="05" PromulgateDay="31" LawType="MinisterialOrdinance"><LawNum>昭和二十九年大蔵省令第三十九号</LawNum><LawBody><LawTitle Kana="こくぜいしゅうのうきんせいりしきんじむとりあつかいきそく" Abbrev="" AbbrevKana="">国税収納金整理資金事務取扱規則</LawTitle>
     <EnactStatement>会計法第三十九条及び第四十五条、国税収納金整理資金に関する法律第八条第四項、第十条第三項及び第十三条第五項、予算決算及び会計令第百十一条第一項、第百十四条、第百三十七条及び第百四十四条並びに国税収納金整理資金に関する法律施行令第四条、第二十六条第二項、第三十条第二項、第三十三条第二項及び第三十九条の規定に基き、国税収納金整理資金事務取扱規則を次のように定める。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -1237,8 +1237,8 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">日本銀行所在地に在勤する国税収納官吏は、その在勤地において現金を領収したときは、第十九号書式の国税収納金整理資金現金払込書（以下「資金現金払込書」という。）を添え、現金領収の日又はその翌日において日本銀行に払い込まなければならない。</Sentence>
-                <Sentence Function="main" Num="2" WritingMode="vertical">ただし、領収した現金で日本銀行に払い込む金額のうち五万円までは、現金領収の日から起算して五日以内に払込みをすることができる。</Sentence>
-                <Sentence Function="proviso" Num="3" WritingMode="vertical">この場合において、現金領収の日から起算して五日以内に払込みをする金額の総額は、五万円を限度とする。</Sentence>
+                <Sentence Function="main" Num="2" WritingMode="vertical">ただし、領収した現金で日本銀行に払い込む金額のうち二十万円までは、現金領収の日から起算して五日以内に払込みをすることができる。</Sentence>
+                <Sentence Function="proviso" Num="3" WritingMode="vertical">この場合において、現金領収の日から起算して五日以内に払込みをする金額の総額は、二十万円を限度とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1695,7 +1695,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をしたとき又はセンター国税資金支払命令官等により第七十六条第三項の振込に係る手続がなされたときは、第二十三号書式（その一）、同書式（その二）又は同書式（その三）の国庫金振込通知書を債権者に送付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をしたとき又はセンター国税資金支払命令官等により第七十六条第三項の振込みに係る手続がなされたときは、第二十三号書式（その一）、同書式（その二）、同書式（その三）又は同書式（その四）の国庫金振込通知書を債権者に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1708,7 +1708,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をする場合又はセンター国税資金支払命令官等により第七十六条第三項の振込に係る手続がなされる場合において、特に必要があると認めるときは、あらかじめ第二十三号書式（その一）、同書式（その二）又は同書式（その三）の国庫金振込通知書を債権者に送付することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をする場合又はセンター国税資金支払命令官等により第七十六条第三項の振込みに係る手続がなされる場合において、特に必要があると認めるときは、あらかじめ第二十三号書式（その一）、同書式（その二）、同書式（その三）又は同書式（その四）の国庫金振込通知書を債権者に送付することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -3760,11 +3760,29 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxFormat Num="1">
+    <SupplProvision AmendLawNum="令和八年九月一〇日財務省令第五九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和八年九月二十四日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三条中国税収納金整理資金事務取扱規則第八条第二項の改正規定及び第六条の規定は、令和九年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際、現に存するこの省令による改正前の書式による用紙は、当分の間、これを使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3772,11 +3790,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="4">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3784,11 +3802,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="5">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第５号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="6">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3796,7 +3814,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="7">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第７号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3804,7 +3822,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="8">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3812,7 +3830,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="8_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第８号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3820,7 +3838,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="9">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3828,7 +3846,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="9_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第９号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3836,7 +3854,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="10">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3844,7 +3862,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="11">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3852,7 +3870,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="12">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3860,7 +3878,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="13">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3868,7 +3886,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="13_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１３号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3876,7 +3894,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="14">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3884,7 +3902,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="15">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１５号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3892,7 +3910,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="16">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3900,19 +3918,19 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="17">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１７号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="18">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046971.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="18_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１８号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3920,7 +3938,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="19">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3928,7 +3946,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="20">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3936,7 +3954,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="21">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3944,42 +3962,51 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="22">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046976.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="23">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２３号書式</AppdxFormatTitle>
       <RelatedArticleNum>（その１）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046977.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="23">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２３号書式</AppdxFormatTitle>
       <RelatedArticleNum>（その２）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046978.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="23">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２３号書式</AppdxFormatTitle>
       <RelatedArticleNum>（その３）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046979.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="23_2">
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第２３号書式</AppdxFormatTitle>
+      <RelatedArticleNum>（その４）</RelatedArticleNum>
+      <FormatStruct>
+        <Format>
+          <Fig src=""/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２３号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -3987,35 +4014,35 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="24">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046981.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="25">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２５号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046982.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="25_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２５号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046983.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="27">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２６号書式及び第２７号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="28">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4023,7 +4050,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="28_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２８号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4031,7 +4058,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="29">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第２９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4039,15 +4066,15 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="30">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/2FH00000046987.pdf"/>
+          <Fig src=""/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="30_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３０号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4055,7 +4082,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="30_3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３０号の３書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4063,7 +4090,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="31">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4071,7 +4098,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="31_2">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３１号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4079,7 +4106,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="31_3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３１号の３書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4087,7 +4114,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="31_4">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３１号の４書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4095,11 +4122,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxStyle Num="35_2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３２号書式から第３５号の２書式まで</AppdxStyleTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxStyle>
-    <AppdxFormat Num="35_3">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３５号の３書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4107,7 +4134,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="36">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4115,11 +4142,11 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="37">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３７号書式</AppdxFormatTitle>
       <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxFormat>
-    <AppdxFormat Num="38">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4127,7 +4154,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="39">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4135,7 +4162,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="40">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第４０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4143,7 +4170,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="41">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第４１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4151,7 +4178,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="42">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第４２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
@@ -4159,7 +4186,7 @@
         </Format>
       </FormatStruct>
     </AppdxFormat>
-    <AppdxFormat Num="43">
+    <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第４３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
