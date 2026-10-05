@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Reiwa" Year="04" Num="075" LawType="MinisterialOrdinance" Lang="ja" PromulgateMonth="12" PromulgateDay="28"><LawNum>令和四年農林水産省令第七十五号</LawNum><LawBody><LawTitle Kana="のうりんすいさんしょうかんけいけいざいしさくをいったいてきにこうずることによるあんぜんほしょうのかくほのすいしんにかんするほうりつにもとづくきょうきゅうかくほけいかくのにんていとうにかんするしょうれい" Abbrev="" AbbrevKana="">農林水産省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令</LawTitle>
+<Law Lang="ja" Era="Reiwa" Year="04" Num="075" PromulgateMonth="12" PromulgateDay="28" LawType="MinisterialOrdinance"><LawNum>令和四年農林水産省令第七十五号</LawNum><LawBody><LawTitle Kana="のうりんすいさんしょうかんけいけいざいしさくをいったいてきにこうずることによるあんぜんほしょうのかくほのすいしんにかんするほうりつにもとづくきょうきゅうかくほけいかくのにんていとうにかんするしょうれい" Abbrev="" AbbrevKana="">農林水産省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令</LawTitle>
     <EnactStatement>経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（令和四年法律第四十三号）第九条第一項、第三項第九号及び第四項第四号、第十条第一項、第十二条並びに第九十一条の規定に基づき、並びに同法を実施するため、農林水産省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -269,6 +269,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="8_2">
+        <ArticleCaption>（関係者に対する協力の求めの申出）</ArticleCaption>
+        <ArticleTitle>第八条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">認定供給確保事業者は、法第十一条の二第一項の規定による申出をしようとするときは、様式第十二の二による申出書を農林水産大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="9">
         <ArticleCaption>（供給確保計画の実施状況の報告）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
@@ -285,7 +295,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">認定供給確保事業者は、認定供給確保計画に記載された取組の実施に著しい支障が生じ、又は生ずるおそれがあると認めたときは、遅滞なく、農林水産大臣にその旨を報告しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">認定供給確保事業者は、法第十一条の二第一項の規定による申出をする場合を除き、認定供給確保計画に記載された取組の実施に著しい支障が生じ、又は生ずるおそれがあると認めたときは、遅滞なく、農林水産大臣にその旨を報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -299,16 +309,25 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle Num="1">
+    <SupplProvision AmendLawNum="令和八年九月一八日農林水産省令第六七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律及び株式会社国際協力銀行法の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（令和八年九月十八日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065507.pdf"/>
+          <Fig src="./pict/2FH00000087910.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="2">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第二</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -317,7 +336,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="3">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第三</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -326,7 +345,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="4">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第四</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第３項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -335,7 +354,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="5">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第五</AppdxStyleTitle>
       <RelatedArticleNum>（第５条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -344,7 +363,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="6">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第六</AppdxStyleTitle>
       <RelatedArticleNum>（第５条第４項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -353,7 +372,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="7">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第七</AppdxStyleTitle>
       <RelatedArticleNum>（第５条第５項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -362,7 +381,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="8">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第八</AppdxStyleTitle>
       <RelatedArticleNum>（第５条第６項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -371,7 +390,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="9">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第九</AppdxStyleTitle>
       <RelatedArticleNum>（第６条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -380,7 +399,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="10">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十</AppdxStyleTitle>
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
@@ -389,7 +408,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="11">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十一</AppdxStyleTitle>
       <RelatedArticleNum>（第８条第１項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -398,7 +417,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="12">
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十二</AppdxStyleTitle>
       <RelatedArticleNum>（第８条第２項関係）</RelatedArticleNum>
       <StyleStruct>
@@ -407,7 +426,16 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="13">
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十二の二</AppdxStyleTitle>
+      <RelatedArticleNum>（第８条の２関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000087911.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第十三</AppdxStyleTitle>
       <RelatedArticleNum>（第９条第１項関係）</RelatedArticleNum>
       <StyleStruct>
