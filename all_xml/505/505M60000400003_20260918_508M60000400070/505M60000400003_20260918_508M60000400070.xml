@@ -123,7 +123,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">特定重要物資等の供給能力の維持若しくは強化に資する投資又は依存の低減の実現に資する設備投資、研究開発その他の措置</Sentence>
+              <Sentence Num="1" WritingMode="vertical">特定重要物資等の供給能力又は特定重要物資等供給不可欠役務の提供能力の維持若しくは強化に資する投資又は依存の低減の実現に資する設備投資、研究開発その他の措置</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -318,8 +318,18 @@
         </Paragraph>
       </Article>
       <Article Num="9">
-        <ArticleCaption>（定期の報告）</ArticleCaption>
+        <ArticleCaption>（関係者に対する協力の求めの申出）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第十一条の二第一項の規定による申出をしようとする認定供給確保事業者は、様式第十二の二による申出書を経済産業大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（定期の報告）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -327,13 +337,14 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="10">
+      <Article Num="11">
         <ArticleCaption>（取組の実施の支障時等の報告）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
+        <ArticleTitle>第十一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">認定供給確保事業者は、認定供給確保計画に記載された取組の実施に著しい支障が生じ、又は生ずるおそれがあると認めたときは、遅滞なく、経済産業大臣にその旨を報告しなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">認定供給確保事業者は、認定供給確保計画に記載された取組の実施に著しい支障が生じ、又は生ずるおそれがあると認めたときは、遅滞なく、経済産業大臣にその旨を報告しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第十一条の二第一項の規定による申出をする場合はこの限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -365,12 +376,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年九月一八日経済産業省令第七〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律及び株式会社国際協力銀行法の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（令和八年九月十八日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000065683.pdf"/>
+          <Fig src="./pict/2FH00000087895.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -470,6 +490,15 @@
       <StyleStruct>
         <Style>
           <Fig src="./pict/2FH00000065694.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第十二の二</AppdxStyleTitle>
+      <RelatedArticleNum>（第１１条の２関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000087896.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
