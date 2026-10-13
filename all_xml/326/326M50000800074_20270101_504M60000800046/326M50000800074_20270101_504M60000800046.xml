@@ -2624,13 +2624,19 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">自家用又は事業用の別等を表示する平仮名又はローマ字（別表第三）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">一字のローマ字及び一桁のアラビア数字</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">四けた以下のアラビア数字</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">自動車運送事業の用に供するかどうかの別等を表示する平仮名又はローマ字（別表第三）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">四桁以下のアラビア数字</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -6945,7 +6951,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">検査対象外軽自動車の用途による分類番号を表示するアラビア数字</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検査対象外軽自動車の用途による分類番号を表示する二桁以下のアラビア数字</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -6957,7 +6963,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">自家用又は事業用の別等を表示する平仮名又はローマ字</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自動車運送事業の用に供するかどうかの別等を表示する平仮名又はローマ字</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -12293,6 +12299,35 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年九月二八日国土交通省令第七六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和八年十月十九日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行前に道路運送車両法の規定により指定を受けた車両番号であって、この省令の施行により新たに道路運送車両法施行規則第三十六条の十八第一項及び第四十五条第一項の表第三号に規定する基準に適合しなくなったものについては、これらの規定に規定する基準に適合するものとみなすことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の道路運送車両法施行規則軽二輪第一号様式、軽二輪第二号様式、軽二輪第四号様式及び軽二輪第五号様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
@@ -12706,7 +12741,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">１　事業用自動車</Sentence>
+              <Sentence Num="1" WritingMode="vertical">１　自動車運送事業の用に供する自動車</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">ゆりれ</Sentence>
@@ -12717,11 +12752,7 @@
               <Sentence Num="1" WritingMode="vertical">２　自家用自動車（次号及び第４号に規定するものを除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（１）　次に掲げる文字</Sentence>
-              <Sentence Num="2" WritingMode="vertical">あいうえかきくけこさすせそたちつてとなにぬねのはひふほまみむめもやらるを</Sentence>
-              <Sentence Num="3" WritingMode="vertical">（２）　次に掲げる文字をその順序により組み合わせたもの</Sentence>
-              <Sentence Num="4" WritingMode="vertical">イ　ＣＬＶ</Sentence>
-              <Sentence Num="5" WritingMode="vertical">ロ　（１）に掲げる文字</Sentence>
+              <Sentence Num="1" WritingMode="vertical">あいうえかきくけこさすせそたちつてとなにぬねのはひふほまみむめもやらるを</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15059,7 +15090,7 @@
       <RelatedArticleNum>（車両番号標）（第四十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000003959.pdf"/>
+          <Fig src="./pict/2FH00000087925.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15068,7 +15099,7 @@
       <RelatedArticleNum>（車両番号標）（第六十三条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000030309.pdf"/>
+          <Fig src="./pict/2FH00000087926.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15154,19 +15185,19 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">軽二輪第一号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（／軽自動車届出書／軽自動車届出済証記入申請書／）（第六十三条の十関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六十三条の十関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000036796.pdf"/>
+          <Fig src="./pict/2FH00000087927.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">軽二輪第二号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（軽自動車届出済証記入申請書）（第六十三条の十関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六十三条の十関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000036805.pdf"/>
+          <Fig src="./pict/2FH00000087928.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15181,19 +15212,19 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">軽二輪第四号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（軽自動車届出済証再交付申請書）（第六十三条の十関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六十三条の十関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000036803.pdf"/>
+          <Fig src="./pict/2FH00000087929.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">軽二輪第五号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（軽自動車届出済証返納証明書申請書）（第六十三条の十関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第六十三条の十関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000036807.pdf"/>
+          <Fig src="./pict/2FH00000087930.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
