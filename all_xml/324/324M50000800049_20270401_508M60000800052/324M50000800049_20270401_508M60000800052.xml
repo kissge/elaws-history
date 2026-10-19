@@ -1420,7 +1420,7 @@
                         <Sentence Num="1" WritingMode="vertical">日本国内に住所を有しない外国人である旅客</Sentence>
                       </Column>
                       <Column Num="2">
-                        <Sentence Num="1" WritingMode="vertical">国籍及び旅券番号</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">国籍等（住民基本台帳法（昭和四十二年法律第八十一号）第三十条の四十五に規定する国籍等をいう。以下同じ。）及び旅券番号</Sentence>
                       </Column>
                     </Subitem1Sentence>
                   </Subitem1>
@@ -2709,7 +2709,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">住所若しくは住民票に記載されている市区町村名又は国籍及び旅券番号</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">住所若しくは住民票に記載されている市区町村名又は国籍等及び旅券番号</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -5424,7 +5424,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該船舶が国籍を有する国において、当該国以外の国の国籍を有する者又は当該国以外の国の法令により設立された法人その他の団体への船舶の譲渡の禁止、緊急時における当該国の国籍を有する船舶に対する徴用その他これらに類する措置が行われていないこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該船舶が国籍を有する国において、当該国以外の国若しくは地域（出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二条第五号ロに規定する地域をいう。第三十八条において同じ。）に属する国籍を有する者又は当該国以外の国の法令により設立された法人その他の団体への船舶の譲渡の禁止、緊急時における当該国の国籍を有する船舶に対する徴用その他これらに類する措置が行われていないこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -5775,7 +5775,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三十八条第七項の国土交通省令で定める事由は、準日本船舶が国籍を有する国において、当該国以外の国の国籍を有する者又は当該国以外の国の法令により設立された法人その他の団体への船舶の譲渡の禁止、緊急時における当該国の国籍を有する船舶に対する徴用その他これらに類する措置が行われたこととする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十八条第七項の国土交通省令で定める事由は、準日本船舶が国籍を有する国において、当該国以外の国若しくは地域に属する国籍を有する者又は当該国以外の国の法令により設立された法人その他の団体への船舶の譲渡の禁止、緊急時における当該国の国籍を有する船舶に対する徴用その他これらに類する措置が行われたこととする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6387,7 +6387,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">譲渡人及び譲受人の住所及び氏名並びに国籍</Sentence>
+                <Sentence Num="1" WritingMode="vertical">譲渡人及び譲受人の住所及び氏名並びに国籍等</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -7009,7 +7009,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">譲渡（貸渡）人及び譲受（借受）人の住所及び氏名並びに譲受（借受）人の国籍</Sentence>
+                <Sentence Num="1" WritingMode="vertical">譲渡（貸渡）人及び譲受（借受）人の住所及び氏名並びに譲受（借受）人の国籍等</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -8993,6 +8993,23 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年一〇月一日国土交通省令第八二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にあるこの省令による改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
@@ -9589,7 +9606,7 @@
       <RelatedArticleNum>（第２３条の１５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000045079.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9598,7 +9615,7 @@
       <RelatedArticleNum>（第２３条の１６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000064626.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
