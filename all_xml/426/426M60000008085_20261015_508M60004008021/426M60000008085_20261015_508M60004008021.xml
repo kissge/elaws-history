@@ -1078,7 +1078,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">次のイからトまで（本人の写真が表示されていない個人番号カードの交付を受けている場合にあっては、イからヘまで）に掲げるカード代替記録事項に係る電磁的記録及び当該電磁的記録のそれぞれに付されたカード代替記録事項に係る電磁的記録の作成ごとに作成される符号（以下「カード代替記録乱数符号」という。）を主務大臣が定める基準に従い変換した符号（第三十九条の五第五項第一号において「カード代替記録事項等変換符号」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次のイからトまで（本人の写真が表示されていない個人番号カードの交付を受けている場合にあっては、イからヘまで）に掲げるカード代替記録事項に係る電磁的記録及び当該電磁的記録のそれぞれに付されたカード代替記録事項に係る電磁的記録の作成ごとに作成される符号（以下「カード代替記録乱数符号」という。）を主務大臣が定める基準に従い変換した符号（第三十九条の五第五項において「カード代替記録事項等変換符号」という。）</Sentence>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -1132,7 +1132,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">機構がカード代替電磁的記録を発行するに際して電子署名を行うために用いる符号（以下「カード代替電磁的記録発行者署名符号」という。）と機構の使用に係る電子計算機を用いて作成されることにより対応する符号であって、第三十九条の五第五項第一号に規定する電子署名がカード代替電磁的記録発行者署名符号を用いて行われたものであることを確認するために用いられるもの（以下「カード代替電磁的記録発行者署名検証符号」という。）に係る情報</Sentence>
+                <Sentence Num="1" WritingMode="vertical">機構がカード代替電磁的記録を発行するに際して電子署名を行うために用いる符号（以下「カード代替電磁的記録発行者署名符号」という。）と機構の使用に係る電子計算機を用いて作成されることにより対応する符号であって、第三十九条の五第五項に規定する電子署名がカード代替電磁的記録発行者署名符号を用いて行われたものであることを確認するために用いられるもの（以下「カード代替電磁的記録発行者署名検証符号」という。）に係る情報</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1197,29 +1197,23 @@
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定による送信を受けた機構は、機構の使用に係る電子計算機の操作により、次に掲げる措置を講じるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による送信を受けた機構は、機構の使用に係る電子計算機の操作により、法第十八条の二第二項の規定により送信を受けたカード代替記録事項に係るカード代替記録事項等変換符号及び前項の規定により送信を受けたカード代替電磁的記録利用者検証符号に対し、カード代替電磁的記録発行者署名符号を用いて電子署名を行うものとする。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第十八条の二第二項の規定により送信を受けたカード代替記録事項に係るカード代替記録事項等変換符号及び前項の規定により送信を受けたカード代替電磁的記録利用者検証符号に対し、カード代替電磁的記録発行者署名符号を用いて電子署名を行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録発行者署名検証符号に係る情報に対し、特定カード代替電磁的記録発行者署名符号（機構がカード代替電磁的記録を発行するに際して電子署名を行うために用いるカード代替電磁的記録発行者署名符号以外の符号であって、特定カード代替電磁的記録発行者署名検証符号（送信を受けたカード代替電磁的記録が真正なものであることを確認するために用いられる符号をいう。第三十九条の二十六第一号において同じ。）と機構の使用に係る電子計算機を用いて作成されることにより対応するものをいう。第三十九条の十一第二項において同じ。）を用いて電子署名を行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第十八条の二第三項の規定によるカード代替電磁的記録の発行は、機構の使用に係る電子計算機の操作によるものとし、発行するカード代替電磁的記録の数は、二以上とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、主務大臣が定める期間ごとに、機構の使用に係る電子計算機の操作により、カード代替電磁的記録発行者署名検証符号に係る情報に対し、特定カード代替電磁的記録発行者署名符号（機構がカード代替電磁的記録を発行するに際して電子署名を行うために用いるカード代替電磁的記録発行者署名符号以外の符号であって、特定カード代替電磁的記録発行者署名検証符号（送信を受けたカード代替電磁的記録が真正なものであることを確認するために用いられる符号をいう。第三十九条の二十六第一号において同じ。）と機構の使用に係る電子計算機を用いて作成されることにより対応するものをいう。第三十九条の十一第二項において同じ。）を用いて電子署名を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第十八条の二第三項の規定によるカード代替電磁的記録の発行は、機構の使用に係る電子計算機の操作によるものとし、発行するカード代替電磁的記録の数は、二以上とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項に規定する確認の結果の送信及び法第十八条の二第三項の規定によるカード代替電磁的記録の送信並びに第四項の規定によるカード代替電磁的記録利用者検証符号の送信は、申請者の使用に係る移動端末設備又は機構の使用に係る電子計算機から電気通信回線を通じて相手方である機構の使用に係る電子計算機又は相手方である申請者の使用に係る移動端末設備に送信することによって行うものとし、電気通信回線を通じた送信の方法に関する技術的基準については、主務大臣が定める。</Sentence>
             </ParagraphSentence>
@@ -1300,13 +1294,13 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者が、その者に係るカード代替電磁記録を記録した電磁的記録媒体が組み込まれた移動端末設備の使用を停止したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者が、その者に係るカード代替電磁的記録を記録した電磁的記録媒体が組み込まれた移動端末設備の使用を停止したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者が、その者に係るカード代替電磁記録を記録した電磁的記録媒体が組み込まれた移動端末設備を紛失したとき（当該カード代替電磁的記録利用者が、第三十九条の十六第一号の規定による届出を行った場合を除く。）。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者が、その者に係るカード代替電磁的記録を記録した電磁的記録媒体が組み込まれた移動端末設備を紛失したとき（当該カード代替電磁的記録利用者が、第三十九条の十六第一号の規定による届出を行った場合を除く。）。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1328,9 +1322,32 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">発行されたカード代替電磁的記録の全部を送信したとき。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、発行されたカード代替電磁的記録の全部を送信した場合において、カード代替電磁的記録を送信した相手方に当該カード代替電磁的記録を送信することができる状態が継続するときは、当該カード代替電磁的記録を送信した相手方以外の者から新たにカード代替電磁的記録の送信を求められたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次のイ又はロに掲げる法第十八条の三第一項に規定するプログラムが有する機能の区分に応じ、それぞれ当該イ又はロに定める事由に該当するとき。</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三十九条の二十二第五号イに規定する機能</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Function="main" Num="1" WritingMode="vertical">発行されたカード代替電磁的記録の全部を送信した場合において、その旨の通知が機構に到達したとき。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該場合において、第三十九条の二十二第四号の規定に基づき当該カード代替電磁的記録を送信することができる状態が継続するときは、当該状態が終了したとき。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三十九条の二十二第五号ロに規定する機能</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Function="main" Num="1" WritingMode="vertical">発行されたカード代替電磁的記録のうち、送信された当該カード代替電磁的記録に代わる新たなカード代替電磁的記録の発行を求める旨の通知が機構に到達したとき。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、発行されたカード代替電磁的記録の全部を送信した場合において、第三十九条の二十二第四号の規定に基づき当該カード代替電磁的記録を送信することができる状態が継続するときは、当該状態が終了したとき。</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
@@ -1554,7 +1571,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者がカード代替電磁的記録を送信するに際して、カード代替記録事項及びカード代替記録乱数符号に対し、カード代替電磁的記録利用者符号を用いて電子署名を行う機能を有するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">カード代替電磁的記録利用者がカード代替電磁的記録を送信するに際して、カード代替記録事項に係る電磁的記録及びカード代替記録乱数符号に対し、カード代替電磁的記録利用者符号を用いて電子署名を行う機能を有するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1566,23 +1583,41 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">過去にカード代替電磁的記録の送信を行った相手方以外の者に対しては、当該送信されたカード代替電磁的記録を送信しない機能を有するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">過去にカード代替電磁的記録の送信を行った相手方以外の者からの送信の求めに対して、当該過去に送信を行ったカード代替電磁的記録を送信しなければ、当該送信の求めに対し、速やかに送信することができない状況にある場合を除き、過去にカード代替電磁的記録の送信を行った相手方以外の者に対しては、当該送信されたカード代替電磁的記録を送信しない機能を有するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">過去にカード代替電磁的記録の送信を行った相手方以外の者に対するカード代替電磁的記録の送信を行うことができなくなった場合には、機構に対してその旨の通知を送信する機能を有するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">機構に対する通知を送信する機能として次のいずれかの機能を有するものであること。</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">発行されたカード代替電磁的記録の全部を送信した場合には、機構に対してその旨の通知を送信する機能</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">発行されたカード代替電磁的記録のうち、送信された当該カード代替電磁的記録の数を確認し、機構に対し、直ちに当該カード代替電磁的記録に代わる新たなカード代替電磁的記録の発行を求める旨の通知を送信する機能</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">法第十八条の四第一項及び第二項に規定するプログラムと正常に通信できる機能を有するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前号ロに規定する機能を有する場合は、機構がカード代替電磁的記録の有効期間が満了したことを把握するための機能を有するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法第十八条の四第一項及び第二項に規定するプログラムと正常に通信できる機能を有するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">前号の通信を暗号化して行う機能を有するものであること。</Sentence>
               </ItemSentence>
@@ -1621,7 +1656,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第十八条の四第一項第一号の主務省令で定める措置は、送信を受けたカード代替記録事項及びカード代替記録乱数符号に対して行われた電子署名が、当該カード代替電磁的記録に記録されたカード代替電磁的記録利用者検証符号に対応するカード代替電磁的記録利用者符号を用いて行われたことを確認することとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第十八条の四第一項第一号の主務省令で定める措置は、送信を受けたカード代替記録事項に係る電磁的記録及びカード代替記録乱数符号に対して行われた電子署名が、当該カード代替電磁的記録に記録されたカード代替電磁的記録利用者検証符号に対応するカード代替電磁的記録利用者符号を用いて行われたことを確認することとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1636,13 +1671,13 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の五第五項第二号の規定による電子署名が行われたことを、送信を受けたカード代替電磁的記録に係る特定カード代替電磁的記録発行者署名検証符号により確認すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の五第六項の規定による電子署名が行われたことを、送信を受けたカード代替電磁的記録に係る特定カード代替電磁的記録発行者署名検証符号により確認すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の五第五項第一号の規定による電子署名が行われたことを、送信を受けたカード代替電磁的記録に係るカード代替電磁的記録発行者署名検証符号により確認すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の五第五項の規定による電子署名が行われたことを、送信を受けたカード代替電磁的記録に係るカード代替電磁的記録発行者署名検証符号により確認すること。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3648,6 +3683,23 @@
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この命令は、出入国管理及び難民認定法等の一部を改正する法律の施行の日（令和八年六月十四日）から施行する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条中行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令第二十二条の二第三項第一号及び第二十七条第一項の改正規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年一〇月一五日デジタル庁・総務省令第二一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この命令の施行の際現にこの命令による改正前の行政手続における特定の個人を識別するための番号の利用等に関する法律第十八条の三第一項第四号に基づく基準により同項の規定による認定を受けているカード代替電磁的記録の送信を行うためのプログラムを提供する者は、この命令による改正後の同号に基づく基準により同項の規定による認定を受けているカード代替電磁的記録の送信を行うためのプログラムを提供する者とみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
