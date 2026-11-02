@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="007" Year="31" PromulgateMonth="03" PromulgateDay="09">
-  <LawNum>昭和三十一年総理府令第七号</LawNum>
-  <LawBody>
-    <LawTitle Kana="ちほうきはつゆじょうよぜいほうせこうきそく" Abbrev="" AbbrevKana="">地方揮発油譲与税法施行規則</LawTitle>
+<Law Lang="ja" Era="Showa" Year="31" Num="007" PromulgateMonth="03" PromulgateDay="09" LawType="MinisterialOrdinance"><LawNum>昭和三十一年総理府令第七号</LawNum><LawBody><LawTitle Kana="ちほうきはつゆじょうよぜいほうせこうきそく" Abbrev="" AbbrevKana="">地方揮発油譲与税法施行規則</LawTitle>
     <EnactStatement>地方道路譲与税法第二条、第四条及び第五条の規定に基き、地方道路譲与税法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
@@ -1196,7 +1193,7 @@
                 <Sentence Num="1" WritingMode="vertical">前年度末までに官報で公示された国勢調査のうち最近のものの結果による人口</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">平成二十二年の国勢調査の結果による当該市町村の人口の確定数に、令和二年九月三十日において住民基本台帳法（昭和四十二年法律第八十一号）に基づき住民基本台帳に記載されている者の数を平成二十二年九月三十日において同法に基づき住民基本台帳に記載されている者の数で除して得た率（次項において「特例率」という。）を乗じて得た人口（次項において「特例人口」という。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">平成二十二年の国勢調査の結果による当該市町村の人口の確定数に、令和七年九月三十日において住民基本台帳法（昭和四十二年法律第八十一号）に基づき住民基本台帳に記載されている者の数を平成二十二年九月三十日において同法に基づき住民基本台帳に記載されている者の数で除して得た率を乗じて得た人口（次項において「特例人口」という。）</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -1240,7 +1237,7 @@
                 <Sentence Num="1" WritingMode="vertical">当該人口をいう。以下この条</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">従業地、通学地による人口に特例率を乗じて得た人口をいう。以下この項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">従業地、通学地による人口に、令和二年九月三十日において住民基本台帳法に基づき住民基本台帳に記載されている者の数を平成二十二年九月三十日において同法に基づき住民基本台帳に記載されている者の数で除して得た率（以下この項において「特例率」という。）を乗じて得た人口をいう。以下この項</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -1248,10 +1245,10 @@
                 <Sentence Num="1" WritingMode="vertical"/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">常住人口（当該国勢調査の結果による官報で公示された人口をいう。以下この条において同じ。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該市町村の常住人口（当該国勢調査の結果による官報で公示された人口をいう。以下この条において同じ。）</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">特例人口</Sentence>
+                <Sentence Num="1" WritingMode="vertical">平成二十二年の国勢調査の結果による当該市町村の人口の確定数に特例率を乗じて得た人口（以下この項において「特定特例人口」という。）</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -1262,7 +1259,7 @@
                 <Sentence Num="1" WritingMode="vertical">昼間人口から常住人口</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence Num="1" WritingMode="vertical">特例昼間人口から特例人口</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特例昼間人口から特定特例人口</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -1778,6 +1775,17 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年一〇月二一日総務省令第一一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条及び第三条の規定は、令和九年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
