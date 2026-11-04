@@ -71,6 +71,17 @@
               </Column>
             </ItemSentence>
           </Item>
+          <Item Num="4_3">
+            <ItemTitle>四の三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">モバイル網固定電話</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">電気通信事業法施行規則第十四条第五号に規定する電気通信役務をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
@@ -510,6 +521,17 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">様式第五の二</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">モバイル網固定電話</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">モバイル網固定電話を提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">様式第五の三</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -3098,6 +3120,19 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年一〇月二二日総務省令第一二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和八年十一月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>　電気通信役務の種類（第四条の六関係）</RelatedArticleNum>
@@ -3379,6 +3414,15 @@
       <StyleStruct>
         <Style>
           <Fig src="./pict/2FH00000055981.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第５の３</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
