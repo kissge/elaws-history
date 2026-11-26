@@ -4694,12 +4694,18 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の申請書は、医療保険者を経由して提出することができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、当該医療保険者を経由して当該申請書の提出を受けた市町村は、当該医療保険者に対し、同項第三号に掲げる事項並びに第二項第二号及び第三号に掲げる事項に関する情報を提供しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の申請書は、医療保険者を経由して提出することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、国民健康保険法施行規則（昭和三十三年厚生省令第五十三号）第二十七条の二十八又は高齢者の医療の確保に関する法律施行規則（平成十九年厚生労働省令第百二十九号）第七十一条の十一の規定による別段の定めにより医療保険者において支給申請に係る手続が行われた場合にあっては、第一項の申請書は当該医療保険者を経由して提出がされたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により医療保険者を経由して申請書の提出を受けた場合（同項の規定により医療保険者を経由して申請書が提出されたものとみなされた場合を含む。）において、当該申請書の提出を受けた市町村は、当該医療保険者に対し、第一項第三号に掲げる事項並びに第二項第二号及び第三号に掲げる事項に関する情報を提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前各項の規定は、計算期間において市町村が行う介護保険の被保険者であった者に係る高額医療合算介護サービス費の支給について準用する。</Sentence>
               </ParagraphSentence>
@@ -19018,7 +19024,7 @@
                     <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律第十六条の二第一項に規定する匿名医療保険等関連情報（以下「匿名医療保険等関連情報」という。）</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律施行規則（平成十九年厚生労働省令第百二十九号）第五条の五第一項に規定する提供の申出</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律施行規則第五条の五第一項に規定する提供の申出</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -26698,6 +26704,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和八年一一月一二日厚生労働省令第一五三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
